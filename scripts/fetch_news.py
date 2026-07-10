@@ -12,7 +12,7 @@ import json
 import re
 import sys
 from datetime import datetime, timedelta, timezone
-from email.utils import parsedate_to_datetime
+from email.utils import format_datetime, parsedate_to_datetime
 from pathlib import Path
 
 import feedparser
@@ -38,6 +38,10 @@ USER_AGENT = (
     "Mozilla/5.0 (compatible; TaiwanNewsDigest/1.0; "
     "+https://github.com/)"
 )
+BROWSER_UA = (
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+)
 
 
 def gnews(site: str) -> str:
@@ -47,7 +51,71 @@ def gnews(site: str) -> str:
     )
 
 
-# 每個來源可有多個 feed；全部失敗時改用 Google News 站內搜尋 RSS
+def fetch_html(url: str) -> str:
+    # 新聞網站多半會擋非瀏覽器 UA，爬頁面時偽裝成瀏覽器
+    resp = requests.get(url, headers={"User-Agent": BROWSER_UA}, timeout=30)
+    resp.raise_for_status()
+    return resp.text
+
+
+def rel_time_to_rfc2822(text: str):
+    """把「23分鐘前」「6小時前」轉成 RFC2822 時間字串。"""
+    m = re.search(r"(\d+)\s*(分鐘|小時)前", text)
+    if not m:
+        return None
+    n = int(m.group(1))
+    delta = timedelta(minutes=n) if m.group(2) == "分鐘" else timedelta(hours=n)
+    return format_datetime(NOW - delta)
+
+
+def scrape_ebc() -> list:
+    """東森新聞即時頁（無 RSS）：連結帶 title 屬性，摘要在 item_preview。"""
+    page = fetch_html("https://news.ebc.net.tw/realtime")
+    entries, seen = [], set()
+    for m in re.finditer(
+        r'<a href="(/news/\w+/(\d+))"[^>]*title="([^"]+)"', page
+    ):
+        path, art_id, title = m.groups()
+        if art_id in seen:
+            continue
+        seen.add(art_id)
+        tail = page[m.end() : m.end() + 1200]
+        pm = re.search(r'item_preview">\s*(.*?)\s*</div>', tail, re.S)
+        entries.append(
+            {
+                "title": html.unescape(title),
+                "link": f"https://news.ebc.net.tw{path}",
+                "summary": pm.group(1) if pm else "",
+            }
+        )
+    return entries
+
+
+def scrape_tvbs() -> list:
+    """TVBS 即時頁（RSS 已移除）：標題在 h2，發佈時間為相對時間。"""
+    page = fetch_html("https://news.tvbs.com.tw/realtime")
+    entries, seen = [], set()
+    for m in re.finditer(
+        r'<a href="/([a-z]+)/(\d{6,})">(.*?)</a>', page, re.S
+    ):
+        cat, art_id, block = m.groups()
+        tm = re.search(r"<h2[^>]*>([^<]+)</h2>", block)
+        if not tm or art_id in seen:
+            continue
+        seen.add(art_id)
+        entry = {
+            "title": html.unescape(tm.group(1)),
+            "link": f"https://news.tvbs.com.tw/{cat}/{art_id}",
+        }
+        pub = rel_time_to_rfc2822(page[m.end() : m.end() + 300])
+        if pub:
+            entry["published"] = pub
+        entries.append(entry)
+    return entries
+
+
+# 每個來源可有多個 feed，也可指定 scraper 直接爬即時頁；
+# 全部失敗時改用 Google News 站內搜尋 RSS
 SOURCES = [
     {
         "id": "cna",
@@ -55,6 +123,8 @@ SOURCES = [
         "feeds": [
             "https://feeds.feedburner.com/rsscna/politics",
             "https://feeds.feedburner.com/rsscna/intworld",
+            "https://feeds.feedburner.com/rsscna/social",
+            "https://feeds.feedburner.com/rsscna/local",
         ],
         "fallback": gnews("cna.com.tw"),
     },
@@ -92,6 +162,7 @@ SOURCES = [
         "id": "tvbs",
         "name": "TVBS",
         "feeds": [],
+        "scraper": scrape_tvbs,
         "fallback": gnews("news.tvbs.com.tw"),
     },
     {
@@ -99,6 +170,43 @@ SOURCES = [
         "name": "三立新聞網",
         "feeds": [],
         "fallback": gnews("setn.com"),
+    },
+    {
+        "id": "ebc",
+        "name": "東森新聞",
+        "feeds": [],
+        "scraper": scrape_ebc,
+        "fallback": gnews("news.ebc.net.tw"),
+    },
+    {
+        "id": "mirror",
+        "name": "鏡週刊",
+        "feeds": ["https://www.mirrormedia.mg/rss/rss.xml"],
+        "fallback": gnews("mirrormedia.mg"),
+    },
+    {
+        "id": "twreporter",
+        "name": "報導者",
+        "feeds": ["https://www.twreporter.org/a/rss2.xml"],
+        "fallback": gnews("twreporter.org"),
+    },
+    {
+        "id": "storm",
+        "name": "風傳媒",
+        "feeds": [],
+        "fallback": gnews("storm.mg"),
+    },
+    {
+        "id": "newtalk",
+        "name": "新頭殼",
+        "feeds": [],
+        "fallback": gnews("newtalk.tw"),
+    },
+    {
+        "id": "nownews",
+        "name": "今日新聞",
+        "feeds": [],
+        "fallback": gnews("nownews.com"),
     },
 ]
 
@@ -226,6 +334,15 @@ def fetch_source(src: dict):
                     "description": desc[:200],
                 }
             )
+
+    if src.get("scraper"):
+        try:
+            entries = src["scraper"]()
+            if entries:
+                got_primary = True
+                add_entries(entries, from_gnews=False)
+        except Exception as exc:  # noqa: BLE001
+            errors.append(f"scraper: {exc}")
 
     for url in src["feeds"]:
         try:
@@ -380,6 +497,13 @@ def main() -> int:
 
     # 併入上次仍在追蹤期的文章（去重）
     prev = load_previous_articles()
+    # 爬頁面的來源常沒有絕對發佈時間（以抓取時間代替），
+    # 重複看到的連結一律保留最早記錄到的時間，避免事件時間軸漂移
+    prev_pub = {a["link"]: a["published"] for a in prev}
+    for a in all_articles:
+        old = prev_pub.get(a["link"])
+        if old and old < a["published"]:
+            a["published"] = old
     seen = {a["link"] for a in all_articles}
     all_articles.extend(a for a in prev if a["link"] not in seen)
 

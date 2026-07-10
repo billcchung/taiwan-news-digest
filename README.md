@@ -7,14 +7,17 @@
 
 ## 新聞來源
 
-中央社、公視新聞、聯合新聞網、自由時報、中時新聞網、ETtoday、TVBS、三立新聞網。
-媒體自家 RSS 無法讀取時，自動改用 Google News 站內搜尋 RSS 作為備援
-（網站頁尾會標示 `*`）。
+中央社、公視新聞、聯合新聞網、自由時報、中時新聞網、ETtoday、TVBS、
+三立新聞網、東森新聞、鏡週刊、報導者、風傳媒、新頭殼、今日新聞。
+
+來源不限 RSS：TVBS 與東森新聞沒有可用的 RSS，直接爬取其即時新聞頁；
+其餘以媒體自家 RSS 為主，無法讀取時自動改用 Google News 站內搜尋 RSS
+作為備援（網站頁尾會標示 `*`）。
 
 ## 架構
 
 ```
-scripts/fetch_news.py    抓取 RSS → 聚合事件 → 產出 data/events.json、status.json、archive/
+scripts/fetch_news.py    抓取 RSS／爬取即時頁 → 聚合事件 → 產出 data/events.json、status.json、archive/
 scripts/summarize.py     選用：以 Claude API 為熱門事件產生中立摘要（需 ANTHROPIC_API_KEY）
 index.html               首頁：熱門事件（≥2 家媒體報導）+ 即時新聞
 archive.html             歷史紀錄：瀏覽每日快照
