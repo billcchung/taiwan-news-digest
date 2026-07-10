@@ -1,4 +1,75 @@
 {
- "generated_at": null,
- "sources": []
+ "generated_at": "2026-07-11T05:12:55.892659+08:00",
+ "sources": [
+  {
+   "id": "cna",
+   "name": "中央社",
+   "ok": true,
+   "count": 20,
+   "via_fallback": false,
+   "errors": [
+    "https://feeds.feedburner.com/rsscna/mainnews: 404 Client Error: Not Found for url: https://feeds.feedburner.com/rsscna/mainnews"
+   ]
+  },
+  {
+   "id": "pts",
+   "name": "公視新聞",
+   "ok": true,
+   "count": 25,
+   "via_fallback": false,
+   "errors": []
+  },
+  {
+   "id": "udn",
+   "name": "聯合新聞網",
+   "ok": true,
+   "count": 93,
+   "via_fallback": true,
+   "errors": []
+  },
+  {
+   "id": "ltn",
+   "name": "自由時報",
+   "ok": true,
+   "count": 40,
+   "via_fallback": false,
+   "errors": []
+  },
+  {
+   "id": "chinatimes",
+   "name": "中時新聞網",
+   "ok": true,
+   "count": 96,
+   "via_fallback": true,
+   "errors": [
+    "https://www.chinatimes.com/rss/realtimenews.xml: 404 Client Error: Not Found for url: https://www.chinatimes.com/rss/realtimenews.xml"
+   ]
+  },
+  {
+   "id": "ettoday",
+   "name": "ETtoday",
+   "ok": true,
+   "count": 50,
+   "via_fallback": false,
+   "errors": []
+  },
+  {
+   "id": "tvbs",
+   "name": "TVBS",
+   "ok": true,
+   "count": 99,
+   "via_fallback": true,
+   "errors": [
+    "https://news.tvbs.com.tw/rss/realtime: 404 Client Error: Not Found for url: https://news.tvbs.com.tw/rss/realtime"
+   ]
+  },
+  {
+   "id": "setn",
+   "name": "三立新聞網",
+   "ok": true,
+   "count": 100,
+   "via_fallback": true,
+   "errors": []
+  }
+ ]
 }
