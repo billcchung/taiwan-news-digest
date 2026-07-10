@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-07-11T05:15:54.185147+08:00",
+ "generated_at": "2026-07-11T05:37:27.377129+08:00",
  "sources": [
   {
    "id": "cna",
    "name": "中央社",
    "ok": true,
-   "count": 40,
+   "count": 80,
    "via_fallback": false,
    "errors": []
   },
@@ -37,7 +37,7 @@
    "id": "chinatimes",
    "name": "中時新聞網",
    "ok": true,
-   "count": 100,
+   "count": 96,
    "via_fallback": true,
    "errors": []
   },
@@ -53,13 +53,61 @@
    "id": "tvbs",
    "name": "TVBS",
    "ok": true,
-   "count": 99,
-   "via_fallback": true,
+   "count": 338,
+   "via_fallback": false,
    "errors": []
   },
   {
    "id": "setn",
    "name": "三立新聞網",
+   "ok": true,
+   "count": 100,
+   "via_fallback": true,
+   "errors": []
+  },
+  {
+   "id": "ebc",
+   "name": "東森新聞",
+   "ok": true,
+   "count": 15,
+   "via_fallback": false,
+   "errors": []
+  },
+  {
+   "id": "mirror",
+   "name": "鏡週刊",
+   "ok": true,
+   "count": 140,
+   "via_fallback": false,
+   "errors": []
+  },
+  {
+   "id": "twreporter",
+   "name": "報導者",
+   "ok": true,
+   "count": 1,
+   "via_fallback": false,
+   "errors": []
+  },
+  {
+   "id": "storm",
+   "name": "風傳媒",
+   "ok": true,
+   "count": 99,
+   "via_fallback": true,
+   "errors": []
+  },
+  {
+   "id": "newtalk",
+   "name": "新頭殼",
+   "ok": true,
+   "count": 100,
+   "via_fallback": true,
+   "errors": []
+  },
+  {
+   "id": "nownews",
+   "name": "今日新聞",
    "ok": true,
    "count": 100,
    "via_fallback": true,
