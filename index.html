@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="zh-Hant-TW">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>時事懶人包｜台灣熱門新聞事件追蹤</title>
+<meta name="description" content="彙整台灣主要媒體報導，追蹤最受討論的新聞事件，並列各家媒體標題，提供最客觀的視角。">
+<style>
+:root{
+  --bg:#f7f7f5;--card:#ffffff;--text:#1a1a1a;--muted:#6b6b6b;
+  --line:#e5e5e0;--accent:#b3452c;--accent-bg:#fdf0ec;--link:#1a5276;
+}
+@media (prefers-color-scheme:dark){
+  :root{--bg:#141416;--card:#1e1e21;--text:#eaeaea;--muted:#9a9a9a;
+  --line:#2c2c30;--accent:#e07a5f;--accent-bg:#2a201d;--link:#7fb3d5;}
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--bg);color:var(--text);
+  font-family:"Noto Sans TC","PingFang TC","Microsoft JhengHei",sans-serif;
+  line-height:1.6}
+a{color:var(--link);text-decoration:none}
+a:hover{text-decoration:underline}
+.wrap{max-width:860px;margin:0 auto;padding:0 16px 60px}
+header{padding:28px 0 8px;display:flex;flex-wrap:wrap;align-items:baseline;gap:12px}
+header h1{font-size:1.7rem;letter-spacing:.05em}
+header .sub{color:var(--muted);font-size:.9rem}
+nav{margin:4px 0 16px;font-size:.9rem;display:flex;gap:16px;align-items:center}
+#updated{color:var(--muted);font-size:.85rem;margin-left:auto}
+h2{font-size:1.15rem;margin:28px 0 12px;padding-left:10px;
+  border-left:4px solid var(--accent)}
+.card{background:var(--card);border:1px solid var(--line);border-radius:10px;
+  padding:16px 18px;margin-bottom:14px}
+.card h3{font-size:1.05rem;line-height:1.5;margin-bottom:6px}
+.meta{font-size:.8rem;color:var(--muted);display:flex;flex-wrap:wrap;gap:10px;margin-bottom:8px}
+.badge{background:var(--accent-bg);color:var(--accent);border-radius:20px;
+  padding:1px 10px;font-weight:600}
+.summary{font-size:.92rem;background:var(--accent-bg);border-radius:8px;
+  padding:10px 12px;margin:8px 0}
+ul.arts{list-style:none;margin-top:6px}
+ul.arts li{padding:5px 0;border-top:1px dashed var(--line);
+  font-size:.92rem;display:flex;gap:8px;align-items:baseline}
+ul.arts li:first-child{border-top:none}
+.src{flex:none;font-size:.75rem;font-weight:700;color:var(--accent);
+  min-width:5.2em}
+.time{flex:none;margin-left:auto;font-size:.75rem;color:var(--muted);white-space:nowrap}
+.toggle{font-size:.82rem;color:var(--muted);cursor:pointer;background:none;
+  border:none;padding:4px 0;font-family:inherit}
+.toggle:hover{color:var(--accent)}
+#status{font-size:.78rem;color:var(--muted);margin-top:40px;
+  border-top:1px solid var(--line);padding-top:14px}
+#status .bad{color:var(--accent)}
+.latest-item{padding:8px 0;border-bottom:1px dashed var(--line);font-size:.92rem;
+  display:flex;gap:8px;align-items:baseline}
+.empty{color:var(--muted);padding:30px 0;text-align:center}
+footer{margin-top:30px;font-size:.78rem;color:var(--muted)}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <h1>時事懶人包</h1>
+  <span class="sub">台灣熱門新聞事件・多家媒體視角</span>
+</header>
+<nav>
+  <a href="index.html">最新</a>
+  <a href="archive.html">歷史紀錄</a>
+  <span id="updated"></span>
+</nav>
+
+<h2>熱門事件</h2>
+<div id="hot"></div>
+
+<h2>其他即時新聞</h2>
+<div id="latest"></div>
+
+<div id="status"></div>
+<footer>
+  本站自動彙整各媒體公開 RSS 內容，標題與連結版權屬原媒體所有。
+  事件排序依報導媒體數量，不代表任何立場。
+</footer>
+</div>
+
+<script>
+const fmt = iso => {
+  const d = new Date(iso);
+  const mm = String(d.getMonth()+1).padStart(2,"0");
+  const dd = String(d.getDate()).padStart(2,"0");
+  const hh = String(d.getHours()).padStart(2,"0");
+  const mi = String(d.getMinutes()).padStart(2,"0");
+  return `${mm}/${dd} ${hh}:${mi}`;
+};
+const esc = s => s.replace(/[&<>"']/g,
+  c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+
+function artLine(a){
+  return `<li><span class="src">${esc(a.source_name)}</span>
+    <a href="${esc(a.link)}" target="_blank" rel="noopener">${esc(a.title)}</a>
+    <span class="time">${fmt(a.published)}</span></li>`;
+}
+
+function eventCard(ev){
+  const shown = ev.articles.slice(0,5), rest = ev.articles.slice(5);
+  let html = `<div class="card">
+    <h3>${esc(ev.title)}</h3>
+    <div class="meta">
+      <span class="badge">${ev.outlet_count} 家媒體・${ev.article_count} 篇報導</span>
+      <span>首次出現 ${fmt(ev.first_seen)}</span>
+      <span>最後更新 ${fmt(ev.last_updated)}</span>
+    </div>`;
+  if(ev.summary) html += `<div class="summary">${esc(ev.summary)}</div>`;
+  html += `<ul class="arts">${shown.map(artLine).join("")}`;
+  if(rest.length){
+    html += `</ul><button class="toggle" data-n="${rest.length}">
+      顯示其餘 ${rest.length} 篇 ▾</button>
+      <ul class="arts" hidden>${rest.map(artLine).join("")}`;
+  }
+  html += `</ul></div>`;
+  return html;
+}
+
+async function main(){
+  let data;
+  try{
+    data = await (await fetch("data/events.json?t="+Date.now())).json();
+  }catch(e){
+    document.getElementById("hot").innerHTML =
+      '<div class="empty">資料尚未產生，請稍後再試。</div>';
+    return;
+  }
+  document.getElementById("updated").textContent =
+    data.generated_at ? "更新於 " + fmt(data.generated_at) : "";
+
+  const hot = data.events.filter(e => e.outlet_count >= 2);
+  document.getElementById("hot").innerHTML = hot.length
+    ? hot.map(eventCard).join("")
+    : '<div class="empty">目前沒有多家媒體同時報導的事件。</div>';
+
+  const hotLinks = new Set(hot.flatMap(e => e.articles.map(a => a.link)));
+  const latest = (data.latest||[]).filter(a => !hotLinks.has(a.link)).slice(0,20);
+  document.getElementById("latest").innerHTML = latest.length
+    ? `<div class="card">${latest.map(a =>
+        `<div class="latest-item"><span class="src">${esc(a.source_name)}</span>
+         <a href="${esc(a.link)}" target="_blank" rel="noopener">${esc(a.title)}</a>
+         <span class="time">${fmt(a.published)}</span></div>`).join("")}</div>`
+    : '<div class="empty">暫無資料。</div>';
+
+  document.querySelectorAll(".toggle").forEach(btn => {
+    btn.addEventListener("click", () => {
+      const ul = btn.nextElementSibling;
+      ul.hidden = !ul.hidden;
+      btn.textContent = ul.hidden
+        ? `顯示其餘 ${btn.dataset.n} 篇 ▾` : "收合 ▴";
+    });
+  });
+
+  try{
+    const st = await (await fetch("data/status.json?t="+Date.now())).json();
+    document.getElementById("status").innerHTML = "來源狀態：" +
+      st.sources.map(s =>
+        `<span class="${s.ok?'':'bad'}">${esc(s.name)} ${s.ok?'✓':'✗'}${s.via_fallback?'*':''}</span>`
+      ).join("　") +
+      "<br>* 表示該媒體 RSS 暫時無法讀取，改由 Google News 取得。";
+  }catch(e){/* status 選用 */}
+}
+main();
+</script>
+</body>
+</html>

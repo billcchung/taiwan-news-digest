@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="zh-Hant-TW">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>歷史紀錄｜時事懶人包</title>
+<style>
+:root{
+  --bg:#f7f7f5;--card:#ffffff;--text:#1a1a1a;--muted:#6b6b6b;
+  --line:#e5e5e0;--accent:#b3452c;--accent-bg:#fdf0ec;--link:#1a5276;
+}
+@media (prefers-color-scheme:dark){
+  :root{--bg:#141416;--card:#1e1e21;--text:#eaeaea;--muted:#9a9a9a;
+  --line:#2c2c30;--accent:#e07a5f;--accent-bg:#2a201d;--link:#7fb3d5;}
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--bg);color:var(--text);
+  font-family:"Noto Sans TC","PingFang TC","Microsoft JhengHei",sans-serif;
+  line-height:1.6}
+a{color:var(--link);text-decoration:none}
+a:hover{text-decoration:underline}
+.wrap{max-width:860px;margin:0 auto;padding:0 16px 60px}
+header{padding:28px 0 8px;display:flex;flex-wrap:wrap;align-items:baseline;gap:12px}
+header h1{font-size:1.7rem;letter-spacing:.05em}
+nav{margin:4px 0 16px;font-size:.9rem;display:flex;gap:16px;align-items:center}
+select{font-family:inherit;font-size:.9rem;padding:4px 8px;border-radius:6px;
+  border:1px solid var(--line);background:var(--card);color:var(--text)}
+.card{background:var(--card);border:1px solid var(--line);border-radius:10px;
+  padding:16px 18px;margin-bottom:14px}
+.card h3{font-size:1.05rem;line-height:1.5;margin-bottom:6px}
+.meta{font-size:.8rem;color:var(--muted);display:flex;flex-wrap:wrap;gap:10px;margin-bottom:8px}
+.badge{background:var(--accent-bg);color:var(--accent);border-radius:20px;
+  padding:1px 10px;font-weight:600}
+.summary{font-size:.92rem;background:var(--accent-bg);border-radius:8px;
+  padding:10px 12px;margin:8px 0}
+ul.arts{list-style:none;margin-top:6px}
+ul.arts li{padding:5px 0;border-top:1px dashed var(--line);
+  font-size:.92rem;display:flex;gap:8px;align-items:baseline}
+ul.arts li:first-child{border-top:none}
+.src{flex:none;font-size:.75rem;font-weight:700;color:var(--accent);min-width:5.2em}
+.time{flex:none;margin-left:auto;font-size:.75rem;color:var(--muted);white-space:nowrap}
+.empty{color:var(--muted);padding:30px 0;text-align:center}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header><h1>時事懶人包</h1><span style="color:var(--muted);font-size:.9rem">歷史紀錄</span></header>
+<nav>
+  <a href="index.html">最新</a>
+  <a href="archive.html">歷史紀錄</a>
+  <label>日期：<select id="datePick"></select></label>
+</nav>
+<div id="content"><div class="empty">載入中…</div></div>
+</div>
+
+<script>
+const fmt = iso => {
+  const d = new Date(iso);
+  return `${String(d.getMonth()+1).padStart(2,"0")}/${String(d.getDate()).padStart(2,"0")} ${String(d.getHours()).padStart(2,"0")}:${String(d.getMinutes()).padStart(2,"0")}`;
+};
+const esc = s => s.replace(/[&<>"']/g,
+  c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+
+function eventCard(ev){
+  let html = `<div class="card"><h3>${esc(ev.title)}</h3>
+    <div class="meta">
+      <span class="badge">${ev.outlet_count} 家媒體・${ev.article_count} 篇報導</span>
+      <span>首次出現 ${fmt(ev.first_seen)}</span>
+    </div>`;
+  if(ev.summary) html += `<div class="summary">${esc(ev.summary)}</div>`;
+  html += `<ul class="arts">${ev.articles.map(a =>
+    `<li><span class="src">${esc(a.source_name)}</span>
+     <a href="${esc(a.link)}" target="_blank" rel="noopener">${esc(a.title)}</a>
+     <span class="time">${fmt(a.published)}</span></li>`).join("")}</ul></div>`;
+  return html;
+}
+
+async function loadDay(day){
+  const el = document.getElementById("content");
+  el.innerHTML = '<div class="empty">載入中…</div>';
+  try{
+    const snap = await (await fetch(`data/archive/${day}.json?t=`+Date.now())).json();
+    el.innerHTML = snap.events.length
+      ? snap.events.map(eventCard).join("")
+      : '<div class="empty">當日沒有熱門事件紀錄。</div>';
+  }catch(e){
+    el.innerHTML = '<div class="empty">讀取失敗。</div>';
+  }
+}
+
+async function main(){
+  let dates = [];
+  try{
+    dates = await (await fetch("data/archive/index.json?t="+Date.now())).json();
+  }catch(e){}
+  const pick = document.getElementById("datePick");
+  if(!dates.length){
+    document.getElementById("content").innerHTML =
+      '<div class="empty">尚無歷史紀錄，資料會隨每日抓取累積。</div>';
+    return;
+  }
+  pick.innerHTML = dates.map(d => `<option>${d}</option>`).join("");
+  pick.addEventListener("change", () => loadDay(pick.value));
+  loadDay(dates[0]);
+}
+main();
+</script>
+</body>
+</html>
