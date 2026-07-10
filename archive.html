@@ -67,7 +67,14 @@ function eventCard(ev){
       <span class="badge">${ev.outlet_count} 家媒體・${ev.article_count} 篇報導</span>
       <span>首次出現 ${fmt(ev.first_seen)}</span>
     </div>`;
-  if(ev.summary) html += `<div class="summary">${esc(ev.summary)}</div>`;
+  if(ev.analysis && ev.analysis.consensus && ev.analysis.consensus.length){
+    html += `<div class="summary">${ev.analysis.consensus.map(i=>esc(i.text)).join(" ")}</div>`;
+  }else if(ev.summary) html += `<div class="summary">${esc(ev.summary)}</div>`;
+  if(ev.claims && ev.claims.some(c => !c.agree)){
+    html += `<div class="summary">⚠ 當時各媒體報導的數字不一致：` +
+      ev.claims.filter(c => !c.agree).map(c => `${esc(c.type)}（` +
+        c.values.map(v => esc(v.value)).join(" / ") + `）`).join("；") + `</div>`;
+  }
   html += `<ul class="arts">${ev.articles.map(a =>
     `<li><span class="src">${esc(a.source_name)}</span>
      <a href="${esc(a.link)}" target="_blank" rel="noopener">${esc(a.title)}</a>

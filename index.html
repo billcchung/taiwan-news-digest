@@ -36,6 +36,20 @@ h2{font-size:1.15rem;margin:28px 0 12px;padding-left:10px;
   padding:1px 10px;font-weight:600}
 .summary{font-size:.92rem;background:var(--accent-bg);border-radius:8px;
   padding:10px 12px;margin:8px 0}
+.claims{font-size:.82rem;border-radius:8px;padding:8px 12px;margin:8px 0;
+  border:1px solid var(--line)}
+.claims.warn{border-color:var(--accent);color:var(--text)}
+.claims .lbl{font-weight:700;color:var(--accent);margin-right:6px}
+.claims.ok .lbl{color:#3a7d44}
+.claims .hint{display:block;color:var(--muted);font-size:.75rem;margin-top:2px}
+.analysis{font-size:.92rem;background:var(--accent-bg);border-radius:8px;
+  padding:10px 12px;margin:8px 0}
+.analysis .an-sec{margin:4px 0}
+.analysis .an-sec p{margin:2px 0}
+.analysis .lbl{font-weight:700;font-size:.8rem;color:var(--accent)}
+.analysis .an-sec.single p,.analysis .an-sec.single .lbl{color:var(--muted)}
+.analysis a.ref{font-size:.75rem;vertical-align:super;margin-left:1px;
+  text-decoration:none}
 ul.arts{list-style:none;margin-top:6px}
 ul.arts li{padding:5px 0;border-top:1px dashed var(--line);
   font-size:.92rem;display:flex;gap:8px;align-items:baseline}
@@ -98,6 +112,56 @@ function artLine(a){
     <span class="time">${fmt(a.published)}</span></li>`;
 }
 
+function analysisBlock(a){
+  if(!a || !a.sources) return "";
+  const ref = r => {
+    const s = a.sources[r];
+    return s ? `<a class="ref" href="${esc(s.link)}" target="_blank"
+      rel="noopener" title="${esc(s.name)}">[${r}]</a>` : "";
+  };
+  const refs = rs => (rs||[]).map(ref).join("");
+  let html = `<div class="analysis">`;
+  if(a.consensus && a.consensus.length){
+    html += `<div class="an-sec"><span class="lbl">多方報導的事實</span>` +
+      a.consensus.map(i => `<p>${esc(i.text)}${refs(i.refs)}</p>`).join("") +
+      `</div>`;
+  }
+  if(a.disputes && a.disputes.length){
+    html += `<div class="an-sec"><span class="lbl">⚠ 媒體說法分歧</span>` +
+      a.disputes.map(d => `<p>${esc(d.topic)}：` +
+        d.positions.map(p => `${esc(p.text)}${refs(p.refs)}`).join("；") +
+        `</p>`).join("") + `</div>`;
+  }
+  if(a.single_source && a.single_source.length){
+    html += `<div class="an-sec single"><span class="lbl">僅單一來源提及</span>` +
+      a.single_source.map(i => `<p>${esc(i.text)}${refs(i.refs)}</p>`).join("") +
+      `</div>`;
+  }
+  html += `</div>`;
+  return html;
+}
+
+function claimsBlock(claims){
+  if(!claims || !claims.length) return "";
+  let html = "";
+  const disc = claims.filter(c => !c.agree);
+  if(disc.length){
+    html += `<div class="claims warn"><span class="lbl">⚠ 數字歧異</span>` +
+      disc.map(c => `${esc(c.type)}：` + c.values.map(v =>
+        `${esc(v.value)}（${v.outlets.map(esc).join("、")}）`).join(" ／ ")
+      ).join("；") +
+      `<span class="hint">各媒體報導的數字不一致，可能為更新時間差或統計口徑不同，請點開原文查證。</span></div>`;
+  }
+  const ok = claims.filter(c => c.agree && c.outlet_count >= 3);
+  if(ok.length){
+    html += `<div class="claims ok"><span class="lbl">✓ 多方一致</span>` +
+      ok.map(c =>
+        `${esc(c.type)} ${esc(c.values[0].value)}（${c.outlet_count} 家媒體）`
+      ).join("；") + `</div>`;
+  }
+  return html;
+}
+
 function eventCard(ev){
   const shown = ev.articles.slice(0,5), rest = ev.articles.slice(5);
   let html = `<div class="card">
@@ -107,7 +171,9 @@ function eventCard(ev){
       <span>首次出現 ${fmt(ev.first_seen)}</span>
       <span>最後更新 ${fmt(ev.last_updated)}</span>
     </div>`;
-  if(ev.summary) html += `<div class="summary">${esc(ev.summary)}</div>`;
+  if(ev.analysis) html += analysisBlock(ev.analysis);
+  else if(ev.summary) html += `<div class="summary">${esc(ev.summary)}</div>`;
+  html += claimsBlock(ev.claims);
   html += `<ul class="arts">${shown.map(artLine).join("")}`;
   if(rest.length){
     html += `</ul><button class="toggle" data-n="${rest.length}">

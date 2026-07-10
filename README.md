@@ -18,7 +18,8 @@
 
 ```
 scripts/fetch_news.py    抓取 RSS／爬取即時頁 → 聚合事件 → 產出 data/events.json、status.json、archive/
-scripts/summarize.py     選用：以 Claude API 為熱門事件產生中立摘要（需 ANTHROPIC_API_KEY）
+scripts/claims.py        數字一致性檢查：抽取死傷人數、規模、金額等，比對媒體間是否一致
+scripts/summarize.py     選用：以 Claude API 產生可查證的結構化分析（需 ANTHROPIC_API_KEY）
 index.html               首頁：熱門事件（≥2 家媒體報導）+ 即時新聞
 archive.html             歷史紀錄：瀏覽每日快照
 .github/workflows/update-news.yml   每 2 小時執行、提交資料、部署 Pages
@@ -32,7 +33,13 @@ Jaccard 相似度 ≥ 0.3 即視為同一事件；事件追蹤 72 小時，
 
 1. 到 repo 的 **Settings → Pages → Build and deployment**，Source 選 **GitHub Actions**。
 2. （選用）到 **Settings → Secrets and variables → Actions** 新增 `ANTHROPIC_API_KEY`，
-   之後每次更新會為熱門事件產生 LLM 摘要；不設定也能正常運作。
+   之後每次更新會為熱門事件產生結構化分析：「多方報導的事實」（每句附可點的
+   原文編號，且程式驗證確實跨兩家以上媒體）、「媒體說法分歧」與「僅單一來源
+   提及」，讀者可逐句查證。不設定也能正常運作。
+
+另有不依賴 LLM 的數字一致性檢查（scripts/claims.py）：從標題與摘要抽取
+死傷人數、地震規模、金額等數字，多家一致標示「多方一致」，不一致標示
+「數字歧異」提醒讀者查證原文。
 3. 到 **Actions** 分頁手動執行一次「抓取新聞並部署網站」。
 
 ## 本地測試

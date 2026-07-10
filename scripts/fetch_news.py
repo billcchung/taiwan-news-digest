@@ -18,6 +18,8 @@ from pathlib import Path
 import feedparser
 import requests
 
+import claims
+
 TAIPEI = timezone(timedelta(hours=8))
 NOW = datetime.now(TAIPEI)
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
@@ -431,8 +433,15 @@ def build_events(clusters: list, old_summaries: dict) -> list:
             "last_updated": arts[-1]["published"],
             "articles": list(reversed(arts)),  # 新的在前
         }
+        ev_claims = claims.analyze(arts)
+        if ev_claims:
+            ev["claims"] = ev_claims
         if eid in old_summaries:
-            ev["summary"] = old_summaries[eid].get("summary")
+            cached = old_summaries[eid]
+            if cached.get("summary"):
+                ev["summary"] = cached["summary"]
+            if cached.get("analysis"):
+                ev["analysis"] = cached["analysis"]
         events.append(ev)
     events.sort(key=lambda e: (e["outlet_count"], e["last_updated"]), reverse=True)
     return events[:MAX_EVENTS]
