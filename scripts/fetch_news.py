@@ -53,8 +53,8 @@ SOURCES = [
         "id": "cna",
         "name": "中央社",
         "feeds": [
-            "https://feeds.feedburner.com/rsscna/mainnews",
             "https://feeds.feedburner.com/rsscna/politics",
+            "https://feeds.feedburner.com/rsscna/intworld",
         ],
         "fallback": gnews("cna.com.tw"),
     },
@@ -79,7 +79,7 @@ SOURCES = [
     {
         "id": "chinatimes",
         "name": "中時新聞網",
-        "feeds": ["https://www.chinatimes.com/rss/realtimenews.xml"],
+        "feeds": [],
         "fallback": gnews("chinatimes.com"),
     },
     {
@@ -91,7 +91,7 @@ SOURCES = [
     {
         "id": "tvbs",
         "name": "TVBS",
-        "feeds": ["https://news.tvbs.com.tw/rss/realtime"],
+        "feeds": [],
         "fallback": gnews("news.tvbs.com.tw"),
     },
     {
