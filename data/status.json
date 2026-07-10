@@ -1,15 +1,13 @@
 {
- "generated_at": "2026-07-11T05:12:55.892659+08:00",
+ "generated_at": "2026-07-11T05:15:54.185147+08:00",
  "sources": [
   {
    "id": "cna",
    "name": "中央社",
    "ok": true,
-   "count": 20,
+   "count": 40,
    "via_fallback": false,
-   "errors": [
-    "https://feeds.feedburner.com/rsscna/mainnews: 404 Client Error: Not Found for url: https://feeds.feedburner.com/rsscna/mainnews"
-   ]
+   "errors": []
   },
   {
    "id": "pts",
@@ -39,11 +37,9 @@
    "id": "chinatimes",
    "name": "中時新聞網",
    "ok": true,
-   "count": 96,
+   "count": 100,
    "via_fallback": true,
-   "errors": [
-    "https://www.chinatimes.com/rss/realtimenews.xml: 404 Client Error: Not Found for url: https://www.chinatimes.com/rss/realtimenews.xml"
-   ]
+   "errors": []
   },
   {
    "id": "ettoday",
@@ -59,9 +55,7 @@
    "ok": true,
    "count": 99,
    "via_fallback": true,
-   "errors": [
-    "https://news.tvbs.com.tw/rss/realtime: 404 Client Error: Not Found for url: https://news.tvbs.com.tw/rss/realtime"
-   ]
+   "errors": []
   },
   {
    "id": "setn",
