@@ -19,6 +19,7 @@ import feedparser
 import requests
 
 import claims
+import store
 import tags
 
 TAIPEI = timezone(timedelta(hours=8))
@@ -89,6 +90,7 @@ def scrape_ebc() -> list:
                 "title": html.unescape(title),
                 "link": f"https://news.ebc.net.tw{path}",
                 "summary": pm.group(1) if pm else "",
+                "category": path.split("/")[2],
             }
         )
     return entries
@@ -109,6 +111,7 @@ def scrape_tvbs() -> list:
         entry = {
             "title": html.unescape(tm.group(1)),
             "link": f"https://news.tvbs.com.tw/{cat}/{art_id}",
+            "category": cat,
         }
         pub = rel_time_to_rfc2822(page[m.end() : m.end() + 300])
         if pub:
@@ -228,6 +231,36 @@ def clean_text(s: str) -> str:
     return s.strip()
 
 
+# 記者署名：RSS 幾乎不給 author 欄位，但描述文字常見固定寫法
+_CNA_CITY = (
+    "台北|新北|桃園|台中|台南|高雄|基隆|新竹|苗栗|彰化|南投|雲林|嘉義|屏東|"
+    "宜蘭|花蓮|台東|澎湖|金門|連江|華盛頓|紐約|洛杉磯|舊金山|芝加哥|東京|"
+    "大阪|首爾|北京|上海|香港|澳門|新加坡|曼谷|雅加達|馬尼拉|河內|吉隆坡|"
+    "雪梨|倫敦|巴黎|柏林|羅馬|馬德里|布魯塞爾|日內瓦|海牙|莫斯科|杜拜|"
+    "特拉維夫|開羅|渥太華|墨西哥市|聖保羅"
+)
+AUTHOR_PATTERNS = [
+    # （中央社記者王承中台北11日電）
+    re.compile(rf"（中央社記者([一-鿿]{{2,4}})(?:{_CNA_CITY})\d{{1,2}}日[電專]"),
+    # 〔記者陳心瑜／新北報導〕、記者陳家豪／台北報導
+    re.compile(r"記者([一-鿿]{2,4})[／/][一-鿿]{2,6}報導"),
+    re.compile(r"[〔（\[]記者([一-鿿]{2,4})[／/]"),
+    # 文／王小明、撰文：王小明
+    re.compile(r"[文圖][／/:：]([一-鿿]{2,4})(?:[）〕\s，。]|$)"),
+]
+_NOT_A_NAME = ("頻道", "中心", "綜合", "報導", "記者", "編輯", "整理", "小組")
+
+
+def extract_author(text: str):
+    for pat in AUTHOR_PATTERNS:
+        m = pat.search(text)
+        if m:
+            name = m.group(1)
+            if not any(w in name for w in _NOT_A_NAME):
+                return name
+    return None
+
+
 def clean_title(title: str, from_gnews: bool) -> str:
     t = clean_text(title)
     if from_gnews:
@@ -327,16 +360,39 @@ def fetch_source(src: dict):
             if pub > NOW + timedelta(hours=1):
                 pub = NOW
             desc = clean_text(e.get("summary") or e.get("description") or "")
-            articles.append(
-                {
-                    "title": title,
-                    "link": link,
-                    "source": src["id"],
-                    "source_name": src["name"],
-                    "published": pub.isoformat(),
-                    "description": desc[:200],
-                }
-            )
+            art = {
+                "title": title,
+                "link": link,
+                "source": src["id"],
+                "source_name": src["name"],
+                "published": pub.isoformat(),
+                "description": desc[:200],
+            }
+            # 作者：先看 RSS 的 author/dc:creator 欄位，沒有就從描述文字
+            # 的記者署名（（中央社記者…）、記者…／…報導）抽取。
+            # Google News 的 author 欄位是媒體名而非記者，略過欄位值。
+            author = None
+            if not from_gnews:
+                author = clean_text(e.get("author") or "") or None
+                if author and len(author) > 40:
+                    author = None
+            if not author:
+                author = extract_author(desc)
+            if author:
+                art["author"] = author
+            # 分類：爬蟲直接給 category；RSS 用第一個 tag term
+            category = e.get("category")
+            if not category:
+                entry_tags = e.get("tags") or []
+                if entry_tags:
+                    category = clean_text(
+                        entry_tags[0].get("term") or ""
+                    ) or None
+            if category:
+                art["category"] = category[:30]
+            if from_gnews:
+                art["via_gnews"] = True
+            articles.append(art)
 
     if src.get("scraper"):
         try:
@@ -547,6 +603,10 @@ def main() -> int:
             print(f"  ! {err}", file=sys.stderr)
         all_articles.extend(arts)
         statuses.append(status)
+
+    # 持久化：新文章附加到 data/articles/（只追加、不覆蓋既有紀錄）
+    added = store.append_new(all_articles, NOW)
+    print(f"文章庫：新增 {added} 篇（data/articles/）")
 
     # 併入上次仍在追蹤期的文章（去重）
     prev = load_previous_articles()

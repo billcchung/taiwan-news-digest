@@ -20,6 +20,7 @@
 scripts/fetch_news.py    抓取 RSS／爬取即時頁 → 聚合事件 → 產出 data/events.json、status.json、archive/
 scripts/claims.py        數字一致性檢查：抽取死傷人數、規模、金額等，比對媒體間是否一致
 scripts/tags.py          事件關鍵詞抽取：供標籤篩選列使用
+scripts/store.py         持久化文章庫：data/articles/YYYY-MM-DD.jsonl，只追加不覆蓋
 scripts/summarize.py     選用：以 Claude API 產生可查證的結構化分析（需 ANTHROPIC_API_KEY）
 index.html               首頁：熱門事件（≥2 家媒體報導）+ 即時新聞
 archive.html             歷史紀錄：瀏覽每日快照
@@ -56,6 +57,15 @@ pip install -r scripts/requirements.txt
 python scripts/fetch_news.py
 python -m http.server 8000   # 開 http://localhost:8000
 ```
+
+## 資料保存
+
+`data/events.json` 是滾動 48 小時的檢視層，每次執行整份重算；
+`data/articles/YYYY-MM-DD.jsonl` 才是持久紀錄：每次執行以連結去重，
+只把「新看到的文章」附加到當天檔尾，既有紀錄不會被改寫。每篇記錄
+連結、標題、來源、發佈時間、摘要，以及 metadata：作者（RSS author
+欄位或描述中的記者署名，如「（中央社記者…）」）、分類（RSS tag 或
+爬蟲頁面的分類路徑）、是否經 Google News 取得、首次見到的時間。
 
 ## 版權說明
 
