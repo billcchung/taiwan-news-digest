@@ -73,6 +73,14 @@ def test_duplicate_in_batch_is_appended_once():
         assert len(records(articles_dir)) == 1
 
 
+def test_non_string_links_are_rejected():
+    with temporary_archive() as articles_dir:
+        malformed = article("https://example.com/a")
+        malformed["link"] = 42
+        assert store.append_new([malformed], day(11)) == 0
+        assert records(articles_dir) == []
+
+
 def test_invalid_index_is_rebuilt_without_duplicate_records():
     with temporary_archive() as articles_dir:
         assert store.append_new([article("https://example.com/a")], day(7)) == 1
@@ -154,16 +162,32 @@ def test_unknown_author_and_google_news_metadata():
     assert fallback["metadata"]["feed_url"].startswith("https://news.google.com/")
 
 
+def test_scraper_metadata():
+    source = {
+        "id": "test",
+        "name": "測試來源",
+        "feeds": [],
+        "scraper": lambda: [feed_entry()],
+        "scraper_url": "https://example.com/realtime",
+    }
+    articles, status = fetch_news.fetch_source(source)
+    assert status["ok"] and len(articles) == 1
+    assert articles[0]["metadata"]["acquisition"] == "scraper"
+    assert articles[0]["metadata"]["feed_url"] == "https://example.com/realtime"
+
+
 def main():
     tests = [
         test_archive_wide_duplicate_is_not_appended,
         test_duplicate_in_batch_is_appended_once,
+        test_non_string_links_are_rejected,
         test_invalid_index_is_rebuilt_without_duplicate_records,
         test_malformed_archive_rows_are_ignored_when_rebuilding_index,
         test_new_record_adds_first_seen_metadata,
         test_rss_author_metadata,
         test_description_author_metadata,
         test_unknown_author_and_google_news_metadata,
+        test_scraper_metadata,
     ]
     for test in tests:
         test()

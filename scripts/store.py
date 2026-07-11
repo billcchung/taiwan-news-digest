@@ -30,7 +30,7 @@ def normalize_link(url: str) -> Optional[str]:
     try:
         parts = urlsplit((url or "").strip())
         port = parts.port
-    except (TypeError, ValueError):
+    except (AttributeError, TypeError, ValueError):
         return None
     scheme = parts.scheme.lower()
     if scheme not in {"http", "https"} or not parts.hostname:
