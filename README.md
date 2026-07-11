@@ -61,11 +61,17 @@ python -m http.server 8000   # 開 http://localhost:8000
 ## 資料保存
 
 `data/events.json` 是滾動 48 小時的檢視層，每次執行整份重算；
-`data/articles/YYYY-MM-DD.jsonl` 才是持久紀錄：每次執行以連結去重，
-只把「新看到的文章」附加到當天檔尾，既有紀錄不會被改寫。每篇記錄
-連結、標題、來源、發佈時間、摘要，以及 metadata：作者（RSS author
-欄位或描述中的記者署名，如「（中央社記者…）」）、分類（RSS tag 或
-爬蟲頁面的分類路徑）、是否經 Google News 取得、首次見到的時間。
+`data/articles/YYYY-MM-DD.jsonl` 是持久紀錄，只會附加新文章，既有記錄
+不會被改寫。去重範圍涵蓋完整文章庫，使用正規化的 HTTP(S) 連結（忽略
+網域大小寫、尾端斜線和 fragment；保留 query string）。
+
+`data/articles/index.json` 是可重建的衍生 URL 索引，用來加速全庫去重；
+JSONL 檔案才是原始資料。索引遺失、損毀或引用不存在的檔案時，下一次抓取
+會自動掃描所有 JSONL 檔重建索引。
+
+每筆新記錄保留連結、標題、來源、發佈時間與摘要，並在 `metadata` 中記錄：
+schema 版本、首次見到的時間、作者及其來源（RSS、描述文字或未知）、取得方式
+（RSS、爬蟲或 Google News），以及可取得時的分類和 feed URL。
 
 ## 版權說明
 

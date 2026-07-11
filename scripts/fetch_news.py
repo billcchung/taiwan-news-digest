@@ -169,6 +169,7 @@ SOURCES = [
         "name": "TVBS",
         "feeds": [],
         "scraper": scrape_tvbs,
+        "scraper_url": "https://news.tvbs.com.tw/realtime",
         "fallback": gnews("news.tvbs.com.tw"),
     },
     {
@@ -182,6 +183,7 @@ SOURCES = [
         "name": "東森新聞",
         "feeds": [],
         "scraper": scrape_ebc,
+        "scraper_url": "https://news.ebc.net.tw/realtime",
         "fallback": gnews("news.ebc.net.tw"),
     },
     {
@@ -345,7 +347,8 @@ def fetch_source(src: dict):
     seen_links = set()
     got_primary = False
 
-    def add_entries(entries, from_gnews: bool):
+    def add_entries(entries, acquisition: str, feed_url: str = None):
+        from_gnews = acquisition == "gnews"
         for e in entries:
             link = (e.get("link") or "").strip()
             title = clean_title(e.get("title") or "", from_gnews)
@@ -372,12 +375,17 @@ def fetch_source(src: dict):
             # 的記者署名（（中央社記者…）、記者…／…報導）抽取。
             # Google News 的 author 欄位是媒體名而非記者，略過欄位值。
             author = None
-            if not from_gnews:
+            author_source = "unknown"
+            if acquisition == "rss":
                 author = clean_text(e.get("author") or "") or None
                 if author and len(author) > 40:
                     author = None
+                elif author:
+                    author_source = "rss"
             if not author:
                 author = extract_author(desc)
+                if author:
+                    author_source = "description"
             if author:
                 art["author"] = author
             # 分類：爬蟲直接給 category；RSS 用第一個 tag term
@@ -390,8 +398,16 @@ def fetch_source(src: dict):
                     ) or None
             if category:
                 art["category"] = category[:30]
-            if from_gnews:
-                art["via_gnews"] = True
+            metadata = {
+                "schema_version": 1,
+                "author": {"name": author, "source": author_source},
+                "acquisition": acquisition,
+            }
+            if category:
+                metadata["category"] = category[:30]
+            if feed_url:
+                metadata["feed_url"] = feed_url
+            art["metadata"] = metadata
             articles.append(art)
 
     if src.get("scraper"):
@@ -399,7 +415,11 @@ def fetch_source(src: dict):
             entries = src["scraper"]()
             if entries:
                 got_primary = True
-                add_entries(entries, from_gnews=False)
+                add_entries(
+                    entries,
+                    acquisition="scraper",
+                    feed_url=src.get("scraper_url"),
+                )
         except Exception as exc:  # noqa: BLE001
             errors.append(f"scraper: {exc}")
 
@@ -408,14 +428,18 @@ def fetch_source(src: dict):
             entries = fetch_feed(url)
             if entries:
                 got_primary = True
-                add_entries(entries, from_gnews=False)
+                add_entries(entries, acquisition="rss", feed_url=url)
         except Exception as exc:  # noqa: BLE001
             errors.append(f"{url}: {exc}")
 
     if not got_primary and src.get("fallback"):
         try:
             entries = fetch_feed(src["fallback"])
-            add_entries(entries, from_gnews=True)
+            add_entries(
+                entries,
+                acquisition="gnews",
+                feed_url=src["fallback"],
+            )
         except Exception as exc:  # noqa: BLE001
             errors.append(f"fallback: {exc}")
 
