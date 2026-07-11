@@ -6,9 +6,11 @@ import sys
 import tempfile
 from contextlib import contextmanager
 from datetime import datetime, timezone
+from email.utils import format_datetime
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
+import fetch_news  # noqa: E402
 import store  # noqa: E402
 
 
@@ -102,6 +104,56 @@ def test_new_record_adds_first_seen_metadata():
         assert stored["metadata"]["schema_version"] == 1
 
 
+def fetched_article(entry: dict, fallback: bool = False) -> dict:
+    source = {
+        "id": "test",
+        "name": "測試來源",
+        "feeds": [] if fallback else ["https://example.com/rss.xml"],
+        "fallback": "https://news.google.com/rss/search?q=example" if fallback else None,
+    }
+    original_fetch_feed = fetch_news.fetch_feed
+    fetch_news.fetch_feed = lambda url: [entry]
+    try:
+        articles, status = fetch_news.fetch_source(source)
+    finally:
+        fetch_news.fetch_feed = original_fetch_feed
+    assert status["ok"] and len(articles) == 1
+    return articles[0]
+
+
+def feed_entry(**overrides) -> dict:
+    entry = {
+        "title": "測試新聞標題",
+        "link": "https://example.com/news/1",
+        "published": format_datetime(fetch_news.NOW),
+        "description": "測試新聞摘要",
+    }
+    entry.update(overrides)
+    return entry
+
+
+def test_rss_author_metadata():
+    stored = fetched_article(feed_entry(author="王小明", category="政治"))
+    assert stored["metadata"]["author"] == {"name": "王小明", "source": "rss"}
+    assert stored["metadata"]["category"] == "政治"
+    assert stored["metadata"]["acquisition"] == "rss"
+    assert stored["metadata"]["feed_url"] == "https://example.com/rss.xml"
+
+
+def test_description_author_metadata():
+    stored = fetched_article(feed_entry(description="〔記者陳心瑜／新北報導〕測試摘要"))
+    assert stored["author"] == "陳心瑜"
+    assert stored["metadata"]["author"] == {"name": "陳心瑜", "source": "description"}
+
+
+def test_unknown_author_and_google_news_metadata():
+    unknown = fetched_article(feed_entry())
+    assert unknown["metadata"]["author"] == {"name": None, "source": "unknown"}
+    fallback = fetched_article(feed_entry(), fallback=True)
+    assert fallback["metadata"]["acquisition"] == "gnews"
+    assert fallback["metadata"]["feed_url"].startswith("https://news.google.com/")
+
+
 def main():
     tests = [
         test_archive_wide_duplicate_is_not_appended,
@@ -109,6 +161,9 @@ def main():
         test_invalid_index_is_rebuilt_without_duplicate_records,
         test_malformed_archive_rows_are_ignored_when_rebuilding_index,
         test_new_record_adds_first_seen_metadata,
+        test_rss_author_metadata,
+        test_description_author_metadata,
+        test_unknown_author_and_google_news_metadata,
     ]
     for test in tests:
         test()
