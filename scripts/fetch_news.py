@@ -19,6 +19,7 @@ import feedparser
 import requests
 
 import claims
+import tags
 
 TAIPEI = timezone(timedelta(hours=8))
 NOW = datetime.now(TAIPEI)
@@ -411,7 +412,49 @@ def cluster(articles: list) -> list:
             best["profiles"].append(p)
         else:
             clusters.append({"profiles": [p], "articles": [art]})
-    return clusters
+    return merge_clusters(clusters)
+
+
+def merge_clusters(clusters: list) -> list:
+    """第二輪合併：貪婪聚合會把同一事件切成多群（前兩篇標題寫法不同時
+    各自成群，之後的文章只會被塞進其中一群，兩群永遠不會互比）。
+
+    補救方式是算兩群之間的「連結密度」：跨群文章兩兩用同一個 similar()
+    判斷，相似對數 / 總對數 >= 0.25 且至少 3 對才合併。門檻刻意保守，
+    避免把大事件的不同面向（如颱風的停班課、路徑預測、藝文延期）黏成一團。
+    """
+    multi = [i for i, c in enumerate(clusters) if len(c["articles"]) >= 2]
+    parent = list(range(len(clusters)))
+
+    def find(x):
+        while parent[x] != x:
+            parent[x] = parent[parent[x]]
+            x = parent[x]
+        return x
+
+    for a in range(len(multi)):
+        for b in range(a + 1, len(multi)):
+            i, j = multi[a], multi[b]
+            pa, pb = clusters[i]["profiles"], clusters[j]["profiles"]
+            links = sum(
+                1 for x in pa for y in pb if similar(x, y)[0]
+            )
+            if links >= 3 and links / (len(pa) * len(pb)) >= 0.25:
+                ri, rj = find(i), find(j)
+                if ri != rj:
+                    parent[rj] = ri
+
+    groups = {}
+    for i, c in enumerate(clusters):
+        groups.setdefault(find(i), []).append(c)
+    merged = []
+    for members in groups.values():
+        base = members[0]
+        for extra in members[1:]:
+            base["articles"].extend(extra["articles"])
+            base["profiles"].extend(extra["profiles"])
+        merged.append(base)
+    return merged
 
 
 def build_events(clusters: list, old_summaries: dict) -> list:
@@ -433,6 +476,7 @@ def build_events(clusters: list, old_summaries: dict) -> list:
             "last_updated": arts[-1]["published"],
             "articles": list(reversed(arts)),  # 新的在前
         }
+        ev["tags"] = tags.extract_tags([a["title"] for a in arts])
         ev_claims = claims.analyze(arts)
         if ev_claims:
             ev["claims"] = ev_claims
@@ -532,6 +576,7 @@ def main() -> int:
         {
             "generated_at": NOW.isoformat(),
             "article_count": len(all_articles),
+            "tags": tags.aggregate(events),
             "events": events,
             "latest": latest,
         },

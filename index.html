@@ -50,6 +50,16 @@ h2{font-size:1.15rem;margin:28px 0 12px;padding-left:10px;
 .analysis .an-sec.single p,.analysis .an-sec.single .lbl{color:var(--muted)}
 .analysis a.ref{font-size:.75rem;vertical-align:super;margin-left:1px;
   text-decoration:none}
+#tagbar{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 14px}
+.chip{font-size:.82rem;padding:3px 12px;border-radius:20px;cursor:pointer;
+  border:1px solid var(--line);background:var(--card);color:var(--muted);
+  font-family:inherit}
+.chip:hover{border-color:var(--accent);color:var(--accent)}
+.chip.active{background:var(--accent);border-color:var(--accent);color:#fff;
+  font-weight:600}
+.chip .n{opacity:.7;font-size:.75rem;margin-left:3px}
+.tag{font-size:.75rem;color:var(--link);cursor:pointer}
+.tag:hover{text-decoration:underline}
 ul.arts{list-style:none;margin-top:6px}
 ul.arts li{padding:5px 0;border-top:1px dashed var(--line);
   font-size:.92rem;display:flex;gap:8px;align-items:baseline}
@@ -82,6 +92,7 @@ footer{margin-top:30px;font-size:.78rem;color:var(--muted)}
 </nav>
 
 <h2>熱門事件</h2>
+<div id="tagbar"></div>
 <div id="hot"></div>
 
 <h2>其他即時新聞</h2>
@@ -170,6 +181,8 @@ function eventCard(ev){
       <span class="badge">${ev.outlet_count} 家媒體・${ev.article_count} 篇報導</span>
       <span>首次出現 ${fmt(ev.first_seen)}</span>
       <span>最後更新 ${fmt(ev.last_updated)}</span>
+      ${(ev.tags||[]).map(t =>
+        `<span class="tag" data-tag="${esc(t)}">#${esc(t)}</span>`).join("")}
     </div>`;
   if(ev.analysis) html += analysisBlock(ev.analysis);
   else if(ev.summary) html += `<div class="summary">${esc(ev.summary)}</div>`;
@@ -184,6 +197,52 @@ function eventCard(ev){
   return html;
 }
 
+let hotEvents = [], selectedTag = null;
+
+function tagMatch(ev, sel){
+  return (ev.tags||[]).some(t => t.includes(sel) || sel.includes(t));
+}
+
+function renderHot(){
+  const list = selectedTag
+    ? hotEvents.filter(e => tagMatch(e, selectedTag)) : hotEvents;
+  document.getElementById("hot").innerHTML = list.length
+    ? list.map(eventCard).join("")
+    : '<div class="empty">沒有符合這個標籤的事件。</div>';
+  document.querySelectorAll("#hot .toggle").forEach(btn => {
+    btn.addEventListener("click", () => {
+      const ul = btn.nextElementSibling;
+      ul.hidden = !ul.hidden;
+      btn.textContent = ul.hidden
+        ? `顯示其餘 ${btn.dataset.n} 篇 ▾` : "收合 ▴";
+    });
+  });
+  document.querySelectorAll("#tagbar .chip").forEach(ch => {
+    ch.classList.toggle("active",
+      selectedTag ? ch.dataset.tag === selectedTag : !ch.dataset.tag);
+  });
+}
+
+function selectTag(tag){
+  selectedTag = (tag && tag !== selectedTag) ? tag : null;
+  renderHot();
+}
+
+function renderTagbar(tags){
+  const bar = document.getElementById("tagbar");
+  if(!tags || !tags.length){ bar.hidden = true; return; }
+  bar.innerHTML = `<button class="chip active">全部</button>` +
+    tags.map(t => `<button class="chip" data-tag="${esc(t.tag)}">
+      #${esc(t.tag)}<span class="n">${t.count}</span></button>`).join("");
+}
+
+document.addEventListener("click", e => {
+  const chip = e.target.closest(".chip");
+  if(chip){ selectTag(chip.dataset.tag || null); return; }
+  const tag = e.target.closest(".tag");
+  if(tag) selectTag(tag.dataset.tag);
+});
+
 async function main(){
   let data;
   try{
@@ -196,12 +255,11 @@ async function main(){
   document.getElementById("updated").textContent =
     data.generated_at ? "更新於 " + fmt(data.generated_at) : "";
 
-  const hot = data.events.filter(e => e.outlet_count >= 2);
-  document.getElementById("hot").innerHTML = hot.length
-    ? hot.map(eventCard).join("")
-    : '<div class="empty">目前沒有多家媒體同時報導的事件。</div>';
+  hotEvents = data.events.filter(e => e.outlet_count >= 2);
+  renderTagbar(data.tags);
+  renderHot();
 
-  const hotLinks = new Set(hot.flatMap(e => e.articles.map(a => a.link)));
+  const hotLinks = new Set(hotEvents.flatMap(e => e.articles.map(a => a.link)));
   const latest = (data.latest||[]).filter(a => !hotLinks.has(a.link)).slice(0,20);
   document.getElementById("latest").innerHTML = latest.length
     ? `<div class="card">${latest.map(a =>
@@ -209,15 +267,6 @@ async function main(){
          <a href="${esc(a.link)}" target="_blank" rel="noopener">${esc(a.title)}</a>
          <span class="time">${fmt(a.published)}</span></div>`).join("")}</div>`
     : '<div class="empty">暫無資料。</div>';
-
-  document.querySelectorAll(".toggle").forEach(btn => {
-    btn.addEventListener("click", () => {
-      const ul = btn.nextElementSibling;
-      ul.hidden = !ul.hidden;
-      btn.textContent = ul.hidden
-        ? `顯示其餘 ${btn.dataset.n} 篇 ▾` : "收合 ▴";
-    });
-  });
 
   try{
     const st = await (await fetch("data/status.json?t="+Date.now())).json();

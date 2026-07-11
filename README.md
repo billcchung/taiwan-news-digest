@@ -19,6 +19,7 @@
 ```
 scripts/fetch_news.py    抓取 RSS／爬取即時頁 → 聚合事件 → 產出 data/events.json、status.json、archive/
 scripts/claims.py        數字一致性檢查：抽取死傷人數、規模、金額等，比對媒體間是否一致
+scripts/tags.py          事件關鍵詞抽取：供標籤篩選列使用
 scripts/summarize.py     選用：以 Claude API 產生可查證的結構化分析（需 ANTHROPIC_API_KEY）
 index.html               首頁：熱門事件（≥2 家媒體報導）+ 即時新聞
 archive.html             歷史紀錄：瀏覽每日快照
@@ -26,8 +27,14 @@ archive.html             歷史紀錄：瀏覽每日快照
 ```
 
 事件聚合方式：標題去除標點與雜訊詞後取字元 bigram，
-Jaccard 相似度 ≥ 0.3 即視為同一事件；事件追蹤 72 小時，
+Jaccard 相似度 ≥ 0.3 即視為同一事件；貪婪聚合後再做第二輪合併，
+兩群之間跨群文章的相似「連結密度」夠高（≥ 25% 且至少 3 對）就併成
+一群，修正同一事件被切成多群的問題。事件追蹤 72 小時，
 以最早一篇文章的連結雜湊作為穩定事件 ID。
+
+每個事件另以「多篇標題共同出現的最長中文片段」抽出關鍵詞標籤
+（scripts/tags.py，不依賴斷詞器），首頁提供標籤列，可點選篩選
+相關事件（例如把同一颱風的停班課、路徑、災情事件全部叫出來）。
 
 ## 初次設定
 
