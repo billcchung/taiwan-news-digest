@@ -5,12 +5,14 @@
 """
 
 import sys
+import tempfile
 from datetime import datetime, timedelta, timezone
 from email.utils import format_datetime
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import fetch_news  # noqa: E402
+import store  # noqa: E402
 
 TAIPEI = timezone(timedelta(hours=8))
 NOW = datetime.now(TAIPEI)
@@ -90,44 +92,43 @@ def fake_get(url, **kwargs):
 
 def main():
     fetch_news.requests.get = fake_get
-    rc = fetch_news.main()
-    assert rc == 0, "fetch_news.main() 應回傳 0"
+    with tempfile.TemporaryDirectory() as temp_dir:
+        temp_data = Path(temp_dir) / "data"
+        fetch_news.DATA_DIR = temp_data
+        fetch_news.ARCHIVE_DIR = temp_data / "archive"
+        store.ARTICLES_DIR = temp_data / "articles"
+        store.INDEX_PATH = store.ARTICLES_DIR / "index.json"
+        rc = fetch_news.main()
+        assert rc == 0, "fetch_news.main() 應回傳 0"
 
-    import json
-    data = json.loads(
-        (fetch_news.DATA_DIR / "events.json").read_text(encoding="utf-8")
-    )
-    events = data["events"]
-    hot = [e for e in events if e["outlet_count"] >= 2]
-    print("\n=== 驗證結果 ===")
-    for ev in events:
-        print(f"  [{ev['outlet_count']}家/{ev['article_count']}篇] {ev['title']}")
+        import json
+        data = json.loads(
+            (fetch_news.DATA_DIR / "events.json").read_text(encoding="utf-8")
+        )
+        events = data["events"]
+        hot = [e for e in events if e["outlet_count"] >= 2]
+        print("\n=== 驗證結果 ===")
+        for ev in events:
+            print(f"  [{ev['outlet_count']}家/{ev['article_count']}篇] {ev['title']}")
 
-    # 林宜瑾案應聚合 5 家媒體
-    lin = [e for e in hot if "林宜瑾" in e["title"] or "助理費" in e["title"]]
-    assert lin and lin[0]["outlet_count"] >= 4, "林宜瑾案應聚合至少4家媒體"
-    # 毒油案應聚合 >= 3 家
-    oil = [e for e in hot if "油" in e["title"] or "苯駢芘" in e["title"]]
-    assert oil and oil[0]["outlet_count"] >= 3, "毒油案應聚合至少3家媒體"
-    # 無人機條例應聚合 >= 2 家
-    drone = [e for e in hot if "無人機" in e["title"]]
-    assert drone and drone[0]["outlet_count"] >= 2, "無人機條例應聚合至少2家"
-    # 排序：第一名媒體數最多
-    assert events[0]["outlet_count"] == max(e["outlet_count"] for e in events)
-    # 不同事件不應被誤併：夜市獨家應獨立
-    assert any(
-        e["outlet_count"] == 1 and "夜市" in e["title"] for e in events
-    ), "獨家新聞應保持獨立事件"
-    # status.json：chinatimes 應標示 via_fallback
-    st = json.loads(
-        (fetch_news.DATA_DIR / "status.json").read_text(encoding="utf-8")
-    )
-    ct = next(s for s in st["sources"] if s["id"] == "chinatimes")
-    assert ct["ok"] and ct["via_fallback"], "chinatimes 應成功且走備援"
-    # archive 檔案存在
-    day = NOW.strftime("%Y-%m-%d")
-    assert (fetch_news.ARCHIVE_DIR / f"{day}.json").exists()
-    assert (fetch_news.ARCHIVE_DIR / "index.json").exists()
+        lin = [e for e in hot if "林宜瑾" in e["title"] or "助理費" in e["title"]]
+        assert lin and lin[0]["outlet_count"] >= 4, "林宜瑾案應聚合至少4家媒體"
+        oil = [e for e in hot if "油" in e["title"] or "苯駢芘" in e["title"]]
+        assert oil and oil[0]["outlet_count"] >= 3, "毒油案應聚合至少3家媒體"
+        drone = [e for e in hot if "無人機" in e["title"]]
+        assert drone and drone[0]["outlet_count"] >= 2, "無人機條例應聚合至少2家"
+        assert events[0]["outlet_count"] == max(e["outlet_count"] for e in events)
+        assert any(
+            e["outlet_count"] == 1 and "夜市" in e["title"] for e in events
+        ), "獨家新聞應保持獨立事件"
+        st = json.loads(
+            (fetch_news.DATA_DIR / "status.json").read_text(encoding="utf-8")
+        )
+        ct = next(s for s in st["sources"] if s["id"] == "chinatimes")
+        assert ct["ok"] and ct["via_fallback"], "chinatimes 應成功且走備援"
+        day = NOW.strftime("%Y-%m-%d")
+        assert (fetch_news.ARCHIVE_DIR / f"{day}.json").exists()
+        assert (fetch_news.ARCHIVE_DIR / "index.json").exists()
 
     print("\n全部斷言通過 ✓")
 
