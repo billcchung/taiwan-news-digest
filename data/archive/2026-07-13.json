@@ -1,10 +1,10 @@
 {
  "date": "2026-07-13",
- "generated_at": "2026-07-13T04:32:54.232471+08:00",
+ "generated_at": "2026-07-13T06:33:32.345924+08:00",
  "events": [
   {
-   "id": "bae20e4de2a7",
-   "title": "颱風巴威過境　宜蘭童玩節預定7/13恢復開園",
+   "id": "d3f5a633e06b",
+   "title": "颱風巴威來襲 花蓮縣7/11停班停課",
    "outlet_count": 13,
    "outlets": [
     "chinatimes",
@@ -21,13 +21,47 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 170,
-   "first_seen": "2026-07-10T06:17:10+08:00",
-   "last_updated": "2026-07-13T00:36:41.212642+08:00",
+   "article_count": 323,
+   "first_seen": "2026-07-10T08:00:00+08:00",
+   "last_updated": "2026-07-13T05:30:00+08:00",
    "tags": [
     "巴威"
    ],
+   "claims": [
+    {
+     "type": "風力級數",
+     "agree": true,
+     "outlet_count": 2,
+     "values": [
+      {
+       "value": "14",
+       "outlets": [
+        "中央社",
+        "風傳媒"
+       ]
+      }
+     ]
+    }
+   ],
    "articles": [
+    {
+     "title": "10號濫放颱風假 蔣推給氣象團隊 台大團隊報告：北市11號才會進暴風圈",
+     "link": "https://news.ltn.com.tw/news/life/paper/1762372",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-13T05:30:00+08:00",
+     "description": "台大提出數據 未達停班課標準\n〔記者何玉華／台北報導〕北北基桃四縣市於十日未達停班課標準下放颱風假，遭受外界強烈質疑，台北市長蔣萬安昨表示，因市府氣象團隊和氣象署預測，巴威將對北部造成嚴重影響，基於料敵從寬，決定放假；但記者查證九日晚間八點北市府召開第一次防颱工作會報，參加會報的台大氣象團隊明確指…",
+     "author": "何玉華",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "何玉華",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
     {
      "title": "睡前記得關窗！2縣市大雨特報 一路下到明晨",
      "link": "https://news.ebc.net.tw/news/living/560925",
@@ -62,424 +96,6 @@
       },
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "巴威颱風「農損2034萬」！苗栗占7成最慘　柿子、紅棗受重創",
-     "link": "https://news.tvbs.com.tw/life/3255606",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-12T20:11:56+08:00",
-     "description": "",
-     "category": "life",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "快儲水！明起全台7縣市大停水　影響區域、時間一次看",
-     "link": "https://news.tvbs.com.tw/life/3255623",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-12T19:40:56+08:00",
-     "description": "",
-     "category": "life",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "明天的天氣》7/13還有放颱風假！氣象署揭「大雨連下到發紅」最猛時間曝，熱帶擾動生成時間／ 下周氣象一次看",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1tVzRxX2d1S2QySzIxTkJTcFBCeVlrUHRWYm51cmVLR0ljb0dsY2R5WkpuS3lRNzRPSDJDUzRGU0l6ajdaQTM2Y05XX3pWQW94?oc=5",
-     "source": "storm",
-     "source_name": "風傳媒",
-     "published": "2026-07-12T19:04:00+08:00",
-     "description": "明天的天氣》7/13還有放颱風假！氣象署揭「大雨連下到發紅」最猛時間曝，熱帶擾動生成時間／ 下周氣象一次看  風傳媒",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "國家警報大響！ 大雷雨即刻轟炸示警區域曝",
-     "link": "https://news.ebc.net.tw/news/living/560891",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-12T18:48:02.152765+08:00",
-     "description": "中央氣象署於今（12日）17時38分發布大雷雨即時訊息，持續時間至18時38分止，示警區域內有短延時強降雨發生，並伴隨較強陣風、閃電落雷，請慎防溪水暴漲、坍方。",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "巴威颱風全台農損超過2000萬 柿子損失慘重",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5502880",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-12T18:14:54+08:00",
-     "description": "巴威颱風在北台灣山區帶來豪雨，農業部彙整各縣市政府查報資料，截至今（12日）下午5時，全台農業損失已超過2千萬元，其中以苗栗損失最嚴重，達1572萬元；農作物中則以柿子損失最嚴...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "記得儲水！全台8縣市明停水　影響區域、時間一次看",
-     "link": "https://www.ettoday.net/news/20260712/3199774.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-12T18:08:00+08:00",
-     "description": "這些地區的民眾準備儲水囉！台灣自來水公司公告7月13日最新停水區域，其中包含台中市、雲林縣、嘉義縣、臺南市、高雄市、屏東縣、宜蘭縣以及臺東縣等8縣市，影響區域最長時間達10小時30分鐘，請民眾做好儲水準備，以下為停水縣市區域與時間。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "一週大事／巴威颱風襲台 中聯食油再驗出苯駢芘超標（2026.7.6-7.12）",
-     "link": "https://news.pts.org.tw/article/817249",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-07-12T18:00:22+08:00",
-     "description": "《公視新聞網》為您精選一週國內外大事，關注焦點包括：巴威颱風襲台、中聯油品再驗出苯駢芘超標、基隆幼兒園遭廢照、矢板明夫遇襲、中國試射洲際彈道飛彈、川普宣布美伊協議終止、古巴大停電。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "巴威颱風遠離！高屏山林逐步解封 墾丁、藤枝森林遊樂區仍封閉",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5502863",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-12T17:57:18+08:00",
-     "description": "巴威颱風逐漸遠離，雙流國家森林遊樂區、林後四林平地森林園區、檜谷山屋與北大武山國家步道明（13）日將重新開放，里龍山、尾寮山等高屏地區自然步道完成巡查後開放；另墾丁和藤枝國家森...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    }
-   ]
-  },
-  {
-   "id": "6d2f4e5c49fc",
-   "title": "油品致癌物超標案　中聯油脂總經理遭聲押禁見",
-   "outlet_count": 13,
-   "outlets": [
-    "chinatimes",
-    "cna",
-    "ebc",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "newtalk",
-    "nownews",
-    "pts",
-    "setn",
-    "storm",
-    "tvbs",
-    "udn"
-   ],
-   "article_count": 40,
-   "first_seen": "2026-07-10T10:48:40+08:00",
-   "last_updated": "2026-07-13T00:36:41.212642+08:00",
-   "tags": [
-    "致癌油",
-    "中聯",
-    "總經理"
-   ],
-   "claims": [
-    {
-     "type": "金額",
-     "agree": false,
-     "outlet_count": 4,
-     "values": [
-      {
-       "value": "2000萬元",
-       "outlets": [
-        "TVBS",
-        "中時新聞網",
-        "聯合新聞網"
-       ]
-      },
-      {
-       "value": "50萬元",
-       "outlets": [
-        "公視新聞"
-       ]
-      }
-     ]
-    }
-   ],
-   "articles": [
-    {
-     "title": "彰化續追中聯致癌油！ 影響業者名單「驚見好市多」",
-     "link": "https://news.ebc.net.tw/news/living/560924",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-13T00:36:41.212642+08:00",
-     "description": "彰化縣衛生局表示，針對臺中市「中聯油脂」出貨予福壽實業、福懋油脂的問題油品截至目前，已完成76家業者查核。",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "致癌油產品再+2！福壽「知情不報」拖6天　中市府重罰600萬",
-     "link": "https://www.ettoday.net/news/20260713/3199900.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-13T00:00:00+08:00",
-     "description": "中聯油脂大豆沙拉油「苯駢芘（BaP）」超標事件越演越烈，台中市食品藥物安全處今（12）日晚間接獲福壽公司通報，該公司於6月30日自主送驗2件產品檢出苯駢芘超過法定限量標準，使用之中聯大豆沙拉油批號分別為318-1150406及314-1150410，由於福壽早一周前就收到檢驗報告卻未通報，市府2件產品各裁處最高額度300萬元，合計600萬元。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "中聯致癌油再驗出2批超標！福壽延遲通報台中食安處重罰900萬元",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5503054",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-12T23:33:23+08:00",
-     "description": "中聯致癌油再增2批！台中食品藥物安全處今（12日）晚接獲福壽公司通報，該公司6月30日自主送驗2件產品檢出苯駢芘超過法定限量標準，由於福壽7月6日即收到檢驗報告，但未依規定即時...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "預防性下架油品 食藥署訂7/13公布重新上架原則",
-     "link": "https://news.ebc.net.tw/news/living/560894",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-12T20:37:56.161912+08:00",
-     "description": "中聯油品致癌物超標案累計3批異常、58項產品受影響，已下架回收144公噸；食藥署表示，產品重新上架原則預計13日正式公布。",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "台中公布第三批致癌油品流向！累計91家 路易莎也中標",
-     "link": "https://news.ebc.net.tw/news/living/560893",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-12T20:37:56.161912+08:00",
-     "description": "中聯油脂大豆沙拉油遭驗出「苯駢芘（BaP）」超標事件持續延燒，台中市政府今（12）日公布最新追查進度，第三批超標油品流向、第二批問題油品下游名單等。",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "預防性下架油品  食藥署明天（13日）公布重新上架原則",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5502859",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-12T20:16:25+08:00",
-     "description": "中聯油品含致癌物超標案，目前已知3批號異常，受影響油品共58個品項，截至今天已下架回收共144公噸；中聯4至6月共29批次產品已全面下架，食藥署表示，產品重新上架原則，預計13日對外公布。\n...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "中聯油風暴擴大！新增瓦城、鬍鬚張、好市多　彰化已查76家",
-     "link": "https://www.ettoday.net/news/20260712/3199837.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-12T20:11:00+08:00",
-     "description": "彰化縣衛生局表示，針對台中市中聯油脂供應福壽實業、福懋油脂的問題油品，以及中聯油脂今年（115年）4月至6月期間生產的疑似問題油品，持續展開下游流向查核。截至目前為止，已完成76家相關業者稽查作業。\n\n 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "中聯第3批超標油品流向公布    六福開發：立即採取預防性全面下架",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5502925",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-12T19:24:10+08:00",
-     "description": "台中市食安處公布中聯致癌油第三批超標油品（批號315-1150510）第二層流向，六福開發也中鏢；六福開發表示，第一時間主動清查旗下各事業體現場庫存，並基於食品安全之審慎原則，...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "第3批問題油回收37.3公噸 預防性下架 返場標準待議",
-     "link": "https://news.ebc.net.tw/news/living/560886",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-12T18:48:02.152765+08:00",
-     "description": "中聯油品苯駢芘超標案再增第3批問題油，食藥署掌握16項受影響產品，已完成預防性下架並回收37.3公噸，返場標準仍待研議。",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "彰化續追中聯致癌油流向  再增鬍鬚張、瓦城、爭鮮",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5502868",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-12T18:00:45+08:00",
-     "description": "中聯油脂「大豆沙拉油」苯駢芘超標事件持續延燒，針對中聯油脂今年4月到6月製造的疑似問題油品，彰化縣衛生局持續查核轄內下游業者，目前已完成76家業者查核，辦理預防性下架，而追查苯...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    }
-   ]
-  },
-  {
-   "id": "13d6a88ab03a",
-   "title": "颱風巴威來襲 花蓮縣7/11停班停課",
-   "outlet_count": 13,
-   "outlets": [
-    "chinatimes",
-    "cna",
-    "ebc",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "newtalk",
-    "nownews",
-    "pts",
-    "setn",
-    "storm",
-    "tvbs",
-    "udn"
-   ],
-   "article_count": 233,
-   "first_seen": "2026-07-10T06:20:00+08:00",
-   "last_updated": "2026-07-12T23:49:49+08:00",
-   "tags": [
-    "巴威"
-   ],
-   "articles": [
-    {
-     "title": "放「颱風準備假」挨轟釀經損 秦慧珠、詹為元挺蔣萬安",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5503061",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-12T23:49:49+08:00",
-     "description": "台北市長蔣萬安拍板上週五（10日）放颱風準備假，但是放假日白天放晴，不過由於北市放假，股市也跟著休市，引發外界批評經濟損失誰來擔；對此，市議員秦慧珠表示，不要什麼事情都怪在蔣萬...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
      }
     },
     {
@@ -587,23 +203,6 @@
      }
     },
     {
-     "title": "颱風天台南水溝堵塞！里長參選人「穿旗袍」清淤被罵爆　本人親自回應了",
-     "link": "https://www.mirrormedia.mg/story/20260712edi032",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-07-12T21:33:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
      "title": "新竹縣尖石鄉玉峰村及秀巒村交通受阻　7/13停班停課",
      "link": "https://www.cna.com.tw/news/aloc/202607120195.aspx",
      "source": "cna",
@@ -619,14 +218,103 @@
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/rsscna/local"
      }
+    }
+   ]
+  },
+  {
+   "id": "6d2f4e5c49fc",
+   "title": "油品致癌物超標案　中聯油脂總經理遭聲押禁見",
+   "outlet_count": 13,
+   "outlets": [
+    "chinatimes",
+    "cna",
+    "ebc",
+    "ettoday",
+    "ltn",
+    "mirror",
+    "newtalk",
+    "nownews",
+    "pts",
+    "setn",
+    "storm",
+    "tvbs",
+    "udn"
+   ],
+   "article_count": 41,
+   "first_seen": "2026-07-10T10:48:40+08:00",
+   "last_updated": "2026-07-13T05:30:00+08:00",
+   "tags": [
+    "中聯",
+    "致癌油",
+    "總經理"
+   ],
+   "claims": [
+    {
+     "type": "金額",
+     "agree": false,
+     "outlet_count": 4,
+     "values": [
+      {
+       "value": "2000萬元",
+       "outlets": [
+        "TVBS",
+        "中時新聞網",
+        "聯合新聞網"
+       ]
+      },
+      {
+       "value": "50萬元",
+       "outlets": [
+        "公視新聞"
+       ]
+      }
+     ]
+    }
+   ],
+   "articles": [
+    {
+     "title": "「中聯油脂檢驗結果不可信」 下游產品重新上架原則今公布",
+     "link": "https://news.ltn.com.tw/news/life/paper/1762414",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-13T05:30:00+08:00",
+     "description": "〔記者林志怡、蘇金鳳、劉曉欣／綜合報導〕中聯油脂案持續延燒，衛福部要求中聯油脂重新送驗四至六月期間生產的油品留存樣本，原規劃對外公布重新送驗結果，但衛福部長石崇良指出，因中聯油脂與其下游業者檢驗情況存在出入，衛福部認為中聯檢驗結果不可信，因此不會對外公布中聯油脂重新送驗結果，下游產品重新上架原則預計…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
     },
     {
-     "title": "對外道路中斷　新竹縣宣布：尖石鄉2村明停班停課",
-     "link": "https://www.ettoday.net/news/20260712/3199875.htm",
+     "title": "彰化續追中聯致癌油！ 影響業者名單「驚見好市多」",
+     "link": "https://news.ebc.net.tw/news/living/560924",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-13T00:36:41.212642+08:00",
+     "description": "彰化縣衛生局表示，針對臺中市「中聯油脂」出貨予福壽實業、福懋油脂的問題油品截至目前，已完成76家業者查核。",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "致癌油產品再+2！福壽「知情不報」拖6天　中市府重罰600萬",
+     "link": "https://www.ettoday.net/news/20260713/3199900.htm",
      "source": "ettoday",
      "source_name": "ETtoday",
-     "published": "2026-07-12T21:26:00+08:00",
-     "description": "受巴威颱風風雨影響，新竹縣尖石鄉發生嚴重坍方、土石流等災情，導致當地對外道路中斷，大量住戶無電可用。新竹縣政府12日宣布，新竹縣尖石鄉玉峰村、秀巒村，因聯外道路交通受阻、電路不穩定，為顧及民眾安全，明（13）日停班停課。 《詳全文...》",
+     "published": "2026-07-13T00:00:00+08:00",
+     "description": "中聯油脂大豆沙拉油「苯駢芘（BaP）」超標事件越演越烈，台中市食品藥物安全處今（12）日晚間接獲福壽公司通報，該公司於6月30日自主送驗2件產品檢出苯駢芘超過法定限量標準，使用之中聯大豆沙拉油批號分別為318-1150406及314-1150410，由於福壽早一周前就收到檢驗報告卻未通報，市府2件產品各裁處最高額度300萬元，合計600萬元。 《詳全文...》",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -635,6 +323,328 @@
       },
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "中聯致癌油再驗出2批超標！福壽延遲通報台中食安處重罰900萬元",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5503054",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-12T23:33:23+08:00",
+     "description": "中聯致癌油再增2批！台中食品藥物安全處今（12日）晚接獲福壽公司通報，該公司6月30日自主送驗2件產品檢出苯駢芘超過法定限量標準，由於福壽7月6日即收到檢驗報告，但未依規定即時...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "台中公布第三批致癌油品流向！累計91家 路易莎也中標",
+     "link": "https://news.ebc.net.tw/news/living/560893",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-12T20:37:56.161912+08:00",
+     "description": "中聯油脂大豆沙拉油遭驗出「苯駢芘（BaP）」超標事件持續延燒，台中市政府今（12）日公布最新追查進度，第三批超標油品流向、第二批問題油品下游名單等。",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "預防性下架油品 食藥署訂7/13公布重新上架原則",
+     "link": "https://news.ebc.net.tw/news/living/560894",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-12T20:37:56.161912+08:00",
+     "description": "中聯油品致癌物超標案累計3批異常、58項產品受影響，已下架回收144公噸；食藥署表示，產品重新上架原則預計13日正式公布。",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "預防性下架油品  食藥署明天（13日）公布重新上架原則",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5502859",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-12T20:16:25+08:00",
+     "description": "中聯油品含致癌物超標案，目前已知3批號異常，受影響油品共58個品項，截至今天已下架回收共144公噸；中聯4至6月共29批次產品已全面下架，食藥署表示，產品重新上架原則，預計13日對外公布。\n...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "中聯油風暴擴大！新增瓦城、鬍鬚張、好市多　彰化已查76家",
+     "link": "https://www.ettoday.net/news/20260712/3199837.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-12T20:11:00+08:00",
+     "description": "彰化縣衛生局表示，針對台中市中聯油脂供應福壽實業、福懋油脂的問題油品，以及中聯油脂今年（115年）4月至6月期間生產的疑似問題油品，持續展開下游流向查核。截至目前為止，已完成76家相關業者稽查作業。\n\n 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "中聯第3批超標油品流向公布    六福開發：立即採取預防性全面下架",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5502925",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-12T19:24:10+08:00",
+     "description": "台中市食安處公布中聯致癌油第三批超標油品（批號315-1150510）第二層流向，六福開發也中鏢；六福開發表示，第一時間主動清查旗下各事業體現場庫存，並基於食品安全之審慎原則，...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "第3批問題油回收37.3公噸 預防性下架 返場標準待議",
+     "link": "https://news.ebc.net.tw/news/living/560886",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-12T18:48:02.152765+08:00",
+     "description": "中聯油品苯駢芘超標案再增第3批問題油，食藥署掌握16項受影響產品，已完成預防性下架並回收37.3公噸，返場標準仍待研議。",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    }
+   ]
+  },
+  {
+   "id": "7a290c18a432",
+   "title": "世足賽／累計進球數達8顆 姆巴佩追平梅西並列第一",
+   "outlet_count": 10,
+   "outlets": [
+    "ebc",
+    "ettoday",
+    "ltn",
+    "mirror",
+    "newtalk",
+    "nownews",
+    "pts",
+    "storm",
+    "tvbs",
+    "udn"
+   ],
+   "article_count": 57,
+   "first_seen": "2026-07-10T06:37:27+08:00",
+   "last_updated": "2026-07-13T05:30:00+08:00",
+   "tags": [
+    "世界盃"
+   ],
+   "articles": [
+    {
+     "title": "世界盃足球賽》攜手闖進4強 阿根廷英格蘭 爭冠軍戰門票",
+     "link": "https://sports.ltn.com.tw/news/paper/1762377",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-13T05:30:00+08:00",
+     "description": "世界盃足球賽4強昨天全數出爐，尋求衛冕的阿根廷和瑞士一路激戰到延長賽，最後靠著阿瓦雷茲的關鍵進球和L.馬丁尼茲錦上添花，終場3：1獲勝，最近4屆世界盃第3度挺進4強。英格蘭則在明星中場貝林漢姆梅開二度的領軍下，2：1逆轉哈蘭德領軍的挪威，隊史第4度闖進4強，台灣時間7月16日凌晨3點將在4強戰對決阿…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "世足／阿根廷將對戰英格蘭！足壇巨星點名：梅西恐成弱點",
+     "link": "https://news.ebc.net.tw/news/sport/560897",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-12T22:42:19.983243+08:00",
+     "description": "阿根廷球王梅西（Lionel Messi）在本屆世界盃持續寫下傳奇，雖然已接近40歲，場上跑動方式與年輕時大相逕庭，而他特殊的「散步式踢法」也引發外界熱烈討論。",
+     "category": "sport",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "sport",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "世足》哈蘭德大哥、姊姊超高顏值照曝光 網友驚嘆",
+     "link": "https://news.ltn.com.tw/news/world/breakingnews/5502728",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-12T21:50:35+08:00",
+     "description": "2026世界盃足球賽，挪威神鋒哈蘭德（Erling Haaland）憑藉強悍身體能力、超高進球火力，率領球隊殺入8強賽，黑馬之旅驚豔全世界。圈粉無數的哈蘭德，不僅被球迷封為「...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "「無敵艦隊」4強交鋒法國　西班牙主帥：我們是法軍剋星",
+     "link": "https://sports.ettoday.net/news/3199874",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-12T21:31:00+08:00",
+     "description": "歐陸兩大足球傳統強權西班牙、法國，即將在台灣時間15日凌晨3點於2026世界盃4強準決賽狹路相逢，爭奪最終冠軍戰門票。這場萬眾矚目的「頂尖對決」開踢前，「無敵艦隊」西班牙主帥德拉富恩特展現強大自信，強調西班牙是目前世界上唯一能對法國取得2連勝的球隊，更直言這絕對不是巧合。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "貝林漢姆成英格蘭新王者！　前輩盛讚：比傑拉德有王者霸氣",
+     "link": "https://sports.ettoday.net/news/3199855",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-12T20:35:00+08:00",
+     "description": "英格蘭超新星貝林漢姆在本屆世界盃的瘋狂表現，正持續震撼全球足壇！利物浦傳奇名將卡拉格今日在《每日電訊報》專欄撰文指出，貝林漢姆的宰制力甚至讓1990年世界盃的傳奇球星加斯居恩顯得「平庸」。卡拉格更直言，貝林漢姆身上擁有一種連前隊長傑拉德都缺少的「王者霸氣」，這將是他成就偉大的關鍵。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "世足賽／英格蘭與阿根廷挺進4強 雙方睽違21年再次交鋒",
+     "link": "https://news.pts.org.tw/article/817254",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-07-12T19:39:25+08:00",
+     "description": "世界盃足球賽8強賽事，英格蘭跟衛冕軍阿根廷分別踢走挪威跟瑞士，成功挺進4強。2支傳統勁旅將在台灣時間禮拜四在亞特蘭大碰頭，睽違21年再度上演足壇經典的英阿大戰。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "2026世足／世界杯史上首見「世界前4齊聚準決賽」 FIFA種子分流機制奏效",
+     "link": "https://www.mirrormedia.mg/story/20260712edi023",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-07-12T18:32:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "72歲譚艾珍清晨追世足賽！　靜音3小時看哈蘭德對戰英格蘭",
+     "link": "https://star.ettoday.net/news/3199818",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-12T18:16:00+08:00",
+     "description": "2026年國際足總世界盃（FIFA World Cup）於日前進入八強賽，72歲女星譚艾珍也跟上熱血風潮，早上5點就備好早餐守在電視機前，獨自觀賽3小時，讓網友都大呼「太青春了啦」。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "FIFA種子分流制奏效世界前4首度齊聚世界盃準決賽| 體育",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15Y1F3VXZtOTdaYUNQaHVoVzN6M0VTRUVQQWE2NnVZM0dtX2l1eE9hOTFmYXY0TXlXbjcxN29TekRmYjBqbmJ6UDVEVEs2ZkUyMFFDcnRPR2ZaOEk?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-12T16:25:09+08:00",
+     "description": "FIFA種子分流制奏效世界前4首度齊聚世界盃準決賽| 體育  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "世界盃阿爾瓦雷茲關鍵遠射 阿根廷退瑞士闖4強",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QaUNJd0VmZTJ1WFZJa052T0Z4Yngwa2h3RTFGMkFjOFpiWnVLeHN0LU9FblVTQ0J5eWpSWVZkV053S0hGTEF3MUt5WlVESy1LNFp4S19tUVZNa0U?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-12T14:00:04+08:00",
+     "description": "世界盃阿爾瓦雷茲關鍵遠射 阿根廷退瑞士闖4強  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -840,10 +850,11 @@
    ]
   },
   {
-   "id": "7a290c18a432",
-   "title": "世足賽／累計進球數達8顆 姆巴佩追平梅西並列第一",
+   "id": "42299759381d",
+   "title": "新北4校中午整備復原　分科測驗下午4時開放查看考場",
    "outlet_count": 10,
    "outlets": [
+    "cna",
     "ebc",
     "ettoday",
     "ltn",
@@ -852,24 +863,25 @@
     "nownews",
     "pts",
     "storm",
-    "tvbs",
-    "udn"
+    "tvbs"
    ],
-   "article_count": 56,
-   "first_seen": "2026-07-10T06:37:27+08:00",
+   "article_count": 12,
+   "first_seen": "2026-07-10T17:13:00+08:00",
    "last_updated": "2026-07-12T22:42:19.983243+08:00",
    "tags": [
-    "世界盃"
+    "科測驗",
+    "看考場",
+    "下午"
    ],
    "articles": [
     {
-     "title": "世足／阿根廷將對戰英格蘭！足壇巨星點名：梅西恐成弱點",
-     "link": "https://news.ebc.net.tw/news/sport/560897",
+     "title": "考生快看！分科測驗登場 命理師曝10撇步提升考運",
+     "link": "https://news.ebc.net.tw/news/living/560906",
      "source": "ebc",
      "source_name": "東森新聞",
      "published": "2026-07-12T22:42:19.983243+08:00",
-     "description": "阿根廷球王梅西（Lionel Messi）在本屆世界盃持續寫下傳奇，雖然已接近40歲，場上跑動方式與年輕時大相逕庭，而他特殊的「散步式踢法」也引發外界熱烈討論。",
-     "category": "sport",
+     "description": "115學年度大學分科測驗將於本週一、二（7月13日、14日）登場，數萬名考生即將迎接關鍵考試，命理師楊鵬淵也在臉書分享應考期間的民俗小技巧。",
+     "category": "living",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -877,68 +889,17 @@
        "source": "unknown"
       },
       "acquisition": "scraper",
-      "category": "sport",
+      "category": "living",
       "feed_url": "https://news.ebc.net.tw/realtime"
      }
     },
     {
-     "title": "世足》哈蘭德大哥、姊姊超高顏值照曝光 網友驚嘆",
-     "link": "https://news.ltn.com.tw/news/world/breakingnews/5502728",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-12T21:50:35+08:00",
-     "description": "2026世界盃足球賽，挪威神鋒哈蘭德（Erling Haaland）憑藉強悍身體能力、超高進球火力，率領球隊殺入8強賽，黑馬之旅驚豔全世界。圈粉無數的哈蘭德，不僅被球迷封為「...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "「無敵艦隊」4強交鋒法國　西班牙主帥：我們是法軍剋星",
-     "link": "https://sports.ettoday.net/news/3199874",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-12T21:31:00+08:00",
-     "description": "歐陸兩大足球傳統強權西班牙、法國，即將在台灣時間15日凌晨3點於2026世界盃4強準決賽狹路相逢，爭奪最終冠軍戰門票。這場萬眾矚目的「頂尖對決」開踢前，「無敵艦隊」西班牙主帥德拉富恩特展現強大自信，強調西班牙是目前世界上唯一能對法國取得2連勝的球隊，更直言這絕對不是巧合。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "貝林漢姆成英格蘭新王者！　前輩盛讚：比傑拉德有王者霸氣",
-     "link": "https://sports.ettoday.net/news/3199855",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-12T20:35:00+08:00",
-     "description": "英格蘭超新星貝林漢姆在本屆世界盃的瘋狂表現，正持續震撼全球足壇！利物浦傳奇名將卡拉格今日在《每日電訊報》專欄撰文指出，貝林漢姆的宰制力甚至讓1990年世界盃的傳奇球星加斯居恩顯得「平庸」。卡拉格更直言，貝林漢姆身上擁有一種連前隊長傑拉德都缺少的「王者霸氣」，這將是他成就偉大的關鍵。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "世足賽／英格蘭與阿根廷挺進4強 雙方睽違21年再次交鋒",
-     "link": "https://news.pts.org.tw/article/817254",
+     "title": "大學分科測驗明登場 下午開放看考場",
+     "link": "https://news.pts.org.tw/article/817252",
      "source": "pts",
      "source_name": "公視新聞",
-     "published": "2026-07-12T19:39:25+08:00",
-     "description": "世界盃足球賽8強賽事，英格蘭跟衛冕軍阿根廷分別踢走挪威跟瑞士，成功挺進4強。2支傳統勁旅將在台灣時間禮拜四在亞特蘭大碰頭，睽違21年再度上演足壇經典的英阿大戰。",
+     "published": "2026-07-12T19:29:02+08:00",
+     "description": "受到巴威颱風影響，大學分科測驗延期到明後2日舉行，今（12）日下午4時到6時開放給考生跟家長看考場。明日將進行物理、化學、數學甲以及生物4科測驗，大考中心提醒考生，務必攜帶身分證及入場識別證，準時應試。",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -950,11 +911,65 @@
      }
     },
     {
-     "title": "2026世足／世界杯史上首見「世界前4齊聚準決賽」 FIFA種子分流機制奏效",
-     "link": "https://www.mirrormedia.mg/story/20260712edi023",
+     "title": "分科測驗明登場！全國考場全數復原最新狀況曝光| 生活",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9maVdzWVg5T0I4cng4S21UQzlaVGExYTFNRjZLcGszZ2IybXpNdGRyckhCYUlveWtJYkRwNWFxMUFvNW0tVlJQWDVwZjFCQWhIMzNyNGFyNmpPbTQ?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-12T17:50:31+08:00",
+     "description": "分科測驗明登場！全國考場全數復原最新狀況曝光| 生活  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "新北4校中午整備復原 分科測驗下午4時開放查看考場",
+     "link": "https://news.ebc.net.tw/news/living/560860",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-12T15:11:23.120729+08:00",
+     "description": "侯友宜視察巴威災後復原，宣布橫移門及越堤道下午2時開通，並要求分科測驗考場中午完成整備、下午4時開放考生查看試場。",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "新北4校中午整備復原　分科測驗下午4時開放查看考場",
+     "link": "https://www.cna.com.tw/news/aloc/202607120074.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-12T12:50:23+08:00",
+     "description": "（中央社記者王鴻國新北12日電）新北市長侯友宜在颱風巴威遠離後勘查災後復原，預定橫移門及越堤道下午2時開通：隨後到新北高中視察分科測驗試場，要求各校中午完成整備，下午4時起開放查看試場。",
+     "author": "王鴻國",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "王鴻國",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/local"
+     }
+    },
+    {
+     "title": "考生注意！分科測驗延至明、後天舉行　「今日下午」開放看考場",
+     "link": "https://www.mirrormedia.mg/story/20260712edi012",
      "source": "mirror",
      "source_name": "鏡週刊",
-     "published": "2026-07-12T18:32:00+08:00",
+     "published": "2026-07-12T10:31:00+08:00",
      "description": "",
      "metadata": {
       "schema_version": 1,
@@ -967,29 +982,12 @@
      }
     },
     {
-     "title": "72歲譚艾珍清晨追世足賽！　靜音3小時看哈蘭德對戰英格蘭",
-     "link": "https://star.ettoday.net/news/3199818",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-12T18:16:00+08:00",
-     "description": "2026年國際足總世界盃（FIFA World Cup）於日前進入八強賽，72歲女星譚艾珍也跟上熱血風潮，早上5點就備好早餐守在電視機前，獨自觀賽3小時，讓網友都大呼「太青春了啦」。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "FIFA種子分流制奏效世界前4首度齊聚世界盃準決賽| 體育",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15Y1F3VXZtOTdaYUNQaHVoVzN6M0VTRUVQQWE2NnVZM0dtX2l1eE9hOTFmYXY0TXlXbjcxN29TekRmYjBqbmJ6UDVEVEs2ZkUyMFFDcnRPR2ZaOEk?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-12T16:25:09+08:00",
-     "description": "FIFA種子分流制奏效世界前4首度齊聚世界盃準決賽| 體育  Newtalk新聞",
+     "title": "分科測驗明天登場！3.9萬考生注意：改8/17放榜、看考場時間改這時 | 江勳紘 | 風生活",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8yZVNTaFZhVGFwZkFaUWRHVnMtR2ptZXVXY1VDSEZ2aUZ0SFA2aXhqLWtUd2djSUNnd3h6SE1JSEo5WEVVNjA3RjRkWmtvM2Ey?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-07-12T10:16:33+08:00",
+     "description": "分科測驗明天登場！3.9萬考生注意：改8/17放榜、看考場時間改這時 | 江勳紘 | 風生活  風傳媒",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -997,16 +995,16 @@
        "source": "unknown"
       },
       "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
-     "title": "世界盃阿爾瓦雷茲關鍵遠射 阿根廷退瑞士闖4強",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QaUNJd0VmZTJ1WFZJa052T0Z4Yngwa2h3RTFGMkFjOFpiWnVLeHN0LU9FblVTQ0J5eWpSWVZkV053S0hGTEF3MUt5WlVESy1LNFp4S19tUVZNa0U?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-12T14:00:04+08:00",
-     "description": "世界盃阿爾瓦雷茲關鍵遠射 阿根廷退瑞士闖4強  Newtalk新聞",
+     "title": "分科測驗下午看考場！不能進教室看什麼　專家：最好去、看5重點",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDXzNPcUwtR1A2UEJhOVZ1bnVJeXlOaUlkaU9ZVXB1NmxuQmp6NTk2bTRncG1PQW55XzBZekV0VzZOdFBlOS02MlZLbVY4eFdGakHSAVJBVV95cUxQQ18zT3FMLUdQNlBCYTlWdW51SXl5TmlJZGlPWVVwdTZsbkJqejU5Nm00Z3BtT0FueV8wWXpFdFc2TnRQZTktNjJWS21WOHhXRmpB?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-07-12T09:56:04+08:00",
+     "description": "分科測驗下午看考場！不能進教室看什麼　專家：最好去、看5重點  NOWnews今日新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -1014,17 +1012,17 @@
        "source": "unknown"
       },
       "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
-     "title": "2026世界盃／64年無人衛冕！阿根廷挑戰歷史　瑞士盼「鎖死梅西」首闖4強",
-     "link": "https://news.tvbs.com.tw/sports/3254626",
+     "title": "巴威影響分科測驗延至明後兩天　今開放下午4至6點看考場",
+     "link": "https://news.tvbs.com.tw/life/3255198",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-12T13:29:56.312880+08:00",
+     "published": "2026-07-12T09:42:19+08:00",
      "description": "",
-     "category": "sports",
+     "category": "life",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -1032,8 +1030,25 @@
        "source": "unknown"
       },
       "acquisition": "scraper",
-      "category": "sports",
+      "category": "life",
       "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "巴威颱風攪局分科測驗 今日下午4點至6點開放看考場",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5502311",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-12T07:59:15+08:00",
+     "description": "115學年度分科測驗因颱風巴威延期舉行，大考中心提醒，考生原公布的應試號碼及考試地點都維持不變，但因考場須進行環境整理、清潔消毒及試場布置，所有考生一律於今（12）日下午4時至...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
      }
     }
    ]
@@ -1470,55 +1485,35 @@
    ]
   },
   {
-   "id": "42299759381d",
-   "title": "新北4校中午整備復原　分科測驗下午4時開放查看考場",
+   "id": "e61d5bdbd627",
+   "title": "北市遭質疑未達颱風假標準 蔣萬安：4市討論後決定",
    "outlet_count": 9,
    "outlets": [
-    "cna",
-    "ebc",
-    "ettoday",
+    "chinatimes",
     "ltn",
     "mirror",
     "newtalk",
     "pts",
+    "setn",
     "storm",
-    "tvbs"
+    "tvbs",
+    "udn"
    ],
-   "article_count": 11,
-   "first_seen": "2026-07-10T17:13:00+08:00",
-   "last_updated": "2026-07-12T22:42:19.983243+08:00",
+   "article_count": 62,
+   "first_seen": "2026-07-10T07:06:12+08:00",
+   "last_updated": "2026-07-12T23:49:49+08:00",
    "tags": [
-    "科測驗",
-    "看考場",
-    "開放"
+    "蔣萬安",
+    "颱風假"
    ],
    "articles": [
     {
-     "title": "考生快看！分科測驗登場 命理師曝10撇步提升考運",
-     "link": "https://news.ebc.net.tw/news/living/560906",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-12T22:42:19.983243+08:00",
-     "description": "115學年度大學分科測驗將於本週一、二（7月13日、14日）登場，數萬名考生即將迎接關鍵考試，命理師楊鵬淵也在臉書分享應考期間的民俗小技巧。",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "大學分科測驗明登場 下午開放看考場",
-     "link": "https://news.pts.org.tw/article/817252",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-07-12T19:29:02+08:00",
-     "description": "受到巴威颱風影響，大學分科測驗延期到明後2日舉行，今（12）日下午4時到6時開放給考生跟家長看考場。明日將進行物理、化學、數學甲以及生物4科測驗，大考中心提醒考生，務必攜帶身分證及入場識別證，準時應試。",
+     "title": "放「颱風準備假」挨轟釀經損 秦慧珠、詹為元挺蔣萬安",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5503061",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-12T23:49:49+08:00",
+     "description": "台北市長蔣萬安拍板上週五（10日）放颱風準備假，但是放假日白天放晴，不過由於北市放假，股市也跟著休市，引發外界批評經濟損失誰來擔；對此，市議員秦慧珠表示，不要什麼事情都怪在蔣萬...…",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -1526,69 +1521,15 @@
        "source": "unknown"
       },
       "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
      }
     },
     {
-     "title": "分科測驗明登場！全國考場全數復原最新狀況曝光| 生活",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9maVdzWVg5T0I4cng4S21UQzlaVGExYTFNRjZLcGszZ2IybXpNdGRyckhCYUlveWtJYkRwNWFxMUFvNW0tVlJQWDVwZjFCQWhIMzNyNGFyNmpPbTQ?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-12T17:50:31+08:00",
-     "description": "分科測驗明登場！全國考場全數復原最新狀況曝光| 生活  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "新北4校中午整備復原 分科測驗下午4時開放查看考場",
-     "link": "https://news.ebc.net.tw/news/living/560860",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-12T15:11:23.120729+08:00",
-     "description": "侯友宜視察巴威災後復原，宣布橫移門及越堤道下午2時開通，並要求分科測驗考場中午完成整備、下午4時開放考生查看試場。",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "新北4校中午整備復原　分科測驗下午4時開放查看考場",
-     "link": "https://www.cna.com.tw/news/aloc/202607120074.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-12T12:50:23+08:00",
-     "description": "（中央社記者王鴻國新北12日電）新北市長侯友宜在颱風巴威遠離後勘查災後復原，預定橫移門及越堤道下午2時開通：隨後到新北高中視察分科測驗試場，要求各校中午完成整備，下午4時起開放查看試場。",
-     "author": "王鴻國",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "王鴻國",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/local"
-     }
-    },
-    {
-     "title": "考生注意！分科測驗延至明、後天舉行　「今日下午」開放看考場",
-     "link": "https://www.mirrormedia.mg/story/20260712edi012",
+     "title": "颱風天台南水溝堵塞！里長參選人「穿旗袍」清淤被罵爆　本人親自回應了",
+     "link": "https://www.mirrormedia.mg/story/20260712edi032",
      "source": "mirror",
      "source_name": "鏡週刊",
-     "published": "2026-07-12T10:31:00+08:00",
+     "published": "2026-07-12T21:33:00+08:00",
      "description": "",
      "metadata": {
       "schema_version": 1,
@@ -1601,30 +1542,13 @@
      }
     },
     {
-     "title": "分科測驗明天登場！3.9萬考生注意：改8/17放榜、看考場時間改這時 | 江勳紘 | 風生活",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8yZVNTaFZhVGFwZkFaUWRHVnMtR2ptZXVXY1VDSEZ2aUZ0SFA2aXhqLWtUd2djSUNnd3h6SE1JSEo5WEVVNjA3RjRkWmtvM2Ey?oc=5",
-     "source": "storm",
-     "source_name": "風傳媒",
-     "published": "2026-07-12T10:16:33+08:00",
-     "description": "分科測驗明天登場！3.9萬考生注意：改8/17放榜、看考場時間改這時 | 江勳紘 | 風生活  風傳媒",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "巴威影響分科測驗延至明後兩天　今開放下午4至6點看考場",
-     "link": "https://news.tvbs.com.tw/life/3255198",
+     "title": "巴威颱風發威！捷運辛亥站2車「遭路樹壓頂」捅破窗",
+     "link": "https://news.tvbs.com.tw/local/3255629",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-12T09:42:19+08:00",
+     "published": "2026-07-12T20:32:54+08:00",
      "description": "",
-     "category": "life",
+     "category": "local",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -1632,17 +1556,55 @@
        "source": "unknown"
       },
       "acquisition": "scraper",
-      "category": "life",
+      "category": "local",
       "feed_url": "https://news.tvbs.com.tw/realtime"
      }
     },
     {
-     "title": "巴威颱風攪局分科測驗 今日下午4點至6點開放看考場",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5502311",
+     "title": "蔣萬安放颱風假挨轟！作家痛批「雙標」：山陀兒高雄連放4天",
+     "link": "https://news.tvbs.com.tw/politics/3255613",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-12T19:32:54+08:00",
+     "description": "",
+     "category": "politics",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "politics",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "男租賃車遲未還！一查屍躺左營高鐵站　警急拉封鎖線",
+     "link": "https://news.tvbs.com.tw/local/3255466",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-12T16:02:12+08:00",
+     "description": "",
+     "category": "local",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "local",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "蔣萬安「防災整備日」挨批 趙曉慧：停班課應回歸科學決策",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5502683",
      "source": "ltn",
      "source_name": "自由時報",
-     "published": "2026-07-12T07:59:15+08:00",
-     "description": "115學年度分科測驗因颱風巴威延期舉行，大考中心提醒，考生原公布的應試號碼及考試地點都維持不變，但因考場須進行環境整理、清潔消毒及試場布置，所有考生一律於今（12）日下午4時至...…",
+     "published": "2026-07-12T14:41:39+08:00",
+     "description": "巴威颱風來襲，北市10日未達停班課標準卻停班課，台北市長蔣萬安稱是「防災整備日」引發爭議，「灼見文創」創辦人與職場寫作講師趙曉慧說，每次看到攸關幾百億經濟產值、勞工安全跟產業命...…",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -1654,12 +1616,12 @@
      }
     },
     {
-     "title": "分科測驗今天開放看考場　大考中心提醒：下午4時開始",
-     "link": "https://www.ettoday.net/news/20260712/3199112.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-12T07:01:00+08:00",
-     "description": "大學分科測驗將在周一、二登場，今（12日）下午開放考生查看考場。大考中心提醒考生，受巴威颱風影響，考場學校需進行環境整理、清潔消毒及試場布置，所以看考場時間為下午4時至6時，不是過往的下午2時至4時，但已經公布的應試號碼與考試地點皆不變動，請考生與家長注意安全。 《詳全文...》",
+     "title": "蔣萬安「颱風整備假」惹議 劉進興：不顧科學資訊 市府明顯失職",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5502590",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-12T14:05:36+08:00",
+     "description": "巴威颱風來襲，台北市10日「白天無風無雨」卻提前放假，事後市長蔣萬安將此舉定調為「防颱整備日」，不負責任說詞引爆各界砲轟。對此，曾任高雄市研考會主委的前立委劉進興表示，他在高雄市...…",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -1667,7 +1629,60 @@
        "source": "unknown"
       },
       "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "張景森批「自創防颱假」　蔣萬安：市民安全優先",
+     "link": "https://news.tvbs.com.tw/politics/3255284",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-12T12:32:54+08:00",
+     "description": "",
+     "category": "politics",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "politics",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "7/10放颱風整備假引發爭議 蔣萬安：市民安全第一",
+     "link": "https://news.pts.org.tw/article/817243",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-07-12T12:25:11+08:00",
+     "description": "巴威颱風暴風圈掃過北台灣，雙北出現零星災情，包括路樹倒塌、招牌掉落、電線受損以及局部積淹水等，目前都已大致排除。不過北市週五放颱風整備假引起爭議。也有民眾認為，應該要有災後復原假。台北市長蔣萬安回應，北北基桃都是依照現行機制進行相關決策，會以市民安全為最優先考量。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "北市不該連放2天颱風假？蔣萬安挨轟「討好選民」 作家對比高雄往例酸：當年爽放4天 | 張庭維 | 新聞",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wN1oxeHo4ZTJqbklwMk5JNFJQQzJWb1pqVHVyV1BQSkR6ckd6TmkySi1JT3RmUGRVZDh4dGlLM2ZsUnJacGw0RF9qbEh0UQ?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-07-12T11:35:56+08:00",
+     "description": "北市不該連放2天颱風假？蔣萬安挨轟「討好選民」 作家對比高雄往例酸：當年爽放4天 | 張庭維 | 新聞  風傳媒",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -2058,8 +2073,8 @@
    ]
   },
   {
-   "id": "82298084da9a",
-   "title": "「陽明山暫時擋住巴威」台北市風力最強時間還沒到 風雨最大是這時間",
+   "id": "4db569583c4c",
+   "title": "「陽明山暫時擋住巴威」台北市風力最強時間還沒到風雨最大是這時間| 巴威颱風襲台| 生活",
    "outlet_count": 8,
    "outlets": [
     "ebc",
@@ -2203,14 +2218,6 @@
      }
     },
     {
-     "title": "「陽明山暫時擋住巴威」台北市風力最強時間還沒到風雨最大是這時間| 巴威颱風襲台| 生活",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10MmtJdk92MjhSWmJ5LXNWQVQyTHNjNXZGZFdQa3ljTjR4VnkwYUVyd1FGVEg5Zy1MV005TktpNXJiT05Kd01IVWNVOGUzbnRzdmFR?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-07-11T08:54:24+08:00",
-     "description": "「陽明山暫時擋住巴威」台北市風力最強時間還沒到風雨最大是這時間| 巴威颱風襲台| 生活  UDN"
-    },
-    {
      "title": "「陽明山暫時擋住巴威」台北市風力最強時間還沒到 風雨最大是這時間",
      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10MmtJdk92MjhSWmJ5LXNWQVQyTHNjNXZGZFdQa3ljTjR4VnkwYUVyd1FGVEg5Zy1MV005TktpNXJiT05Kd01IVWNVOGUzbnRzdmFR0gFYQVVfeXFMUHdxTUtocjhwOUJ6dVAtTklzRDRSRUJkOFBuUU16SFRjcUlEVWZyZDdLZldPZFBMd0d4RE5UVFU2aXFYRGNoZWNFWnpoU2JkelJ1YmJ6ZWxrYg?oc=5",
      "source": "udn",
@@ -2225,6 +2232,216 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "「陽明山暫時擋住巴威」台北市風力最強時間還沒到風雨最大是這時間| 巴威颱風襲台| 生活",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10MmtJdk92MjhSWmJ5LXNWQVQyTHNjNXZGZFdQa3ljTjR4VnkwYUVyd1FGVEg5Zy1MV005TktpNXJiT05Kd01IVWNVOGUzbnRzdmFR?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-07-11T08:54:24+08:00",
+     "description": "「陽明山暫時擋住巴威」台北市風力最強時間還沒到風雨最大是這時間| 巴威颱風襲台| 生活  UDN"
+    }
+   ]
+  },
+  {
+   "id": "82e19cac050c",
+   "title": "颱風巴威陸警範圍擴大 南投以北、花東等12縣市全數入列",
+   "outlet_count": 7,
+   "outlets": [
+    "ebc",
+    "ltn",
+    "mirror",
+    "newtalk",
+    "pts",
+    "tvbs",
+    "udn"
+   ],
+   "article_count": 11,
+   "first_seen": "2026-07-10T08:59:55+08:00",
+   "last_updated": "2026-07-13T06:17:00+08:00",
+   "tags": [
+    "巴威",
+    "天氣",
+    "陸警"
+   ],
+   "articles": [
+    {
+     "title": "記得帶傘！南方水氣北移「天氣不穩定」　2地區防雨彈來襲",
+     "link": "https://www.mirrormedia.mg/story/20260713edi001",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-07-13T06:17:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "巴威颱風維持強颱長達6天 上午8:30解除警報南部3縣市大雨特報",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12NnJMMGZlbTNYeHd6STBWMVJMS3FiZVVWMFJCdnYxTG1Kd09BX01sM0MxM0hsLW5NWURhMzFwQ1ZwZm1tenJoeFRSREJMTXBRVksw0gFYQVVfeXFMUExLbmlpa29idnB2ZWFabTd5V2lURGEyV2JqVGxYM2N1cllQQVpPc0k3NFllV1ZSZ0JSSVcxeDlUcWZWaEJDZWJTb0dFaGhVaGhFYlJjRlJjbQ?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-07-12T09:22:30+08:00",
+     "description": "巴威颱風維持強颱長達6天 上午8:30解除警報南部3縣市大雨特報  聯合新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "巴威8:30解除海警！大雨還沒停 3縣市雨彈狂轟",
+     "link": "https://news.ebc.net.tw/news/living/560822",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-12T08:58:59.187955+08:00",
+     "description": "中度颱風「巴威」逐漸遠離台灣，中央氣象署今（12）日表示，已於清晨5時30分解除陸上颱風警報，不過，颱風外圍環流及西南風仍持續影響，各地降雨尚未結束。",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "天氣／巴威陸警解除！「改吹南風」全台仍有雨　2地區防雷雨彈",
+     "link": "https://news.tvbs.com.tw/life/3255166",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-12T07:29:00+08:00",
+     "description": "",
+     "category": "life",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "life",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "預計8:30解除巴威海警 中南部防局部大雨、花東縱谷飆36度",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CZTJHSUY5TGZrWXVqQkk4STJRV1FoeEJuSHhycmk0X3FGY2YxSV9jenV1MUtucWFyU3lVWU5ON1pRRjJIOVp3bXFXdmFsQ1FtamNndzloNFk1VXM?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-12T06:59:57+08:00",
+     "description": "預計8:30解除巴威海警 中南部防局部大雨、花東縱谷飆36度  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "週日巴威遠離！中南部易有雷雨 花東飆36度",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5502187",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-11T22:53:46+08:00",
+     "description": "週日（12日）巴威颱風遠離，整體風雨趨緩，不過迎風面中南部地區易有短暫陣雨或雷雨，其他地區為多雲，午後有局部短暫雷陣雨發生；溫度方面，中部以北及東半部高溫約33至35度，南部高溫...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "明天天氣／巴威颱風漸遠離！2地恐有焚風飆36度　中南部防大雨",
+     "link": "https://news.tvbs.com.tw/life/3255019",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-11T19:36:23+08:00",
+     "description": "",
+     "category": "life",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "life",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "明天天氣／巴威陸警擴大！仍飆36度高溫　雨彈開轟「3區雨最猛」",
+     "link": "https://news.tvbs.com.tw/life/3254249",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-10T18:33:36+08:00",
+     "description": "",
+     "category": "life",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "life",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "颱風巴威陸警範圍擴大 南投以北、花東等12縣市全數入列",
+     "link": "https://news.pts.org.tw/article/817001",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-07-10T15:28:55+08:00",
+     "description": "氣象署今（10）日清晨對颱風巴威發布陸上颱風警報後，截至下午2時30分，警戒範圍已擴大至南投、台中以北及東部的宜花東等共12個縣市。氣象署指出，雖然颱風在過去幾小時強度稍微減弱，不過7級風暴風半徑仍有380公里，隨颱風逐漸逼近，風雨會愈來愈大，但暴風圈壟罩全台的機率將偏低。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "中颱「巴威」陸警範圍擴大5縣市　一圖掌握各地風雨時程",
+     "link": "https://www.mirrormedia.mg/story/20260710edi006",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-07-10T09:07:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
      }
     }
    ]
@@ -2242,15 +2459,68 @@
     "storm",
     "tvbs"
    ],
-   "article_count": 17,
+   "article_count": 20,
    "first_seen": "2026-07-12T14:51:54+08:00",
-   "last_updated": "2026-07-13T03:00:06+08:00",
+   "last_updated": "2026-07-13T06:02:25+08:00",
    "tags": [
     "參議員葛蘭姆",
     "重量級",
     "哀悼"
    ],
    "articles": [
+    {
+     "title": "美議員葛蘭姆過世美媒：心臟驟停曾心肺復甦搶救| 國際",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuVk5UWmRGblI5Z19UMXVSaHozQ3ZZY1pRRERiTTZqSHBvNEQ3eGtPOXBwcnhBWEl5WjBrWXZYbjU2Uk9ReDByR2ZBZDZIR0Z1eG9hQmRDTVhlbG8?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-13T06:02:25+08:00",
+     "description": "美議員葛蘭姆過世美媒：心臟驟停曾心肺復甦搶救| 國際  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "美議員葛蘭姆過世　美媒：心臟驟停曾心肺復甦搶救",
+     "link": "https://news.ltn.com.tw/news/world/breakingnews/5503094",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-13T05:36:03+08:00",
+     "description": "美國總統川普今天對聯邦參議員葛蘭姆突然病逝表示不清楚原因。「華爾街日報」引述搶救通聯紀錄報導，報案現場有人心臟驟停，醫護曾進行心肺復甦搶救。\n\n共和黨籍聯邦參議員葛蘭姆（Lindsey Gr...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "美國重量級參議員葛蘭姆辭世　各界哀悼",
+     "link": "https://news.tvbs.com.tw/world/3255748",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-13T05:33:32+08:00",
+     "description": "",
+     "category": "world",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "world",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
     {
      "title": "美國重量級參議員葛蘭姆辭世　各界哀悼",
      "link": "https://news.ltn.com.tw/news/world/breakingnews/5503086",
@@ -2371,58 +2641,6 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "美重量級參議員葛蘭姆辭世　賴總統致最深切哀悼",
-     "link": "https://www.cna.com.tw/news/aipl/202607120168.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-12T18:32:51+08:00",
-     "description": "（中央社記者葉素萍台北12日電）美國共和黨籍南卡羅來納州聯邦參議員葛蘭姆（Lindsey Graham）辭世，享壽71歲。總統賴清德今天透過社群平台Ｘ發文表示，深感哀痛，葛蘭姆是台灣真正的朋友，在此艱難時刻，向葛蘭姆家人與朋友致上最深切哀悼。",
-     "author": "葉素萍",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "葉素萍",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
-     }
-    },
-    {
-     "title": "美參議員葛瑞姆逝世賴清德哀悼：台灣失去一位重要友人| 政治",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kZTJuc29JMkFKT0R6cF9YV254RXhQd3FMQVdFYklOWnBnVWYyU3pqSXcwNXJnV3p6eTdldWZEVHcyemNVUFhrTnZQNlpiZ0lRQUZpUTcza0gzaTA?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-12T18:00:16+08:00",
-     "description": "美參議員葛瑞姆逝世賴清德哀悼：台灣失去一位重要友人| 政治  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "澤倫斯基哀悼美參議員葛蘭姆 感念多次親訪烏克蘭",
-     "link": "https://news.ltn.com.tw/news/world/breakingnews/5502872",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-12T17:59:59+08:00",
-     "description": "烏克蘭總統澤倫斯基12日對才剛訪問烏克蘭的美國共和黨籍聯邦參議員葛蘭姆（Lindsey Graham）驟逝表達深沉悲痛，推崇葛蘭姆是「意志堅定的領袖」，曾在烏克蘭最需要他時多次...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
      }
     }
    ]
@@ -2784,6 +3002,23 @@
      }
     },
     {
+     "title": "巴威颱風》風雨釀113傷 全台撤離逾1.4萬人",
+     "link": "https://news.ltn.com.tw/news/life/paper/1762335",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-12T05:30:00+08:00",
+     "description": "10級強陣風吹斷電桿、電線 台電急搶修 復電逾96％\n\n〔記者鄭景議、林菁樺、劉濱銓、黃美珠／綜合報導〕巴威颱風昨日侵襲台灣整天，在山區帶來累積逾五百毫米的超大豪雨，沿海最強吹十二級強陣風；中央統計災情，截至昨晚七點止，全台因強風豪雨已造成一一三人受傷，無人死亡或失蹤，但因颱風威脅預防性撤離一．…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
      "title": "巴威颱風》土石流紅色警戒 今可望全數解除",
      "link": "https://news.ltn.com.tw/news/life/paper/1762338",
      "source": "ltn",
@@ -2796,23 +3031,6 @@
       "author": {
        "name": "吳柏軒",
        "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "巴威颱風》風雨釀113傷 全台撤離逾1.4萬人",
-     "link": "https://news.ltn.com.tw/news/life/paper/1762335",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-12T05:30:00+08:00",
-     "description": "10級強陣風吹斷電桿、電線 台電急搶修 復電逾96％\n\n〔記者鄭景議、林菁樺、劉濱銓、黃美珠／綜合報導〕巴威颱風昨日侵襲台灣整天，在山區帶來累積逾五百毫米的超大豪雨，沿海最強吹十二級強陣風；中央統計災情，截至昨晚七點止，全台因強風豪雨已造成一一三人受傷，無人死亡或失蹤，但因颱風威脅預防性撤離一．…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
       },
       "acquisition": "rss",
       "feed_url": "https://news.ltn.com.tw/rss/all.xml"
@@ -2894,25 +3112,6 @@
      }
     },
     {
-     "title": "天氣／巴威「最新路徑」出爐　賈新興：AI勝出",
-     "link": "https://news.tvbs.com.tw/life/3254606",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-12T13:29:56.312880+08:00",
-     "description": "",
-     "category": "life",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
      "title": "巴威剛走水氣更猛？明起「短延時大雨」未來一週天氣曝",
      "link": "https://news.ebc.net.tw/news/living/560846",
      "source": "ebc",
@@ -2929,6 +3128,25 @@
       "acquisition": "scraper",
       "category": "living",
       "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "天氣／巴威「最新路徑」出爐　賈新興：AI勝出",
+     "link": "https://news.tvbs.com.tw/life/3254606",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-12T13:29:56.312880+08:00",
+     "description": "",
+     "category": "life",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "life",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
      }
     },
     {
@@ -3919,155 +4137,6 @@
    ]
   },
   {
-   "id": "ae24b246c4bd",
-   "title": "北市師大路行人穿越道行人遭撞命危　警偵辦查肇因",
-   "outlet_count": 6,
-   "outlets": [
-    "cna",
-    "ebc",
-    "ettoday",
-    "ltn",
-    "newtalk",
-    "tvbs"
-   ],
-   "article_count": 7,
-   "first_seen": "2026-07-12T16:15:00+08:00",
-   "last_updated": "2026-07-13T00:36:41.212642+08:00",
-   "tags": [
-    "北市師大路",
-    "過馬路遭",
-    "命危"
-   ],
-   "articles": [
-    {
-     "title": "北市西門町健身房驚傳意外！男無心跳送醫搶救",
-     "link": "https://news.ebc.net.tw/news/society/560929",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-13T00:36:41.212642+08:00",
-     "description": "台北市西門町一間健身房，今（12）日晚間驚傳意外，消防局20時06分獲報，現場一名年約50歲的男子身體不適，到院前已失去呼吸心跳，目前正在搶救當中。",
-     "category": "society",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "society",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "北市師大路行人穿越道行人遭撞命危警偵辦查肇因| 社會",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rUmxxb0tTNFFoZW9ISzF5X3FJMFctYXNOVTVLWlhtWU5yUFB0ak42UXBaMW9qVTRvWlVUeF93Ukw2R2x4WElPaWg0NlNRMkRjMlR2U05PQlgwNEU?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-12T21:35:03+08:00",
-     "description": "北市師大路行人穿越道行人遭撞命危警偵辦查肇因| 社會  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "北市師大路行人穿越道行人遭撞命危　警偵辦查肇因",
-     "link": "https://www.cna.com.tw/news/asoc/202607120183.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-12T20:11:24+08:00",
-     "description": "（中央社記者黃麗芸台北12日電）台北市吳姓女子和友人聚餐後行經大安區師大路行人穿越道時，遭駕駛賓士車的蔡姓男子疑不慎撞擊，當場無呼吸心跳，警消獲報協助送醫搶救，現仍顱內出血昏迷，全案依法偵辦。",
-     "author": "黃麗芸",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "黃麗芸",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/social"
-     }
-    },
-    {
-     "title": "北市嚴重車禍！行人過馬路遭衝撞 命危急送醫",
-     "link": "https://news.ebc.net.tw/news/society/560892",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-12T18:48:02.152765+08:00",
-     "description": "台北市大安區今（12日）發生嚴重車禍，一名57歲吳姓女子行經師大路時遭小客車撞擊，當場陷入昏迷且生命跡象微弱，救護已將女子送台大醫院搶救。詳細車禍原因仍待警方釐",
-     "category": "society",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "society",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "北市婦過馬路遭賓士撞擊命危 駕駛未禮讓將開罰吊照",
-     "link": "https://news.ltn.com.tw/news/society/breakingnews/5502858",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-12T17:52:10+08:00",
-     "description": "吳姓婦人今天（12日）中午12時許，在台北市大安區師大路過馬路時，遭到駕駛賓士休旅車的蔡姓男子撞上，導致頭部重創當場失去呼吸心跳，警消獲報趕抵隨即將吳婦送往醫院搶救，經急救後已...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "北市師大路汽車撞行人！婦人穿越馬路遭猛撞重傷命危",
-     "link": "https://news.tvbs.com.tw/local/3255512",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-12T16:32:54+08:00",
-     "description": "",
-     "category": "local",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "local",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "北市56歲婦過馬路遭撞！　重傷無心跳送醫搶救中",
-     "link": "https://www.ettoday.net/news/20260712/3199759.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-12T16:15:00+08:00",
-     "description": "台北市中正區師大路今(12日)中午12時17分許傳出一起嚴重車禍，警方初步調查，當時一名56歲的女性行人穿越馬路，未料卻遭到汽車撞擊，當場重傷失去呼吸心跳，警消到場後立即將傷者送往台大醫院搶救。詳細事故發生原因尚待進一步釐清。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    }
-   ]
-  },
-  {
    "id": "56642f0cba75",
    "title": "烏克蘭無人機破壞威力升級　俄羅斯面臨消耗戰困境",
    "outlet_count": 6,
@@ -4079,9 +4148,9 @@
     "newtalk",
     "tvbs"
    ],
-   "article_count": 13,
+   "article_count": 14,
    "first_seen": "2026-07-11T18:53:37+08:00",
-   "last_updated": "2026-07-12T21:38:07+08:00",
+   "last_updated": "2026-07-13T05:59:44+08:00",
    "tags": [
     "烏克蘭",
     "俄羅斯",
@@ -4121,6 +4190,23 @@
     }
    ],
    "articles": [
+    {
+     "title": "烏克蘭政府大改組！總理突卸任轉戰外交 天然氣公司總裁成接班大熱門",
+     "link": "https://news.ltn.com.tw/news/world/breakingnews/5503087",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-13T05:59:44+08:00",
+     "description": "烏克蘭總理斯維里登科（Yulia Svyrydenko）12日證實，在總統澤倫斯基（Volodymyr Zelensky）宣布政府即將進行改組後，她將辭去總理一職。她請辭的消...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
     {
      "title": "烏克蘭政府大換血 澤倫斯基撤換總理  執法高層也要換人",
      "link": "https://news.ltn.com.tw/news/world/breakingnews/5502985",
@@ -4277,14 +4363,110 @@
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
      }
+    }
+   ]
+  },
+  {
+   "id": "ae24b246c4bd",
+   "title": "北市師大路行人穿越道行人遭撞命危　警偵辦查肇因",
+   "outlet_count": 6,
+   "outlets": [
+    "cna",
+    "ebc",
+    "ettoday",
+    "ltn",
+    "newtalk",
+    "tvbs"
+   ],
+   "article_count": 7,
+   "first_seen": "2026-07-12T16:15:00+08:00",
+   "last_updated": "2026-07-13T00:36:41.212642+08:00",
+   "tags": [
+    "北市師大路",
+    "過馬路遭",
+    "命危"
+   ],
+   "articles": [
+    {
+     "title": "北市西門町健身房驚傳意外！男無心跳送醫搶救",
+     "link": "https://news.ebc.net.tw/news/society/560929",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-13T00:36:41.212642+08:00",
+     "description": "台北市西門町一間健身房，今（12）日晚間驚傳意外，消防局20時06分獲報，現場一名年約50歲的男子身體不適，到院前已失去呼吸心跳，目前正在搶救當中。",
+     "category": "society",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "society",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
     },
     {
-     "title": "烏克蘭無人機破壞威力升級　俄羅斯面臨消耗戰困境",
-     "link": "https://news.ltn.com.tw/news/world/breakingnews/5502275",
+     "title": "北市師大路行人穿越道行人遭撞命危警偵辦查肇因| 社會",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rUmxxb0tTNFFoZW9ISzF5X3FJMFctYXNOVTVLWlhtWU5yUFB0ak42UXBaMW9qVTRvWlVUeF93Ukw2R2x4WElPaWg0NlNRMkRjMlR2U05PQlgwNEU?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-12T21:35:03+08:00",
+     "description": "北市師大路行人穿越道行人遭撞命危警偵辦查肇因| 社會  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "北市師大路行人穿越道行人遭撞命危　警偵辦查肇因",
+     "link": "https://www.cna.com.tw/news/asoc/202607120183.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-12T20:11:24+08:00",
+     "description": "（中央社記者黃麗芸台北12日電）台北市吳姓女子和友人聚餐後行經大安區師大路行人穿越道時，遭駕駛賓士車的蔡姓男子疑不慎撞擊，當場無呼吸心跳，警消獲報協助送醫搶救，現仍顱內出血昏迷，全案依法偵辦。",
+     "author": "黃麗芸",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "黃麗芸",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/social"
+     }
+    },
+    {
+     "title": "北市嚴重車禍！行人過馬路遭衝撞 命危急送醫",
+     "link": "https://news.ebc.net.tw/news/society/560892",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-12T18:48:02.152765+08:00",
+     "description": "台北市大安區今（12日）發生嚴重車禍，一名57歲吳姓女子行經師大路時遭小客車撞擊，當場陷入昏迷且生命跡象微弱，救護已將女子送台大醫院搶救。詳細車禍原因仍待警方釐",
+     "category": "society",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "society",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "北市婦過馬路遭賓士撞擊命危 駕駛未禮讓將開罰吊照",
+     "link": "https://news.ltn.com.tw/news/society/breakingnews/5502858",
      "source": "ltn",
      "source_name": "自由時報",
-     "published": "2026-07-12T02:21:03+08:00",
-     "description": "俄烏戰爭爆發4年多來，俄羅斯始終指望能以消耗戰讓烏克蘭屈服。然而，隨著基輔當局的無人機對俄國軍隊和石油產業造成日益嚴重的破壞，莫斯科如今發現，時間未必站在自己這一邊。\n\n華爾街日報（The ...…",
+     "published": "2026-07-12T17:52:10+08:00",
+     "description": "吳姓婦人今天（12日）中午12時許，在台北市大安區師大路過馬路時，遭到駕駛賓士休旅車的蔡姓男子撞上，導致頭部重創當場失去呼吸心跳，警消獲報趕抵隨即將吳婦送往醫院搶救，經急救後已...…",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -4293,6 +4475,42 @@
       },
       "acquisition": "rss",
       "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "北市師大路汽車撞行人！婦人穿越馬路遭猛撞重傷命危",
+     "link": "https://news.tvbs.com.tw/local/3255512",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-12T16:32:54+08:00",
+     "description": "",
+     "category": "local",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "local",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "北市56歲婦過馬路遭撞！　重傷無心跳送醫搶救中",
+     "link": "https://www.ettoday.net/news/20260712/3199759.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-12T16:15:00+08:00",
+     "description": "台北市中正區師大路今(12日)中午12時17分許傳出一起嚴重車禍，警方初步調查，當時一名56歲的女性行人穿越馬路，未料卻遭到汽車撞擊，當場重傷失去呼吸心跳，警消到場後立即將傷者送往台大醫院搶救。詳細事故發生原因尚待進一步釐清。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
      }
     }
    ]
@@ -4314,8 +4532,8 @@
    "last_updated": "2026-07-12T20:26:39+08:00",
    "tags": [
     "警戒區",
-    "最高",
-    "觀浪"
+    "觀浪",
+    "最高"
    ],
    "claims": [
     {
@@ -4773,7 +4991,7 @@
     },
     {
      "title": "18歲男、17歲少女赴台南失聯！黃金海岸尋獲已成2具浮屍- 社會",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObzA4MXhqVnRTVnRrY2hPaGtSeldLTUpGSExVTUpqdXdUMU10NmUxb2g2d1p4NEttRHYzU0F0SUtTZmd3WXA5bFkyNHoyT2EwQXctdWpmMFlvOExtSHAyQ1hvOTZ1RFVKQ3p5ZnNYS1ZYUEJUR3o4Qi0tQWxibW92N1FMNWdydXZUOTFTa05zNA?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4WXNfTFZkeVNLQWQ4eG5yWjJ1U2Y5ODh1WkVFMzZrYkVZMU9WX1hGRTFSRFo0T3UyczJLTTB1V0JkZHBiVURySTM4dm1vcS1laGpfUTZMRlcyVnBBYVJvTnk5U1JEWFFQV3Vicm12SWtCamJ1LXc?oc=5",
      "source": "chinatimes",
      "source_name": "中時新聞網",
      "published": "2026-07-11T12:03:15+08:00",
@@ -4790,7 +5008,7 @@
     },
     {
      "title": "18歲男、17歲少女赴台南失聯！黃金海岸尋獲已成2具浮屍- 社會",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4WXNfTFZkeVNLQWQ4eG5yWjJ1U2Y5ODh1WkVFMzZrYkVZMU9WX1hGRTFSRFo0T3UyczJLTTB1V0JkZHBiVURySTM4dm1vcS1laGpfUTZMRlcyVnBBYVJvTnk5U1JEWFFQV3Vicm12SWtCamJ1LXc?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObzA4MXhqVnRTVnRrY2hPaGtSeldLTUpGSExVTUpqdXdUMU10NmUxb2g2d1p4NEttRHYzU0F0SUtTZmd3WXA5bFkyNHoyT2EwQXctdWpmMFlvOExtSHAyQ1hvOTZ1RFVKQ3p5ZnNYS1ZYUEJUR3o4Qi0tQWxibW92N1FMNWdydXZUOTFTa05zNA?oc=5",
      "source": "chinatimes",
      "source_name": "中時新聞網",
      "published": "2026-07-11T12:03:15+08:00",
@@ -5041,192 +5259,6 @@
    ]
   },
   {
-   "id": "82e19cac050c",
-   "title": "天氣／巴威陸警擴大5縣市！北北基入列　暴風半徑380公里",
-   "outlet_count": 6,
-   "outlets": [
-    "ebc",
-    "ltn",
-    "mirror",
-    "newtalk",
-    "tvbs",
-    "udn"
-   ],
-   "article_count": 9,
-   "first_seen": "2026-07-10T08:59:55+08:00",
-   "last_updated": "2026-07-12T09:22:30+08:00",
-   "tags": [
-    "巴威",
-    "天氣",
-    "陸警"
-   ],
-   "articles": [
-    {
-     "title": "巴威颱風維持強颱長達6天 上午8:30解除警報南部3縣市大雨特報",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12NnJMMGZlbTNYeHd6STBWMVJMS3FiZVVWMFJCdnYxTG1Kd09BX01sM0MxM0hsLW5NWURhMzFwQ1ZwZm1tenJoeFRSREJMTXBRVksw0gFYQVVfeXFMUExLbmlpa29idnB2ZWFabTd5V2lURGEyV2JqVGxYM2N1cllQQVpPc0k3NFllV1ZSZ0JSSVcxeDlUcWZWaEJDZWJTb0dFaGhVaGhFYlJjRlJjbQ?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-07-12T09:22:30+08:00",
-     "description": "巴威颱風維持強颱長達6天 上午8:30解除警報南部3縣市大雨特報  聯合新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "巴威8:30解除海警！大雨還沒停 3縣市雨彈狂轟",
-     "link": "https://news.ebc.net.tw/news/living/560822",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-12T08:58:59.187955+08:00",
-     "description": "中度颱風「巴威」逐漸遠離台灣，中央氣象署今（12）日表示，已於清晨5時30分解除陸上颱風警報，不過，颱風外圍環流及西南風仍持續影響，各地降雨尚未結束。",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "天氣／巴威陸警解除！「改吹南風」全台仍有雨　2地區防雷雨彈",
-     "link": "https://news.tvbs.com.tw/life/3255166",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-12T07:29:00+08:00",
-     "description": "",
-     "category": "life",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "預計8:30解除巴威海警 中南部防局部大雨、花東縱谷飆36度",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CZTJHSUY5TGZrWXVqQkk4STJRV1FoeEJuSHhycmk0X3FGY2YxSV9jenV1MUtucWFyU3lVWU5ON1pRRjJIOVp3bXFXdmFsQ1FtamNndzloNFk1VXM?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-12T06:59:57+08:00",
-     "description": "預計8:30解除巴威海警 中南部防局部大雨、花東縱谷飆36度  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "週日巴威遠離！中南部易有雷雨 花東飆36度",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5502187",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-11T22:53:46+08:00",
-     "description": "週日（12日）巴威颱風遠離，整體風雨趨緩，不過迎風面中南部地區易有短暫陣雨或雷雨，其他地區為多雲，午後有局部短暫雷陣雨發生；溫度方面，中部以北及東半部高溫約33至35度，南部高溫...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "明天天氣／巴威颱風漸遠離！2地恐有焚風飆36度　中南部防大雨",
-     "link": "https://news.tvbs.com.tw/life/3255019",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-11T19:36:23+08:00",
-     "description": "",
-     "category": "life",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "明天天氣／巴威陸警擴大！仍飆36度高溫　雨彈開轟「3區雨最猛」",
-     "link": "https://news.tvbs.com.tw/life/3254249",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-10T18:33:36+08:00",
-     "description": "",
-     "category": "life",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "中颱「巴威」陸警範圍擴大5縣市　一圖掌握各地風雨時程",
-     "link": "https://www.mirrormedia.mg/story/20260710edi006",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-07-10T09:07:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "天氣／巴威陸警擴大5縣市！北北基入列　暴風半徑380公里",
-     "link": "https://news.tvbs.com.tw/life/3253702",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-10T08:59:55+08:00",
-     "description": "",
-     "category": "life",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    }
-   ]
-  },
-  {
    "id": "fc68100cf08f",
    "title": "散布台北車站淹水假訊息 男子遭警約談送辦",
    "outlet_count": 6,
@@ -5463,12 +5495,12 @@
      }
     },
     {
-     "title": "台積電嘉義廠警衛落水 出動橡皮艇擴大搜救",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UeFJkR25DMTRGSjRlZ3BvRHkxWENZcndPZlRSSldVLVJUZFB6a1VYNFB3S0VyTkdtZkh2ZjUzUHpJU0tPMWlhWDRyeDNRZWEw0gFWQVVfeXFMT0Y2T2Y0SUNMWFQtWWUwbW9mOTgyVGtiMWFnLUNFa1luaHhqUUM3TlJTbl9DNWlaYXJEM0habktzVVNKUmxJeV96YmJpbzlVbW8xbHAyLVE?oc=5",
+     "title": "台積電嘉義廠警衛落水出動橡皮艇擴大搜救| 社會萬象| 社會",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UeFJkR25DMTRGSjRlZ3BvRHkxWENZcndPZlRSSldVLVJUZFB6a1VYNFB3S0VyTkdtZkh2ZjUzUHpJU0tPMWlhWDRyeDNRZWEw?oc=5",
      "source": "udn",
      "source_name": "聯合新聞網",
      "published": "2026-07-11T12:51:28+08:00",
-     "description": "台積電嘉義廠警衛落水 出動橡皮艇擴大搜救  聯合新聞網",
+     "description": "台積電嘉義廠警衛落水出動橡皮艇擴大搜救| 社會萬象| 社會  聯合新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -5480,12 +5512,12 @@
      }
     },
     {
-     "title": "台積電嘉義廠警衛落水出動橡皮艇擴大搜救| 社會萬象| 社會",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UeFJkR25DMTRGSjRlZ3BvRHkxWENZcndPZlRSSldVLVJUZFB6a1VYNFB3S0VyTkdtZkh2ZjUzUHpJU0tPMWlhWDRyeDNRZWEw?oc=5",
+     "title": "台積電嘉義廠警衛落水 出動橡皮艇擴大搜救",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UeFJkR25DMTRGSjRlZ3BvRHkxWENZcndPZlRSSldVLVJUZFB6a1VYNFB3S0VyTkdtZkh2ZjUzUHpJU0tPMWlhWDRyeDNRZWEw0gFWQVVfeXFMT0Y2T2Y0SUNMWFQtWWUwbW9mOTgyVGtiMWFnLUNFa1luaHhqUUM3TlJTbl9DNWlaYXJEM0habktzVVNKUmxJeV96YmJpbzlVbW8xbHAyLVE?oc=5",
      "source": "udn",
      "source_name": "聯合新聞網",
      "published": "2026-07-11T12:51:28+08:00",
-     "description": "台積電嘉義廠警衛落水出動橡皮艇擴大搜救| 社會萬象| 社會  聯合新聞網",
+     "description": "台積電嘉義廠警衛落水 出動橡皮艇擴大搜救  聯合新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -5665,32 +5697,49 @@
    ]
   },
   {
-   "id": "9529cbb23a2c",
-   "title": "川普：美國同意與伊朗談判　但停火已結束",
+   "id": "3e9457db6c91",
+   "title": "川普稱美伊停火告終　伊朗反駁：仍遵守承諾",
    "outlet_count": 5,
    "outlets": [
     "cna",
-    "ebc",
     "ettoday",
     "ltn",
-    "tvbs"
+    "tvbs",
+    "udn"
    ],
-   "article_count": 10,
-   "first_seen": "2026-07-10T23:01:51+08:00",
-   "last_updated": "2026-07-12T22:19:31+08:00",
+   "article_count": 5,
+   "first_seen": "2026-07-11T14:02:06+08:00",
+   "last_updated": "2026-07-12T23:32:26+08:00",
    "tags": [
-    "停火已結束",
-    "川普",
-    "談判"
+    "稱停火已結束",
+    "川普稱",
+    "伊朗"
    ],
    "articles": [
+    {
+     "title": "川普聲稱美伊達成協議 才過約2小時伊朗就炸船",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uOTdjOVJySHFRMFdhYkxhS1pTN2E5Mm1qODBVR0RBWHpQb01GazYzR0FFMXNBeUQ1bTlraXhzcmFmbG96alBPUEhWdHRoWGJfWTIw0gFYQVVfeXFMUHRSMmZrRzlJZC1ZOVRuOFduZWpuUkI3UTdSalkxVktXN09HVV85Rmxld0xlRXJfRHRFc2pScGc4NXVNcml6RTVWYnlpSktUeGhSczZqWnlYMA?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-07-12T23:32:26+08:00",
+     "description": "川普聲稱美伊達成協議 才過約2小時伊朗就炸船  聯合新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
     {
      "title": "川普稱美國已「重創」伊朗",
      "link": "https://news.ltn.com.tw/news/world/breakingnews/5503024",
      "source": "ltn",
      "source_name": "自由時報",
      "published": "2026-07-12T22:19:31+08:00",
-     "description": "美國總統川普12日表示，美國已「重創」伊朗，以回應德黑蘭當局對荷姆茲海峽上的船隻發動的最新攻擊。\n\n川普是在接受美國有線電視新聞網（CNN）電話訪問時，做上述表示。川普說：...…",
+     "description": "首次上稿 07-12 22:19更新時間 07-13 06:24\n美國總統川普12日表示，美國已「重創」伊朗，以回應德黑蘭當局對荷姆茲海峽上的船隻發動的最新攻擊。\n\n川普...…",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -5753,83 +5802,6 @@
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
      }
-    },
-    {
-     "title": "美伊又互轟！川普喊「停火已結束」　埃及卡達急籲重返談判桌",
-     "link": "https://news.tvbs.com.tw/world/3254504",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-11T09:22:47+08:00",
-     "description": "",
-     "category": "world",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "world",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "埃及、卡達籲重返談判 川普同意對話「但停火已結束」",
-     "link": "https://news.ebc.net.tw/news/world/560673",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-11T08:53:37.415646+08:00",
-     "description": "埃及與卡達呼籲美國及伊朗透過外交途徑化解僵局，希望雙方盡快重返談判桌。不過，美國總統川普（Donald J. Trump）10日則透過社群平台《Truth So"
-    },
-    {
-     "title": "埃及與卡達呼籲美伊重啟談判  川普：停火已經結束",
-     "link": "https://news.ltn.com.tw/news/world/breakingnews/5501340",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-11T02:21:03+08:00",
-     "description": "埃及外交部指出，埃及與卡達外交部長今天共同呼籲美國與伊朗恢復談判；與此同時，美國總統川普表示，美伊之間停火已經結束。\n\n法新社報導，埃及外交部聲明指出，埃及外長阿布德拉提（Badr Abde...…"
-    },
-    {
-     "title": "埃及與卡達呼籲美伊重啟談判　川普：停火已經結束",
-     "link": "https://www.cna.com.tw/news/aopl/202607110004.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-11T02:13:13+08:00",
-     "description": "（中央社開羅10日綜合外電報導）埃及外交部指出，埃及與卡達外交部長今天共同呼籲美國與伊朗恢復談判；與此同時，美國總統川普表示，美伊之間停火已經結束。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
-     }
-    },
-    {
-     "title": "川普：我同意與伊朗繼續談判　但停火已結束了",
-     "link": "https://www.ettoday.net/news/20260710/3198988.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-10T23:45:00+08:00",
-     "description": "美國總統川普10日表示，伊朗要求美國繼續談判，他已經同意了，但也強調「停火協議已經結束」。 《詳全文...》"
-    },
-    {
-     "title": "川普：美國同意與伊朗談判　但停火已結束",
-     "link": "https://www.cna.com.tw/news/aopl/202607100268.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-10T23:01:51+08:00",
-     "description": "（中央社華盛頓10日綜合外電報導）美國總統川普今天在自家社媒平台「真實社群」（Truth Social）寫道，美方同意與伊朗談判，但雙方之間的停火已經結束。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
-     }
     }
    ]
   },
@@ -5849,8 +5821,8 @@
    "last_updated": "2026-07-12T20:19:00+08:00",
    "tags": [
     "唐從聖",
-    "放颱風假無風",
-    "天災還是人禍"
+    "天災還是人禍",
+    "颱風假無風雨"
    ],
    "articles": [
     {
@@ -6487,13 +6459,13 @@
     "pts",
     "tvbs"
    ],
-   "article_count": 8,
+   "article_count": 9,
    "first_seen": "2026-07-11T00:07:00+08:00",
    "last_updated": "2026-07-12T16:40:00+08:00",
    "tags": [
+    "致癌油",
     "中聯",
-    "行政院",
-    "致癌油"
+    "行政院"
    ],
    "articles": [
     {
@@ -6528,6 +6500,25 @@
       },
       "acquisition": "rss",
       "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "致癌油事件懶人包》摩斯也中標！增至440項產品、360家業者，下架清單一次看",
+     "link": "https://news.tvbs.com.tw/life/3246789",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-12T16:33:32+08:00",
+     "description": "",
+     "category": "life",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "life",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
      }
     },
     {
@@ -7547,6 +7538,452 @@
    ]
   },
   {
+   "id": "de66cf1289bd",
+   "title": "7/10停班停課電影院有開嗎？國賓、威秀都停業　全台影城營業異動",
+   "outlet_count": 5,
+   "outlets": [
+    "ebc",
+    "ettoday",
+    "ltn",
+    "nownews",
+    "tvbs"
+   ],
+   "article_count": 15,
+   "first_seen": "2026-07-10T10:51:09+08:00",
+   "last_updated": "2026-07-11T14:09:18+08:00",
+   "tags": [
+    "全台百貨營業",
+    "停班",
+    "台北"
+   ],
+   "articles": [
+    {
+     "title": "7/11停班課沒休息！全台「百貨、量販、餐飲、影城」正常營業一覽",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42ZEJNU3NHbG1TdU5KejI5Q1NqTjQ2V2ZFVHRJR2dzM3J6amliaEtBV0UzaU1DVVJSR004OVpCemxIZl8taElMY1J0WmEtYWkxX2fSAVJBVV95cUxONmRCTVNzR2xtU3VOSnoyOUNTak40NldmRVR0SUdnczNyemppYmhLQVdFM2lNQ1VSUkdNODlaQnpsSGZfLWhJTGNSdFphLWFpMV9n?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-07-11T14:09:18+08:00",
+     "description": "7/11停班課沒休息！全台「百貨、量販、餐飲、影城」正常營業一覽  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "7/11停班哪些店有開？全台正常營業「百貨影院、賣場、餐廳」整理",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Pb2h2OURYQVlrOUxHdEdZTXptX294NlMzX3BSMVBMRGhCR1BaZkNtNjhXSjctT3lmelNlSVlYc1dSSDZYZG0wSjkwenDSAVJBVV95cUxONmRCTVNzR2xtU3VOSnoyOUNTak40NldmRVR0SUdnczNyemppYmhLQVdFM2lNQ1VSUkdNODlaQnpsSGZfLWhJTGNSdFphLWFpMV9n?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-07-11T14:09:18+08:00",
+     "description": "7/11停班哪些店有開？全台正常營業「百貨影院、賣場、餐廳」整理  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "高雄SOGO休館！漢神、夢時代延後開門　百貨影城營業情形一次看",
+     "link": "https://www.ettoday.net/news/20260711/3199061.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-11T08:56:00+08:00",
+     "description": "中颱巴威暴風圈在今（11）日凌晨觸陸，高雄沿海地區、山區因風力預測與雨量預測達標，市府宣布今日停止上班、上課。而被譽為「良心百貨」的SOGO高雄店率先開出第一槍，宣布今日停業一天，漢神兩館則宣布延後至12點對外營業，百貨業者陸續跟進，僅新光三越體系正常營業，《ETtoday新聞雲》整理高雄各大百貨商場、影城11日營業狀況如下。 《詳全文...》"
+    },
+    {
+     "title": "別撲空！巴威持續逼近　壽司郎北部「6店鋪」今日暫停營業",
+     "link": "https://news.tvbs.com.tw/life/3253674",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-11T08:53:37.415646+08:00",
+     "description": "",
+     "category": "life",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "life",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "不斷更新／巴威逼近別亂跑！台北101明暫停營業",
+     "link": "https://news.ebc.net.tw/news/living/560527",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-11T05:37:27.377129+08:00",
+     "description": "許多民眾關心放颱風假是否能前往電影院觀影，《EBC東森新聞》對此特別整理了今（10）日、明（11）日全台主要電影院的最新營業公告異動，提醒民眾注意安全。"
+    },
+    {
+     "title": "7/11停班停課！SOGO、台北101「連2天休館」　全台百貨營業異動包",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3dTVoTmxVcDdHb3pwY3lCLVVxSENYcHpoODBHWlJZNHByY0U2SWJpN3UySHp1NU5kRXFBTDgzWGVxMkMtZzFnazFJN2YxZWkwOXfSAVJBVV95cUxQd3U1aE5sVXA3R296cGN5Qi1VcUhDWHB6aDgwR1pSWTRwcmNFNkliaTd1Mkh6dTVOZEVxQUw4M1hlcTJDLWcxZ2sxSTdmMWVpMDl3?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-07-11T00:05:00+08:00",
+     "description": "7/11停班停課！SOGO、台北101「連2天休館」　全台百貨營業異動包  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "7/11停班課！SOGO、新光三越10店沒開　全台百貨營業時間異動一覽",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0xTFlHUWpMcGVRR3RfcEh2bnlBYmxkN1FlUjRvVU11b21UeXZ0QzVZLWhzeVdPeTlWUVZCbUNKTmVmaFozc2xQNEFzTzjSAVJBVV95cUxQd3U1aE5sVXA3R296cGN5Qi1VcUhDWHB6aDgwR1pSWTRwcmNFNkliaTd1Mkh6dTVOZEVxQUw4M1hlcTJDLWcxZ2sxSTdmMWVpMDl3?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-07-11T00:05:00+08:00",
+     "description": "7/11停班課！SOGO、新光三越10店沒開　全台百貨營業時間異動一覽  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "7/11停班課蝦皮店到店沒開！好市多、萬家福、全聯營業時間一次看",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1RNWVmX0dqUS1NWlhxSWRDZHJ6MXpEX09DZ3g4V2tDdGhpc2JZZ1NIRURneUtEbmVyLW4wY0NseHJWeDN2NnREWndsNFDSAVJBVV95cUxPcHpxWUVSTWRBWlJYeGtGZTc1enoxLTZISF9WdmduSUtUZkhySnRkZDVrd3FNeHMzb2cyZTZjdXdsN0tHRVMxYVhWTVhORW1BYldn?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-07-11T00:02:00+08:00",
+     "description": "7/11停班課蝦皮店到店沒開！好市多、萬家福、全聯營業時間一次看  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "7/11停班停課「蝦皮店到店沒開」！全聯、好市多、萬家福營業整理",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wenFZRVJNZEFaUlh4a0ZlNzV6ejEtNkhIX1Z2Z25JS1RmSHJKdGRkNWt3cU14czNvZzJlNmN1d2w3S0dFUzFhWFZNWE5FbUFiV2fSAVJBVV95cUxPcHpxWUVSTWRBWlJYeGtGZTc1enoxLTZISF9WdmduSUtUZkhySnRkZDVrd3FNeHMzb2cyZTZjdXdsN0tHRVMxYVhWTVhORW1BYldn?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-07-11T00:02:00+08:00",
+     "description": "7/11停班停課「蝦皮店到店沒開」！全聯、好市多、萬家福營業整理  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "巴威侵台21縣市停班課！全台百貨暫停營業一覽",
+     "link": "https://istyle.ltn.com.tw/article/40451",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-10T23:25:11+08:00",
+     "description": "巴威颱風來勢洶洶，以25年來最大暴風半徑380公里之姿持續朝台灣逼近，中央氣象署預估颱風將於週六（11）清晨登陸，暴風圈全面籠罩台灣，全台總計21縣市宣布停班停課。考量颱風帶來強風豪雨，各大百貨今晚起陸續公布最新營業調整，以顧客及員工安全為優先。…"
+    }
+   ]
+  },
+  {
+   "id": "9529cbb23a2c",
+   "title": "川普：美國同意與伊朗談判　但停火已結束",
+   "outlet_count": 5,
+   "outlets": [
+    "cna",
+    "ebc",
+    "ettoday",
+    "ltn",
+    "tvbs"
+   ],
+   "article_count": 6,
+   "first_seen": "2026-07-10T23:01:51+08:00",
+   "last_updated": "2026-07-11T09:22:47+08:00",
+   "tags": [
+    "但停火已結束",
+    "談判",
+    "川普"
+   ],
+   "articles": [
+    {
+     "title": "美伊又互轟！川普喊「停火已結束」　埃及卡達急籲重返談判桌",
+     "link": "https://news.tvbs.com.tw/world/3254504",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-11T09:22:47+08:00",
+     "description": "",
+     "category": "world",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "world",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "埃及、卡達籲重返談判 川普同意對話「但停火已結束」",
+     "link": "https://news.ebc.net.tw/news/world/560673",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-11T08:53:37.415646+08:00",
+     "description": "埃及與卡達呼籲美國及伊朗透過外交途徑化解僵局，希望雙方盡快重返談判桌。不過，美國總統川普（Donald J. Trump）10日則透過社群平台《Truth So"
+    },
+    {
+     "title": "埃及與卡達呼籲美伊重啟談判  川普：停火已經結束",
+     "link": "https://news.ltn.com.tw/news/world/breakingnews/5501340",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-11T02:21:03+08:00",
+     "description": "埃及外交部指出，埃及與卡達外交部長今天共同呼籲美國與伊朗恢復談判；與此同時，美國總統川普表示，美伊之間停火已經結束。\n\n法新社報導，埃及外交部聲明指出，埃及外長阿布德拉提（Badr Abde...…"
+    },
+    {
+     "title": "埃及與卡達呼籲美伊重啟談判　川普：停火已經結束",
+     "link": "https://www.cna.com.tw/news/aopl/202607110004.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-11T02:13:13+08:00",
+     "description": "（中央社開羅10日綜合外電報導）埃及外交部指出，埃及與卡達外交部長今天共同呼籲美國與伊朗恢復談判；與此同時，美國總統川普表示，美伊之間停火已經結束。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
+     }
+    },
+    {
+     "title": "川普：我同意與伊朗繼續談判　但停火已結束了",
+     "link": "https://www.ettoday.net/news/20260710/3198988.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-10T23:45:00+08:00",
+     "description": "美國總統川普10日表示，伊朗要求美國繼續談判，他已經同意了，但也強調「停火協議已經結束」。 《詳全文...》"
+    },
+    {
+     "title": "川普：美國同意與伊朗談判　但停火已結束",
+     "link": "https://www.cna.com.tw/news/aopl/202607100268.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-10T23:01:51+08:00",
+     "description": "（中央社華盛頓10日綜合外電報導）美國總統川普今天在自家社媒平台「真實社群」（Truth Social）寫道，美方同意與伊朗談判，但雙方之間的停火已經結束。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
+     }
+    }
+   ]
+  },
+  {
+   "id": "66163767bc52",
+   "title": "今颱風假好市多有開全台賣場營業狀況一次看- 生活",
+   "outlet_count": 5,
+   "outlets": [
+    "chinatimes",
+    "ltn",
+    "nownews",
+    "storm",
+    "tvbs"
+   ],
+   "article_count": 10,
+   "first_seen": "2026-07-10T07:48:55+08:00",
+   "last_updated": "2026-07-11T08:36:28+08:00",
+   "tags": [
+    "營業",
+    "有開",
+    "颱風假"
+   ],
+   "articles": [
+    {
+     "title": "搶賺颱風財 高雄多家百貨公司今天照常營業",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5501387",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-11T08:36:28+08:00",
+     "description": "首次上稿 07:48更新時間 08:36\n\n中度颱風巴威進逼，高雄今天（11日） 放颱風假，全市停班停課一天。但上午風雨並不大，高雄龍頭百貨漢神巨蛋與漢神百貨開第一槍，今天...…"
+    },
+    {
+     "title": "7/11颱風天電影院有開？威秀7處、國賓暫停營業　全台影城營業包",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5aZS01dTJNendYazZWVkp1bUd0ME1ZY3Rwc3kzVUtiMFlsWXdubzNtYVZteEpWeDN1M05RMXlNQkNVZUpXMk5HWkJxdFjSAVJBVV95cUxOWXRNb2lIV1M3S2EzYlhGUUs2WUJ5LUJ0MmRPN0ppSjQyMDhIM2JoaG1IRFF4LXVQdU1LQjg1VjF0WWxIeGw2UUNzVzFFNEFGOXRn?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-07-11T00:10:00+08:00",
+     "description": "7/11颱風天電影院有開？威秀7處、國賓暫停營業　全台影城營業包  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "7/11颱風天電影院有開？威秀暫時關閉　秀泰、國賓全台影城營業包",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZdE1vaUhXUzdLYTNiWEZRSzZZQnktQnQyZE83SmlKNDIwOEgzYmhobUhEUXgtdVB1TUtCODVWMXRZbEh4bDZRQ3NXMUU0QUY5dGfSAVJBVV95cUxOWXRNb2lIV1M3S2EzYlhGUUs2WUJ5LUJ0MmRPN0ppSjQyMDhIM2JoaG1IRFF4LXVQdU1LQjg1VjF0WWxIeGw2UUNzVzFFNEFGOXRn?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-07-11T00:10:00+08:00",
+     "description": "7/11颱風天電影院有開？威秀暫時關閉　秀泰、國賓全台影城營業包  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "颱風天電影院會開嗎？威秀、秀泰、國賓各大影城營業時間一次看",
+     "link": "https://news.tvbs.com.tw/life/3251777",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-10T21:43:25+08:00",
+     "description": "",
+     "category": "life",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "life",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "颱風假全聯有開嗎？各大量販店、好市多營業時間及優惠一次看",
+     "link": "https://news.tvbs.com.tw/life/3252066",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-10T17:56:30+08:00",
+     "description": "",
+     "category": "life",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "life",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "巴威來襲！明好市多也有開　賣場、超市營業狀況一次看",
+     "link": "https://news.tvbs.com.tw/life/3254197",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-10T17:43:47+08:00",
+     "description": "",
+     "category": "life",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "life",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "颱風假捷運、台鐵、高鐵有開嗎？停班停課「全台交通運輸」異動一次看 | 李伊晴 | 風生活",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5vcjV6eXBlOWNKX1VqMHJMTTItMkhiY0I1UkFmTW1zalJJQkp6dXl4bjRFTDEybjdWaUVEYTNJSi1tM3JsUmVocUNuNVl3dEE2?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-07-10T10:51:15+08:00",
+     "description": "颱風假捷運、台鐵、高鐵有開嗎？停班停課「全台交通運輸」異動一次看 | 李伊晴 | 風生活  風傳媒",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "颱風假百貨公司今天有開嗎？新光三越、SOGO、遠百全台營業時間一次看：這幾家正常營業| 李伊晴 | 風生活",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBhcEEzYnppVTRBcUpkcWVJd2FEdHVyUXRrLXd2dEZZaloyQjkycF9JdjdwN1ZmTnhESnZCSzR2ZjhFZDczSXJOQjJKWkozWWFY?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-07-10T10:00:00+08:00",
+     "description": "颱風假百貨公司今天有開嗎？新光三越、SOGO、遠百全台營業時間一次看：這幾家正常營業| 李伊晴 | 風生活  風傳媒",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "好市多今天有開嗎？全聯、愛買、美廉社...颱風假全台賣場營業狀況一次看 | 李伊晴 | 風生活",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12dVZjZXU5UXVZU3I4RjBGN1dZeks5OEdsSlhuc29MWUl6YWg0ZFFXemM5N2VsS0FZd1JKNGNXZnRTMl9GSkZmMUNKTVRBVmFW?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-07-10T09:30:00+08:00",
+     "description": "好市多今天有開嗎？全聯、愛買、美廉社...颱風假全台賣場營業狀況一次看 | 李伊晴 | 風生活  風傳媒",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "今颱風假好市多有開全台賣場營業狀況一次看- 生活",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oLWNNT21sNkJfdU1BSl82VzRzVmlieEM4N19OaXMxN2JMc0JSYmYwZUhERmpETXZDQ25kNVBpYlA3NXVfR0gyVHlqcmZoQVVaSFV4dFp5ek9FWnc0VF82SDBUcElqb0VNUktBR1Vn?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-07-10T07:48:55+08:00",
+     "description": "今颱風假好市多有開全台賣場營業狀況一次看- 生活  中時新聞網"
+    }
+   ]
+  },
+  {
    "id": "990ee3f68762",
    "title": "桃園前經發局長朱松偉涉貪　法院判10年4月定讞",
    "outlet_count": 5,
@@ -7653,7 +8090,7 @@
    "last_updated": "2026-07-12T20:37:56.161912+08:00",
    "tags": [
     "首哈麥德辭世",
-    "執政時帶領國"
+    "領國家現代化"
    ],
    "articles": [
     {
@@ -8037,17 +8474,18 @@
    "first_seen": "2026-07-12T15:15:01+08:00",
    "last_updated": "2026-07-12T16:35:03+08:00",
    "tags": [
-    "基隆偷拍男判",
-    "過書檢認犯後"
+    "悔過書檢認犯",
+    "隆偷拍男判刑",
+    "犯後態度不佳"
    ],
    "articles": [
     {
-     "title": "AI代寫悔過書檢認犯後態度不佳 基隆偷拍男判刑6月 | 社會",
+     "title": "AI代寫悔過書檢認犯後態度不佳 基隆偷拍男判刑6月",
      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KSXBCTFJHNHFpYzZJV1ZtZ25KN0dEMjYxTUdXVlU0WjVmdndfRUk5eDdFTWJ5anhxcWZSMl9GcHJFUEY0U2xqd2ZNcjhBU2pzRml5QUdWOEZERU0?oc=5",
      "source": "newtalk",
      "source_name": "新頭殼",
      "published": "2026-07-12T16:35:03+08:00",
-     "description": "AI代寫悔過書檢認犯後態度不佳 基隆偷拍男判刑6月 | 社會  Newtalk新聞",
+     "description": "AI代寫悔過書檢認犯後態度不佳 基隆偷拍男判刑6月  Newtalk新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -8637,7 +9075,7 @@
    "articles": [
     {
      "title": "為閃兵躲海外11年！男「精算」持美護照返台，下場曝光 | 江勳紘 | 風生活",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9waW9kMzEtWG1aNl80eWo3ZHNNX2F1ZlR2ZFF3M1Z4X2VMd2dZNGpaS3h6Z21UeF9YeUNST2VXbElyMENiaFA0aVhSRWpCUQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5tN1VpdmFKNnp1YTVON0xqMjQ4SlRUZWlneFBsME9iRHdab193ZHJOdTEtNUM0ejhtZkdvUDJOLTB2Q01nc2ZIcWNXd1JWMmJ2?oc=5",
      "source": "storm",
      "source_name": "風傳媒",
      "published": "2026-07-12T10:53:37+08:00",
@@ -8654,7 +9092,7 @@
     },
     {
      "title": "為閃兵躲海外11年！男「精算」持美護照返台，下場曝光 | 江勳紘 | 風生活",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5tN1VpdmFKNnp1YTVON0xqMjQ4SlRUZWlneFBsME9iRHdab193ZHJOdTEtNUM0ejhtZkdvUDJOLTB2Q01nc2ZIcWNXd1JWMmJ2?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9waW9kMzEtWG1aNl80eWo3ZHNNX2F1ZlR2ZFF3M1Z4X2VMd2dZNGpaS3h6Z21UeF9YeUNST2VXbElyMENiaFA0aVhSRWpCUQ?oc=5",
      "source": "storm",
      "source_name": "風傳媒",
      "published": "2026-07-12T10:53:37+08:00",
@@ -8738,7 +9176,7 @@
    "first_seen": "2026-07-12T06:11:23+08:00",
    "last_updated": "2026-07-12T08:57:49+08:00",
    "tags": [
-    "現身溫網觀眾",
+    "身溫網觀眾席",
     "開心見到老朋",
     "周杰倫"
    ],
@@ -9277,393 +9715,6 @@
       "acquisition": "rss",
       "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
      }
-    }
-   ]
-  },
-  {
-   "id": "df1d268ef780",
-   "title": "11月女嬰營養不良死亡  台中母涉凌虐致死遭訴",
-   "outlet_count": 4,
-   "outlets": [
-    "cna",
-    "ebc",
-    "newtalk",
-    "tvbs"
-   ],
-   "article_count": 4,
-   "first_seen": "2026-07-10T17:13:12+08:00",
-   "last_updated": "2026-07-11T18:43:25.562350+08:00",
-   "tags": [
-    "營養不良死亡",
-    "母涉凌虐致死",
-    "三寶媽遭起訴"
-   ],
-   "articles": [
-    {
-     "title": "台中11月大女嬰瘦成皮包骨餓死 三寶媽遭起訴",
-     "link": "https://news.ebc.net.tw/news/society/560627",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-11T18:43:25.562350+08:00",
-     "description": "台中市發生一起虐嬰致死，一名年僅11個月大的女嬰，疑因遭親生母親長期疏於照顧，持續數月未獲得足夠營養，身體狀況日益惡化，最後併發吸入性肺炎不幸身亡。",
-     "category": "society",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "society",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "台中女嬰「餓7個月」營養不良慘死　29歲三寶媽遭起訴",
-     "link": "https://news.tvbs.com.tw/local/3254150",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-11T16:56:30.916102+08:00",
-     "description": "",
-     "category": "local",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "local",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "11月女嬰營養不良死亡台中母涉凌虐致死遭訴| 社會",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FZHpMRWpoMkI0THVmOGZCaklrQkdMaDBfeHgyX2pxbjVEdXR5YWJ2MkNXQXZJd0s5XzZseGZJc3hEV0pUN0dtZnNUeGlEMlU0Tl9BSmhMSHdCU2s?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-10T19:25:04+08:00",
-     "description": "11月女嬰營養不良死亡台中母涉凌虐致死遭訴| 社會  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "11月女嬰營養不良死亡  台中母涉凌虐致死遭訴",
-     "link": "https://www.cna.com.tw/news/asoc/202607100168.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-10T17:13:12+08:00",
-     "description": "（中央社記者蘇木春台中10日電）台中陳姓女子育有3名子女，她卻未提供11月大的小女兒足夠營養，導致女嬰長期營養不良、吸入性肺炎死亡，案經檢方偵辦後，日前依凌虐致死罪嫌起訴，全案將由國民法官法庭審理。",
-     "author": "蘇木春",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "蘇木春",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/social"
-     }
-    }
-   ]
-  },
-  {
-   "id": "deafc733b63a",
-   "title": "大火燒光1.3億身家！65歲玉女歌手颱風夜揭「浴火重生」內幕",
-   "outlet_count": 4,
-   "outlets": [
-    "chinatimes",
-    "ettoday",
-    "ltn",
-    "tvbs"
-   ],
-   "article_count": 6,
-   "first_seen": "2026-07-11T12:23:46+08:00",
-   "last_updated": "2026-07-11T17:21:00+08:00",
-   "tags": [
-    "玉女歌手",
-    "大火燒光",
-    "離家出走"
-   ],
-   "claims": [
-    {
-     "type": "金額",
-     "agree": false,
-     "outlet_count": 2,
-     "values": [
-      {
-       "value": "1.3億元",
-       "outlets": [
-        "中時新聞網"
-       ]
-      },
-      {
-       "value": "2億元",
-       "outlets": [
-        "自由時報"
-       ]
-      }
-     ]
-    }
-   ],
-   "articles": [
-    {
-     "title": "63歲玉女歌手曾是2億CEO...遭親姊背叛負債　爆「颱風天離家出走」",
-     "link": "https://star.ettoday.net/news/3199305",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-11T17:21:00+08:00",
-     "description": "63歲玉女歌手范怡文在演藝圈多年，24歲時轉戰服飾業，從台灣做到大陸市場，資本額一度超過2億台幣，不過就在事業巔峰之際，她遭親姊背叛，一夕之間從億萬CEO欠下鉅額債務，付完員工資遣費和貨款後身上剩不到400元台幣，如今她走出負債陰影，更將於7月26日在台北 Music Corner角落音樂餐廳舉辦「美好時光」Live House專場。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "資深玉女被親姊倒債騙光2億 自爆颱風夜離家出走心酸內幕",
-     "link": "https://ent.ltn.com.tw/news/breakingnews/5501902",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-11T16:13:52+08:00",
-     "description": "巴威颱風襲台，資深玉女歌手范怡文難忘曾在颱風夜離家出走的過往，她透露高中畢業那年等待放榜，因為擔心考不上大學，不敢面對父親，一度離家出走躲進最熟悉的Live House「杜鵑窩...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "65歲玉女歌手慘遭大火燒光身家　悲曝「欠債1億元」最痛回憶",
-     "link": "https://star.ettoday.net/news/3199280",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-11T15:49:00+08:00",
-     "description": "近日隨著巴威颱風來襲，65歲玉女歌手周思潔也呼籲大眾務必好好待在家中，非必要千萬別出門以確保人身安全，更感性喊話要大家體恤辛苦的公務人員與消防隊員，千萬不要為了一時方便而增加不必要的社會負擔。雖然周思潔透露目前自己家中安全無虞，但這場風雨，也瞬間勾起她過往人生中那段面臨重大天災時的創痛記憶。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "被騙光2億資產！63歲玉女歌手颱風夜離家出走　心聲全說了",
-     "link": "https://news.tvbs.com.tw/entertainment/3254764",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-11T14:29:56+08:00",
-     "description": "",
-     "category": "entertainment",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "entertainment",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "65歲玉女歌手公司遭大火燒光！欠債1億慘痛經驗曝光　颱風天吐心聲",
-     "link": "https://news.tvbs.com.tw/entertainment/3254686",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-11T12:33:18+08:00",
-     "description": "",
-     "category": "entertainment",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "entertainment",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "大火燒光1.3億身家！65歲玉女歌手颱風夜揭「浴火重生」內幕",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rY00xUEF6NFpZYVMzUkNuRWpWbUc0Y292dEd6d1R4dTBSRDRobWlMTTVHVEtvb0VkelhKUnJvZDUwZUZicGxTMTJ6cVBxeFBIMnFsUlFDU1pROGw2NWsyc216ajZjZ3pUcUctd0FR?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-07-11T12:23:46+08:00",
-     "description": "大火燒光1.3億身家！65歲玉女歌手颱風夜揭「浴火重生」內幕  中時新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
-   "id": "66163767bc52",
-   "title": "今颱風假好市多有開全台賣場營業狀況一次看- 生活",
-   "outlet_count": 4,
-   "outlets": [
-    "chinatimes",
-    "ltn",
-    "storm",
-    "tvbs"
-   ],
-   "article_count": 8,
-   "first_seen": "2026-07-10T07:48:55+08:00",
-   "last_updated": "2026-07-11T08:36:28+08:00",
-   "tags": [
-    "颱風假",
-    "營業",
-    "次看"
-   ],
-   "articles": [
-    {
-     "title": "搶賺颱風財 高雄多家百貨公司今天照常營業",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5501387",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-11T08:36:28+08:00",
-     "description": "首次上稿 07:48更新時間 08:36\n\n中度颱風巴威進逼，高雄今天（11日） 放颱風假，全市停班停課一天。但上午風雨並不大，高雄龍頭百貨漢神巨蛋與漢神百貨開第一槍，今天...…"
-    },
-    {
-     "title": "颱風天電影院會開嗎？威秀、秀泰、國賓各大影城營業時間一次看",
-     "link": "https://news.tvbs.com.tw/life/3251777",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-10T21:43:25+08:00",
-     "description": "",
-     "category": "life",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "颱風假全聯有開嗎？各大量販店、好市多營業時間及優惠一次看",
-     "link": "https://news.tvbs.com.tw/life/3252066",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-10T17:56:30+08:00",
-     "description": "",
-     "category": "life",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "巴威來襲！明好市多也有開　賣場、超市營業狀況一次看",
-     "link": "https://news.tvbs.com.tw/life/3254197",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-10T17:43:47+08:00",
-     "description": "",
-     "category": "life",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "颱風假捷運、台鐵、高鐵有開嗎？停班停課「全台交通運輸」異動一次看 | 李伊晴 | 風生活",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5vcjV6eXBlOWNKX1VqMHJMTTItMkhiY0I1UkFmTW1zalJJQkp6dXl4bjRFTDEybjdWaUVEYTNJSi1tM3JsUmVocUNuNVl3dEE2?oc=5",
-     "source": "storm",
-     "source_name": "風傳媒",
-     "published": "2026-07-10T10:51:15+08:00",
-     "description": "颱風假捷運、台鐵、高鐵有開嗎？停班停課「全台交通運輸」異動一次看 | 李伊晴 | 風生活  風傳媒",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "颱風假百貨公司今天有開嗎？新光三越、SOGO、遠百全台營業時間一次看：這幾家正常營業| 李伊晴 | 風生活",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBhcEEzYnppVTRBcUpkcWVJd2FEdHVyUXRrLXd2dEZZaloyQjkycF9JdjdwN1ZmTnhESnZCSzR2ZjhFZDczSXJOQjJKWkozWWFY?oc=5",
-     "source": "storm",
-     "source_name": "風傳媒",
-     "published": "2026-07-10T10:00:00+08:00",
-     "description": "颱風假百貨公司今天有開嗎？新光三越、SOGO、遠百全台營業時間一次看：這幾家正常營業| 李伊晴 | 風生活  風傳媒",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "好市多今天有開嗎？全聯、愛買、美廉社...颱風假全台賣場營業狀況一次看 | 李伊晴 | 風生活",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12dVZjZXU5UXVZU3I4RjBGN1dZeks5OEdsSlhuc29MWUl6YWg0ZFFXemM5N2VsS0FZd1JKNGNXZnRTMl9GSkZmMUNKTVRBVmFW?oc=5",
-     "source": "storm",
-     "source_name": "風傳媒",
-     "published": "2026-07-10T09:30:00+08:00",
-     "description": "好市多今天有開嗎？全聯、愛買、美廉社...颱風假全台賣場營業狀況一次看 | 李伊晴 | 風生活  風傳媒",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "今颱風假好市多有開全台賣場營業狀況一次看- 生活",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oLWNNT21sNkJfdU1BSl82VzRzVmlieEM4N19OaXMxN2JMc0JSYmYwZUhERmpETXZDQ25kNVBpYlA3NXVfR0gyVHlqcmZoQVVaSFV4dFp5ek9FWnc0VF82SDBUcElqb0VNUktBR1Vn?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-07-10T07:48:55+08:00",
-     "description": "今颱風假好市多有開全台賣場營業狀況一次看- 生活  中時新聞網"
     }
    ]
   }
