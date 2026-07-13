@@ -1,6 +1,6 @@
 {
  "date": "2026-07-14",
- "generated_at": "2026-07-14T01:03:03.954908+08:00",
+ "generated_at": "2026-07-14T02:51:08.927113+08:00",
  "events": [
   {
    "id": "ce66db42f6bc",
@@ -20,7 +20,7 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 46,
+   "article_count": 47,
    "first_seen": "2026-07-11T19:36:35+08:00",
    "last_updated": "2026-07-14T01:03:03.954908+08:00",
    "tags": [
@@ -46,6 +46,25 @@
       "acquisition": "scraper",
       "category": "living",
       "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "致癌油事件懶人包》胖老爹、錢櫃也中鏢！增至440項產品、360家業者，下架清單一次看",
+     "link": "https://news.tvbs.com.tw/life/3246789",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-13T23:51:08+08:00",
+     "description": "",
+     "category": "life",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "life",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
      }
     },
     {
@@ -190,23 +209,6 @@
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
-    },
-    {
-     "title": "台南中聯致癌油風暴擴大！下游增至34家 學校、長照皆中標",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxSjNFbVdkbnd2cHBadk1LaVQ2a3pMek1vazNUaWJ6dC1faWd3bzFmLThxZ1g0UlBPWTF0SUtLWXU2V1hwbS05bVZGQW9YSTJPUFNlN3lPRXJxdjB5b2k3OEZCYzNCVHozd3hlY3VB?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-07-13T16:17:34+08:00",
-     "description": "台南中聯致癌油風暴擴大！下游增至34家 學校、長照皆中標  中時新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
     }
    ]
   },
@@ -228,7 +230,7 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 125,
+   "article_count": 127,
    "first_seen": "2026-07-11T07:38:54+08:00",
    "last_updated": "2026-07-13T23:17:52.462579+08:00",
    "tags": [
@@ -237,8 +239,8 @@
    ],
    "articles": [
     {
-     "title": "巴威颱風走了！各縣市垃圾清運停駛時間不斷更新",
-     "link": "https://news.tvbs.com.tw/life/3252006",
+     "title": "巴威颱風剛走！雙北今晚「破例收垃圾」 恢復收運時間曝",
+     "link": "https://news.tvbs.com.tw/life/3255439",
      "source": "tvbs",
      "source_name": "TVBS",
      "published": "2026-07-13T23:17:52.462579+08:00",
@@ -256,8 +258,8 @@
      }
     },
     {
-     "title": "巴威颱風剛走！雙北今晚「破例收垃圾」 恢復收運時間曝",
-     "link": "https://news.tvbs.com.tw/life/3255439",
+     "title": "巴威颱風走了！各縣市垃圾清運停駛時間不斷更新",
+     "link": "https://news.tvbs.com.tw/life/3252006",
      "source": "tvbs",
      "source_name": "TVBS",
      "published": "2026-07-13T23:17:52.462579+08:00",
@@ -417,6 +419,403 @@
       },
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/rsscna/local"
+     }
+    }
+   ]
+  },
+  {
+   "id": "793fec6d29e8",
+   "title": "文湖線、三鶯線今全面停駛 雙北捷運、台鐵7/11行駛異動一次看",
+   "outlet_count": 11,
+   "outlets": [
+    "chinatimes",
+    "ebc",
+    "ettoday",
+    "ltn",
+    "mirror",
+    "newtalk",
+    "nownews",
+    "pts",
+    "storm",
+    "tvbs",
+    "udn"
+   ],
+   "article_count": 26,
+   "first_seen": "2026-07-11T08:36:00+08:00",
+   "last_updated": "2026-07-14T00:17:39+08:00",
+   "tags": [
+    "巴威颱風"
+   ],
+   "articles": [
+    {
+     "title": "巴威颱風",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zbThTR0RvTDlwdDFycklxQ0pyTm90M2swanpGRUxPeWxReTNxY05tX0c3aWdNeERFM1BkUkRjVGFYcjBobTIxWENRQnFZZnRjd3FSSlY2TW4tMFJ0V3hkR1UweVdySGlGWlRhd3VSQnVucWljbC1JWVFZdkZ3dHc?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-07-14T00:17:39+08:00",
+     "description": "巴威颱風  觸mii",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "熱門議題 - 巴威颱風襲台",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZkc3ZE1FMEJFRHN1b2FyWnRMRzBpN3hrZzgtRWUwOEZQOWVIX3ZBLVgtUExsVEpYeW9PU0Y2VDNQOU03RXgtaUVsTERFSHdFaFFzUWJ6UHVMMkJTTlRsenJELXowcENsaVpESXBMYkM4UFhYaDVHSDhuSjFIZTBxSWxmVUNjaEQzYk5LdkdZcHNDN2NqSjYxcmhDSjE?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-14T00:05:16+08:00",
+     "description": "熱門議題 - 巴威颱風襲台  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "熱門議題 - 巴威颱風襲台",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQa3g4N1l5UWNyQzBSSlNGZjZuUHF0UXhCdjdoczlVamRNQURPdEJxZlRpeHUzWTlfR2xLc3F0anpuOUpoOGZoclloVFJ3WGJDck12RHlLUG9ucXRZby1JdEJzUjN1ZlMtZUx4NW9uS2pYTHdYR3llUHNjWVZNMzJPR1JLdEhBdUdzNk9teEdXODJudDlqNzNLM1EtdzE?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-13T16:28:14+08:00",
+     "description": "熱門議題 - 巴威颱風襲台  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "一週大事／巴威颱風襲台 中聯食油再驗出苯駢芘超標（2026.7.6-7.12）",
+     "link": "https://news.pts.org.tw/article/817249",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-07-12T18:00:22+08:00",
+     "description": "《公視新聞網》為您精選一週國內外大事，關注焦點包括：巴威颱風襲台、中聯油品再驗出苯駢芘超標、基隆幼兒園遭廢照、矢板明夫遇襲、中國試射洲際彈道飛彈、川普宣布美伊協議終止、古巴大停電。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "不斷更新／巴威重創！多處道路沖毀封閉 路段一次看",
+     "link": "https://news.ebc.net.tw/news/living/560824",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-12T08:58:59.187955+08:00",
+     "description": "巴威颱風遠離台灣，受颱風帶來的強降雨影響，南橫公路梅山口、苗栗縣苗62線2.5公里處、新竹縣竹67線等地傳出災情，提醒民眾仍須注意安全。",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "熱門議題 - 巴威颱風襲台",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWmFXNXJ6TERlSDF1dDExUlE2b05TaVhzbmQ5cU05QW5IYXpubXAxbVRub25qYVhuYTl0OC10MzFqb0VIeU52N3A4ZzdYMXgwNVFXd04zbENzUkc4bDBLTHVTdnpHZzFZM0ViSXZpS29zeGVBdDVjNHhPOW04ZVV0cVdCOWhvLU1wN0dSb2tvVDV1NkRGa0FHOHdYblU?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-11T23:56:52+08:00",
+     "description": "熱門議題 - 巴威颱風襲台  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "不斷更新》颱風巴威釀災！北北基桃明正常上班上課全台各縣市颱風假一次看| 生活",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJNFF2YUgwaGY3enV0OURvb2VTcV9PN3YyU0Q2TGNHenpZNm5uSFEzSW9qTjN1TmVtR0RSbFlva3NWZmtrTzZZSXg1VGxaSVVURGYycGNaT1BCZHc?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-11T21:37:29+08:00",
+     "description": "不斷更新》颱風巴威釀災！北北基桃明正常上班上課全台各縣市颱風假一次看| 生活  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "巴威擦邊球 陳其邁高雄趴趴走視察防颱整備及復原",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5502101",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-11T21:30:52+08:00",
+     "description": "中颱巴威今（11）日擦邊球掃過北台灣海面，高雄未傳出重大災情，市長陳其邁一整天前往多處視察，包括路樹清除作業、台鐵高雄機廠周邊、正義公園滯洪池、大社觀音湖及大社區清潔隊，了解防...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "巴威颱風明天遠離 華航、星宇公布航班異動",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5502189",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-11T21:28:02+08:00",
+     "description": "巴威颱風明天遠離台灣，華航今天晚間說明，國際線明天（12日）航班異動資訊及安排放大機型載客，提醒旅客航班起降時間可能異動，建議旅客利用華航網站、下載Mobile APP或使用行...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "雙鐵明恢復正常營運！海陸空交通異動一次看　部分航班取消、增開",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9yRnFTVmlfcjJ2aGRUUVdTYWpHMXdUYW8xamVHZmtxenBWbHdJOEE1SW41TTFkSF9lYmpBbzUwOFlhMXZqcndqUmZ1ZWLSAVJBVV95cUxQREFrQWRyRVN0cXRyNTJoMlNSeGFnSXpVb0lXZ2ZnSDFpZjg1ck5QRkxoeUdWZ3MydFFzV3VqdkVBcjZla1FvVHdXbXBqbFRLNGV3?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-07-11T21:19:09+08:00",
+     "description": "雙鐵明恢復正常營運！海陸空交通異動一次看　部分航班取消、增開  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
+   "id": "2f0c91bf7d10",
+   "title": "美國要求伊朗承諾確保海峽開放　傳調解方安排高層協商",
+   "outlet_count": 10,
+   "outlets": [
+    "chinatimes",
+    "cna",
+    "ebc",
+    "ettoday",
+    "ltn",
+    "newtalk",
+    "pts",
+    "storm",
+    "tvbs",
+    "udn"
+   ],
+   "article_count": 32,
+   "first_seen": "2026-07-11T23:06:27+08:00",
+   "last_updated": "2026-07-13T23:34:36+08:00",
+   "tags": [
+    "荷莫茲海峽",
+    "伊朗",
+    "川普"
+   ],
+   "articles": [
+    {
+     "title": "川普宣布重啟對伊朗海上封鎖！稱荷姆茲海峽過路費將收20%，油價上漲逼近80美元",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9GRTBuQVA2c0p6V1BDdFJzZDVLclNBcDhQMkREbE91b0xEbmhHdUtYRGswQW1qTEdYRVhGUkV1MkNXaXN3Nlg3RUlUM1hvZw?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-07-13T23:34:36+08:00",
+     "description": "快訊／川普宣布重啟對伊朗海上封鎖！稱荷姆茲海峽過路費將收20%，油價上漲逼近80美元  風傳媒",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "川普：美國守護荷莫茲海峽　擬對來往貨物徵收補償費",
+     "link": "https://www.cna.com.tw/news/aopl/202607130346.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-13T23:07:25+08:00",
+     "description": "（中央社華盛頓13日綜合外電報導）美國總統川普今天誓言，將向所有途經荷莫茲海峽的運送貨物徵收費用，以補償維持海峽暢通的所需成本，並將恢復對伊朗船隻的封鎖。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
+     }
+    },
+    {
+     "title": "不再做無償守護者！川普：恢復封鎖伊朗 收取20％荷姆茲貨物費",
+     "link": "https://news.ltn.com.tw/news/world/breakingnews/5504163",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-13T22:57:24+08:00",
+     "description": "CNBC報導，在美國與伊朗爆發新一輪交火，和平協議的前景蒙上沉重陰影之際，美國總統川普13日接受福斯新聞（Fox News）專訪表示，他計畫有償守護荷姆茲海峽，美國將「因守護荷...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "川普宣布「重啟伊朗封鎖」！荷莫茲海峽收20%過路費",
+     "link": "https://www.ettoday.net/news/20260713/3200483.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-13T22:46:00+08:00",
+     "description": "美國總統川普13日宣布，美國將「恢復（reinstating）」對伊朗的封鎖措施（blockade），限制伊朗船隻及其客戶經由荷姆茲海峽（Strait of Hormuz）進出，同時將對通過海峽的符合資格貨物徵收20%的通行費，以支付維護這條全球重要航道安全所需的成本。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "川普宣布恢復封鎖伊朗   美將對荷莫茲海峽船隻抽20%過路費",
+     "link": "https://news.tvbs.com.tw/world/3256639",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-13T22:35:52+08:00",
+     "description": "",
+     "category": "world",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "world",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "川普稱伊朗打破協議 美國可能接管荷姆茲海峽",
+     "link": "https://news.ltn.com.tw/news/world/breakingnews/5504135",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-13T22:13:15+08:00",
+     "description": "美國與伊朗上週末重啟戰火。繼11日對伊朗140個目標發動打擊後，美國中央司令部（CENTCOM）12日再宣布，轟炸德黑蘭數十個軍事目標；伊朗聲稱打擊波斯灣境內美軍基地並關閉海峽...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "川普稱美國可能接管荷莫茲海峽　並應為此獲得報酬",
+     "link": "https://www.cna.com.tw/news/aopl/202607130326.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-13T21:05:34+08:00",
+     "description": "（中央社華盛頓13日綜合外電報導）美國總統川普（Donald Trump）今天表示，美國很可能會接管荷莫茲海峽（Strait of Hormuz），並且應該因為守護這條重要水道而獲得報酬。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
+     }
+    },
+    {
+     "title": "美軍狂轟140個目標！川普宣布荷姆茲重開  伊朗：根本沒通",
+     "link": "https://news.ltn.com.tw/news/world/breakingnews/5503834",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-13T17:20:39+08:00",
+     "description": "美伊大規模衝突13日陷入「海峽開通羅生門」。美國總統川普高調宣稱，遭伊朗封鎖的荷姆茲海峽在美軍大規模空襲後已恢復安全通行；但德黑蘭當局隨即強烈反擊，堅稱該海峽仍處於全面關閉狀態...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "伊朗稱關閉荷莫茲海峽　美：航道仍正常運作",
+     "link": "https://www.cna.com.tw/news/aopl/202607130162.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-13T14:52:39+08:00",
+     "description": "（中央社華盛頓12日綜合外電報導）中東局勢升溫，美國與伊朗你來我往之下，荷莫茲海峽開放與否兩方說法各異。伊朗方面發布聲明宣布這條海峽關閉，美方則表示，海峽仍舊所有合法通行需求的船隻開放。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
+     }
+    },
+    {
+     "title": "(影) 美軍一周內第三度大空襲伊沿海！荷姆茲海峽再開火導彈基地遭摧毀| 國際",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xc2hQb2M2dklhS2lOVmloZ21kVktpQTlKcWVsSzJob0VoR3BjNDVZNlMyektXemF1THdoQjJQNXJJOERoQ1dXeWRsSjZiNWxZR2RQMF95ZUhKYkk?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-13T12:27:14+08:00",
+     "description": "(影) 美軍一周內第三度大空襲伊沿海！荷姆茲海峽再開火導彈基地遭摧毀| 國際  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -639,7 +1038,7 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 36,
+   "article_count": 35,
    "first_seen": "2026-07-12T07:01:00+08:00",
    "last_updated": "2026-07-13T20:32:04+08:00",
    "tags": [
@@ -753,25 +1152,6 @@
      }
     },
     {
-     "title": "分科測驗／數甲「買水果、參加遊戲」都入題　微積分是決勝關鍵",
-     "link": "https://news.tvbs.com.tw/life/3256409",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-13T19:03:03+08:00",
-     "description": "",
-     "category": "life",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
      "title": "分科測驗生物科 全中教：命題靈活 鑑別度高",
      "link": "https://news.ltn.com.tw/news/life/breakingnews/5503986",
      "source": "ltn",
@@ -786,6 +1166,25 @@
       },
       "acquisition": "rss",
       "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "分科測驗／數甲「買水果、參加遊戲」都入題　微積分是決勝關鍵",
+     "link": "https://news.tvbs.com.tw/life/3256409",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-13T18:51:08+08:00",
+     "description": "",
+     "category": "life",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "life",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
      }
     },
     {
@@ -820,205 +1219,6 @@
       },
       "acquisition": "rss",
       "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    }
-   ]
-  },
-  {
-   "id": "793fec6d29e8",
-   "title": "文湖線、三鶯線今全面停駛 雙北捷運、台鐵7/11行駛異動一次看",
-   "outlet_count": 10,
-   "outlets": [
-    "ebc",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "newtalk",
-    "nownews",
-    "pts",
-    "storm",
-    "tvbs",
-    "udn"
-   ],
-   "article_count": 24,
-   "first_seen": "2026-07-11T08:36:00+08:00",
-   "last_updated": "2026-07-13T16:28:14+08:00",
-   "tags": [
-    "巴威颱風",
-    "次看",
-    "一次"
-   ],
-   "articles": [
-    {
-     "title": "熱門議題 - 巴威颱風襲台",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQa3g4N1l5UWNyQzBSSlNGZjZuUHF0UXhCdjdoczlVamRNQURPdEJxZlRpeHUzWTlfR2xLc3F0anpuOUpoOGZoclloVFJ3WGJDck12RHlLUG9ucXRZby1JdEJzUjN1ZlMtZUx4NW9uS2pYTHdYR3llUHNjWVZNMzJPR1JLdEhBdUdzNk9teEdXODJudDlqNzNLM1EtdzE?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-13T16:28:14+08:00",
-     "description": "熱門議題 - 巴威颱風襲台  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "一週大事／巴威颱風襲台 中聯食油再驗出苯駢芘超標（2026.7.6-7.12）",
-     "link": "https://news.pts.org.tw/article/817249",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-07-12T18:00:22+08:00",
-     "description": "《公視新聞網》為您精選一週國內外大事，關注焦點包括：巴威颱風襲台、中聯油品再驗出苯駢芘超標、基隆幼兒園遭廢照、矢板明夫遇襲、中國試射洲際彈道飛彈、川普宣布美伊協議終止、古巴大停電。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "不斷更新／巴威重創！多處道路沖毀封閉 路段一次看",
-     "link": "https://news.ebc.net.tw/news/living/560824",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-12T08:58:59.187955+08:00",
-     "description": "巴威颱風遠離台灣，受颱風帶來的強降雨影響，南橫公路梅山口、苗栗縣苗62線2.5公里處、新竹縣竹67線等地傳出災情，提醒民眾仍須注意安全。",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "熱門議題 - 巴威颱風襲台",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWmFXNXJ6TERlSDF1dDExUlE2b05TaVhzbmQ5cU05QW5IYXpubXAxbVRub25qYVhuYTl0OC10MzFqb0VIeU52N3A4ZzdYMXgwNVFXd04zbENzUkc4bDBLTHVTdnpHZzFZM0ViSXZpS29zeGVBdDVjNHhPOW04ZVV0cVdCOWhvLU1wN0dSb2tvVDV1NkRGa0FHOHdYblU?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-11T23:56:52+08:00",
-     "description": "熱門議題 - 巴威颱風襲台  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "不斷更新》颱風巴威釀災！北北基桃明正常上班上課全台各縣市颱風假一次看| 生活",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJNFF2YUgwaGY3enV0OURvb2VTcV9PN3YyU0Q2TGNHenpZNm5uSFEzSW9qTjN1TmVtR0RSbFlva3NWZmtrTzZZSXg1VGxaSVVURGYycGNaT1BCZHc?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-11T21:37:29+08:00",
-     "description": "不斷更新》颱風巴威釀災！北北基桃明正常上班上課全台各縣市颱風假一次看| 生活  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "巴威擦邊球 陳其邁高雄趴趴走視察防颱整備及復原",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5502101",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-11T21:30:52+08:00",
-     "description": "中颱巴威今（11）日擦邊球掃過北台灣海面，高雄未傳出重大災情，市長陳其邁一整天前往多處視察，包括路樹清除作業、台鐵高雄機廠周邊、正義公園滯洪池、大社觀音湖及大社區清潔隊，了解防...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "巴威颱風明天遠離 華航、星宇公布航班異動",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5502189",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-11T21:28:02+08:00",
-     "description": "巴威颱風明天遠離台灣，華航今天晚間說明，國際線明天（12日）航班異動資訊及安排放大機型載客，提醒旅客航班起降時間可能異動，建議旅客利用華航網站、下載Mobile APP或使用行...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "雙鐵明恢復正常營運！海陸空交通異動一次看　部分航班取消、增開",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEQWtBZHJFU3RxdHI1MmgyU1J4YWdJelVvSVdnZmdIMWlmODVyTlBGTGh5R1ZnczJ0UXNXdWp2RUFyNmVrUW9Ud1dtcGpsVEs0ZXfSAVJBVV95cUxQREFrQWRyRVN0cXRyNTJoMlNSeGFnSXpVb0lXZ2ZnSDFpZjg1ck5QRkxoeUdWZ3MydFFzV3VqdkVBcjZla1FvVHdXbXBqbFRLNGV3?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-07-11T21:19:09+08:00",
-     "description": "雙鐵明恢復正常營運！海陸空交通異動一次看　部分航班取消、增開  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "雙鐵明恢復正常營運！海陸空交通異動一次看　部分航班取消、增開",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9yRnFTVmlfcjJ2aGRUUVdTYWpHMXdUYW8xamVHZmtxenBWbHdJOEE1SW41TTFkSF9lYmpBbzUwOFlhMXZqcndqUmZ1ZWLSAVJBVV95cUxQREFrQWRyRVN0cXRyNTJoMlNSeGFnSXpVb0lXZ2ZnSDFpZjg1ck5QRkxoeUdWZ3MydFFzV3VqdkVBcjZla1FvVHdXbXBqbFRLNGV3?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-07-11T21:19:09+08:00",
-     "description": "雙鐵明恢復正常營運！海陸空交通異動一次看　部分航班取消、增開  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "巴威颱風即將解除警報！基北北桃明正常上班上課北市累積動員逾2.7萬人次防颱| 蕭宥宸 | 新聞",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBtVFhYTTdlbDVaQks0eEhqWHA5VEd3eDBlc21XcG9SVzIyNnlaRjJNT3pHNzF5bHpNdlJiNjNCUUg5djB2d0hLS0VmZ0NaZw?oc=5",
-     "source": "storm",
-     "source_name": "風傳媒",
-     "published": "2026-07-11T20:44:25+08:00",
-     "description": "巴威颱風即將解除警報！基北北桃明正常上班上課北市累積動員逾2.7萬人次防颱| 蕭宥宸 | 新聞  風傳媒",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -1212,7 +1412,7 @@
      "link": "https://news.tvbs.com.tw/sports/3219947",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-13T08:03:03+08:00",
+     "published": "2026-07-13T07:51:08+08:00",
      "description": "",
      "category": "sports",
      "metadata": {
@@ -1448,6 +1648,205 @@
    ]
   },
   {
+   "id": "4c776d2cd0d8",
+   "title": "佀廣洋宣布放棄國民黨提名　續走基層、為爭議反省檢討",
+   "outlet_count": 9,
+   "outlets": [
+    "cna",
+    "ebc",
+    "ettoday",
+    "ltn",
+    "mirror",
+    "newtalk",
+    "storm",
+    "tvbs",
+    "udn"
+   ],
+   "article_count": 13,
+   "first_seen": "2026-07-13T18:06:57+08:00",
+   "last_updated": "2026-07-14T00:40:33+08:00",
+   "tags": [
+    "棄國民黨提名",
+    "佀廣洋宣布放"
+   ],
+   "articles": [
+    {
+     "title": "佀廣洋放棄國民黨提名但沒說退選！藍營桃園市黨部祝福不另提人選| 政治",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OT0xBQWwxTVJUMC1mUTFiWEtVeXN4cFJCYVBJRmtNVFYtZndRRjlJRnR6WEdyRkdfbnFoeWE1eWNES3NPVUdzU0dtcDJaY0NJYXRONV8tamEzdWM?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-14T00:40:33+08:00",
+     "description": "佀廣洋放棄國民黨提名但沒說退選！藍營桃園市黨部祝福不另提人選| 政治  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "佀廣洋宣布放棄提名　國民黨桃園市黨部回應：暫不補提名",
+     "link": "https://www.ettoday.net/news/20260714/3200470.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-14T00:20:00+08:00",
+     "description": "國民黨籍立委萬美玲之子、桃園市議員參選人佀廣洋今天（13日）宣布放棄中國國民黨提名。國民黨桃園市黨部主委蔡忠誠表示，黨部目前暫時沒有再補提名人選的規劃，樂觀看待各選區選情。\n\n 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "佀廣洋棄國民黨提名止血！羅友志曝選情變化：綠營投票率會成長",
+     "link": "https://www.ettoday.net/news/20260714/3200496.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-14T00:20:00+08:00",
+     "description": "國民黨立委萬美玲之子、桃園市議員參選人佀廣洋，因學生時期涉霸凌、言語羞辱及高中簽賭等爭議，連日來引發外界質疑。儘管日前已出面鞠躬道歉，仍未能止住輿論延燒。佀廣洋13日晚間發表聲明，宣布放棄國民黨提名，強調不希望個人事件造成黨內同志及長官困擾，也避免影響選戰布局，未來仍會持續勤走基層、傾聽民意，以謙卑態度反省檢討。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "放棄國民黨提名不說退選！佀廣洋：社會把我描述成無惡不赦壞孩子| 政治",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qWDc5T0hXWHladU5fUVg1ZmVDUGU0eVFoZnowZWdhdm9iQWRXRXBfRlluYWozVnhLN2NsWkpYU0tvSUVWZXJfTm1Qa2Z2UDZIZ29mUGdnS2pydkk?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-13T23:31:45+08:00",
+     "description": "放棄國民黨提名不說退選！佀廣洋：社會把我描述成無惡不赦壞孩子| 政治  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "佀廣洋放棄國民黨提名　桃園市黨部暫無補提名規劃",
+     "link": "https://www.cna.com.tw/news/aloc/202607130319.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-13T20:48:19+08:00",
+     "description": "（中央社記者吳睿騏桃園13日電）國民黨籍立委萬美玲之子、桃園市議員參選人佀廣洋今天宣布放棄中國國民黨提名。國民黨桃園市黨部主委蔡忠誠表示，黨部目前暫時沒有再補提名人選的規劃，樂觀看待各選區選情。",
+     "author": "吳睿騏",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "吳睿騏",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/local"
+     }
+    },
+    {
+     "title": "沒說要退選！霸凌爭議滿天飛 佀廣洋宣布「放棄國民黨提名」：繼續勤走基層 | 張大任 | 新聞",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBLTGVDVUxWQXdzdWZhejJzRm92Wkp2M3ZCay04Sm5KdXB2Uk1LdDBweF9CUVF0TENveUM1NV9nZkI1dFdXc2tlSjNWLUl0dw?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-07-13T20:16:44+08:00",
+     "description": "沒說要退選！霸凌爭議滿天飛 佀廣洋宣布「放棄國民黨提名」：繼續勤走基層 | 張大任 | 新聞  風傳媒",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "佀廣洋宣布放棄國民黨提名　續走基層、為爭議反省檢討",
+     "link": "https://www.cna.com.tw/news/aloc/202607130303.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-13T19:52:44+08:00",
+     "description": "（中央社記者吳睿騏桃園13日電）國民黨籍立委萬美玲之子、桃園市議員參選人佀廣洋今天宣布放棄國民黨提名。他說，避免個人事件影響黨內同志及整體選戰布局，放棄國民黨提名，繼續勤走基層，謙卑反省檢討。",
+     "author": "吳睿騏",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "吳睿騏",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/local"
+     }
+    },
+    {
+     "title": "霸凌爭議難止血！ 佀廣洋：放棄國民黨提名「反省檢討」",
+     "link": "https://news.ebc.net.tw/news/politics/561074",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-13T19:26:24.462701+08:00",
+     "description": "國民黨立委萬美玲的兒子佀廣洋，參選桃園市議員以來深陷霸凌爭議，對此本人在網路發表最新聲明，表示為了不讓個人事件造成黨內困擾，影響選戰布局，決定放棄提名。",
+     "category": "politics",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "politics",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "退提名非退選？  佀廣洋宣布放棄國民黨提名 表態「仍將勤走基層」",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5503943",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-13T18:34:34+08:00",
+     "description": "國民黨立委萬美玲之子佀廣洋陷入霸凌黑歷史，未當兵議題及父母財產近日也被放大檢視，佀廣洋今（13）日在臉書宣布，「為了不讓個人的事件造成黨內同志、長官的困擾，更避免影響選戰布局，...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "霸凌事蹟連爆　佀廣洋宣布放棄國民黨提名「仍未提退選」",
+     "link": "https://www.mirrormedia.mg/story/20260713edi084",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-07-13T18:33:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    }
+   ]
+  },
+  {
    "id": "0e1ebfc3db64",
    "title": "竹北天坑案一審宣判　楊文科獲判無罪",
    "outlet_count": 9,
@@ -1595,7 +1994,7 @@
      "link": "https://news.tvbs.com.tw/politics/3256356",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-13T18:03:03+08:00",
+     "published": "2026-07-13T17:51:08+08:00",
      "description": "",
      "category": "politics",
      "metadata": {
@@ -1672,12 +2071,12 @@
    ],
    "articles": [
     {
-     "title": "快訊》大雨猛灌！2縣市發布特報氣象署：防雷擊| 生活",
+     "title": "快訊》大雨猛灌！2縣市發布特報 氣象署：防雷擊 | 生活",
      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yZTh1bU4yTjJ0V3FLQ05hR1pwNEFCWVN5MEIxX1ZCT2FhMnRIbVVtU19vRDJRTksxaFlIcmhXSHhRak1uQS12VHVLNmtuODROVVNSSDF4V3hiMU0?oc=5",
      "source": "newtalk",
      "source_name": "新頭殼",
      "published": "2026-07-14T00:24:01+08:00",
-     "description": "快訊》大雨猛灌！2縣市發布特報氣象署：防雷擊| 生活  Newtalk新聞",
+     "description": "快訊》大雨猛灌！2縣市發布特報 氣象署：防雷擊 | 生活  Newtalk新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -1725,12 +2124,12 @@
      }
     },
     {
-     "title": "快訊》1縣市大雷雨狂炸，氣象署示警慎防雷擊 | 生活",
+     "title": "快訊》1縣市大雷雨狂炸，氣象署示警慎防雷擊| 生活",
      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EcFVJaEVpaGE0QTg2cmxjOTdkOGRIY0M0R05GeXlWbXhQNzZBOUNEM2hMWG80dXEyNGtIeTZNSi0xZ3AwMDBaNm94aHEtLUVwNHpDNEgzZDl2ZXc?oc=5",
      "source": "newtalk",
      "source_name": "新頭殼",
      "published": "2026-07-13T21:24:01+08:00",
-     "description": "快訊》1縣市大雷雨狂炸，氣象署示警慎防雷擊 | 生活  Newtalk新聞",
+     "description": "快訊》1縣市大雷雨狂炸，氣象署示警慎防雷擊| 生活  Newtalk新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -1742,12 +2141,12 @@
      }
     },
     {
-     "title": "快訊》2縣市大雷雨狂炸！氣象署示警防雷擊、積水 | 生活",
+     "title": "快訊》2縣市大雷雨狂炸！氣象署示警防雷擊、積水",
      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TbTBBX2NVUThnYXU3d1duZnlCbmtpX1BFaS1FeDVQM3VJLWw3WFZUbGVLMG5acXhXUTF0UDNJWFkyeGNSTFRGOXkyZjc2bHozTDNBalFnU0ZFaEU?oc=5",
      "source": "newtalk",
      "source_name": "新頭殼",
      "published": "2026-07-13T20:36:01+08:00",
-     "description": "快訊》2縣市大雷雨狂炸！氣象署示警防雷擊、積水 | 生活  Newtalk新聞",
+     "description": "快訊》2縣市大雷雨狂炸！氣象署示警防雷擊、積水  Newtalk新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -1842,208 +2241,6 @@
       },
       "acquisition": "scraper",
       "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    }
-   ]
-  },
-  {
-   "id": "4c776d2cd0d8",
-   "title": "佀廣洋宣布放棄國民黨提名　續走基層、為爭議反省檢討",
-   "outlet_count": 9,
-   "outlets": [
-    "cna",
-    "ebc",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "newtalk",
-    "storm",
-    "tvbs",
-    "udn"
-   ],
-   "article_count": 10,
-   "first_seen": "2026-07-13T18:06:57+08:00",
-   "last_updated": "2026-07-13T23:31:45+08:00",
-   "tags": [
-    "棄國民黨提名",
-    "佀廣洋宣布放",
-    "走基層"
-   ],
-   "articles": [
-    {
-     "title": "放棄國民黨提名不說退選！佀廣洋：社會把我描述成無惡不赦壞孩子| 政治",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qWDc5T0hXWHladU5fUVg1ZmVDUGU0eVFoZnowZWdhdm9iQWRXRXBfRlluYWozVnhLN2NsWkpYU0tvSUVWZXJfTm1Qa2Z2UDZIZ29mUGdnS2pydkk?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-13T23:31:45+08:00",
-     "description": "放棄國民黨提名不說退選！佀廣洋：社會把我描述成無惡不赦壞孩子| 政治  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "佀廣洋放棄國民黨提名　桃園市黨部暫無補提名規劃",
-     "link": "https://www.cna.com.tw/news/aloc/202607130319.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-13T20:48:19+08:00",
-     "description": "（中央社記者吳睿騏桃園13日電）國民黨籍立委萬美玲之子、桃園市議員參選人佀廣洋今天宣布放棄中國國民黨提名。國民黨桃園市黨部主委蔡忠誠表示，黨部目前暫時沒有再補提名人選的規劃，樂觀看待各選區選情。",
-     "author": "吳睿騏",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "吳睿騏",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/local"
-     }
-    },
-    {
-     "title": "沒說要退選！霸凌爭議滿天飛 佀廣洋宣布「放棄國民黨提名」：繼續勤走基層 | 張大任 | 新聞",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBLTGVDVUxWQXdzdWZhejJzRm92Wkp2M3ZCay04Sm5KdXB2Uk1LdDBweF9CUVF0TENveUM1NV9nZkI1dFdXc2tlSjNWLUl0dw?oc=5",
-     "source": "storm",
-     "source_name": "風傳媒",
-     "published": "2026-07-13T20:16:44+08:00",
-     "description": "沒說要退選！霸凌爭議滿天飛 佀廣洋宣布「放棄國民黨提名」：繼續勤走基層 | 張大任 | 新聞  風傳媒",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "佀廣洋宣布放棄國民黨提名　續走基層、為爭議反省檢討",
-     "link": "https://www.cna.com.tw/news/aloc/202607130303.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-13T19:52:44+08:00",
-     "description": "（中央社記者吳睿騏桃園13日電）國民黨籍立委萬美玲之子、桃園市議員參選人佀廣洋今天宣布放棄國民黨提名。他說，避免個人事件影響黨內同志及整體選戰布局，放棄國民黨提名，繼續勤走基層，謙卑反省檢討。",
-     "author": "吳睿騏",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "吳睿騏",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/local"
-     }
-    },
-    {
-     "title": "霸凌爭議難止血！ 佀廣洋：放棄國民黨提名「反省檢討」",
-     "link": "https://news.ebc.net.tw/news/politics/561074",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-13T19:26:24.462701+08:00",
-     "description": "國民黨立委萬美玲的兒子佀廣洋，參選桃園市議員以來深陷霸凌爭議，對此本人在網路發表最新聲明，表示為了不讓個人事件造成黨內困擾，影響選戰布局，決定放棄提名。",
-     "category": "politics",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "politics",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "退提名非退選？  佀廣洋宣布放棄國民黨提名 表態「仍將勤走基層」",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5503943",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-13T18:34:34+08:00",
-     "description": "國民黨立委萬美玲之子佀廣洋陷入霸凌黑歷史，未當兵議題及父母財產近日也被放大檢視，佀廣洋今（13）日在臉書宣布，「為了不讓個人的事件造成黨內同志、長官的困擾，更避免影響選戰布局，...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "霸凌事蹟連爆　佀廣洋宣布放棄國民黨提名「仍未提退選」",
-     "link": "https://www.mirrormedia.mg/story/20260713edi084",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-07-13T18:33:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "被描述成十惡不赦壞孩子　佀廣洋宣布放棄國民黨提名",
-     "link": "https://www.ettoday.net/news/20260713/3200428.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-13T18:17:00+08:00",
-     "description": "國民黨立委萬美玲之子、桃園市議員參選人佀廣洋深陷霸凌、網路簽賭等爭議，被要求退選聲音不斷。對此，佀廣洋今（13日）表示，自宣布參選以來，社會各界對他學生時期有許多質疑與批評，甚至把過去的他描述成十惡不赦的壞孩子，澄清後相關攻擊並未停歇，為了不讓個人的事件造成黨內同志、長官的困擾，更避免影響選戰布局，決定放棄中國國民黨提名。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "霸凌爭議延燒 佀廣洋宣布放棄國民黨提名、繼續勤走基層",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55QnNNM3hnM1d6dEdEZzE3Mm52eC1VUUQwTUJyTXI0ZmdYMzlBSVVlYVZIOS1FREVKTlFSZmhkOU1Md3cxeENJd3JWTWd3NEdYdHJZ0gFYQVVfeXFMTXRzNGs0Qm1DX0IwVTlSMWdsQVlHSFFjUklnaEZRVHh5c1BEdmhlUFpTNkQzN1FQYmZHejN6SWh3UGcwVzJHMWlwTnVyaFl2SHZGbUxOZHVvZg?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-07-13T18:14:41+08:00",
-     "description": "霸凌爭議延燒 佀廣洋宣布放棄國民黨提名、繼續勤走基層  聯合新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "防拖累桃園選情！萬美玲兒佀廣洋宣布：放棄國民黨議員提名",
-     "link": "https://news.tvbs.com.tw/politics/3256203",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-13T18:06:57+08:00",
-     "description": "",
-     "category": "politics",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "politics",
       "feed_url": "https://news.tvbs.com.tw/realtime"
      }
     }
@@ -2259,206 +2456,6 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
-   "id": "2f0c91bf7d10",
-   "title": "美國要求伊朗承諾確保海峽開放　傳調解方安排高層協商",
-   "outlet_count": 9,
-   "outlets": [
-    "chinatimes",
-    "cna",
-    "ebc",
-    "ettoday",
-    "ltn",
-    "newtalk",
-    "pts",
-    "tvbs",
-    "udn"
-   ],
-   "article_count": 31,
-   "first_seen": "2026-07-11T23:06:27+08:00",
-   "last_updated": "2026-07-13T23:07:25+08:00",
-   "tags": [
-    "荷莫茲海峽",
-    "伊朗",
-    "川普"
-   ],
-   "articles": [
-    {
-     "title": "川普：美國守護荷莫茲海峽　擬對來往貨物徵收補償費",
-     "link": "https://www.cna.com.tw/news/aopl/202607130346.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-13T23:07:25+08:00",
-     "description": "（中央社華盛頓13日綜合外電報導）美國總統川普今天誓言，將向所有途經荷莫茲海峽的運送貨物徵收費用，以補償維持海峽暢通的所需成本，並將恢復對伊朗船隻的封鎖。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
-     }
-    },
-    {
-     "title": "不再做無償守護者！川普：恢復封鎖伊朗 收取20％荷姆茲貨物費",
-     "link": "https://news.ltn.com.tw/news/world/breakingnews/5504163",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-13T22:57:24+08:00",
-     "description": "CNBC報導，在美國與伊朗爆發新一輪交火，和平協議的前景蒙上沉重陰影之際，美國總統川普13日接受福斯新聞（Fox News）專訪表示，他計畫有償守護荷姆茲海峽，美國將「因守護荷...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "川普宣布「重啟伊朗封鎖」！荷莫茲海峽收20%過路費",
-     "link": "https://www.ettoday.net/news/20260713/3200483.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-13T22:46:00+08:00",
-     "description": "美國總統川普13日宣布，美國將「恢復（reinstating）」對伊朗的封鎖措施（blockade），限制伊朗船隻及其客戶經由荷姆茲海峽（Strait of Hormuz）進出，同時將對通過海峽的符合資格貨物徵收20%的通行費，以支付維護這條全球重要航道安全所需的成本。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "川普宣布恢復封鎖伊朗   美將對荷莫茲海峽船隻抽20%過路費",
-     "link": "https://news.tvbs.com.tw/world/3256639",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-13T22:35:52+08:00",
-     "description": "",
-     "category": "world",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "world",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "川普稱伊朗打破協議 美國可能接管荷姆茲海峽",
-     "link": "https://news.ltn.com.tw/news/world/breakingnews/5504135",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-13T22:13:15+08:00",
-     "description": "美國與伊朗上週末重啟戰火。繼11日對伊朗140個目標發動打擊後，美國中央司令部（CENTCOM）12日再宣布，轟炸德黑蘭數十個軍事目標；伊朗聲稱打擊波斯灣境內美軍基地並關閉海峽...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "川普稱美國可能接管荷莫茲海峽　並應為此獲得報酬",
-     "link": "https://www.cna.com.tw/news/aopl/202607130326.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-13T21:05:34+08:00",
-     "description": "（中央社華盛頓13日綜合外電報導）美國總統川普（Donald Trump）今天表示，美國很可能會接管荷莫茲海峽（Strait of Hormuz），並且應該因為守護這條重要水道而獲得報酬。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
-     }
-    },
-    {
-     "title": "美軍狂轟140個目標！川普宣布荷姆茲重開  伊朗：根本沒通",
-     "link": "https://news.ltn.com.tw/news/world/breakingnews/5503834",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-13T17:20:39+08:00",
-     "description": "美伊大規模衝突13日陷入「海峽開通羅生門」。美國總統川普高調宣稱，遭伊朗封鎖的荷姆茲海峽在美軍大規模空襲後已恢復安全通行；但德黑蘭當局隨即強烈反擊，堅稱該海峽仍處於全面關閉狀態...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "伊朗稱關閉荷莫茲海峽　美：航道仍正常運作",
-     "link": "https://www.cna.com.tw/news/aopl/202607130162.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-13T14:52:39+08:00",
-     "description": "（中央社華盛頓12日綜合外電報導）中東局勢升溫，美國與伊朗你來我往之下，荷莫茲海峽開放與否兩方說法各異。伊朗方面發布聲明宣布這條海峽關閉，美方則表示，海峽仍舊所有合法通行需求的船隻開放。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
-     }
-    },
-    {
-     "title": "(影) 美軍一周內第三度大空襲伊沿海！荷姆茲海峽再開火導彈基地遭摧毀| 國際",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xc2hQb2M2dklhS2lOVmloZ21kVktpQTlKcWVsSzJob0VoR3BjNDVZNlMyektXemF1THdoQjJQNXJJOERoQ1dXeWRsSjZiNWxZR2RQMF95ZUhKYkk?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-13T12:27:14+08:00",
-     "description": "(影) 美軍一周內第三度大空襲伊沿海！荷姆茲海峽再開火導彈基地遭摧毀| 國際  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "美軍三度空襲伊朗　革命衛隊嗆船違規才開火：封鎖荷姆茲海峽",
-     "link": "https://news.tvbs.com.tw/world/3255172",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-13T08:58:05.886197+08:00",
-     "description": "",
-     "category": "world",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "world",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
      }
     }
    ]
@@ -2905,6 +2902,203 @@
    ]
   },
   {
+   "id": "93f8e674cebf",
+   "title": "巴威暴風圈今晨觸陸「進入搖滾時刻」！ 專家揭20小時最大風雨浪",
+   "outlet_count": 9,
+   "outlets": [
+    "ebc",
+    "ettoday",
+    "ltn",
+    "mirror",
+    "newtalk",
+    "nownews",
+    "storm",
+    "tvbs",
+    "udn"
+   ],
+   "article_count": 35,
+   "first_seen": "2026-07-11T06:02:36+08:00",
+   "last_updated": "2026-07-13T17:36:00+08:00",
+   "tags": [
+    "巴威",
+    "天氣"
+   ],
+   "articles": [
+    {
+     "title": "午後雷雨持續到下周「2地防豪雨」　又有熱帶擾動發展",
+     "link": "https://www.ettoday.net/news/20260713/3200408.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-13T17:36:00+08:00",
+     "description": "午後雷雨將持續一周，明天南方水氣北移，南部、台東不定時有雨，中部以北及宜花午後有雷陣雨，且中部和北部山區要留意短延時豪雨。海神颱風路徑對台灣無直接影響，估4至5天後減弱，南海熱帶擾動未來將朝華南沿岸移動，不會直接影響台灣。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "颱風海神接棒生成恐短命！南海有熱帶擾動發展　氣象署說明了",
+     "link": "https://www.mirrormedia.mg/story/20260713edi040",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-07-13T12:55:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "午後雷雨彈升級「高溫飆36度」　南海低壓擾動醞釀",
+     "link": "https://www.ettoday.net/news/20260713/3200064.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-13T11:18:00+08:00",
+     "description": "今明兩天水氣偏多，南部、台東不定時有降雨，午後中部以北及山區嚴防大雷雨或短延時豪雨，未降雨時悶熱，局部地區高溫上看36度。海神颱風今生成，未來路徑對台灣沒有影響，南海另一個低壓擾動發展，未來將朝中國沿海前進，但不排除帶來水氣，影響午後雷陣雨加劇。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "天氣／未來一周雨彈天天炸！熱帶擾動發展中　路徑「侵台機率低」",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhRnNrU0l3ZXJHYXdrcHl1amJSc0RLd3ZmVUdfNk1WSm41Skw4NzVjYXE3Q2JZQUs3dzcwT0h4TWxXY3g1WDNNYlF0R3o1ZWF1VFHSAVJBVV95cUxQYUZza1NJd2VyR2F3a3B5dWpiUnNES3d2ZlVHXzZNVkpuNUpMODc1Y2FxN0NiWUFLN3c3ME9IeE1sV2N4NVgzTWJRdEd6NWVhdVRR?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-07-13T09:43:51+08:00",
+     "description": "天氣／未來一周雨彈天天炸！熱帶擾動發展中　路徑「侵台機率低」  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "巴威走後還有新颱風？專家提醒注意午後大雷雨熱帶擾動發展活躍| 生活",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4clhEbmgtb0J2cUFxVmRiSzRjdnBXTFB1TnJjcVMxNjFXNlo4d0RqSkZmUldIOXJES0xrNGg1UVZDM0pOTlBEWm1VaTY3OHc0dTBKMHhYX3cwU2s?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-13T09:29:20+08:00",
+     "description": "巴威走後還有新颱風？專家提醒注意午後大雷雨熱帶擾動發展活躍| 生活  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "巴威剛走「又有熱帶低壓要生成」！最新預估出爐　本周全台都有雨",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE02VUpEWUpDNzJBU3J4V0d5a0NYNDNkTGZfQTc5YVNmbVJpTmppazlfYjhVaGdjQk01djE3T1lzWUY2QTYzZjc2b0ZVRWrSAVJBVV95cUxQcFcweEZhYkZWWFF2VlhjSjVRZGhaNWR4STVZTkMxM3JsYnlTcHhJamdXMHhvaXJSMkx3ZFluakczMGhPQWJzR1lmSTczTDVQZTFB?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-07-13T07:03:10+08:00",
+     "description": "巴威剛走「又有熱帶低壓要生成」！最新預估出爐　本周全台都有雨  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "巴威才走！　可能又有熱帶低壓路徑曝",
+     "link": "https://www.ettoday.net/news/20260713/3199913.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-13T06:41:00+08:00",
+     "description": "巴威颱風周日才離開，氣象專家吳德榮表示，菲律賓東方海面有熱帶雲簇醞釀中，發展成熱帶低壓還需2或3天；最新美國模式系集模擬顯示，其行徑先偏西北再轉東北，強度偏弱，也不影響台灣。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "未來一周天氣一圖看懂！氣象署：周三、四高溫飆36度台東有焚風| 生活",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhY1hCOTN2RGJKT3QycC1zZndVd0pzVWdia1BLbUI2Y0s3M2NuZHF3cjRDbmZXV0JCYUVPNml6LU9GaGFZMFJUMVZFb2s?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-07-12T21:54:54+08:00",
+     "description": "未來一周天氣一圖看懂！氣象署：周三、四高溫飆36度台東有焚風| 生活  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "未來一周天氣一圖看懂！氣象署：周三、四高溫飆36度　台東有焚風",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhY1hCOTN2RGJKT3QycC1zZndVd0pzVWdia1BLbUI2Y0s3M2NuZHF3cjRDbmZXV0JCYUVPNml6LU9GaGFZMFJUMVZFb2vSAVJBVV95cUxObU1Lc3JSQlB5NGQ1cDE5WEUtbXZ1U3d2Q2VmeTh5dTFpWTZGWTdReEkwRXZ0bG9lUHpLN0I4cHVWczE0VDlhekpzMGFIXzRjOWt3?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-07-12T21:54:54+08:00",
+     "description": "未來一周天氣一圖看懂！氣象署：周三、四高溫飆36度　台東有焚風  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "巴威剛走！台灣西南方恐生成2個新熱帶低氣壓　日本最新預測曝光",
+     "link": "https://news.tvbs.com.tw/world/3255516",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-12T16:42:12+08:00",
+     "description": "",
+     "category": "world",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "world",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    }
+   ]
+  },
+  {
    "id": "fca386100f00",
    "title": "SK海力士美股掛牌後獲利了結　首爾股價一度跌逾10%",
    "outlet_count": 8,
@@ -3123,7 +3317,7 @@
    ],
    "article_count": 39,
    "first_seen": "2026-07-11T17:11:05+08:00",
-   "last_updated": "2026-07-13T22:03:03+08:00",
+   "last_updated": "2026-07-13T21:51:08+08:00",
    "tags": [
     "正常"
    ],
@@ -3133,7 +3327,7 @@
      "link": "https://news.tvbs.com.tw/life/3256569",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-13T22:03:03+08:00",
+     "published": "2026-07-13T21:51:08+08:00",
      "description": "",
      "category": "life",
      "metadata": {
@@ -3347,7 +3541,7 @@
     },
     {
      "title": "國軍操演首日桃園青埔出車禍 中型戰術輪車車頭撞爛",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUzlfZlk4bGxXVzV1QXhOWk9XNHZlVmtLUzN2QXJEWmhEZlYyUnRLSHV5STc1di1VQ1lhR0xNS2Q1V3djX25WX2owMm92LWx0SjhHMHJYSEZ3MXhrZ19hcmNLOWpIOC1ROEJ2VklnVmo4cmRtbjdWN2R1RjQ5X1d3X0dwdU53VWJRT1lQb28yMA?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOT2VWZVlhMm5kOTZWTVpfNndtcmpFcDE3Y00xTHpLQjNWeGpiZkFibVA2NmRuY3EwZUFOdVdCZ1ZOWVgyemd1RVFla1RLTG5QbzZVQ1B5R1BBNDNIbVJsMnR1OXVYX0VxRk5JUzI2Q1FUWUNXWXlLQ09JTHE0Z1R2cmc4ODNUZDJZbWZjRzFLQQ?oc=5",
      "source": "chinatimes",
      "source_name": "中時新聞網",
      "published": "2026-07-13T18:45:30+08:00",
@@ -3364,7 +3558,7 @@
     },
     {
      "title": "國軍操演首日桃園青埔出車禍 中型戰術輪車車頭撞爛",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOT2VWZVlhMm5kOTZWTVpfNndtcmpFcDE3Y00xTHpLQjNWeGpiZkFibVA2NmRuY3EwZUFOdVdCZ1ZOWVgyemd1RVFla1RLTG5QbzZVQ1B5R1BBNDNIbVJsMnR1OXVYX0VxRk5JUzI2Q1FUWUNXWXlLQ09JTHE0Z1R2cmc4ODNUZDJZbWZjRzFLQQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUzlfZlk4bGxXVzV1QXhOWk9XNHZlVmtLUzN2QXJEWmhEZlYyUnRLSHV5STc1di1VQ1lhR0xNS2Q1V3djX25WX2owMm92LWx0SjhHMHJYSEZ3MXhrZ19hcmNLOWpIOC1ROEJ2VklnVmo4cmRtbjdWN2R1RjQ5X1d3X0dwdU53VWJRT1lQb28yMA?oc=5",
      "source": "chinatimes",
      "source_name": "中時新聞網",
      "published": "2026-07-13T18:45:30+08:00",
@@ -3518,7 +3712,7 @@
     "storm",
     "tvbs"
    ],
-   "article_count": 17,
+   "article_count": 16,
    "first_seen": "2026-07-11T06:22:01+08:00",
    "last_updated": "2026-07-13T19:26:24.462701+08:00",
    "tags": [
@@ -3589,7 +3783,7 @@
      "link": "https://news.tvbs.com.tw/world/3255913",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-13T12:03:03+08:00",
+     "published": "2026-07-13T11:51:08+08:00",
      "description": "",
      "category": "world",
      "metadata": {
@@ -3712,8 +3906,8 @@
    ]
   },
   {
-   "id": "82298084da9a",
-   "title": "「陽明山暫時擋住巴威」台北市風力最強時間還沒到 風雨最大是這時間",
+   "id": "4db569583c4c",
+   "title": "「陽明山暫時擋住巴威」台北市風力最強時間還沒到風雨最大是這時間| 巴威颱風襲台| 生活",
    "outlet_count": 8,
    "outlets": [
     "ebc",
@@ -3874,12 +4068,21 @@
      }
     },
     {
-     "title": "「陽明山暫時擋住巴威」台北市風力最強時間還沒到風雨最大是這時間| 巴威颱風襲台| 生活",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10MmtJdk92MjhSWmJ5LXNWQVQyTHNjNXZGZFdQa3ljTjR4VnkwYUVyd1FGVEg5Zy1MV005TktpNXJiT05Kd01IVWNVOGUzbnRzdmFR?oc=5",
+     "title": "「陽明山暫時擋住巴威」台北市風力最強時間還沒到 風雨最大是這時間",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10MmtJdk92MjhSWmJ5LXNWQVQyTHNjNXZGZFdQa3ljTjR4VnkwYUVyd1FGVEg5Zy1MV005TktpNXJiT05Kd01IVWNVOGUzbnRzdmFR0gFYQVVfeXFMUHdxTUtocjhwOUJ6dVAtTklzRDRSRUJkOFBuUU16SFRjcUlEVWZyZDdLZldPZFBMd0d4RE5UVFU2aXFYRGNoZWNFWnpoU2JkelJ1YmJ6ZWxrYg?oc=5",
      "source": "udn",
      "source_name": "聯合新聞網",
      "published": "2026-07-11T08:54:24+08:00",
-     "description": "「陽明山暫時擋住巴威」台北市風力最強時間還沒到風雨最大是這時間| 巴威颱風襲台| 生活  UDN"
+     "description": "「陽明山暫時擋住巴威」台北市風力最強時間還沒到 風雨最大是這時間  聯合新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
     }
    ]
   },
@@ -4080,207 +4283,6 @@
    ]
   },
   {
-   "id": "93f8e674cebf",
-   "title": "巴威暴風圈今晨觸陸「進入搖滾時刻」！ 專家揭20小時最大風雨浪",
-   "outlet_count": 8,
-   "outlets": [
-    "ebc",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "newtalk",
-    "nownews",
-    "storm",
-    "tvbs"
-   ],
-   "article_count": 22,
-   "first_seen": "2026-07-11T06:02:36+08:00",
-   "last_updated": "2026-07-13T17:36:00+08:00",
-   "tags": [
-    "巴威",
-    "熱帶",
-    "專家"
-   ],
-   "articles": [
-    {
-     "title": "午後雷雨持續到下周「2地防豪雨」　又有熱帶擾動發展",
-     "link": "https://www.ettoday.net/news/20260713/3200408.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-13T17:36:00+08:00",
-     "description": "午後雷雨將持續一周，明天南方水氣北移，南部、台東不定時有雨，中部以北及宜花午後有雷陣雨，且中部和北部山區要留意短延時豪雨。海神颱風路徑對台灣無直接影響，估4至5天後減弱，南海熱帶擾動未來將朝華南沿岸移動，不會直接影響台灣。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "颱風海神接棒生成恐短命！南海有熱帶擾動發展　氣象署說明了",
-     "link": "https://www.mirrormedia.mg/story/20260713edi040",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-07-13T12:55:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "天氣／未來一周雨彈天天炸！熱帶擾動發展中　路徑「侵台機率低」",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhRnNrU0l3ZXJHYXdrcHl1amJSc0RLd3ZmVUdfNk1WSm41Skw4NzVjYXE3Q2JZQUs3dzcwT0h4TWxXY3g1WDNNYlF0R3o1ZWF1VFHSAVJBVV95cUxQYUZza1NJd2VyR2F3a3B5dWpiUnNES3d2ZlVHXzZNVkpuNUpMODc1Y2FxN0NiWUFLN3c3ME9IeE1sV2N4NVgzTWJRdEd6NWVhdVRR?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-07-13T09:43:51+08:00",
-     "description": "天氣／未來一周雨彈天天炸！熱帶擾動發展中　路徑「侵台機率低」  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "巴威走後還有新颱風？專家提醒注意午後大雷雨熱帶擾動發展活躍| 生活",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4clhEbmgtb0J2cUFxVmRiSzRjdnBXTFB1TnJjcVMxNjFXNlo4d0RqSkZmUldIOXJES0xrNGg1UVZDM0pOTlBEWm1VaTY3OHc0dTBKMHhYX3cwU2s?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-13T09:29:20+08:00",
-     "description": "巴威走後還有新颱風？專家提醒注意午後大雷雨熱帶擾動發展活躍| 生活  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "巴威剛走「又有熱帶低壓要生成」！最新預估出爐　本周全台都有雨",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE02VUpEWUpDNzJBU3J4V0d5a0NYNDNkTGZfQTc5YVNmbVJpTmppazlfYjhVaGdjQk01djE3T1lzWUY2QTYzZjc2b0ZVRWrSAVJBVV95cUxQcFcweEZhYkZWWFF2VlhjSjVRZGhaNWR4STVZTkMxM3JsYnlTcHhJamdXMHhvaXJSMkx3ZFluakczMGhPQWJzR1lmSTczTDVQZTFB?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-07-13T07:03:10+08:00",
-     "description": "巴威剛走「又有熱帶低壓要生成」！最新預估出爐　本周全台都有雨  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "巴威才走！　可能又有熱帶低壓路徑曝",
-     "link": "https://www.ettoday.net/news/20260713/3199913.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-13T06:41:00+08:00",
-     "description": "巴威颱風周日才離開，氣象專家吳德榮表示，菲律賓東方海面有熱帶雲簇醞釀中，發展成熱帶低壓還需2或3天；最新美國模式系集模擬顯示，其行徑先偏西北再轉東北，強度偏弱，也不影響台灣。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "巴威剛走！台灣西南方恐生成2個新熱帶低氣壓　日本最新預測曝光",
-     "link": "https://news.tvbs.com.tw/world/3255516",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-12T16:42:12+08:00",
-     "description": "",
-     "category": "world",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "world",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "天氣／巴威「最新路徑」出爐　賈新興：AI勝出",
-     "link": "https://news.tvbs.com.tw/life/3254606",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-12T13:29:56.312880+08:00",
-     "description": "",
-     "category": "life",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "巴威剛走水氣更猛？明起「短延時大雨」未來一週天氣曝",
-     "link": "https://news.ebc.net.tw/news/living/560846",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-12T13:29:56.312880+08:00",
-     "description": "颱風巴威雖已逐漸遠離台灣，但其挾帶水氣對天氣造成影響。中央氣象署表示，未來一週將轉為中南部不定時陣雨、其餘午後劇烈雷雨的天氣型態，同時各地氣溫逐步回升。",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "巴威颱風才剛走！恐又有熱帶擾動發展　專家曝：各國模擬差異大",
-     "link": "https://www.mirrormedia.mg/story/20260712edi010",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-07-12T08:30:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    }
-   ]
-  },
-  {
    "id": "574374fc94d0",
    "title": "7/10放颱風整備假引發爭議 蔣萬安：市民安全第一",
    "outlet_count": 8,
@@ -4348,7 +4350,7 @@
      "link": "https://news.tvbs.com.tw/politics/3256214",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-13T16:03:03+08:00",
+     "published": "2026-07-13T15:51:08+08:00",
      "description": "",
      "category": "politics",
      "metadata": {
@@ -4516,15 +4518,32 @@
     "storm",
     "tvbs"
    ],
-   "article_count": 10,
+   "article_count": 11,
    "first_seen": "2026-07-12T10:32:54+08:00",
-   "last_updated": "2026-07-13T15:26:24+08:00",
+   "last_updated": "2026-07-13T17:14:00+08:00",
    "tags": [
     "唐從聖",
-    "放颱風假",
-    "無風無雨"
+    "颱風假",
+    "天災還"
    ],
    "articles": [
+    {
+     "title": "唐從聖道歉了！怨颱風假劇團吞百萬虧損挨轟自私　認「表達不夠完整」",
+     "link": "https://www.mirrormedia.mg/story/20260713edi066",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-07-13T17:14:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
     {
      "title": "颱風害劇團血賠百萬　唐從聖失言「算天災還是人禍」道歉了",
      "link": "https://news.tvbs.com.tw/entertainment/3256204",
@@ -4678,227 +4697,6 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "放颱風假無風雨！舞台劇被迫取消慘賠百萬　唐從聖：天災還是人禍",
-     "link": "https://news.tvbs.com.tw/entertainment/3255211",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-12T10:32:54+08:00",
-     "description": "",
-     "category": "entertainment",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "entertainment",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    }
-   ]
-  },
-  {
-   "id": "209cc5a1a558",
-   "title": "暴風圈觸陸！巴威颱風把「全台灣鎖進勢力範圍」　清晨被風雨吵醒",
-   "outlet_count": 8,
-   "outlets": [
-    "ebc",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "newtalk",
-    "nownews",
-    "tvbs",
-    "udn"
-   ],
-   "article_count": 22,
-   "first_seen": "2026-07-11T05:54:51+08:00",
-   "last_updated": "2026-07-13T11:18:00+08:00",
-   "tags": [
-    "巴威颱風",
-    "天氣"
-   ],
-   "articles": [
-    {
-     "title": "午後雷雨彈升級「高溫飆36度」　南海低壓擾動醞釀",
-     "link": "https://www.ettoday.net/news/20260713/3200064.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-13T11:18:00+08:00",
-     "description": "今明兩天水氣偏多，南部、台東不定時有降雨，午後中部以北及山區嚴防大雷雨或短延時豪雨，未降雨時悶熱，局部地區高溫上看36度。海神颱風今生成，未來路徑對台灣沒有影響，南海另一個低壓擾動發展，未來將朝中國沿海前進，但不排除帶來水氣，影響午後雷陣雨加劇。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "未來一周天氣一圖看懂！氣象署：周三、四高溫飆36度台東有焚風| 生活",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhY1hCOTN2RGJKT3QycC1zZndVd0pzVWdia1BLbUI2Y0s3M2NuZHF3cjRDbmZXV0JCYUVPNml6LU9GaGFZMFJUMVZFb2s?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-07-12T21:54:54+08:00",
-     "description": "未來一周天氣一圖看懂！氣象署：周三、四高溫飆36度台東有焚風| 生活  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "未來一周天氣一圖看懂！氣象署：周三、四高溫飆36度　台東有焚風",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhY1hCOTN2RGJKT3QycC1zZndVd0pzVWdia1BLbUI2Y0s3M2NuZHF3cjRDbmZXV0JCYUVPNml6LU9GaGFZMFJUMVZFb2vSAVJBVV95cUxObU1Lc3JSQlB5NGQ1cDE5WEUtbXZ1U3d2Q2VmeTh5dTFpWTZGWTdReEkwRXZ0bG9lUHpLN0I4cHVWczE0VDlhekpzMGFIXzRjOWt3?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-07-12T21:54:54+08:00",
-     "description": "未來一周天氣一圖看懂！氣象署：周三、四高溫飆36度　台東有焚風  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "巴威颱風維持強颱長達6天 上午8:30解除警報南部3縣市大雨特報",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12NnJMMGZlbTNYeHd6STBWMVJMS3FiZVVWMFJCdnYxTG1Kd09BX01sM0MxM0hsLW5NWURhMzFwQ1ZwZm1tenJoeFRSREJMTXBRVksw0gFYQVVfeXFMUExLbmlpa29idnB2ZWFabTd5V2lURGEyV2JqVGxYM2N1cllQQVpPc0k3NFllV1ZSZ0JSSVcxeDlUcWZWaEJDZWJTb0dFaGhVaGhFYlJjRlJjbQ?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-07-12T09:22:30+08:00",
-     "description": "巴威颱風維持強颱長達6天 上午8:30解除警報南部3縣市大雨特報  聯合新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "巴威8:30解除海警！大雨還沒停 3縣市雨彈狂轟",
-     "link": "https://news.ebc.net.tw/news/living/560822",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-12T08:58:59.187955+08:00",
-     "description": "中度颱風「巴威」逐漸遠離台灣，中央氣象署今（12）日表示，已於清晨5時30分解除陸上颱風警報，不過，颱風外圍環流及西南風仍持續影響，各地降雨尚未結束。",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "預計8:30解除巴威海警 中南部防局部大雨、花東縱谷飆36度",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CZTJHSUY5TGZrWXVqQkk4STJRV1FoeEJuSHhycmk0X3FGY2YxSV9jenV1MUtucWFyU3lVWU5ON1pRRjJIOVp3bXFXdmFsQ1FtamNndzloNFk1VXM?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-12T06:59:57+08:00",
-     "description": "預計8:30解除巴威海警 中南部防局部大雨、花東縱谷飆36度  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "週日巴威遠離！中南部易有雷雨 花東飆36度",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5502187",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-11T22:53:46+08:00",
-     "description": "週日（12日）巴威颱風遠離，整體風雨趨緩，不過迎風面中南部地區易有短暫陣雨或雷雨，其他地區為多雲，午後有局部短暫雷陣雨發生；溫度方面，中部以北及東半部高溫約33至35度，南部高溫...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "明天天氣／巴威颱風漸遠離！2地恐有焚風飆36度　中南部防大雨",
-     "link": "https://news.tvbs.com.tw/life/3255019",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-11T19:36:23+08:00",
-     "description": "",
-     "category": "life",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "天氣／巴威颱風「披頭散髮」！路徑北偏了　粉專示警：仍是巨無霸",
-     "link": "https://news.tvbs.com.tw/life/3255006",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-11T18:58:59+08:00",
-     "description": "",
-     "category": "life",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "天氣／巴威颱風猛加速！雨勢還沒完　「現在最接近台灣」回南風來了",
-     "link": "https://news.tvbs.com.tw/life/3254856",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-11T16:25:30+08:00",
-     "description": "",
-     "category": "life",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
      }
     }
    ]
@@ -5261,12 +5059,12 @@
      }
     },
     {
-     "title": "台積電嘉義廠警衛落水 出動橡皮艇擴大搜救",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UeFJkR25DMTRGSjRlZ3BvRHkxWENZcndPZlRSSldVLVJUZFB6a1VYNFB3S0VyTkdtZkh2ZjUzUHpJU0tPMWlhWDRyeDNRZWEw0gFWQVVfeXFMT0Y2T2Y0SUNMWFQtWWUwbW9mOTgyVGtiMWFnLUNFa1luaHhqUUM3TlJTbl9DNWlaYXJEM0habktzVVNKUmxJeV96YmJpbzlVbW8xbHAyLVE?oc=5",
+     "title": "台積電嘉義廠警衛落水出動橡皮艇擴大搜救| 社會萬象| 社會",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UeFJkR25DMTRGSjRlZ3BvRHkxWENZcndPZlRSSldVLVJUZFB6a1VYNFB3S0VyTkdtZkh2ZjUzUHpJU0tPMWlhWDRyeDNRZWEw?oc=5",
      "source": "udn",
      "source_name": "聯合新聞網",
      "published": "2026-07-11T12:51:28+08:00",
-     "description": "台積電嘉義廠警衛落水 出動橡皮艇擴大搜救  聯合新聞網",
+     "description": "台積電嘉義廠警衛落水出動橡皮艇擴大搜救| 社會萬象| 社會  聯合新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -5278,12 +5076,12 @@
      }
     },
     {
-     "title": "台積電嘉義廠警衛落水出動橡皮艇擴大搜救| 社會萬象| 社會",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UeFJkR25DMTRGSjRlZ3BvRHkxWENZcndPZlRSSldVLVJUZFB6a1VYNFB3S0VyTkdtZkh2ZjUzUHpJU0tPMWlhWDRyeDNRZWEw?oc=5",
+     "title": "台積電嘉義廠警衛落水 出動橡皮艇擴大搜救",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UeFJkR25DMTRGSjRlZ3BvRHkxWENZcndPZlRSSldVLVJUZFB6a1VYNFB3S0VyTkdtZkh2ZjUzUHpJU0tPMWlhWDRyeDNRZWEw0gFWQVVfeXFMT0Y2T2Y0SUNMWFQtWWUwbW9mOTgyVGtiMWFnLUNFa1luaHhqUUM3TlJTbl9DNWlaYXJEM0habktzVVNKUmxJeV96YmJpbzlVbW8xbHAyLVE?oc=5",
      "source": "udn",
      "source_name": "聯合新聞網",
      "published": "2026-07-11T12:51:28+08:00",
-     "description": "台積電嘉義廠警衛落水出動橡皮艇擴大搜救| 社會萬象| 社會  聯合新聞網",
+     "description": "台積電嘉義廠警衛落水 出動橡皮艇擴大搜救  聯合新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -7085,7 +6883,7 @@
    ]
   },
   {
-   "id": "fcaa67c81343",
+   "id": "45fdf7119110",
    "title": "桃園大園鐵皮工廠晚間火警　1員工燙傷送醫",
    "outlet_count": 6,
    "outlets": [
@@ -7097,7 +6895,7 @@
     "tvbs"
    ],
    "article_count": 6,
-   "first_seen": "2026-07-13T20:58:00+08:00",
+   "first_seen": "2026-07-13T20:51:08+08:00",
    "last_updated": "2026-07-13T23:17:52.462579+08:00",
    "tags": [
     "園鐵皮工廠",
@@ -7177,25 +6975,6 @@
      }
     },
     {
-     "title": "火海吞工廠！桃園大園鐵皮屋全面燃燒　1員工送醫",
-     "link": "https://news.tvbs.com.tw/local/3256564",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-13T21:03:03+08:00",
-     "description": "",
-     "category": "local",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "local",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
      "title": "桃園鐵皮工廠失火「全面燃燒」濃煙沖天　1工人燙傷送醫",
      "link": "https://www.ettoday.net/news/20260713/3200463.htm",
      "source": "ettoday",
@@ -7211,158 +6990,24 @@
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
      }
-    }
-   ]
-  },
-  {
-   "id": "b440feeb50fd",
-   "title": "中聯油脂總經理交保 檢方：已送抗告理由書",
-   "outlet_count": 6,
-   "outlets": [
-    "chinatimes",
-    "cna",
-    "ettoday",
-    "mirror",
-    "newtalk",
-    "udn"
-   ],
-   "article_count": 7,
-   "first_seen": "2026-07-11T01:41:00+08:00",
-   "last_updated": "2026-07-13T18:36:43+08:00",
-   "tags": [
-    "中聯總經理",
-    "交保",
-    "抗告"
-   ],
-   "claims": [
-    {
-     "type": "金額",
-     "agree": true,
-     "outlet_count": 5,
-     "values": [
-      {
-       "value": "2000萬元",
-       "outlets": [
-        "ETtoday",
-        "中央社",
-        "中時新聞網",
-        "聯合新聞網",
-        "鏡週刊"
-       ]
-      }
-     ]
-    }
-   ],
-   "articles": [
-    {
-     "title": "中聯油脂總經理交保 檢方：已送抗告理由書",
-     "link": "https://www.cna.com.tw/news/asoc/202607130275.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-13T18:36:43+08:00",
-     "description": "（中央社記者趙麗妍台中13日電）中聯油脂致癌物苯駢芘超標案，台中地檢署依照食品安全管理法等，聲押禁見中聯公司余姓總經理，台中地院裁定新台幣2000萬元交保，檢方當庭抗告，今天將抗告補充理由書送出。",
-     "author": "趙麗妍",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "趙麗妍",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/social"
-     }
     },
     {
-     "title": "致癌毒油遍全台！中聯總經理全認罪低頭快閃 2000萬交保理由曝",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10UkVMVkxYTDFSY1V5TGEtbDc2S3VxZnltRzJzcWlKMDZLdEI0Z083eE4wU3FfYm5lQ0xHM05NcXp3ZHpoX3Q2bkUxaDUxXzl4MzdNNnNaMWNrUmRFWGtZTUdsS1VKd0Q3ZXJsbG9n?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-07-11T12:38:30+08:00",
-     "description": "致癌毒油遍全台！中聯總經理全認罪低頭快閃 2000萬交保理由曝  中時新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "致癌油案中聯總經理余凌冲「全認了」2千萬交保！ 檢方當庭提抗告| 社會",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rcEV0bEFWd2xFZ29zVTkyU0dHX1MyT2FqNnBOY0JFa2RzdEd1S3FFVDZ4ODIxcmRja254RGE4N3VBeElydkxkbXVHcGQ3dUZGdnJHMnhld0VaTXM?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-11T12:26:42+08:00",
-     "description": "致癌油案中聯總經理余凌冲「全認了」2千萬交保！ 檢方當庭提抗告| 社會  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "致癌油釀全台食安風暴 中聯總經理余凌冲全認罪了！2000萬交保理由曝",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwVFdTMUZtTkhfSmdSN0VxcjBVQndDdDB5Y1ZSQnJXYWtpS2tVUFhOVVNyYjd2alVkNGVBdzFIcVROVWpRNDB6ZVoxak1GX25UY3Yw0gFYQVVfeXFMTXNuTUY5WllGay1kekpjWkJDbXlra0UzMWVGdVI1b08wS3I1enRVTmI5a0VQaWx0eUhseWlyYnRuWFVwTGZ0UjFjaDZsNDl0U183OFZXYUxsaw?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-07-11T09:46:36+08:00",
-     "description": "致癌油釀全台食安風暴 中聯總經理余凌冲全認罪了！2000萬交保理由曝  聯合新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "中聯總經理2000萬交保！親友急拿錢贖身 半夜聲東擊西快閃",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NREJRem5RcmtVX01KUVp2SEFWT1VCMkI5akFqMkxibjBKcnIyanBRTkUwbTFialJkT25CNS1rRHBhb3hnUXN0d3Z6Z0lMcXVxODNnZ0tKQm5kRDZtZnZ5OWZMSFltdDF6a0doMTB3?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-07-11T06:36:08+08:00",
-     "description": "中聯總經理2000萬交保！親友急拿錢贖身 半夜聲東擊西快閃  中時新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "中聯總經理2千萬交保　被問「知道超標嗎」回2字低調快閃",
-     "link": "https://www.ettoday.net/news/20260711/3199005.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-11T01:55:00+08:00",
-     "description": "中聯油脂一級致癌物「苯駢芘」超標4倍重大食安案件，中檢10日認為中聯總經理余凌冲有湮滅、偽造證據以及勾串證人之虞，向法院聲請羈押，不過法官10日深夜審理後裁定余凌冲2000萬元交保。余凌冲11日凌晨1點多完成交保手續走出台中地院，面對媒體詢問「什麼時候跟社會說明？知道超標嗎」，他均不發一語，直到上車前才低聲回了一句「謝謝」，接著就坐進轎車離開現場。 《詳全文...》"
-    },
-    {
-     "title": "中院諭令中聯總經理2000萬元交保  檢當庭提抗告",
-     "link": "https://www.mirrormedia.mg/story/20260710-167inv-193220",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-07-11T01:41:00+08:00",
+     "title": "火海吞工廠！桃園大園鐵皮屋全面燃燒　1員工送醫",
+     "link": "https://news.tvbs.com.tw/local/3256564",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-13T20:51:08+08:00",
      "description": "",
+     "category": "local",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+      "acquisition": "scraper",
+      "category": "local",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
      }
     }
    ]
@@ -7381,7 +7026,7 @@
    ],
    "article_count": 8,
    "first_seen": "2026-07-12T16:15:00+08:00",
-   "last_updated": "2026-07-13T18:03:03+08:00",
+   "last_updated": "2026-07-13T17:51:08+08:00",
    "tags": [
     "過馬路遭",
     "北市",
@@ -7393,7 +7038,7 @@
      "link": "https://news.tvbs.com.tw/local/3256355",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-13T18:03:03+08:00",
+     "published": "2026-07-13T17:51:08+08:00",
      "description": "",
      "category": "local",
      "metadata": {
@@ -7973,7 +7618,7 @@
      "link": "https://news.tvbs.com.tw/life/3255918",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-13T12:03:03+08:00",
+     "published": "2026-07-13T11:51:08+08:00",
      "description": "",
      "category": "life",
      "metadata": {
@@ -8533,7 +8178,7 @@
     },
     {
      "title": "18歲男、17歲少女赴台南失聯！黃金海岸尋獲已成2具浮屍- 社會",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObzA4MXhqVnRTVnRrY2hPaGtSeldLTUpGSExVTUpqdXdUMU10NmUxb2g2d1p4NEttRHYzU0F0SUtTZmd3WXA5bFkyNHoyT2EwQXctdWpmMFlvOExtSHAyQ1hvOTZ1RFVKQ3p5ZnNYS1ZYUEJUR3o4Qi0tQWxibW92N1FMNWdydXZUOTFTa05zNA?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4WXNfTFZkeVNLQWQ4eG5yWjJ1U2Y5ODh1WkVFMzZrYkVZMU9WX1hGRTFSRFo0T3UyczJLTTB1V0JkZHBiVURySTM4dm1vcS1laGpfUTZMRlcyVnBBYVJvTnk5U1JEWFFQV3Vicm12SWtCamJ1LXc?oc=5",
      "source": "chinatimes",
      "source_name": "中時新聞網",
      "published": "2026-07-11T12:03:15+08:00",
@@ -8550,7 +8195,7 @@
     },
     {
      "title": "18歲男、17歲少女赴台南失聯！黃金海岸尋獲已成2具浮屍- 社會",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4WXNfTFZkeVNLQWQ4eG5yWjJ1U2Y5ODh1WkVFMzZrYkVZMU9WX1hGRTFSRFo0T3UyczJLTTB1V0JkZHBiVURySTM4dm1vcS1laGpfUTZMRlcyVnBBYVJvTnk5U1JEWFFQV3Vicm12SWtCamJ1LXc?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObzA4MXhqVnRTVnRrY2hPaGtSeldLTUpGSExVTUpqdXdUMU10NmUxb2g2d1p4NEttRHYzU0F0SUtTZmd3WXA5bFkyNHoyT2EwQXctdWpmMFlvOExtSHAyQ1hvOTZ1RFVKQ3p5ZnNYS1ZYUEJUR3o4Qi0tQWxibW92N1FMNWdydXZUOTFTa05zNA?oc=5",
      "source": "chinatimes",
      "source_name": "中時新聞網",
      "published": "2026-07-11T12:03:15+08:00",
@@ -8753,7 +8398,7 @@
    "tags": [
     "警戒區",
     "颱風天",
-    "觀浪"
+    "最高"
    ],
    "claims": [
     {
@@ -9080,7 +8725,7 @@
    "tags": [
     "唯一要上班",
     "放颱風假",
-    "臉書遭"
+    "這縣市"
    ],
    "articles": [
     {
@@ -9317,6 +8962,115 @@
    ]
   },
   {
+   "id": "c3a1e0fa7b40",
+   "title": "《侏羅紀公園》男星辭世 山姆尼爾享壽78歲",
+   "outlet_count": 5,
+   "outlets": [
+    "ltn",
+    "mirror",
+    "newtalk",
+    "pts",
+    "tvbs"
+   ],
+   "article_count": 5,
+   "first_seen": "2026-07-13T15:23:00+08:00",
+   "last_updated": "2026-07-14T01:01:34+08:00",
+   "tags": [
+    "侏羅紀公園",
+    "山姆尼爾",
+    "葛蘭博士"
+   ],
+   "articles": [
+    {
+     "title": "侏羅紀公園「葛蘭博士」山姆尼爾驟逝享壽78歲 4月才宣布抗癌成功| 娛樂",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vUDlZUEpUQVh1aXVlbUJUMFZVTS11MG9UWkRWREdqd2Ftcm5yVFBmX1JXUkQxbzZCU1Faa3k4UUJQdm1QWFM5ZzQzVVFacDRZTHR5bnhMV2NDRHM?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-14T01:01:34+08:00",
+     "description": "侏羅紀公園「葛蘭博士」山姆尼爾驟逝享壽78歲 4月才宣布抗癌成功| 娛樂  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "《侏羅紀》山姆尼爾辭世  生前受訪曝光最難忘的「台灣奇遇」！",
+     "link": "https://ent.ltn.com.tw/news/breakingnews/5504132",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-14T00:03:39+08:00",
+     "description": "在《侏羅紀公園》（Jurassic Park）中飾演古生物學家「艾倫葛蘭博士」而為人所熟知的好萊塢巨星山姆尼爾（Sam Neill），家屬13日證實他已安詳離世，享壽78歲...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "《侏羅紀公園》男星辭世 山姆尼爾享壽78歲",
+     "link": "https://news.pts.org.tw/article/817462",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-07-13T21:20:43+08:00",
+     "description": "又有一位大家熟悉的電影明星告別人間，他是在《侏儸紀公園》當中，飾演「艾倫葛蘭博士」的山姆尼爾，今（13）日傳出在澳洲過世，享壽78歲。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "《侏羅紀公園》男星戰勝血癌卻傳噩耗　山姆尼爾猝逝雪梨享壽78歲",
+     "link": "https://news.tvbs.com.tw/world/3256154",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-13T15:51:08+08:00",
+     "description": "",
+     "category": "world",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "world",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "《侏羅紀公園》葛蘭博士走了！山姆尼爾驚傳離世享壽78歲　家屬難過：措手不及",
+     "link": "https://www.mirrormedia.mg/story/20260713edi079",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-07-13T15:23:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    }
+   ]
+  },
+  {
    "id": "1ed85eeab6e0",
    "title": "新聞分類總覽 - 2026-07-11",
    "outlet_count": 5,
@@ -9327,13 +9081,30 @@
     "nownews",
     "udn"
    ],
-   "article_count": 13,
+   "article_count": 14,
    "first_seen": "2026-07-11T15:00:00+08:00",
-   "last_updated": "2026-07-14T00:03:48+08:00",
+   "last_updated": "2026-07-14T00:07:40+08:00",
    "tags": [
     "新聞分類總覽"
    ],
    "articles": [
+    {
+     "title": "2026.07.13後山埤印象- 若淵的案頭山水",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA1a2psZGd5VUdKcUNNS0pfckd6ZGszTjJRY2cza0RoRnZqellXaVZHT2NLZ3JyaDdnUHNaUEd3WVZQU21WVDhIbi14WDFsdw?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-07-14T00:07:40+08:00",
+     "description": "2026.07.13後山埤印象- 若淵的案頭山水  udn部落格",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
     {
      "title": "新聞分類總覽 - 2026-07-14",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xTjJ3Y0IyLTlUekczRHFScGtyR0JsZVhRNG5Sa3labnlES2RuUGs0M1Z4ekx2cGQxQkJTQ1FFYXV3YzhTNEswVllwNjVqa3JuYnkzbUhGOA?oc=5",
@@ -9488,23 +9259,6 @@
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
-    },
-    {
-     "title": "新聞分類總覽 - 2026-07-12",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KamQ0U0FpTHZIMFkyd0o3MHRsUlRvZTh5MElIdmVXMXRJUmtvb1ExOVZCS2tKNlV2dEVOSW1pYjVaNl9ad1dWazI3cEFha2pGNDAwV1FQWQ?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-12T00:02:25+08:00",
-     "description": "新聞分類總覽 - 2026-07-12  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
     }
    ]
   },
@@ -9525,7 +9279,7 @@
    "tags": [
     "台中已婚",
     "警局火速",
-    "女警"
+    "所長"
    ],
    "articles": [
     {
@@ -9585,12 +9339,12 @@
      }
     },
     {
-     "title": "台中已婚派出所長糾纏年輕女警遭檢舉 市警局火速調非主管職務",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mYUh4V3BURGNNcms1MkhvbW9PWnQ4RGlQbGNXaHhPeVZFdUFLZXZ2UnJyU3lBZ0Q4OWNISllsUklRY0ZEZC1vNHVEN2t1aEJr0gFWQVVfeXFMTXVCNU82ZWFvT3lscFJ6WXB3LVkzR2N0Y0UzbVEwdmRodUdnT3I2WnZfUjViTHV3aE1NYzBTRkNaTW9BZEhndFp5NjZhNlZ6N3JSNlVBLVE?oc=5",
+     "title": "台中已婚派出所長糾纏年輕女警遭檢舉市警局火速調非主管職務| 社會萬象| 社會",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mYUh4V3BURGNNcms1MkhvbW9PWnQ4RGlQbGNXaHhPeVZFdUFLZXZ2UnJyU3lBZ0Q4OWNISllsUklRY0ZEZC1vNHVEN2t1aEJr?oc=5",
      "source": "udn",
      "source_name": "聯合新聞網",
      "published": "2026-07-13T20:05:30+08:00",
-     "description": "台中已婚派出所長糾纏年輕女警遭檢舉 市警局火速調非主管職務  聯合新聞網",
+     "description": "台中已婚派出所長糾纏年輕女警遭檢舉市警局火速調非主管職務| 社會萬象| 社會  聯合新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -9602,12 +9356,12 @@
      }
     },
     {
-     "title": "台中已婚派出所長糾纏年輕女警遭檢舉市警局火速調非主管職務| 社會萬象| 社會",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mYUh4V3BURGNNcms1MkhvbW9PWnQ4RGlQbGNXaHhPeVZFdUFLZXZ2UnJyU3lBZ0Q4OWNISllsUklRY0ZEZC1vNHVEN2t1aEJr?oc=5",
+     "title": "台中已婚派出所長糾纏年輕女警遭檢舉 市警局火速調非主管職務",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mYUh4V3BURGNNcms1MkhvbW9PWnQ4RGlQbGNXaHhPeVZFdUFLZXZ2UnJyU3lBZ0Q4OWNISllsUklRY0ZEZC1vNHVEN2t1aEJr0gFWQVVfeXFMTXVCNU82ZWFvT3lscFJ6WXB3LVkzR2N0Y0UzbVEwdmRodUdnT3I2WnZfUjViTHV3aE1NYzBTRkNaTW9BZEhndFp5NjZhNlZ6N3JSNlVBLVE?oc=5",
      "source": "udn",
      "source_name": "聯合新聞網",
      "published": "2026-07-13T20:05:30+08:00",
-     "description": "台中已婚派出所長糾纏年輕女警遭檢舉市警局火速調非主管職務| 社會萬象| 社會  聯合新聞網",
+     "description": "台中已婚派出所長糾纏年輕女警遭檢舉 市警局火速調非主管職務  聯合新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -9895,6 +9649,200 @@
    ]
   },
   {
+   "id": "5b11281b2fa0",
+   "title": "蘋果芬普寧殘留標準增訂3ppm 食藥署：符合國際做法、非放寬",
+   "outlet_count": 5,
+   "outlets": [
+    "chinatimes",
+    "newtalk",
+    "pts",
+    "tvbs",
+    "udn"
+   ],
+   "article_count": 10,
+   "first_seen": "2026-07-12T17:41:19+08:00",
+   "last_updated": "2026-07-13T20:36:42+08:00",
+   "tags": [
+    "農藥殘留標準",
+    "放寬",
+    "蘋果"
+   ],
+   "articles": [
+    {
+     "title": "蘋果芬普寧殘留標準增訂3ppm 食藥署：符合國際做法、非放寬",
+     "link": "https://news.pts.org.tw/article/817443",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-07-13T20:36:42+08:00",
+     "description": "衛福部日前發布「農藥殘留容許量標準」修正草案，增訂蘋果的芬普寧農藥殘留標準為3ppm。社群網路上一度誤傳為環境用藥芬普尼，引發民眾擔心。食藥署解釋，「芬普尼」是環境用藥，不得使用在作物，而這次農藥「芬普寧」在蘋果的標準，是2022年由業者提出申請增訂後，以科學證據持續評估到2025年，符合國際做法，並非放寬標準。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "不只毒蘋果 他揭174項美農產品農藥殘留標準放寬",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM2ZNTFZDRjN5dkd1YmxBTXVQQnBPLU1xQkVUc2VLbUJuelNCTVNrd2pEMGRnSFlhVDRkZWxUS0phc1BBUWhBcXRSNEc0ZWxVekotS3lFaENyUXJBWlhVQ1dob25hc3VBSHBSV0JldmlkdjJfSFV0TlNidXBRM0Q5ZzN3Rl9CcnZzLTVVbHI3SQ?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-07-13T20:03:33+08:00",
+     "description": "不只毒蘋果 他揭174項美農產品農藥殘留標準放寬  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "不只毒蘋果他揭174項美農產品農藥殘留標準放寬- 政治",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IV1QyMnFHb2F5c3RRYVlPMjdOM3I4UUN0OUQ5eUVlTmVLU0M0dWk3UnU2R04xVGdsdHVlclhkQXIwS3ZSTWFRcC0xWWF4MUhFX2IxTzdBeFJucVp4ekFEZmdLUEJ4eWtQanNOd2NB?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-07-13T20:03:33+08:00",
+     "description": "不只毒蘋果他揭174項美農產品農藥殘留標準放寬- 政治  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "衛福部放寬美蘋果農藥殘留標準名醫火大轟：賣掉大家健康- 政治",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vaFIyeU9pNmx6UHptTXZ1WFBGUWFJMXBUb3ozMmwzZjk4UU5rZlRTclUwUklaUnhCb2x0Q08yZVg1QTdlUlZGWWw5TlhCdjhOMTNVaUNqbmVpLWFVOC00WGdNUHQta2lUYXN0VDh3?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-07-13T16:53:20+08:00",
+     "description": "衛福部放寬美蘋果農藥殘留標準名醫火大轟：賣掉大家健康- 政治  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "放寬蘋果農藥殘留標準？侯漢廷揭美報告轟：自己跪還騙人民",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95cC1ZVjE4VkdySFprcDJYbW9FX1B4UUtVRjg4NFFUSEdkRnJWZTFGb0MyS2VuUWVfLWxGMjRjdnNVbl9vWEQwVHUtLVV1Z0w2MkVpSHJwMGZONW9jT3pZaVVSRE9aQ2RmNG96NnJn?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-07-13T15:02:51+08:00",
+     "description": "放寬蘋果農藥殘留標準？侯漢廷揭美報告轟：自己跪還騙人民  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "致癌油還沒完又有毒蘋果？網傳農藥殘留標準放寬6倍　食藥署回應了",
+     "link": "https://news.tvbs.com.tw/life/3256012",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-13T12:51:08+08:00",
+     "description": "",
+     "category": "life",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "life",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "毒油未了蘋果農藥殘留標準擬放寬 林靜儀：嚴格依照食安標準檢測",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hNGFQTlU4NDVYcF9LQUw1bWdvVW1yaVEwaU5qN2NmaDJMY0c1R1A3aE8xSktJeXpCbUdPdHU3R19IWmpBdEJ0c1BjY1JzLTZYazBj0gFYQVVfeXFMTXdMR28tcGc0dWxneU9nNjA0NWh2SWdnVXBNd0VDbGpyNTJMWnl6azdFN3ozZXRDWmpCcTFnM0tVanJSa3R2eVc4ZUxsd3d5S21yVDJHQllKRw?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-07-13T11:33:02+08:00",
+     "description": "毒油未了蘋果農藥殘留標準擬放寬 林靜儀：嚴格依照食安標準檢測  聯合新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "蘋果芬普寧標準放寬6倍惹議！林靜儀親上火線說明| 生活",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLeE9xZGhzM0YyVHcwblljOTlJWFJxYTROdlVpNElGWlA2WWpielU5eWhZUmdXaGFabjB6SWJwOWRKQ3JLWlVaSTJzZVB1UTF1aTNOSG5tYzRsem8?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-13T10:56:38+08:00",
+     "description": "蘋果芬普寧標準放寬6倍惹議！林靜儀親上火線說明| 生活  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "毒油還沒完換毒蘋果來？農藥殘留標準放寬6倍 衛福部回應了",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VblM5NzRBTndtSVRiUUdmQ1Z0NEIyUlBscDRMR194d3hHdHFydkJEUmR1Q2lRYmlwVGM4WkdYZFE0UmpkUHdXTlZhaWlkYlA1bUxzcDhEWV81MzAxNkJscGlyRVBIMk84ZkxrVW9R?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-07-13T09:57:05+08:00",
+     "description": "毒油還沒完換毒蘋果來？農藥殘留標準放寬6倍 衛福部回應了  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "美進口「毒蘋果」來了？芬普寧(fenpropathrin)殘留標準放寬6倍網炸鍋- 政治",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qRzMtbXNfaXlpY0IzWm0zMXNuZTBzbWx3SV9KakFyOFpLU0ZNbkpZczBxNWg2dVJDUTN5dzFoN1M3WVgtSjZwOExmRXdrcUFaempZTmsyanE4emxFeUNjYXJUTmU3SmhhbW1SVzhn?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-07-12T17:41:19+08:00",
+     "description": "美進口「毒蘋果」來了？芬普寧(fenpropathrin)殘留標準放寬6倍網炸鍋- 政治  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
    "id": "0699fa226221",
    "title": "颱風巴威過境　宜蘭童玩節預定7/13恢復開園",
    "outlet_count": 5,
@@ -10154,7 +10102,7 @@
      "link": "https://news.tvbs.com.tw/life/3255810",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-13T10:03:03+08:00",
+     "published": "2026-07-13T09:51:08+08:00",
      "description": "",
      "category": "life",
      "metadata": {
@@ -10239,7 +10187,7 @@
    "tags": [
     "大谷翔平",
     "明星賽",
-    "取消"
+    "登板"
    ],
    "articles": [
     {
@@ -10605,9 +10553,9 @@
    "first_seen": "2026-07-11T14:02:06+08:00",
    "last_updated": "2026-07-12T23:32:26+08:00",
    "tags": [
-    "稱停火已結束",
-    "川普稱",
-    "伊朗"
+    "川普稱停火已",
+    "伊朗",
+    "守承諾"
    ],
    "articles": [
     {

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-14T01:03:03.954908+08:00",
+ "generated_at": "2026-07-14T02:51:08.927113+08:00",
  "sources": [
   {
    "id": "cna",
@@ -13,7 +13,7 @@
    "id": "pts",
    "name": "公視新聞",
    "ok": true,
-   "count": 19,
+   "count": 25,
    "via_fallback": false,
    "errors": []
   },
@@ -21,7 +21,7 @@
    "id": "udn",
    "name": "聯合新聞網",
    "ok": true,
-   "count": 95,
+   "count": 91,
    "via_fallback": true,
    "errors": []
   },
@@ -37,7 +37,7 @@
    "id": "chinatimes",
    "name": "中時新聞網",
    "ok": true,
-   "count": 100,
+   "count": 94,
    "via_fallback": true,
    "errors": []
   },
@@ -53,7 +53,7 @@
    "id": "tvbs",
    "name": "TVBS",
    "ok": true,
-   "count": 298,
+   "count": 299,
    "via_fallback": false,
    "errors": []
   },
@@ -84,8 +84,8 @@
   {
    "id": "twreporter",
    "name": "報導者",
-   "ok": false,
-   "count": 0,
+   "ok": true,
+   "count": 1,
    "via_fallback": false,
    "errors": []
   },
