@@ -1,9 +1,9 @@
 {
  "date": "2026-07-17",
- "generated_at": "2026-07-17T00:47:08.593983+08:00",
+ "generated_at": "2026-07-17T02:43:27.726815+08:00",
  "events": [
   {
-   "id": "d982f8eccd62",
+   "id": "40c11df5c898",
    "title": "世界盃與英格蘭交鋒　阿根廷外長再提福克蘭群島爭議",
    "outlet_count": 12,
    "outlets": [
@@ -20,7 +20,7 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 58,
+   "article_count": 59,
    "first_seen": "2026-07-14T09:18:40+08:00",
    "last_updated": "2026-07-17T00:15:06+08:00",
    "tags": [
@@ -43,6 +43,24 @@
       },
       "acquisition": "rss",
       "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "英國：就算贏不了世界盃　福克蘭群島絕對屬於我們",
+     "link": "https://www.cna.com.tw/news/aopl/202607170002.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-17T00:11:30+08:00",
+     "description": "（中央社記者陳韻聿倫敦16日專電）阿根廷15日在世界盃足球賽4強戰擊敗英格蘭，球員賽後高舉白底黑字布條，上面寫「馬維納斯群島（福克蘭群島）是阿根廷的」。英國首相府發言人今天表示，英國或許贏不了世界盃，但「福克蘭群島絕對是我們的」。",
+     "author": "陳韻聿",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "陳韻聿",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
      }
     },
     {
@@ -184,30 +202,11 @@
       "acquisition": "rss",
       "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
      }
-    },
-    {
-     "title": "世足／世紀同框神預言！梅西20年前曾幫嬰兒亞馬爾洗澡",
-     "link": "https://news.ebc.net.tw/news/sport/561433",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-16T11:28:02.474864+08:00",
-     "description": "衛冕冠軍阿根廷在以2比1擊敗英格蘭後，正式鎖定了與歐洲冠軍西班牙在國際足總世界盃決賽的對決席位，這也促成了梅西（Lionel Messi）與亞馬爾（Lamine",
-     "category": "sport",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "sport",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
     }
    ]
   },
   {
-   "id": "cab91af39a15",
+   "id": "5bf6fbf2fdc0",
    "title": "竹市音樂教室老闆遭砍命危　警開槍制伏持刀者",
    "outlet_count": 11,
    "outlets": [
@@ -1082,7 +1081,7 @@
      "link": "https://news.tvbs.com.tw/local/3259753",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-16T21:47:08+08:00",
+     "published": "2026-07-16T21:43:27+08:00",
      "description": "",
      "category": "local",
      "metadata": {
@@ -1222,7 +1221,7 @@
      "link": "https://news.tvbs.com.tw/life/3259444",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-16T17:47:08+08:00",
+     "published": "2026-07-16T17:43:27+08:00",
      "description": "",
      "category": "life",
      "metadata": {
@@ -1254,7 +1253,7 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 133,
+   "article_count": 141,
    "first_seen": "2026-07-14T11:28:42+08:00",
    "last_updated": "2026-07-16T20:00:08+08:00",
    "tags": [
@@ -1665,6 +1664,223 @@
    ]
   },
   {
+   "id": "cd5e1eb9d164",
+   "title": "台積電法說會／估營收第3季續衝高達446-458億美元 中間值季增12%",
+   "outlet_count": 9,
+   "outlets": [
+    "chinatimes",
+    "ebc",
+    "ettoday",
+    "mirror",
+    "newtalk",
+    "nownews",
+    "setn",
+    "tvbs",
+    "udn"
+   ],
+   "article_count": 32,
+   "first_seen": "2026-07-16T14:21:46+08:00",
+   "last_updated": "2026-07-17T01:11:01+08:00",
+   "tags": [
+    "台積電法說"
+   ],
+   "claims": [
+    {
+     "type": "金額（美元）",
+     "agree": true,
+     "outlet_count": 3,
+     "values": [
+      {
+       "value": "640億美元",
+       "outlets": [
+        "今日新聞",
+        "新頭殼",
+        "東森新聞"
+       ]
+      }
+     ]
+    }
+   ],
+   "articles": [
+    {
+     "title": "台積電再次上調全年資本支出 強調配息會穩定增長",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VeGJ6T191UUIteEFOZmxHUmlsNDZJY3NjNzlJUERXazBVa3FfV0xXWGxwRFhVMVlvOU1JNDR1bHJkM3B5UzE2cDBMSjJvc2V5ZkZid1hVLXVaQdIBX0FVX3lxTFA2OFVvclIzUzNFZVVxVzRfMEZKOHV0T3MzVDd0NThDNnh2U3JwVnJTMjlWREIza2xCVFl6RGdvZUt0ZDRGbGNZczY3UE0wS2NGZEhjSWxkSndtbDdLVkcw?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-07-17T01:11:01+08:00",
+     "description": "台積電再次上調全年資本支出 強調配息會穩定增長  經濟日報",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "台積電ADR下跌近3％！晶片股全面走低　美股費半重挫逾400點",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFa2F3WlBCRFhLUHo4cHZGbmEtOFdmaG9pOUhCOHhlaGNTSnpsUG5reHdxZVlZWnZwOXpfZllkUGRUdGtKTmZaRnFqLU9vSmNaNmfSAVJBVV95cUxQRWthd1pQQkRYS1B6OHB2Rm5hLThXZmhvaTlIQjh4ZWhjU0p6bFBua3h3cWVZWVp2cDl6X2ZZZFBkVHRrSk5mWkZxai1Pb0pjWjZn?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-07-16T21:55:59+08:00",
+     "description": "台積電ADR下跌近3％！晶片股全面走低　美股費半重挫逾400點  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "台積震撼宣布！加碼投美1千億 擴充2奈米產能",
+     "link": "https://news.ebc.net.tw/news/business/561532",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-16T20:52:08.928564+08:00",
+     "description": "台積電法說會登場，董事長魏哲家宣布上修2026年全年資本支出至600億至640億美元，高於市場預期，同時公布第二季合併營收達1.27兆元，毛利率達67.7%。",
+     "category": "business",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "business",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "台指期夜盤「重挫逾千點」！跌破4萬5大關　法人急示警",
+     "link": "https://news.tvbs.com.tw/money/3259604",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-16T18:47:08+08:00",
+     "description": "",
+     "category": "money",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "money",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "台積法說剛開完...台指期夜盤驚爆「千點夜襲」、摜破 45K 大關",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xQjRGM0VWVWNoNTU0OEYxalV0aFl5dEpOSEs4TFYtb0ZQSjZaVWlPVnNWN0NVamgwaHl3NHpKeTZIUGZiNjNqVmtzcDhGb2ZFWGFuZmpRZ2d2dzjSAWBBVV95cUxNOHdqaU1jbnNfWkh6QXF5UVNrUm55NWREOTUxZ0hTbENtMGRtWTBCcGlYaTY0TEEzR1V0cHB0MS1qYlkxZzRXdERid1I4bzZ5XzYtbmJvV0lQRDI1ZW05RVU?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-07-16T18:37:30+08:00",
+     "description": "台積法說剛開完...台指期夜盤驚爆「千點夜襲」、摜破 45K 大關  經濟日報",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "台積電法說股價崩到「變法會」　分析師揪出3年規律喊「震盪是買點」",
+     "link": "https://finance.ettoday.net/news/3202524",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-16T18:34:00+08:00",
+     "description": "科技股進入漲多震盪期，鄰近南韓記憶體大廠更因為去槓桿關係，呈現巨幅波動，今（16）日台積電（2330）法人說明會成為眾所矚目的焦點，儘管台積電第二季毛利率攀升至67.7%，每股稅後盈餘（EPS）達27.25元，年增77.4%，又上修資本支出，有一派網友還是擔心明天會不會法說會變法會？ 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "台積電法說7大亮點　魏哲家談AI、不漲價一次看",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA0WVJLRHR0blFBdkRnOHREMmhYU0p4RGhBQmhqQ1lRcjNKdEx6LWFianNzYVRWcE00Um9mY2piTVFwWHdQMVZwbE5HXzbSAVJBVV95cUxOdWpIdWRLUHFpal9qQWtpR1diRHVMdi15YjB5T3hNdlR4Yk8tcGxTNUcxeHlqcXNyMndsS3RxVWZZZ1VVeVhLY2F1bjVtWDY3ZlBn?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-07-16T18:06:04+08:00",
+     "description": "台積電法說7大亮點　魏哲家談AI、不漲價一次看  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "台積電法說恐變法會？台股明崩還跌？夜盤下殺...南亞科、南電操作曝",
+     "link": "https://news.tvbs.com.tw/money/3259520",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-16T18:00:12+08:00",
+     "description": "",
+     "category": "money",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "money",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "台積電法說會／談定價策略　魏哲家：台積電不會暴力漲價",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92LUNYVG5xZEh0eEJTRVZWRmpENDRlVEFMOTVvZUMxZlF2RUwyWG5vbm9RMmZfUTdQd0FmbWRBMkNsaTNNQV84SGREaFdRX3ZHVUHSAVJBVV95cUxPdi1DWFRucWRIdHhCU0VWVkZqRDQ0ZVRBTDk1b2VDMWZRdkVMMlhub25vUTJmX1E3UHdBZm1kQTJDbGkzTUFfOEhkRGhXUV92R1VB?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-07-16T17:30:34+08:00",
+     "description": "台積電法說會／談定價策略　魏哲家：台積電不會暴力漲價  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "美國人不會做股票？台積電ADR美股盤前下跌4%　帶崩台指期殺900點",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wT0tMaU1KX0JYZHA1TEczZ2ZRUnl6VkhfeGVhbk9sbXdsX3RxS0UyN19ManlnRzBZQURuNU9MMTRpTUotOUxIUUJfamh6MkxkNFHSAVJBVV95cUxPcE9LTGlNSl9CWGRwNUxHM2dmUVJ5elZIX3hlYW5PbG13bF90cUtFMjdfTGp5Z0cwWUFEbjVPTDE0aU1KLTlMSFFCX2poejJMZDRR?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-07-16T17:12:44+08:00",
+     "description": "美國人不會做股票？台積電ADR美股盤前下跌4%　帶崩台指期殺900點  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
    "id": "cbb073d2210c",
    "title": "第一作戰區聯合防禦操演 展現防空部隊即時應處效能",
    "outlet_count": 9,
@@ -1725,7 +1941,7 @@
      "link": "https://news.tvbs.com.tw/politics/3259603",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-16T19:47:08+08:00",
+     "published": "2026-07-16T19:43:27+08:00",
      "description": "",
      "category": "politics",
      "metadata": {
@@ -1880,7 +2096,7 @@
    ],
    "article_count": 25,
    "first_seen": "2026-07-14T14:15:02+08:00",
-   "last_updated": "2026-07-16T22:47:08+08:00",
+   "last_updated": "2026-07-16T22:43:27+08:00",
    "tags": [
     "致癌油風暴"
    ],
@@ -1890,7 +2106,7 @@
      "link": "https://news.tvbs.com.tw/life/3259627",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-16T22:47:08+08:00",
+     "published": "2026-07-16T22:43:27+08:00",
      "description": "",
      "category": "life",
      "metadata": {
@@ -2062,38 +2278,42 @@
    ]
   },
   {
-   "id": "cd5e1eb9d164",
-   "title": "台積電法說會／估營收第3季續衝高達446-458億美元 中間值季增12%",
-   "outlet_count": 9,
+   "id": "1b1763939678",
+   "title": "被控掏空校產　金錢豹創辦人袁昶平2000萬交保",
+   "outlet_count": 8,
    "outlets": [
-    "chinatimes",
-    "ebc",
+    "cna",
     "ettoday",
+    "ltn",
     "mirror",
     "newtalk",
-    "nownews",
-    "setn",
-    "tvbs",
-    "udn"
+    "pts",
+    "storm",
+    "tvbs"
    ],
-   "article_count": 31,
-   "first_seen": "2026-07-16T14:21:46+08:00",
-   "last_updated": "2026-07-16T21:55:59+08:00",
+   "article_count": 11,
+   "first_seen": "2026-07-15T10:08:15+08:00",
+   "last_updated": "2026-07-16T23:58:35+08:00",
    "tags": [
-    "台積電法說"
+    "金錢豹創辦人",
+    "交保",
+    "中聯"
    ],
    "claims": [
     {
-     "type": "金額（美元）",
+     "type": "金額",
      "agree": true,
-     "outlet_count": 3,
+     "outlet_count": 6,
      "values": [
       {
-       "value": "640億美元",
+       "value": "2000萬元",
        "outlets": [
-        "今日新聞",
+        "ETtoday",
+        "TVBS",
+        "中央社",
         "新頭殼",
-        "東森新聞"
+        "自由時報",
+        "風傳媒"
        ]
       }
      ]
@@ -2101,84 +2321,29 @@
    ],
    "articles": [
     {
-     "title": "台積電ADR下跌近3％！晶片股全面走低　美股費半重挫逾400點",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFa2F3WlBCRFhLUHo4cHZGbmEtOFdmaG9pOUhCOHhlaGNTSnpsUG5reHdxZVlZWnZwOXpfZllkUGRUdGtKTmZaRnFqLU9vSmNaNmfSAVJBVV95cUxQRWthd1pQQkRYS1B6OHB2Rm5hLThXZmhvaTlIQjh4ZWhjU0p6bFBua3h3cWVZWVp2cDl6X2ZZZFBkVHRrSk5mWkZxai1Pb0pjWjZn?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-07-16T21:55:59+08:00",
-     "description": "台積電ADR下跌近3％！晶片股全面走低　美股費半重挫逾400點  NOWnews今日新聞",
+     "title": "金錢豹創辦人袁昶平羈押22天2千萬交保 裁定原因曝",
+     "link": "https://news.ltn.com.tw/news/society/breakingnews/5508087",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-16T23:58:35+08:00",
+     "description": "台中葳格國際學校執行董事吳菀庭及其丈夫、金錢豹創辦人袁昶平涉嫌掏空校產、公司資產，台中地檢署6月23日第二度搜索學校、公司、住處，約談兩人到案，認為涉犯公益侵占、業務侵占等罪嫌...…",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
      }
     },
     {
-     "title": "台積震撼宣布！加碼投美1千億 擴充2奈米產能",
-     "link": "https://news.ebc.net.tw/news/business/561532",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-16T20:52:08.928564+08:00",
-     "description": "台積電法說會登場，董事長魏哲家宣布上修2026年全年資本支出至600億至640億美元，高於市場預期，同時公布第二季合併營收達1.27兆元，毛利率達67.7%。",
-     "category": "business",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "business",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "台指期夜盤「重挫逾千點」！跌破4萬5大關　法人急示警",
-     "link": "https://news.tvbs.com.tw/money/3259604",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-16T18:47:08+08:00",
-     "description": "",
-     "category": "money",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "money",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "台積法說剛開完...台指期夜盤驚爆「千點夜襲」、摜破 45K 大關",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xQjRGM0VWVWNoNTU0OEYxalV0aFl5dEpOSEs4TFYtb0ZQSjZaVWlPVnNWN0NVamgwaHl3NHpKeTZIUGZiNjNqVmtzcDhGb2ZFWGFuZmpRZ2d2dzjSAWBBVV95cUxNOHdqaU1jbnNfWkh6QXF5UVNrUm55NWREOTUxZ0hTbENtMGRtWTBCcGlYaTY0TEEzR1V0cHB0MS1qYlkxZzRXdERid1I4bzZ5XzYtbmJvV0lQRDI1ZW05RVU?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-07-16T18:37:30+08:00",
-     "description": "台積法說剛開完...台指期夜盤驚爆「千點夜襲」、摜破 45K 大關  經濟日報",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "台積電法說股價崩到「變法會」　分析師揪出3年規律喊「震盪是買點」",
-     "link": "https://finance.ettoday.net/news/3202524",
+     "title": "金錢豹袁昶平認罪獲准2000萬交保　中院2大理由曝光",
+     "link": "https://www.ettoday.net/news/20260716/3202614.htm",
      "source": "ettoday",
      "source_name": "ETtoday",
-     "published": "2026-07-16T18:34:00+08:00",
-     "description": "科技股進入漲多震盪期，鄰近南韓記憶體大廠更因為去槓桿關係，呈現巨幅波動，今（16）日台積電（2330）法人說明會成為眾所矚目的焦點，儘管台積電第二季毛利率攀升至67.7%，每股稅後盈餘（EPS）達27.25元，年增77.4%，又上修資本支出，有一派網友還是擔心明天會不會法說會變法會？ 《詳全文...》",
+     "published": "2026-07-16T23:33:00+08:00",
+     "description": "台中私立葳格國際學校創辦人袁昶平（亦為金錢豹創辦人）涉嫌行使業務登載不實文書、公益侵占、業務侵占、背信及違反《商業會計法》等罪，日前與現任妻子、葳格學校執行董事吳菀庭雙雙遭收押禁見。台中地方法院16日表示，袁昶平於偵訊時已大致坦承犯行，經審酌案件，最終裁定以2000萬元交保，袁昶平上午已完成交保程序。\n\n 《詳全文...》",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -2190,30 +2355,13 @@
      }
     },
     {
-     "title": "台積電法說7大亮點　魏哲家談AI、不漲價一次看",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA0WVJLRHR0blFBdkRnOHREMmhYU0p4RGhBQmhqQ1lRcjNKdEx6LWFianNzYVRWcE00Um9mY2piTVFwWHdQMVZwbE5HXzbSAVJBVV95cUxOdWpIdWRLUHFpal9qQWtpR1diRHVMdi15YjB5T3hNdlR4Yk8tcGxTNUcxeHlqcXNyMndsS3RxVWZZZ1VVeVhLY2F1bjVtWDY3ZlBn?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-07-16T18:06:04+08:00",
-     "description": "台積電法說7大亮點　魏哲家談AI、不漲價一次看  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "台積電法說恐變法會？台股明崩還跌？夜盤下殺...南亞科、南電操作曝",
-     "link": "https://news.tvbs.com.tw/money/3259520",
+     "title": "金錢豹創辦人袁昶平涉掏空葳格校產　羈押22天「2千萬交保」",
+     "link": "https://news.tvbs.com.tw/local/3259779",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-16T18:00:12+08:00",
+     "published": "2026-07-16T22:22:35+08:00",
      "description": "",
-     "category": "money",
+     "category": "local",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -2221,52 +2369,104 @@
        "source": "unknown"
       },
       "acquisition": "scraper",
-      "category": "money",
+      "category": "local",
       "feed_url": "https://news.tvbs.com.tw/realtime"
      }
     },
     {
-     "title": "台積電法說會／談定價策略　魏哲家：台積電不會暴力漲價",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92LUNYVG5xZEh0eEJTRVZWRmpENDRlVEFMOTVvZUMxZlF2RUwyWG5vbm9RMmZfUTdQd0FmbWRBMkNsaTNNQV84SGREaFdRX3ZHVUHSAVJBVV95cUxPdi1DWFRucWRIdHhCU0VWVkZqRDQ0ZVRBTDk1b2VDMWZRdkVMMlhub25vUTJmX1E3UHdBZm1kQTJDbGkzTUFfOEhkRGhXUV92R1VB?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-07-16T17:30:34+08:00",
-     "description": "台積電法說會／談定價策略　魏哲家：台積電不會暴力漲價  NOWnews今日新聞",
+     "title": "金錢豹創辦人大致坦承犯行  獲交保2千萬元",
+     "link": "https://www.mirrormedia.mg/story/20260716-167inv-221014",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-07-16T22:14:00+08:00",
+     "description": "",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
      }
     },
     {
-     "title": "美國人不會做股票？台積電ADR美股盤前下跌4%　帶崩台指期殺900點",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wT0tMaU1KX0JYZHA1TEczZ2ZRUnl6VkhfeGVhbk9sbXdsX3RxS0UyN19ManlnRzBZQURuNU9MMTRpTUotOUxIUUJfamh6MkxkNFHSAVJBVV95cUxPcE9LTGlNSl9CWGRwNUxHM2dmUVJ5elZIX3hlYW5PbG13bF90cUtFMjdfTGp5Z0cwWUFEbjVPTDE0aU1KLTlMSFFCX2poejJMZDRR?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-07-16T17:12:44+08:00",
-     "description": "美國人不會做股票？台積電ADR美股盤前下跌4%　帶崩台指期殺900點  NOWnews今日新聞",
+     "title": "被控掏空校產　金錢豹創辦人袁昶平2000萬交保",
+     "link": "https://www.cna.com.tw/news/asoc/202607160398.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-16T21:31:49+08:00",
+     "description": "（中央社記者蘇木春台中16日電）台中地檢署偵辦葳格學校校產疑遭掏空等案，上月24日聲押禁見台中金錢豹酒店創辦人袁昶平、袁妻吳菀庭獲准。台中地院今天裁定讓袁昶平以新台幣2000萬元交保，吳菀庭仍羈押中。",
+     "author": "蘇木春",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "蘇木春",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/social"
+     }
+    },
+    {
+     "title": "福壽等4公司名下不動產遭扣押 中聯總經理2千萬交保撤銷",
+     "link": "https://news.pts.org.tw/article/818001",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-07-16T20:00:22+08:00",
+     "description": "中聯問題油品苯駢芘超標風暴持續擴大，受波及下游業者已從1006家增至1322家，包括凡燒臘、洪瑞珍及愛之味等業者。衛福部再公布，中聯又有2批4月生產的原油批號檢出超標，且涉嫌隱匿問題油品，最高可裁罰300萬元。另一方面，中聯也首度發出聲明致歉，強調在原因釐清、改善計畫未獲主管機關核准前，絕不復工。台中高分院則是撤銷中聯總經理余凌冲2000萬交保裁定，檢方也已扣押中聯、福壽、福懋及泰山等4家公司名下",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
      }
     },
     {
-     "title": "台積電ADR盤前一度跌5%　魏哲家談定價：很想漲但會活不下去",
-     "link": "https://news.tvbs.com.tw/money/3259432",
+     "title": "中院突提訊金錢豹創辦人交保2千萬  中檢：尊重裁定！",
+     "link": "https://www.mirrormedia.mg/story/20260716-167inv-190259",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-07-16T19:07:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "中聯總經理余凌沖2000萬交保撤銷 明天下午重開羈押庭",
+     "link": "https://news.ltn.com.tw/news/society/breakingnews/5507786",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-16T18:20:06+08:00",
+     "description": "致癌油食安風暴延燒，被視為關鍵人物的中聯油脂總經理余凌沖，中檢訊問後聲押，不過台中地院10日裁定2000萬交保，檢察官當庭提出抗告，台中高分院審理後，認定檢察官抗告有理由，今天...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "中聯油脂總座2000萬交保撤銷！　高院「2理由」發回更裁",
+     "link": "https://news.tvbs.com.tw/local/3258898",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-16T17:02:31+08:00",
+     "published": "2026-07-16T10:43:27+08:00",
      "description": "",
-     "category": "money",
+     "category": "local",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -2274,8 +2474,25 @@
        "source": "unknown"
       },
       "acquisition": "scraper",
-      "category": "money",
+      "category": "local",
       "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "致癌油案再翻盤！中聯油脂總座2000萬交保裁定遭撤銷| 生活",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FdTl4TTdCT01rSVBEVWxLMDA3c2VWTlNYTng3RmFOVzRwUmpGY0xPcTV5Z0NicEozZ2dkVXBaS2NlRTRhQnZXVTBmQjdaU2FQbmRQTUtzMGhxT0E?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-16T10:12:05+08:00",
+     "description": "致癌油案再翻盤！中聯油脂總座2000萬交保裁定遭撤銷| 生活  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -2319,12 +2536,12 @@
      }
     },
     {
-     "title": "TPBL／選秀狀元賀丹降臨海神！8人獲選完整名單一次看",
-     "link": "https://news.ebc.net.tw/news/sport/561536",
+     "title": "TPBL／海神大補強選2人！賀丹親曝返台期望",
+     "link": "https://news.ebc.net.tw/news/sport/561537",
      "source": "ebc",
      "source_name": "東森新聞",
      "published": "2026-07-16T20:52:08.928564+08:00",
-     "description": "台灣職業籃球大聯盟（TPBL）第三屆新人選秀會今（16）日於台北101 THE ONE舉行。",
+     "description": "高雄全家海神職業籃球隊16日於2026-27球季TPBL選秀會上，以首輪狀元籤選進23歲的好手賀丹（Adam Hinton）。",
      "category": "sport",
      "metadata": {
       "schema_version": 1,
@@ -2338,12 +2555,12 @@
      }
     },
     {
-     "title": "TPBL／海神大補強選2人！賀丹親曝返台期望",
-     "link": "https://news.ebc.net.tw/news/sport/561537",
+     "title": "TPBL／選秀狀元賀丹降臨海神！8人獲選完整名單一次看",
+     "link": "https://news.ebc.net.tw/news/sport/561536",
      "source": "ebc",
      "source_name": "東森新聞",
      "published": "2026-07-16T20:52:08.928564+08:00",
-     "description": "高雄全家海神職業籃球隊16日於2026-27球季TPBL選秀會上，以首輪狀元籤選進23歲的好手賀丹（Adam Hinton）。",
+     "description": "台灣職業籃球大聯盟（TPBL）第三屆新人選秀會今（16）日於台北101 THE ONE舉行。",
      "category": "sport",
      "metadata": {
       "schema_version": 1,
@@ -2425,25 +2642,6 @@
      }
     },
     {
-     "title": "TPBL／毫無懸念！海神挑康乃爾大學賀丹成狀元　選秀名單看這",
-     "link": "https://news.tvbs.com.tw/sports/3259666",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-16T19:47:08+08:00",
-     "description": "",
-     "category": "sports",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "sports",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
      "title": "TPBL選秀 關鍵字",
      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NTjA4NUVNM0xPdDh1cGhHZmFmNHhuYlpPaGxDRElfY0g0bHFHZ3VhbVo1d2ZoTjRIZjJROFkwZXItUVJESkhldDB0b3lCSXpnaGhNWE44d2xSZ3FPdXRYc2l3?oc=5",
      "source": "nownews",
@@ -2458,6 +2656,25 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "TPBL／毫無懸念！海神挑康乃爾大學賀丹成狀元　選秀名單看這",
+     "link": "https://news.tvbs.com.tw/sports/3259666",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-16T19:43:27+08:00",
+     "description": "",
+     "category": "sports",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "sports",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
      }
     },
     {
@@ -2695,6 +2912,228 @@
    ]
   },
   {
+   "id": "8d4806447d9e",
+   "title": "世足4強賽英格蘭強碰阿根廷 雙方5度交手、全力備戰",
+   "outlet_count": 8,
+   "outlets": [
+    "ebc",
+    "ettoday",
+    "ltn",
+    "mirror",
+    "nownews",
+    "pts",
+    "storm",
+    "tvbs"
+   ],
+   "article_count": 28,
+   "first_seen": "2026-07-14T21:20:11+08:00",
+   "last_updated": "2026-07-16T20:10:00+08:00",
+   "tags": [
+    "阿根廷",
+    "英格蘭",
+    "逆轉"
+   ],
+   "claims": [
+    {
+     "type": "金額",
+     "agree": false,
+     "outlet_count": 2,
+     "values": [
+      {
+       "value": "3萬元",
+       "outlets": [
+        "ETtoday"
+       ]
+      },
+      {
+       "value": "5萬元",
+       "outlets": [
+        "公視新聞"
+       ]
+      }
+     ]
+    }
+   ],
+   "articles": [
+    {
+     "title": "阿根廷逆轉勝太嗨！　花博餐廳老闆點信號彈慶祝樂極生悲",
+     "link": "https://www.mirrormedia.mg/story/20260716-175soc-200804",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-07-16T20:10:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "世足／阿根廷逆轉太嗨！ 花博餐廳老闆「放彩煙」遭法辦",
+     "link": "https://news.ebc.net.tw/news/sport/561505",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-16T17:05:31.117876+08:00",
+     "description": "世足四強期間，台北花博酒吧街有餐廳老闆在觀賽人潮中施放藍白煙霧棒，警方認定現場人多恐有安全疑慮，依《社會秩序維護法》移送裁處。",
+     "category": "sport",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "sport",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "世足／阿根廷屢創逆轉驚奇 西班牙晉級反遇「魔咒」",
+     "link": "https://news.ebc.net.tw/news/sport/561512",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-16T17:05:31.117876+08:00",
+     "description": "2026世界盃冠軍戰即將登場，西班牙本屆賽事一路未曾陷入落後，展現強大實力，不過外界也翻出過去數據，指出多支決賽前未曾落後的球隊，最終未必能奪冠。",
+     "category": "sport",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "sport",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "2026世足／威廉王子心都碎了！英格蘭7分鐘遭阿根廷逆轉　「決賽之約」夢碎",
+     "link": "https://www.mirrormedia.mg/story/20260716edi042",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-07-16T15:11:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "世足／阿根廷逆轉英格蘭闖決賽 千萬球迷怒連署抵制",
+     "link": "https://news.ebc.net.tw/news/sport/561459",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-16T15:08:59.627949+08:00",
+     "description": "15日晚間世界盃準決賽，阿根廷於梅賽德斯-賓士體育場以2比1逆轉擊敗英格蘭，賽後因國際足總偏袒爭議，千萬球迷連署要求開除阿根廷。",
+     "category": "sport",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "sport",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "慶祝阿根廷贏球放煙霧棒 花博內餐廳遭開罰5萬元",
+     "link": "https://news.pts.org.tw/article/817891",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-07-16T13:32:49+08:00",
+     "description": "世足賽如火如荼進行，台北市花博園區內的一家炭烤餐廳，今（16）日凌晨打烊後，持續提供轉播開放民眾觀賞，卻在阿根廷贏球當下，業者拿出煙霧棒與一名男子在店內施放。警方認定，場地聚集大批民眾，使用煙霧棒有危害他人身體之虞，影響公眾安全，帶回55歲的譚姓業者偵辦，依《社維法》裁處；同時，會展基金會身為花博的管理單位之一，也認定業者違反契約，將開罰5萬元。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "世足賽／阿根廷逆轉勝晉級決賽 英格蘭總教練保守戰術引批評",
+     "link": "https://news.pts.org.tw/article/817893",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-07-16T13:30:43+08:00",
+     "description": "世界盃足球賽4強賽的英格蘭對阿根廷大戰，最終由阿根廷以2比1逆轉勝出，英格蘭總教練保守戰術引發批評。而阿根廷贏球之後，有球員高舉政治標語布條，上面寫著福克蘭群島是阿根廷的，引發觸犯FIFA規範的爭議。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "英格蘭為何被阿根廷逆轉？ 台灣球評「8字」神解析掀全網共鳴",
+     "link": "https://sports.ltn.com.tw/news/breakingnews/5507203",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-16T13:14:29+08:00",
+     "description": "英格蘭今在世界盃4強迎戰宿敵阿根廷，一度取得領先，卻在下半場錯失優勢，被阿根廷以1：2戲劇性逆轉淘汰，無緣挺進冠軍戰。對此，台灣足球發展協會理事長、知名足球球評石明謹在社群...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "世足阿根廷踢走英格蘭 花博餐廳老闆嗨放「藍白煙霧」進警局",
+     "link": "https://news.ltn.com.tw/news/society/breakingnews/5507191",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-16T12:58:55+08:00",
+     "description": "今天凌晨開踢的世足賽4強準決賽，阿根廷最終擊敗英格蘭，引爆全球狂熱，位於台北花博園區的「阿根廷炭烤餐廳」老闆55歲譚姓男子，因見到家鄉球隊獲勝，過度興奮，竟在半室內的人群中點燃...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "絕殺英格蘭！炭烤餐廳阿根廷華僑老闆嗨放煙霧棒　恐挨罰3萬",
+     "link": "https://www.ettoday.net/news/20260716/3202191.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-16T12:16:00+08:00",
+     "description": "北市警局中山分局圓山派出所警員，在16日凌晨接獲線報，表示有民眾在花博裡施放煙霧棒，警方獲報後到場發現，是一名阿根廷炭烤餐廳的老闆，也是阿根廷華僑，在餐廳觀賞世足賽，阿根廷對決英格蘭，阿根廷在傷停時間絕殺對手，興奮之餘跑到有遮雨篷的空地施放煙霧棒。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    }
+   ]
+  },
+  {
    "id": "66134ba0332e",
    "title": "卓榮泰：中聯油脂案讓大家不安　深感遺憾、深切反省",
    "outlet_count": 8,
@@ -2756,7 +3195,7 @@
      "link": "https://news.tvbs.com.tw/politics/3259032",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-16T12:47:08+08:00",
+     "published": "2026-07-16T12:43:27+08:00",
      "description": "",
      "category": "politics",
      "metadata": {
@@ -2889,224 +3328,6 @@
       },
       "acquisition": "rss",
       "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    }
-   ]
-  },
-  {
-   "id": "66aaffada8c1",
-   "title": "油品致癌物超標案檢方抗告成功　中聯總經理交保撤銷",
-   "outlet_count": 7,
-   "outlets": [
-    "cna",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "newtalk",
-    "pts",
-    "tvbs"
-   ],
-   "article_count": 13,
-   "first_seen": "2026-07-16T09:59:00+08:00",
-   "last_updated": "2026-07-16T23:58:35+08:00",
-   "tags": [
-    "交保",
-    "金錢豹",
-    "中聯"
-   ],
-   "claims": [
-    {
-     "type": "金額",
-     "agree": true,
-     "outlet_count": 5,
-     "values": [
-      {
-       "value": "2000萬元",
-       "outlets": [
-        "ETtoday",
-        "TVBS",
-        "中央社",
-        "新頭殼",
-        "自由時報"
-       ]
-      }
-     ]
-    }
-   ],
-   "articles": [
-    {
-     "title": "金錢豹創辦人袁昶平羈押22天2千萬交保 裁定原因曝",
-     "link": "https://news.ltn.com.tw/news/society/breakingnews/5508087",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-16T23:58:35+08:00",
-     "description": "台中葳格國際學校執行董事吳菀庭及其丈夫、金錢豹創辦人袁昶平涉嫌掏空校產、公司資產，台中地檢署6月23日第二度搜索學校、公司、住處，約談兩人到案，認為涉犯公益侵占、業務侵占等罪嫌...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "金錢豹袁昶平認罪獲准2000萬交保　中院2大理由曝光",
-     "link": "https://www.ettoday.net/news/20260716/3202614.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-16T23:33:00+08:00",
-     "description": "台中私立葳格國際學校創辦人袁昶平（亦為金錢豹創辦人）涉嫌行使業務登載不實文書、公益侵占、業務侵占、背信及違反《商業會計法》等罪，日前與現任妻子、葳格學校執行董事吳菀庭雙雙遭收押禁見。台中地方法院16日表示，袁昶平於偵訊時已大致坦承犯行，經審酌案件，最終裁定以2000萬元交保，袁昶平上午已完成交保程序。\n\n 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "金錢豹創辦人袁昶平涉掏空葳格校產　羈押22天「2千萬交保」",
-     "link": "https://news.tvbs.com.tw/local/3259779",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-16T22:22:35+08:00",
-     "description": "",
-     "category": "local",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "local",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "金錢豹創辦人大致坦承犯行  獲交保2千萬元",
-     "link": "https://www.mirrormedia.mg/story/20260716-167inv-221014",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-07-16T22:14:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "被控掏空校產　金錢豹創辦人袁昶平2000萬交保",
-     "link": "https://www.cna.com.tw/news/asoc/202607160398.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-16T21:31:49+08:00",
-     "description": "（中央社記者蘇木春台中16日電）台中地檢署偵辦葳格學校校產疑遭掏空等案，上月24日聲押禁見台中金錢豹酒店創辦人袁昶平、袁妻吳菀庭獲准。台中地院今天裁定讓袁昶平以新台幣2000萬元交保，吳菀庭仍羈押中。",
-     "author": "蘇木春",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "蘇木春",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/social"
-     }
-    },
-    {
-     "title": "福壽等4公司名下不動產遭扣押 中聯總經理2千萬交保撤銷",
-     "link": "https://news.pts.org.tw/article/818001",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-07-16T20:00:22+08:00",
-     "description": "中聯問題油品苯駢芘超標風暴持續擴大，受波及下游業者已從1006家增至1322家，包括凡燒臘、洪瑞珍及愛之味等業者。衛福部再公布，中聯又有2批4月生產的原油批號檢出超標，且涉嫌隱匿問題油品，最高可裁罰300萬元。另一方面，中聯也首度發出聲明致歉，強調在原因釐清、改善計畫未獲主管機關核准前，絕不復工。台中高分院則是撤銷中聯總經理余凌冲2000萬交保裁定，檢方也已扣押中聯、福壽、福懋及泰山等4家公司名下",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "中院突提訊金錢豹創辦人交保2千萬  中檢：尊重裁定！",
-     "link": "https://www.mirrormedia.mg/story/20260716-167inv-190259",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-07-16T19:07:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "中聯總經理余凌沖2000萬交保撤銷 明天下午重開羈押庭",
-     "link": "https://news.ltn.com.tw/news/society/breakingnews/5507786",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-16T18:20:06+08:00",
-     "description": "致癌油食安風暴延燒，被視為關鍵人物的中聯油脂總經理余凌沖，中檢訊問後聲押，不過台中地院10日裁定2000萬交保，檢察官當庭提出抗告，台中高分院審理後，認定檢察官抗告有理由，今天...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "中聯總座交保撤銷 台中高分院發回更裁",
-     "link": "https://news.pts.org.tw/article/817900",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-07-16T14:27:02+08:00",
-     "description": "針對中聯問題油品流入校園的後續新聞，高雄市已經完成清查問題油品的流向，共有13所國小和幼兒園曾經使用過問題油品。目前都已下架封存，或不論油品批號，也已經完成預防性下架。對於中聯油脂總經理余凌冲被台中地院裁定以新台幣2000萬元具保，檢方不服提抗告，今（16）日台中高分院撤銷原交保處分，發回地院更裁。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "中聯油脂總座2000萬交保撤銷！　高院「2理由」發回更裁",
-     "link": "https://news.tvbs.com.tw/local/3258898",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-16T10:47:08+08:00",
-     "description": "",
-     "category": "local",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "local",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
      }
     }
    ]
@@ -3328,227 +3549,6 @@
    ]
   },
   {
-   "id": "8d4806447d9e",
-   "title": "世足4強賽英格蘭強碰阿根廷 雙方5度交手、全力備戰",
-   "outlet_count": 7,
-   "outlets": [
-    "ebc",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "pts",
-    "storm",
-    "tvbs"
-   ],
-   "article_count": 27,
-   "first_seen": "2026-07-14T21:20:11+08:00",
-   "last_updated": "2026-07-16T20:10:00+08:00",
-   "tags": [
-    "阿根廷",
-    "英格蘭",
-    "逆轉"
-   ],
-   "claims": [
-    {
-     "type": "金額",
-     "agree": false,
-     "outlet_count": 2,
-     "values": [
-      {
-       "value": "3萬元",
-       "outlets": [
-        "ETtoday"
-       ]
-      },
-      {
-       "value": "5萬元",
-       "outlets": [
-        "公視新聞"
-       ]
-      }
-     ]
-    }
-   ],
-   "articles": [
-    {
-     "title": "阿根廷逆轉勝太嗨！　花博餐廳老闆點信號彈慶祝樂極生悲",
-     "link": "https://www.mirrormedia.mg/story/20260716-175soc-200804",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-07-16T20:10:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "世足／阿根廷屢創逆轉驚奇 西班牙晉級反遇「魔咒」",
-     "link": "https://news.ebc.net.tw/news/sport/561512",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-16T17:05:31.117876+08:00",
-     "description": "2026世界盃冠軍戰即將登場，西班牙本屆賽事一路未曾陷入落後，展現強大實力，不過外界也翻出過去數據，指出多支決賽前未曾落後的球隊，最終未必能奪冠。",
-     "category": "sport",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "sport",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "世足／阿根廷逆轉太嗨！ 花博餐廳老闆「放彩煙」遭法辦",
-     "link": "https://news.ebc.net.tw/news/sport/561505",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-16T17:05:31.117876+08:00",
-     "description": "世足四強期間，台北花博酒吧街有餐廳老闆在觀賽人潮中施放藍白煙霧棒，警方認定現場人多恐有安全疑慮，依《社會秩序維護法》移送裁處。",
-     "category": "sport",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "sport",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "2026世足／威廉王子心都碎了！英格蘭7分鐘遭阿根廷逆轉　「決賽之約」夢碎",
-     "link": "https://www.mirrormedia.mg/story/20260716edi042",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-07-16T15:11:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "世足／阿根廷逆轉英格蘭闖決賽 千萬球迷怒連署抵制",
-     "link": "https://news.ebc.net.tw/news/sport/561459",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-16T15:08:59.627949+08:00",
-     "description": "15日晚間世界盃準決賽，阿根廷於梅賽德斯-賓士體育場以2比1逆轉擊敗英格蘭，賽後因國際足總偏袒爭議，千萬球迷連署要求開除阿根廷。",
-     "category": "sport",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "sport",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "慶祝阿根廷贏球放煙霧棒 花博內餐廳遭開罰5萬元",
-     "link": "https://news.pts.org.tw/article/817891",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-07-16T13:32:49+08:00",
-     "description": "世足賽如火如荼進行，台北市花博園區內的一家炭烤餐廳，今（16）日凌晨打烊後，持續提供轉播開放民眾觀賞，卻在阿根廷贏球當下，業者拿出煙霧棒與一名男子在店內施放。警方認定，場地聚集大批民眾，使用煙霧棒有危害他人身體之虞，影響公眾安全，帶回55歲的譚姓業者偵辦，依《社維法》裁處；同時，會展基金會身為花博的管理單位之一，也認定業者違反契約，將開罰5萬元。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "世足賽／阿根廷逆轉勝晉級決賽 英格蘭總教練保守戰術引批評",
-     "link": "https://news.pts.org.tw/article/817893",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-07-16T13:30:43+08:00",
-     "description": "世界盃足球賽4強賽的英格蘭對阿根廷大戰，最終由阿根廷以2比1逆轉勝出，英格蘭總教練保守戰術引發批評。而阿根廷贏球之後，有球員高舉政治標語布條，上面寫著福克蘭群島是阿根廷的，引發觸犯FIFA規範的爭議。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "英格蘭為何被阿根廷逆轉？ 台灣球評「8字」神解析掀全網共鳴",
-     "link": "https://sports.ltn.com.tw/news/breakingnews/5507203",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-16T13:14:29+08:00",
-     "description": "英格蘭今在世界盃4強迎戰宿敵阿根廷，一度取得領先，卻在下半場錯失優勢，被阿根廷以1：2戲劇性逆轉淘汰，無緣挺進冠軍戰。對此，台灣足球發展協會理事長、知名足球球評石明謹在社群...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "世足阿根廷踢走英格蘭 花博餐廳老闆嗨放「藍白煙霧」進警局",
-     "link": "https://news.ltn.com.tw/news/society/breakingnews/5507191",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-16T12:58:55+08:00",
-     "description": "今天凌晨開踢的世足賽4強準決賽，阿根廷最終擊敗英格蘭，引爆全球狂熱，位於台北花博園區的「阿根廷炭烤餐廳」老闆55歲譚姓男子，因見到家鄉球隊獲勝，過度興奮，竟在半室內的人群中點燃...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "絕殺英格蘭！炭烤餐廳阿根廷華僑老闆嗨放煙霧棒　恐挨罰3萬",
-     "link": "https://www.ettoday.net/news/20260716/3202191.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-16T12:16:00+08:00",
-     "description": "北市警局中山分局圓山派出所警員，在16日凌晨接獲線報，表示有民眾在花博裡施放煙霧棒，警方獲報後到場發現，是一名阿根廷炭烤餐廳的老闆，也是阿根廷華僑，在餐廳觀賞世足賽，阿根廷對決英格蘭，阿根廷在傷停時間絕殺對手，興奮之餘跑到有遮雨篷的空地施放煙霧棒。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    }
-   ]
-  },
-  {
    "id": "c7cfde113d10",
    "title": "台積電法說會倒數 市場緊盯哪些關鍵訊號？",
    "outlet_count": 7,
@@ -3761,7 +3761,7 @@
    ]
   },
   {
-   "id": "0b81ac8afa52",
+   "id": "7254379e0db7",
    "title": "中聯油品上架引議　政院：中央地方合作無須政治操作",
    "outlet_count": 7,
    "outlets": [
@@ -4411,7 +4411,7 @@
    "tags": [
     "美官員證實",
     "極少量",
-    "輝達"
+    "晶片"
    ],
    "articles": [
     {
@@ -4555,7 +4555,136 @@
    ]
   },
   {
-   "id": "f17378f2f024",
+   "id": "8d4089272711",
+   "title": "問題油受波及業者增至1006家 累計回收逾7600公噸",
+   "outlet_count": 6,
+   "outlets": [
+    "ebc",
+    "ettoday",
+    "ltn",
+    "mirror",
+    "pts",
+    "tvbs"
+   ],
+   "article_count": 6,
+   "first_seen": "2026-07-15T16:47:00+08:00",
+   "last_updated": "2026-07-17T01:53:00+08:00",
+   "tags": [
+    "致癌油",
+    "中聯",
+    "下游"
+   ],
+   "articles": [
+    {
+     "title": "中聯致癌油「新增2批超標」流向曝光　晶華、蝦皮、貴族世家都中鏢",
+     "link": "https://www.ettoday.net/news/20260717/3202625.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-17T01:53:00+08:00",
+     "description": "中聯油品「苯駢芘」超標事件持續擴大，台中市食安處16日表示，依食藥署抽驗結果，中聯大豆沙拉油批號313-1150408、315-1150413驗出苯駢芘超標，累計超標批號由5批增至7批。中市府也同步公布第6、7批超標油品全國第二層下游業者名冊，包含晶華、六福酒店、統一、路易莎、金色三麥及蝦皮、酷澎等。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "中聯致癌油最新流向曝光！大買家、一中商圈名店都中鏢",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5506643",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-15T21:54:18+08:00",
+     "description": "中聯油脂苯駢芘（BaP）致癌油事件持續延燒，台中市食品藥物安全處今（15）日首先公布兩批預防性下架批號，相關衍生產品包括福壽、福懋共23項、66個批號，並同步公布更新台中市第三...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "致癌油影響鬍鬚張、瓦城、點點心 下游業者累計1006家",
+     "link": "https://news.ebc.net.tw/news/living/561377",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-15T20:47:22.154521+08:00",
+     "description": "食藥署公布中聯油脂案最新進度，5批苯駢芘超標油品已回收1661.6公噸，影響1006家下游業者；另6020.6公噸油品預防性下架，持續調查污染原因。",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "問題油受波及業者增至1006家 累計回收逾7600公噸",
+     "link": "https://news.pts.org.tw/article/817817",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-07-15T19:48:51+08:00",
+     "description": "中聯油脂事件持續延燒，食藥署今（15）日公布福壽、福懋、泰山的下游業者清單，總計有1006家業者受影響，合計回收逾7600多公噸。外界質疑，政府要求業者大規模預防性下架，恐怕衝擊商家生計，對此衛福部長石崇良今日表示，全面預防性下架目的在於保障食品安全，並不代表所有產品都有安全疑慮，未來食安制度會從強化源頭管理等5大面向精進。衛福部次長林靜儀今日表示，推測黃豆與製程都有問題，但也指出若業者品管得宜仍",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "食藥署公布致癌油最新流向！曝1006家下游業者受害　瓦城、貳樓入列",
+     "link": "https://news.tvbs.com.tw/life/3258374",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-15T17:58:11+08:00",
+     "description": "",
+     "category": "life",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "life",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "中聯問題油已回收1661公噸　食藥署公布下游1006店家完整名單",
+     "link": "https://www.mirrormedia.mg/story/20260715edi044",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-07-15T16:47:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    }
+   ]
+  },
+  {
+   "id": "3d350a8c817a",
    "title": "新聞分類總覽 - 2026-07-14",
    "outlet_count": 6,
    "outlets": [
@@ -4567,13 +4696,30 @@
     "udn"
    ],
    "article_count": 24,
-   "first_seen": "2026-07-14T02:41:20+08:00",
+   "first_seen": "2026-07-14T04:57:48+08:00",
    "last_updated": "2026-07-17T00:04:18+08:00",
    "tags": [],
    "articles": [
     {
      "title": "新聞分類總覽 - 2026-07-17",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KYlBWd3ZRRmd2aUxKRTZISGFMZ2NFTUtWTFc4WDNaZS1fQnNQT1hzNXdQNERFMUJUZVAxWk1iZDVEVkN6VFRSSV9xMThCUzBOWmdZRWpKVQ?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-17T00:04:18+08:00",
+     "description": "新聞分類總覽 - 2026-07-17  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "新聞分類總覽 - 2026-07-17",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5vZXREMHVWTllCaTM2alVCSDRYcXB3NkdDZmc2X2gtRVY5QURjZFJiaUJDSHdFcjVhSUNjdFp2TmZmLWp0VGtkRDVZTUJmNXhVWEszZlZCTQ?oc=5",
      "source": "newtalk",
      "source_name": "新頭殼",
      "published": "2026-07-17T00:04:18+08:00",
@@ -4694,23 +4840,6 @@
     },
     {
      "title": "新聞分類總覽 - 2026-07-16",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9kLUpUMG5taFRadkJZaXhwWUJfWkNxQjRQQXQxdFRYLWE5MlVKOGFMTmRteVFRWlVXdzFCbk9McWRTZ2t1UmUzOTY4YVQ5N2F3dWJxMWI0RQ?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-16T00:47:43+08:00",
-     "description": "新聞分類總覽 - 2026-07-16  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "新聞分類總覽 - 2026-07-16",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1SE42cGViaDZIZlYtcDZIN2thcGx5Z0ZWeHJoSTFYSjV1aGQxM093M2pIWGduRzI5My1GbHJBMGJqZ3pyaFp1ZE1QeHJ1U0xvTVotbDlGaw?oc=5",
      "source": "newtalk",
      "source_name": "新頭殼",
@@ -4727,12 +4856,12 @@
      }
     },
     {
-     "title": "2026/07/15 - 粗心小王子的部落格",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CMFNQcFA0c0VSOWJwODNGc3Jsd1RPdGlEbFY5UG10MHFSbXplSjZ3Zk0xMS13UkpVQk0xckNmUFY2MnFoejdUbC1HcURpUDF2eGc?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-07-15T21:17:06+08:00",
-     "description": "2026/07/15 - 粗心小王子的部落格  udn部落格",
+     "title": "新聞分類總覽 - 2026-07-16",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9kLUpUMG5taFRadkJZaXhwWUJfWkNxQjRQQXQxdFRYLWE5MlVKOGFMTmRteVFRWlVXdzFCbk9McWRTZ2t1UmUzOTY4YVQ5N2F3dWJxMWI0RQ?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-16T00:47:43+08:00",
+     "description": "新聞分類總覽 - 2026-07-16  Newtalk新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -4740,7 +4869,7 @@
        "source": "unknown"
       },
       "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -4929,25 +5058,6 @@
      }
     },
     {
-     "title": "台中死亡車禍！騎士撞上違停大貨車 安全帽噴飛不治",
-     "link": "https://news.ebc.net.tw/news/society/561397",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-15T22:58:34.397022+08:00",
-     "description": "台中大雅區今（15）日驚傳死亡車禍，陳姓男子騎機車出門，在中科路撞上一輛違規停在路邊的大貨車，人一度卡在車底，安全帽也噴飛，車殼碎片散落一地，送醫後宣告不治。",
-     "category": "society",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "society",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
      "title": "賣場騎出來就撞！台中機車撞擊滑衝路旁貨車底　騎士送醫",
      "link": "https://news.tvbs.com.tw/local/3257241",
      "source": "tvbs",
@@ -4967,6 +5077,25 @@
      }
     },
     {
+     "title": "台中死亡車禍！騎士撞上違停大貨車 安全帽噴飛不治",
+     "link": "https://news.ebc.net.tw/news/society/561397",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-15T22:58:34.397022+08:00",
+     "description": "台中大雅區今（15）日驚傳死亡車禍，陳姓男子騎機車出門，在中科路撞上一輛違規停在路邊的大貨車，人一度卡在車底，安全帽也噴飛，車殼碎片散落一地，送醫後宣告不治。",
+     "category": "society",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "society",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
      "title": "台中大雅機車與大貨車碰撞  騎士傷重不治",
      "link": "https://www.cna.com.tw/news/asoc/202607150368.aspx",
      "source": "cna",
@@ -4982,6 +5111,200 @@
       },
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/rsscna/social"
+     }
+    }
+   ]
+  },
+  {
+   "id": "e5bc402c6a73",
+   "title": "推動立法管理荷莫茲海峽　伊朗國會提出法案",
+   "outlet_count": 6,
+   "outlets": [
+    "cna",
+    "ettoday",
+    "ltn",
+    "newtalk",
+    "pts",
+    "tvbs"
+   ],
+   "article_count": 14,
+   "first_seen": "2026-07-14T16:11:54+08:00",
+   "last_updated": "2026-07-16T22:57:19+08:00",
+   "tags": [
+    "荷莫茲海峽",
+    "伊朗"
+   ],
+   "articles": [
+    {
+     "title": "報復美軍攻擊 伊朗擬命令葉門叛軍封鎖紅海",
+     "link": "https://news.ltn.com.tw/news/world/breakingnews/5508015",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-16T22:57:19+08:00",
+     "description": "3名消息人士透露，伊朗已要求葉門叛軍「青年運動」（Houthis，或譯胡塞武裝）做好封鎖紅海的準備，一旦美軍攻擊伊朗電力設施，就發動封鎖攻擊。\n\n2名伊朗高層消息人士及1名中...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "伊朗連環襲擊商船！荷姆茲海峽航運陷恐慌 航商通行意願降低",
+     "link": "https://news.ltn.com.tw/news/world/breakingnews/5507480",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-16T22:43:02+08:00",
+     "description": "儘管川普堅稱荷姆茲海峽開放，但因伊朗軍隊在聯合國制定的安全航道布設水雷，迫使商船必須改道靠近伊朗或阿曼海岸的替代航線。近來伊朗針對商船的攻擊事件頻傳，航運業界對美國主導的護航路線...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "荷莫茲海峽風險增　印度當局勒令船東停派水手",
+     "link": "https://www.cna.com.tw/news/aopl/202607160334.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-16T18:54:32+08:00",
+     "description": "（中央社新德里16日綜合外電報導）鑒於中東地區戰火再起，印度當局已勒令船東、船舶管理公司與人力招募業者，不得派遣該國海員登上航經荷莫茲海峽（Strait of Hormuz）的船隻。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
+     }
+    },
+    {
+     "title": "川普稱荷姆茲海峽開放中！航商卻爆憂船隻遭襲　拒走美軍護航路線",
+     "link": "https://news.tvbs.com.tw/world/3259281",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-16T16:26:31+08:00",
+     "description": "",
+     "category": "world",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "world",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "美伊持續交火　荷莫茲海峽通行船隻減少",
+     "link": "https://www.cna.com.tw/news/aopl/202607160220.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-16T16:11:28+08:00",
+     "description": "（中央社新加坡16日綜合外電報導）美伊兩國近日持續在波斯灣地區交火，航運數據顯示，美國對伊朗港口恢復海上封鎖後首日，通過荷莫茲海峽的船隻數量明顯減少。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
+     }
+    },
+    {
+     "title": "航商拒絕美軍護航路線　荷莫茲海峽通行意願降低",
+     "link": "https://www.cna.com.tw/news/aopl/202607160179.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-16T14:43:00+08:00",
+     "description": "（中央社倫敦15日綜合外電報導）儘管美國總統川普堅稱荷莫茲海峽仍然開放，但多名消息人士指出，伊朗持續攻擊來往船隻引發安全疑慮，航商正避免使用美軍提供的護航路線，海峽通行意願降低。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
+     }
+    },
+    {
+     "title": "伊朗擬加碼封鎖曼德海峽 中東戰火升溫牽動全球能源",
+     "link": "https://news.pts.org.tw/article/817816",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-07-15T20:00:23+08:00",
+     "description": "美伊兩國在「荷姆茲海峽」不斷升溫的角力，再次引爆中東戰火。荷姆茲海峽航運再度中斷後，伊朗又釋出危險訊號，顯示他們可能利用葉門的「青年運動組織」，封鎖連接紅海的「曼德海峽」，代表2條全球最重要的能源命脈，可能面臨雙重癱瘓的風險。而同時，美國總統川普昨（14）日表示要對荷姆茲海峽商船收費，但才過一日，他又出現180度大轉彎，改口表示取消。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "伊朗革命衛隊揚言斷中東所有能源出口　暗示封鎖紅海",
+     "link": "https://www.cna.com.tw/news/aopl/202607150223.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-15T17:01:46+08:00",
+     "description": "（中央社開羅／華盛頓／貝魯特15日綜合外電報導）在伊朗關閉荷莫茲海峽、美國重新實施對伊朗港口海上封鎖後，伊朗媒體報導，伊斯蘭革命衛隊威脅將關閉「所有對美國及其盟邦有利的其他出口通道」。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
+     }
+    },
+    {
+     "title": "雙咽喉絞殺！伊朗反制美軍封鎖 胡塞放話封鎖紅海曼德海峽",
+     "link": "https://news.ltn.com.tw/news/world/breakingnews/5506203",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-15T16:28:08+08:00",
+     "description": "美軍全面重啟封鎖，中東局勢正朝全球經濟窒息戰急遽升溫。根據《路透》15日報導，針對美軍行動，伊朗伊斯蘭革命衛隊（IRGC）發出嚴厲警告，揚言進一步封鎖所有有利於美國及盟友的出口...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "趕在美軍封鎖前「駛出荷莫茲海峽」　至少4船載出伊朗油氣",
+     "link": "https://www.ettoday.net/news/20260715/3201504.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-15T13:34:00+08:00",
+     "description": "船運追蹤平台Kpler數據顯示，美軍恢復針對伊朗的海上封鎖令之前，14日通過荷莫茲海峽（Strait of Hormuz）的船隻數量有所增加，而且其中大多數與伊朗貿易有關。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
      }
     }
    ]
@@ -5759,8 +6082,8 @@
    "first_seen": "2026-07-14T13:44:03+08:00",
    "last_updated": "2026-07-15T15:03:17.137782+08:00",
    "tags": [
-    "長相姓名",
     "詐騙集團",
+    "長相姓名",
     "破獲台灣"
    ],
    "articles": [
@@ -6214,7 +6537,7 @@
    "tags": [
     "北市帥警",
     "只能寵我",
-    "男公關"
+    "詐女客"
    ],
    "claims": [
     {
@@ -6277,7 +6600,7 @@
      "link": "https://news.tvbs.com.tw/local/3259288",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-16T15:47:08+08:00",
+     "published": "2026-07-16T15:43:27+08:00",
      "description": "",
      "category": "local",
      "metadata": {
@@ -6359,9 +6682,9 @@
    "first_seen": "2026-07-16T19:41:00+08:00",
    "last_updated": "2026-07-17T00:47:08.593983+08:00",
    "tags": [
-    "以馬英九名義",
-    "義簽署文件",
-    "馬以南聲明"
+    "馬英九名義簽",
+    "馬以南聲明",
+    "追究法律責任"
    ],
    "articles": [
     {
@@ -6388,7 +6711,7 @@
      "link": "https://news.tvbs.com.tw/politics/3259745",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-16T21:47:08+08:00",
+     "published": "2026-07-16T21:43:27+08:00",
      "description": "",
      "category": "politics",
      "metadata": {
@@ -6457,6 +6780,182 @@
    ]
   },
   {
+   "id": "d6dba60a01a5",
+   "title": "台積電投資美國再擴大　政院：最大產能、最先進技術留台",
+   "outlet_count": 5,
+   "outlets": [
+    "cna",
+    "ettoday",
+    "ltn",
+    "setn",
+    "storm"
+   ],
+   "article_count": 8,
+   "first_seen": "2026-07-16T19:28:00+08:00",
+   "last_updated": "2026-07-16T23:34:07+08:00",
+   "tags": [
+    "電加碼投資美",
+    "台積電",
+    "美元"
+   ],
+   "claims": [
+    {
+     "type": "金額（美元）",
+     "agree": true,
+     "outlet_count": 2,
+     "values": [
+      {
+       "value": "1000億美元",
+       "outlets": [
+        "中央社",
+        "風傳媒"
+       ]
+      }
+     ]
+    }
+   ],
+   "articles": [
+    {
+     "title": "台積電對美投資追加1000億美元 AIT處長谷立言：美台互信最佳寫照 | 蕭宥宸 | 新聞",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5iMklUS1hGRjByaEtYTTlsNDYtV2dMdnlSWXR2RDU5OWxLUXhqVGJJS0ZaUVRZaDBoaWpYOWRtRmtSYkFycTRSUmhrZ1hyZw?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-07-16T23:34:07+08:00",
+     "description": "台積電對美投資追加1000億美元 AIT處長谷立言：美台互信最佳寫照 | 蕭宥宸 | 新聞  Storm.mg",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "台積電加碼投資美國　谷立言：美台經濟夥伴關係寫照",
+     "link": "https://www.cna.com.tw/news/aipl/202607160403.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-16T21:49:02+08:00",
+     "description": "（中央社記者楊堯茹台北16日電）台積電加碼投資美國1000億美元，美國在台協會處長谷立言今天表示，這項投資充分展現美台對彼此的信任與信心，正是夥伴關係最佳寫照，也將確保台積電與其在美國的主要客戶並肩而立，使其能更迅速地回應全球對先進晶片的需求，並打造具備韌性的供應鏈。",
+     "author": "楊堯茹",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "楊堯茹",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
+     }
+    },
+    {
+     "title": "台積電加碼投資美國1000億美元　AIT：打造支撐美台經濟繁榮關鍵",
+     "link": "https://www.ettoday.net/news/20260716/3202588.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-16T21:28:00+08:00",
+     "description": "台積電、白宮以及美國商務部16日宣布，台積電將追加 1,000 億美元的投資，使其在美國的投資總額達到 2,650 億美元；換言之，該投資將新增四座先進半導體製造廠，使美國在業界領先的半導體與封裝廠總數達到12座。對此，美國在台協會處長谷立言晚間表示，這項投資將確保台積電與其在美國的主要客戶並肩而立，使其能更迅速地回應全球對先進晶片不斷躍升的需求，並打造支撐美台雙方經濟繁榮的關鍵——具備韌性的供應",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "台積電加碼投資美國千億美元 林佳龍：是台美共創AI盛世最佳時機",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5507970",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-16T20:47:04+08:00",
+     "description": "外交部長林佳龍今（16）日在「投資美國新趨勢，布局東進大商機」論壇，就台美經濟合作與AI發展發表專題演講。針對台積電宣布再投資美國1000億美元、累計投資金額達2650億美元，...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "台積電擴大在美投資千億美元　行政院：確保三個優先",
+     "link": "https://www.ettoday.net/news/20260716/3202567.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-16T19:54:00+08:00",
+     "description": "台積電今（16日）宣布擴大對美投資，行政院發言人李慧芝表示，這是我國企業因應全球市場需求、人工智慧（AI）高速擴張及供應鏈區域化趨勢，所進行的自主投資規劃；有鑑於AI快速成長趨勢，以及美國是全球最大市場，政府尊重企業依國際市場需求擴大投資，強化台灣產業戰略地位。在此同時，台積電也正在持續擴大投資台灣，政府將全力協助台積電在台擴廠，並持續落實「確保三個優先、維持台灣領先」政策方向。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "台積電加碼投資美國1000億美元　行政院回應：將確保台灣3個優先",
+     "link": "https://www.ettoday.net/news/20260716/3202564.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-16T19:49:00+08:00",
+     "description": "針對台積電宣布擴大對美投資，行政院發言人李慧芝表示，這是我國企業因應全球市場需求、人工智慧（AI）高速擴張及供應鏈區域化趨勢所進行的自主投資規劃；近年來台積電基於市場需求，逐步擴大在美、日、歐等國的國際布局，有鑑於AI快速成長趨勢，以及美國是全球最大市場，政府尊重企業依國際市場需求擴大投資美國，藉以強化台灣產業戰略地位。在此同時，台積電也正在持續擴大投資台灣，政府將全力協助台積電在台擴廠，並持續落",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "台積電投資美國再擴大　政院：最大產能、最先進技術留台",
+     "link": "https://www.cna.com.tw/news/aipl/202607160354.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-16T19:38:15+08:00",
+     "description": "（中央社記者賴于榛台北16日電）台積電今天宣布加碼投資美國1000億美元，估增建4座晶圓廠。行政院表示，政府尊重企業依國際市場需求擴大投資美國，藉以強化台灣產業戰略地位，同時也會持續落實確保最大製造產能在台灣、最先進技術留在台灣，以及優先維護最完整的台灣科技產業生態系。",
+     "author": "賴于榛",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "賴于榛",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
+     }
+    },
+    {
+     "title": "台積電宣布擴大對美投資　行政院提3個優先：確保最先進技術留在台灣",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5GejJvTFBLVXJUQUFHdF9lckFZWFY1ZXVvZllWbURhWjV0NzRqMVhleFRYdy1wR0sxb2FrNnE1all6UGhSS3hmbtIBTEFVX3lxTE1RVHhUQURONWdyeDVwVkNIR0pzTEdONTZDaHBYbzduV0lWbjdzZDJxVkR1WEh0ZjliZUhnVW9qU2x4QUlhT1RFd1gyWTU?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-07-16T19:28:00+08:00",
+     "description": "台積電宣布擴大對美投資　行政院提3個優先：確保最先進技術留在台灣  三立新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
    "id": "db91626a3e5e",
    "title": "海漂豬檢出非洲豬瘟　金門縣府：鄰近豬場豬隻健康",
    "outlet_count": 5,
@@ -6473,7 +6972,7 @@
    "tags": [
     "非洲豬瘟",
     "金門海漂",
-    "輸台"
+    "豬肉"
    ],
    "articles": [
     {
@@ -6550,7 +7049,7 @@
      "link": "https://news.tvbs.com.tw/politics/3259641",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-16T19:47:08+08:00",
+     "published": "2026-07-16T19:43:27+08:00",
      "description": "",
      "category": "politics",
      "metadata": {
@@ -6569,7 +7068,7 @@
      "link": "https://news.tvbs.com.tw/local/3259648",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-16T19:47:08+08:00",
+     "published": "2026-07-16T19:43:27+08:00",
      "description": "",
      "category": "local",
      "metadata": {
@@ -6656,199 +7155,6 @@
    ]
   },
   {
-   "id": "e5bc402c6a73",
-   "title": "推動立法管理荷莫茲海峽　伊朗國會提出法案",
-   "outlet_count": 5,
-   "outlets": [
-    "cna",
-    "ettoday",
-    "ltn",
-    "pts",
-    "tvbs"
-   ],
-   "article_count": 13,
-   "first_seen": "2026-07-14T16:11:54+08:00",
-   "last_updated": "2026-07-16T22:57:19+08:00",
-   "tags": [
-    "荷莫茲海峽",
-    "伊朗"
-   ],
-   "articles": [
-    {
-     "title": "報復美軍攻擊 伊朗擬命令葉門叛軍封鎖紅海",
-     "link": "https://news.ltn.com.tw/news/world/breakingnews/5508015",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-16T22:57:19+08:00",
-     "description": "3名消息人士透露，伊朗已要求葉門叛軍「青年運動」（Houthis，或譯胡塞武裝）做好封鎖紅海的準備，一旦美軍攻擊伊朗電力設施，就發動封鎖攻擊。\n\n2名伊朗高層消息人士及1名中...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "伊朗連環襲擊商船！荷姆茲海峽航運陷恐慌 航商通行意願降低",
-     "link": "https://news.ltn.com.tw/news/world/breakingnews/5507480",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-16T22:43:02+08:00",
-     "description": "儘管川普堅稱荷姆茲海峽開放，但因伊朗軍隊在聯合國制定的安全航道布設水雷，迫使商船必須改道靠近伊朗或阿曼海岸的替代航線。近來伊朗針對商船的攻擊事件頻傳，航運業界對美國主導的護航路線...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "荷莫茲海峽風險增　印度當局勒令船東停派水手",
-     "link": "https://www.cna.com.tw/news/aopl/202607160334.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-16T18:54:32+08:00",
-     "description": "（中央社新德里16日綜合外電報導）鑒於中東地區戰火再起，印度當局已勒令船東、船舶管理公司與人力招募業者，不得派遣該國海員登上航經荷莫茲海峽（Strait of Hormuz）的船隻。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
-     }
-    },
-    {
-     "title": "川普稱荷姆茲海峽開放中！航商卻爆憂船隻遭襲　拒走美軍護航路線",
-     "link": "https://news.tvbs.com.tw/world/3259281",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-16T16:26:31+08:00",
-     "description": "",
-     "category": "world",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "world",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "美伊持續交火　荷莫茲海峽通行船隻減少",
-     "link": "https://www.cna.com.tw/news/aopl/202607160220.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-16T16:11:28+08:00",
-     "description": "（中央社新加坡16日綜合外電報導）美伊兩國近日持續在波斯灣地區交火，航運數據顯示，美國對伊朗港口恢復海上封鎖後首日，通過荷莫茲海峽的船隻數量明顯減少。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
-     }
-    },
-    {
-     "title": "航商拒絕美軍護航路線　荷莫茲海峽通行意願降低",
-     "link": "https://www.cna.com.tw/news/aopl/202607160179.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-16T14:43:00+08:00",
-     "description": "（中央社倫敦15日綜合外電報導）儘管美國總統川普堅稱荷莫茲海峽仍然開放，但多名消息人士指出，伊朗持續攻擊來往船隻引發安全疑慮，航商正避免使用美軍提供的護航路線，海峽通行意願降低。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
-     }
-    },
-    {
-     "title": "伊朗擬加碼封鎖曼德海峽 中東戰火升溫牽動全球能源",
-     "link": "https://news.pts.org.tw/article/817816",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-07-15T20:00:23+08:00",
-     "description": "美伊兩國在「荷姆茲海峽」不斷升溫的角力，再次引爆中東戰火。荷姆茲海峽航運再度中斷後，伊朗又釋出危險訊號，顯示他們可能利用葉門的「青年運動組織」，封鎖連接紅海的「曼德海峽」，代表2條全球最重要的能源命脈，可能面臨雙重癱瘓的風險。而同時，美國總統川普昨（14）日表示要對荷姆茲海峽商船收費，但才過一日，他又出現180度大轉彎，改口表示取消。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "伊朗革命衛隊揚言斷中東所有能源出口　暗示封鎖紅海",
-     "link": "https://www.cna.com.tw/news/aopl/202607150223.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-15T17:01:46+08:00",
-     "description": "（中央社開羅／華盛頓／貝魯特15日綜合外電報導）在伊朗關閉荷莫茲海峽、美國重新實施對伊朗港口海上封鎖後，伊朗媒體報導，伊斯蘭革命衛隊威脅將關閉「所有對美國及其盟邦有利的其他出口通道」。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
-     }
-    },
-    {
-     "title": "雙咽喉絞殺！伊朗反制美軍封鎖 胡塞放話封鎖紅海曼德海峽",
-     "link": "https://news.ltn.com.tw/news/world/breakingnews/5506203",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-15T16:28:08+08:00",
-     "description": "美軍全面重啟封鎖，中東局勢正朝全球經濟窒息戰急遽升溫。根據《路透》15日報導，針對美軍行動，伊朗伊斯蘭革命衛隊（IRGC）發出嚴厲警告，揚言進一步封鎖所有有利於美國及盟友的出口...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "趕在美軍封鎖前「駛出荷莫茲海峽」　至少4船載出伊朗油氣",
-     "link": "https://www.ettoday.net/news/20260715/3201504.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-15T13:34:00+08:00",
-     "description": "船運追蹤平台Kpler數據顯示，美軍恢復針對伊朗的海上封鎖令之前，14日通過荷莫茲海峽（Strait of Hormuz）的船隻數量有所增加，而且其中大多數與伊朗貿易有關。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    }
-   ]
-  },
-  {
    "id": "733c5315b8a3",
    "title": "西南風沉降影響熱浪來襲！　8縣市亮高溫燈號「5地區恐連飆36度」",
    "outlet_count": 5,
@@ -6890,7 +7196,7 @@
      "link": "https://news.tvbs.com.tw/life/3259628",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-16T19:47:08+08:00",
+     "published": "2026-07-16T19:43:27+08:00",
      "description": "",
      "category": "life",
      "metadata": {
@@ -6922,25 +7228,6 @@
      }
     },
     {
-     "title": "天氣／8縣市高溫燈號！大台北午後防大雨　南部整天有雨",
-     "link": "https://news.tvbs.com.tw/life/3257772",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-16T08:52:42.636055+08:00",
-     "description": "",
-     "category": "life",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
      "title": "淑麗氣象／14縣市高溫警戒！午後大雷雨炸「2地區」",
      "link": "https://news.ebc.net.tw/news/living/561403",
      "source": "ebc",
@@ -6957,6 +7244,25 @@
       "acquisition": "scraper",
       "category": "living",
       "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "天氣／8縣市高溫燈號！大台北午後防大雨　南部整天有雨",
+     "link": "https://news.tvbs.com.tw/life/3257772",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-16T08:52:42.636055+08:00",
+     "description": "",
+     "category": "life",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "life",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
      }
     },
     {
@@ -7225,8 +7531,8 @@
    "first_seen": "2026-07-14T11:46:30+08:00",
    "last_updated": "2026-07-16T17:29:25+08:00",
    "tags": [
-    "戴于文參選花",
-    "花蓮市長",
+    "參選花蓮市長",
+    "戴于文",
     "民眾黨徵召戴"
    ],
    "articles": [
@@ -7627,7 +7933,7 @@
      "link": "https://news.tvbs.com.tw/politics/3258872",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-16T10:47:08+08:00",
+     "published": "2026-07-16T10:43:27+08:00",
      "description": "",
      "category": "politics",
      "metadata": {
@@ -8208,117 +8514,6 @@
    ]
   },
   {
-   "id": "8d4089272711",
-   "title": "問題油受波及業者增至1006家 累計回收逾7600公噸",
-   "outlet_count": 5,
-   "outlets": [
-    "ebc",
-    "ltn",
-    "mirror",
-    "pts",
-    "tvbs"
-   ],
-   "article_count": 5,
-   "first_seen": "2026-07-15T16:47:00+08:00",
-   "last_updated": "2026-07-15T21:54:18+08:00",
-   "tags": [
-    "癌油最新流向",
-    "食藥署公布",
-    "下游業者"
-   ],
-   "articles": [
-    {
-     "title": "中聯致癌油最新流向曝光！大買家、一中商圈名店都中鏢",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5506643",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-15T21:54:18+08:00",
-     "description": "中聯油脂苯駢芘（BaP）致癌油事件持續延燒，台中市食品藥物安全處今（15）日首先公布兩批預防性下架批號，相關衍生產品包括福壽、福懋共23項、66個批號，並同步公布更新台中市第三...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "致癌油影響鬍鬚張、瓦城、點點心 下游業者累計1006家",
-     "link": "https://news.ebc.net.tw/news/living/561377",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-15T20:47:22.154521+08:00",
-     "description": "食藥署公布中聯油脂案最新進度，5批苯駢芘超標油品已回收1661.6公噸，影響1006家下游業者；另6020.6公噸油品預防性下架，持續調查污染原因。",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "問題油受波及業者增至1006家 累計回收逾7600公噸",
-     "link": "https://news.pts.org.tw/article/817817",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-07-15T19:48:51+08:00",
-     "description": "中聯油脂事件持續延燒，食藥署今（15）日公布福壽、福懋、泰山的下游業者清單，總計有1006家業者受影響，合計回收逾7600多公噸。外界質疑，政府要求業者大規模預防性下架，恐怕衝擊商家生計，對此衛福部長石崇良今日表示，全面預防性下架目的在於保障食品安全，並不代表所有產品都有安全疑慮，未來食安制度會從強化源頭管理等5大面向精進。衛福部次長林靜儀今日表示，推測黃豆與製程都有問題，但也指出若業者品管得宜仍",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "食藥署公布致癌油最新流向！曝1006家下游業者受害　瓦城、貳樓入列",
-     "link": "https://news.tvbs.com.tw/life/3258374",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-15T17:58:11+08:00",
-     "description": "",
-     "category": "life",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "中聯問題油已回收1661公噸　食藥署公布下游1006店家完整名單",
-     "link": "https://www.mirrormedia.mg/story/20260715edi044",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-07-15T16:47:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    }
-   ]
-  },
-  {
    "id": "c6007e865c1b",
    "title": "巴西總統批川普接管荷莫茲海峽　斥徵收費用如同海盜",
    "outlet_count": 5,
@@ -8507,212 +8702,6 @@
      "source_name": "新頭殼",
      "published": "2026-07-14T08:34:10+08:00",
      "description": "巴西總統批川普接管荷莫茲海峽斥徵收費用如同海盜| 國際  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
-   "id": "cf346f463365",
-   "title": "4女大生騎車露營！她遭泥水沖倒「頭卡護欄」亡　目擊者還原現場",
-   "outlet_count": 5,
-   "outlets": [
-    "ebc",
-    "ettoday",
-    "mirror",
-    "newtalk",
-    "tvbs"
-   ],
-   "article_count": 16,
-   "first_seen": "2026-07-14T01:14:00+08:00",
-   "last_updated": "2026-07-15T11:26:09.084988+08:00",
-   "tags": [
-    "女大生",
-    "遭泥水沖",
-    "露營"
-   ],
-   "articles": [
-    {
-     "title": "女大生遭泥流滅頂喪命！救人駕駛淚崩自責：我只救到1條命",
-     "link": "https://news.ebc.net.tw/news/society/561273",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-15T11:26:09.084988+08:00",
-     "description": "21歲鄭姓女大生13日與好友前往新竹露營，卻因暴雨泥流受困護欄滅頂，送醫不治。奮不顧身投入激流救人的小貨車駕駛事後淚崩自責「2條命只救到1條，對不起」。",
-     "category": "society",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "society",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "毋甘！女大生遭水沖走溺斃 姑姑哭到抽搐",
-     "link": "https://news.ebc.net.tw/news/society/561219",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-15T00:45:06.226796+08:00",
-     "description": "新竹21歲鄭姓女大生13日下午因大雨提前返程，因道路泥水暴漲、水流湍急，連人帶車卡在護欄旁。但因水勢過強，女子受困水中超過20分鐘，救起時已無生命徵象。",
-     "category": "society",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "society",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "露營返程傳憾事！21歲女大生跌落排水溝　頭部重創亡",
-     "link": "https://news.tvbs.com.tw/local/3256385",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-14T18:55:02.856537+08:00",
-     "description": "",
-     "category": "local",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "local",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "爸前一天才陪場勘！嘉大女學生取消露營遭暴雨沖倒溺斃　家屬悲痛相驗",
-     "link": "https://www.mirrormedia.mg/story/20260714edi036",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-07-14T18:21:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "女大生「頭卡護欄」慘死！司機救不回　自責道歉：我沒做到最好",
-     "link": "https://news.tvbs.com.tw/local/3257261",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-14T16:20:20+08:00",
-     "description": "",
-     "category": "local",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "local",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "嘉義女大生命喪泥流！露營前一天父親才陪場勘　突然暴雨釀憾事",
-     "link": "https://news.tvbs.com.tw/local/3257227",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-14T15:45:06+08:00",
-     "description": "",
-     "category": "local",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "local",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "女大生露營遭泥水沖走 困護欄20分鐘喪命...初判死因曝",
-     "link": "https://news.ebc.net.tw/news/society/561181",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-14T15:02:05.679540+08:00",
-     "description": "新竹有一名21歲的女大生，趁著巴威遠離，跟3名友人一起上山露營，但是昨天（13）下午的大雨，他們折返下山，卻因為泥水水流湍急，不慎失去重心被沖走，女大生頭部重創",
-     "category": "society",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "society",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "4女大生騎車露營慘死！救援者自責淚崩「2命只救到1條」　還原驚險現場惹哭大票網友",
-     "link": "https://www.mirrormedia.mg/story/20260714edi040",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-07-14T14:08:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "嘉義女大生露營遇暴雨遭泥水沖走「卡護欄喪命」　死因曝",
-     "link": "https://news.tvbs.com.tw/local/3257067",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-14T14:01:20+08:00",
-     "description": "",
-     "category": "local",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "local",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "女大生新竹遭泥水沖倒！頭卡護欄溺亡嘉義大學回應了| 社會",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJMkg3b0p3YTFzTERIeDdjN3pkYWJ4R1A3akd3UUNMVkd0a3FJTVhPTTJGNmhDVU51NnlqdW5EaXFGdjZyZHJ5Y2xYRDY0ZzNJek5CN3VXNXc4YTg?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-14T13:46:25+08:00",
-     "description": "女大生新竹遭泥水沖倒！頭卡護欄溺亡嘉義大學回應了| 社會  Newtalk新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -8981,7 +8970,7 @@
    "tags": [
     "求為毒油道歉",
     "專案報告還",
-    "謝龍介"
+    "卓榮泰"
    ],
    "articles": [
     {
@@ -9201,66 +9190,85 @@
    ]
   },
   {
-   "id": "d6dba60a01a5",
-   "title": "台積電投資美國再擴大　政院：最大產能、最先進技術留台",
+   "id": "7654ad84f8f4",
+   "title": "砸4600億！Uber傳併購「foodpanda母公司」 外送市場變天",
    "outlet_count": 4,
    "outlets": [
-    "cna",
+    "ebc",
     "ettoday",
     "ltn",
-    "setn"
+    "tvbs"
    ],
-   "article_count": 7,
-   "first_seen": "2026-07-16T19:28:00+08:00",
-   "last_updated": "2026-07-16T21:49:02+08:00",
+   "article_count": 5,
+   "first_seen": "2026-07-16T12:43:27+08:00",
+   "last_updated": "2026-07-17T02:43:27.726815+08:00",
    "tags": [
-    "加碼投資美國",
-    "台積電",
-    "行政院"
+    "母公司",
+    "正式收購",
+    "外送"
+   ],
+   "claims": [
+    {
+     "type": "金額",
+     "agree": false,
+     "outlet_count": 2,
+     "values": [
+      {
+       "value": "4765億元",
+       "outlets": [
+        "自由時報"
+       ]
+      },
+      {
+       "value": "4804億元",
+       "outlets": [
+        "東森新聞"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "金額（美元）",
+     "agree": true,
+     "outlet_count": 2,
+     "values": [
+      {
+       "value": "148億美元",
+       "outlets": [
+        "ETtoday",
+        "自由時報"
+       ]
+      }
+     ]
+    }
    ],
    "articles": [
     {
-     "title": "台積電加碼投資美國　谷立言：美台經濟夥伴關係寫照",
-     "link": "https://www.cna.com.tw/news/aipl/202607160403.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-16T21:49:02+08:00",
-     "description": "（中央社記者楊堯茹台北16日電）台積電加碼投資美國1000億美元，美國在台協會處長谷立言今天表示，這項投資充分展現美台對彼此的信任與信心，正是夥伴關係最佳寫照，也將確保台積電與其在美國的主要客戶並肩而立，使其能更迅速地回應全球對先進晶片的需求，並打造具備韌性的供應鏈。",
-     "author": "楊堯茹",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "楊堯茹",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
-     }
-    },
-    {
-     "title": "台積電加碼投資美國1000億美元　AIT：打造支撐美台經濟繁榮關鍵",
-     "link": "https://www.ettoday.net/news/20260716/3202588.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-16T21:28:00+08:00",
-     "description": "台積電、白宮以及美國商務部16日宣布，台積電將追加 1,000 億美元的投資，使其在美國的投資總額達到 2,650 億美元；換言之，該投資將新增四座先進半導體製造廠，使美國在業界領先的半導體與封裝廠總數達到12座。對此，美國在台協會處長谷立言晚間表示，這項投資將確保台積電與其在美國的主要客戶並肩而立，使其能更迅速地回應全球對先進晶片不斷躍升的需求，並打造支撐美台雙方經濟繁榮的關鍵——具備韌性的供應",
+     "title": "Uber正式收購Foodpanda母公司！豪砸4804億元",
+     "link": "https://news.ebc.net.tw/news/world/561544",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-17T02:43:27.726815+08:00",
+     "description": "德國外送平台Delivery Hero（Foodpanda母公司）於14日表示，公司正與Uber Technologies就潛在收購案進行深入談判。",
+     "category": "world",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+      "acquisition": "scraper",
+      "category": "world",
+      "feed_url": "https://news.ebc.net.tw/realtime"
      }
     },
     {
-     "title": "台積電加碼投資美國千億美元 林佳龍：是台美共創AI盛世最佳時機",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5507970",
+     "title": "Uber啟動全球整併　擬斥4千億收購foodpanda母公司",
+     "link": "https://ec.ltn.com.tw/article/breakingnews/5508104",
      "source": "ltn",
      "source_name": "自由時報",
-     "published": "2026-07-16T20:47:04+08:00",
-     "description": "外交部長林佳龍今（16）日在「投資美國新趨勢，布局東進大商機」論壇，就台美經濟合作與AI發展發表專題演講。針對台積電宣布再投資美國1000億美元、累計投資金額達2650億美元，...…",
+     "published": "2026-07-17T01:30:06+08:00",
+     "description": "Uber今天同意以148億美元（約新台幣4765億元）股權價值，收購foodpanda母公司Delivery Hero，將打造中國以外最大的外送集團，並抵禦美國與歐洲外送業者間日益激烈的競爭...…",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -9272,12 +9280,31 @@
      }
     },
     {
-     "title": "台積電擴大在美投資千億美元　行政院：確保三個優先",
-     "link": "https://www.ettoday.net/news/20260716/3202567.htm",
+     "title": "外送平台新變局！Uber豪砸4800億　正式收購foodpanda母公司",
+     "link": "https://news.tvbs.com.tw/world/3259825",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-16T23:43:27+08:00",
+     "description": "",
+     "category": "world",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "world",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "Uber正式收購Foodpanda母公司",
+     "link": "https://www.ettoday.net/news/20260716/3202607.htm",
      "source": "ettoday",
      "source_name": "ETtoday",
-     "published": "2026-07-16T19:54:00+08:00",
-     "description": "台積電今（16日）宣布擴大對美投資，行政院發言人李慧芝表示，這是我國企業因應全球市場需求、人工智慧（AI）高速擴張及供應鏈區域化趨勢，所進行的自主投資規劃；有鑑於AI快速成長趨勢，以及美國是全球最大市場，政府尊重企業依國際市場需求擴大投資，強化台灣產業戰略地位。在此同時，台積電也正在持續擴大投資台灣，政府將全力協助台積電在台擴廠，並持續落實「確保三個優先、維持台灣領先」政策方向。 《詳全文...》",
+     "published": "2026-07-16T23:02:00+08:00",
+     "description": "根據路透社報導，叫車與外送平台Uber與foodpanda母公司Delivery Hero16日共同宣布，雙方已簽署企業合併協議。Uber將以每股41.5歐元收購Delivery Hero，對該公司完全稀釋後的股權估值約130億歐元（約新台幣4800億元、約148億美元）。 《詳全文...》",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -9289,55 +9316,22 @@
      }
     },
     {
-     "title": "台積電加碼投資美國1000億美元　行政院回應：將確保台灣3個優先",
-     "link": "https://www.ettoday.net/news/20260716/3202564.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-16T19:49:00+08:00",
-     "description": "針對台積電宣布擴大對美投資，行政院發言人李慧芝表示，這是我國企業因應全球市場需求、人工智慧（AI）高速擴張及供應鏈區域化趨勢所進行的自主投資規劃；近年來台積電基於市場需求，逐步擴大在美、日、歐等國的國際布局，有鑑於AI快速成長趨勢，以及美國是全球最大市場，政府尊重企業依國際市場需求擴大投資美國，藉以強化台灣產業戰略地位。在此同時，台積電也正在持續擴大投資台灣，政府將全力協助台積電在台擴廠，並持續落",
+     "title": "砸4600億！Uber傳併購「foodpanda母公司」 外送市場變天",
+     "link": "https://news.tvbs.com.tw/world/3259044",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-16T12:43:27+08:00",
+     "description": "",
+     "category": "world",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "台積電投資美國再擴大　政院：最大產能、最先進技術留台",
-     "link": "https://www.cna.com.tw/news/aipl/202607160354.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-16T19:38:15+08:00",
-     "description": "（中央社記者賴于榛台北16日電）台積電今天宣布加碼投資美國1000億美元，估增建4座晶圓廠。行政院表示，政府尊重企業依國際市場需求擴大投資美國，藉以強化台灣產業戰略地位，同時也會持續落實確保最大製造產能在台灣、最先進技術留在台灣，以及優先維護最完整的台灣科技產業生態系。",
-     "author": "賴于榛",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "賴于榛",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
-     }
-    },
-    {
-     "title": "台積電宣布擴大對美投資　行政院提3個優先：確保最先進技術留在台灣",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5GejJvTFBLVXJUQUFHdF9lckFZWFY1ZXVvZllWbURhWjV0NzRqMVhleFRYdy1wR0sxb2FrNnE1all6UGhSS3hmbtIBTEFVX3lxTE1RVHhUQURONWdyeDVwVkNIR0pzTEdONTZDaHBYbzduV0lWbjdzZDJxVkR1WEh0ZjliZUhnVW9qU2x4QUlhT1RFd1gyWTU?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-07-16T19:28:00+08:00",
-     "description": "台積電宣布擴大對美投資　行政院提3個優先：確保最先進技術留在台灣  三立新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "acquisition": "scraper",
+      "category": "world",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
      }
     }
    ]
@@ -9703,116 +9697,6 @@
    ]
   },
   {
-   "id": "34fe1de11d2e",
-   "title": "侏羅紀公園「葛蘭博士」山姆尼爾驟逝享壽78歲 4月才宣布抗癌成功| 娛樂",
-   "outlet_count": 4,
-   "outlets": [
-    "ltn",
-    "mirror",
-    "newtalk",
-    "tvbs"
-   ],
-   "article_count": 5,
-   "first_seen": "2026-07-14T01:01:34+08:00",
-   "last_updated": "2026-07-16T16:41:06+08:00",
-   "tags": [
-    "侏羅紀公園",
-    "山姆尼爾",
-    "證實死於肺炎"
-   ],
-   "articles": [
-    {
-     "title": "《侏羅紀公園》男星山姆尼爾驟世 經紀人證實死於肺炎",
-     "link": "https://ent.ltn.com.tw/news/breakingnews/5507517",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-16T16:41:06+08:00",
-     "description": "曾在《侏羅紀公園》（Jurassic Park）系列飾演「艾倫葛蘭博士」的傳奇男星山姆尼爾（Sam Neil），家屬13日透過社群媒體透露，他已於澳洲雪梨安詳離世，享壽78...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "《侏羅紀公園》山姆尼爾78歲辭世「確切死因曝光」！　經紀人證實：不是癌症",
-     "link": "https://www.mirrormedia.mg/story/20260716edi043",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-07-16T16:13:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "才抗癌成功！《侏羅紀公園》男星驟逝　真正死因曝光",
-     "link": "https://news.tvbs.com.tw/entertainment/3259313",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-16T15:47:08+08:00",
-     "description": "",
-     "category": "entertainment",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "entertainment",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "《侏羅紀公園》山姆尼爾證實死於肺炎！　前女友悲痛發聲：太難再撐過去了",
-     "link": "https://news.tvbs.com.tw/entertainment/3259329",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-16T15:47:08+08:00",
-     "description": "",
-     "category": "entertainment",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "entertainment",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "侏羅紀公園「葛蘭博士」山姆尼爾驟逝享壽78歲 4月才宣布抗癌成功| 娛樂",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vUDlZUEpUQVh1aXVlbUJUMFZVTS11MG9UWkRWREdqd2Ftcm5yVFBmX1JXUkQxbzZCU1Faa3k4UUJQdm1QWFM5ZzQzVVFacDRZTHR5bnhMV2NDRHM?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-14T01:01:34+08:00",
-     "description": "侏羅紀公園「葛蘭博士」山姆尼爾驟逝享壽78歲 4月才宣布抗癌成功| 娛樂  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
    "id": "39dd42e22a8f",
    "title": "韓國「少年股神」崩潰了！聽信財經網紅慘賠　持刀攻擊報復",
    "outlet_count": 4,
@@ -9827,8 +9711,8 @@
    "last_updated": "2026-07-16T16:19:50+08:00",
    "tags": [
     "財經網紅",
-    "慘賠",
-    "持刀"
+    "持刀",
+    "慘賠"
    ],
    "articles": [
     {
@@ -10124,6 +10008,211 @@
    ]
   },
   {
+   "id": "251fa16e3a15",
+   "title": "女大生騎車露營遭泥水沖倒亡　民眾搶救「水流太急」：真的很絕望",
+   "outlet_count": 4,
+   "outlets": [
+    "ebc",
+    "mirror",
+    "newtalk",
+    "tvbs"
+   ],
+   "article_count": 13,
+   "first_seen": "2026-07-14T08:41:15+08:00",
+   "last_updated": "2026-07-15T00:45:06.226796+08:00",
+   "tags": [
+    "女大生",
+    "遭泥水沖",
+    "露營"
+   ],
+   "articles": [
+    {
+     "title": "毋甘！女大生遭水沖走溺斃 姑姑哭到抽搐",
+     "link": "https://news.ebc.net.tw/news/society/561219",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-15T00:45:06.226796+08:00",
+     "description": "新竹21歲鄭姓女大生13日下午因大雨提前返程，因道路泥水暴漲、水流湍急，連人帶車卡在護欄旁。但因水勢過強，女子受困水中超過20分鐘，救起時已無生命徵象。",
+     "category": "society",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "society",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "露營返程傳憾事！21歲女大生跌落排水溝　頭部重創亡",
+     "link": "https://news.tvbs.com.tw/local/3256385",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-14T18:55:02.856537+08:00",
+     "description": "",
+     "category": "local",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "local",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "爸前一天才陪場勘！嘉大女學生取消露營遭暴雨沖倒溺斃　家屬悲痛相驗",
+     "link": "https://www.mirrormedia.mg/story/20260714edi036",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-07-14T18:21:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "女大生「頭卡護欄」慘死！司機救不回　自責道歉：我沒做到最好",
+     "link": "https://news.tvbs.com.tw/local/3257261",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-14T16:20:20+08:00",
+     "description": "",
+     "category": "local",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "local",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "嘉義女大生命喪泥流！露營前一天父親才陪場勘　突然暴雨釀憾事",
+     "link": "https://news.tvbs.com.tw/local/3257227",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-14T15:45:06+08:00",
+     "description": "",
+     "category": "local",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "local",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "女大生露營遭泥水沖走 困護欄20分鐘喪命...初判死因曝",
+     "link": "https://news.ebc.net.tw/news/society/561181",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-14T15:02:05.679540+08:00",
+     "description": "新竹有一名21歲的女大生，趁著巴威遠離，跟3名友人一起上山露營，但是昨天（13）下午的大雨，他們折返下山，卻因為泥水水流湍急，不慎失去重心被沖走，女大生頭部重創",
+     "category": "society",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "society",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "嘉義女大生露營遇暴雨遭泥水沖走「卡護欄喪命」　死因曝",
+     "link": "https://news.tvbs.com.tw/local/3257067",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-14T14:01:20+08:00",
+     "description": "",
+     "category": "local",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "local",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "女大生新竹遭泥水沖倒！頭卡護欄溺亡嘉義大學回應了| 社會",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJMkg3b0p3YTFzTERIeDdjN3pkYWJ4R1A3akd3UUNMVkd0a3FJTVhPTTJGNmhDVU51NnlqdW5EaXFGdjZyZHJ5Y2xYRDY0ZzNJek5CN3VXNXc4YTg?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-14T13:46:25+08:00",
+     "description": "女大生新竹遭泥水沖倒！頭卡護欄溺亡嘉義大學回應了| 社會  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "女大生遭山洪沖走「頭部重創」身亡 校方悲痛發聲",
+     "link": "https://news.ebc.net.tw/news/society/561144",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-14T13:14:34.036897+08:00",
+     "description": "新竹縣竹東鎮山區昨（13日）山洪悲劇，一名就讀嘉義大學的21歲鄭姓女大生在竹122線時遭遇暴漲泥流，連人帶車被沖倒，頭部還遭機車與路邊防護欄卡住長達20分鐘，被",
+     "category": "society",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "society",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "4女大生騎車露營「21歲女頭卡護欄亡」　嘉義大學認了在校生：未經證實資訊不評論",
+     "link": "https://www.mirrormedia.mg/story/20260714edi039",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-07-14T13:06:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    }
+   ]
+  },
+  {
    "id": "8655fb7b6574",
    "title": "鼎泰豐禮盒用到致癌油！牛肉麵紅油炒手7名單、8/7前退款方式速看",
    "outlet_count": 4,
@@ -10137,8 +10226,8 @@
    "first_seen": "2026-07-14T09:11:43+08:00",
    "last_updated": "2026-07-14T12:07:00+08:00",
    "tags": [
-    "鼎泰豐",
     "致癌油",
+    "鼎泰豐",
     "禮盒"
    ],
    "articles": [
