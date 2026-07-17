@@ -1,48 +1,63 @@
 {
  "date": "2026-07-18",
- "generated_at": "2026-07-18T00:42:45.585130+08:00",
+ "generated_at": "2026-07-18T02:39:38.067348+08:00",
  "events": [
   {
-   "id": "cd5e1eb9d164",
-   "title": "台積電加碼投資  亞利桑那州長：促成變革性時刻",
+   "id": "97643e3176c0",
+   "title": "台股迎黑色星期五 盤中血洗跌逾2100點",
    "outlet_count": 12,
    "outlets": [
     "chinatimes",
-    "cna",
     "ebc",
     "ettoday",
     "ltn",
     "mirror",
     "newtalk",
     "nownews",
+    "pts",
     "setn",
     "storm",
     "tvbs",
     "udn"
    ],
-   "article_count": 58,
-   "first_seen": "2026-07-16T14:21:46+08:00",
-   "last_updated": "2026-07-17T22:55:26+08:00",
+   "article_count": 83,
+   "first_seen": "2026-07-15T09:03:00+08:00",
+   "last_updated": "2026-07-18T00:42:37+08:00",
    "tags": [
-    "台積電"
+    "台積電",
+    "台股"
    ],
    "claims": [
     {
-     "type": "金額（美元）",
+     "type": "金額",
      "agree": false,
-     "outlet_count": 3,
+     "outlet_count": 7,
      "values": [
       {
-       "value": "640億美元",
+       "value": "4萬元",
        "outlets": [
+        "TVBS",
         "今日新聞",
+        "公視新聞"
+       ]
+      },
+      {
+       "value": "431億元",
+       "outlets": [
+        "聯合新聞網",
+        "風傳媒"
+       ]
+      },
+      {
+       "value": "201億元",
+       "outlets": [
         "新頭殼"
        ]
       },
       {
-       "value": "1000億美元",
+       "value": "1890億元",
        "outlets": [
-        "中央社"
+        "自由時報"
        ]
       }
      ]
@@ -50,12 +65,12 @@
    ],
    "articles": [
     {
-     "title": "台積電法說利多失靈引爆賣壓　分析師曝「這天」恐迎黃金買點",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQNElPWS1DUjNWa1ZsVmktVzBFQmt6aVBvYXJxeHMwNTVjMDA4eXUxSkxsY0c4RlJqUFhXaEtPanNNdS1fRHRvOXZEOFliWWktMHfSAVJBVV95cUxQUDRJT1ktQ1IzVmtWbFZpLVcwRUJremlQb2FycXhzMDU1YzAwOHl1MUpMbGNHOEZSalBYV2hLT2pzTXUtX0R0bzl2RDhZYllpLTB3?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-07-17T22:55:26+08:00",
-     "description": "台積電法說利多失靈引爆賣壓　分析師曝「這天」恐迎黃金買點  NOWnews今日新聞",
+     "title": "台指期夜盤一度漲800點",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zT283NEJSY21PdDFxTXNvT0JQeURfcFhKTzRXdEZYMHZmM0JMaVQyQkhhTndmWXl4UVE3Y3NNTFNSOTk0bVZ4T1RRRWFsY09XdzJJeUkwTGdRTk3SAWBBVV95cUxQMVp6eE5JbC1VUmdLMWpUWk80NHJPcHA3bnk5dmx6WkszdllUYTJuZi1SdG9CRFBVeHBnamp5M1NmRzFucFU4SXlkRjh5TW9qYjU1Qm1OTEtWTVJFYUstbUc?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-07-18T00:42:37+08:00",
+     "description": "台指期夜盤一度漲800點  經濟日報",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -63,7 +78,24 @@
        "source": "unknown"
       },
       "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "台股崩跌是台積電害的？阮慕驊分析法說會弦外之音：這間公司非常有道德 | 黃振剛 | 新聞",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE51bU5JQ1VScXQ5dUhFeDhDRGRLTlVnMGtzSnZ4bTd6LWxZMm1MRnZPcVpkWFdMbU9yeUlEQjZ0VXpEWmY5R3FfVGQwR2VYZw?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-07-17T23:41:05+08:00",
+     "description": "台股崩跌是台積電害的？阮慕驊分析法說會弦外之音：這間公司非常有道德 | 黃振剛 | 新聞  Storm.mg",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
@@ -103,6 +135,23 @@
      }
     },
     {
+     "title": "祭股市穩定措施？金管會：台股反映國際情勢  密切注意市場變化",
+     "link": "https://ec.ltn.com.tw/article/breakingnews/5509125",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-17T21:44:38+08:00",
+     "description": "台股今天（17日）開低走低，終場收在42671.27點，加權指數重挫2953.71點，創下台股史上跌點最高紀錄，外資更是殺紅眼、單日賣超1890 億元破紀錄。對此，金管會...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
      "title": "多空交戰 台指期夜盤率先反彈、高低震盪逾800點",
      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByXzhoMWtDZUtyWkpSUkc1WFU3OThrWWUtOEtkNEd0YWpMbWNUVGsyaU1xY25XemIyaHNpdWo5NlQwbzlWZWx6cHZZZE1UcG13WUxTX0I5NzNxUWPSAWBBVV95cUxOM25lSUNYX19DLWZYbi1nRlRqUHl4Y1hoOXZ3Xzd4WWhROUJFUkRQX2hyY08yS1lkM0ZReU1zZjM2QzFKYm01Q0J2UjdDUjZaRF9kZnJsZFUtTzRXQ1VrYXQ?oc=5",
      "source": "udn",
@@ -120,12 +169,12 @@
      }
     },
     {
-     "title": "不妙？台積電ADR盤前大暴跌逾5％  台指期夜盤紅翻黑",
-     "link": "https://ec.ltn.com.tw/article/breakingnews/5508824",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-17T16:51:59+08:00",
-     "description": "〔財經頻道／綜合報導〕台積電16日法說會釋出的毛利率展望低於市場預期，同時上調資本支出，市場擔憂未來的自由現金流，17日開盤股價跳水，終場重挫7.29%，17日ADR盤前持續狂瀉逾5%，拖累台指...…",
+     "title": "台股重挫2953點 創單日最大跌點",
+     "link": "https://news.pts.org.tw/article/818200",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-07-17T20:56:05+08:00",
+     "description": "美股四大指數週四收黑，費半指數重挫4.29%。雖然昨（16）日台積電法說會交出亮眼財報，但並沒有帶旺股價，今（17）日台積電股價收在2290元，大跌180元。台股迎來史上最大股災，終場收在42671點，跳空重挫2953點，創下單日最大跌點。至於新台幣兌美元匯率，同樣走勢疲弱，收在32.288元，貶3.9分，股匯雙殺。",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -133,55 +182,17 @@
        "source": "unknown"
       },
       "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
      }
     },
     {
-     "title": "法說會變「法會」？ 台積電股價暴跌110元 不敗教主曝：利空反成長線機會",
-     "link": "https://news.ebc.net.tw/news/business/561637",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-17T13:22:50.916018+08:00",
-     "description": "晶圓代工龍頭台積電（2330）16日舉行法說會，雖然公布亮眼財報並上修全年營收展望，但因毛利率預估低於市場期待，加上宣布追加投資美國1000億美元，引發市場對未",
-     "category": "business",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "business",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "台股重挫2600點 達人曝「未必壞消息」：能買到便宜台積電",
-     "link": "https://news.ebc.net.tw/news/business/561644",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-17T13:22:50.916018+08:00",
-     "description": "台積電在法說會公布財報及財測，營收、EPS不只全面優於市場預期，更刷新歷史同期新高，但台積電ADR盤前一度大跌約5%，今（17）日盤中更是慘跌140元，來到23",
-     "category": "business",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "business",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "台積電美廠再砸千億美元！擬增4座設施　動工關鍵曝",
-     "link": "https://news.tvbs.com.tw/world/3260150",
+     "title": "台股重挫史上最大跌點！跌幅6.47%亞洲最慘　金管會回應了",
+     "link": "https://news.tvbs.com.tw/money/3260642",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-17T12:32:50+08:00",
+     "published": "2026-07-17T20:53:19+08:00",
      "description": "",
-     "category": "world",
+     "category": "money",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -189,46 +200,42 @@
        "source": "unknown"
       },
       "acquisition": "scraper",
-      "category": "world",
+      "category": "money",
       "feed_url": "https://news.tvbs.com.tw/realtime"
      }
     },
     {
-     "title": "台積電加碼！亞利桑那州長讚「改變遊戲規則」鳳凰城坐穩科技心臟",
-     "link": "https://news.tvbs.com.tw/world/3260089",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-17T12:22:50+08:00",
-     "description": "",
-     "category": "world",
+     "title": "台股單日狂殺2953點　「亞股表現最弱」金管會：反映國際情勢",
+     "link": "https://finance.ettoday.net/news/3203197",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-17T20:31:00+08:00",
+     "description": "受到國際情勢影響，台股17日開低走低，終場重挫2953.71點、跌幅6.47%，收在42671.27點，寫下史上最大單日跌點紀錄。外界關注主管機關是否祭出穩定措施，金管會表示，台股主要反映國際情勢，將持續關注市場波動，並請證交所及櫃買中心密切掌握國際金融市場變化。 《詳全文...》",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "scraper",
-      "category": "world",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
      }
     },
     {
-     "title": "台積電2650億投資美國　WSJ：兼具商業與政治目的",
-     "link": "https://news.tvbs.com.tw/world/3260091",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-17T12:22:50+08:00",
-     "description": "",
-     "category": "world",
+     "title": "台股崩跌2953點史上最大！金管會喊話了　將密切關注國際市場變化",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1JczI5Y3JTQ1VvcWtqWGxObUE0a01rMDBycmg2aVZQVXdJejktR3Z5bVdNOUFnSzU4RWhNUHdhT2M3Z1p3WHFva3hLV090a283eWfSAVJBVV95cUxNSXMyOWNyU0NVb3FralhsTm1BNGtNazAwcnJoNmlWUFV3SXo5LUd2eW1XTTlBZ0s1OEVoTVB3YU9jN2dad1hxb2t4S1dPdGtvN3ln?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-07-17T20:14:35+08:00",
+     "description": "台股崩跌2953點史上最大！金管會喊話了　將密切關注國際市場變化  NOWnews今日新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "scraper",
-      "category": "world",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -372,7 +379,7 @@
      "link": "https://news.tvbs.com.tw/sports/3260414",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-17T16:41:19+08:00",
+     "published": "2026-07-17T16:39:38+08:00",
      "description": "",
      "category": "sports",
      "metadata": {
@@ -459,209 +466,6 @@
    ]
   },
   {
-   "id": "97643e3176c0",
-   "title": "台股迎黑色星期五 盤中血洗跌逾2100點",
-   "outlet_count": 11,
-   "outlets": [
-    "chinatimes",
-    "ebc",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "newtalk",
-    "nownews",
-    "pts",
-    "storm",
-    "tvbs",
-    "udn"
-   ],
-   "article_count": 72,
-   "first_seen": "2026-07-15T09:03:00+08:00",
-   "last_updated": "2026-07-17T21:44:38+08:00",
-   "tags": [
-    "台積電",
-    "台股"
-   ],
-   "articles": [
-    {
-     "title": "祭股市穩定措施？金管會：台股反映國際情勢  密切注意市場變化",
-     "link": "https://ec.ltn.com.tw/article/breakingnews/5509125",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-17T21:44:38+08:00",
-     "description": "台股今天（17日）開低走低，終場收在42671.27點，加權指數重挫2953.71點，創下台股史上跌點最高紀錄，外資更是殺紅眼、單日賣超1890 億元破紀錄。對此，金管會...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "台股史詩崩盤！外資狂砍1890億元破紀錄",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZNGZURXd4NXJUZTYwc3BJZ0hmMTVDalRranB4VXVqREZ2c1VUbFJJYTNFbEFlZWVvRVFUei1GckEzbUlDeWVCbzE0VDY1cWFDWUHSAVJBVV95cUxNWTRmVEV3eDVyVGU2MHNwSWdIZjE1Q2pUa2pweFV1akRGdnNVVGxSSWEzRWxBZWVlb0VRVHotRnJBM21JQ3llQm8xNFQ2NXFhQ1lB?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-07-17T20:56:10+08:00",
-     "description": "台股史詩崩盤！外資狂砍1890億元破紀錄  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "台股重挫2953點 創單日最大跌點",
-     "link": "https://news.pts.org.tw/article/818200",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-07-17T20:56:05+08:00",
-     "description": "美股四大指數週四收黑，費半指數重挫4.29%。雖然昨（16）日台積電法說會交出亮眼財報，但並沒有帶旺股價，今（17）日台積電股價收在2290元，大跌180元。台股迎來史上最大股災，終場收在42671點，跳空重挫2953點，創下單日最大跌點。至於新台幣兌美元匯率，同樣走勢疲弱，收在32.288元，貶3.9分，股匯雙殺。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "台股重挫史上最大跌點！跌幅6.47%亞洲最慘　金管會回應了",
-     "link": "https://news.tvbs.com.tw/money/3260642",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-17T20:53:19+08:00",
-     "description": "",
-     "category": "money",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "money",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "台股單日狂殺2953點　「亞股表現最弱」金管會：反映國際情勢",
-     "link": "https://finance.ettoday.net/news/3203197",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-17T20:31:00+08:00",
-     "description": "受到國際情勢影響，台股17日開低走低，終場重挫2953.71點、跌幅6.47%，收在42671.27點，寫下史上最大單日跌點紀錄。外界關注主管機關是否祭出穩定措施，金管會表示，台股主要反映國際情勢，將持續關注市場波動，並請證交所及櫃買中心密切掌握國際金融市場變化。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "台股崩跌2953點史上最大！金管會喊話了　將密切關注國際市場變化",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1JczI5Y3JTQ1VvcWtqWGxObUE0a01rMDBycmg2aVZQVXdJejktR3Z5bVdNOUFnSzU4RWhNUHdhT2M3Z1p3WHFva3hLV090a283eWfSAVJBVV95cUxNSXMyOWNyU0NVb3FralhsTm1BNGtNazAwcnJoNmlWUFV3SXo5LUd2eW1XTTlBZ0s1OEVoTVB3YU9jN2dad1hxb2t4S1dPdGtvN3ln?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-07-17T20:14:35+08:00",
-     "description": "台股崩跌2953點史上最大！金管會喊話了　將密切關注國際市場變化  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "台股跌2953點、台積電重挫180元　不敗教主自曝8位數飛了",
-     "link": "https://www.mirrormedia.mg/story/20260717edi043",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-07-17T17:57:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "外資暴砍1890億元！賣超前10大一文看　台積電調節4.4萬張",
-     "link": "https://finance.ettoday.net/news/3203129",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-17T17:44:00+08:00",
-     "description": "今（17）日台股上演「黑色星期五」，受到費半重挫拖累，指數大跌2953點，創下史上最大跌點，外資狠砍1890億元，也是單日最大賣超金額，賣超第一大個股力積電（6770）調節11.5萬張，昨（16）日召開完法說台積電（2330）同樣遭到調節4.4萬張，居單日賣超第四大個股。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "土洋大戰！外資狂砍台積電、聯電　國家隊反手買「這檔」4.6萬張",
-     "link": "https://news.tvbs.com.tw/money/3260448",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-17T17:42:45+08:00",
-     "description": "",
-     "category": "money",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "money",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "外資大逃殺！狂砍台積電1039億元　倒貨「這檔ETF」46萬張",
-     "link": "https://news.tvbs.com.tw/money/3260484",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-17T17:42:45+08:00",
-     "description": "",
-     "category": "money",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "money",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    }
-   ]
-  },
-  {
    "id": "c1cd6fb7c748",
    "title": "大學教授持藍波刀殺死連襟　目擊者：進教室就砍人",
    "outlet_count": 11,
@@ -678,12 +482,12 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 50,
+   "article_count": 64,
    "first_seen": "2026-07-15T05:30:00+08:00",
-   "last_updated": "2026-07-17T18:56:51.492987+08:00",
+   "last_updated": "2026-07-17T20:39:38+08:00",
    "tags": [
-    "音樂教室",
     "交大教授",
+    "音樂教室",
     "連襟"
    ],
    "claims": [
@@ -704,6 +508,25 @@
     }
    ],
    "articles": [
+    {
+     "title": "陽交大教授亂刀砍死妹夫！友人曝他生前「熱心公益」不忍遭抹黑",
+     "link": "https://news.tvbs.com.tw/local/3260692",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-17T20:39:38+08:00",
+     "description": "",
+     "category": "local",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "local",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
     {
      "title": "負責人遭陽交大教授砍死 遺孀悲發3聲明：從未想爭產",
      "link": "https://news.ebc.net.tw/news/society/561721",
@@ -859,23 +682,6 @@
       },
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "教授砍死連襟入獄可讓妻分1/3家產？新竹檢警回應了",
-     "link": "https://news.ltn.com.tw/news/society/breakingnews/5508049",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-16T22:18:26+08:00",
-     "description": "新竹市學霸教授砍殺連襟為爭音樂教室房產震驚社會，網路近日瘋傳各種陰謀論貼文與分析提到，陽明交大林姓教授會砍殺紀姓連襟，是因妻子遭排除家族事業、加上家族房產股權異動犯案，甚至推論...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
      }
     }
    ]
@@ -1060,6 +866,23 @@
      }
     },
     {
+     "title": "青安3.0 8月1日上路 中高齡吃不到",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaMWljMzdQOF9vcVQzYnFaNk05VnlhRGQ2VFhFUEJ0b2RCb1JYd1FueWJqU1hsNlZnNGx0RW9BYTlOTzBaUGxUU3ludmltWEpTem82bGFiejFRcnAxQjFaSGNJZG1sWjBDaGlZ?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-07-17T04:10:00+08:00",
+     "description": "青安3.0 8月1日上路 中高齡吃不到  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
      "title": "建商卻步北台灣8月推案跳水- 產業特刊- 工商時報",
      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1iYzFTZkJSNUc3NDNIOXR3U2ZYc0x1YTJET2QwTC1EaUs4R3Izd2VubFoyeHhvRXhVSVo2TV9SWmprU01aV2t3a3FIRUJpLU9kNnRkT3FXei1uNXQ2RVhURGdLM1FTYXRvejdv?oc=5",
      "source": "chinatimes",
@@ -1075,14 +898,77 @@
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
+    }
+   ]
+  },
+  {
+   "id": "cd5e1eb9d164",
+   "title": "台積電加碼投資  亞利桑那州長：促成變革性時刻",
+   "outlet_count": 10,
+   "outlets": [
+    "chinatimes",
+    "cna",
+    "ebc",
+    "ettoday",
+    "mirror",
+    "newtalk",
+    "nownews",
+    "storm",
+    "tvbs",
+    "udn"
+   ],
+   "article_count": 38,
+   "first_seen": "2026-07-16T14:21:46+08:00",
+   "last_updated": "2026-07-17T22:55:26+08:00",
+   "tags": [
+    "台積電法說",
+    "魏哲家"
+   ],
+   "claims": [
+    {
+     "type": "金額（美元）",
+     "agree": false,
+     "outlet_count": 4,
+     "values": [
+      {
+       "value": "640億美元",
+       "outlets": [
+        "今日新聞",
+        "新頭殼",
+        "東森新聞"
+       ]
+      },
+      {
+       "value": "1000億美元",
+       "outlets": [
+        "中央社"
+       ]
+      }
+     ]
     },
     {
-     "title": "青安3.0 8月1日上路 中高齡吃不到",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaMWljMzdQOF9vcVQzYnFaNk05VnlhRGQ2VFhFUEJ0b2RCb1JYd1FueWJqU1hsNlZnNGx0RW9BYTlOTzBaUGxUU3ludmltWEpTem82bGFiejFRcnAxQjFaSGNJZG1sWjBDaGlZ?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-07-17T04:10:00+08:00",
-     "description": "青安3.0 8月1日上路 中高齡吃不到  中時新聞網",
+     "type": "金額",
+     "agree": true,
+     "outlet_count": 2,
+     "values": [
+      {
+       "value": "2650億元",
+       "outlets": [
+        "TVBS",
+        "風傳媒"
+       ]
+      }
+     ]
+    }
+   ],
+   "articles": [
+    {
+     "title": "台積電法說利多失靈引爆賣壓　分析師曝「這天」恐迎黃金買點",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQNElPWS1DUjNWa1ZsVmktVzBFQmt6aVBvYXJxeHMwNTVjMDA4eXUxSkxsY0c4RlJqUFhXaEtPanNNdS1fRHRvOXZEOFliWWktMHfSAVJBVV95cUxQUDRJT1ktQ1IzVmtWbFZpLVcwRUJremlQb2FycXhzMDU1YzAwOHl1MUpMbGNHOEZSalBYV2hLT2pzTXUtX0R0bzl2RDhZYllpLTB3?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-07-17T22:55:26+08:00",
+     "description": "台積電法說利多失靈引爆賣壓　分析師曝「這天」恐迎黃金買點  NOWnews今日新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -1090,7 +976,173 @@
        "source": "unknown"
       },
       "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "台積電美廠再砸千億美元！擬增4座設施　動工關鍵曝",
+     "link": "https://news.tvbs.com.tw/world/3260150",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-17T12:32:50+08:00",
+     "description": "",
+     "category": "world",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "world",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "台積電加碼！亞利桑那州長讚「改變遊戲規則」鳳凰城坐穩科技心臟",
+     "link": "https://news.tvbs.com.tw/world/3260089",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-17T12:22:50+08:00",
+     "description": "",
+     "category": "world",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "world",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "台積電2650億投資美國　WSJ：兼具商業與政治目的",
+     "link": "https://news.tvbs.com.tw/world/3260091",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-17T12:22:50+08:00",
+     "description": "",
+     "category": "world",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "world",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "台積電法說會後反跌！財經專家：魏哲家在「憋秘密」",
+     "link": "https://news.ebc.net.tw/news/business/561616",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-17T11:28:34.644726+08:00",
+     "description": "台積電（2330）昨（16）日舉行法說會公布2026年第2季財報，各項指標皆優於先前財測，然而市場反應卻不如預期。財經粉專認為，董事長魏哲家其實在「憋秘密」。",
+     "category": "business",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "business",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "台積電加碼投資  亞利桑那州長：促成變革性時刻",
+     "link": "https://www.cna.com.tw/news/aipl/202607170058.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-17T10:42:41+08:00",
+     "description": "（中央社記者張欣瑜舊金山16日專電）台積電宣布將在亞利桑那州加碼投資1000億美元，估計將再建置4座晶圓廠，以及先進封裝廠。亞利桑那州州長郝愷悌（Katie Hobbs，另譯霍布斯）表示，這為當地帶來重大改變，感謝台積電及所有合作夥伴，共同促成了這個具變革性的時刻。",
+     "author": "張欣瑜",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "張欣瑜",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
+     }
+    },
+    {
+     "title": "台積電赴美加碼千億美元、2奈米以下出海　學者：落實台美協定",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rX0lyUms1YWduRXp3Y0x6RmowMTFrUG5jV2J5Q3R6aG8yTWxSbmNBeTJxV1RMdGNZbDNuM0g3RURaeHU5bEl6QlF1a1EtRmR4dHfSAVJBVV95cUxNa19JclJrNWFnbkV6d2NMekZqMDExa1BuY1dieUN0emhvMk1sUm5jQXkycVdUTHRjWWwzbjNIN0VEWnh1OWxJekJRdWtRLUZkeHR3?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-07-17T10:27:39+08:00",
+     "description": "台積電赴美加碼千億美元、2奈米以下出海　學者：落實台美協定  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "台積電美投資金額達2650億！商務部：創數萬職缺、半導體製造回美",
+     "link": "https://news.tvbs.com.tw/world/3259888",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-17T09:39:38+08:00",
+     "description": "",
+     "category": "world",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "world",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "台積電法說利多失靈？夜盤狂殺千點　達人揭玄機：魏哲家在憋秘密",
+     "link": "https://news.tvbs.com.tw/money/3259892",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-17T08:07:44+08:00",
+     "description": "",
+     "category": "money",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "money",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "全球牛市的希望！台積電Q2獲利再創新高，上修資本支出；魏哲家：需求太強...缺口很大！",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9qaGpqMTMtRWpOb2lXNUk4RUxJeHV5Q0x2c1JGakFBVnpPM0l6TENWenNuWl9MMk8tOVUzVllIXzU5N1JEeHVEc0ZIbHFRUQ?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-07-17T08:00:00+08:00",
+     "description": "全球牛市的希望！台積電Q2獲利再創新高，上修資本支出；魏哲家：需求太強...缺口很大！  Storm.mg",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -1535,7 +1587,7 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 26,
+   "article_count": 27,
    "first_seen": "2026-07-16T22:44:10+08:00",
    "last_updated": "2026-07-17T21:15:20+08:00",
    "tags": [
@@ -1617,7 +1669,7 @@
      "link": "https://news.tvbs.com.tw/politics/3260225",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-17T15:42:45+08:00",
+     "published": "2026-07-17T15:39:38+08:00",
      "description": "",
      "category": "politics",
      "metadata": {
@@ -1688,7 +1740,7 @@
      "source": "setn",
      "source_name": "三立新聞網",
      "published": "2026-07-17T15:05:00+08:00",
-     "description": "發言人失言惹議！民進黨認「用詞欠缺謹慎」：吳崢願深自檢討並致歉  三立新聞",
+     "description": "發言人失言惹議！民進黨認「用詞欠缺謹慎」：吳崢願深自檢討並致歉  三立新聞網SETN.com",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -2026,7 +2078,7 @@
      "link": "https://news.tvbs.com.tw/sports/3260159",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-17T13:42:45+08:00",
+     "published": "2026-07-17T13:39:38+08:00",
      "description": "",
      "category": "sports",
      "metadata": {
@@ -2147,6 +2199,204 @@
    ]
   },
   {
+   "id": "4806b694a08d",
+   "title": "蔣萬安赴議會施政報告　提索資議題與簡舒培互嗆",
+   "outlet_count": 9,
+   "outlets": [
+    "chinatimes",
+    "cna",
+    "ettoday",
+    "ltn",
+    "mirror",
+    "newtalk",
+    "setn",
+    "storm",
+    "tvbs"
+   ],
+   "article_count": 16,
+   "first_seen": "2026-07-16T18:53:31+08:00",
+   "last_updated": "2026-07-17T21:22:00+08:00",
+   "tags": [
+    "蔣萬安",
+    "簡舒培",
+    "索資佛地魔"
+   ],
+   "articles": [
+    {
+     "title": "簡舒培酸蔣萬安台北佀廣洋　北市府籲：向基層同仁道歉",
+     "link": "https://www.ettoday.net/news/20260717/3203214.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-17T21:22:00+08:00",
+     "description": "台北市長蔣萬安16日與民進黨議員簡舒培唇槍舌戰，還嗆簡「索資佛地魔」；簡反擊，蔣取綽號、貼標籤、國民黨議員配合集體攻擊她，這和霸凌文化有什麼不同？批蔣根本就是「台北版佀廣洋」。對此，北市府副發言人葉向媛指出，簡議員昨天沾沾自喜承認自己就是「索資佛地魔」，呼籲簡向受她惡質索資傷害的市府基層同仁道歉。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "蔣萬安酸簡舒培「索資佛地魔」！ 公務員控一天要100萬張紙、1000張光碟- 政治",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UVnlzZ2tYei1pUWtXVnJuSFgzcDhCaVZZcDZlbmF3eHZiQk1iek1DU0tkdmZOdUtEZWdjMDEtWDFOc2hkd3BRY2QwVE00d0N5QzZfWFN5TE12dmtxWnFXcGZfT3lmbWVqXzlBQVh3?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-07-17T21:05:09+08:00",
+     "description": "蔣萬安酸簡舒培「索資佛地魔」！ 公務員控一天要100萬張紙、1000張光碟- 政治  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "索資遭蔣萬安貼「佛地魔」標籤　簡舒培批霸凌：根本台北版佀廣洋",
+     "link": "https://www.mirrormedia.mg/story/20260717edi044",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-07-17T18:29:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "取綽號、貼標籤、保母團護航 簡舒培：蔣萬安是台北版「佀廣洋」",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5508896",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-17T17:58:48+08:00",
+     "description": "首次上稿17:58更新時間21:23（新增北市府回應）\n\n民進黨籍台北市議員簡舒培因為信義區遮陽傘案，16日在議會跟台北市長蔣萬安從預算拆分吵到索資爭議，今（17日）國民黨...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "被蔣萬安嗆「索資佛地魔」　簡舒培轟霸凌：根本是台北版佀廣洋",
+     "link": "https://www.ettoday.net/news/20260717/3203099.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-17T17:22:00+08:00",
+     "description": "台北市長蔣萬安16日與民進黨議員簡舒培唇槍舌戰，更嗆簡「索資佛地魔」，今（17日）國民黨北市議員則聲援市府基層人員，更爆有基層公務員加班到深夜，精神不濟造成車禍。對此，簡舒培反擊，蔣萬安取綽號、貼標籤、國民黨議員配合蔣萬安步調，集體攻擊、抹黑她依法行使議員監督職權，回答不了問題，就攻擊提問的人，這和霸凌文化有什麼不同？蔣萬安根本就是台北版的「佀廣洋」。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "蔣見笑轉生氣？簡舒培遭罵「索資佛地魔」嘆：被霸凌",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5UMFFPa3hnckRMdUcxWHh2TjZEbkxzclVscy03WjBrSlc3NC1lTXozMnctOG40WnFjZmJESU14LVpkLV9FdjN0b9IBTEFVX3lxTFBKMTJlYk52UHhyekVSUDI0MlJ2WDBOekVlSkctbi1tUHFlY0pvQUN6b0ZTU3JBVS1jRWhrNWFHYVRhZ2VQRTU4aWp1ckY?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-07-17T17:20:00+08:00",
+     "description": "蔣見笑轉生氣？簡舒培遭罵「索資佛地魔」嘆：被霸凌  三立新聞網SETN.com",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "天坑淹水又亂放假！綠營亮紅牌抗議　蔣萬安施政報告首日遭杯葛",
+     "link": "https://news.tvbs.com.tw/politics/3259362",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-17T17:02:19.502577+08:00",
+     "description": "",
+     "category": "politics",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "politics",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "蔣萬安嗆簡舒培「索資佛地魔」　沈伯洋批權力傲慢：人民不會接受",
+     "link": "https://www.mirrormedia.mg/story/20260717edi040",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-07-17T13:39:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "蔣萬安、簡舒培互罵停不下來！　戴錫欽爆氣怒吼「可以了」強制喊卡",
+     "link": "https://www.mirrormedia.mg/story/20260717edi039",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-07-17T13:39:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "蔣萬安被問高價遮陽傘反嗆簡舒培「佛地魔」　沈伯洋：人民不會接受",
+     "link": "https://www.ettoday.net/news/20260717/3202733.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-17T10:48:00+08:00",
+     "description": "民進黨台北市議員簡舒培昨（16）日質詢台北市長蔣萬安遮陽傘議題時，質疑經費暴漲，蔣萬安則反批「索資佛地魔」，雙方發生激烈口角。民進黨台北市長參選人沈伯洋表示，議員質詢是權利，蔣萬安以說謊、憤怒的方式回應，市府也不提供真正的文件，相信人民不會接受這種權力的傲慢。\n\n 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    }
+   ]
+  },
+  {
    "id": "d36a6d14f1d8",
    "title": "香港獨立書店遭搜查　總統府：聲援捍衛民主的人",
    "outlet_count": 9,
@@ -2193,7 +2443,7 @@
      "link": "https://news.tvbs.com.tw/world/3260413",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-17T16:42:19+08:00",
+     "published": "2026-07-17T16:39:38+08:00",
      "description": "",
      "category": "world",
      "metadata": {
@@ -2528,90 +2778,12 @@
      }
     },
     {
-     "title": "女戰神坐輪椅見蔣萬安！陳玉珍親曝腳傷勢　證實725會上凱道",
-     "link": "https://news.tvbs.com.tw/politics/3260543",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-17T19:42:45+08:00",
-     "description": "",
-     "category": "politics",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "politics",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    }
-   ]
-  },
-  {
-   "id": "73e108e99221",
-   "title": "蔣萬安赴議會施政報告　提索資議題與簡舒培互嗆",
-   "outlet_count": 8,
-   "outlets": [
-    "cna",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "newtalk",
-    "setn",
-    "storm",
-    "tvbs"
-   ],
-   "article_count": 14,
-   "first_seen": "2026-07-16T19:03:44+08:00",
-   "last_updated": "2026-07-17T21:22:00+08:00",
-   "tags": [
-    "簡舒培",
-    "蔣萬安",
-    "索資佛地魔"
-   ],
-   "articles": [
-    {
-     "title": "簡舒培酸蔣萬安台北佀廣洋　北市府籲：向基層同仁道歉",
-     "link": "https://www.ettoday.net/news/20260717/3203214.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-17T21:22:00+08:00",
-     "description": "台北市長蔣萬安16日與民進黨議員簡舒培唇槍舌戰，還嗆簡「索資佛地魔」；簡反擊，蔣取綽號、貼標籤、國民黨議員配合集體攻擊她，這和霸凌文化有什麼不同？批蔣根本就是「台北版佀廣洋」。對此，北市府副發言人葉向媛指出，簡議員昨天沾沾自喜承認自己就是「索資佛地魔」，呼籲簡向受她惡質索資傷害的市府基層同仁道歉。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "索資遭蔣萬安貼「佛地魔」標籤　簡舒培批霸凌：根本台北版佀廣洋",
-     "link": "https://www.mirrormedia.mg/story/20260717edi044",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-07-17T18:29:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "取綽號、貼標籤、保母團護航 簡舒培：蔣萬安是台北版「佀廣洋」",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5508896",
+     "title": "國民黨725凱道反毒油   尹立：避免燒到藍營共主盧秀燕",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5509046",
      "source": "ltn",
      "source_name": "自由時報",
-     "published": "2026-07-17T17:58:48+08:00",
-     "description": "首次上稿17:58更新時間21:23（新增北市府回應）\n\n民進黨籍台北市議員簡舒培因為信義區遮陽傘案，16日在議會跟台北市長蔣萬安從預算拆分吵到索資爭議，今（17日）國民黨...…",
+     "published": "2026-07-17T19:42:35+08:00",
+     "description": "台北市長蔣萬安今（17日）號召民眾725上街凱道反毒油，民進黨高雄市議員參選人尹立分析，國民黨選擇在台北凱道造勢，而不是去中聯油脂位於台中的工廠門口抗議，背後有非常精密的政治算...…",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -2620,328 +2792,6 @@
       },
       "acquisition": "rss",
       "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "被蔣萬安嗆「索資佛地魔」　簡舒培轟霸凌：根本是台北版佀廣洋",
-     "link": "https://www.ettoday.net/news/20260717/3203099.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-17T17:22:00+08:00",
-     "description": "台北市長蔣萬安16日與民進黨議員簡舒培唇槍舌戰，更嗆簡「索資佛地魔」，今（17日）國民黨北市議員則聲援市府基層人員，更爆有基層公務員加班到深夜，精神不濟造成車禍。對此，簡舒培反擊，蔣萬安取綽號、貼標籤、國民黨議員配合蔣萬安步調，集體攻擊、抹黑她依法行使議員監督職權，回答不了問題，就攻擊提問的人，這和霸凌文化有什麼不同？蔣萬安根本就是台北版的「佀廣洋」。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "蔣見笑轉生氣？簡舒培遭罵「索資佛地魔」嘆：被霸凌",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5UMFFPa3hnckRMdUcxWHh2TjZEbkxzclVscy03WjBrSlc3NC1lTXozMnctOG40WnFjZmJESU14LVpkLV9FdjN0b9IBTEFVX3lxTFBKMTJlYk52UHhyekVSUDI0MlJ2WDBOekVlSkctbi1tUHFlY0pvQUN6b0ZTU3JBVS1jRWhrNWFHYVRhZ2VQRTU4aWp1ckY?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-07-17T17:20:00+08:00",
-     "description": "蔣見笑轉生氣？簡舒培遭罵「索資佛地魔」嘆：被霸凌  三立新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "天坑淹水又亂放假！綠營亮紅牌抗議　蔣萬安施政報告首日遭杯葛",
-     "link": "https://news.tvbs.com.tw/politics/3259362",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-17T17:02:19.502577+08:00",
-     "description": "",
-     "category": "politics",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "politics",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "蔣萬安嗆簡舒培「索資佛地魔」　沈伯洋批權力傲慢：人民不會接受",
-     "link": "https://www.mirrormedia.mg/story/20260717edi040",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-07-17T13:39:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "蔣萬安、簡舒培互罵停不下來！　戴錫欽爆氣怒吼「可以了」強制喊卡",
-     "link": "https://www.mirrormedia.mg/story/20260717edi039",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-07-17T13:39:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "蔣萬安被問高價遮陽傘反嗆簡舒培「佛地魔」　沈伯洋：人民不會接受",
-     "link": "https://www.ettoday.net/news/20260717/3202733.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-17T10:48:00+08:00",
-     "description": "民進黨台北市議員簡舒培昨（16）日質詢台北市長蔣萬安遮陽傘議題時，質疑經費暴漲，蔣萬安則反批「索資佛地魔」，雙方發生激烈口角。民進黨台北市長參選人沈伯洋表示，議員質詢是權利，蔣萬安以說謊、憤怒的方式回應，市府也不提供真正的文件，相信人民不會接受這種權力的傲慢。\n\n 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "蔣萬安嗆簡舒培「索資佛地魔」 沈伯洋轟傲慢：要答案卻「不能說」",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zakRCX2w1UVN5TlNRWVRTam9BS01lVzZhWHBXa3Z0c3o5MTRuVWY5Mk9rSGZQWGR1WXhqZE91TUpUZ2phUnJLRXdfQ0I0N2pOVGROb053V3hpQTA?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-17T10:12:49+08:00",
-     "description": "蔣萬安嗆簡舒培「索資佛地魔」 沈伯洋轟傲慢：要答案卻「不能說」  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
-   "id": "dd2b59e85552",
-   "title": "陽明交大教授涉持刀砍死連襟 校方啟動相關調整機制",
-   "outlet_count": 8,
-   "outlets": [
-    "chinatimes",
-    "ebc",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "newtalk",
-    "pts",
-    "tvbs"
-   ],
-   "article_count": 29,
-   "first_seen": "2026-07-15T00:45:06.226796+08:00",
-   "last_updated": "2026-07-17T21:02:00+08:00",
-   "tags": [
-    "交大教授",
-    "砍死",
-    "連襟"
-   ],
-   "articles": [
-    {
-     "title": "陽明交大教授瘋砍殺死連襟　死者遺孀首發聲：從沒有爭產、未換股東",
-     "link": "https://www.mirrormedia.mg/story/20260717edi068",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-07-17T21:02:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "陽交大教授亂刀砍死妹夫！友人曝他生前「熱心公益」不忍遭抹黑",
-     "link": "https://news.tvbs.com.tw/local/3260692",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-17T20:40:10+08:00",
-     "description": "",
-     "category": "local",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "local",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "新竹教授砍死連襟！死者妻「3點聲明」駁爭產：不實資訊傷害極大",
-     "link": "https://www.ettoday.net/news/20260717/3203183.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-17T18:56:00+08:00",
-     "description": "新竹市東區三民路一處音樂教室14日發生命案，美籍43歲林姓教授持刀殺害48歲紀姓連襟，事件引起社會注目，案件內情也有許多版本的說法出現。對此，紀男的妻子王女出面澄清，案發前音樂教室並無更換負責人、股東，且她與丈夫從未想過爭產，外界、社會上的不實訊息已對他們造成極大傷害，希望別再以訛傳訛。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "陽明交大教授砍死連襟　死者妻駁「爭產」：勿再以訛傳訛",
-     "link": "https://news.tvbs.com.tw/local/3260541",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-17T18:16:51+08:00",
-     "description": "",
-     "category": "local",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "local",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "交大教授失控砍人　精神醫揭高知識份子心靈崩解原因",
-     "link": "https://news.tvbs.com.tw/local/3259948",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-17T09:53:19+08:00",
-     "description": "",
-     "category": "local",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "local",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "新竹學霸教授砍殺紀姓連襟今解剖 數刀集中頸部動脈血管成致命傷",
-     "link": "https://news.ltn.com.tw/news/society/breakingnews/5508034",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-16T21:41:10+08:00",
-     "description": "新竹市三民路知名音樂教室14日發生學霸教授林詩淳持藍波刀砍殺連襟、48歲紀姓店長的重大命案，由於林嫌下手兇慘，紀姓店長身中30刀。檢警今天與法醫解剖遺體。據悉，死者致命刀傷多集...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "學霸教授砍殺連襟鑄大禍 竹科管理協會：教師應納校園心理健康網",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5507611",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-16T19:59:41+08:00",
-     "description": "新竹市發生震驚社會的學霸教授瘋狂砍殺連襟的重大兇殺案件，擁高學經歷的教授竟鑄下大禍，社會菁英份子的心理健康也引發關注。竹科管理協會秘書長李道霖對這起疑似因娘家家產分配導致連襟反...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "陽明交大教授砍死連襟 精神醫分析：光鮮外表下崩解心靈",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MOVFCRUZZWG1BeF9RWnVaVkxFbWg5OWxtNlhpNWMySVYxX0puQWZMRHNJMFprdTJXSWE4eWVSOFVGLVJxV3JYNmctcjZad2FMT3FvTXdHS29WMFByQzktSGlFa0FQN3Y4bWdQTGJR?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-07-16T15:31:03+08:00",
-     "description": "陽明交大教授砍死連襟 精神醫分析：光鮮外表下崩解心靈  中時新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "教授為財砍連襟「傳指導學生全延畢」 陽明交大回應了- 生活",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LYUxPZFRUamFLTWVRNnZtdlVLUXJsbHlMWjZLY0tueXJQX0VwNlVwRkVxNHJwVnZFdnM5MG1xOGMzaXpqaTNGMnk0N0ZWdTVwQWR1ZWZNZWZ0bXRWNTI0TGM1ZDVsVVdJajdlRGlR?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-07-16T15:04:03+08:00",
-     "description": "教授為財砍連襟「傳指導學生全延畢」 陽明交大回應了- 生活  中時新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "陽交大教授涉案「研究生怎辦？」　地獄哏爆了：會客室Meeting",
-     "link": "https://www.ettoday.net/news/20260716/3202219.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-16T13:03:00+08:00",
-     "description": "國立陽明交通大學一名林姓教授日前涉嫌在新竹持刀殺害妹夫，案件引發社會關注。事件曝光後，一名網友聯想到教授指導的研究生，發文表示，「看到那個大學教授在新竹的新聞，第一個直覺，他的研究生應該快發瘋了。」沒想到留言區出現一句「Meeting 在會客室」，獲得超過3000人按讚，意外成為討論焦點。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
      }
     }
    ]
@@ -3340,13 +3190,13 @@
      }
     },
     {
-     "title": "海漂豬染非洲豬瘟！金門豬肉暫停輸台7天　這些業者不受影響",
-     "link": "https://news.tvbs.com.tw/local/3259648",
+     "title": "金門豬屍驗出非洲豬瘟！賴清德急下令：啟動跨部會通報與應變機制",
+     "link": "https://news.tvbs.com.tw/politics/3259641",
      "source": "tvbs",
      "source_name": "TVBS",
      "published": "2026-07-16T19:22:50+08:00",
      "description": "",
-     "category": "local",
+     "category": "politics",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -3354,15 +3204,15 @@
        "source": "unknown"
       },
       "acquisition": "scraper",
-      "category": "local",
+      "category": "politics",
       "feed_url": "https://news.tvbs.com.tw/realtime"
      }
     }
    ]
   },
   {
-   "id": "492192f0d6e7",
-   "title": "聯合防禦操演　憲兵雲豹甲車深夜演練中樞安全防護",
+   "id": "39d73f9c5ef5",
+   "title": "聯合防禦操演　陸軍M110自走砲執行要域火殲",
    "outlet_count": 8,
    "outlets": [
     "chinatimes",
@@ -3374,8 +3224,8 @@
     "storm",
     "tvbs"
    ],
-   "article_count": 16,
-   "first_seen": "2026-07-15T00:55:44+08:00",
+   "article_count": 15,
+   "first_seen": "2026-07-15T04:58:11+08:00",
    "last_updated": "2026-07-17T12:46:41+08:00",
    "tags": [
     "聯合防禦操演"
@@ -3787,7 +3637,7 @@
      "source": "setn",
      "source_name": "三立新聞網",
      "published": "2026-07-17T07:37:36+08:00",
-     "description": "輝達（NVIDIA）總部相關報導  三立新聞",
+     "description": "輝達（NVIDIA）總部相關報導  三立新聞網SETN.com",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -3834,7 +3684,7 @@
     },
     {
      "title": "輝達重新打開中國市場美官員證實：有「極少量」H200晶片已恢復出貨| 財經",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTSm1Yekc5Y0dkZkVMSl9GSGhqNS1kSjJXQkdDbzUxVFJUTnludXVEbkpadWExUzdReW83UnF3T3prZWYta0xSYnJWT19LTHRGQm5aQjhkVjdCSE0?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xQ2k3OC1SLWVYaTZwTVFpSGlOZEtDMTN6UWQxY2Q4SUFpeVdSR0s2RXpvNHF1TS1mRlhYcWVkLTNPNjRvUEFOVm0wQ3c1WGhtcERWazRGVXVZVFE?oc=5",
      "source": "newtalk",
      "source_name": "新頭殼",
      "published": "2026-07-15T09:50:57+08:00",
@@ -3851,7 +3701,7 @@
     },
     {
      "title": "輝達重新打開中國市場美官員證實：有「極少量」H200晶片已恢復出貨| 財經",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xQ2k3OC1SLWVYaTZwTVFpSGlOZEtDMTN6UWQxY2Q4SUFpeVdSR0s2RXpvNHF1TS1mRlhYcWVkLTNPNjRvUEFOVm0wQ3c1WGhtcERWazRGVXVZVFE?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTSm1Yekc5Y0dkZkVMSl9GSGhqNS1kSjJXQkdDbzUxVFJUTnludXVEbkpadWExUzdReW83UnF3T3prZWYta0xSYnJWT19LTHRGQm5aQjhkVjdCSE0?oc=5",
      "source": "newtalk",
      "source_name": "新頭殼",
      "published": "2026-07-15T09:50:57+08:00",
@@ -3951,31 +3801,25 @@
     "nownews",
     "tvbs"
    ],
-   "article_count": 16,
+   "article_count": 18,
    "first_seen": "2026-07-15T22:51:54+08:00",
-   "last_updated": "2026-07-18T00:42:45.585130+08:00",
+   "last_updated": "2026-07-18T01:36:03+08:00",
    "tags": [
     "墨西哥",
-    "地震",
-    "規模"
+    "規模",
+    "地震"
    ],
    "claims": [
     {
      "type": "地震規模",
      "agree": false,
-     "outlet_count": 4,
+     "outlet_count": 3,
      "values": [
       {
        "value": "4.0",
        "outlets": [
         "今日新聞",
         "新頭殼"
-       ]
-      },
-      {
-       "value": "7.4",
-       "outlets": [
-        "中央社"
        ]
       },
       {
@@ -4004,6 +3848,40 @@
     }
    ],
    "articles": [
+    {
+     "title": "墨西哥7.3強震撼動中美洲　太平洋沿岸發布海嘯警戒",
+     "link": "https://news.ltn.com.tw/news/world/breakingnews/5509221",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-18T01:36:03+08:00",
+     "description": "根據美國地質調查所（USGS），墨西哥南部及中美洲部分地區今天發生規模7.3強震，太平洋沿岸地區隨即發布海嘯警報。\n\n法新社記者證實，墨西哥的奇亞帕斯州（Chiapas）與瓦哈卡州（Oaxa...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "墨西哥7.3強震撼動中美洲　太平洋沿岸發布海嘯警戒",
+     "link": "https://www.cna.com.tw/news/aopl/202607180002.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-18T01:25:09+08:00",
+     "description": "（中央社墨西哥圖斯特拉古鐵雷斯17日綜合外電報導）根據美國地質調查所（USGS），墨西哥南部及中美洲部分地區今天發生規模7.3強震，太平洋沿岸地區隨即發布海嘯警報。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
+     }
+    },
     {
      "title": "墨西哥7.3強震！海嘯威脅發布 震源深度僅10公里",
      "link": "https://news.ebc.net.tw/news/world/561765",
@@ -4064,7 +3942,7 @@
      "link": "https://news.tvbs.com.tw/world/3260779",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-17T23:42:45+08:00",
+     "published": "2026-07-17T23:39:38+08:00",
      "description": "",
      "category": "world",
      "metadata": {
@@ -4144,44 +4022,6 @@
       },
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
-     }
-    },
-    {
-     "title": "日本九州清晨5.2地震 多地有感",
-     "link": "https://news.ebc.net.tw/news/world/561586",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-17T08:55:44.590570+08:00",
-     "description": "日本九州大隅半島東方沖今（17日）晨發生芮氏規模5.2地震，深度約40公里，各地最大震度為宮崎縣3級、鹿兒島縣2級。",
-     "category": "world",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "world",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "新／日本一早規模4.4地震 震央在關東！多地有感",
-     "link": "https://news.ebc.net.tw/news/world/561406",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-16T08:52:42.636055+08:00",
-     "description": "日本今（16）日上午9時01分（台灣時間8時01分），千葉縣北東部發生規模4.4的地震，關東部分地區有感，包含茨城縣、千葉縣、栃木縣及東京都。",
-     "category": "world",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "world",
-      "feed_url": "https://news.ebc.net.tw/realtime"
      }
     }
    ]
@@ -4282,7 +4122,7 @@
      "link": "https://news.tvbs.com.tw/politics/3260635",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-17T19:42:45+08:00",
+     "published": "2026-07-17T19:39:38+08:00",
      "description": "",
      "category": "politics",
      "metadata": {
@@ -4301,7 +4141,7 @@
      "link": "https://news.tvbs.com.tw/life/3260427",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-17T19:42:45+08:00",
+     "published": "2026-07-17T19:39:38+08:00",
      "description": "",
      "category": "life",
      "metadata": {
@@ -4382,6 +4222,222 @@
       },
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/rsscna/politics"
+     }
+    }
+   ]
+  },
+  {
+   "id": "c821b2e04789",
+   "title": "外資賣超1,890億元 賣超這檔主動 ETF 竟逾46萬張 台積電、聯電同步遭大賣",
+   "outlet_count": 7,
+   "outlets": [
+    "chinatimes",
+    "ettoday",
+    "ltn",
+    "newtalk",
+    "nownews",
+    "tvbs",
+    "udn"
+   ],
+   "article_count": 12,
+   "first_seen": "2026-07-16T17:00:00+08:00",
+   "last_updated": "2026-07-17T20:56:10+08:00",
+   "tags": [
+    "外資",
+    "台積電",
+    "賣超"
+   ],
+   "claims": [
+    {
+     "type": "金額",
+     "agree": true,
+     "outlet_count": 2,
+     "values": [
+      {
+       "value": "1890億元",
+       "outlets": [
+        "ETtoday",
+        "今日新聞"
+       ]
+      }
+     ]
+    }
+   ],
+   "articles": [
+    {
+     "title": "台股史詩崩盤！外資狂砍1890億元破紀錄",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZNGZURXd4NXJUZTYwc3BJZ0hmMTVDalRranB4VXVqREZ2c1VUbFJJYTNFbEFlZWVvRVFUei1GckEzbUlDeWVCbzE0VDY1cWFDWUHSAVJBVV95cUxNWTRmVEV3eDVyVGU2MHNwSWdIZjE1Q2pUa2pweFV1akRGdnNVVGxSSWEzRWxBZWVlb0VRVHotRnJBM21JQ3llQm8xNFQ2NXFhQ1lB?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-07-17T20:56:10+08:00",
+     "description": "台股史詩崩盤！外資狂砍1890億元破紀錄  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "外資暴砍1890億元！賣超前10大一文看　台積電調節4.4萬張",
+     "link": "https://finance.ettoday.net/news/3203129",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-17T17:44:00+08:00",
+     "description": "今（17）日台股上演「黑色星期五」，受到費半重挫拖累，指數大跌2953點，創下史上最大跌點，外資狠砍1890億元，也是單日最大賣超金額，賣超第一大個股力積電（6770）調節11.5萬張，昨（16）日召開完法說台積電（2330）同樣遭到調節4.4萬張，居單日賣超第四大個股。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "土洋大戰！外資狂砍台積電、聯電　國家隊反手買「這檔」4.6萬張",
+     "link": "https://news.tvbs.com.tw/money/3260448",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-17T17:39:38+08:00",
+     "description": "",
+     "category": "money",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "money",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "外資大逃殺！狂砍台積電1039億元　倒貨「這檔ETF」46萬張",
+     "link": "https://news.tvbs.com.tw/money/3260484",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-17T17:39:38+08:00",
+     "description": "",
+     "category": "money",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "money",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "外資賣超1890億史上之最！大買玉山金、仁寶 這檔電子敲約6萬張最狂",
+     "link": "https://ec.ltn.com.tw/article/breakingnews/5508843",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-17T16:52:15+08:00",
+     "description": "〔財經頻道／綜合報導〕台股週五（17日）在台積電暴跌180元，指數收跌2953.71點，雙雙創史最慘紀錄，雖然外資瘋狂賣超1890億創史上之最，但卻反手大買群創，一出手就敲近6萬張，在市場賣單沉...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "外資賣超1890億史上最慘！前5大賣超1次看",
+     "link": "https://ec.ltn.com.tw/article/breakingnews/5508789",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-17T16:38:43+08:00",
+     "description": "〔財經頻道／綜合報導〕台股週五在外資賣超1890.39億創史上最慘，台積電也同步重挫180元，指數更暴跌2953點，雙雙創史上最慘紀錄。\n\n\n在台股跌2953點，創下史上最大跌點，收在42671...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "刷新史上紀錄！外資單日賣超台股1,890億、本週累計提款逾3,100億",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SRGFWUjRUVWpQTWFTZTZUQkJtMHlTNl9xNm9MRzFjb1gtN1ZldDktS1J2eGVvMkdnWGVIMDMxWl9mOHN3NnB0U3l2X1pFOUNJTTg1Vm1wYWdadzg?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-17T16:05:56+08:00",
+     "description": "刷新史上紀錄！外資單日賣超台股1,890億、本週累計提款逾3,100億  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "台股血洗2953點最慘　三大法人狂砍2617億元史上最高",
+     "link": "https://news.tvbs.com.tw/money/3260343",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-17T16:02:19+08:00",
+     "description": "",
+     "category": "money",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "money",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "《台北股市》史詩級黑五！外資砍出最大刀1890億元 今年來猛提1.56兆",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UYWFwY3RYSGFYc1B3Q2JFbTR2bVNucGhzeHEtemFrVU9qTlo5SUhoUlNrajV0dkIzMFRxM0Z4eUc3d0ZNY3lFbXlENnUwZUs3T2FWVW1TbjlWeFJrQlV2U2lXa0ZJdVp0dXc?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-07-17T15:52:34+08:00",
+     "description": "《台北股市》史詩級黑五！外資砍出最大刀1890億元 今年來猛提1.56兆  旺得富理財網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "外資狂砍1,890億元、三大法人爆賣2,617億元！台股殺出史上最大跌點 | 市場焦點 | 證券",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TOGNsNGZna0dmeGhmNlNUN3FSaDUzZnJPVEdibTl5UC1tRkdzNDE1QXhJZ2pHQ09pU3FuOE5yS01NMUxKTF9iQXpsajJBZUY1eWdqOXZjTDZwZw?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-07-16T17:00:00+08:00",
+     "description": "外資狂砍1,890億元、三大法人爆賣2,617億元！台股殺出史上最大跌點 | 市場焦點 | 證券  經濟日報",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -4624,7 +4680,7 @@
      "link": "https://news.tvbs.com.tw/tech/3260010",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-17T15:42:45+08:00",
+     "published": "2026-07-17T15:39:38+08:00",
      "description": "",
      "category": "tech",
      "metadata": {
@@ -5397,7 +5453,7 @@
    ]
   },
   {
-   "id": "0b81ac8afa52",
+   "id": "7254379e0db7",
    "title": "中聯油品上架引議　政院：中央地方合作無須政治操作",
    "outlet_count": 7,
    "outlets": [
@@ -5598,6 +5654,152 @@
    ]
   },
   {
+   "id": "8d4089272711",
+   "title": "問題油受波及業者增至1006家 累計回收逾7600公噸",
+   "outlet_count": 6,
+   "outlets": [
+    "ebc",
+    "ettoday",
+    "ltn",
+    "mirror",
+    "pts",
+    "tvbs"
+   ],
+   "article_count": 7,
+   "first_seen": "2026-07-15T16:47:00+08:00",
+   "last_updated": "2026-07-18T01:06:00+08:00",
+   "tags": [
+    "致癌油",
+    "問題油",
+    "中聯"
+   ],
+   "articles": [
+    {
+     "title": "中聯問題油再增2批！台南65家業者受影響　累計回收4212公斤",
+     "link": "https://www.ettoday.net/news/20260718/3203251.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-18T01:06:00+08:00",
+     "description": "中聯大豆沙拉油檢出苯駢芘超標事件持續延燒，食藥署16日再公布新增2批問題油品，批號分別為「313-1150408」及「315-1150413」，累計問題批號增至7批，台南受影響下游業者也擴大至65家，台南市衛生局截至16日已完成39家受影響業者查核，全市累計下架回收問題油品4212公斤，並持續追查油品及再製產品流向。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "中聯致癌油「新增2批超標」流向曝光　晶華、蝦皮、貴族世家都中鏢",
+     "link": "https://www.ettoday.net/news/20260717/3202625.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-17T01:53:00+08:00",
+     "description": "中聯油品「苯駢芘」超標事件持續擴大，台中市食安處16日表示，依食藥署抽驗結果，中聯大豆沙拉油批號313-1150408、315-1150413驗出苯駢芘超標，累計超標批號由5批增至7批。中市府也同步公布第6、7批超標油品全國第二層下游業者名冊，包含晶華、六福酒店、統一、路易莎、金色三麥及蝦皮、酷澎等。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "中聯致癌油最新流向曝光！大買家、一中商圈名店都中鏢",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5506643",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-15T21:54:18+08:00",
+     "description": "中聯油脂苯駢芘（BaP）致癌油事件持續延燒，台中市食品藥物安全處今（15）日首先公布兩批預防性下架批號，相關衍生產品包括福壽、福懋共23項、66個批號，並同步公布更新台中市第三...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "致癌油影響鬍鬚張、瓦城、點點心 下游業者累計1006家",
+     "link": "https://news.ebc.net.tw/news/living/561377",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-15T20:47:22.154521+08:00",
+     "description": "食藥署公布中聯油脂案最新進度，5批苯駢芘超標油品已回收1661.6公噸，影響1006家下游業者；另6020.6公噸油品預防性下架，持續調查污染原因。",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "問題油受波及業者增至1006家 累計回收逾7600公噸",
+     "link": "https://news.pts.org.tw/article/817817",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-07-15T19:48:51+08:00",
+     "description": "中聯油脂事件持續延燒，食藥署今（15）日公布福壽、福懋、泰山的下游業者清單，總計有1006家業者受影響，合計回收逾7600多公噸。外界質疑，政府要求業者大規模預防性下架，恐怕衝擊商家生計，對此衛福部長石崇良今日表示，全面預防性下架目的在於保障食品安全，並不代表所有產品都有安全疑慮，未來食安制度會從強化源頭管理等5大面向精進。衛福部次長林靜儀今日表示，推測黃豆與製程都有問題，但也指出若業者品管得宜仍",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "食藥署公布致癌油最新流向！曝1006家下游業者受害　瓦城、貳樓入列",
+     "link": "https://news.tvbs.com.tw/life/3258374",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-15T17:58:11+08:00",
+     "description": "",
+     "category": "life",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "life",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "中聯問題油已回收1661公噸　食藥署公布下游1006店家完整名單",
+     "link": "https://www.mirrormedia.mg/story/20260715edi044",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-07-15T16:47:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    }
+   ]
+  },
+  {
    "id": "44cfa9f108d9",
    "title": "監院糾正新竹棒球場違失　竹市府：尊重調查結果",
    "outlet_count": 6,
@@ -5736,7 +5938,7 @@
     "setn",
     "tvbs"
    ],
-   "article_count": 10,
+   "article_count": 11,
    "first_seen": "2026-07-16T17:47:55+08:00",
    "last_updated": "2026-07-17T21:31:00+08:00",
    "tags": [
@@ -5840,7 +6042,7 @@
      "source": "setn",
      "source_name": "三立新聞網",
      "published": "2026-07-17T10:18:00+08:00",
-     "description": "蔣萬安「食安會缺席率73%」6死寶林案也沒去　沈伯洋：雙標！被保護太好  三立新聞",
+     "description": "蔣萬安「食安會缺席率73%」6死寶林案也沒去　沈伯洋：雙標！被保護太好  三立新聞網SETN.com",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -5891,7 +6093,7 @@
      "source": "setn",
      "source_name": "三立新聞網",
      "published": "2026-07-17T05:17:00+08:00",
-     "description": "苗博雅爆蔣萬安「食安會缺席11次」 他酸整天嘴中央：哪裡重視食安了？  三立新聞",
+     "description": "苗博雅爆蔣萬安「食安會缺席11次」 他酸整天嘴中央：哪裡重視食安了？  三立新聞網SETN.com",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -5903,12 +6105,12 @@
      }
     },
     {
-     "title": "苗博雅爆他缺席11次食安會！蔣萬安怒反擊：我沒像中央蓋牌",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Ob3E3YlZyTkpkakkyWGdQeWFuYk00N0ZNdTNQa21OOU5LWWd2MHhSRXlFbHR4LVF2YXN4aF9ueUFWZUZMT3ZwNW82VmPSAVJBVV95cUxQVkZTUjdCdzRkdEduelhlSm5uLVVHUzlSZ2YxOXNwbmtZQ0RRa01uYnRDSVFBZ01PaTE0SHdoT0l6bVdGd2ZPWmNIRUhPdEpUUnZB?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-07-16T17:47:55+08:00",
-     "description": "苗博雅爆他缺席11次食安會！蔣萬安怒反擊：我沒像中央蓋牌  NOWnews今日新聞",
+     "title": "苗博雅質疑缺席北市食安會 蔣萬安回嗆：沒蓋牌、更沒神隱",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4MmN6RlozUGREUnRjakREQjVIVFk5NjRMVTQ5S3J0Zl9Ic1lXeHVNX2RVTm1JR0FrWExxNEpMSGpHT1lyTmtrYmhseHJMZXFXTDNtaGJEV1U0S29SU2wtMG9EX2ZDdnBEZ3hJMmNR?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-07-16T18:00:51+08:00",
+     "description": "苗博雅質疑缺席北市食安會 蔣萬安回嗆：沒蓋牌、更沒神隱  中時新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -5916,7 +6118,207 @@
        "source": "unknown"
       },
       "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
+   "id": "8c7adeb3d12b",
+   "title": "陽明交大教授涉持刀砍死連襟 校方啟動相關調整機制",
+   "outlet_count": 6,
+   "outlets": [
+    "chinatimes",
+    "ebc",
+    "ettoday",
+    "mirror",
+    "pts",
+    "tvbs"
+   ],
+   "article_count": 14,
+   "first_seen": "2026-07-15T09:26:09+08:00",
+   "last_updated": "2026-07-17T21:02:00+08:00",
+   "tags": [
+    "陽明交大教授",
+    "砍死連襟"
+   ],
+   "articles": [
+    {
+     "title": "陽明交大教授瘋砍殺死連襟　死者遺孀首發聲：從沒有爭產、未換股東",
+     "link": "https://www.mirrormedia.mg/story/20260717edi068",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-07-17T21:02:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "新竹教授砍死連襟！死者妻「3點聲明」駁爭產：不實資訊傷害極大",
+     "link": "https://www.ettoday.net/news/20260717/3203183.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-17T18:56:00+08:00",
+     "description": "新竹市東區三民路一處音樂教室14日發生命案，美籍43歲林姓教授持刀殺害48歲紀姓連襟，事件引起社會注目，案件內情也有許多版本的說法出現。對此，紀男的妻子王女出面澄清，案發前音樂教室並無更換負責人、股東，且她與丈夫從未想過爭產，外界、社會上的不實訊息已對他們造成極大傷害，希望別再以訛傳訛。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "陽明交大教授砍死連襟　死者妻駁「爭產」：勿再以訛傳訛",
+     "link": "https://news.tvbs.com.tw/local/3260541",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-17T18:16:51+08:00",
+     "description": "",
+     "category": "local",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "local",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "交大教授失控砍人　精神醫揭高知識份子心靈崩解原因",
+     "link": "https://news.tvbs.com.tw/local/3259948",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-17T09:53:19+08:00",
+     "description": "",
+     "category": "local",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "local",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "陽明交大教授砍死連襟 精神醫分析：光鮮外表下崩解心靈",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MOVFCRUZZWG1BeF9RWnVaVkxFbWg5OWxtNlhpNWMySVYxX0puQWZMRHNJMFprdTJXSWE4eWVSOFVGLVJxV3JYNmctcjZad2FMT3FvTXdHS29WMFByQzktSGlFa0FQN3Y4bWdQTGJR?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-07-16T15:31:03+08:00",
+     "description": "陽明交大教授砍死連襟 精神醫分析：光鮮外表下崩解心靈  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "陽交大教授涉案「研究生怎辦？」　地獄哏爆了：會客室Meeting",
+     "link": "https://www.ettoday.net/news/20260716/3202219.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-16T13:03:00+08:00",
+     "description": "國立陽明交通大學一名林姓教授日前涉嫌在新竹持刀殺害妹夫，案件引發社會關注。事件曝光後，一名網友聯想到教授指導的研究生，發文表示，「看到那個大學教授在新竹的新聞，第一個直覺，他的研究生應該快發瘋了。」沒想到留言區出現一句「Meeting 在會客室」，獲得超過3000人按讚，意外成為討論焦點。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "陽明交大教授涉持刀殺人 校方調整開課、助研究生換老師",
+     "link": "https://news.pts.org.tw/article/817814",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-07-15T20:57:56+08:00",
+     "description": "昨（14）日下午，在新竹市音樂教室發生重大命案，43歲林姓男子涉嫌持刀殺害連襟，犯後還一度與警方對峙。嫌犯是在陽明交大任教10多年的教授，過去曾經獲得優良教學獎肯定。校方回應，老師在校無明顯異常或重大違失，目前已經緊急啟動機制，將調整開課，並協助研究生更換指導教授，保障學生受教權。不過案發至今，嫌犯仍在醫院治療，還沒接受偵訊，犯案動機仍需要進一步釐清。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "教授亂刀砍死親戚 陽明交大火速下架！網憂：研究生怎麼辦",
+     "link": "https://news.ebc.net.tw/news/society/561316",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-15T15:03:17.137782+08:00",
+     "description": "國立陽明交通大學的43歲林姓教授，昨（14）日持刀前往新竹市三民路某間音樂教室，亂刀砍死48歲的「襟弟」紀姓老闆。今（15）日陽明交大表示已啟動停聘處置。",
+     "category": "society",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "society",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "陽明交大教授中彈滾落台階 警揭開槍原因：現場還有10人",
+     "link": "https://news.ebc.net.tw/news/society/561304",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-15T15:03:17.137782+08:00",
+     "description": "新竹市三民路一家音樂教室昨天驚傳喋血命案，43歲林姓陽明交大教授林嫌疑因家產糾紛與經營權之爭，持藍波刀闖入砍殺48歲妹婿、音樂教室紀姓店長，造成對方傷重不治。",
+     "category": "society",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "society",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "陽明交大教授涉持刀砍死連襟 校方啟動相關調整機制",
+     "link": "https://news.pts.org.tw/article/817702",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-07-15T14:07:45+08:00",
+     "description": "新竹市一間樂器行，昨（14）日下午發生命案，林姓嫌犯疑似為了家族財產，持刀砍死妹夫，目前已依殺人罪嫌移送法辦。不過因為嫌犯在陽明交大任教，校方上午表示可能會有學生受教受影響，已啟動相關調整機制。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
      }
     }
    ]
@@ -6157,7 +6559,7 @@
      "source": "setn",
      "source_name": "三立新聞網",
      "published": "2026-07-17T11:54:19+08:00",
-     "description": "2026點將專訪  三立新聞",
+     "description": "2026點將專訪  三立新聞網SETN.com",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -6208,7 +6610,7 @@
      "source": "setn",
      "source_name": "三立新聞網",
      "published": "2026-07-16T16:03:04+08:00",
-     "description": "2026九合一地方焦點  三立新聞",
+     "description": "2026九合一地方焦點  三立新聞網SETN.com",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -6738,25 +7140,6 @@
      }
     },
     {
-     "title": "台中死亡車禍！騎士撞上違停大貨車 安全帽噴飛不治",
-     "link": "https://news.ebc.net.tw/news/society/561397",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-15T22:58:34.397022+08:00",
-     "description": "台中大雅區今（15）日驚傳死亡車禍，陳姓男子騎機車出門，在中科路撞上一輛違規停在路邊的大貨車，人一度卡在車底，安全帽也噴飛，車殼碎片散落一地，送醫後宣告不治。",
-     "category": "society",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "society",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
      "title": "賣場騎出來就撞！台中機車撞擊滑衝路旁貨車底　騎士送醫",
      "link": "https://news.tvbs.com.tw/local/3257241",
      "source": "tvbs",
@@ -6773,6 +7156,25 @@
       "acquisition": "scraper",
       "category": "local",
       "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "台中死亡車禍！騎士撞上違停大貨車 安全帽噴飛不治",
+     "link": "https://news.ebc.net.tw/news/society/561397",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-15T22:58:34.397022+08:00",
+     "description": "台中大雅區今（15）日驚傳死亡車禍，陳姓男子騎機車出門，在中科路撞上一輛違規停在路邊的大貨車，人一度卡在車底，安全帽也噴飛，車殼碎片散落一地，送醫後宣告不治。",
+     "category": "society",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "society",
+      "feed_url": "https://news.ebc.net.tw/realtime"
      }
     }
    ]
@@ -7069,135 +7471,6 @@
    ]
   },
   {
-   "id": "8d4089272711",
-   "title": "問題油受波及業者增至1006家 累計回收逾7600公噸",
-   "outlet_count": 6,
-   "outlets": [
-    "ebc",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "pts",
-    "tvbs"
-   ],
-   "article_count": 6,
-   "first_seen": "2026-07-15T16:47:00+08:00",
-   "last_updated": "2026-07-17T01:53:00+08:00",
-   "tags": [
-    "致癌油",
-    "中聯",
-    "下游"
-   ],
-   "articles": [
-    {
-     "title": "中聯致癌油「新增2批超標」流向曝光　晶華、蝦皮、貴族世家都中鏢",
-     "link": "https://www.ettoday.net/news/20260717/3202625.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-17T01:53:00+08:00",
-     "description": "中聯油品「苯駢芘」超標事件持續擴大，台中市食安處16日表示，依食藥署抽驗結果，中聯大豆沙拉油批號313-1150408、315-1150413驗出苯駢芘超標，累計超標批號由5批增至7批。中市府也同步公布第6、7批超標油品全國第二層下游業者名冊，包含晶華、六福酒店、統一、路易莎、金色三麥及蝦皮、酷澎等。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "中聯致癌油最新流向曝光！大買家、一中商圈名店都中鏢",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5506643",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-15T21:54:18+08:00",
-     "description": "中聯油脂苯駢芘（BaP）致癌油事件持續延燒，台中市食品藥物安全處今（15）日首先公布兩批預防性下架批號，相關衍生產品包括福壽、福懋共23項、66個批號，並同步公布更新台中市第三...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "致癌油影響鬍鬚張、瓦城、點點心 下游業者累計1006家",
-     "link": "https://news.ebc.net.tw/news/living/561377",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-15T20:47:22.154521+08:00",
-     "description": "食藥署公布中聯油脂案最新進度，5批苯駢芘超標油品已回收1661.6公噸，影響1006家下游業者；另6020.6公噸油品預防性下架，持續調查污染原因。",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "問題油受波及業者增至1006家 累計回收逾7600公噸",
-     "link": "https://news.pts.org.tw/article/817817",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-07-15T19:48:51+08:00",
-     "description": "中聯油脂事件持續延燒，食藥署今（15）日公布福壽、福懋、泰山的下游業者清單，總計有1006家業者受影響，合計回收逾7600多公噸。外界質疑，政府要求業者大規模預防性下架，恐怕衝擊商家生計，對此衛福部長石崇良今日表示，全面預防性下架目的在於保障食品安全，並不代表所有產品都有安全疑慮，未來食安制度會從強化源頭管理等5大面向精進。衛福部次長林靜儀今日表示，推測黃豆與製程都有問題，但也指出若業者品管得宜仍",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "食藥署公布致癌油最新流向！曝1006家下游業者受害　瓦城、貳樓入列",
-     "link": "https://news.tvbs.com.tw/life/3258374",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-15T17:58:11+08:00",
-     "description": "",
-     "category": "life",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "中聯問題油已回收1661公噸　食藥署公布下游1006店家完整名單",
-     "link": "https://www.mirrormedia.mg/story/20260715edi044",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-07-15T16:47:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    }
-   ]
-  },
-  {
    "id": "7bf0c24c39b2",
    "title": "（2026/07/15）星座運勢／巨蟹座把握市場低點！獅子座要堅定信念",
    "outlet_count": 5,
@@ -7208,11 +7481,28 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 18,
+   "article_count": 19,
    "first_seen": "2026-07-15T07:00:00+08:00",
-   "last_updated": "2026-07-18T00:04:26+08:00",
+   "last_updated": "2026-07-18T00:52:32+08:00",
    "tags": [],
    "articles": [
+    {
+     "title": "新聞分類總覽 - 2026-07-18",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5fbWJYY2ZNTFllVmFSSm11SlpUWXBRbUlpZGlkRmFoNWVUZmJFbUlFUUlvazdzek14TWRad2tDZmlmNmJZcGpEdFY5MlNFR1psZG9rb0Vvbw?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-18T00:52:32+08:00",
+     "description": "新聞分類總覽 - 2026-07-18  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
     {
      "title": "新聞分類總覽 - 2026-07-18",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9yMVgybktSZnpnbElPYzFLdkMxSUhSVVhSNFh0ZnZLQzlsLUlkc1M2blNXemZ6bjBrVWlsMHVfU0gwc3pGVmtEQWRmTkY1aFdpdGZJSGpvdw?oc=5",
@@ -7367,23 +7657,6 @@
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
-    },
-    {
-     "title": "（2026/07/16）星座運勢／7星座財富大賺！牡羊座擺脫工作的混亂",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kV0pGdlF2bGx1MUpvX0U2bTBpNjFkbEFnOFV0LTRmcjRQTUZIWk53V3NRQXAyOWNYLWpLYmZheDE2WGNOaDM5ZGhGczVEZ1l4cXfSAVJBVV95cUxNZFdKRnZRdmxsdTFKb19FNm0waTYxZGxBZzhVdC00ZnI0UE1GSFpOd1dzUUFwMjljWC1qS2JmYXgxNlhjTmgzOWRoRnM1RGdZeHF3?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-07-16T07:00:00+08:00",
-     "description": "（2026/07/16）星座運勢／7星座財富大賺！牡羊座擺脫工作的混亂  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
     }
    ]
   },
@@ -7446,7 +7719,7 @@
      "link": "https://news.tvbs.com.tw/local/3260620",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-17T21:42:45+08:00",
+     "published": "2026-07-17T21:39:38+08:00",
      "description": "",
      "category": "local",
      "metadata": {
@@ -7534,25 +7807,6 @@
    ],
    "articles": [
     {
-     "title": "今彩539頭獎槓龜！貳獎126注中獎　每注爽抱2萬元",
-     "link": "https://news.tvbs.com.tw/life/3259781",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-17T22:53:19.002086+08:00",
-     "description": "",
-     "category": "life",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
      "title": "新／大樂透7億中獎結果曝光 幸運兒一次抱走600萬",
      "link": "https://news.ebc.net.tw/news/business/561758",
      "source": "ebc",
@@ -7569,6 +7823,25 @@
       "acquisition": "scraper",
       "category": "business",
       "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "今彩539頭獎槓龜！貳獎126注中獎　每注爽抱2萬元",
+     "link": "https://news.tvbs.com.tw/life/3259781",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-17T22:53:19.002086+08:00",
+     "description": "",
+     "category": "life",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "life",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
      }
     },
     {
@@ -7701,7 +7974,7 @@
      "link": "https://news.tvbs.com.tw/life/3260327",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-17T20:42:45+08:00",
+     "published": "2026-07-17T20:39:38+08:00",
      "description": "",
      "category": "life",
      "metadata": {
@@ -7791,25 +8064,6 @@
      }
     },
     {
-     "title": "天氣／7縣市飆38度！鄭明典曬2圖「頑固高壓罩全台」：進入高溫型態",
-     "link": "https://news.tvbs.com.tw/life/3258856",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-17T18:56:51.492987+08:00",
-     "description": "",
-     "category": "life",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
      "title": "下班注意！14縣市大雨特報 雙北雷雨轟炸中",
      "link": "https://news.ebc.net.tw/news/living/561723",
      "source": "ebc",
@@ -7826,6 +8080,25 @@
       "acquisition": "scraper",
       "category": "living",
       "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "天氣／7縣市飆38度！鄭明典曬2圖「頑固高壓罩全台」：進入高溫型態",
+     "link": "https://news.tvbs.com.tw/life/3258856",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-17T18:56:51.492987+08:00",
+     "description": "",
+     "category": "life",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "life",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
      }
     },
     {
@@ -8158,12 +8431,12 @@
      }
     },
     {
-     "title": "TPBL／選秀狀元賀丹降臨海神！8人獲選完整名單一次看",
-     "link": "https://news.ebc.net.tw/news/sport/561536",
+     "title": "TPBL／海神大補強選2人！賀丹親曝返台期望",
+     "link": "https://news.ebc.net.tw/news/sport/561537",
      "source": "ebc",
      "source_name": "東森新聞",
      "published": "2026-07-16T20:52:08.928564+08:00",
-     "description": "台灣職業籃球大聯盟（TPBL）第三屆新人選秀會今（16）日於台北101 THE ONE舉行。",
+     "description": "高雄全家海神職業籃球隊16日於2026-27球季TPBL選秀會上，以首輪狀元籤選進23歲的好手賀丹（Adam Hinton）。",
      "category": "sport",
      "metadata": {
       "schema_version": 1,
@@ -8177,12 +8450,12 @@
      }
     },
     {
-     "title": "TPBL／海神大補強選2人！賀丹親曝返台期望",
-     "link": "https://news.ebc.net.tw/news/sport/561537",
+     "title": "TPBL／選秀狀元賀丹降臨海神！8人獲選完整名單一次看",
+     "link": "https://news.ebc.net.tw/news/sport/561536",
      "source": "ebc",
      "source_name": "東森新聞",
      "published": "2026-07-16T20:52:08.928564+08:00",
-     "description": "高雄全家海神職業籃球隊16日於2026-27球季TPBL選秀會上，以首輪狀元籤選進23歲的好手賀丹（Adam Hinton）。",
+     "description": "台灣職業籃球大聯盟（TPBL）第三屆新人選秀會今（16）日於台北101 THE ONE舉行。",
      "category": "sport",
      "metadata": {
       "schema_version": 1,
@@ -8309,7 +8582,7 @@
      "link": "https://news.tvbs.com.tw/life/3260214",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-17T14:42:45+08:00",
+     "published": "2026-07-17T14:39:38+08:00",
      "description": "",
      "category": "life",
      "metadata": {
@@ -9198,7 +9471,7 @@
    "tags": [
     "北市帥警",
     "只能寵我",
-    "詐女客"
+    "男公關"
    ],
    "claims": [
     {
@@ -9871,7 +10144,7 @@
    "tags": [
     "個股槓桿",
     "保證金提高",
-    "出手"
+    "官方"
    ],
    "articles": [
     {
@@ -10112,7 +10385,7 @@
      "link": "https://news.tvbs.com.tw/life/3260345",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-17T16:42:45+08:00",
+     "published": "2026-07-17T16:39:38+08:00",
      "description": "",
      "category": "life",
      "metadata": {
@@ -10556,80 +10829,6 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
-   "id": "2c281fcfbfab",
-   "title": "新北泰山工廠大火　2棟鐵皮屋全面燃燒",
-   "outlet_count": 3,
-   "outlets": [
-    "ebc",
-    "ltn",
-    "tvbs"
-   ],
-   "article_count": 3,
-   "first_seen": "2026-07-17T21:42:45+08:00",
-   "last_updated": "2026-07-18T00:42:45.585130+08:00",
-   "tags": [
-    "新北泰山工廠",
-    "鐵皮"
-   ],
-   "articles": [
-    {
-     "title": "新北泰山工廠大火「燒毀2間倉庫」消防急派84人搶救",
-     "link": "https://news.ebc.net.tw/news/society/561760",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-18T00:42:45.585130+08:00",
-     "description": "新北市泰山大科路一處工廠，今（17）日晚間8點48分發生火警。消防人員派34車84人搶救，初步回報工廠內沒有人員受困。",
-     "category": "society",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "society",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "新北泰山鐵皮工廠火警  2棟建物陷火海",
-     "link": "https://news.ltn.com.tw/news/society/breakingnews/5509139",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-17T22:03:29+08:00",
-     "description": "新北市泰山山區今晚發生工廠火警，兩間工廠燃燒，面積約500平方公尺，消防單位派34車，上百消防、義消搶救，暫無延燒之虞，現場無人受困，起火原因待釐清。\n\n新北市消防局今晚9...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "新北泰山工廠大火　2棟鐵皮屋全面燃燒",
-     "link": "https://news.tvbs.com.tw/local/3260713",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-17T21:42:45+08:00",
-     "description": "",
-     "category": "local",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "local",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
      }
     }
    ]
