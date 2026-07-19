@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-07-19T17:01:51.044618+08:00",
+ "generated_at": "2026-07-19T18:47:50.898781+08:00",
  "sources": [
   {
    "id": "cna",
    "name": "中央社",
    "ok": true,
-   "count": 78,
+   "count": 79,
    "via_fallback": false,
    "errors": []
   },
@@ -20,10 +20,12 @@
   {
    "id": "udn",
    "name": "聯合新聞網",
-   "ok": true,
-   "count": 93,
-   "via_fallback": true,
-   "errors": []
+   "ok": false,
+   "count": 0,
+   "via_fallback": false,
+   "errors": [
+    "fallback: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+   ]
   },
   {
    "id": "ltn",
@@ -36,10 +38,12 @@
   {
    "id": "chinatimes",
    "name": "中時新聞網",
-   "ok": true,
-   "count": 98,
-   "via_fallback": true,
-   "errors": []
+   "ok": false,
+   "count": 0,
+   "via_fallback": false,
+   "errors": [
+    "fallback: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+   ]
   },
   {
    "id": "ettoday",
@@ -53,23 +57,25 @@
    "id": "tvbs",
    "name": "TVBS",
    "ok": true,
-   "count": 407,
+   "count": 437,
    "via_fallback": false,
    "errors": []
   },
   {
    "id": "setn",
    "name": "三立新聞網",
-   "ok": true,
-   "count": 100,
-   "via_fallback": true,
-   "errors": []
+   "ok": false,
+   "count": 0,
+   "via_fallback": false,
+   "errors": [
+    "fallback: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+   ]
   },
   {
    "id": "ebc",
    "name": "東森新聞",
    "ok": true,
-   "count": 13,
+   "count": 15,
    "via_fallback": false,
    "errors": []
   },
@@ -77,7 +83,7 @@
    "id": "mirror",
    "name": "鏡週刊",
    "ok": true,
-   "count": 139,
+   "count": 140,
    "via_fallback": false,
    "errors": []
   },
@@ -92,26 +98,32 @@
   {
    "id": "storm",
    "name": "風傳媒",
-   "ok": true,
-   "count": 91,
-   "via_fallback": true,
-   "errors": []
+   "ok": false,
+   "count": 0,
+   "via_fallback": false,
+   "errors": [
+    "fallback: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+   ]
   },
   {
    "id": "newtalk",
    "name": "新頭殼",
-   "ok": true,
-   "count": 100,
-   "via_fallback": true,
-   "errors": []
+   "ok": false,
+   "count": 0,
+   "via_fallback": false,
+   "errors": [
+    "fallback: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+   ]
   },
   {
    "id": "nownews",
    "name": "今日新聞",
-   "ok": true,
-   "count": 100,
-   "via_fallback": true,
-   "errors": []
+   "ok": false,
+   "count": 0,
+   "via_fallback": false,
+   "errors": [
+    "fallback: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+   ]
   }
  ]
 }
