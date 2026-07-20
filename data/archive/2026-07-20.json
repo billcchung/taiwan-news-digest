@@ -1,6 +1,6 @@
 {
  "date": "2026-07-20",
- "generated_at": "2026-07-20T06:36:08.688735+08:00",
+ "generated_at": "2026-07-20T08:58:15.830865+08:00",
  "events": [
   {
    "id": "8e26c4aaac13",
@@ -21,15 +21,34 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 107,
+   "article_count": 108,
    "first_seen": "2026-07-17T11:12:01+08:00",
-   "last_updated": "2026-07-20T05:30:00+08:00",
+   "last_updated": "2026-07-20T08:01:15+08:00",
    "tags": [
     "蔣萬安",
     "毒油",
     "凱道"
    ],
    "articles": [
+    {
+     "title": "725上凱道反毒油！國民黨周三先提名蔣萬安、謝國樑等6首長",
+     "link": "https://news.tvbs.com.tw/politics/3262049",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-20T08:01:15+08:00",
+     "description": "",
+     "category": "politics",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "politics",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
     {
      "title": "蔣、盧號召上街 綠營：舉辦甩鍋大會",
      "link": "https://news.ltn.com.tw/news/life/paper/1763293",
@@ -186,14 +205,80 @@
       "category": "politics",
       "feed_url": "https://news.tvbs.com.tw/realtime"
      }
-    },
+    }
+   ]
+  },
+  {
+   "id": "984cbe2c191e",
+   "title": "台股迎黑色星期五 盤中血洗跌逾2100點",
+   "outlet_count": 12,
+   "outlets": [
+    "chinatimes",
+    "ebc",
+    "ettoday",
+    "ltn",
+    "mirror",
+    "newtalk",
+    "nownews",
+    "pts",
+    "setn",
+    "storm",
+    "tvbs",
+    "udn"
+   ],
+   "article_count": 69,
+   "first_seen": "2026-07-17T09:39:19+08:00",
+   "last_updated": "2026-07-20T08:43:05+08:00",
+   "tags": [
+    "台股"
+   ],
+   "claims": [
     {
-     "title": "藍號召725上凱道反毒油...綠：人民盼中央地方合作 沒有必要政治操作",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BVXNNUkh6dVVMQnU5T3pRNjlsWE0wRnd4N1lvV25LcG84X1Ezelc1bzZVaWpuLWxTWWpZXzV5NFo3XzVaUmppM2QxZEZpYnEzVTUw0gFYQVVfeXFMTmU4c0g2MzJlSFp5b3ZMZjZxMXJRdXdHV1BNYXMzUjRkTF9UUGpqVHEyUEtxa2FuaDBJLXZkd0pPZTlvSzZUTDBDZlI3cHNKWlJ4MWhkOUxNQw?oc=5",
+     "type": "金額",
+     "agree": false,
+     "outlet_count": 5,
+     "values": [
+      {
+       "value": "1.2兆元",
+       "outlets": [
+        "東森新聞"
+       ]
+      },
+      {
+       "value": "12129.57億元",
+       "outlets": [
+        "ETtoday"
+       ]
+      },
+      {
+       "value": "4萬元",
+       "outlets": [
+        "公視新聞"
+       ]
+      },
+      {
+       "value": "2617億元",
+       "outlets": [
+        "TVBS"
+       ]
+      },
+      {
+       "value": "883億元",
+       "outlets": [
+        "聯合新聞網"
+       ]
+      }
+     ]
+    }
+   ],
+   "articles": [
+    {
+     "title": "台股重挫近3千點啟示 李同榮：股房已形成典型惡性循環",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MWHhPTnM4anVqb0MwOEdpb0NvYWJtWDY2RHUwN0ttcWhBdWRsc3YzTTNZR09vaktJRUpxMUlRZEZsMmtzWWtGUGVkaFFwaWJfRWN5U2xwMGZaUkFPS1VVZkxEUWVZUWtCTGZ0em1xXy1DUzdJTFZNaThaNnBUdFXSAWJBVV95cUxPbnVUV1ZzaFVxTmtFUmp0aFNtbVVET0RXbTU3cXBtUy1ORkN3MkZ4X2k5MVQ0dW1Sc21PRmFXZnVzTFEtOTRYcE9iMDlxcHFLeGNvdUdaNjF6Y3g0amtHNkN2UQ?oc=5",
      "source": "udn",
      "source_name": "聯合新聞網",
-     "published": "2026-07-19T15:33:20+08:00",
-     "description": "藍號召725上凱道反毒油...綠：人民盼中央地方合作 沒有必要政治操作  UDN",
+     "published": "2026-07-20T08:43:05+08:00",
+     "description": "台股重挫近3千點啟示 李同榮：股房已形成典型惡性循環  udn房地產",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -202,6 +287,175 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "台積電法說後慘崩180元！財務長首度回應　揭美國設廠殘酷成本",
+     "link": "https://finance.ettoday.net/news/3204122",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-20T08:35:00+08:00",
+     "description": "台積電（2330）17日舉行法說會，隔天股價重挫180元，寫下史上最大單日下跌，市場也以「法說會變法會」形容這波跌勢。美國財經媒體《CNBC》於台北時間20日刊出台積電財務長黃仁昭專訪，他首度回應法說會後的股價重挫，強調公司無法控制金融市場，現階段能做的只有專注本業基本面；他也坦言，在美國興建晶圓廠的成本，是台灣的4至5倍。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "台股暴跌近3千點 這檔ETF逆勢翻紅成避風港",
+     "link": "https://news.ebc.net.tw/news/business/562052",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-20T00:36:46.052192+08:00",
+     "description": "在大盤全面下殺之際，高股息ETF「元大台灣高息低波」（00713）卻展現強韌防禦力，盤中一度逆勢翻紅，終場僅下跌1.07%，跌幅明顯低於大盤與多數熱門ETF。",
+     "category": "business",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "business",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "台股重挫近3千點！專家喊這兩檔ETF不用賣：越跌越該買",
+     "link": "https://news.ebc.net.tw/news/business/562017",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-19T20:37:08.277430+08:00",
+     "description": "台股17日出現史詩級重挫，加權指數終場大跌2953.71點，跌幅6.47%，收在42671.27點，創下史上最大單日收盤跌點紀錄，引起投資人恐慌。",
+     "category": "business",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "business",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "台股崩近3000點無感！「這檔ETF」超抗跌　盤中還一度翻紅",
+     "link": "https://news.tvbs.com.tw/money/3261963",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-19T20:11:08+08:00",
+     "description": "",
+     "category": "money",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "money",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "台股史詩暴跌近3千點！股海老牛揭「保命3招」：先留3成現金",
+     "link": "https://news.tvbs.com.tw/money/3261759",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-19T15:47:50+08:00",
+     "description": "",
+     "category": "money",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "money",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "台股暴跌近3千點！謝金河點名「國巨和這類」慘　網狂喜：訊號來了",
+     "link": "https://news.tvbs.com.tw/money/3261558",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-19T11:33:45+08:00",
+     "description": "",
+     "category": "money",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "money",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "台股17日創史上最大跌點！主動式ETF新兵抗跌　這檔最亮眼",
+     "link": "https://news.tvbs.com.tw/money/3261478",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-19T09:47:50+08:00",
+     "description": "",
+     "category": "money",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "money",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "台股重挫2953點「史上第1大」 蔡明翰：送分題出現了",
+     "link": "https://news.ebc.net.tw/news/business/561928",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-19T02:37:26.460421+08:00",
+     "description": "台股重挫2953點創史上最大跌點，市場驚慌尋凶。蔡明翰卻直言「我忙著找買點」，等了四個月的「送分題」已再次出現。",
+     "category": "business",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "business",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "台股暴跌近3000點！專家喊「真正買點」 關鍵支撐在這",
+     "link": "https://news.ebc.net.tw/news/business/561900",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-18T22:38:19.141244+08:00",
+     "description": "台股17日「史詩級暴跌」終場暴跌2953.72點，收在42671.27點。資深證券分析師吳岳展大膽預言「這裡才是真正買點」。",
+     "category": "business",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "business",
+      "feed_url": "https://news.ebc.net.tw/realtime"
      }
     }
    ]
@@ -407,11 +661,11 @@
    ]
   },
   {
-   "id": "984cbe2c191e",
-   "title": "台股迎黑色星期五 盤中血洗跌逾2100點",
-   "outlet_count": 12,
+   "id": "aacfdfb2ab86",
+   "title": "阿根廷總統不赴世界盃決賽　堅持幸運儀式留官邸觀戰",
+   "outlet_count": 11,
    "outlets": [
-    "chinatimes",
+    "cna",
     "ebc",
     "ettoday",
     "ltn",
@@ -421,63 +675,25 @@
     "pts",
     "setn",
     "storm",
-    "tvbs",
-    "udn"
+    "tvbs"
    ],
-   "article_count": 67,
-   "first_seen": "2026-07-17T09:39:19+08:00",
-   "last_updated": "2026-07-20T00:36:46.052192+08:00",
+   "article_count": 43,
+   "first_seen": "2026-07-17T10:30:00+08:00",
+   "last_updated": "2026-07-20T08:58:15.830865+08:00",
    "tags": [
-    "台股"
-   ],
-   "claims": [
-    {
-     "type": "金額",
-     "agree": false,
-     "outlet_count": 5,
-     "values": [
-      {
-       "value": "1.2兆元",
-       "outlets": [
-        "東森新聞"
-       ]
-      },
-      {
-       "value": "12129.57億元",
-       "outlets": [
-        "ETtoday"
-       ]
-      },
-      {
-       "value": "4萬元",
-       "outlets": [
-        "公視新聞"
-       ]
-      },
-      {
-       "value": "2617億元",
-       "outlets": [
-        "TVBS"
-       ]
-      },
-      {
-       "value": "883億元",
-       "outlets": [
-        "聯合新聞網"
-       ]
-      }
-     ]
-    }
+    "阿根廷",
+    "西班牙",
+    "世足"
    ],
    "articles": [
     {
-     "title": "台股暴跌近3千點 這檔ETF逆勢翻紅成避風港",
-     "link": "https://news.ebc.net.tw/news/business/562052",
+     "title": "世足／延長賽1比0絕殺阿根廷！西班牙奪隊史第二冠寫歷史",
+     "link": "https://news.ebc.net.tw/news/sport/562057",
      "source": "ebc",
      "source_name": "東森新聞",
-     "published": "2026-07-20T00:36:46.052192+08:00",
-     "description": "在大盤全面下殺之際，高股息ETF「元大台灣高息低波」（00713）卻展現強韌防禦力，盤中一度逆勢翻紅，終場僅下跌1.07%，跌幅明顯低於大盤與多數熱門ETF。",
-     "category": "business",
+     "published": "2026-07-20T08:58:15.830865+08:00",
+     "description": "2026年世界盃迎來歷史性大結局。在紐澤西州東盧瑟福舉行的決賽中，歐洲冠軍西班牙憑藉費蘭托雷斯（Ferran Torres）在延長賽的絕殺進球，以1比0擊敗衛冕",
+     "category": "sport",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -485,18 +701,18 @@
        "source": "unknown"
       },
       "acquisition": "scraper",
-      "category": "business",
+      "category": "sport",
       "feed_url": "https://news.ebc.net.tw/realtime"
      }
     },
     {
-     "title": "台股重挫近3千點！專家喊這兩檔ETF不用賣：越跌越該買",
-     "link": "https://news.ebc.net.tw/news/business/562017",
+     "title": "世足／阿根廷衛冕夢碎！梅西最後一舞情緒潰堤痛哭",
+     "link": "https://news.ebc.net.tw/news/sport/562059",
      "source": "ebc",
      "source_name": "東森新聞",
-     "published": "2026-07-19T20:37:08.277430+08:00",
-     "description": "台股17日出現史詩級重挫，加權指數終場大跌2953.71點，跌幅6.47%，收在42671.27點，創下史上最大單日收盤跌點紀錄，引起投資人恐慌。",
-     "category": "business",
+     "published": "2026-07-20T08:58:15.830865+08:00",
+     "description": "阿根廷在世界盃決賽經歷延長賽後以0比1不敵西班牙，衛冕世界盃冠軍的夢想最終以心碎收場。這場在MetLife體育場（大都會球場）舉行的決賽鳴哨終戰後，39歲的阿根",
+     "category": "sport",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -504,131 +720,34 @@
        "source": "unknown"
       },
       "acquisition": "scraper",
-      "category": "business",
+      "category": "sport",
       "feed_url": "https://news.ebc.net.tw/realtime"
      }
     },
     {
-     "title": "台股崩近3000點無感！「這檔ETF」超抗跌　盤中還一度翻紅",
-     "link": "https://news.tvbs.com.tw/money/3261963",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-19T20:11:08+08:00",
-     "description": "",
-     "category": "money",
+     "title": "世足》西班牙暌違16年奪冠 48隊完整排名出爐",
+     "link": "https://sports.ltn.com.tw/news/breakingnews/5510926",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-20T08:28:02+08:00",
+     "description": "2026美加墨世界盃足球賽正式落幕，西班牙暌違16年奪冠，阿根廷屈居亞軍，無緣完成連霸，英格蘭獲季軍寫隊史次佳成績，最終48隊排名也正式底定。\n\n\n法國排名第4，挪威第5...…",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "scraper",
-      "category": "money",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
      }
     },
     {
-     "title": "台股史詩暴跌近3千點！股海老牛揭「保命3招」：先留3成現金",
-     "link": "https://news.tvbs.com.tw/money/3261759",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-19T15:47:50+08:00",
-     "description": "",
-     "category": "money",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "money",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "台股暴跌近3千點！謝金河點名「國巨和這類」慘　網狂喜：訊號來了",
-     "link": "https://news.tvbs.com.tw/money/3261558",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-19T11:33:45+08:00",
-     "description": "",
-     "category": "money",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "money",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "台股17日創史上最大跌點！主動式ETF新兵抗跌　這檔最亮眼",
-     "link": "https://news.tvbs.com.tw/money/3261478",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-19T09:47:50+08:00",
-     "description": "",
-     "category": "money",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "money",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "台股重挫2953點「史上第1大」 蔡明翰：送分題出現了",
-     "link": "https://news.ebc.net.tw/news/business/561928",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-19T02:37:26.460421+08:00",
-     "description": "台股重挫2953點創史上最大跌點，市場驚慌尋凶。蔡明翰卻直言「我忙著找買點」，等了四個月的「送分題」已再次出現。",
-     "category": "business",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "business",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "台股暴跌近3000點！專家喊「真正買點」 關鍵支撐在這",
-     "link": "https://news.ebc.net.tw/news/business/561900",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-18T22:38:19.141244+08:00",
-     "description": "台股17日「史詩級暴跌」終場暴跌2953.72點，收在42671.27點。資深證券分析師吳岳展大膽預言「這裡才是真正買點」。",
-     "category": "business",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "business",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "台股暴跌2953點免驚？財經專家砸8位數進場喊話：下周再跌還會買",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1CWnlqR3ZJUVJmQ2QyQXF0c1ZMZjhIQkJjYWpaX1FsaFNsWkw3b2owaVpnTUZPN3BmV3ktMWpnZU8tQ2FpQ2pvYTcwMkrSAVJBVV95cUxNR2IzYld0M01uMThoRnh2Wm1zUUxHUzh5R1o5VGpXOTNoakY1V2hROFZwSV9lNnR5eEFMOGxnVUdWYXY5TGstSDl2ajdxLXAtcFBB?oc=5",
+     "title": "關鍵字 阿根廷對西班牙",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNWlqY3FNaWYwOFJTbnVjYXY1S0NwbjVVMEJiN3A1X045R2xHdVV5UnkxOWlIdEZqT2l6M2FZSnpTOU43NU9iSU55aWNZVC02TFFicDR1VEc2b2F3bFpXeDBldmE5UjcyejdCMjZRNVVPWXRybGtkSkh2YlFlSU93Q1ZlQzBMUDVYaFpvVm12YXdqVHZBZUw3Sg?oc=5",
      "source": "nownews",
      "source_name": "今日新聞",
-     "published": "2026-07-18T21:49:57+08:00",
-     "description": "台股暴跌2953點免驚？財經專家砸8位數進場喊話：下周再跌還會買  NOWnews今日新聞",
+     "published": "2026-07-20T08:19:48+08:00",
+     "description": "關鍵字 阿根廷對西班牙  NOWnews今日新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -640,13 +759,30 @@
      }
     },
     {
-     "title": "台股史詩級雪崩「大跌原因曝光」！135家慘跌停　股民全哭了",
-     "link": "https://news.tvbs.com.tw/money/3260204",
+     "title": "川普頒獎握手梅西成世界盃決賽歷史一幕！政治領袖、足球傳奇再同框",
+     "link": "https://istyle.ltn.com.tw/article/40529",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-20T08:00:00+08:00",
+     "description": "2026世界盃決賽除了西班牙奪冠、史上首場中場秀掀起熱議外，頒獎典禮也出現另一幕備受關注的畫面，那就是美國總統川普（Donald Trump）在頒獎台上，頒獎給阿根廷隊長梅西（Lionel Messi）並握手寒暄，讓政治領袖與足球傳奇的難得同框，成為賽後最受…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "世界盃圖輯／梅西被守死阿根廷全場0射正！托雷斯延長賽助西班牙奪冠",
+     "link": "https://news.tvbs.com.tw/sports/3262076",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-18T14:59:59.655563+08:00",
+     "published": "2026-07-20T07:58:15+08:00",
      "description": "",
-     "category": "money",
+     "category": "sports",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -654,8 +790,78 @@
        "source": "unknown"
       },
       "acquisition": "scraper",
-      "category": "money",
+      "category": "sports",
       "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "梅西阿根廷輸了！世足賽冠軍出爐：西班牙延長賽1比0險勝，笑納隊史第2冠",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNT0dQYnVjcFZ4Tk9HZm5xZ0t4NWRTbVB2dmgwcV9va3pyd0lYUGVxNzVxMlppcDFQaFhBaG1MQ1FDSHo3M0EwcEdwRDJBQy1O?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-07-20T07:21:28+08:00",
+     "description": "梅西阿根廷輸了！世足賽冠軍出爐：西班牙延長賽1比0險勝，笑納隊史第2冠  風傳媒",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "2026世界盃／阿根廷衛冕夢碎！梅西丟3大獎落淚　仍續寫超狂里程碑",
+     "link": "https://news.tvbs.com.tw/sports/3259155",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-20T06:58:15+08:00",
+     "description": "",
+     "category": "sports",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "sports",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "川普親手頒大力神盃！西班牙登頂世界盃　冠軍頒獎瞬間引爆全球",
+     "link": "https://sports.ettoday.net/news/3204093",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-20T06:52:00+08:00",
+     "description": "美加墨世界盃冠軍戰迎來史詩級結局！西班牙在正規時間圍攻未果，逼入延長賽後靠著替補上陣的托雷斯（Ferran Torres）於第106分鐘踢進致勝球，終場1比0氣走衛冕軍阿根廷。賽後由川普親頒大力神盃給「無敵艦隊」，引爆全球高度關注，見證新世代王者誕生。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "2026世足／西班牙睽違16年奪大力神盃！　1比0擊敗衛冕軍阿根廷",
+     "link": "https://www.mirrormedia.mg/story/20260720edi007",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-07-20T06:42:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
      }
     }
    ]
@@ -814,7 +1020,7 @@
      "link": "https://news.tvbs.com.tw/life/3261674",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-19T14:01:51+08:00",
+     "published": "2026-07-19T13:58:15+08:00",
      "description": "",
      "category": "life",
      "metadata": {
@@ -865,7 +1071,7 @@
    ]
   },
   {
-   "id": "49495fd1fd3c",
+   "id": "ef4e077ede5c",
    "title": "萬里溪堰塞湖恐溢流台鐵部分車班停駛　花蓮站午後湧人潮趕搭末班",
    "outlet_count": 10,
    "outlets": [
@@ -880,15 +1086,34 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 80,
-   "first_seen": "2026-07-17T07:22:50+08:00",
-   "last_updated": "2026-07-20T00:36:46.052192+08:00",
+   "article_count": 78,
+   "first_seen": "2026-07-17T09:04:12+08:00",
+   "last_updated": "2026-07-20T08:58:15.830865+08:00",
    "tags": [
     "里溪堰塞湖",
     "溢流",
     "花蓮"
    ],
    "articles": [
+    {
+     "title": "萬里溪堰塞湖仍紅色警戒！花蓮「2地區」今停班停課",
+     "link": "https://news.ebc.net.tw/news/living/562060",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-20T08:58:15.830865+08:00",
+     "description": "花蓮縣政府於昨（19）日深夜公布最新防災資訊指出，根據農業部林業及自然保育署最新監測資料，萬里溪堰塞湖水位已上升至壩頂，目前仍維持紅色警戒。考量堰塞湖潛在風險，",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
     {
      "title": "花蓮縣府宣布：2地區明天停班停課",
      "link": "https://news.ebc.net.tw/news/living/562054",
@@ -1045,28 +1270,11 @@
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
-    },
-    {
-     "title": "萬里溪堰塞湖水位距壩頂6公分 若潰決影響範圍侷限河道內",
-     "link": "https://news.pts.org.tw/article/818318",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-07-19T19:59:00+08:00",
-     "description": "萬里溪堰塞湖水位持續攀升，由於紅色警戒持續維持，中央災害應變中心掌握到，至今（19）日下午3時，堰塞湖水位約1087.44公尺、蓄水量538.85萬噸，若發生溢流或潰決，影響範圍仍會侷限於河道內。此外，監測的1號水位計凌晨發生間歇性異常，經過專家判讀，證實沒有發生溢流，未來先以2號水位計的監測數據為主。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
     }
    ]
   },
   {
-   "id": "7b1d687c1b7d",
+   "id": "960eba52d337",
    "title": "民進黨：食安無妥協空間　吳崢用詞欠缺謹慎願檢討致歉",
    "outlet_count": 10,
    "outlets": [
@@ -1248,12 +1456,12 @@
      }
     },
     {
-     "title": "發言人失言惹議！民進黨認「用詞欠缺謹慎」：吳崢願深自檢討並致歉| 政治",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5NTkxWMFV1aTNtMmE1NzJGbWRIV2lldlN1MWdtVGVaUElEWlRsZkVUV3RhNnRHR2RvRU00d1EwSGgxbWJyek55VQ?oc=5",
+     "title": "發言人失言惹議！民進黨認「用詞欠缺謹慎」：吳崢願深自檢討並致歉",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5NTkxWMFV1aTNtMmE1NzJGbWRIV2lldlN1MWdtVGVaUElEWlRsZkVUV3RhNnRHR2RvRU00d1EwSGgxbWJyek55VdIBTEFVX3lxTE5KNkd0aVlTQ2tpYW5fa2ptMUt0c25xNmxiVi02dVVpenVQamNSeC1UeUpfSFU5RThuS3NaMUJEX2t0V00xVkE2TXc5bTQ?oc=5",
      "source": "setn",
      "source_name": "三立新聞網",
      "published": "2026-07-17T15:05:00+08:00",
-     "description": "發言人失言惹議！民進黨認「用詞欠缺謹慎」：吳崢願深自檢討並致歉| 政治  三立新聞",
+     "description": "發言人失言惹議！民進黨認「用詞欠缺謹慎」：吳崢願深自檢討並致歉  三立新聞網SETN.com",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -1267,629 +1475,23 @@
    ]
   },
   {
-   "id": "c4b211c312b3",
-   "title": "天氣／紅霞颱風最快今生成！最新路徑曝　專家：又一個短命颱",
-   "outlet_count": 9,
-   "outlets": [
-    "chinatimes",
-    "ebc",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "newtalk",
-    "nownews",
-    "storm",
-    "tvbs"
-   ],
-   "article_count": 38,
-   "first_seen": "2026-07-17T07:22:50+08:00",
-   "last_updated": "2026-07-19T20:37:08.277430+08:00",
-   "tags": [
-    "天氣",
-    "午後"
-   ],
-   "articles": [
-    {
-     "title": "下週恐有颱風生成！ 專家揭對台影響：這些地區降雨增多",
-     "link": "https://news.ebc.net.tw/news/living/562016",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-19T20:37:08.277430+08:00",
-     "description": "氣象專家吳聖宇也在今天發文表示，25、26日將有一個熱帶擾動逐漸經過菲律賓，往南海方向移動，正在觀察未來是否成為颱風，以及對台灣天氣是否造成影響。",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "明天的天氣／全台變天豪雨狂下！「連5天雷雨猛炸」下周颱風何時生成？一周天氣一次看| 陳得馥 | 風生活",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9YOGRJcUg2OHhqRE5CSGZBYzlLNl80b24xQkdqRHdfbC1RYnZxYkFvRXB5cGFUTEdrZVdDbDRsT0FaUXlRU05hT3lmVjMxVk9D?oc=5",
-     "source": "storm",
-     "source_name": "風傳媒",
-     "published": "2026-07-19T18:45:04+08:00",
-     "description": "明天的天氣／全台變天豪雨狂下！「連5天雷雨猛炸」下周颱風何時生成？一周天氣一次看| 陳得馥 | 風生活  風傳媒",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "明天天氣／午後雷雨「又快又急」炸5地！新颱風恐生成",
-     "link": "https://news.tvbs.com.tw/life/3261892",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-19T18:17:50+08:00",
-     "description": "",
-     "category": "life",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "明天南部整天水氣多　午後北部防短延時豪雨",
-     "link": "https://www.ettoday.net/news/20260719/3203952.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-19T17:02:00+08:00",
-     "description": "明天南部地區水氣仍多，午後北部地區及中部山區有短延時豪雨。周二起降雨趨緩，但後半周關島至菲律賓東方海面有熱帶擾動發展跡象，路徑仍需觀察。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "全台熱翻！雙北等6縣市飆36度高溫　專家：果樹恐「日燒」",
-     "link": "https://news.tvbs.com.tw/life/3260871",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-19T13:28:52.543531+08:00",
-     "description": "",
-     "category": "life",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "天氣／小心中暑！8縣市亮高溫橙黃燈　雙北注意連續36度高溫",
-     "link": "https://news.tvbs.com.tw/life/3260955",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-19T13:28:52.543531+08:00",
-     "description": "",
-     "category": "life",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "可能又有新颱風專家揭預測路徑、對台影響- 生活",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGMHphN1h2amhBeVlxa2FiSThCc1ktVFU4b1c1ZEJBOEhHTHJOVDFpNlN4OW5NRUNsM2hSS1k4Q2h3eEZFRGJabEhfMk93Ym1xWnpQbjRKQU9TZFh6U3kzWFJlR3diRC1NVUNpZkpR?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-07-19T11:12:10+08:00",
-     "description": "可能又有新颱風專家揭預測路徑、對台影響- 生活  中時新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "中部以北午後防短延時豪雨　未來一周又有熱帶擾動發展",
-     "link": "https://www.ettoday.net/news/20260719/3203758.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-19T10:43:00+08:00",
-     "description": "南部持續受西南風影響，整天有短暫陣雨或雷雨，並有局部大雨，今、明天中部以北午後有短延時豪雨發生機率。另外，這周關島至菲律賓東方海面有熱帶擾動發展跡象，不過位置及路徑仍有不確定性，後續須持續觀察。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "天氣預報/恐有新颱風來了！最新預估路徑曝「連3天全台大雨猛下」，直到這天才放晴回穩| 陳得馥 | 風生活",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vTG5PNEFoUXptZjlZclZyQldzMG5WN1QtWkNrYXQtcVNGeFoxNGVuejdtM3lzOUs2MXlxU2MxN2F5T3A1VVRydmRCNUJSV0JX?oc=5",
-     "source": "storm",
-     "source_name": "風傳媒",
-     "published": "2026-07-19T09:56:40+08:00",
-     "description": "天氣預報/恐有新颱風來了！最新預估路徑曝「連3天全台大雨猛下」，直到這天才放晴回穩| 陳得馥 | 風生活  風傳媒",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "天氣／可能有新颱風！最新預測路徑曝　台灣3地炸雨",
-     "link": "https://news.tvbs.com.tw/life/3261479",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-19T09:40:11+08:00",
-     "description": "",
-     "category": "life",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    }
-   ]
-  },
-  {
-   "id": "76f50e6aeb0a",
-   "title": "阿根廷總統不赴世界盃決賽　堅持幸運儀式留官邸觀戰",
-   "outlet_count": 8,
-   "outlets": [
-    "cna",
-    "ebc",
-    "ettoday",
-    "ltn",
-    "nownews",
-    "pts",
-    "setn",
-    "tvbs"
-   ],
-   "article_count": 33,
-   "first_seen": "2026-07-17T08:13:00+08:00",
-   "last_updated": "2026-07-20T06:32:17+08:00",
-   "tags": [
-    "阿根廷",
-    "西班牙",
-    "世足"
-   ],
-   "articles": [
-    {
-     "title": "世足》阿根廷沒能突破2大魔咒  梅西最後一舞留憾",
-     "link": "https://sports.ltn.com.tw/news/breakingnews/5510874",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-20T06:32:17+08:00",
-     "description": "阿根廷今在世界盃冠軍戰鏖戰至延長賽以0：1不敵西班牙，球王梅西（Lionel Messi）無法在最後一舞率隊完成連霸，仍然沒能打破賽史目前超過60年的連霸魔咒。\n\n\n世界...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "世足》阿根廷90分鐘未進球 寫史上最慘紀錄",
-     "link": "https://sports.ltn.com.tw/news/breakingnews/5510865",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-20T06:19:17+08:00",
-     "description": "阿根廷今天在冠軍賽面對西班牙陷入苦戰，在正規時間90分鐘沒有任何射門，締造自1966年以來冠軍賽最慘紀錄，雖然靠著金手套門將「大馬丁」E.馬丁尼茲（Emiliano Ma...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "世足》阿根廷明星中場遭罰下場 寫一決賽最慘紀錄",
-     "link": "https://sports.ltn.com.tw/news/breakingnews/5510870",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-20T06:15:39+08:00",
-     "description": "2026美加墨世界盃足球賽決賽，阿根廷明星中場費南德斯（Enzo Fernández）在比賽正規賽尾聲因兩張黃牌，變成一張紅牌而被罰下場，成為史上第6位在世界盃決賽吞紅牌...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "世足》阿根廷衛冕夢碎！托雷斯延長賽進球助西班牙奪冠",
-     "link": "https://sports.ltn.com.tw/news/breakingnews/5510866",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-20T06:05:55+08:00",
-     "description": "西班牙今天在世界盃冠軍賽和阿根廷激戰到延長賽，靠著托雷斯（Ferran Torres）關鍵進球，終場以1：0獲勝，自2010年後再度捧起大力神盃，也是隊史第2冠。\n\n\n衛...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "世足》阿根廷90分鐘0射門！和西班牙戰成0：0進入延長賽",
-     "link": "https://sports.ltn.com.tw/news/breakingnews/5510862",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-20T05:31:14+08:00",
-     "description": "西班牙和阿根廷今天在世界盃冠軍賽碰頭，雖然西班牙在傷停補時階段獲得自由球機會，但沒能把握，而阿根廷進攻受阻，正規時間沒有任何射門，雙方戰成0：0進入延長賽。\n\n\n衛冕軍阿...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "世足》阿根廷、西班牙半場0：0 兩隊僅3次射門寫60年來最低",
-     "link": "https://sports.ltn.com.tw/news/breakingnews/5510859",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-20T04:12:50+08:00",
-     "description": "衛冕軍阿根廷今天在世界盃冠軍賽和西班亞碰頭，兩隊在上半場結束戰成0：0，雙方半場合計3次射門，創下1966年以來新低紀錄。\n\n\n眾所矚目的冠軍賽今天登場，由阿根廷對決西班...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "西班牙vs阿根廷最新運彩賠率出爐　看好無敵艦隊登頂封王",
-     "link": "https://sports.ettoday.net/news/3204034",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-19T21:35:00+08:00",
-     "description": "2026年FIFA世界盃即將迎來最震撼的終極戰役！頂級強權「無敵艦隊」西班牙，將與衛冕軍「藍白軍團」阿根廷，於台灣時間20日凌晨3點，在美國紐澤西大都會人壽體育場（MetLife Stadium）引爆象徵至高榮譽的冠軍決戰。根據台灣運彩最新賠率，西班牙被看好能夠登頂封王，捧起至高無上的大力神盃。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "西班牙「37場不敗」戰衛冕軍阿根廷　梅西拚2連霸神話",
-     "link": "https://sports.ettoday.net/news/3204026",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-19T20:59:00+08:00",
-     "description": "2026年FIFA世界盃即將迎來最終「巔峰對決」！台灣時間7月20日凌晨3時，全球足球迷將見證史無前例的歷史時刻。現任歐洲盃冠軍「無敵艦隊」西班牙，將在紐約大都會體育場正面硬碰現任美洲盃冠軍、衛冕軍阿根廷。這不僅是世界盃史上首次由歐、美現任雙冠王會師決賽，更是西班牙「極致防守」與阿根廷「逆轉魔力」的終極對壘。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "世足賽決賽明登場 阿根廷力拚二連霸",
-     "link": "https://news.pts.org.tw/article/818350",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-07-19T19:20:12+08:00",
-     "description": "2026世界盃冠軍戰即將登場，阿根廷要挑戰隊史第4冠，更要成為64年來第一支成功衛冕的球隊，西班牙則要力拚隊史第二座金盃。不過決賽前夕，紐約與紐澤西地區遭遇強烈雷雨，打亂備戰行程。另外，英法季軍戰上演進球大戰，最終英格蘭以6比4擊退法國也寫下近60年來的最佳成績。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "世足／頂尖對決！阿根廷vs. 西班牙爭大力神盃？",
-     "link": "https://news.ebc.net.tw/news/sport/561998",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-19T18:47:50.898781+08:00",
-     "description": "2026 FIFA世界盃冠軍戰將由阿根廷對決西班牙。球評分析，西班牙憑藉傳控與防守占優勢，阿根廷則有梅西領軍、多元進攻火力，雙方將爭奪大力神盃與世界冠軍。",
-     "category": "sport",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "sport",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    }
-   ]
-  },
-  {
-   "id": "2cc267e41de5",
-   "title": "2026世界盃／川普來了！白宮證實「出席冠軍戰」　支持哪一隊也揭曉",
-   "outlet_count": 8,
-   "outlets": [
-    "ebc",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "newtalk",
-    "nownews",
-    "storm",
-    "tvbs"
-   ],
-   "article_count": 32,
-   "first_seen": "2026-07-17T07:39:38+08:00",
-   "last_updated": "2026-07-20T06:31:14+08:00",
-   "tags": [
-    "世界盃",
-    "冠軍"
-   ],
-   "articles": [
-    {
-     "title": "1比0捏碎阿根廷衛冕夢西班牙奪本屆世界盃冠軍| 體育",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ySWdzc3h3cGxqaF9TbmJnbk9rSzZHM3ZKaDFOdFMtRURlMDg2alY2anY3Z0VfS3B2Vm1pN2NqWnNFbzFRMlVYdmZJeHpnWnB2Q0tjNzB1bkt0R1E?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-20T06:31:14+08:00",
-     "description": "1比0捏碎阿根廷衛冕夢西班牙奪本屆世界盃冠軍| 體育  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "世足》梅西冠軍戰未進球！姆巴佩金靴獎2連霸 史上第一人",
-     "link": "https://sports.ltn.com.tw/news/breakingnews/5510869",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-20T06:13:10+08:00",
-     "description": "2026年美加墨世界盃決賽今落幕，在阿根廷球王梅西（Lionel Messi）未進球之下，法國隊前鋒姆巴佩（Kylian Mbappe）確定以10顆進球勇奪金靴獎，成為史...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "英格蘭6：4擊敗法國 奪季軍",
-     "link": "https://sports.ltn.com.tw/news/paper/1763273",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-20T05:30:00+08:00",
-     "description": "〔記者盧養宣／綜合報導〕英格蘭昨在上半場火力全開取得4：0領先，最終在薩卡完成「帽子戲法」帶領下，以6：4擊敗法國，收下隊史首座世界盃季軍，寫下自1966年奪冠後的最佳成績。這場兩隊合計攻進10球，寫下世界盃季軍戰單場最多進球紀錄，也是自1982年匈牙利以10：1血洗薩爾瓦多後總進球數最多的一場。\n…",
-     "author": "盧養宣",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "盧養宣",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "世足》預測世界盃冠軍 溫班亞瑪還在崩潰：我希望他們都別拿！",
-     "link": "https://sports.ltn.com.tw/news/breakingnews/5510860",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-20T04:39:54+08:00",
-     "description": "西班牙與阿根廷今天在世界盃冠軍賽碰頭，但對於家鄉法國隊接連遭遇挫敗的NBA球星「斑馬」溫班亞馬（Victor Wembanyama）而言，顯然還無法釋懷，他今天在紐約出席...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "2026世界盃決賽／延長賽血戰！托雷斯致勝一擊　西班牙1比0擊退阿根廷封王",
-     "link": "https://news.tvbs.com.tw/sports/3261839",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-20T04:31:45+08:00",
-     "description": "",
-     "category": "sports",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "sports",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "世界盃史上最強進球秀！梅西、姆巴佩領銜　美媒評選11組經典好球",
-     "link": "https://sports.ettoday.net/news/3203978",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-19T22:00:00+08:00",
-     "description": "2026年世界盃足球賽迎來史上最大規模擴軍，48支勁旅激戰104場，在最終冠軍戰點燃戰火前，全台球迷見證了破紀錄的307顆進球狂潮！其中「三獅軍團」英格蘭與衛冕軍法國分別狂轟20球，阿根廷也以19球緊追其後。美國《Yahoo Sports》特別評選出本屆11組、共12顆精彩進球，除了梅西、姆巴佩等天王巨星的代表作，更有黑馬球隊令人熱血沸騰的驚奇時刻。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "2026世界盃／超級電腦看衰阿根廷！預測西班牙「59.5%奪冠」　致勝關鍵曝",
-     "link": "https://news.tvbs.com.tw/sports/3262000",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-19T21:49:11+08:00",
-     "description": "",
-     "category": "sports",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "sports",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "2026世界盃／無緣爭冠仍要拚！英法戰爭搶最後榮耀　季軍賽亮點一次看",
-     "link": "https://news.tvbs.com.tw/sports/3259335",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-19T20:37:08.277430+08:00",
-     "description": "",
-     "category": "sports",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "sports",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "2026世界盃／迎戰阿根廷！西班牙隊長預告硬仗將至：須提防梅西",
-     "link": "https://news.tvbs.com.tw/world/3260948",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-19T20:37:08.277430+08:00",
-     "description": "",
-     "category": "world",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "world",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "2026世界盃／世代交替還是傳奇不朽？冠軍、季軍賽「各隊明星一次看」",
-     "link": "https://news.tvbs.com.tw/sports/3259274",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-19T20:37:08.277430+08:00",
-     "description": "",
-     "category": "sports",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "sports",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    }
-   ]
-  },
-  {
    "id": "81f4a37572bf",
    "title": "台中車禍機車騎士困車底一度命危 搶救恢復心跳",
-   "outlet_count": 8,
+   "outlet_count": 9,
    "outlets": [
     "cna",
     "ebc",
     "ettoday",
     "ltn",
+    "mirror",
     "newtalk",
     "pts",
     "setn",
     "tvbs"
    ],
-   "article_count": 16,
+   "article_count": 17,
    "first_seen": "2026-07-18T09:33:26+08:00",
-   "last_updated": "2026-07-19T20:37:08.277430+08:00",
+   "last_updated": "2026-07-20T07:19:00+08:00",
    "tags": [
     "台中",
     "騎士",
@@ -1938,6 +1540,23 @@
     }
    ],
    "articles": [
+    {
+     "title": "台中毒駕賓士女猛撞6車！37歲騎士遭「車輛夾擊」慘死　她驗出4種毒卻毫髮無傷",
+     "link": "https://www.mirrormedia.mg/story/20260720edi002",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-07-20T07:19:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
     {
      "title": "台中豐原嚴重車禍！賓士女毒駕猛撞 男騎士遭夾擊慘死",
      "link": "https://news.ebc.net.tw/news/society/562019",
@@ -2094,24 +1713,6 @@
       },
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "台中多車連環撞 機車遭夾擊騎士命危送醫搶救",
-     "link": "https://www.cna.com.tw/news/asoc/202607190132.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-19T16:29:18+08:00",
-     "description": "（中央社記者蘇木春台中19日電）台中市豐原區今天下午發生5輛汽車追撞並造成1部機車遭夾擊事故，消防局獲報到場將4名傷者送醫，其中1名機車騎士命危搶救，警方正調查釐清事故原因。",
-     "author": "蘇木春",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "蘇木春",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/social"
      }
     }
    ]
@@ -2540,6 +2141,583 @@
    ]
   },
   {
+   "id": "d2f241c2d480",
+   "title": "2026世界盃／季軍戰獎金3000萬美元！英主帥吐真心話：雙方都沒人想踢",
+   "outlet_count": 7,
+   "outlets": [
+    "ebc",
+    "ettoday",
+    "ltn",
+    "mirror",
+    "nownews",
+    "storm",
+    "tvbs"
+   ],
+   "article_count": 25,
+   "first_seen": "2026-07-17T09:28:34+08:00",
+   "last_updated": "2026-07-20T08:58:15.830865+08:00",
+   "tags": [
+    "世界盃",
+    "姆巴佩",
+    "世足"
+   ],
+   "articles": [
+    {
+     "title": "世足／羅德里勇奪世界盃金球獎！姆巴佩10球蟬聯金靴",
+     "link": "https://news.ebc.net.tw/news/sport/562065",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-20T08:58:15.830865+08:00",
+     "description": "新科世界盃冠軍西班牙在MetLife體育場以1比0擊敗阿根廷奪冠後，更在個人獎項上大獲全勝，創下個人榮譽的「帽子戲法」。",
+     "category": "sport",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "sport",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "2026世界盃／冠軍賽中場表演太久遭批　英國傳奇名將怒轟：爛透了",
+     "link": "https://news.tvbs.com.tw/sports/3262109",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-20T08:49:15+08:00",
+     "description": "",
+     "category": "sports",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "sports",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "2026世界盃／川普現身決賽　阿湯哥暖場、瑪丹娜大秀嗨翻",
+     "link": "https://news.tvbs.com.tw/entertainment/3262066",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-20T07:58:15+08:00",
+     "description": "",
+     "category": "entertainment",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "entertainment",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "世足個人獎項揭曉！西班牙最大贏家、姆巴佩蟬聯金靴史上第一人",
+     "link": "https://sports.ettoday.net/news/3204104",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-20T07:36:00+08:00",
+     "description": "2026年美加墨世界盃於台灣時間20日圓滿落幕，西班牙在冠軍賽中經歷延長賽以1比0擊敗衛冕軍阿根廷，勇奪隊史第2座世界盃冠軍金盃。隨著賽事落幕，各大個人獎項與榮譽也正式揭曉，本屆冠軍西班牙成為最大贏家，包辦三項個人獎項。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "2026世界盃／從被洗澡到打敗他！亞馬爾碎梅西衛冕夢　接下新世代火炬",
+     "link": "https://news.tvbs.com.tw/sports/3259265",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-20T06:58:15+08:00",
+     "description": "",
+     "category": "sports",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "sports",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "世足》梅西冠軍戰未進球！姆巴佩金靴獎2連霸 史上第一人",
+     "link": "https://sports.ltn.com.tw/news/breakingnews/5510869",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-20T06:13:10+08:00",
+     "description": "2026年美加墨世界盃決賽今落幕，在阿根廷球王梅西（Lionel Messi）未進球之下，法國隊前鋒姆巴佩（Kylian Mbappe）確定以10顆進球勇奪金靴獎，成為史...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "英格蘭6：4擊敗法國 奪季軍",
+     "link": "https://sports.ltn.com.tw/news/paper/1763273",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-20T05:30:00+08:00",
+     "description": "〔記者盧養宣／綜合報導〕英格蘭昨在上半場火力全開取得4：0領先，最終在薩卡完成「帽子戲法」帶領下，以6：4擊敗法國，收下隊史首座世界盃季軍，寫下自1966年奪冠後的最佳成績。這場兩隊合計攻進10球，寫下世界盃季軍戰單場最多進球紀錄，也是自1982年匈牙利以10：1血洗薩爾瓦多後總進球數最多的一場。\n…",
+     "author": "盧養宣",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "盧養宣",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "世界盃史上最強進球秀！梅西、姆巴佩領銜　美媒評選11組經典好球",
+     "link": "https://sports.ettoday.net/news/3203978",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-19T22:00:00+08:00",
+     "description": "2026年世界盃足球賽迎來史上最大規模擴軍，48支勁旅激戰104場，在最終冠軍戰點燃戰火前，全台球迷見證了破紀錄的307顆進球狂潮！其中「三獅軍團」英格蘭與衛冕軍法國分別狂轟20球，阿根廷也以19球緊追其後。美國《Yahoo Sports》特別評選出本屆11組、共12顆精彩進球，除了梅西、姆巴佩等天王巨星的代表作，更有黑馬球隊令人熱血沸騰的驚奇時刻。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "2026世界盃／世代交替還是傳奇不朽？冠軍、季軍賽「各隊明星一次看」",
+     "link": "https://news.tvbs.com.tw/sports/3259274",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-19T20:37:08.277430+08:00",
+     "description": "",
+     "category": "sports",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "sports",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "2026世界盃／無緣爭冠仍要拚！英法戰爭搶最後榮耀　季軍賽亮點一次看",
+     "link": "https://news.tvbs.com.tw/sports/3259335",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-19T20:37:08.277430+08:00",
+     "description": "",
+     "category": "sports",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "sports",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    }
+   ]
+  },
+  {
+   "id": "7b828a8fcc7d",
+   "title": "高溫飆破36度「午後雷雨還沒完」　下周又有熱帶擾動",
+   "outlet_count": 7,
+   "outlets": [
+    "ebc",
+    "ettoday",
+    "ltn",
+    "mirror",
+    "newtalk",
+    "nownews",
+    "tvbs"
+   ],
+   "article_count": 30,
+   "first_seen": "2026-07-17T17:51:00+08:00",
+   "last_updated": "2026-07-20T08:58:15.830865+08:00",
+   "tags": [
+    "熱帶擾動",
+    "午後",
+    "天氣"
+   ],
+   "articles": [
+    {
+     "title": "淑麗氣象／今再防午後雷雨 周三起典型夏季天氣回歸",
+     "link": "https://news.ebc.net.tw/news/living/562061",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-20T08:58:15.830865+08:00",
+     "description": "今（20日）受台灣位於太平洋高壓西側邊緣，以及南海水氣偏多、西南風影響下，各地午後對流發展旺盛，《EBC東森新聞》氣象主播王淑麗提醒，北部、中部山區甚至有局部短",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "天氣／7月下旬恐有颱風？林得恩曝最新預測：進入熱帶擾動活躍期",
+     "link": "https://news.tvbs.com.tw/life/3262080",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-20T07:58:15+08:00",
+     "description": "",
+     "category": "life",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "life",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "天氣／全台進烤箱飆36度！午後「暴力雷雨」狂炸　連日降雨熱區一次看",
+     "link": "https://news.tvbs.com.tw/life/3262081",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-20T07:58:15+08:00",
+     "description": "",
+     "category": "life",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "life",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "高溫飆36度注意防曬！太平洋高壓偏弱　專家示警午後易有強對流",
+     "link": "https://www.mirrormedia.mg/story/20260720edi008",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-07-20T07:35:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "颱風季最新預測　熱帶擾動活躍期開始",
+     "link": "https://www.ettoday.net/news/20260720/3204087.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-20T06:22:00+08:00",
+     "description": "進入颱風季，氣象專家林得恩提醒，7月下旬「熱帶擾動活躍期」開始！ 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "今「雨最大」　午後全台溼答答",
+     "link": "https://www.ettoday.net/news/20260720/3204084.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-20T06:14:00+08:00",
+     "description": "中央氣象署表示，今天台灣位於太平洋高壓西側邊緣，南海水氣偏多，伴隨西南風影響，將水氣輸送至台灣附近，南部不定時有短暫陣雨或雷雨，並有不定時局部大雨發生的機率；清晨至上午因環境西南風與陸風輻合，中部有零星短暫陣雨；午後中部以北、宜蘭、花蓮、各山區均有局部短暫雷陣雨，並且容易出現局部大雨，尤其在北部、中部山區甚至有局部短延時豪雨機率。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "下週恐有颱風生成！ 專家揭對台影響：這些地區降雨增多",
+     "link": "https://news.ebc.net.tw/news/living/562016",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-19T20:37:08.277430+08:00",
+     "description": "氣象專家吳聖宇也在今天發文表示，25、26日將有一個熱帶擾動逐漸經過菲律賓，往南海方向移動，正在觀察未來是否成為颱風，以及對台灣天氣是否造成影響。",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "明天天氣／午後雷雨「又快又急」炸5地！新颱風恐生成",
+     "link": "https://news.tvbs.com.tw/life/3261892",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-19T18:17:50+08:00",
+     "description": "",
+     "category": "life",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "life",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "明天南部整天水氣多　午後北部防短延時豪雨",
+     "link": "https://www.ettoday.net/news/20260719/3203952.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-19T17:02:00+08:00",
+     "description": "明天南部地區水氣仍多，午後北部地區及中部山區有短延時豪雨。周二起降雨趨緩，但後半周關島至菲律賓東方海面有熱帶擾動發展跡象，路徑仍需觀察。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "天氣／小心中暑！8縣市亮高溫橙黃燈　雙北注意連續36度高溫",
+     "link": "https://news.tvbs.com.tw/life/3260955",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-19T13:28:52.543531+08:00",
+     "description": "",
+     "category": "life",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "life",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    }
+   ]
+  },
+  {
+   "id": "22121b8cc394",
+   "title": "吳宗憲證實「離婚12年」！財產全給前妻張葳葳　吳姍儒出手了",
+   "outlet_count": 7,
+   "outlets": [
+    "chinatimes",
+    "ettoday",
+    "ltn",
+    "mirror",
+    "nownews",
+    "tvbs",
+    "udn"
+   ],
+   "article_count": 8,
+   "first_seen": "2026-07-19T16:33:45+08:00",
+   "last_updated": "2026-07-20T08:52:46+08:00",
+   "tags": [
+    "吳宗憲",
+    "張葳葳",
+    "離婚"
+   ],
+   "articles": [
+    {
+     "title": "吳宗憲離婚藏12年   陳沂：活的負面教材",
+     "link": "https://ent.ltn.com.tw/news/breakingnews/5510919",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-20T08:52:46+08:00",
+     "description": "〔娛樂頻道／綜合報導〕綜藝天王吳宗憲爆驚人秘辛，首公開承認已與妻子張葳葳離婚12年，並說當年結束婚姻並非意氣用事，而是在大女兒「Sandy」吳姍儒鼓勵與陪伴下和平簽字，連離婚手續都是由女兒幫忙跑...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "吳宗憲離婚張葳葳12年！吳姍儒幫辦手續　本人親揭分開內幕",
+     "link": "https://star.ettoday.net/news/3204013",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-19T19:23:00+08:00",
+     "description": "綜藝天王吳宗憲與張葳葳1990年結婚，婚後育有3女1子，過去鮮少談及家庭生活，日前才坦言夫妻早已分居。沒想到昨（18日）他帶著《憲憲同樂會》登上馬來西亞雲頂世界雲星劇場演出時，竟首度鬆口透露，兩人其實早在12年前就已離婚，話一出引發全場震驚。對此，記者求證吳宗憲本人，他證實此事，並表示當年是和平離婚，沒有刻意隱瞞，只是一直沒有對外特別提起。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "吳宗憲離婚藏12年！鬆口與張葳葳「婚變內幕」　淨身出戶財產歸她",
+     "link": "https://news.tvbs.com.tw/entertainment/3261887",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-19T18:33:45+08:00",
+     "description": "",
+     "category": "entertainment",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "entertainment",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "吳宗憲首認離婚12年！財產全留前妻張葳葳　坦言：我不是好老公",
+     "link": "https://www.mirrormedia.mg/story/20260719edi062",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-07-19T17:41:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "吳宗憲震撼認已離婚12年！財產全留前妻真相首曝光- 娛樂",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4zQmFlMVJwRlUwWVBUM2JkUlZKX2pZYU03bUpiTllYYldjOHE0SlVNZHVmNjBlV0RycXI2ZXNZN2NieW5idWtPT2ZpN2Y4RVA0UjlPM25ZanVmUnMtNHNmSF8yZDlfZzcydG1uaVVR?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-07-19T17:09:06+08:00",
+     "description": "吳宗憲震撼認已離婚12年！財產全留前妻真相首曝光- 娛樂  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "吳宗憲證實離婚12年！曾認分居張葳葳　財產全留給前妻",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9MVGlVbXhPZXZuSzBkSEtkZk9hYW9vTGNuTElOQlFpbEZSbzZ0M3ZYQXQyZW1vQkFvRnFQYUlIdjhxVG5wcC1VcFNXTWvSAVJBVV95cUxQbGgwNUhkOUtQZTk0NmZGS25sYV9XclNmU3Y3RmRRWTZVR2h4bzZ5VE82cEdWSjRUSWdnX3pHX1o1RU9YVFJGdXRFVTZzcDREdkdB?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-07-19T16:58:10+08:00",
+     "description": "快訊／吳宗憲證實離婚12年！曾認分居張葳葳　財產全留給前妻  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "不是分居！吳宗憲認了和張葳葳離婚12年 嘆：我不是好老公",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XRzZBblF2dks5UWI5akFET3RaWXJuVGtWTDZ5T0F4aVNKUHRuMzJ0dC00Rnh3MFdMbHpRSE8zMV9aS0ZhQ1ZjS3hYY083WVB3OXdOQXlHZ2JzZ9IBX0FVX3lxTE9CM3RNLW9PQjlmcmdxVVZxRWYyMWcyQy0zLXVvZ000MnQxWG11SzMtQndRLS1ZU0RwZGNrLXhhQ0dQazlFYXE3LW1NcHAtQ3lmbTZwUVVwT0N2TmZKQ1BF?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-07-19T16:56:43+08:00",
+     "description": "不是分居！吳宗憲認了和張葳葳離婚12年 嘆：我不是好老公  噓！星聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "吳宗憲證實「離婚12年」！財產全給前妻張葳葳　吳姍儒出手了",
+     "link": "https://news.tvbs.com.tw/entertainment/3261784",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-19T16:33:45+08:00",
+     "description": "",
+     "category": "entertainment",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "entertainment",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    }
+   ]
+  },
+  {
    "id": "d2ab16275b80",
    "title": "天氣／午後雨來了！對流旺盛「12縣市大雨特報」　防雷擊強風",
    "outlet_count": 7,
@@ -2552,13 +2730,32 @@
     "nownews",
     "tvbs"
    ],
-   "article_count": 30,
+   "article_count": 31,
    "first_seen": "2026-07-17T13:25:22+08:00",
-   "last_updated": "2026-07-19T22:24:00+08:00",
+   "last_updated": "2026-07-20T08:37:15+08:00",
    "tags": [
     "縣市大雨特報"
    ],
    "articles": [
+    {
+     "title": "天氣／午後雨彈再炸！北部中部山區防豪雨　3縣市高溫亮燈",
+     "link": "https://news.tvbs.com.tw/life/3262106",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-20T08:37:15+08:00",
+     "description": "",
+     "category": "life",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "life",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
     {
      "title": "2縣市大雨特報！　最新警戒區域曝",
      "link": "https://www.ettoday.net/news/20260719/3204052.htm",
@@ -2719,14 +2916,172 @@
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
+    }
+   ]
+  },
+  {
+   "id": "314036043d7a",
+   "title": "一週大事／中聯總經理遭羈押、政院公布青安3.0（2026.7.13-7.19）",
+   "outlet_count": 7,
+   "outlets": [
+    "ettoday",
+    "ltn",
+    "newtalk",
+    "nownews",
+    "pts",
+    "tvbs",
+    "udn"
+   ],
+   "article_count": 24,
+   "first_seen": "2026-07-17T11:00:00+08:00",
+   "last_updated": "2026-07-20T07:58:15+08:00",
+   "tags": [],
+   "articles": [
+    {
+     "title": "【唐綺陽星座運勢週報 7/20-7/26】牡羊感情悲觀　金牛防焦慮",
+     "link": "https://news.tvbs.com.tw/life/3260652",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-20T07:58:15+08:00",
+     "description": "",
+     "category": "life",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "life",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
     },
     {
-     "title": "雨區擴大！15縣市大雨下到深夜",
-     "link": "https://www.ettoday.net/news/20260719/3203825.htm",
+     "title": "（2026/07/20）星座運勢／雙魚把握市場機會　牡羊座理性分析資產",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02SkhndEdkaVI5bWZuWk55ZHdGSWc2bzNMbUJnTXNjSXpMNXI2Y0x2VGhHSGQxT1dLdW9ZSDdTZjNDMnVrSWlHZF8zWExELWx6Z2fSAVJBVV95cUxNNkpIZ3RHZGlSOW1mblpOeWR3RklnNm8zTG1CZ01zY0l6TDVyNmNMdlRoR0hkMU9XS3VvWUg3U2YzQzJ1a0lpR2RfM1hMRC1semdn?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-07-20T07:00:00+08:00",
+     "description": "（2026/07/20）星座運勢／雙魚把握市場機會　牡羊座理性分析資產  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "【7/20-7/26星座錦囊】大暑到！5星座「金靴、金手套發威」能賺又能守",
+     "link": "https://ent.ltn.com.tw/news/breakingnews/5510825",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-20T05:55:28+08:00",
+     "description": "〔娛樂頻道／綜合報導〕本週星象大反轉，誰是財運界的姆巴佩和西蒙？\n\n\n星座專家「安德魯的賤聲房」以2026世界盃足球賽事進行比喻，本週7/23這天，不只送走作祟許久的水逆，更迎來24節氣裡最讓人...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "經濟日報 2026-07-20 星期一",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qaVA1aUNkRmlEMVpLNXd3d1Z1Qk5hcnpib3BCZlNZVnU5WmFvWTFSUGxha3o4dnpGZXB0ZmtDTlE0bDhNS3k3dzcyTzRra0VtYzIzZnVn?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-07-20T04:17:48+08:00",
+     "description": "經濟日報 2026-07-20 星期一  琅琅悅讀",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "新聞分類總覽 - 2026-07-20",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56Z0dRNDhrUUptRjZ0UTNFem0xZUlZV0hjV1E1Vy1qbHFtMmNRMUd3UEpxQWZLaHh1T0JoandVRzBCNzJOSVlzUUNaMkJNZ190SjFaSFlSNA?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-20T02:04:20+08:00",
+     "description": "新聞分類總覽 - 2026-07-20  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "新聞分類總覽 - 2026-07-20",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBRUkN6bVI2ajhxX29hU296eFFSQWh2Sks2azJMc0dnYWk2Q2dRVFhIWTFILWJ3NXJkNGd6RGhfVkI1elkyOXpVbDZUdFU2dm9yejVfY0U0OA?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-20T00:03:01+08:00",
+     "description": "新聞分類總覽 - 2026-07-20  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "一週大事／中聯總經理遭羈押、政院公布青安3.0（2026.7.13-7.19）",
+     "link": "https://news.pts.org.tw/article/818315",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-07-19T17:08:13+08:00",
+     "description": "《公視新聞網》為您精選一週國內外大事，關注焦點包括：中聯總經理遭羈押、政院公布青安3.0、新竹音樂教室命案、名古屋亞運名單公布、萬里溪堰塞湖發布紅色警戒、泰國酒吧大火釀30死、英格蘭奪世足賽季軍。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "國考英文每日一題2026.07.19",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5510176",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-19T11:00:00+08:00",
+     "description": "題目：\nThe physician told Helen to get bed rest, _____ her feet, and take some medication.\n\n選項：\n（A）...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "7月19日星座運勢／巨蟹迎幸福起點　雙魚創造愉快氛圍",
+     "link": "https://star.ettoday.net/news/3203406",
      "source": "ettoday",
      "source_name": "ETtoday",
-     "published": "2026-07-19T12:20:00+08:00",
-     "description": "中央氣象署針對15縣市發布大雨特報，因對流雲系發展旺盛，易有短延時強降雨，今（19）日台中以北、嘉義以南、南投地區及雲林山區有局部大雨發生的機率，請注意雷擊及強陣風，山區請留意坍方、落石及溪水暴漲，低窪地區請慎防積水。 《詳全文...》",
+     "published": "2026-07-19T08:00:00+08:00",
+     "description": "小孟老師每日星座運勢解析，7月19日如下： 《詳全文...》",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -2735,6 +3090,221 @@
       },
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "新聞分類總覽 - 2026-07-19",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44Q25pOE5IZHBXLVg0eWFBVnpUQUhYeHROc29ZV21CYlc5aUo1WWxBZFBiV1IzMkR0aWZiN0dEWFUwVGx3YmFKQzQ1NW1yMnRneHJGdjlRMA?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-19T00:03:34+08:00",
+     "description": "新聞分類總覽 - 2026-07-19  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
+   "id": "112023090e87",
+   "title": "綠中執委改選　新系9席最大贏家、湧言會僅2席",
+   "outlet_count": 7,
+   "outlets": [
+    "cna",
+    "ltn",
+    "mirror",
+    "newtalk",
+    "nownews",
+    "tvbs",
+    "udn"
+   ],
+   "article_count": 12,
+   "first_seen": "2026-07-19T17:49:50+08:00",
+   "last_updated": "2026-07-19T20:47:00+08:00",
+   "tags": [
+    "民進黨",
+    "中常委",
+    "王定宇"
+   ],
+   "articles": [
+    {
+     "title": "民進黨中常委改選　湧言會改由林智鴻代表入常會",
+     "link": "https://www.mirrormedia.mg/story/20260719-165inv-204733",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-07-19T20:47:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "中常委改選新潮流拿3席　妃系、湧言等派系各1席",
+     "link": "https://www.cna.com.tw/news/aipl/202607190187.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-19T20:13:20+08:00",
+     "description": "（中央社記者葉素萍、王揚宇、溫貴香台北19日電）民進黨全代會今天改選黨內權力結構，新潮流系拿下3席中常委，是黨內最大派系，英系等其他派系各拿下1席；湧言會獲陳其邁系統奧援保住1席中常委，但現任中常委王定宇交棒給同派系林智鴻，陳亭妃胞妹陳怡珍也搶進1席中常委。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
+     }
+    },
+    {
+     "title": "綠營權力核心重組！泛賴系中常委強勢過半 王定宇交棒林智鴻",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5510702",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-19T20:02:47+08:00",
+     "description": "民進黨內權力核心今（19日）重組，晚間從30席中執委選出10席中常委。新潮流系最終以3席稱霸，正國會、綠色友誼連線、民主活水、湧言會、英系、蘇系、陳亭妃系統則各拿下1席，尤以湧...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "沒有王定宇！民進黨中常委改選結果揭曉　親賴陣營搶7席大勝",
+     "link": "https://news.tvbs.com.tw/politics/3261951",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-19T19:33:45+08:00",
+     "description": "",
+     "category": "politics",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "politics",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "民進黨改選中評會　立委邱志偉擔任主委",
+     "link": "https://www.cna.com.tw/news/aipl/202607190178.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-19T19:31:00+08:00",
+     "description": "（中央社記者王揚宇、葉素萍台北19日電）民進黨全代會今天進行中央評議委員會改選，13人登記參選搶11席中評委，最後推舉民進黨立委邱志偉擔任中評會主委。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
+     }
+    },
+    {
+     "title": "民進黨中評委結果出爐！新潮流邱志偉接棒賴瑞隆",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83VXZlSU1MbjlWbzdadWRlWkNwWlpsbHQyU1lWZXpFbWxFa3Z4a1FMdnVRbU5rbFNDMXlzMHZMYTFzUHY5b2x6RjFVUUh0Y3R2WVHSAVJBVV95cUxPN1V2ZUlNTG45Vm83WnVkZVpDcFpabGx0MlNZVmV6RW1sRWt2eGtRTHZ1UW1Oa2xTQzF5czB2TGExc1B2OW9sekYxVVFIdGN0dllR?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-07-19T19:28:36+08:00",
+     "description": "民進黨中評委結果出爐！新潮流邱志偉接棒賴瑞隆  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "民進黨權力核心出爐！泛賴系奪7席、非賴系3席王定宇讓出中常委| 政治",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPVzh0UjJjVmNIbzhxOGNVcW91ckluRkRkbW5jRnBrQ2ZYVnRvdk82bHhVSnlNbHJpclYzbGRhVnN6LVBYOW1YZEYzS3dueV96QjlGcGxZUnRmWHc?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-19T19:19:24+08:00",
+     "description": "民進黨權力核心出爐！泛賴系奪7席、非賴系3席王定宇讓出中常委| 政治  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "民進黨中執委改選名單出爐！妃系2席全上　湧言會1人落馬",
+     "link": "https://news.tvbs.com.tw/politics/3261878",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-19T18:36:08+08:00",
+     "description": "",
+     "category": "politics",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "politics",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "綠中執委改選　新系9席最大贏家、湧言會僅2席",
+     "link": "https://www.cna.com.tw/news/aipl/202607190172.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-19T18:30:47+08:00",
+     "description": "（中央社記者葉素萍、王揚宇、溫貴香台北19日電）民進黨今天召開全代會改選權力核心，35人搶30席中執委，新潮流系拿下9席是最大贏家；湧言會規劃3席中執委，最後僅拿下2席，包括立委王定宇、高雄市議員林智鴻，若中常委選舉時，湧言會無法獲得其他派系奧援，恐將無法保住現有1席中常委。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
+     }
+    },
+    {
+     "title": "民進黨新任中執委出爐！泛賴系20人、非賴系10人 新潮流斬獲9席",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IdWJBei1OeFQ3cXlxTEF4N29zcDI4cTM0dHpHdFN4UWdoOUNzR2xJZGFhdjVVWGptdHYyVHo2S3JNdlFwTWxJMDhoZEhuM2xw0gFWQVVfeXFMTVVNQ1BIVTh2ckJSMDRtekJLUjR0OUY5QjZJRkRDZEhJNTFYS21CRHp1UWE3SHJESnY0TTMyVU9zeDZ1OFNBRk9CM3p0eGhuN3J6MFZrVFE?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-07-19T18:03:41+08:00",
+     "description": "民進黨新任中執委出爐！泛賴系20人、非賴系10人 新潮流斬獲9席  UDN",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -3534,7 +4104,7 @@
    ]
   },
   {
-   "id": "93713edb059f",
+   "id": "65281f52fdf3",
    "title": "川普全國演說　控中國干預2020美總統大選、竊選民資料[影]",
    "outlet_count": 7,
    "outlets": [
@@ -3592,12 +4162,12 @@
      }
     },
     {
-     "title": "川普全國演說：中國介選 控2020大選 北京對美大規模入侵",
-     "link": "https://news.ltn.com.tw/news/world/paper/1763033",
+     "title": "川普控中國介選》衝擊美中休戰 習九月訪美添變數",
+     "link": "https://news.ltn.com.tw/news/world/paper/1763108",
      "source": "ltn",
      "source_name": "自由時報",
      "published": "2026-07-18T05:30:00+08:00",
-     "description": "〔編譯管淑平／綜合報導〕美國總統川普十六日晚間發表全國演說，同時公布解密文件，指控中國干預美國二〇二〇年大選，對美國選舉資料進行了「史上最大規模入侵」。\n\n\n指中國非法取得2.2億美選民個資 \n\n\n川普在廿五分鐘的演說中指出，解密文件揭露「我國選舉基礎設施中令人震驚的漏洞」，當中包括中國…",
+     "description": "〔國際新聞中心／綜合報導〕美國總統川普十六日晚間在黃金時段發表全國演說，再度指控中國介入二〇二〇年美國總統大選。分析家指出，川普此番言論除反映國內政治考量，也可能使近期逐漸回穩的美中關係再添變數，不僅衝擊美中休戰，更為中國國家主席習近平預定九月訪問華府投下陰影。\n中國外交部：不干涉他國內政\n川普…",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -3609,12 +4179,12 @@
      }
     },
     {
-     "title": "川普控中國介選》衝擊美中休戰 習九月訪美添變數",
-     "link": "https://news.ltn.com.tw/news/world/paper/1763108",
+     "title": "川普全國演說：中國介選 控2020大選 北京對美大規模入侵",
+     "link": "https://news.ltn.com.tw/news/world/paper/1763033",
      "source": "ltn",
      "source_name": "自由時報",
      "published": "2026-07-18T05:30:00+08:00",
-     "description": "〔國際新聞中心／綜合報導〕美國總統川普十六日晚間在黃金時段發表全國演說，再度指控中國介入二〇二〇年美國總統大選。分析家指出，川普此番言論除反映國內政治考量，也可能使近期逐漸回穩的美中關係再添變數，不僅衝擊美中休戰，更為中國國家主席習近平預定九月訪問華府投下陰影。\n中國外交部：不干涉他國內政\n川普…",
+     "description": "〔編譯管淑平／綜合報導〕美國總統川普十六日晚間發表全國演說，同時公布解密文件，指控中國干預美國二〇二〇年大選，對美國選舉資料進行了「史上最大規模入侵」。\n\n\n指中國非法取得2.2億美選民個資 \n\n\n川普在廿五分鐘的演說中指出，解密文件揭露「我國選舉基礎設施中令人震驚的漏洞」，當中包括中國…",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -3751,63 +4321,33 @@
    ]
   },
   {
-   "id": "064e33e873f1",
-   "title": "一週大事／中聯總經理遭羈押、政院公布青安3.0（2026.7.13-7.19）",
+   "id": "2f75295eac9c",
+   "title": "台中舊西北大飯店原址深夜火警　6人困頂樓獲救送醫",
    "outlet_count": 6,
    "outlets": [
+    "cna",
     "ettoday",
     "ltn",
+    "mirror",
     "newtalk",
-    "nownews",
-    "pts",
     "udn"
    ],
-   "article_count": 23,
-   "first_seen": "2026-07-17T07:00:00+08:00",
-   "last_updated": "2026-07-20T05:55:28+08:00",
-   "tags": [],
+   "article_count": 6,
+   "first_seen": "2026-07-19T22:43:49+08:00",
+   "last_updated": "2026-07-20T07:43:31+08:00",
+   "tags": [
+    "西北大飯店",
+    "原址深夜火警",
+    "頂樓獲救送醫"
+   ],
    "articles": [
     {
-     "title": "【7/20-7/26星座錦囊】大暑到！5星座「金靴、金手套發威」能賺又能守",
-     "link": "https://ent.ltn.com.tw/news/breakingnews/5510825",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-20T05:55:28+08:00",
-     "description": "〔娛樂頻道／綜合報導〕本週星象大反轉，誰是財運界的姆巴佩和西蒙？\n\n\n星座專家「安德魯的賤聲房」以2026世界盃足球賽事進行比喻，本週7/23這天，不只送走作祟許久的水逆，更迎來24節氣裡最讓人...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "經濟日報 2026-07-20 星期一",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qaVA1aUNkRmlEMVpLNXd3d1Z1Qk5hcnpib3BCZlNZVnU5WmFvWTFSUGxha3o4dnpGZXB0ZmtDTlE0bDhNS3k3dzcyTzRra0VtYzIzZnVn?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-07-20T04:17:48+08:00",
-     "description": "經濟日報 2026-07-20 星期一  琅琅悅讀",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "新聞分類總覽 - 2026-07-20",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56Z0dRNDhrUUptRjZ0UTNFem0xZUlZV0hjV1E1Vy1qbHFtMmNRMUd3UEpxQWZLaHh1T0JoandVRzBCNzJOSVlzUUNaMkJNZ190SjFaSFlSNA?oc=5",
+     "title": "台中舊西北大飯店原址深夜火警6人困頂樓獲救送醫| 社會",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14OG96V0lrdGFDS1BZbHNPRlVtUFZPc2lhOGF5TkZlNVRCeFBLWE93NVZnRVBmY3hCWF9EcnVZVlAxSl9qNUp1R0VxX21OQnd6RzQ0RFEyY1pfa00?oc=5",
      "source": "newtalk",
      "source_name": "新頭殼",
-     "published": "2026-07-20T02:04:20+08:00",
-     "description": "新聞分類總覽 - 2026-07-20  Newtalk新聞",
+     "published": "2026-07-20T07:43:31+08:00",
+     "description": "台中舊西北大飯店原址深夜火警6人困頂樓獲救送醫| 社會  Newtalk新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -3819,29 +4359,12 @@
      }
     },
     {
-     "title": "新聞分類總覽 - 2026-07-20",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBRUkN6bVI2ajhxX29hU296eFFSQWh2Sks2azJMc0dnYWk2Q2dRVFhIWTFILWJ3NXJkNGd6RGhfVkI1elkyOXpVbDZUdFU2dm9yejVfY0U0OA?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-20T00:03:01+08:00",
-     "description": "新聞分類總覽 - 2026-07-20  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "一週大事／中聯總經理遭羈押、政院公布青安3.0（2026.7.13-7.19）",
-     "link": "https://news.pts.org.tw/article/818315",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-07-19T17:08:13+08:00",
-     "description": "《公視新聞網》為您精選一週國內外大事，關注焦點包括：中聯總經理遭羈押、政院公布青安3.0、新竹音樂教室命案、名古屋亞運名單公布、萬里溪堰塞湖發布紅色警戒、泰國酒吧大火釀30死、英格蘭奪世足賽季軍。",
+     "title": "西北大飯店舊址大火6人獲救！外籍移工自責1事　消防暖回：你做得很好",
+     "link": "https://www.mirrormedia.mg/story/20260720edi001",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-07-20T06:52:00+08:00",
+     "description": "",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -3849,33 +4372,16 @@
        "source": "unknown"
       },
       "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
      }
     },
     {
-     "title": "國考英文每日一題2026.07.19",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5510176",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-19T11:00:00+08:00",
-     "description": "題目：\nThe physician told Helen to get bed rest, _____ her feet, and take some medication.\n\n選項：\n（A）...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "7月19日星座運勢／巨蟹迎幸福起點　雙魚創造愉快氛圍",
-     "link": "https://star.ettoday.net/news/3203406",
+     "title": "西北大飯店舊址大火6人全獲救　外籍移工自責…消防讚：你做得很好",
+     "link": "https://www.ettoday.net/news/20260720/3204063.htm",
      "source": "ettoday",
      "source_name": "ETtoday",
-     "published": "2026-07-19T08:00:00+08:00",
-     "description": "小孟老師每日星座運勢解析，7月19日如下： 《詳全文...》",
+     "published": "2026-07-20T01:25:00+08:00",
+     "description": "台中市中區台灣大道一段已歇業的「西北大飯店」原址19日晚間發生火警，火勢自3樓竄出，頂樓一度有6名民眾受困。台中市消防局獲報後出動大批消防人車搶救，歷經約1小時救援，受困民眾分4批全數由雲梯車救下，6人意識均清楚，均輕微嗆傷，送往中國醫藥大學附設醫院治療，詳細起火原因仍待火災調查釐清。\n 《詳全文...》",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -3887,46 +4393,47 @@
      }
     },
     {
-     "title": "新聞分類總覽 - 2026-07-19",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44Q25pOE5IZHBXLVg0eWFBVnpUQUhYeHROc29ZV21CYlc5aUo1WWxBZFBiV1IzMkR0aWZiN0dEWFUwVGx3YmFKQzQ1NW1yMnRneHJGdjlRMA?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-19T00:03:34+08:00",
-     "description": "新聞分類總覽 - 2026-07-19  Newtalk新聞",
+     "title": "台中舊西北大飯店原址深夜火警　6人困頂樓獲救送醫",
+     "link": "https://news.ltn.com.tw/news/society/breakingnews/5510834",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-20T00:30:05+08:00",
+     "description": "台中市中區已歇業的「西北大飯店」原址今天晚間發生火警，警消獲報到場灌救，發現有6人在頂樓待援，經雲梯車協助脫困送醫，均為輕微嗆傷、無生命危險，起火原因調查釐清。\n\n台中市消防局今天晚間9時1...…",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
      }
     },
     {
-     "title": "2027/07/18 - 粗心小王子的部落格",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBiR0Y4T0kzamRSdEd2Xy11Nm9Kb3cwNHpsRjdPbkFreTZrYm9NVTNYQ3Q3Y1k2RTVuUFhvZ1pSTi12bXdSaGZYM3ZxVzlFZi1Hc3ViV0FFUnlRWkJvNmFfMXdDTzdBWWdSY3hrNTBn?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-07-18T19:50:52+08:00",
-     "description": "2027/07/18 - 粗心小王子的部落格  udn部落格",
+     "title": "台中舊西北大飯店原址深夜火警　6人困頂樓獲救送醫",
+     "link": "https://www.cna.com.tw/news/asoc/202607200002.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-20T00:23:26+08:00",
+     "description": "（中央社記者蘇木春台中19日電）台中市中區已歇業的「西北大飯店」原址今天晚間發生火警，警消獲報到場灌救，發現有6人在頂樓待援，經雲梯車協助脫困送醫，均為輕微嗆傷、無生命危險，起火原因調查釐清。",
+     "author": "蘇木春",
      "metadata": {
       "schema_version": 1,
       "author": {
-       "name": null,
-       "source": "unknown"
+       "name": "蘇木春",
+       "source": "description"
       },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/social"
      }
     },
     {
-     "title": "2027/07/18 - 粗心小王子的部落格",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mVGhLQ2hxVnliZGJTaHB5YlhQVGJvVmhLSmJvUTRNTDBZYVdUSkVuSE1oMV9NWWw4X2pvRVFkbFBrd3RCNTFkdkhPcnlrMTR1RHc?oc=5",
+     "title": "傳奇藝術創作者設計…台中西北大飯店閒置舊址陷火海 6人受困待援",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBzX1RERXVwT1VhaEdSV0dEaVBjUGRYS1ktQ3M4ck8zX2xna1h5ZVhUR1ViUWEyb2JYeTRKRngyMjBsaEsxNWRlYTVsTHd2ckJS0gFWQVVfeXFMUFVIX0RwSmczNGQydXNFQkF4RTVZc3M3a2c5a0s3LVNGMWtzVzh0WXlReFlkNkdrdUZ1bWYtYU5HVUNOWUgyVHQxNDVSUzgxNjBpWWJTX2c?oc=5",
      "source": "udn",
      "source_name": "聯合新聞網",
-     "published": "2026-07-18T19:50:52+08:00",
-     "description": "2027/07/18 - 粗心小王子的部落格  udn部落格",
+     "published": "2026-07-19T22:43:49+08:00",
+     "description": "影／傳奇藝術創作者設計…台中西北大飯店閒置舊址陷火海 6人受困待援  UDN",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -3940,7 +4447,7 @@
    ]
   },
   {
-   "id": "af5ae3f7b487",
+   "id": "130c85ce0231",
    "title": "大樂透7/17頭獎直衝7億！端午加碼百萬紅包還有6組　獎號一次看",
    "outlet_count": 6,
    "outlets": [
@@ -4049,13 +4556,13 @@
      }
     },
     {
-     "title": "新／大樂透7億中獎結果曝光 幸運兒一次抱走600萬",
-     "link": "https://news.ebc.net.tw/news/business/561758",
-     "source": "ebc",
-     "source_name": "東森新聞",
+     "title": "2億威力彩開獎！7/16中獎號碼一次看",
+     "link": "https://news.tvbs.com.tw/life/3259295",
+     "source": "tvbs",
+     "source_name": "TVBS",
      "published": "2026-07-17T22:53:19.002086+08:00",
-     "description": "台灣彩券今（17）晚開出第115000071期大樂透，7億元頭獎未能開出，目前已達20連摃，下期頭獎累積金額預估上看7.7億元。",
-     "category": "business",
+     "description": "",
+     "category": "life",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -4063,8 +4570,8 @@
        "source": "unknown"
       },
       "acquisition": "scraper",
-      "category": "business",
-      "feed_url": "https://news.ebc.net.tw/realtime"
+      "category": "life",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
      }
     },
     {
@@ -4087,13 +4594,13 @@
      }
     },
     {
-     "title": "2億威力彩開獎！7/16中獎號碼一次看",
-     "link": "https://news.tvbs.com.tw/life/3259295",
-     "source": "tvbs",
-     "source_name": "TVBS",
+     "title": "新／大樂透7億中獎結果曝光 幸運兒一次抱走600萬",
+     "link": "https://news.ebc.net.tw/news/business/561758",
+     "source": "ebc",
+     "source_name": "東森新聞",
      "published": "2026-07-17T22:53:19.002086+08:00",
-     "description": "",
-     "category": "life",
+     "description": "台灣彩券今（17）晚開出第115000071期大樂透，7億元頭獎未能開出，目前已達20連摃，下期頭獎累積金額預估上看7.7億元。",
+     "category": "business",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -4101,8 +4608,8 @@
        "source": "unknown"
       },
       "acquisition": "scraper",
-      "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
+      "category": "business",
+      "feed_url": "https://news.ebc.net.tw/realtime"
      }
     },
     {
@@ -4336,133 +4843,6 @@
       "acquisition": "scraper",
       "category": "sports",
       "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    }
-   ]
-  },
-  {
-   "id": "58084d37d7d5",
-   "title": "民進黨改選中評會　立委邱志偉擔任主委",
-   "outlet_count": 6,
-   "outlets": [
-    "cna",
-    "ltn",
-    "newtalk",
-    "nownews",
-    "tvbs",
-    "udn"
-   ],
-   "article_count": 6,
-   "first_seen": "2026-07-19T18:03:41+08:00",
-   "last_updated": "2026-07-19T20:02:47+08:00",
-   "tags": [
-    "民進黨",
-    "泛賴系",
-    "王定宇"
-   ],
-   "articles": [
-    {
-     "title": "綠營權力核心重組！泛賴系中常委強勢過半 王定宇交棒林智鴻",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5510702",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-19T20:02:47+08:00",
-     "description": "民進黨內權力核心今（19日）重組，晚間從30席中執委選出10席中常委。新潮流系最終以3席稱霸，正國會、綠色友誼連線、民主活水、湧言會、英系、蘇系、陳亭妃系統則各拿下1席，尤以湧...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "沒有王定宇！民進黨中常委改選結果揭曉　親賴陣營搶7席大勝",
-     "link": "https://news.tvbs.com.tw/politics/3261951",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-19T19:33:45+08:00",
-     "description": "",
-     "category": "politics",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "politics",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "民進黨改選中評會　立委邱志偉擔任主委",
-     "link": "https://www.cna.com.tw/news/aipl/202607190178.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-19T19:31:00+08:00",
-     "description": "（中央社記者王揚宇、葉素萍台北19日電）民進黨全代會今天進行中央評議委員會改選，13人登記參選搶11席中評委，最後推舉民進黨立委邱志偉擔任中評會主委。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
-     }
-    },
-    {
-     "title": "民進黨中評委結果出爐！新潮流邱志偉接棒賴瑞隆",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83VXZlSU1MbjlWbzdadWRlWkNwWlpsbHQyU1lWZXpFbWxFa3Z4a1FMdnVRbU5rbFNDMXlzMHZMYTFzUHY5b2x6RjFVUUh0Y3R2WVHSAVJBVV95cUxPN1V2ZUlNTG45Vm83WnVkZVpDcFpabGx0MlNZVmV6RW1sRWt2eGtRTHZ1UW1Oa2xTQzF5czB2TGExc1B2OW9sekYxVVFIdGN0dllR?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-07-19T19:28:36+08:00",
-     "description": "民進黨中評委結果出爐！新潮流邱志偉接棒賴瑞隆  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "民進黨權力核心出爐！泛賴系奪7席、非賴系3席王定宇讓出中常委| 政治",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPVzh0UjJjVmNIbzhxOGNVcW91ckluRkRkbW5jRnBrQ2ZYVnRvdk82bHhVSnlNbHJpclYzbGRhVnN6LVBYOW1YZEYzS3dueV96QjlGcGxZUnRmWHc?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-19T19:19:24+08:00",
-     "description": "民進黨權力核心出爐！泛賴系奪7席、非賴系3席王定宇讓出中常委| 政治  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "民進黨新任中執委出爐！泛賴系20人、非賴系10人 新潮流斬獲9席",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IdWJBei1OeFQ3cXlxTEF4N29zcDI4cTM0dHpHdFN4UWdoOUNzR2xJZGFhdjVVWGptdHYyVHo2S3JNdlFwTWxJMDhoZEhuM2xw0gFWQVVfeXFMTVVNQ1BIVTh2ckJSMDRtekJLUjR0OUY5QjZJRkRDZEhJNTFYS21CRHp1UWE3SHJESnY0TTMyVU9zeDZ1OFNBRk9CM3p0eGhuN3J6MFZrVFE?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-07-19T18:03:41+08:00",
-     "description": "民進黨新任中執委出爐！泛賴系20人、非賴系10人 新潮流斬獲9席  UDN",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -5565,25 +5945,6 @@
      }
     },
     {
-     "title": "墨西哥7.3強震 氣象署發海嘯消息",
-     "link": "https://news.ebc.net.tw/news/living/561766",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-18T00:42:45.585130+08:00",
-     "description": "中央氣象署接獲太平洋海嘯警報中心通報，台灣時間7月17日22時49分，墨西哥恰帕斯近海發生芮氏規模7.3地震，氣象署也發布海嘯消息，並表示將嚴密監視海嘯的影響。",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
      "title": "墨西哥7.3強震！海嘯威脅發布 震源深度僅10公里",
      "link": "https://news.ebc.net.tw/news/world/561765",
      "source": "ebc",
@@ -5599,6 +5960,25 @@
       },
       "acquisition": "scraper",
       "category": "world",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "墨西哥7.3強震 氣象署發海嘯消息",
+     "link": "https://news.ebc.net.tw/news/living/561766",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-18T00:42:45.585130+08:00",
+     "description": "中央氣象署接獲太平洋海嘯警報中心通報，台灣時間7月17日22時49分，墨西哥恰帕斯近海發生芮氏規模7.3地震，氣象署也發布海嘯消息，並表示將嚴密監視海嘯的影響。",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
       "feed_url": "https://news.ebc.net.tw/realtime"
      }
     },
@@ -5929,33 +6309,107 @@
    ]
   },
   {
-   "id": "c57037fdf9dc",
-   "title": "判決書全公開！運動部公布147名不適任教練　前職棒球員「欲性侵隊友老婆」也上榜",
-   "outlet_count": 6,
+   "id": "e9a10cd2037f",
+   "title": "宜蘭民宅暗夜大火延燒　7旬婦受困救出送醫不治",
+   "outlet_count": 5,
    "outlets": [
+    "cna",
+    "ebc",
     "ettoday",
     "ltn",
-    "mirror",
-    "newtalk",
-    "nownews",
     "tvbs"
    ],
-   "article_count": 6,
-   "first_seen": "2026-07-17T07:28:00+08:00",
-   "last_updated": "2026-07-17T14:29:23+08:00",
+   "article_count": 13,
+   "first_seen": "2026-07-19T22:22:00+08:00",
+   "last_updated": "2026-07-20T08:58:15.830865+08:00",
    "tags": [
-    "不適任教練",
-    "運動部公布",
-    "前職棒球員"
+    "台灣大道",
+    "受困",
+    "大火"
    ],
    "articles": [
     {
-     "title": "體壇》運動部公佈狼師黑名單 棒球項目19名不適任教練最多",
-     "link": "https://sports.ltn.com.tw/news/breakingnews/5508621",
+     "title": "板橋公寓火警！30歲男受困 救出命危搶救中",
+     "link": "https://news.ebc.net.tw/news/society/562071",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-20T08:58:15.830865+08:00",
+     "description": "今（20）日上午7點多，新北市板橋區南雅南路一處6層樓建築發生火警，消防人員獲報趕抵，10分鐘內撲滅火勢，卻在屋內發現一名30多歲男子已無生命徵象。",
+     "category": "society",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "society",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "板橋公寓清晨大火　1男住戶無生命跡象搶救中",
+     "link": "https://news.tvbs.com.tw/local/3262105",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-20T08:35:15+08:00",
+     "description": "",
+     "category": "local",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "local",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "宜蘭金紙行竄濃煙！惡火延燒鄰居家　7旬婦一度受困送醫不治",
+     "link": "https://news.tvbs.com.tw/life/3262075",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-20T07:58:15+08:00",
+     "description": "",
+     "category": "life",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "life",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "宜蘭民宅暗夜大火延燒　7旬婦受困救出送醫不治",
+     "link": "https://www.cna.com.tw/news/asoc/202607200010.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-20T06:33:49+08:00",
+     "description": "（中央社記者王朝鈺宜蘭20日電）宜蘭市泰山路1間金紙行昨天深夜發生火警，火勢延燒至鄰宅。消防人員共救出10人，其中70歲女子救出時已失去生命徵象，送醫急救後仍宣告不治。",
+     "author": "王朝鈺",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "王朝鈺",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/social"
+     }
+    },
+    {
+     "title": "宜蘭金紙行深夜火警延燒3透天厝 67歲婦人送醫不治",
+     "link": "https://news.ltn.com.tw/news/society/breakingnews/5510835",
      "source": "ltn",
      "source_name": "自由時報",
-     "published": "2026-07-17T14:29:23+08:00",
-     "description": "運動部近期在網站上公布各項運動賽事不適任教練名單，特別設置「涉及違法事件不適任教練資訊專區」，並且附上法院判決書供參考，各項目曾有涉及違法事件的教練名單全被公布，首波名單...…",
+     "published": "2026-07-20T06:06:43+08:00",
+     "description": "首次上稿 00:36更新時間 08:05\n宜蘭市泰山路一間金紙行昨天深夜發生火警，火勢延燒其他3間透天厝，消防人員封路搶救，確認10人受困，陸續救出9人，其中一名67歲張姓婦...…",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -5967,12 +6421,12 @@
      }
     },
     {
-     "title": "運動部曝光143名狼師、家暴教練　棒球項目19人不適任最多",
-     "link": "https://sports.ettoday.net/news/3202966",
+     "title": "宜蘭金紙行深夜火警「一度10人受困」！老婦無生命跡象搶救中",
+     "link": "https://www.ettoday.net/news/20260720/3204069.htm",
      "source": "ettoday",
      "source_name": "ETtoday",
-     "published": "2026-07-17T14:01:00+08:00",
-     "description": "為了守護校園及運動場域安全，運動部近日投下震撼彈！正式於官網設立「涉及違法事件不適任教練資訊專區」，首度公開因性侵害、性騷擾、家暴等違法事件遭除名的不適任教練名單。首波名單共計143人，其中「國球」棒球以19人居冠，籃球17人居次，引發基層體壇高度關注。 《詳全文...》",
+     "published": "2026-07-20T01:02:00+08:00",
+     "description": "宜蘭市泰山路一間金紙行19日深夜11點47分發生住宅火警，火勢發生後一度造成8人受困，其中一名受困二樓陽台的老婦人救出時已失去生命跡象，送醫搶救中；另外7名受困民眾則由消防人員架梯救出，詳細起火原因仍待進一步調查釐清。 《詳全文...》",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -5984,30 +6438,13 @@
      }
     },
     {
-     "title": "運動部公布不適任教練名單！共147人入列　前職棒球員陳凱倫上榜",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UT2cwSm80MzhJd2tRdkpJMUFJRHU3TzNrNUMzeGxTUUVqbGk2N1FEVElodXVsTURGRHczSzlTQ0U3aDNlQzllUF9YXzJRbTVnYlHSAVJBVV95cUxPVE9nMEpvNDM4SXdrUXZKSTFBSUR1N08zazVDM3hsU1FFamxpNjdRRFRJaHV1bE1ERkR3M0s5U0NFN2gzZUM5ZVBfWF8yUW01Z2JR?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-07-17T13:57:37+08:00",
-     "description": "運動部公布不適任教練名單！共147人入列　前職棒球員陳凱倫上榜  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "運動部公布147名不適任教練　前職棒球員陳凱倫、陳峰民上榜",
-     "link": "https://news.tvbs.com.tw/sports/3260170",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-17T13:05:25+08:00",
-     "description": "",
-     "category": "sports",
+     "title": "疑煮飯不慎釀火！ 台中住宅6人受困頂樓",
+     "link": "https://news.ebc.net.tw/news/society/562055",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-20T00:36:46.052192+08:00",
+     "description": "19日晚間9點多，台中市中區一棟5層樓住宅，突然竄出猛烈火勢，6名民眾一度受困頂樓，不斷揮手呼救。消防人員到場後，立刻架設雲梯車救援，將受困民眾陸續救下。",
+     "category": "society",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -6015,17 +6452,448 @@
        "source": "unknown"
       },
       "acquisition": "scraper",
-      "category": "sports",
+      "category": "society",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "台中台灣大道惡火 救出頂樓6人嗆傷送醫",
+     "link": "https://news.ltn.com.tw/news/society/breakingnews/5510833",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-20T00:30:00+08:00",
+     "description": "台中市中區台灣大道1段一棟5層樓住宅，昨晚9點多發生火警，現場濃煙密布、火勢猛烈，消防局獲報出動5個單位，近30名消防人員到場搶救。因傳出有2男4女共6人受困於頂樓，消防人員全...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "台灣大道建築物大火「已4人獲救」！中風老母待救援",
+     "link": "https://www.ettoday.net/news/20260720/3204060.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-20T00:06:00+08:00",
+     "description": "台中市中區臺灣大道一段一棟建築7月19日晚間9點19分發生住宅火警，火勢自3樓竄出並持續燃燒，消防局獲報後出動大批人車搶救。截至晚間11點07分，已有4名受困民眾陸續由雲梯車救出送醫，目前仍有2人待救，消防人員持續全力搜救，詳細起火原因仍待火調釐清。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "台中台灣大道大樓大火！濃煙竄天　6人受困頂樓「揮手求救」",
+     "link": "https://news.tvbs.com.tw/local/3262029",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-19T23:33:45+08:00",
+     "description": "",
+     "category": "local",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "local",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    }
+   ]
+  },
+  {
+   "id": "27abc44042b3",
+   "title": "秘魯安地斯山區規模5.1地震　釀5死21傷",
+   "outlet_count": 5,
+   "outlets": [
+    "cna",
+    "ebc",
+    "ettoday",
+    "ltn",
+    "tvbs"
+   ],
+   "article_count": 7,
+   "first_seen": "2026-07-19T22:45:11+08:00",
+   "last_updated": "2026-07-20T08:58:15.830865+08:00",
+   "tags": [
+    "秘魯",
+    "兩起地震",
+    "規模"
+   ],
+   "claims": [
+    {
+     "type": "死亡人數",
+     "agree": true,
+     "outlet_count": 3,
+     "values": [
+      {
+       "value": "6",
+       "outlets": [
+        "ETtoday",
+        "TVBS",
+        "東森新聞"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "受傷人數",
+     "agree": true,
+     "outlet_count": 3,
+     "values": [
+      {
+       "value": "21",
+       "outlets": [
+        "ETtoday",
+        "中央社",
+        "東森新聞"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "地震規模",
+     "agree": true,
+     "outlet_count": 2,
+     "values": [
+      {
+       "value": "5.1",
+       "outlets": [
+        "ETtoday",
+        "中央社"
+       ]
+      }
+     ]
+    }
+   ],
+   "articles": [
+    {
+     "title": "秘魯連兩起地震 至少6死21傷",
+     "link": "https://news.ebc.net.tw/news/world/562066",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-20T08:58:15.830865+08:00",
+     "description": "秘魯胡寧大區接連兩起地震造成6死21傷，約48棟房屋全毀、300人受影響，救援持續進行並安置災民。",
+     "category": "world",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "world",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "秘魯規模5.1地震　至少6死21傷、48屋倒塌",
+     "link": "https://www.ettoday.net/news/20260720/3204090.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-20T06:38:00+08:00",
+     "description": "秘魯中部山區接連發生2起地震，造成至少6人死亡、21人受傷，另有數十間房屋倒塌或受損。當局已派遣搜救人員與消防隊進入災區清理瓦礫，並持續確認是否仍有民眾受困。\n 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "秘魯中部連環震釀6死！規模最高5.1　300人急安置",
+     "link": "https://news.tvbs.com.tw/world/3262053",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-20T04:19:45+08:00",
+     "description": "",
+     "category": "world",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "world",
       "feed_url": "https://news.tvbs.com.tw/realtime"
      }
     },
     {
-     "title": "運動部公布147名不適任教練黑名單！石明謹示警：仍有3大漏洞| 網紅",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jNGdMLXZqN25wVzd3TWU2SDVObDk4Sm5ENTJBLXdnTW4yRG5rcUZiMERXWmVTRnlJT1pzQVBFd3lGb25rdHVyMlh6OW55bzd5WVlFTGJpeGo1R28?oc=5",
+     "title": "秘魯兩起地震規模5.1、3.7　至少6死21傷48屋倒塌",
+     "link": "https://news.ltn.com.tw/news/world/breakingnews/5510844",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-20T02:00:03+08:00",
+     "description": "秘魯國家民防機構主管今天表示，一個山區在遭遇兩起地震接連襲擊後，已經造成至少6人罹難、21人受傷。\n\n路透社報導，秘魯國家地震中心（National Seismological Center...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "秘魯兩起地震規模5.1、3.7　至少6死21傷48屋倒塌",
+     "link": "https://www.cna.com.tw/news/aopl/202607200004.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-20T01:51:31+08:00",
+     "description": "（中央社利馬19日綜合外電報導）秘魯國家民防機構主管今天表示，一個山區在遭遇兩起地震接連襲擊後，已經造成至少6人罹難、21人受傷。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
+     }
+    },
+    {
+     "title": "秘魯安地斯山脈規模5.5淺層地震 至少5死20傷",
+     "link": "https://news.ltn.com.tw/news/world/breakingnews/5510823",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-19T23:59:18+08:00",
+     "description": "當局19日表示，南美國家秘魯的安地斯山脈地區18日晚間發生規模5.5的淺層地震，造成至少5人死亡，另有至少20多人受傷與300人無家可歸。\n\n根據美國地質調查所（USGS）...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "秘魯安地斯山區規模5.1地震　釀5死21傷",
+     "link": "https://www.cna.com.tw/news/aopl/202607190208.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-19T22:45:11+08:00",
+     "description": "（中央社利馬19日綜合外電報導）秘魯當局今天表示，該國安地斯山（Andes）地區昨晚發生規模5.1地震，造成5人死亡、21人受傷。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
+     }
+    }
+   ]
+  },
+  {
+   "id": "8a18f98afaa5",
+   "title": "外送市場震撼整併！　傳Uber擬砸4600億收購foodpanda母公司",
+   "outlet_count": 5,
+   "outlets": [
+    "ettoday",
+    "ltn",
+    "mirror",
+    "storm",
+    "tvbs"
+   ],
+   "article_count": 7,
+   "first_seen": "2026-07-17T09:54:00+08:00",
+   "last_updated": "2026-07-20T08:00:00+08:00",
+   "tags": [
+    "母公司",
+    "收購",
+    "平台"
+   ],
+   "claims": [
+    {
+     "type": "金額",
+     "agree": false,
+     "outlet_count": 3,
+     "values": [
+      {
+       "value": "4800億元",
+       "outlets": [
+        "ETtoday",
+        "風傳媒"
+       ]
+      },
+      {
+       "value": "4600億元",
+       "outlets": [
+        "鏡週刊"
+       ]
+      }
+     ]
+    }
+   ],
+   "articles": [
+    {
+     "title": "世紀併購投下震撼彈！若Grab收購案卡關，專家憂：台灣foodpanda恐面臨「斷供」慢性蒸發| 唐可欣 | 品味生活",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBlOFlOQ0tTcEtmakg0bG9UblpNb3JKNU0yVXBuM05kYlBlMm9GT2xwOUwyUWw5a0liUzhFS2hKNUpNaF92cEdmdE5pQWRsZw?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-07-20T08:00:00+08:00",
+     "description": "世紀併購投下震撼彈！若Grab收購案卡關，專家憂：台灣foodpanda恐面臨「斷供」慢性蒸發| 唐可欣 | 品味生活  風傳媒",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "Uber吞下Delivery Hero後，台灣foodpanda還有未來嗎？ | 陳雅婷 | 品味生活",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8yVjBvS3hkby15cG5jVkNYckd6NWxiZldVOEtFYVZlREVkRHplcmRMTWwxSGRqdHBPa0d6N0V5MGhBRzNxTjNweklUWDFDZw?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-07-17T21:33:19+08:00",
+     "description": "Uber吞下Delivery Hero後，台灣foodpanda還有未來嗎？ | 陳雅婷 | 品味生活  風傳媒",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "路易莎請客了！foodpanda會員輸入1組優惠碼 85元飲料免費喝",
+     "link": "https://ec.ltn.com.tw/article/breakingnews/5508766",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-17T16:27:14+08:00",
+     "description": "德商foodpanda推出pandapro會員限定「免費喝」優惠。7月20日至8月2日期間，pandapro會員透過foodpanda「外帶自取」服務，在路易莎指定分店的...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "Foodpanda母公司被收購！外送平台龍頭砸4800億元買下， 最新進度曝光",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE40VHU1elhKUTFfTHJNVzRMOXBlUkR1cnJDM3NuT0ZSR0hvc1RiRG9YTWhFb0FxdGFSbHhjSm5HVUxzNDM0cnRCNVdyc0NtSU5Y?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-07-17T13:40:59+08:00",
+     "description": "Foodpanda母公司被收購！外送平台龍頭砸4800億元買下， 最新進度曝光  Storm.mg",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "Uber收購foodpanda母公司　台灣平台：營運不影響",
+     "link": "https://news.tvbs.com.tw/life/3260083",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-17T11:53:19+08:00",
+     "description": "",
+     "category": "life",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "life",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "Uber收購foodpanda母公司　平台：台灣營運不受影響",
+     "link": "https://www.ettoday.net/news/20260717/3202750.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-17T11:02:00+08:00",
+     "description": "Uber宣布以148億美元（約新台幣4800億）收購foodpanda母公司「Delivery Hero」，雙方已簽署企業合併協議，最快預計2027年下半年完成。此項交易是否會影響台灣營運，台灣Uber Eats表示，此收購案不會對Delivery Hero在台灣的營運造成任何影響。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "外送市場震撼整併！　傳Uber擬砸4600億收購foodpanda母公司",
+     "link": "https://www.mirrormedia.mg/story/20260717edi013",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-07-17T09:54:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    }
+   ]
+  },
+  {
+   "id": "716c6f7f7a9f",
+   "title": "大雷雨炸雙北　國家警報響",
+   "outlet_count": 5,
+   "outlets": [
+    "ebc",
+    "ettoday",
+    "newtalk",
+    "nownews",
+    "tvbs"
+   ],
+   "article_count": 38,
+   "first_seen": "2026-07-17T17:35:00+08:00",
+   "last_updated": "2026-07-20T07:48:01+08:00",
+   "tags": [
+    "市大雷雨狂炸",
+    "氣象署示警",
+    "生活"
+   ],
+   "articles": [
+    {
+     "title": "快訊》7/20 高溫特報！熱浪侵襲 嚴防中暑熱傷害 | 生活",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Yck9DQXYtd3hvUUV2XzBfNDBLOVlDQjlNZEdpanU2RWJGQUE2dDZfTng3MEo3NU5icWFkU21hQWQ4UGM5bFVaU1k5M004RHVLc01NRDFkdVNMU28?oc=5",
      "source": "newtalk",
      "source_name": "新頭殼",
-     "published": "2026-07-17T11:43:00+08:00",
-     "description": "運動部公布147名不適任教練黑名單！石明謹示警：仍有3大漏洞| 網紅  Newtalk新聞",
+     "published": "2026-07-20T07:48:01+08:00",
+     "description": "快訊》7/20 高溫特報！熱浪侵襲 嚴防中暑熱傷害 | 生活  Newtalk新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -6037,12 +6905,118 @@
      }
     },
     {
-     "title": "判決書全公開！運動部公布147名不適任教練　前職棒球員「欲性侵隊友老婆」也上榜",
-     "link": "https://www.mirrormedia.mg/story/20260717edi007",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-07-17T07:28:00+08:00",
+     "title": "快訊》3縣市大雷雨狂炸！氣象署示警慎防積水| 生活",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jbUdCVlNWMG5NMUNyRlNLMUs0VHJrQmdTSDEwWE9adDZRa0Vyc2ZkZWNzczdTanNXcWdUcVFsRzNhdlFzYmpPS2lSbGRhUmY3VXpadFVubV90MTA?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-19T20:12:02+08:00",
+     "description": "快訊》3縣市大雷雨狂炸！氣象署示警慎防積水| 生活  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "快訊》2縣市大雷雨狂炸！氣象署示警：慎防雷擊| 生活",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82bFQyU2JEVTVIWERpUDJ5R3M5eVR1MzZCRkIxX2RJOXh2RHlhTEVlWHRLemd5ejhTTVh6OUcyWTd0RGdOT25KazZQUnVwSDJqVHAwQWNUdl9ROEE?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-19T18:48:01+08:00",
+     "description": "快訊》2縣市大雷雨狂炸！氣象署示警：慎防雷擊| 生活  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "雷雨攪局！松山機場暫停地面作業 航班恐延誤",
+     "link": "https://news.ebc.net.tw/news/living/562013",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-19T18:47:50.898781+08:00",
+     "description": "松山機場17時24分起因雷雨暫停地面作業，部分航班延誤，民航局籲旅客留意航班異動。",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "快訊》2縣市大雷雨狂炸！氣象署示警慎防雷擊| 生活",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqRXNSeHFSenhRaVZIUklkU2hib1RDdk5FNHBNR0hKVnJMN2lIX2JfbWFBeXdiNzcwTWVVd281WVF0U19xeWM4OF9HclJhVlZzU3FSRkNYamZTX3M?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-19T18:00:02+08:00",
+     "description": "快訊》2縣市大雷雨狂炸！氣象署示警慎防雷擊| 生活  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "快訊》熱浪來襲！氣象署示警3縣市防熱傷害| 生活",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KYVlNSzloZ25uWmdER1lFU2J6TkdYaHpycnktb25XakFZWVFCU2s4MmljTXlNNllMWE9jTm51Vk96QWJvWkx0T0xrMTlYQkU0U1lqMks1UjJDNWc?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-19T17:48:01+08:00",
+     "description": "快訊》熱浪來襲！氣象署示警3縣市防熱傷害| 生活  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "國家警報響！大雷雨炸雙北　松山機場「暫停地面作業」航班延誤",
+     "link": "https://news.tvbs.com.tw/life/3261876",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-19T17:40:11+08:00",
      "description": "",
+     "category": "life",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "life",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "松山機場雷雨當空暫停地面作業　部分航班恐延誤",
+     "link": "https://www.ettoday.net/news/20260719/3203984.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-19T17:39:00+08:00",
+     "description": "交通部民航局表示，因雷雨當空，松山機場下午5時24分起暫停地面作業，部分航班可能因此延誤，提醒旅客及接機民眾注意航班異動資訊。 《詳全文...》",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -6050,7 +7024,187 @@
        "source": "unknown"
       },
       "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "快訊》4縣市大雷雨狂炸！氣象署示警慎防雷擊| 生活",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pdV9DaUd4YzE2U1NzcTAzV1dSRXpXRUh3M0h6ZTh3dVNiLWlPOXNJMlEzalRLdV93YkJjNTI3enNLeUZZeGwtcnBIdENlcnkyN3lPeGh2MTNCSkE?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-19T17:13:06+08:00",
+     "description": "快訊》4縣市大雷雨狂炸！氣象署示警慎防雷擊| 生活  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "快訊》3縣市大雷雨狂炸！氣象署示警慎防積水雷擊| 生活",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RdVIyOUlhd3RPN3pQTnhIMS00OTB3MW1MamVxeEhHT1NkM2lKRnBISUxvM3NqZXdDeXV1bUJxZmg0TWNtOUkzRGJpTDlWbEpaX0FpQUtyeExydUU?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-19T16:36:01+08:00",
+     "description": "快訊》3縣市大雷雨狂炸！氣象署示警慎防積水雷擊| 生活  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
+   "id": "7896fdb42d15",
+   "title": "FIFA引進美式文化首推世界盃冠軍戒！全球限量2026枚",
+   "outlet_count": 5,
+   "outlets": [
+    "ebc",
+    "ettoday",
+    "ltn",
+    "nownews",
+    "tvbs"
+   ],
+   "article_count": 7,
+   "first_seen": "2026-07-17T11:00:00+08:00",
+   "last_updated": "2026-07-20T07:11:00+08:00",
+   "tags": [
+    "世界盃冠軍",
+    "賠率"
+   ],
+   "articles": [
+    {
+     "title": "39歲梅西忍不住哭了！輸掉世界盃冠軍　告別淚水逼哭千萬球迷",
+     "link": "https://sports.ettoday.net/news/3204097",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-20T07:11:00+08:00",
+     "description": "美加墨世界盃決賽今（20）日在來終級之戰！西班牙在延長賽靠著托雷斯（Ferran Torres）踢進絕殺球，終場以1比0擊退阿根廷捧起大力神盃。39歲的球王梅西（Lionel Messi）全場遭到嚴防僅有1次射門，只能落寞看著西班牙小將亞馬爾（Lamine Yamal）瘋狂慶祝，無緣率隊完成衛冕霸業。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "世足》預測世界盃冠軍 溫班亞瑪還在崩潰：我希望他們都別拿！",
+     "link": "https://sports.ltn.com.tw/news/breakingnews/5510860",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-20T04:39:54+08:00",
+     "description": "西班牙與阿根廷今天在世界盃冠軍賽碰頭，但對於家鄉法國隊接連遭遇挫敗的NBA球星「斑馬」溫班亞馬（Victor Wembanyama）而言，顯然還無法釋懷，他今天在紐約出席...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "世界盃冠軍賽將開踢！運彩最新賠率曝　客人砸6萬買「兩隊都進球」",
+     "link": "https://news.tvbs.com.tw/life/3261858",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-19T17:33:45+08:00",
+     "description": "",
+     "category": "life",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "life",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "泰彈跳豬押阿根廷奪世界盃冠軍　國際賭盤挺這隊近6成機率獲勝",
+     "link": "https://news.tvbs.com.tw/world/3261771",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-19T16:33:45+08:00",
+     "description": "",
+     "category": "world",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "world",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "世界盃冠軍賠率 關鍵字",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVEdLMkc2OEZ0aTc0X2djdG8zTk5SSjRlWGpWaWR1Yl9kWEtiLTl0Q3hqUkpMV1lRcEgxcEJ4OG54Wjh5WUZSazI5SUFhX1NZamxheW8talZfbnVfakZrc05DcTdQcjR4cE5LY3hlNExTVGVGUTFPVzQycElrY2sxVWdrQlBmVEIwcTc1T3lPUC1uMm9FajREaA?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-07-18T19:06:41+08:00",
+     "description": "世界盃冠軍賠率 關鍵字  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "世足／不看好衛冕軍 FIFA世界盃冠軍賠率「阿根廷較高」",
+     "link": "https://news.ebc.net.tw/news/sport/561844",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-18T14:59:59.655563+08:00",
+     "description": "世界盃冠軍戰下週一凌晨登場，西班牙將對決阿根廷，運彩與國際賭盤皆較看好西班牙，加上多休息一天，體能可能成為勝負關鍵。",
+     "category": "sport",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "sport",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "FIFA引進美式文化首推世界盃冠軍戒！全球限量2026枚",
+     "link": "https://sports.ettoday.net/news/3202768",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-17T11:00:00+08:00",
+     "description": "國際足總（FIFA）於17日(台灣時間) 宣布一項歷史性創舉，將首度為世界盃冠軍隊打造並頒發「冠軍戒」（Championship Ring），把美國職業運動長年流行的冠軍戒文化引進世界盃，象徵冠軍榮耀除了大力神盃外，未來還將擁有專屬的冠軍戒作為紀念。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
      }
     }
    ]
@@ -6305,330 +7459,6 @@
       },
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/rsscna/local"
-     }
-    }
-   ]
-  },
-  {
-   "id": "716c6f7f7a9f",
-   "title": "大雷雨炸雙北　國家警報響",
-   "outlet_count": 5,
-   "outlets": [
-    "ebc",
-    "ettoday",
-    "newtalk",
-    "nownews",
-    "tvbs"
-   ],
-   "article_count": 37,
-   "first_seen": "2026-07-17T17:35:00+08:00",
-   "last_updated": "2026-07-19T20:12:02+08:00",
-   "tags": [
-    "市大雷雨狂炸",
-    "氣象署示警",
-    "防雷擊"
-   ],
-   "articles": [
-    {
-     "title": "快訊》3縣市大雷雨狂炸！氣象署示警慎防積水| 生活",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jbUdCVlNWMG5NMUNyRlNLMUs0VHJrQmdTSDEwWE9adDZRa0Vyc2ZkZWNzczdTanNXcWdUcVFsRzNhdlFzYmpPS2lSbGRhUmY3VXpadFVubV90MTA?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-19T20:12:02+08:00",
-     "description": "快訊》3縣市大雷雨狂炸！氣象署示警慎防積水| 生活  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "快訊》2縣市大雷雨狂炸！氣象署示警：慎防雷擊| 生活",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82bFQyU2JEVTVIWERpUDJ5R3M5eVR1MzZCRkIxX2RJOXh2RHlhTEVlWHRLemd5ejhTTVh6OUcyWTd0RGdOT25KazZQUnVwSDJqVHAwQWNUdl9ROEE?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-19T18:48:01+08:00",
-     "description": "快訊》2縣市大雷雨狂炸！氣象署示警：慎防雷擊| 生活  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "雷雨攪局！松山機場暫停地面作業 航班恐延誤",
-     "link": "https://news.ebc.net.tw/news/living/562013",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-19T18:47:50.898781+08:00",
-     "description": "松山機場17時24分起因雷雨暫停地面作業，部分航班延誤，民航局籲旅客留意航班異動。",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "快訊》2縣市大雷雨狂炸！氣象署示警慎防雷擊| 生活",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqRXNSeHFSenhRaVZIUklkU2hib1RDdk5FNHBNR0hKVnJMN2lIX2JfbWFBeXdiNzcwTWVVd281WVF0U19xeWM4OF9HclJhVlZzU3FSRkNYamZTX3M?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-19T18:00:02+08:00",
-     "description": "快訊》2縣市大雷雨狂炸！氣象署示警慎防雷擊| 生活  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "快訊》熱浪來襲！氣象署示警3縣市防熱傷害| 生活",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KYVlNSzloZ25uWmdER1lFU2J6TkdYaHpycnktb25XakFZWVFCU2s4MmljTXlNNllMWE9jTm51Vk96QWJvWkx0T0xrMTlYQkU0U1lqMks1UjJDNWc?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-19T17:48:01+08:00",
-     "description": "快訊》熱浪來襲！氣象署示警3縣市防熱傷害| 生活  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "國家警報響！大雷雨炸雙北　松山機場「暫停地面作業」航班延誤",
-     "link": "https://news.tvbs.com.tw/life/3261876",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-19T17:40:11+08:00",
-     "description": "",
-     "category": "life",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "松山機場雷雨當空暫停地面作業　部分航班恐延誤",
-     "link": "https://www.ettoday.net/news/20260719/3203984.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-19T17:39:00+08:00",
-     "description": "交通部民航局表示，因雷雨當空，松山機場下午5時24分起暫停地面作業，部分航班可能因此延誤，提醒旅客及接機民眾注意航班異動資訊。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "快訊》4縣市大雷雨狂炸！氣象署示警慎防雷擊| 生活",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pdV9DaUd4YzE2U1NzcTAzV1dSRXpXRUh3M0h6ZTh3dVNiLWlPOXNJMlEzalRLdV93YkJjNTI3enNLeUZZeGwtcnBIdENlcnkyN3lPeGh2MTNCSkE?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-19T17:13:06+08:00",
-     "description": "快訊》4縣市大雷雨狂炸！氣象署示警慎防雷擊| 生活  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "快訊》3縣市大雷雨狂炸！氣象署示警慎防積水雷擊| 生活",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RdVIyOUlhd3RPN3pQTnhIMS00OTB3MW1MamVxeEhHT1NkM2lKRnBISUxvM3NqZXdDeXV1bUJxZmg0TWNtOUkzRGJpTDlWbEpaX0FpQUtyeExydUU?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-19T16:36:01+08:00",
-     "description": "快訊》3縣市大雷雨狂炸！氣象署示警慎防積水雷擊| 生活  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "快訊》3縣市大雷雨狂炸！氣象署示警慎防雷擊| 生活",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sVzZmYldXeTloWGRUNzZSb2xsX2g3M1ViTk42MzJITVpzX2ZyMTlsMWNMZ0ZOSjVPaTFSSWlhYmJjTVg1Wk9IU0dRek5YUGMtbXdDVlo0NkZkUW8?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-19T16:24:01+08:00",
-     "description": "快訊》3縣市大雷雨狂炸！氣象署示警慎防雷擊| 生活  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
-   "id": "22121b8cc394",
-   "title": "吳宗憲證實「離婚12年」！財產全給前妻張葳葳　吳姍儒出手了",
-   "outlet_count": 5,
-   "outlets": [
-    "chinatimes",
-    "ettoday",
-    "mirror",
-    "tvbs",
-    "udn"
-   ],
-   "article_count": 6,
-   "first_seen": "2026-07-19T16:33:45+08:00",
-   "last_updated": "2026-07-19T19:23:00+08:00",
-   "tags": [
-    "吳宗憲",
-    "張葳葳",
-    "離婚"
-   ],
-   "articles": [
-    {
-     "title": "吳宗憲離婚張葳葳12年！吳姍儒幫辦手續　本人親揭分開內幕",
-     "link": "https://star.ettoday.net/news/3204013",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-19T19:23:00+08:00",
-     "description": "綜藝天王吳宗憲與張葳葳1990年結婚，婚後育有3女1子，過去鮮少談及家庭生活，日前才坦言夫妻早已分居。沒想到昨（18日）他帶著《憲憲同樂會》登上馬來西亞雲頂世界雲星劇場演出時，竟首度鬆口透露，兩人其實早在12年前就已離婚，話一出引發全場震驚。對此，記者求證吳宗憲本人，他證實此事，並表示當年是和平離婚，沒有刻意隱瞞，只是一直沒有對外特別提起。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "吳宗憲離婚藏12年！鬆口與張葳葳「婚變內幕」　淨身出戶財產歸她",
-     "link": "https://news.tvbs.com.tw/entertainment/3261887",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-19T18:33:45+08:00",
-     "description": "",
-     "category": "entertainment",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "entertainment",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "吳宗憲首認離婚12年！財產全留前妻張葳葳　坦言：我不是好老公",
-     "link": "https://www.mirrormedia.mg/story/20260719edi062",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-07-19T17:41:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "吳宗憲震撼認已離婚12年！財產全留前妻真相首曝光- 娛樂",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4zQmFlMVJwRlUwWVBUM2JkUlZKX2pZYU03bUpiTllYYldjOHE0SlVNZHVmNjBlV0RycXI2ZXNZN2NieW5idWtPT2ZpN2Y4RVA0UjlPM25ZanVmUnMtNHNmSF8yZDlfZzcydG1uaVVR?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-07-19T17:09:06+08:00",
-     "description": "吳宗憲震撼認已離婚12年！財產全留前妻真相首曝光- 娛樂  中時新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "不是分居！吳宗憲認了和張葳葳離婚12年 嘆：我不是好老公",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XRzZBblF2dks5UWI5akFET3RaWXJuVGtWTDZ5T0F4aVNKUHRuMzJ0dC00Rnh3MFdMbHpRSE8zMV9aS0ZhQ1ZjS3hYY083WVB3OXdOQXlHZ2JzZ9IBX0FVX3lxTE9CM3RNLW9PQjlmcmdxVVZxRWYyMWcyQy0zLXVvZ000MnQxWG11SzMtQndRLS1ZU0RwZGNrLXhhQ0dQazlFYXE3LW1NcHAtQ3lmbTZwUVVwT0N2TmZKQ1BF?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-07-19T16:56:43+08:00",
-     "description": "不是分居！吳宗憲認了和張葳葳離婚12年 嘆：我不是好老公  噓！星聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "吳宗憲證實「離婚12年」！財產全給前妻張葳葳　吳姍儒出手了",
-     "link": "https://news.tvbs.com.tw/entertainment/3261784",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-19T16:33:45+08:00",
-     "description": "",
-     "category": "entertainment",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "entertainment",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
      }
     }
    ]
@@ -6943,7 +7773,7 @@
    "tags": [
     "不是老虎",
     "真實身分曝光",
-    "官方"
+    "巧虎"
    ],
    "articles": [
     {
@@ -7109,25 +7939,6 @@
      }
     },
     {
-     "title": "iPhone電量狂掉？專家授5招自救　「螢幕朝下放」竟有用",
-     "link": "https://news.tvbs.com.tw/life/3260092",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-18T16:56:33.314916+08:00",
-     "description": "",
-     "category": "life",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
      "title": "果粉換機「現在就是低點」！iPhone 17、Air價格大跳水　這款降近萬元",
      "link": "https://news.tvbs.com.tw/tech/3260226",
      "source": "tvbs",
@@ -7143,6 +7954,25 @@
       },
       "acquisition": "scraper",
       "category": "tech",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "iPhone電量狂掉？專家授5招自救　「螢幕朝下放」竟有用",
+     "link": "https://news.tvbs.com.tw/life/3260092",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-18T16:56:33.314916+08:00",
+     "description": "",
+     "category": "life",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "life",
       "feed_url": "https://news.tvbs.com.tw/realtime"
      }
     },
@@ -7486,7 +8316,7 @@
    "last_updated": "2026-07-19T11:29:07.851339+08:00",
    "tags": [
     "伊朗最高領袖",
-    "美國違反停火",
+    "國違反停火協",
     "川普簽名一"
    ],
    "articles": [
@@ -7744,8 +8574,8 @@
    ]
   },
   {
-   "id": "1dce8b7bd560",
-   "title": "台積電加碼投資美國　美商務部：創造數萬個就業機會",
+   "id": "3ab300bc74a8",
+   "title": "台積電加碼投資  亞利桑那州長：促成變革性時刻",
    "outlet_count": 5,
    "outlets": [
     "cna",
@@ -7754,43 +8584,25 @@
     "pts",
     "tvbs"
    ],
-   "article_count": 12,
-   "first_seen": "2026-07-17T07:27:12+08:00",
+   "article_count": 8,
+   "first_seen": "2026-07-17T09:28:34+08:00",
    "last_updated": "2026-07-18T08:12:28+08:00",
    "tags": [
     "台積電加碼",
-    "投資",
-    "美國"
+    "美國務院",
+    "投資"
    ],
    "claims": [
     {
-     "type": "金額",
-     "agree": false,
-     "outlet_count": 2,
-     "values": [
-      {
-       "value": "2650億元",
-       "outlets": [
-        "TVBS"
-       ]
-      },
-      {
-       "value": "3.2兆元",
-       "outlets": [
-        "ETtoday"
-       ]
-      }
-     ]
-    },
-    {
      "type": "金額（美元）",
      "agree": true,
-     "outlet_count": 2,
+     "outlet_count": 3,
      "values": [
       {
        "value": "1000億美元",
        "outlets": [
         "ETtoday",
+        "中央社",
         "自由時報"
        ]
       }
@@ -7906,25 +8718,6 @@
      }
     },
     {
-     "title": "台積電2650億投資美國　WSJ：兼具商業與政治目的",
-     "link": "https://news.tvbs.com.tw/world/3260091",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-17T12:22:50+08:00",
-     "description": "",
-     "category": "world",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "world",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
      "title": "台積電加碼投資  亞利桑那州長：促成變革性時刻",
      "link": "https://www.cna.com.tw/news/aipl/202607170058.aspx",
      "source": "cna",
@@ -7940,25 +8733,6 @@
       },
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/rsscna/politics"
-     }
-    },
-    {
-     "title": "台積電美投資金額達2650億！商務部：創數萬職缺、半導體製造回美",
-     "link": "https://news.tvbs.com.tw/world/3259888",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-17T09:39:38+08:00",
-     "description": "",
-     "category": "world",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "world",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
      }
     },
     {
@@ -8129,154 +8903,6 @@
    ]
   },
   {
-   "id": "8a18f98afaa5",
-   "title": "外送市場震撼整併！　傳Uber擬砸4600億收購foodpanda母公司",
-   "outlet_count": 5,
-   "outlets": [
-    "ettoday",
-    "ltn",
-    "mirror",
-    "storm",
-    "tvbs"
-   ],
-   "article_count": 6,
-   "first_seen": "2026-07-17T09:54:00+08:00",
-   "last_updated": "2026-07-17T21:33:19+08:00",
-   "tags": [
-    "母公司",
-    "收購",
-    "平台"
-   ],
-   "claims": [
-    {
-     "type": "金額",
-     "agree": false,
-     "outlet_count": 3,
-     "values": [
-      {
-       "value": "4800億元",
-       "outlets": [
-        "ETtoday",
-        "風傳媒"
-       ]
-      },
-      {
-       "value": "4600億元",
-       "outlets": [
-        "鏡週刊"
-       ]
-      }
-     ]
-    }
-   ],
-   "articles": [
-    {
-     "title": "Uber吞下Delivery Hero後，台灣foodpanda還有未來嗎？ | 陳雅婷 | 品味生活",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8yVjBvS3hkby15cG5jVkNYckd6NWxiZldVOEtFYVZlREVkRHplcmRMTWwxSGRqdHBPa0d6N0V5MGhBRzNxTjNweklUWDFDZw?oc=5",
-     "source": "storm",
-     "source_name": "風傳媒",
-     "published": "2026-07-17T21:33:19+08:00",
-     "description": "Uber吞下Delivery Hero後，台灣foodpanda還有未來嗎？ | 陳雅婷 | 品味生活  風傳媒",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "路易莎請客了！foodpanda會員輸入1組優惠碼 85元飲料免費喝",
-     "link": "https://ec.ltn.com.tw/article/breakingnews/5508766",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-17T16:27:14+08:00",
-     "description": "德商foodpanda推出pandapro會員限定「免費喝」優惠。7月20日至8月2日期間，pandapro會員透過foodpanda「外帶自取」服務，在路易莎指定分店的...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "Foodpanda母公司被收購！外送平台龍頭砸4800億元買下， 最新進度曝光",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE40VHU1elhKUTFfTHJNVzRMOXBlUkR1cnJDM3NuT0ZSR0hvc1RiRG9YTWhFb0FxdGFSbHhjSm5HVUxzNDM0cnRCNVdyc0NtSU5Y?oc=5",
-     "source": "storm",
-     "source_name": "風傳媒",
-     "published": "2026-07-17T13:40:59+08:00",
-     "description": "Foodpanda母公司被收購！外送平台龍頭砸4800億元買下， 最新進度曝光  Storm.mg",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "Uber收購foodpanda母公司　台灣平台：營運不影響",
-     "link": "https://news.tvbs.com.tw/life/3260083",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-17T11:53:19+08:00",
-     "description": "",
-     "category": "life",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "Uber收購foodpanda母公司　平台：台灣營運不受影響",
-     "link": "https://www.ettoday.net/news/20260717/3202750.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-17T11:02:00+08:00",
-     "description": "Uber宣布以148億美元（約新台幣4800億）收購foodpanda母公司「Delivery Hero」，雙方已簽署企業合併協議，最快預計2027年下半年完成。此項交易是否會影響台灣營運，台灣Uber Eats表示，此收購案不會對Delivery Hero在台灣的營運造成任何影響。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "外送市場震撼整併！　傳Uber擬砸4600億收購foodpanda母公司",
-     "link": "https://www.mirrormedia.mg/story/20260717edi013",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-07-17T09:54:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    }
-   ]
-  },
-  {
    "id": "43dcb6d1357d",
    "title": "北市議員李傅中武涉詐助理費977萬　貪污罪起訴",
    "outlet_count": 5,
@@ -8423,149 +9049,6 @@
    ]
   },
   {
-   "id": "d5588c033588",
-   "title": "佀廣洋遭爆考試作弊 他向台北大學具名檢舉 更曝最慘下場…",
-   "outlet_count": 5,
-   "outlets": [
-    "ettoday",
-    "ltn",
-    "mirror",
-    "newtalk",
-    "tvbs"
-   ],
-   "article_count": 7,
-   "first_seen": "2026-07-17T07:50:34+08:00",
-   "last_updated": "2026-07-17T19:32:28+08:00",
-   "tags": [
-    "佀廣洋",
-    "遭爆考試作弊",
-    "台北大學"
-   ],
-   "articles": [
-    {
-     "title": "佀廣洋被檢舉「閃兵」 內政部最新回應曝光",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5508993",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-17T19:32:28+08:00",
-     "description": "國民黨立委萬美玲之子佀廣洋涉霸凌醜聞持續延燒，近日更被質疑逃兵役，萬美玲坦承兒子未服役，聲稱因為當年體重120公斤太胖，後又改口110公斤。已有人向內政部檢舉，役政司長沈哲芳說...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "佀廣洋被檢舉考試作弊  授課教授陳儀深說話了",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5508825",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-17T16:44:28+08:00",
-     "description": "國民黨立委萬美玲之子佀廣洋因涉及霸凌、疑似逃兵等爭議，風波持續延燒，最新指控是其就學期間曾在考試作弊，並傳出佀廣洋所修的「台灣政治發展」是由國史館館長陳儀深授課。對此，陳儀深今...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "佀廣洋「涉作弊案」啟動調查　台北大學證實已收到檢舉信",
-     "link": "https://www.ettoday.net/news/20260717/3202944.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-17T13:40:00+08:00",
-     "description": "國民黨立委萬美玲之子佀廣洋遭爆料，就讀台北大學期間找槍手作答，台灣青年民主協會理事張育萌更向北大檢舉佀廣洋作弊。台北大學表示，已接獲檢舉信件，並依程序受理及啟動相關查證作業，將依客觀具體事證及相關資料，審慎釐清事實，若查證結果涉及本校權責事項，將依相關法令及校內規定妥適處理。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "霸凌、逃兵風波未歇！佀廣洋再爆考試作弊「北大發聲」　授課教授嘆：依校規處理",
-     "link": "https://www.mirrormedia.mg/story/20260717edi056",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-07-17T12:49:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "佀廣洋遭爆考試作弊！四叉貓揭囂張對話　台北大學啟動調查",
-     "link": "https://news.tvbs.com.tw/life/3260054",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-17T12:22:50+08:00",
-     "description": "",
-     "category": "life",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "佀廣洋遭爆考試作弊　台北大學：查證有無收到檢舉信",
-     "link": "https://www.ettoday.net/news/20260717/3202796.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-17T10:59:00+08:00",
-     "description": "國民黨立委萬美玲之子佀廣洋爭議事件頻傳，更遭爆料就讀台北大學期間，找槍手作答。台灣青年民主協會理事張育萌公開表示，已向北大檢舉佀廣洋作弊，佀廣洋可能只剩「新興高中」學歷。台北大學則回應，還在查證是否收到檢舉。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "佀廣洋遭爆考試作弊 他向台北大學具名檢舉 更曝最慘下場…",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JSGxpNW9FdTdHN21EOXEtam1SNHY5VEMySFhZTEJuN2lrd05hZ185cUszSGJ2dzFfN3NWbVBFNzhjN09nb0Iyb2lCZm9VWHp1bS1rbUMzTDQwT2M?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-17T07:50:34+08:00",
-     "description": "佀廣洋遭爆考試作弊 他向台北大學具名檢舉 更曝最慘下場…  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
    "id": "86964b8d15d6",
    "title": "台灣1款知名泡麵宣告停產！30年經典走入歷史「庫存賣完就沒了」， 老饕嘆從小吃到大",
    "outlet_count": 5,
@@ -8580,7 +9063,7 @@
    "first_seen": "2026-07-17T12:13:01+08:00",
    "last_updated": "2026-07-17T18:56:51.492987+08:00",
    "tags": [
-    "愛的泡麵之一",
+    "最愛的泡麵之",
     "從小吃到大",
     "停產"
    ],
@@ -8691,8 +9174,8 @@
    "first_seen": "2026-07-17T10:53:19+08:00",
    "last_updated": "2026-07-17T15:05:25.980801+08:00",
    "tags": [
-    "無照保母",
     "台南男童",
+    "無照保母",
     "童送托"
    ],
    "claims": [
@@ -8973,31 +9456,32 @@
    ]
   },
   {
-   "id": "e9a10cd2037f",
-   "title": "台灣大道建築大樓晚間大火！6人受困頂樓「揮手求救」",
-   "outlet_count": 4,
+   "id": "3e60aa8b0d80",
+   "title": "運動部公布147名不適任教練黑名單！石明謹示警：仍有3大漏洞| 網紅",
+   "outlet_count": 5,
    "outlets": [
-    "ebc",
     "ettoday",
     "ltn",
+    "newtalk",
+    "nownews",
     "tvbs"
    ],
-   "article_count": 9,
-   "first_seen": "2026-07-19T22:22:00+08:00",
-   "last_updated": "2026-07-20T06:06:43+08:00",
+   "article_count": 5,
+   "first_seen": "2026-07-17T11:43:00+08:00",
+   "last_updated": "2026-07-17T14:29:23+08:00",
    "tags": [
-    "台灣大道",
-    "受困頂樓",
-    "大火"
+    "不適任教練",
+    "運動部公布",
+    "棒球員陳凱倫"
    ],
    "articles": [
     {
-     "title": "宜蘭市泰山路金紙行深夜火警 1人受困陽台無生命徵象",
-     "link": "https://news.ltn.com.tw/news/society/breakingnews/5510835",
+     "title": "體壇》運動部公佈狼師黑名單 棒球項目19名不適任教練最多",
+     "link": "https://sports.ltn.com.tw/news/breakingnews/5508621",
      "source": "ltn",
      "source_name": "自由時報",
-     "published": "2026-07-20T06:06:43+08:00",
-     "description": "首次上稿 00:36更新時間 06:06\n宜蘭市泰山路一間金紙行昨天深夜發生火警，火勢延燒其他3間透天厝，消防人員封路搶救，確認10人受困，陸續救出9人，另有1人今天（20日...…",
+     "published": "2026-07-17T14:29:23+08:00",
+     "description": "運動部近期在網站上公布各項運動賽事不適任教練名單，特別設置「涉及違法事件不適任教練資訊專區」，並且附上法院判決書供參考，各項目曾有涉及違法事件的教練名單全被公布，首波名單...…",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -9009,12 +9493,12 @@
      }
     },
     {
-     "title": "宜蘭金紙行深夜火警「一度10人受困」！老婦無生命跡象搶救中",
-     "link": "https://www.ettoday.net/news/20260720/3204069.htm",
+     "title": "運動部曝光143名狼師、家暴教練　棒球項目19人不適任最多",
+     "link": "https://sports.ettoday.net/news/3202966",
      "source": "ettoday",
      "source_name": "ETtoday",
-     "published": "2026-07-20T01:02:00+08:00",
-     "description": "宜蘭市泰山路一間金紙行19日深夜11點47分發生住宅火警，火勢發生後一度造成8人受困，其中一名受困二樓陽台的老婦人救出時已失去生命跡象，送醫搶救中；另外7名受困民眾則由消防人員架梯救出，詳細起火原因仍待進一步調查釐清。 《詳全文...》",
+     "published": "2026-07-17T14:01:00+08:00",
+     "description": "為了守護校園及運動場域安全，運動部近日投下震撼彈！正式於官網設立「涉及違法事件不適任教練資訊專區」，首度公開因性侵害、性騷擾、家暴等違法事件遭除名的不適任教練名單。首波名單共計143人，其中「國球」棒球以19人居冠，籃球17人居次，引發基層體壇高度關注。 《詳全文...》",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -9026,208 +9510,12 @@
      }
     },
     {
-     "title": "疑煮飯不慎釀火！ 台中住宅6人受困頂樓",
-     "link": "https://news.ebc.net.tw/news/society/562055",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-20T00:36:46.052192+08:00",
-     "description": "19日晚間9點多，台中市中區一棟5層樓住宅，突然竄出猛烈火勢，6名民眾一度受困頂樓，不斷揮手呼救。消防人員到場後，立刻架設雲梯車救援，將受困民眾陸續救下。",
-     "category": "society",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "society",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "台中台灣大道惡火 救出頂樓6人嗆傷送醫",
-     "link": "https://news.ltn.com.tw/news/society/breakingnews/5510833",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-20T00:30:00+08:00",
-     "description": "台中市中區台灣大道1段一棟5層樓住宅，昨晚9點多發生火警，現場濃煙密布、火勢猛烈，消防局獲報出動5個單位，近30名消防人員到場搶救。因傳出有2男4女共6人受困於頂樓，消防人員全...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "台灣大道建築物大火「已4人獲救」！中風老母待救援",
-     "link": "https://www.ettoday.net/news/20260720/3204060.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-20T00:06:00+08:00",
-     "description": "台中市中區臺灣大道一段一棟建築7月19日晚間9點19分發生住宅火警，火勢自3樓竄出並持續燃燒，消防局獲報後出動大批人車搶救。截至晚間11點07分，已有4名受困民眾陸續由雲梯車救出送醫，目前仍有2人待救，消防人員持續全力搜救，詳細起火原因仍待火調釐清。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "台中台灣大道大樓大火！濃煙竄天　6人受困頂樓「揮手求救」",
-     "link": "https://news.tvbs.com.tw/local/3262029",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-19T23:33:45+08:00",
-     "description": "",
-     "category": "local",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "local",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "台灣大道建築物大火「已4人獲救」！中風老母待救援",
-     "link": "https://www.ettoday.net/news/20260719/3204060.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-19T23:33:00+08:00",
-     "description": "台中市中區臺灣大道一段一棟建築7月19日晚間9點19分發生住宅火警，火勢自3樓竄出並持續燃燒，消防局獲報後出動大批人車搶救。截至晚間11點07分，已有4名受困民眾陸續由雲梯車救出送醫，目前仍有2人待救，消防人員持續全力搜救，詳細起火原因仍待火調釐清。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "台中台灣大道火警濃煙竄天 6人受困頂樓搶救中",
-     "link": "https://news.ltn.com.tw/news/society/breakingnews/5510799",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-19T22:49:22+08:00",
-     "description": "台中市中區台灣大道1段一棟5層樓住宅，今天晚上9點多傳出火警，現場濃煙密布，消防局獲報已出動5個單位，近30名消防人員到場搶救，目前傳出有2男4女共6人受困於頂樓，消防人員全力...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "台灣大道建築大樓晚間大火！6人受困頂樓「揮手求救」",
-     "link": "https://www.ettoday.net/news/20260719/3204050.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-19T22:22:00+08:00",
-     "description": "台中市中區台灣大道一段一處建築大樓19日晚間9點19分發生火警，現場3樓竄出大量濃煙，消防局獲報後立即派遣大批人車趕赴搶救。初步確認有6名民眾受困頂樓安全區等待救援，目前暫無傷亡消息，消防人員正持續搜救，並確認室內是否還有其他受困者。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    }
-   ]
-  },
-  {
-   "id": "2f75295eac9c",
-   "title": "台中舊西北大飯店原址深夜火警　6人困頂樓獲救送醫",
-   "outlet_count": 4,
-   "outlets": [
-    "cna",
-    "ettoday",
-    "ltn",
-    "udn"
-   ],
-   "article_count": 4,
-   "first_seen": "2026-07-19T22:43:49+08:00",
-   "last_updated": "2026-07-20T01:25:00+08:00",
-   "tags": [
-    "西北大飯店",
-    "頂樓獲救送醫",
-    "店原址深夜火"
-   ],
-   "articles": [
-    {
-     "title": "西北大飯店舊址大火6人全獲救　外籍移工自責…消防讚：你做得很好",
-     "link": "https://www.ettoday.net/news/20260720/3204063.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-20T01:25:00+08:00",
-     "description": "台中市中區台灣大道一段已歇業的「西北大飯店」原址19日晚間發生火警，火勢自3樓竄出，頂樓一度有6名民眾受困。台中市消防局獲報後出動大批消防人車搶救，歷經約1小時救援，受困民眾分4批全數由雲梯車救下，6人意識均清楚，均輕微嗆傷，送往中國醫藥大學附設醫院治療，詳細起火原因仍待火災調查釐清。\n 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "台中舊西北大飯店原址深夜火警　6人困頂樓獲救送醫",
-     "link": "https://news.ltn.com.tw/news/society/breakingnews/5510834",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-20T00:30:05+08:00",
-     "description": "台中市中區已歇業的「西北大飯店」原址今天晚間發生火警，警消獲報到場灌救，發現有6人在頂樓待援，經雲梯車協助脫困送醫，均為輕微嗆傷、無生命危險，起火原因調查釐清。\n\n台中市消防局今天晚間9時1...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "台中舊西北大飯店原址深夜火警　6人困頂樓獲救送醫",
-     "link": "https://www.cna.com.tw/news/asoc/202607200002.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-20T00:23:26+08:00",
-     "description": "（中央社記者蘇木春台中19日電）台中市中區已歇業的「西北大飯店」原址今天晚間發生火警，警消獲報到場灌救，發現有6人在頂樓待援，經雲梯車協助脫困送醫，均為輕微嗆傷、無生命危險，起火原因調查釐清。",
-     "author": "蘇木春",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "蘇木春",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/social"
-     }
-    },
-    {
-     "title": "傳奇藝術創作者設計…台中西北大飯店閒置舊址陷火海 6人受困待援",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBzX1RERXVwT1VhaEdSV0dEaVBjUGRYS1ktQ3M4ck8zX2xna1h5ZVhUR1ViUWEyb2JYeTRKRngyMjBsaEsxNWRlYTVsTHd2ckJS0gFWQVVfeXFMUFVIX0RwSmczNGQydXNFQkF4RTVZc3M3a2c5a0s3LVNGMWtzVzh0WXlReFlkNkdrdUZ1bWYtYU5HVUNOWUgyVHQxNDVSUzgxNjBpWWJTX2c?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-07-19T22:43:49+08:00",
-     "description": "影／傳奇藝術創作者設計…台中西北大飯店閒置舊址陷火海 6人受困待援  UDN",
+     "title": "運動部公布不適任教練名單！共147人入列　前職棒球員陳凱倫上榜",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UT2cwSm80MzhJd2tRdkpJMUFJRHU3TzNrNUMzeGxTUUVqbGk2N1FEVElodXVsTURGRHczSzlTQ0U3aDNlQzllUF9YXzJRbTVnYlHSAVJBVV95cUxPVE9nMEpvNDM4SXdrUXZKSTFBSUR1N08zazVDM3hsU1FFamxpNjdRRFRJaHV1bE1ERkR3M0s5U0NFN2gzZUM5ZVBfWF8yUW01Z2JR?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-07-17T13:57:37+08:00",
+     "description": "運動部公布不適任教練名單！共147人入列　前職棒球員陳凱倫上榜  NOWnews今日新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -9235,7 +9523,43 @@
        "source": "unknown"
       },
       "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "運動部公布147名不適任教練　前職棒球員陳凱倫、陳峰民上榜",
+     "link": "https://news.tvbs.com.tw/sports/3260170",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-17T13:05:25+08:00",
+     "description": "",
+     "category": "sports",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "sports",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "運動部公布147名不適任教練黑名單！石明謹示警：仍有3大漏洞| 網紅",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jNGdMLXZqN25wVzd3TWU2SDVObDk4Sm5ENTJBLXdnTW4yRG5rcUZiMERXWmVTRnlJT1pzQVBFd3lGb25rdHVyMlh6OW55bzd5WVlFTGJpeGo1R28?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-17T11:43:00+08:00",
+     "description": "運動部公布147名不適任教練黑名單！石明謹示警：仍有3大漏洞| 網紅  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -9480,7 +9804,132 @@
    ]
   },
   {
-   "id": "2309c8a5ebad",
+   "id": "4fabe8d3ad55",
+   "title": "佀廣洋遭爆考試作弊　台北大學：查證有無收到檢舉信",
+   "outlet_count": 4,
+   "outlets": [
+    "ettoday",
+    "ltn",
+    "mirror",
+    "tvbs"
+   ],
+   "article_count": 6,
+   "first_seen": "2026-07-17T10:59:00+08:00",
+   "last_updated": "2026-07-17T19:32:28+08:00",
+   "tags": [
+    "佀廣洋",
+    "爆考試作弊",
+    "台北大學"
+   ],
+   "articles": [
+    {
+     "title": "佀廣洋被檢舉「閃兵」 內政部最新回應曝光",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5508993",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-17T19:32:28+08:00",
+     "description": "國民黨立委萬美玲之子佀廣洋涉霸凌醜聞持續延燒，近日更被質疑逃兵役，萬美玲坦承兒子未服役，聲稱因為當年體重120公斤太胖，後又改口110公斤。已有人向內政部檢舉，役政司長沈哲芳說...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "佀廣洋被檢舉考試作弊  授課教授陳儀深說話了",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5508825",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-17T16:44:28+08:00",
+     "description": "國民黨立委萬美玲之子佀廣洋因涉及霸凌、疑似逃兵等爭議，風波持續延燒，最新指控是其就學期間曾在考試作弊，並傳出佀廣洋所修的「台灣政治發展」是由國史館館長陳儀深授課。對此，陳儀深今...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "佀廣洋「涉作弊案」啟動調查　台北大學證實已收到檢舉信",
+     "link": "https://www.ettoday.net/news/20260717/3202944.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-17T13:40:00+08:00",
+     "description": "國民黨立委萬美玲之子佀廣洋遭爆料，就讀台北大學期間找槍手作答，台灣青年民主協會理事張育萌更向北大檢舉佀廣洋作弊。台北大學表示，已接獲檢舉信件，並依程序受理及啟動相關查證作業，將依客觀具體事證及相關資料，審慎釐清事實，若查證結果涉及本校權責事項，將依相關法令及校內規定妥適處理。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "霸凌、逃兵風波未歇！佀廣洋再爆考試作弊「北大發聲」　授課教授嘆：依校規處理",
+     "link": "https://www.mirrormedia.mg/story/20260717edi056",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-07-17T12:49:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "佀廣洋遭爆考試作弊！四叉貓揭囂張對話　台北大學啟動調查",
+     "link": "https://news.tvbs.com.tw/life/3260054",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-17T12:22:50+08:00",
+     "description": "",
+     "category": "life",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "life",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "佀廣洋遭爆考試作弊　台北大學：查證有無收到檢舉信",
+     "link": "https://www.ettoday.net/news/20260717/3202796.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-17T10:59:00+08:00",
+     "description": "國民黨立委萬美玲之子佀廣洋爭議事件頻傳，更遭爆料就讀台北大學期間，找槍手作答。台灣青年民主協會理事張育萌公開表示，已向北大檢舉佀廣洋作弊，佀廣洋可能只剩「新興高中」學歷。台北大學則回應，還在查證是否收到檢舉。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    }
+   ]
+  },
+  {
+   "id": "914e5f1c077a",
    "title": "馬以南發聲明　馬英九基金會：非常遺憾",
    "outlet_count": 4,
    "outlets": [
@@ -9489,13 +9938,13 @@
     "newtalk",
     "tvbs"
    ],
-   "article_count": 5,
-   "first_seen": "2026-07-17T08:24:12+08:00",
+   "article_count": 4,
+   "first_seen": "2026-07-17T11:09:54+08:00",
    "last_updated": "2026-07-17T11:51:47+08:00",
    "tags": [
     "馬英九基金會",
-    "馬以南",
-    "聲明"
+    "馬以南發聲明",
+    "回擊"
    ],
    "articles": [
     {
@@ -9568,50 +10017,108 @@
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
+    }
+   ]
+  },
+  {
+   "id": "6eea3fe76e2b",
+   "title": "俄羅斯彈道飛彈連環狂轟基輔　開戰以來最大規模之一",
+   "outlet_count": 3,
+   "outlets": [
+    "cna",
+    "ettoday",
+    "tvbs"
+   ],
+   "article_count": 3,
+   "first_seen": "2026-07-19T17:58:15+08:00",
+   "last_updated": "2026-07-20T08:23:00+08:00",
+   "tags": [
+    "最大規模",
+    "狂轟基輔",
+    "彈道飛彈"
+   ],
+   "claims": [
+    {
+     "type": "死亡人數",
+     "agree": false,
+     "outlet_count": 3,
+     "values": [
+      {
+       "value": "1",
+       "outlets": [
+        "TVBS",
+        "中央社"
+       ]
+      },
+      {
+       "value": "8",
+       "outlets": [
+        "ETtoday"
+       ]
+      }
+     ]
     },
     {
-     "title": "馬辦家變再起！ 黃帝穎點出馬以南聲明藏2大謬誤：難道要告馬英九| 政治",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmWWpkX0ZBT1lOS0pmU05KNzY4cVVvTDZ5bWRrS29ZR3RGMzh2UFRqZGs0ZjJzWC1VZmlkUEFEMDFLMUpsNDhNanNsQ0xReHpQNVVKWDVNT2lDR1U?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-17T08:24:12+08:00",
-     "description": "馬辦家變再起！ 黃帝穎點出馬以南聲明藏2大謬誤：難道要告馬英九| 政治  Newtalk新聞",
+     "type": "受傷人數",
+     "agree": false,
+     "outlet_count": 2,
+     "values": [
+      {
+       "value": "15",
+       "outlets": [
+        "TVBS"
+       ]
+      },
+      {
+       "value": "16",
+       "outlets": [
+        "中央社"
+       ]
+      }
+     ]
+    }
+   ],
+   "articles": [
+    {
+     "title": "俄羅斯「最大規模」飛彈狂轟！烏克蘭至少8死　澤倫斯基急求援",
+     "link": "https://www.ettoday.net/news/20260720/3204112.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-20T08:23:00+08:00",
+     "description": "俄羅斯19日對烏克蘭多個城市發動新一波大規模彈道飛彈與無人機空襲，造成至少8死、數十人受傷。烏克蘭總統澤倫斯基（Volodymyr Zelensky）表示，這次對首都基輔（Kyiv）的襲擊，是自2022年俄羅斯全面入侵以來，「規模最大的彈道飛彈攻擊之一」。\n\n 《詳全文...》",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
      }
-    }
-   ]
-  },
-  {
-   "id": "27abc44042b3",
-   "title": "秘魯安地斯山區規模5.1地震　釀5死21傷",
-   "outlet_count": 3,
-   "outlets": [
-    "cna",
-    "ltn",
-    "tvbs"
-   ],
-   "article_count": 5,
-   "first_seen": "2026-07-19T22:45:11+08:00",
-   "last_updated": "2026-07-20T04:19:45+08:00",
-   "tags": [
-    "秘魯安地斯山",
-    "兩起地震規模",
-    "屋倒塌"
-   ],
-   "articles": [
+    },
     {
-     "title": "秘魯中部連環震釀6死！規模最高5.1　300人急安置",
-     "link": "https://news.tvbs.com.tw/world/3262053",
+     "title": "俄羅斯彈道飛彈連環狂轟基輔　開戰以來最大規模之一",
+     "link": "https://www.cna.com.tw/news/aopl/202607190174.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-19T18:35:51+08:00",
+     "description": "（中央社基輔19日綜合外電報導）烏克蘭總統澤倫斯基（Volodymyr Zelenskyy）今天表示，俄羅斯夜間發射彈道飛彈襲擊烏克蘭首都基輔，造成至少1人死亡、16人受傷，這是俄烏開戰迄今規模最大的彈道飛彈攻擊之一。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
+     }
+    },
+    {
+     "title": "俄逾40枚彈道飛彈、百架無人機狂轟基輔！最大規模夜襲1死15傷",
+     "link": "https://news.tvbs.com.tw/world/3261841",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-20T04:19:45+08:00",
+     "published": "2026-07-19T17:58:15+08:00",
      "description": "",
      "category": "world",
      "metadata": {
@@ -9623,325 +10130,6 @@
       "acquisition": "scraper",
       "category": "world",
       "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "秘魯兩起地震規模5.1、3.7　至少6死21傷48屋倒塌",
-     "link": "https://news.ltn.com.tw/news/world/breakingnews/5510844",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-20T02:00:03+08:00",
-     "description": "秘魯國家民防機構主管今天表示，一個山區在遭遇兩起地震接連襲擊後，已經造成至少6人罹難、21人受傷。\n\n路透社報導，秘魯國家地震中心（National Seismological Center...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "秘魯兩起地震規模5.1、3.7　至少6死21傷48屋倒塌",
-     "link": "https://www.cna.com.tw/news/aopl/202607200004.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-20T01:51:31+08:00",
-     "description": "（中央社利馬19日綜合外電報導）秘魯國家民防機構主管今天表示，一個山區在遭遇兩起地震接連襲擊後，已經造成至少6人罹難、21人受傷。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
-     }
-    },
-    {
-     "title": "秘魯安地斯山脈規模5.5淺層地震 至少5死20傷",
-     "link": "https://news.ltn.com.tw/news/world/breakingnews/5510823",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-19T23:59:18+08:00",
-     "description": "當局19日表示，南美國家秘魯的安地斯山脈地區18日晚間發生規模5.5的淺層地震，造成至少5人死亡，另有至少20多人受傷與300人無家可歸。\n\n根據美國地質調查所（USGS）...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "秘魯安地斯山區規模5.1地震　釀5死21傷",
-     "link": "https://www.cna.com.tw/news/aopl/202607190208.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-19T22:45:11+08:00",
-     "description": "（中央社利馬19日綜合外電報導）秘魯當局今天表示，該國安地斯山（Andes）地區昨晚發生規模5.1地震，造成5人死亡、21人受傷。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
-     }
-    }
-   ]
-  },
-  {
-   "id": "04b804d2e7ee",
-   "title": "綠中執委改選　新系9席最大贏家、湧言會僅2席",
-   "outlet_count": 3,
-   "outlets": [
-    "cna",
-    "mirror",
-    "tvbs"
-   ],
-   "article_count": 3,
-   "first_seen": "2026-07-19T18:30:47+08:00",
-   "last_updated": "2026-07-19T20:47:00+08:00",
-   "tags": [
-    "中執委改選",
-    "湧言會",
-    "民進黨中"
-   ],
-   "articles": [
-    {
-     "title": "民進黨中常委改選　湧言會改由林智鴻代表入常會",
-     "link": "https://www.mirrormedia.mg/story/20260719-165inv-204733",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-07-19T20:47:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "民進黨中執委改選名單出爐！妃系2席全上　湧言會1人落馬",
-     "link": "https://news.tvbs.com.tw/politics/3261878",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-19T18:36:08+08:00",
-     "description": "",
-     "category": "politics",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "politics",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "綠中執委改選　新系9席最大贏家、湧言會僅2席",
-     "link": "https://www.cna.com.tw/news/aipl/202607190172.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-19T18:30:47+08:00",
-     "description": "（中央社記者葉素萍、王揚宇、溫貴香台北19日電）民進黨今天召開全代會改選權力核心，35人搶30席中執委，新潮流系拿下9席是最大贏家；湧言會規劃3席中執委，最後僅拿下2席，包括立委王定宇、高雄市議員林智鴻，若中常委選舉時，湧言會無法獲得其他派系奧援，恐將無法保住現有1席中常委。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
-     }
-    }
-   ]
-  },
-  {
-   "id": "072d2874ac29",
-   "title": "蔡阿嘎踩破多米多羅祖墳？新片再開酸：日本大牌抄嘎哥HAHABABY",
-   "outlet_count": 3,
-   "outlets": [
-    "mirror",
-    "nownews",
-    "tvbs"
-   ],
-   "article_count": 9,
-   "first_seen": "2026-07-18T10:00:58+08:00",
-   "last_updated": "2026-07-19T20:36:08+08:00",
-   "tags": [
-    "二伯",
-    "抄襲"
-   ],
-   "articles": [
-    {
-     "title": "Hahababy總監是她！合夥二伯3年信義區買房　窗外是台北101",
-     "link": "https://news.tvbs.com.tw/entertainment/3261952",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-19T20:36:08+08:00",
-     "description": "",
-     "category": "entertainment",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "entertainment",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "心虛了？Hahababy多款商品悄下架　官網連結「一點回首頁」",
-     "link": "https://www.mirrormedia.mg/story/20260719edi056",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-07-19T18:00:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "二伯HAHABABY涉抄襲！4日系品牌發聲　官網1動作被抓包",
-     "link": "https://news.tvbs.com.tw/life/3261835",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-19T17:36:08+08:00",
-     "description": "",
-     "category": "life",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "二伯HAHABABY爆抄襲　第4間日牌發聲：已交內部調查",
-     "link": "https://news.tvbs.com.tw/life/3261491",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-19T10:36:08+08:00",
-     "description": "",
-     "category": "life",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "HAHABABY總監不是二伯！羅禁慾管理品牌營運　3年就在台北市買房",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBFMDNPUGZjaTBZeEZsVVF6VTFyMGMyVjNmaHhvc3dKT2ZjYk1mMEpaWlVpcVF5Q0RrN0JicFhUdUQ5UExndkdWbHRLa3jSAVJBVV95cUxNSEwwYXNvd2dVTFRQWUIxbm53TEppRW94TDZKLXQ2NWhKalAwd3FBVjRONU96RC1UYl9mSEsxeDMzWjNydmtuOWVNb0ptMDJ3UVRB?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-07-19T09:43:31+08:00",
-     "description": "HAHABABY總監不是二伯！羅禁慾管理品牌營運　3年就在台北市買房  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "二伯Hahababy抄襲風波繼續燒！　第4家日牌證實：已交內部調查",
-     "link": "https://www.mirrormedia.mg/story/20260719edi022",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-07-18T15:35:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "第4家日系品牌表態！將調查二伯HAHABABY抄襲案　網友幫截圖存證",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9qZ2tZSldPVmdTdUdTSXlSMUNsWVl3bUY3MXRnNlhtX3ZIWTFTZzktVlF4a3F1UV9Qa2VadXYtbUYxb2I3OUNzQnFGSzTSAVJBVV95cUxNM0FDXzIxUkx3Z0QwcnppN1oyZlRLNmtkUV9xaG0zSWFCYXNUb1ZCOTAtS3lxRVYtM0dNWjA2bUJna25pamZDdVIyQkdiUnZSN0lB?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-07-18T14:36:28+08:00",
-     "description": "第4家日系品牌表態！將調查二伯HAHABABY抄襲案　網友幫截圖存證  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "蔡阿嘎急了？HAHABABY抄襲遭抓包「多款商品下架」連結全導回首頁",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE15UzBueDJudFhMdFpPcDlsczJTOHQ3WFlvUm42eHRENlpnMk9OblB6TmNMUUkyaXFLVlZtRURTZzBpSlVUM3FqdE9YN3jSAVJBVV95cUxNRTgyTTR4NFhBUDlkZWMya1R0c21nbXVPOVVaRVY2Q1F0RXJTUGhRdTZieG5vNmcwWGVBWW1DejZVbFdRUy1sTmRvbkR1UlFKeVZB?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-07-18T13:59:09+08:00",
-     "description": "蔡阿嘎急了？HAHABABY抄襲遭抓包「多款商品下架」連結全導回首頁  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "蔡阿嘎踩破多米多羅祖墳？新片再開酸：日本大牌抄嘎哥HAHABABY",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1vZzlGM0Y5VXdrR3hXeTgtZ1FzRjhIUlF6THczOWo2ZXR5SzI3amtGZ1hDc0xkVElMbUdMNnlFSnlqM1IzQXI2VU9ySHrSAVJBVV95cUxNTVowR1NVanViWldxVDQ3TmZPZFIwR3d4dEhZczhubkUzbXJGaWJEOEVpTFNRMnFXV3BIWVpaVUR1OFd4MVN0OUtoQWFBMzl6LXNR?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-07-18T10:00:58+08:00",
-     "description": "蔡阿嘎踩破多米多羅祖墳？新片再開酸：日本大牌抄嘎哥HAHABABY  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
