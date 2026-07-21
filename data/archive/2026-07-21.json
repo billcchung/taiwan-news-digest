@@ -1,11 +1,11 @@
 {
  "date": "2026-07-21",
- "generated_at": "2026-07-21T15:13:30.441441+08:00",
+ "generated_at": "2026-07-21T17:13:07.254465+08:00",
  "events": [
   {
    "id": "e71c6fedf6c3",
    "title": "世界盃決賽西班牙對阿根廷　川普邀墨加領袖觀戰",
-   "outlet_count": 12,
+   "outlet_count": 13,
    "outlets": [
     "chinatimes",
     "cna",
@@ -18,14 +18,36 @@
     "pts",
     "setn",
     "storm",
-    "tvbs"
+    "tvbs",
+    "udn"
    ],
-   "article_count": 126,
+   "article_count": 128,
    "first_seen": "2026-07-18T17:38:55+08:00",
    "last_updated": "2026-07-21T15:13:30.441441+08:00",
    "tags": [
     "世界盃",
     "西班牙"
+   ],
+   "claims": [
+    {
+     "type": "金額",
+     "agree": false,
+     "outlet_count": 2,
+     "values": [
+      {
+       "value": "3200萬元",
+       "outlets": [
+        "今日新聞"
+       ]
+      },
+      {
+       "value": "200萬元",
+       "outlets": [
+        "公視新聞"
+       ]
+      }
+     ]
+    }
    ],
    "articles": [
     {
@@ -45,6 +67,23 @@
       "acquisition": "scraper",
       "category": "sport",
       "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "西班牙隊世足奪冠後返國 獲國王與總理接見",
+     "link": "https://news.pts.org.tw/article/818618",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-07-21T14:11:51+08:00",
+     "description": "2026世界盃落幕，西班牙睽違16年再度登上世界之巔，返國後接受國王與總理接見，近200萬球迷更湧上馬德里街頭，迎接隊史第2座世界盃冠軍。另一頭，衛冕失利的阿根廷雖然無緣完成2連霸，但數以萬計球迷仍冒著風雨迎接國家隊返國。39歲的梅西也在賽後首度發文，坦言傷痛需要時間癒合，同時感謝球迷一路相伴，並恭喜西班牙奪冠。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
      }
     },
     {
@@ -71,7 +110,7 @@
      "link": "https://news.tvbs.com.tw/sports/3263199",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-21T12:13:30+08:00",
+     "published": "2026-07-21T12:13:07+08:00",
      "description": "",
      "category": "sports",
      "metadata": {
@@ -107,7 +146,7 @@
      "link": "https://news.tvbs.com.tw/local/3263096",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-21T10:13:30+08:00",
+     "published": "2026-07-21T10:13:07+08:00",
      "description": "",
      "category": "local",
      "metadata": {
@@ -126,7 +165,7 @@
      "link": "https://news.tvbs.com.tw/sports/3263110",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-21T10:13:30+08:00",
+     "published": "2026-07-21T10:13:07+08:00",
      "description": "",
      "category": "sports",
      "metadata": {
@@ -190,28 +229,11 @@
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
      }
-    },
-    {
-     "title": "2026世足／阿根廷不敵西班牙連霸夢碎　梅西：需要很長時間才能讓傷口癒合",
-     "link": "https://www.mirrormedia.mg/story/20260721edi003",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-07-21T09:00:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
     }
    ]
   },
   {
-   "id": "857ac905656e",
+   "id": "5193fbb1f3e8",
    "title": "蔣萬安4縣市長齊聚籲上凱道反毒油　推線上國是會議",
    "outlet_count": 12,
    "outlets": [
@@ -228,15 +250,51 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 96,
-   "first_seen": "2026-07-18T16:56:33.314916+08:00",
-   "last_updated": "2026-07-21T14:55:30+08:00",
+   "article_count": 95,
+   "first_seen": "2026-07-18T20:06:00+08:00",
+   "last_updated": "2026-07-21T16:55:07+08:00",
    "tags": [
     "蔣萬安",
     "上凱道",
     "毒油"
    ],
    "articles": [
+    {
+     "title": "食藥署擬放行中聯油品！蔣萬安怒轟急什麼：沒真相不上架",
+     "link": "https://news.tvbs.com.tw/politics/3263656",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-21T16:55:07+08:00",
+     "description": "",
+     "category": "politics",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "politics",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "陶晶瑩按讚蔣萬安725上凱道貼文被出征！綠黨團緩頰沒必要　王世堅：民主社會應尊重看法",
+     "link": "https://www.mirrormedia.mg/story/20260721edi055",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-07-21T16:15:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
     {
      "title": "「反毒油線上會議」提建言  黃敏惠：政府應追究相關人員責任",
      "link": "https://news.ltn.com.tw/news/politics/breakingnews/5512513",
@@ -271,6 +329,40 @@
       "acquisition": "scraper",
       "category": "politics",
       "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "反毒油地方達共識 盧秀燕：中央成立應變中心 總統召開國是會議",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Rb1NWeExsZGo3RFRHRHpGTUxHa3dDQU5QbzdBNTlPa3VpenhvMllHRW9uTG05WkJiYzdWNVNRaEdKZTNMVmREZ2lwb0tUOXh3X21USWdXZ3pQWW1wamlwaTRaRkNtck5jYlJ4WlJB?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-07-21T13:48:49+08:00",
+     "description": "反毒油地方達共識 盧秀燕：中央成立應變中心 總統召開國是會議  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "反毒油線上國是會議非綠17縣市到齊 盧秀燕：已親邀陳其邁、黃偉哲等人",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vLTg1S1hqU1ZLdy13MFR4cmgwZ0N3d0FyenVkNUt3QURzbFoyTDRnQmZoWHNjRFotUFl2T0pLemJsVGQ5MTNVSXZTaDhPVW5sRWtQSGI4YXpsNzNUWHA3al8xNXhWMjBVNmxielFR?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-07-21T13:35:48+08:00",
+     "description": "反毒油線上國是會議非綠17縣市到齊 盧秀燕：已親邀陳其邁、黃偉哲等人  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
@@ -344,83 +436,11 @@
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
-    },
-    {
-     "title": "反毒油線上國是會議　蔣萬安提4建言：提高經費助地方政府檢驗",
-     "link": "https://www.ettoday.net/news/20260721/3204975.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-21T12:57:00+08:00",
-     "description": "中聯致癌油風暴席捲全國，台中市長盧秀燕今（21日）號召藍白地方首長召開「反毒油線上國是會議」，台北市長蔣萬安視訊出席，並針對現行食安體系提出四大建言，盼中央推動修法落實中上游業者即時通報、開放食安平台供各縣市橫向共享資訊、導入電子發票掌握產品流向，並提高經費挹注以提升地方政府的檢驗量能與設備。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "蔣萬安致電邀上凱道！通話內容陳其邁全說了：政治處理大可不必",
-     "link": "https://news.tvbs.com.tw/politics/3263208",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-21T12:13:30+08:00",
-     "description": "",
-     "category": "politics",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "politics",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "725上凱道成「藍白合」示範場？ 柯文哲「另有安排」不現身",
-     "link": "https://news.tvbs.com.tw/politics/3263216",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-21T12:13:30+08:00",
-     "description": "",
-     "category": "politics",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "politics",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "蔣萬安號召725上凱道反毒油黃國昌將現身、柯文哲另有行程| 政治",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tYnVLbzcxX3hsTUp2TEtobkZNX3J1LUJ5bUxNeWREY3Atdmd2VGV6NlhyeG9KY0d4eWFRTkJLSEFZYTFSeVRGdHE3VE9nWmNmTGVTa2k0MnR3dVE?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-21T12:07:58+08:00",
-     "description": "蔣萬安號召725上凱道反毒油黃國昌將現身、柯文哲另有行程| 政治  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
     }
    ]
   },
   {
-   "id": "a24d3d3e2773",
+   "id": "d1dc9aed1075",
    "title": "宣明智身體不適　緊急送醫手術",
    "outlet_count": 12,
    "outlets": [
@@ -437,7 +457,7 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 39,
+   "article_count": 40,
    "first_seen": "2026-07-19T08:35:22+08:00",
    "last_updated": "2026-07-21T11:28:56.500672+08:00",
    "tags": [
@@ -499,6 +519,23 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "宣明智開顱手術「取出160ml血塊」 兒子宣昶有曝最新病況：已睜眼、雙腳可活動 | 張庭維 | 新聞",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9BcEdicV9rUndEVmwwczVobnRJbXhMOFUyUHFoemloOURCUjN6TnlhbURJWUQtN3VMZE5RNDlpeWs3OW9HcTAwb2JaWWRGZw?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-07-20T12:14:51+08:00",
+     "description": "宣明智開顱手術「取出160ml血塊」 兒子宣昶有曝最新病況：已睜眼、雙腳可活動 | 張庭維 | 新聞  風傳媒",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
@@ -603,224 +640,6 @@
       },
       "acquisition": "rss",
       "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "宣明智腦硬膜外出血　醫：多因外傷造成「未傷腦預後佳」",
-     "link": "https://health.ettoday.net/news/3203939",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-19T16:51:00+08:00",
-     "description": "聯電榮譽副董事長宣明智今（19）日「腦硬膜外出血」緊急開刀救治。醫師指出，「腦硬膜外出血」大多是因為外傷，例如「跌倒、撞擊」等原因，導致硬腦膜外出現血塊，在危險性上，只要組織沒有受損，手術把血液引流出來就可以，預後也蠻好的。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    }
-   ]
-  },
-  {
-   "id": "e014b085c90b",
-   "title": "萬里溪堰塞湖溢流時間浮動　收容所有條件開放外出",
-   "outlet_count": 11,
-   "outlets": [
-    "cna",
-    "ebc",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "newtalk",
-    "nownews",
-    "pts",
-    "setn",
-    "tvbs",
-    "udn"
-   ],
-   "article_count": 44,
-   "first_seen": "2026-07-18T15:46:28+08:00",
-   "last_updated": "2026-07-21T12:48:14+08:00",
-   "tags": [
-    "里溪堰塞湖",
-    "警戒"
-   ],
-   "articles": [
-    {
-     "title": "萬里溪堰塞湖花蓮中區灌溉水斷供近月 最快明天施工引水",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5512309",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-21T12:48:14+08:00",
-     "description": "花蓮萬里溪上游堰塞湖疑因崩塌壩頂長高，至今尚未潰流，由於河床仍紅色警戒，引萬里溪水灌溉的林田圳水門至今仍關閉，水圳沒水讓農民急壞了！農田水利署、水利署第九河川分署等單位今上午至...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "萬里溪堰塞湖降為一般警戒 河川區域仍維持紅色警戒",
-     "link": "https://news.pts.org.tw/article/818537",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-07-20T20:41:30+08:00",
-     "description": "花蓮縣萬里溪堰塞湖，截至20日下午傍晚蓄水量已達571萬立方公尺，滲流的情形有加大，不過依舊未發生溢流，林保署表示，可能是壩體附近持續有土石崩落，造成壩頂增高，中央災害應變中心下午則宣布，萬里溪堰塞湖影響陸域的範圍降為一般警戒，但河川區域仍維持紅色警戒，保全戶已可返家，後續將持續監測，視情況調整。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "萬里溪堰塞湖降為一般警戒　台鐵：即日起全線列車正常運行",
-     "link": "https://www.mirrormedia.mg/story/20260720edi055",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-07-20T18:33:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "堰塞湖解除黃色警戒　季連成：恢復紅色警戒2小時內完成撤離",
-     "link": "https://www.ettoday.net/news/20260720/3204577.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-20T17:28:00+08:00",
-     "description": "中央災害應變中心於今日上午將萬里溪堰塞湖警戒由紅色調降為黃色，後續經觀察後，由於降雨減少，堰塞湖水位趨向穩定，壩體亦未有異狀，指揮官季連成宣布解除黃色警戒，但後續若發布紅色警戒，地方政府必須在2小時內完成疏散撤離作業。另由於堰塞湖仍可能因溢流導致大量湖水下移，因此，萬里溪下游堤防以外的河道範圍仍維持紅色警戒。\n 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "萬里溪堰塞湖警報解除！下游河道仍維持紅色警戒嚴禁人車進入| 生活",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1bmJVUlVlVHBQTmo5WG5FNENnSk5MUUpQQW9neF9sUDdBU3A3SlpzYXRIcndJT0RVNldzWlJfaEh6WVlTZXl4RnVRbmhxTlhaOHpUckJPaHBiUTA?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-20T17:19:04+08:00",
-     "description": "萬里溪堰塞湖警報解除！下游河道仍維持紅色警戒嚴禁人車進入| 生活  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "萬里溪堰塞湖降為一般警戒 台鐵：即起全線列車恢復正常運行",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5511542",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-20T16:59:47+08:00",
-     "description": "台鐵公司今天（20日）下午宣布，依據中央災害應變中心第15次工作會報裁示萬里溪堰塞湖降為一般警戒，即日起全線列車正常運行；因萬里溪堰塞湖水位隨降雨變化影響顯著，一般警戒期間倘涉...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "萬里溪堰塞湖尚未溢流 應變中心暫時解除紅色警戒",
-     "link": "https://news.pts.org.tw/article/818420",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-07-20T15:23:03+08:00",
-     "description": "花蓮縣萬里溪堰塞湖今（20）日早上9時蓄水量已達565萬立方公尺，由於仍未出現溢流狀況。因此中央災害應變中心宣布，今日萬里溪堰塞湖影響陸域的範囑，將暫時從紅色調降為黃色警戒，持續監測6小時，視情況調整。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "萬里溪堰塞湖降為黃色警戒 台鐵：今天全線正常行駛",
-     "link": "https://news.ebc.net.tw/news/living/562121",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-20T13:31:47.475627+08:00",
-     "description": "花蓮萬里溪堰塞湖調降陸域紅色警戒為黃色，但河道範圍內仍維持紅色警戒。台鐵今天指出，今天全線正常行駛，若有變化將會立即對外公布。",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "花蓮萬里溪堰塞湖相關報導",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9WSnRJTHdxREpqeWZGMWFqTEc1U0IxOWFCSXRNaFZPdl8zZG1Id2hUSi1KRXhTc1ZnRTJZdlIzbGF3RFNtSjFGOA?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-07-20T10:48:11+08:00",
-     "description": "花蓮萬里溪堰塞湖相關報導  三立新聞網SETN.com",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "萬里溪堰塞湖仍紅色警戒！花蓮「2地區」今停班停課",
-     "link": "https://news.ebc.net.tw/news/living/562060",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-20T08:58:15.830865+08:00",
-     "description": "花蓮縣政府於昨（19）日深夜公布最新防災資訊指出，根據農業部林業及自然保育署最新監測資料，萬里溪堰塞湖水位已上升至壩頂，目前仍維持紅色警戒。考量堰塞湖潛在風險，",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
      }
     }
    ]
@@ -1028,73 +847,36 @@
    ]
   },
   {
-   "id": "257850831313",
-   "title": "全台首次！「行動網路受阻」演練 8月有4天北、中「這14縣市」網速卡卡| 生活",
+   "id": "61813092859d",
+   "title": "萬里溪堰塞湖溢流時間浮動　收容所有條件開放外出",
    "outlet_count": 10,
    "outlets": [
-    "chinatimes",
+    "cna",
     "ebc",
+    "ettoday",
     "ltn",
     "mirror",
     "newtalk",
-    "nownews",
+    "pts",
     "setn",
-    "storm",
     "tvbs",
     "udn"
    ],
-   "article_count": 20,
-   "first_seen": "2026-07-18T15:31:36+08:00",
-   "last_updated": "2026-07-21T10:52:59+08:00",
+   "article_count": 40,
+   "first_seen": "2026-07-18T17:39:19+08:00",
+   "last_updated": "2026-07-21T12:48:14+08:00",
    "tags": [
-    "演習",
-    "斷網",
-    "首次"
+    "里溪堰塞湖",
+    "警戒"
    ],
    "articles": [
     {
-     "title": "行動網路受阻相關報導",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1JWS1pbnFmQVBoZy1MdnFsc3BkVFQ2RUZ4eXFwRFl1d2ZRT0liVExzLUU3X0xCNXZIUGNLRWc0YUFkei1KNEozQw?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-07-21T10:52:59+08:00",
-     "description": "行動網路受阻相關報導  三立新聞網SETN.com",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "14縣市8月演習降網速！民眾黨痛批：到底要驗證什麼",
-     "link": "https://news.tvbs.com.tw/politics/3263132",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-21T10:36:56+08:00",
-     "description": "",
-     "category": "politics",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "politics",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "低頭族注意！14縣市8月首度「降速演練」 追劇、上傳社群全卡卡",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5511846",
+     "title": "萬里溪堰塞湖花蓮中區灌溉水斷供近月 最快明天施工引水",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5512309",
      "source": "ltn",
      "source_name": "自由時報",
-     "published": "2026-07-21T08:00:05+08:00",
-     "description": "2026年城鎮韌性防空演習將於8月登場，首度納入「行動網路受阻」應變演練，首輪鎖定全國行動通訊流量最密集的中部與北部共14縣市，分批實施30分鐘降速，未來也將逐步擴大到全國各縣市...…",
+     "published": "2026-07-21T12:48:14+08:00",
+     "description": "花蓮萬里溪上游堰塞湖疑因崩塌壩頂長高，至今尚未潰流，由於河床仍紅色警戒，引萬里溪水灌溉的林田圳水門至今仍關閉，水圳沒水讓農民急壞了！農田水利署、水利署第九河川分署等單位今上午至...…",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -1106,12 +888,80 @@
      }
     },
     {
-     "title": "全台首次「手機降速」演習！南部為何不用？NCC揭曉原因",
-     "link": "https://3c.ltn.com.tw/news/66891",
+     "title": "萬里溪堰塞湖降為一般警戒 河川區域仍維持紅色警戒",
+     "link": "https://news.pts.org.tw/article/818537",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-07-20T20:41:30+08:00",
+     "description": "花蓮縣萬里溪堰塞湖，截至20日下午傍晚蓄水量已達571萬立方公尺，滲流的情形有加大，不過依舊未發生溢流，林保署表示，可能是壩體附近持續有土石崩落，造成壩頂增高，中央災害應變中心下午則宣布，萬里溪堰塞湖影響陸域的範圍降為一般警戒，但河川區域仍維持紅色警戒，保全戶已可返家，後續將持續監測，視情況調整。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "萬里溪堰塞湖降為一般警戒　台鐵：即日起全線列車正常運行",
+     "link": "https://www.mirrormedia.mg/story/20260720edi055",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-07-20T18:33:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "堰塞湖解除黃色警戒　季連成：恢復紅色警戒2小時內完成撤離",
+     "link": "https://www.ettoday.net/news/20260720/3204577.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-20T17:28:00+08:00",
+     "description": "中央災害應變中心於今日上午將萬里溪堰塞湖警戒由紅色調降為黃色，後續經觀察後，由於降雨減少，堰塞湖水位趨向穩定，壩體亦未有異狀，指揮官季連成宣布解除黃色警戒，但後續若發布紅色警戒，地方政府必須在2小時內完成疏散撤離作業。另由於堰塞湖仍可能因溢流導致大量湖水下移，因此，萬里溪下游堤防以外的河道範圍仍維持紅色警戒。\n 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "萬里溪堰塞湖警報解除！下游河道仍維持紅色警戒嚴禁人車進入| 生活",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1bmJVUlVlVHBQTmo5WG5FNENnSk5MUUpQQW9neF9sUDdBU3A3SlpzYXRIcndJT0RVNldzWlJfaEh6WVlTZXl4RnVRbmhxTlhaOHpUckJPaHBiUTA?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-20T17:19:04+08:00",
+     "description": "萬里溪堰塞湖警報解除！下游河道仍維持紅色警戒嚴禁人車進入| 生活  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "萬里溪堰塞湖降為一般警戒 台鐵：即起全線列車恢復正常運行",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5511542",
      "source": "ltn",
      "source_name": "自由時報",
-     "published": "2026-07-21T08:00:00+08:00",
-     "description": "「2026城鎮韌性(防空)演習」將在8月7日至13日分區舉行，涵蓋南部、中部、東部、北部及外離島。今年最大的不同，是首度在北部(含宜蘭)及中部共14個縣市加入「行動網路受阻」演練…",
+     "published": "2026-07-20T16:59:47+08:00",
+     "description": "台鐵公司今天（20日）下午宣布，依據中央災害應變中心第15次工作會報裁示萬里溪堰塞湖降為一般警戒，即日起全線列車正常運行；因萬里溪堰塞湖水位隨降雨變化影響顯著，一般警戒期間倘涉...…",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -1123,84 +973,29 @@
      }
     },
     {
-     "title": "南部不降速斷網 NCC扯恐影響股民",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91QUhzaHVRM3BGeHJGaVdFX0pUYUJ0VjkyNmMtZ2lwZ2F0VndtWHpJQ3ozQTJZSzJpYmtYNkRFTENQMmRkckM3UzFXaFAxZmN1emZ1V3FEQWNWV0ZINWdweE9LNjlkanF2UHFr?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-07-21T04:10:00+08:00",
-     "description": "南部不降速斷網 NCC扯恐影響股民  中時新聞網",
+     "title": "萬里溪堰塞湖尚未溢流 應變中心暫時解除紅色警戒",
+     "link": "https://news.pts.org.tw/article/818420",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-07-20T15:23:03+08:00",
+     "description": "花蓮縣萬里溪堰塞湖今（20）日早上9時蓄水量已達565萬立方公尺，由於仍未出現溢流狀況。因此中央災害應變中心宣布，今日萬里溪堰塞湖影響陸域的範囑，將暫時從紅色調降為黃色警戒，持續監測6小時，視情況調整。",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
      }
     },
     {
-     "title": "8月演習「首次斷網」！30分鐘手機只可通話、發簡訊",
-     "link": "https://news.ebc.net.tw/news/politics/562235",
+     "title": "萬里溪堰塞湖降為黃色警戒 台鐵：今天全線正常行駛",
+     "link": "https://news.ebc.net.tw/news/living/562121",
      "source": "ebc",
      "source_name": "東森新聞",
-     "published": "2026-07-21T00:48:45.187456+08:00",
-     "description": "2026城鎮韌性演習將於8月登場，14個縣市首度納入行動網路降載及中斷演練。國防部表示，初期僅影響行動網路、不影響固網，未來將視驗證結果評估擴大辦理。",
-     "category": "politics",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "politics",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "北、中部14縣市這2天將「手機集體斷網」！為何只有南部不用 NCC揭原因「跟股民有關」 | 張大任 | 新聞",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1HdkJDdXcyNzZUZ1k4VmNEOFdWMTF5b0ZqODg2V05Ccy1BYjhBTFhZRUgzRFdzdHdPbk5pai1PVk5HZ0lPdmpRaFZBbl9nZw?oc=5",
-     "source": "storm",
-     "source_name": "風傳媒",
-     "published": "2026-07-20T22:15:00+08:00",
-     "description": "北、中部14縣市這2天將「手機集體斷網」！為何只有南部不用 NCC揭原因「跟股民有關」 | 張大任 | 新聞  風傳媒",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "14縣市演習「手機限速」！南部未納入　NCC回應了",
-     "link": "https://news.tvbs.com.tw/life/3262934",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-20T22:05:57+08:00",
-     "description": "",
-     "category": "life",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "14縣市手機將降速30分鐘！NCC曝南部不實施原因",
-     "link": "https://news.ebc.net.tw/news/living/562210",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-20T21:01:34.299119+08:00",
-     "description": "NCC特別規畫在中部及北部共14個縣市實施30分鐘的「行動通訊降速演練」，對於南部不用降速，NCC主秘溫俊瑜表示因為南部演練在早上，擔心降速影響股票交易。",
+     "published": "2026-07-20T13:31:47.475627+08:00",
+     "description": "花蓮萬里溪堰塞湖調降陸域紅色警戒為黃色，但河道範圍內仍維持紅色警戒。台鐵今天指出，今天全線正常行駛，若有變化將會立即對外公布。",
      "category": "living",
      "metadata": {
       "schema_version": 1,
@@ -1214,13 +1009,30 @@
      }
     },
     {
-     "title": "網路降速演習懶人包》手機上網變慢30分鐘！時間區域及應對措施一次看",
-     "link": "https://news.tvbs.com.tw/life/3262714",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-20T18:13:30+08:00",
-     "description": "",
-     "category": "life",
+     "title": "花蓮萬里溪堰塞湖相關報導",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9WSnRJTHdxREpqeWZGMWFqTEc1U0IxOWFCSXRNaFZPdl8zZG1Id2hUSi1KRXhTc1ZnRTJZdlIzbGF3RFNtSjFGOA?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-07-20T10:48:11+08:00",
+     "description": "花蓮萬里溪堰塞湖相關報導  三立新聞網SETN.com",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "萬里溪堰塞湖仍紅色警戒！花蓮「2地區」今停班停課",
+     "link": "https://news.ebc.net.tw/news/living/562060",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-20T08:58:15.830865+08:00",
+     "description": "花蓮縣政府於昨（19）日深夜公布最新防災資訊指出，根據農業部林業及自然保育署最新監測資料，萬里溪堰塞湖水位已上升至壩頂，目前仍維持紅色警戒。考量堰塞湖潛在風險，",
+     "category": "living",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -1228,7 +1040,238 @@
        "source": "unknown"
       },
       "acquisition": "scraper",
-      "category": "life",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    }
+   ]
+  },
+  {
+   "id": "876afdb23ba8",
+   "title": "伊朗襲擊約旦　五角大廈：2美軍陣亡1人失聯",
+   "outlet_count": 9,
+   "outlets": [
+    "chinatimes",
+    "cna",
+    "ebc",
+    "ettoday",
+    "ltn",
+    "newtalk",
+    "pts",
+    "storm",
+    "tvbs"
+   ],
+   "article_count": 26,
+   "first_seen": "2026-07-19T03:14:31+08:00",
+   "last_updated": "2026-07-21T17:13:07.254465+08:00",
+   "tags": [
+    "美軍",
+    "伊朗",
+    "陣亡"
+   ],
+   "claims": [
+    {
+     "type": "死亡人數",
+     "agree": true,
+     "outlet_count": 3,
+     "values": [
+      {
+       "value": "2",
+       "outlets": [
+        "TVBS",
+        "新頭殼",
+        "自由時報"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "受傷人數",
+     "agree": true,
+     "outlet_count": 2,
+     "values": [
+      {
+       "value": "4",
+       "outlets": [
+        "ETtoday",
+        "新頭殼"
+       ]
+      }
+     ]
+    }
+   ],
+   "articles": [
+    {
+     "title": "美軍連轟10天！ 川普嗆伊付代價 葉門封紅海",
+     "link": "https://news.ebc.net.tw/news/world/562340",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-21T17:13:07.254465+08:00",
+     "description": "美軍證實有3名官兵在中東地區陣亡，美國總統川普也警告伊朗將「加倍奉還」。與伊朗關係密切的葉門胡塞組織也宣布，將在紅海對沙烏地阿拉伯實施海上封鎖。",
+     "category": "world",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "world",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "美伊衝突催化油價逼近90美元台塑化強勢漲停帶動塑化族群表態- 上市櫃",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GeVRHWl9kQjFWSkplMlFGS1RELXFkalk5aDc2U1BEV0lYRzBITUdQbTB5dnAtSVVjSEdpcUhTeHQzb21CZXVOeUhSWklPd1h3OVFYQ2JqSS1YRldwQ212bzhNZHp2SWhsclE?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-07-21T15:30:00+08:00",
+     "description": "美伊衝突催化油價逼近90美元台塑化強勢漲停帶動塑化族群表態- 上市櫃  旺得富理財網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "美軍連續第10晚空襲伊朗　集中打擊軍事設施",
+     "link": "https://www.cna.com.tw/news/aopl/202607210141.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-21T13:48:07+08:00",
+     "description": "（中央社華盛頓20日綜合外電報導）美軍今天深夜表示，已對伊朗展開最新一波打擊，攻擊目標包括伊朗軍事指揮中心、飛彈與無人機發射基地、海上作戰能力及防空系統，遏制德黑蘭攻擊荷莫茲海峽船隻的能力。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
+     }
+    },
+    {
+     "title": "美軍「睡夢中遭襲」！伊朗24小時三度轟約旦基地　2陣亡官兵身分曝",
+     "link": "https://www.ettoday.net/news/20260721/3204834.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-21T11:19:00+08:00",
+     "description": "伊朗彈道飛彈17日連番轟炸約旦穆瓦法克薩爾提空軍基地（Muwaffaq Salti Air Base），24小時內共發動3波攻擊，最終一枚飛彈命中美軍官兵睡覺的「貨櫃式住宅單元」（CHUs），造成2名士兵罹難，第3人遺骸仍在檢驗中。《華爾街日報》20日引述知情美國官員獨家披露上述細節，揭開這場致命夜襲的完整經過。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "伊朗飛彈命中美軍宿舍！3度突破防空 約旦基地2死1失蹤",
+     "link": "https://news.ltn.com.tw/news/world/breakingnews/5512158",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-21T11:18:32+08:00",
+     "description": "《華爾街日報》20日獨家披露，上週造成2名美軍官兵死亡、1人失蹤的伊朗飛彈攻擊，命中的不是跑道或機堡，而是美軍官兵居住的宿舍區。美方官員透露，這也是伊朗24小時內第3度突破美軍...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "美軍連10天空襲伊朗　葛西姆島再遭炸",
+     "link": "https://www.ettoday.net/news/20260721/3204734.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-21T08:30:00+08:00",
+     "description": "美軍再度對伊朗發動新一波空襲。美國中央司令部（CENTCOM）20日表示，在美國總統川普指示下，美軍已展開新一輪打擊行動，目標是進一步削弱伊朗用於攻擊荷莫茲海峽（Strait of Hormuz）商船的軍事能力。伊朗官媒則通報，南部多地傳出爆炸聲。\n 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "美伊衝突升級  川普沉默引發越戰覆轍憂慮",
+     "link": "https://news.ltn.com.tw/news/world/breakingnews/5511876",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-21T06:03:49+08:00",
+     "description": "美國和伊朗的戰事持續升級，美國總統川普在公開場合卻幾乎沒有披露任何戰局可能走向的線索。智庫學者警告，美軍傷亡人數可能因戰火延燒而逐漸增加，衝突可能全面重燃，美國可能會重蹈越戰...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "路透：調停人士推美伊10天停火協議 油價跌破90美元",
+     "link": "https://ec.ltn.com.tw/article/breakingnews/5511784",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-20T21:16:09+08:00",
+     "description": "首次上稿 21:16更新時間 23:57 （伊朗內政部長已赴巴基斯坦）\n\n\n\n\n\n路透報導，一名伊朗高級官員表示，調停人士已向伊朗提出一項緩和與美國戰爭的議案，據此，將提供為期...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "美連9日襲伊朗波灣城市遭轟 伊朗空襲美軍基地反擊",
+     "link": "https://news.pts.org.tw/article/818532",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-07-20T20:39:43+08:00",
+     "description": "美國與伊朗在停火破裂後，持續相互空襲，伊朗瀕臨波斯灣沿岸有多個港口都市，都遭到美軍轟炸，而伊朗也以空襲美軍基地來反擊。不過卡達《半島電視新聞網》的報導指出，雙方仍舊透過巴基斯坦斡旋持續談判，國際原子能總署（IAEA）則呼籲伊朗，讓檢查人員重回各核能設施進行查核。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "美軍基地2死1失蹤！已陣亡16人　疑中俄情報助攻伊朗",
+     "link": "https://news.tvbs.com.tw/world/3261493",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-20T17:28:58.852574+08:00",
+     "description": "",
+     "category": "world",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "world",
       "feed_url": "https://news.tvbs.com.tw/realtime"
      }
     }
@@ -1918,22 +1961,22 @@
     "nownews",
     "tvbs"
    ],
-   "article_count": 50,
+   "article_count": 67,
    "first_seen": "2026-07-18T17:14:00+08:00",
-   "last_updated": "2026-07-21T15:13:30.441441+08:00",
+   "last_updated": "2026-07-21T17:13:07.254465+08:00",
    "tags": [
     "縣市大",
-    "雨特報",
-    "氣象署"
+    "氣象署",
+    "大雷雨"
    ],
    "articles": [
     {
-     "title": "11縣市大雨特報！一路下到晚上",
-     "link": "https://news.ebc.net.tw/news/living/562306",
+     "title": "16縣市豪大雨猛炸！1地緊急發布淹水警戒",
+     "link": "https://news.ebc.net.tw/news/living/562342",
      "source": "ebc",
      "source_name": "東森新聞",
-     "published": "2026-07-21T15:13:30.441441+08:00",
-     "description": "受午後對流雲系發展旺盛影響，各地易有短延時強降雨發生。中央氣象署今（21）日正式發布大雨特報，警報有效時間至晚間23:00止。",
+     "published": "2026-07-21T17:13:07.254465+08:00",
+     "description": "午後對流雲系發展旺盛，氣象署針對16縣市發布豪、大雨特報，此外水利署也針對一鄉鎮發布淹水警戒。",
      "category": "living",
      "metadata": {
       "schema_version": 1,
@@ -1947,30 +1990,11 @@
      }
     },
     {
-     "title": "快躲雨！雷聲大響 ７縣市發布大雷雨特報",
-     "link": "https://news.ebc.net.tw/news/living/562316",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-21T15:13:30.441441+08:00",
-     "description": "午後對流發展旺盛，21日新竹以北、南投及中南部、東半部山區有局部大雨機率。氣象單位提醒慎防雷擊、強陣風、坍方落石、溪水暴漲及低窪積水。",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "天氣／午後雨彈再炸！北部中部山區防豪雨　3縣市高溫亮燈",
-     "link": "https://news.tvbs.com.tw/life/3262106",
+     "title": "天氣／國家警報大響！大雷雨猛炸　警戒區一次看",
+     "link": "https://news.tvbs.com.tw/life/3262259",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-21T15:13:30.441441+08:00",
+     "published": "2026-07-21T17:13:07.254465+08:00",
      "description": "",
      "category": "life",
      "metadata": {
@@ -1985,12 +2009,12 @@
      }
     },
     {
-     "title": "快訊》3縣市豪雨特報！氣象署急示警防溪水暴漲| 生活",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzNDNQUEtOdTM3aGltV1FxQmk4dHlyd212WDRTQ2FCZDZwd2YzaXY2YXZfZGN1Yi1vOWd4bHlyZ1A2RTB2TUJESGFlYWZzMWtqOVZpYlJOQm1sZTg?oc=5",
+     "title": "快訊》2縣市大雷雨狂炸！氣象署示警慎防雷擊積水| 生活",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWREdMM2NkNjIzd1RfaDdMTWJBSkVpN09LVE5ac3QzUVRNZVV5cnN0QzFVS3JfMHN4N3ZFaDB4NHV2SFN0TGYxbm1mdmpFTlVOWnlZTVU1cDUxYlU?oc=5",
      "source": "newtalk",
      "source_name": "新頭殼",
-     "published": "2026-07-21T15:00:01+08:00",
-     "description": "快訊》3縣市豪雨特報！氣象署急示警防溪水暴漲| 生活  Newtalk新聞",
+     "published": "2026-07-21T17:00:01+08:00",
+     "description": "快訊》2縣市大雷雨狂炸！氣象署示警慎防雷擊積水| 生活  Newtalk新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -2002,12 +2026,12 @@
      }
     },
     {
-     "title": "雷聲隆隆！雙北發布大雷雨警戒　13縣市大雨特報下到晚上",
-     "link": "https://www.mirrormedia.mg/story/20260721edi058",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-07-21T14:52:00+08:00",
-     "description": "",
+     "title": "16縣市豪、大雨特報！2地大雷雨國家警報 鄭明典示警：這顆對流胞很強",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5512622",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-21T16:53:04+08:00",
+     "description": "首次上稿 16:08更新時間 16:53\n今天午後對流雲系發展旺盛，中央氣象署擴大降雨警戒，增至16縣市豪、大雨特報，10縣市發布大雷雨即時訊息，前氣象局（署）長鄭明典示警「北...…",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -2015,16 +2039,16 @@
        "source": "unknown"
       },
       "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
      }
     },
     {
-     "title": "快訊》2縣市大雷雨狂炸！氣象署示警慎防積水| 生活",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FNzNOaDcwOTEtb0dGVTlsNHprNmZKaGpGSFpRMG9ESnhvQUdaRFR2NFNBVk8tSHdSX053dnlfQlNmalZWVnNZVFQzaXJsMk9PbEg0cWV2X1l3Mk0?oc=5",
+     "title": "快訊》3縣市又急又猛！氣象署籲防雷擊積水| 生活",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xX3A0dWZZRXg5NDlyYWp4Vk5WNFZUWTZYUEo3R2R2alJWRW9RaTFqUFZyb2dKd3gtMnB3eWg5UE1oT2NYcDBJQkF6bGlsUm8tWGJPd21CbjZsUnM?oc=5",
      "source": "newtalk",
      "source_name": "新頭殼",
-     "published": "2026-07-21T14:48:01+08:00",
-     "description": "快訊》2縣市大雷雨狂炸！氣象署示警慎防積水| 生活  Newtalk新聞",
+     "published": "2026-07-21T16:48:01+08:00",
+     "description": "快訊》3縣市又急又猛！氣象署籲防雷擊積水| 生活  Newtalk新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -2036,31 +2060,12 @@
      }
     },
     {
-     "title": "天氣／午後對流發威！北北基大雷雨警戒　5處溪流山區暴雨警戒",
-     "link": "https://news.tvbs.com.tw/life/3263463",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-21T14:37:30+08:00",
-     "description": "",
-     "category": "life",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "快訊》1縣市大雷雨狂炸！氣象署示警慎防雷擊積水| 生活",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WcVpUNmU5N0R3aFo1dDVMbFFvYmxNRmR1Mjd2Um05YTJzNTJHai1kM3JnUjZraXRVMHdLWGtBRlFhaGs0UVpLLWM1bF9iUFZJRWpZVDR2VzBicXM?oc=5",
+     "title": "快訊》1縣市又急又猛氣象署示警大雷雨防雷擊| 生活",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5obXhJekpSblpuYVlxVFpGcWdsU09LZ1NvVG1wMGFvY053bWVBeEdqdFFGUWRrQmtzUExldDNNTDdvVGlwaVpxeFEzdWxVLVNLc1lSOTkzWDJWbEU?oc=5",
      "source": "newtalk",
      "source_name": "新頭殼",
-     "published": "2026-07-21T14:36:01+08:00",
-     "description": "快訊》1縣市大雷雨狂炸！氣象署示警慎防雷擊積水| 生活  Newtalk新聞",
+     "published": "2026-07-21T16:36:01+08:00",
+     "description": "快訊》1縣市又急又猛氣象署示警大雷雨防雷擊| 生活  Newtalk新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -2072,12 +2077,12 @@
      }
     },
     {
-     "title": "快訊》3縣市大雷雨狂炸！氣象署示警慎防積水| 生活",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uVzFkN0x0MldtOUZrbWlCMHQ3eWJnalJ0cklIRVE5Smc1eVc1cUNWeTJjcjg1UV9MSzZNNTgzWUU5SWRlUkdZMjR0VEV0TU1xTE9WY0I1TlYxbEE?oc=5",
+     "title": "快訊》7/21 降雨特報！外出請注意，留意路面積水| 生活",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtbmY0NUc5clNHc3locW5XRlNHMnJuaVRaZGd1NGxEemVDLWJpdVNnbzRwYVc2R1JhOUxTbUFGVkRHWHN1LTdHc21lVTNqaUx2dkE5YTZlci15eEk?oc=5",
      "source": "newtalk",
      "source_name": "新頭殼",
-     "published": "2026-07-21T14:24:02+08:00",
-     "description": "快訊》3縣市大雷雨狂炸！氣象署示警慎防積水| 生活  Newtalk新聞",
+     "published": "2026-07-21T16:24:53+08:00",
+     "description": "快訊》7/21 降雨特報！外出請注意，留意路面積水| 生活  Newtalk新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -2089,54 +2094,104 @@
      }
     },
     {
-     "title": "天氣／午後對流旺盛　11縣市大雨特報、山區慎防落石坍方",
-     "link": "https://news.tvbs.com.tw/life/3263361",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-21T14:13:30+08:00",
-     "description": "",
-     "category": "life",
+     "title": "快訊》4縣市大雷雨狂炸！氣象署示警防雷擊積水| 生活",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hamdwX0lYTUZuN1FONS1kcTNTTUZmM2EzZWZicWhuOF9ua3c0cy1rRTlfSl9ZV2E5eEZCNXJjdjBFRU9JTDZNWVlpZ1JkSlZXbkJYZnV5SW5SUVE?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-21T16:24:01+08:00",
+     "description": "快訊》4縣市大雷雨狂炸！氣象署示警防雷擊積水| 生活  Newtalk新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "scraper",
-      "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "快訊》1縣市大雷雨狂炸！氣象署示警：慎防雷擊| 生活",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40U1JfblloR2F6em9PTFFjT1dkLUg1UVJLc2p1WlBsdGdUMnBPVUdKQk5JQVBlNXpEUXAxWDc5TjZLRlFTNlhLNzNEVlBtTkNnV1h2MDFNdFdJaXc?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-21T16:12:01+08:00",
+     "description": "快訊》1縣市大雷雨狂炸！氣象署示警：慎防雷擊| 生活  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "快訊》2縣市大雷雨狂炸！氣象署急示警：慎防雷擊| 生活",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GTVRqa2hTQTV4UXZrQUxucEhfSUFGMWRIbFRkTEFvMVpYbEZISHFHcjM1SGRYdk41VXBnLVhRQ2VEeWNFbWF5M3E2S3hJak5XRFBYcWJsLWdTdWs?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-21T16:00:02+08:00",
+     "description": "快訊》2縣市大雷雨狂炸！氣象署急示警：慎防雷擊| 生活  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
   },
   {
-   "id": "ac880bc48fc4",
-   "title": "政院：食安法修法納10大重點　加重隱匿通報處罰",
+   "id": "5f5ca2a96b43",
+   "title": "府：藍縣市首長開反毒油會議　不妨公布近年稽查成果",
    "outlet_count": 8,
    "outlets": [
+    "chinatimes",
     "cna",
-    "ebc",
     "ettoday",
     "ltn",
-    "mirror",
-    "pts",
+    "newtalk",
+    "nownews",
     "storm",
     "tvbs"
    ],
    "article_count": 16,
-   "first_seen": "2026-07-20T17:13:30+08:00",
-   "last_updated": "2026-07-21T15:13:30.441441+08:00",
+   "first_seen": "2026-07-19T11:22:06+08:00",
+   "last_updated": "2026-07-21T16:53:17+08:00",
    "tags": [
-    "食安法",
-    "修法"
+    "盧秀燕",
+    "國是會議",
+    "食安"
    ],
    "articles": [
     {
-     "title": "食安風暴開撕！藍推修法重罰10億　要求24小時預防性下架",
-     "link": "https://news.tvbs.com.tw/politics/3262411",
+     "title": "赴政院參加食安會議  蔣萬安：閣揆須負政治責任",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5512714",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-21T16:53:17+08:00",
+     "description": "行政院今日下午召開食安法修法會議，邀請六都市長參加，國民黨執政的4個直轄市，僅台北市長蔣萬安、台中市長盧秀燕出席。蔣萬安會前受訪表示，行政部門在第一時間選擇蓋牌，不公布下游業者...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "蔣萬安邀參加反毒油遊行　陳其邁不領情：民眾不希望看到上街頭",
+     "link": "https://news.tvbs.com.tw/politics/3263652",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-21T15:13:30.441441+08:00",
+     "published": "2026-07-21T16:52:07+08:00",
      "description": "",
      "category": "politics",
      "metadata": {
@@ -2151,50 +2206,12 @@
      }
     },
     {
-     "title": "中聯油脂解禁放行！19批檢驗合格重上架 7批不合格銷毀",
-     "link": "https://news.ebc.net.tw/news/living/562299",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-21T13:28:14.270631+08:00",
-     "description": "食品藥物管理署今（21）日上午召開「食品風險評估諮議會」，經綜合檢驗結果、上下游產品流向核對及食品安全風險評估，並採納諮議會建議，正式公布中聯油脂股份有限公司1",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "致癌油懶人包》食藥署公布調查結果！累計440項產品、360家業者，下架清單一次看",
-     "link": "https://news.tvbs.com.tw/life/3246789",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-21T13:20:14+08:00",
-     "description": "",
-     "category": "life",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "地檢署、食藥署大動作調查中聯油脂 廠方緊急關大門",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5512293",
+     "title": "總統府要各縣市公開稽查成果 北市府反嗆：賴清德還要神隱多久？",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5512401",
      "source": "ltn",
      "source_name": "自由時報",
-     "published": "2026-07-21T12:54:34+08:00",
-     "description": "中聯油脂致癌大豆拉沙油風暴持續延燒，今日一早檢方和食藥署獨立調查小組人員進廠檢視，目前由中聯人員全程陪同，目前仍在查廠中，至中午仍未離開。\n 據了解，今日一早8點檢方和食藥署...…",
+     "published": "2026-07-21T15:07:58+08:00",
+     "description": "中聯致癌油風暴席捲全國，台中市長盧秀燕號召藍白地方首長召開「反毒油線上國是會議」。總統府發言人郭雅慧表示，食安問題不分藍綠，各縣市不妨對國人公布近幾年來稽查的相關成果。台北市政...…",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -2206,330 +2223,12 @@
      }
     },
     {
-     "title": "民眾黨團提修食安法　關鍵原料出廠前逐批驗",
-     "link": "https://www.cna.com.tw/news/aipl/202607210103.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-21T12:20:44+08:00",
-     "description": "（中央社記者曾以寧台北21日電）中聯油脂案延燒，行政院長卓榮泰日前表示將修「食安法」。民眾黨團今天表示，也將提修法草案，建立第3方檢驗交叉驗證制與強制通報，關鍵食品原物料出廠前須逐批抽驗。",
-     "author": "曾以寧",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "曾以寧",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
-     }
-    },
-    {
-     "title": "食藥署公布中聯油處分：19批合格重上架　「這8批全銷毀」",
-     "link": "https://news.tvbs.com.tw/life/3263219",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-21T12:13:30+08:00",
-     "description": "",
-     "category": "life",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "民眾黨提修食安法　加強抽驗關鍵油料、預防性下架至少1個月",
-     "link": "https://www.ettoday.net/news/20260721/3204901.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-21T11:28:00+08:00",
-     "description": "中聯毒油案爆發至今超過半個月過去，食藥署20日宣布完成所有問題批號油品檢驗，並將派獨立調查小組再進廠調查一周。民眾黨今（21日）召開記者會說明《食安法》的修法方向，主張加強抽驗關鍵油料、落實第三方檢驗交叉驗證制度，建立高風險油品「政府強制抽驗」制度，還有關鍵食品原物料應逐批抽驗、強化中央主管機關主動查驗職責，同時也要明訂預防性下架期程，至少一個月，以利調查。\n\n 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "台中被指毒油破口 盧秀燕下午出席政院食安法修法會議",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5512030",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-21T11:13:22+08:00",
-     "description": "中聯致癌油風暴延燒全國，台中市長盧秀燕日前稱毒油風暴後中央要求不要查廠，卻被爆台中市在她市長近8年任內根本未曾檢驗過中聯油脂是否含苯駢芘，8年檢驗0次，被指毒油破口在台中，今早...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "食安法修法 增訂預防性下架原則／修法草案10大重點 行政院會週四將通過",
-     "link": "https://news.ltn.com.tw/news/life/paper/1763428",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-21T05:30:00+08:00",
-     "description": "〔記者鍾麗華、林欣漢、林志怡、蘇金鳳／綜合報導〕中聯油脂案暴露食安法對於業者自主管理油品的監督機制不足，也對無辜被迫下架的業者不公平，朝野都有意修法強化對業者管理，行政院會週四將通過「食品安全衛生管理法修正草案」，修法共十大重點，包括增訂高風險食品業者自主檢驗頻率、第三方驗證機構抽樣及通報機制，以及…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "食藥署公布30批原油檢驗結果 增2批不合格共計7批",
-     "link": "https://news.pts.org.tw/article/818544",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-07-20T20:42:35+08:00",
-     "description": "中聯油脂苯駢芘超標案，食藥署檢驗結果出爐。根據統計，從4月到6月中聯共計生產30批原油，最後確認不合格的油品增加2批，共計7批油品不合格。針對事件原因，也委託食品工業發展研究所成立獨立調查小組，將進廠全面檢視製造及品質管理流程，儘速釐清原因及責任歸屬。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    }
-   ]
-  },
-  {
-   "id": "876afdb23ba8",
-   "title": "伊朗襲擊約旦　五角大廈：2美軍陣亡1人失聯",
-   "outlet_count": 8,
-   "outlets": [
-    "cna",
-    "ebc",
-    "ettoday",
-    "ltn",
-    "newtalk",
-    "pts",
-    "storm",
-    "tvbs"
-   ],
-   "article_count": 24,
-   "first_seen": "2026-07-19T03:14:31+08:00",
-   "last_updated": "2026-07-21T13:48:07+08:00",
-   "tags": [
-    "美軍",
-    "伊朗",
-    "約旦"
-   ],
-   "claims": [
-    {
-     "type": "死亡人數",
-     "agree": true,
-     "outlet_count": 3,
-     "values": [
-      {
-       "value": "2",
-       "outlets": [
-        "TVBS",
-        "新頭殼",
-        "自由時報"
-       ]
-      }
-     ]
-    },
-    {
-     "type": "受傷人數",
-     "agree": true,
-     "outlet_count": 2,
-     "values": [
-      {
-       "value": "4",
-       "outlets": [
-        "ETtoday",
-        "新頭殼"
-       ]
-      }
-     ]
-    }
-   ],
-   "articles": [
-    {
-     "title": "美軍連續第10晚空襲伊朗　集中打擊軍事設施",
-     "link": "https://www.cna.com.tw/news/aopl/202607210141.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-21T13:48:07+08:00",
-     "description": "（中央社華盛頓20日綜合外電報導）美軍今天深夜表示，已對伊朗展開最新一波打擊，攻擊目標包括伊朗軍事指揮中心、飛彈與無人機發射基地、海上作戰能力及防空系統，遏制德黑蘭攻擊荷莫茲海峽船隻的能力。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
-     }
-    },
-    {
-     "title": "美軍「睡夢中遭襲」！伊朗24小時三度轟約旦基地　2陣亡官兵身分曝",
-     "link": "https://www.ettoday.net/news/20260721/3204834.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-21T11:19:00+08:00",
-     "description": "伊朗彈道飛彈17日連番轟炸約旦穆瓦法克薩爾提空軍基地（Muwaffaq Salti Air Base），24小時內共發動3波攻擊，最終一枚飛彈命中美軍官兵睡覺的「貨櫃式住宅單元」（CHUs），造成2名士兵罹難，第3人遺骸仍在檢驗中。《華爾街日報》20日引述知情美國官員獨家披露上述細節，揭開這場致命夜襲的完整經過。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "伊朗飛彈命中美軍宿舍！3度突破防空 約旦基地2死1失蹤",
-     "link": "https://news.ltn.com.tw/news/world/breakingnews/5512158",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-21T11:18:32+08:00",
-     "description": "《華爾街日報》20日獨家披露，上週造成2名美軍官兵死亡、1人失蹤的伊朗飛彈攻擊，命中的不是跑道或機堡，而是美軍官兵居住的宿舍區。美方官員透露，這也是伊朗24小時內第3度突破美軍...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "美軍連10天空襲伊朗　葛西姆島再遭炸",
-     "link": "https://www.ettoday.net/news/20260721/3204734.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-21T08:30:00+08:00",
-     "description": "美軍再度對伊朗發動新一波空襲。美國中央司令部（CENTCOM）20日表示，在美國總統川普指示下，美軍已展開新一輪打擊行動，目標是進一步削弱伊朗用於攻擊荷莫茲海峽（Strait of Hormuz）商船的軍事能力。伊朗官媒則通報，南部多地傳出爆炸聲。\n 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "美伊衝突升級  川普沉默引發越戰覆轍憂慮",
-     "link": "https://news.ltn.com.tw/news/world/breakingnews/5511876",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-21T06:03:49+08:00",
-     "description": "美國和伊朗的戰事持續升級，美國總統川普在公開場合卻幾乎沒有披露任何戰局可能走向的線索。智庫學者警告，美軍傷亡人數可能因戰火延燒而逐漸增加，衝突可能全面重燃，美國可能會重蹈越戰...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "路透：調停人士推美伊10天停火協議 油價跌破90美元",
-     "link": "https://ec.ltn.com.tw/article/breakingnews/5511784",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-20T21:16:09+08:00",
-     "description": "首次上稿 21:16更新時間 23:57 （伊朗內政部長已赴巴基斯坦）\n\n\n\n\n\n路透報導，一名伊朗高級官員表示，調停人士已向伊朗提出一項緩和與美國戰爭的議案，據此，將提供為期...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "美連9日襲伊朗波灣城市遭轟 伊朗空襲美軍基地反擊",
-     "link": "https://news.pts.org.tw/article/818532",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-07-20T20:39:43+08:00",
-     "description": "美國與伊朗在停火破裂後，持續相互空襲，伊朗瀕臨波斯灣沿岸有多個港口都市，都遭到美軍轟炸，而伊朗也以空襲美軍基地來反擊。不過卡達《半島電視新聞網》的報導指出，雙方仍舊透過巴基斯坦斡旋持續談判，國際原子能總署（IAEA）則呼籲伊朗，讓檢查人員重回各核能設施進行查核。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "美軍基地2死1失蹤！已陣亡16人　疑中俄情報助攻伊朗",
-     "link": "https://news.tvbs.com.tw/world/3261493",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-20T17:28:58.852574+08:00",
-     "description": "",
-     "category": "world",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "world",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "美軍連9夜空襲伊朗！多座城市傳爆炸　德黑蘭揚言報復",
-     "link": "https://news.tvbs.com.tw/world/3262390",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-20T13:38:23+08:00",
-     "description": "",
-     "category": "world",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "world",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "美伊戰火連天、荷莫茲海峽兩艘油輪被炸！國際油價重回90美元大關，創下開戰後月漲幅紀錄| 國際中心| 新聞",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE94VHJ6dlJNVzVZM3dPSGVGMUp3U2dRdUM5V21rdVRNbWtCSGo0MkZUTW1mcWlINXA3VEo1enBPQ1BKV2p0dkh2Vm1sZ1FSQQ?oc=5",
-     "source": "storm",
-     "source_name": "風傳媒",
-     "published": "2026-07-20T13:31:19+08:00",
-     "description": "美伊戰火連天、荷莫茲海峽兩艘油輪被炸！國際油價重回90美元大關，創下開戰後月漲幅紀錄| 國際中心| 新聞  風傳媒",
+     "title": "政院邀討論修食安法 盧秀燕曝「等很久了」 一定把握機會",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBaN1dLdm1nMnBTTVpnLTFSekhGamdLeVVlbl80RXZXTjRVaWZiQUJDVHM0THVDc2FVOW9YYXJyU2RfWWxQektZUFBueERiMmJPY25RSTd3V2t1MGdRX29obnVqYjZDUEpVeHJ2Y01B?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-07-21T13:56:46+08:00",
+     "description": "政院邀討論修食安法 盧秀燕曝「等很久了」 一定把握機會  中時新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -2537,7 +2236,115 @@
        "source": "unknown"
       },
       "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "政院邀討論食安法修法　蔣萬安盧秀燕陳其邁將出席",
+     "link": "https://www.cna.com.tw/news/aipl/202607210109.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-21T12:28:56+08:00",
+     "description": "（中央社記者賴于榛台北21日電）中聯油脂案未歇，為強化食品安全衛生管理法修法內容，行政院今天邀請6直轄市代表，參與由行政院政務委員陳時中主持的法案審議討論。據了解，台北市長蔣萬安、台中市長盧秀燕、高雄市長陳其邁都將親自出席。",
+     "author": "賴于榛",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "賴于榛",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
+     }
+    },
+    {
+     "title": "府：藍縣市首長開反毒油會議　不妨公布近年稽查成果",
+     "link": "https://www.cna.com.tw/news/aipl/202607210063.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-21T11:12:19+08:00",
+     "description": "（中央社記者潘姿羽台北21日電）中聯油脂案延燒，台中市長盧秀燕邀請各縣市首長今天上午召開「反毒油線上國是會議」。總統府發言人郭雅慧說，食安問題不分藍綠，中央與地方各有負責的部分，不妨請各縣市對民眾公布近年稽查成果。",
+     "author": "潘姿羽",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "潘姿羽",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
+     }
+    },
+    {
+     "title": "藍首長開食安會議陳其邁不參加　府嗆：應公布近年稽查成果",
+     "link": "https://news.tvbs.com.tw/politics/3263130",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-21T10:28:56+08:00",
+     "description": "",
+     "category": "politics",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "politics",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "盧秀燕召開「反毒油線上國是會議」 總統府酸：不妨公開稽查成果| 政治",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91Y1NIYnNCN0NqV2VWNlVZZV9jeEFKdlJaODZXQVl1Z0ZySERUZ2w0T29QS0tjSlJTWmJnTFkweHNLNlRNOHg0U3prVE9tX2lKa0FGd0dqVVF6WE0?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-21T10:21:37+08:00",
+     "description": "盧秀燕召開「反毒油線上國是會議」 總統府酸：不妨公開稽查成果| 政治  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "食安鬥法！政院急召六都首長商討修法　蔣萬安、盧秀燕明親赴院會",
+     "link": "https://news.tvbs.com.tw/politics/3262984",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-20T23:13:07+08:00",
+     "description": "",
+     "category": "politics",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "politics",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "盧秀燕蔣萬安邀食安會議、上街頭 陳其邁：應一起參加政院會議",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5511725",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-20T19:55:00+08:00",
+     "description": "針對台中市長盧秀燕邀請7月21日參與線上會議討論食安，及台北市長蔣萬安邀請7月25日上凱道，高雄市長陳其邁今透過市府發言人指出，明天大家應該共同參加行政院會議。\n\n   高...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
      }
     }
    ]
@@ -2556,12 +2363,12 @@
     "setn",
     "tvbs"
    ],
-   "article_count": 25,
+   "article_count": 27,
    "first_seen": "2026-07-20T15:48:00+08:00",
-   "last_updated": "2026-07-21T12:39:00+08:00",
+   "last_updated": "2026-07-21T16:46:33+08:00",
    "tags": [
-    "謝賢",
     "謝霆鋒",
+    "謝賢",
     "離世"
    ],
    "claims": [
@@ -2586,6 +2393,40 @@
     }
    ],
    "articles": [
+    {
+     "title": "謝賢離世前苦等愛子返來 謝霆鋒台上含淚獻唱全場心碎",
+     "link": "https://ent.ltn.com.tw/news/breakingnews/5512702",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-21T16:46:33+08:00",
+     "description": "香港影帝「四哥」謝賢20日驚傳因肺炎過世，享壽89歲，震撼港台演藝圈。根據港媒報導，謝賢上週就傳出病危消息，送進加護病房急救，但他苦苦撐著病體，就是為了見到謝霆鋒最後一面...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "謝賢剛離世！謝霆鋒「因父親1句話」演唱會照常舉行　售票方回應",
+     "link": "https://star.ettoday.net/news/3205036",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-21T14:28:00+08:00",
+     "description": "香港影壇巨星謝賢昨日（20）傳出辭世噩耗，兒女謝霆鋒、謝婷婷透過社群平台證實離世消息，港媒爆料他已於7月16日因肺炎病逝，享壽89歲。而謝霆鋒本月25日在大陸青島要舉行演唱會，外界一度憂心行程會受到影響，不過主辦方表示沒有變動。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
     {
      "title": "「可憐的榜樣」謝賢89歲病逝！晚年悲歌曝光　謝霆鋒曾心痛揭爸爸天天喊：我要等死",
      "link": "https://www.mirrormedia.mg/story/20260721edi043",
@@ -2729,14 +2570,95 @@
       "category": "entertainment",
       "feed_url": "https://news.tvbs.com.tw/realtime"
      }
+    }
+   ]
+  },
+  {
+   "id": "ac880bc48fc4",
+   "title": "政院：食安法修法納10大重點　加重隱匿通報處罰",
+   "outlet_count": 8,
+   "outlets": [
+    "cna",
+    "ebc",
+    "ettoday",
+    "ltn",
+    "mirror",
+    "pts",
+    "storm",
+    "tvbs"
+   ],
+   "article_count": 16,
+   "first_seen": "2026-07-20T17:13:30+08:00",
+   "last_updated": "2026-07-21T15:13:30.441441+08:00",
+   "tags": [
+    "食安法",
+    "修法"
+   ],
+   "articles": [
+    {
+     "title": "食安風暴開撕！藍推修法重罰10億　要求24小時預防性下架",
+     "link": "https://news.tvbs.com.tw/politics/3262411",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-21T15:13:30.441441+08:00",
+     "description": "",
+     "category": "politics",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "politics",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
     },
     {
-     "title": "謝賢最後遺願曝光 謝霆鋒透露：the show must go on",
-     "link": "https://ent.ltn.com.tw/news/breakingnews/5511664",
+     "title": "中聯油脂解禁放行！19批檢驗合格重上架 7批不合格銷毀",
+     "link": "https://news.ebc.net.tw/news/living/562299",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-21T13:28:14.270631+08:00",
+     "description": "食品藥物管理署今（21）日上午召開「食品風險評估諮議會」，經綜合檢驗結果、上下游產品流向核對及食品安全風險評估，並採納諮議會建議，正式公布中聯油脂股份有限公司1",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "致癌油懶人包》食藥署公布調查結果！累計440項產品、360家業者，下架清單一次看",
+     "link": "https://news.tvbs.com.tw/life/3246789",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-21T13:20:14+08:00",
+     "description": "",
+     "category": "life",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "life",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "地檢署、食藥署大動作調查中聯油脂 廠方緊急關大門",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5512293",
      "source": "ltn",
      "source_name": "自由時報",
-     "published": "2026-07-20T18:50:25+08:00",
-     "description": "香港影帝謝賢近年健康亮紅燈，最後一次被目擊也是以輪椅代步，且身形消瘦。今（20）兒子謝霆鋒證實謝賢病逝消息，他也透露出謝賢最後的心願。\n\n\n謝霆鋒說，謝賢將自己的一生都奉...…",
+     "published": "2026-07-21T12:54:34+08:00",
+     "description": "中聯油脂致癌大豆拉沙油風暴持續延燒，今日一早檢方和食藥署獨立調查小組人員進廠檢視，目前由中聯人員全程陪同，目前仍在查廠中，至中午仍未離開。\n 據了解，今日一早8點檢方和食藥署...…",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -2748,12 +2670,49 @@
      }
     },
     {
-     "title": "謝賢逝世「4月坐輪椅喝咖啡」最後身影曝　親民合照粉絲全被拍",
-     "link": "https://star.ettoday.net/news/3204582",
+     "title": "民眾黨團提修食安法　關鍵原料出廠前逐批驗",
+     "link": "https://www.cna.com.tw/news/aipl/202607210103.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-21T12:20:44+08:00",
+     "description": "（中央社記者曾以寧台北21日電）中聯油脂案延燒，行政院長卓榮泰日前表示將修「食安法」。民眾黨團今天表示，也將提修法草案，建立第3方檢驗交叉驗證制與強制通報，關鍵食品原物料出廠前須逐批抽驗。",
+     "author": "曾以寧",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "曾以寧",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
+     }
+    },
+    {
+     "title": "食藥署公布中聯油處分：19批合格重上架　「這8批全銷毀」",
+     "link": "https://news.tvbs.com.tw/life/3263219",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-21T12:13:07+08:00",
+     "description": "",
+     "category": "life",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "life",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "民眾黨提修食安法　加強抽驗關鍵油料、預防性下架至少1個月",
+     "link": "https://www.ettoday.net/news/20260721/3204901.htm",
      "source": "ettoday",
      "source_name": "ETtoday",
-     "published": "2026-07-20T17:45:00+08:00",
-     "description": "縱橫影壇數十載、被尊稱為「四哥」的一代巨星謝賢，驚傳離世的噩耗，享壽89歲。消息一出，立刻引發各界高度關注與不捨。而謝賢今年4月被目擊坐輪椅喝咖啡、與粉絲親切合照的畫面，如今也被網友曝光在網路上，掀起不小的討論。 《詳全文...》",
+     "published": "2026-07-21T11:28:00+08:00",
+     "description": "中聯毒油案爆發至今超過半個月過去，食藥署20日宣布完成所有問題批號油品檢驗，並將派獨立調查小組再進廠調查一周。民眾黨今（21日）召開記者會說明《食安法》的修法方向，主張加強抽驗關鍵油料、落實第三方檢驗交叉驗證制度，建立高風險油品「政府強制抽驗」制度，還有關鍵食品原物料應逐批抽驗、強化中央主管機關主動查驗職責，同時也要明訂預防性下架期程，至少一個月，以利調查。\n\n 《詳全文...》",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -2762,6 +2721,221 @@
       },
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "台中被指毒油破口 盧秀燕下午出席政院食安法修法會議",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5512030",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-21T11:13:22+08:00",
+     "description": "中聯致癌油風暴延燒全國，台中市長盧秀燕日前稱毒油風暴後中央要求不要查廠，卻被爆台中市在她市長近8年任內根本未曾檢驗過中聯油脂是否含苯駢芘，8年檢驗0次，被指毒油破口在台中，今早...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "食安法修法 增訂預防性下架原則／修法草案10大重點 行政院會週四將通過",
+     "link": "https://news.ltn.com.tw/news/life/paper/1763428",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-21T05:30:00+08:00",
+     "description": "〔記者鍾麗華、林欣漢、林志怡、蘇金鳳／綜合報導〕中聯油脂案暴露食安法對於業者自主管理油品的監督機制不足，也對無辜被迫下架的業者不公平，朝野都有意修法強化對業者管理，行政院會週四將通過「食品安全衛生管理法修正草案」，修法共十大重點，包括增訂高風險食品業者自主檢驗頻率、第三方驗證機構抽樣及通報機制，以及…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "食藥署公布30批原油檢驗結果 增2批不合格共計7批",
+     "link": "https://news.pts.org.tw/article/818544",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-07-20T20:42:35+08:00",
+     "description": "中聯油脂苯駢芘超標案，食藥署檢驗結果出爐。根據統計，從4月到6月中聯共計生產30批原油，最後確認不合格的油品增加2批，共計7批油品不合格。針對事件原因，也委託食品工業發展研究所成立獨立調查小組，將進廠全面檢視製造及品質管理流程，儘速釐清原因及責任歸屬。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    }
+   ]
+  },
+  {
+   "id": "531293308d78",
+   "title": "台積電副理涉關鍵技術意圖外流中國　檢方起訴求刑7年",
+   "outlet_count": 8,
+   "outlets": [
+    "cna",
+    "ettoday",
+    "ltn",
+    "mirror",
+    "pts",
+    "storm",
+    "tvbs",
+    "udn"
+   ],
+   "article_count": 8,
+   "first_seen": "2026-07-20T17:53:54+08:00",
+   "last_updated": "2026-07-21T14:12:23+08:00",
+   "tags": [
+    "台積電前副理",
+    "起訴",
+    "機密"
+   ],
+   "articles": [
+    {
+     "title": "台積電前副理涉共諜案遭起訴 高檢署求刑7年",
+     "link": "https://news.pts.org.tw/article/818621",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-07-21T14:12:23+08:00",
+     "description": "台積電爆出共諜風波，一名陳姓前副理被控遭到中共吸收，涉嫌與香港男子丁小琥共謀，在對岸設立中國半導體材料分析公司，擬具「藍海計劃」等規劃，打算挖角台積電人才赴中工作，而且他還非法重製21件台積電機密文件帶回住家研讀，意圖用於對岸。高檢署將全案偵結，依《國安法》等罪嫌起訴具體求刑7年，丁小琥則是因為已在看守所病逝，依法不起訴。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "竊半導體機密提供中國 台積電前副理起訴 求處7年刑",
+     "link": "https://ec.ltn.com.tw/article/paper/1763407",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-21T05:30:00+08:00",
+     "description": "密謀「藍海計畫」 竊取21件技術文件\n\n〔記者劉詠韻、林薏茹／台北報導〕台積電陳姓前副理涉嫌與香港籍中國人丁小琥共謀在中國成立半導體材料分析公司（簡稱CSMAC），由陳男擬具「藍海計畫」（中國製造半導體基地）等計畫，欲挖角台積電人才赴中國工作及滲透我國半導體產業，陳並竊取台積電國家核心關鍵技術及…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "台積電首例國安機密外洩！前副理偷21件秘密文件 檢求處7年重刑 | 黃振剛 | 新聞",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE52TXp3VzhWd1RuR3d0WHMxczYwOUZta21NZnJNc1RBbHEwMC1qdzUwQzkzbzU2alJPanAtU0pXT3dPREQ2UG9CTEpSeEV3UQ?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-07-20T20:10:06+08:00",
+     "description": "台積電首例國安機密外洩！前副理偷21件秘密文件 檢求處7年重刑 | 黃振剛 | 新聞  風傳媒",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "台積電前副理淪共諜！「藍海計畫」竊21件機密　遭起訴求刑7年",
+     "link": "https://www.ettoday.net/news/20260720/3204619.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-20T19:27:00+08:00",
+     "description": "台積電陳姓前副理遭香港人丁小琥吸收，合謀到大陸地區發展設立中國半導體材料分析公司（簡稱CSMAC），企圖透過挖角台積電人才赴陸工作，滲透半導體產業，以竊取「國家核心關鍵技術」。案經高檢署智慧財產分署偵辦後，5月底聲請羈押陳男獲准，全案於20日偵查終結，檢方對陳男提起公訴，並具體求處有期徒刑7年。\n 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "台積電副理涉竊21項機密助中國！「藍海計畫」曝光　檢求刑7年",
+     "link": "https://www.mirrormedia.mg/story/20260720edi056",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-07-20T19:07:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "台積電副理涉關鍵技術意圖外流中國　檢方起訴求刑7年",
+     "link": "https://www.cna.com.tw/news/asoc/202607200248.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-20T18:54:29+08:00",
+     "description": "（中央社記者謝君臨台北20日電）高檢署今天偵結台灣首例國家核心關鍵技術營業秘密意圖外流中國案，追查發現台積電陳姓副理涉有擅自重製取得國安營密之事，依違反國安法等罪嫌起訴，並建請法院量處7年徒刑。",
+     "author": "謝君臨",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "謝君臨",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/social"
+     }
+    },
+    {
+     "title": "台積電首例國安竊密！前副理偷21件技術流向中國　求處7年重刑",
+     "link": "https://news.tvbs.com.tw/local/3262725",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-20T18:38:23+08:00",
+     "description": "",
+     "category": "local",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "local",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "台積電前副理被中共吸收竊半導體機密 發展「藍海計畫」 起訴求刑7年",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5yNWtxYUlKdnlBeV84cllLMFBPSHBLcjA3cFpVZndHYlZINXQ0ZGw0S2psSDBzT3FoZk5ValZTQmVhRGlSVDhDQmZkSmRGM3VD0gFWQVVfeXFMUDExQ0pNQjhKTlNER3lzcmdWWk81ajlKckEwWTVQeUlUV2h3eU9VdC1wUjk3ODJrdnlmZGRoaXRkTm5ZTnVfdE1wc05aNFVlNmZKamJfcUE?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-07-20T17:53:54+08:00",
+     "description": "台積電前副理被中共吸收竊半導體機密 發展「藍海計畫」 起訴求刑7年  UDN",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -2968,89 +3142,54 @@
    ]
   },
   {
-   "id": "9577f21ce6ec",
-   "title": "城鎮韌性演習14縣市演練行動網路降載　顧立雄：考驗國軍指管備援",
+   "id": "2248faf87c75",
+   "title": "全國首次「行動斷網演習」14縣市手機只能通話發簡訊時間日期一次看- 生活",
    "outlet_count": 8,
    "outlets": [
     "chinatimes",
-    "cna",
-    "ettoday",
+    "ebc",
+    "ltn",
     "mirror",
     "nownews",
-    "pts",
+    "storm",
     "tvbs",
     "udn"
    ],
-   "article_count": 12,
-   "first_seen": "2026-07-18T15:53:32+08:00",
-   "last_updated": "2026-07-21T10:48:52+08:00",
+   "article_count": 16,
+   "first_seen": "2026-07-18T21:20:13+08:00",
+   "last_updated": "2026-07-21T10:36:56+08:00",
    "tags": [
-    "城鎮韌性演習",
-    "顧立雄",
-    "網路"
+    "斷網",
+    "演習",
+    "手機"
    ],
    "articles": [
     {
-     "title": "韌性演習納手機降速　總統府：非台灣首創",
-     "link": "https://www.cna.com.tw/news/aipl/202607210050.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-21T10:48:52+08:00",
-     "description": "（中央社記者潘姿羽台北21日電）2026年城鎮韌性演習將首度納入「行動網路降速」演練，引發關注。總統府發言人郭雅慧今天表示，這是民主國家提升韌性的普遍做法，非台灣首創。考量中北部人口約占7成3，手機使用密度最高，所以優先演練，未來會擴及全國。",
-     "author": "潘姿羽",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "潘姿羽",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
-     }
-    },
-    {
-     "title": "城鎮韌性演習14縣市手機降速非斷網　影響範圍一篇看懂",
-     "link": "https://www.cna.com.tw/news/aipl/202607210026.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-21T08:55:59+08:00",
-     "description": "（中央社記者葉素萍台北21日電）2026年城鎮韌性演習首度納入「行動網路降速」演練，國安官員今天表示，8月10日中部、13日北部防空演習期間，將在演習區域實施30分鐘行動網路降速，驗證通訊受阻時政府應變及民眾備援能力；語音通話、簡訊、災防告警及110、119等緊急通訊，均不受影響。",
-     "author": "葉素萍",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "葉素萍",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
-     }
-    },
-    {
-     "title": "城鎮韌性演習首驗證跨縣市支援　軍民共用情境操演",
-     "link": "https://www.cna.com.tw/news/aipl/202607210025.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-21T08:55:57+08:00",
-     "description": "（中央社記者葉素萍台北21日電）國安人士今天表示，2026年城鎮韌性演習將首度與漢光演習更完整結合，城鎮演習由去年的1天延長為2天，採軍民共用情境，並首度驗證跨縣市協同作業，演練醫療地下化、疏散撤離、醫療後撤、聯合交通運輸及無人機運補等項目，強化全社會防衛韌性。",
-     "author": "葉素萍",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "葉素萍",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
-     }
-    },
-    {
-     "title": "城鎮韌性演習8月登場　首度演練4、5G行動網路降速",
-     "link": "https://www.mirrormedia.mg/story/20260720-165inv-122124",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-07-21T08:00:00+08:00",
+     "title": "14縣市8月演習降網速！民眾黨痛批：到底要驗證什麼",
+     "link": "https://news.tvbs.com.tw/politics/3263132",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-21T10:36:56+08:00",
      "description": "",
+     "category": "politics",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "politics",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "全台首次「手機降速」演習！南部為何不用？NCC揭曉原因",
+     "link": "https://3c.ltn.com.tw/news/66891",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-21T08:00:00+08:00",
+     "description": "「2026城鎮韌性(防空)演習」將在8月7日至13日分區舉行，涵蓋南部、中部、東部、北部及外離島。今年最大的不同，是首度在北部(含宜蘭)及中部共14個縣市加入「行動網路受阻」演練…",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -3058,67 +3197,16 @@
        "source": "unknown"
       },
       "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
      }
     },
     {
-     "title": "8月演習納「行動網路受阻」 顧立雄：固網不受影響",
-     "link": "https://news.pts.org.tw/article/818542",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-07-20T20:46:19+08:00",
-     "description": "國家通訊傳播委員會（NCC）規劃「城鎮韌性演習」，8月即將登場，將首度演練「行動網路受阻」，全台14縣市分2階段實施，屆時手機只能使用語音通話和簡訊服務。國防部長顧立雄今（20）日回應，演練以行動網路降速測試，固網部分不受影響，同時也是考驗國軍在模擬情境下的指管通訊備援能力。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "8月城鎮韌性演習將模擬「斷網」 顧立雄：考驗國軍通訊備援",
-     "link": "https://news.pts.org.tw/article/818433",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-07-20T15:24:54+08:00",
-     "description": "立法院外交及國防委員會，上午邀請國防部長顧立雄進行國軍軍品採購履約爭議，與違約致獲裝期程延宕採購專報告，由於NCC規劃的城鎮韌性演習即將在8月登場，到時14縣市行動網路將受阻、降載，引發外界議論。對此顧立雄強調，這是考驗國軍在模擬情境、指管通訊備援的能力，日後應該會再擴及到其他地方。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "2026城鎮韌性（防空）演習",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUTJaMHM3Ulk2ejJNYUtfM1UtSkNRLUNBLXU4NWpDdTZrWHRnU3pXOXF0OTdKYUoxUFp5czUwSG9QWkVVZzVRbjdsSldZd0k5cmpmQnhpUkwwaG1ZamxZSGUzdVNZbFhFQnFSd0ZkOVRVaFJwMFdtdzYwR2trcU5iR0JGcGJ5Vk02QVI1OEtQSk5XLVAxUno5MWJKWEdNOU05bXUzTFdpZ2JQNWVZTUs3VkcteHpwLVZBUm5EMUtKcWVJZw?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-07-20T14:25:46+08:00",
-     "description": "2026城鎮韌性（防空）演習  udn科技玩家",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "8月防空演習僅降行動網路 互網不受影響 防長：考驗國軍資管通訊備援",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TVzliMW5iQy02XzJ6b3pKSDdPZ3JnS09iUU9vaGcxemJnTFVvb19ZUWlyZTVISTIzbTlvSFNfWlFteW9wUV9pSy1sWjhEX09EVHAxNHZOdTd2eENubFVKbjE0YjdLYXlCRjhWV3BB?oc=5",
+     "title": "南部不降速斷網 NCC扯恐影響股民",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91QUhzaHVRM3BGeHJGaVdFX0pUYUJ0VjkyNmMtZ2lwZ2F0VndtWHpJQ3ozQTJZSzJpYmtYNkRFTENQMmRkckM3UzFXaFAxZmN1emZ1V3FEQWNWV0ZINWdweE9LNjlkanF2UHFr?oc=5",
      "source": "chinatimes",
      "source_name": "中時新聞網",
-     "published": "2026-07-20T11:38:58+08:00",
-     "description": "8月防空演習僅降行動網路 互網不受影響 防長：考驗國軍資管通訊備援  中時新聞網",
+     "published": "2026-07-21T04:10:00+08:00",
+     "description": "南部不降速斷網 NCC扯恐影響股民  中時新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -3130,11 +3218,47 @@
      }
     },
     {
-     "title": "8月中北部模擬「戰爭斷網」　 顧立雄：再擴及其他地方",
-     "link": "https://news.tvbs.com.tw/life/3262197",
+     "title": "8月演習「首次斷網」！30分鐘手機只可通話、發簡訊",
+     "link": "https://news.ebc.net.tw/news/politics/562235",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-21T00:48:45.187456+08:00",
+     "description": "2026城鎮韌性演習將於8月登場，14個縣市首度納入行動網路降載及中斷演練。國防部表示，初期僅影響行動網路、不影響固網，未來將視驗證結果評估擴大辦理。",
+     "category": "politics",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "politics",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "北、中部14縣市這2天將「手機集體斷網」！為何只有南部不用 NCC揭原因「跟股民有關」 | 張大任 | 新聞",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1HdkJDdXcyNzZUZ1k4VmNEOFdWMTF5b0ZqODg2V05Ccy1BYjhBTFhZRUgzRFdzdHdPbk5pai1PVk5HZ0lPdmpRaFZBbl9nZw?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-07-20T22:15:00+08:00",
+     "description": "北、中部14縣市這2天將「手機集體斷網」！為何只有南部不用 NCC揭原因「跟股民有關」 | 張大任 | 新聞  風傳媒",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "14縣市演習「手機限速」！南部未納入　NCC回應了",
+     "link": "https://news.tvbs.com.tw/life/3262934",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-20T11:13:22+08:00",
+     "published": "2026-07-20T22:05:57+08:00",
      "description": "",
      "category": "life",
      "metadata": {
@@ -3149,12 +3273,67 @@
      }
     },
     {
-     "title": "城鎮韌性演習14縣市手機斷網半小時　顧立雄：日後會再擴及其他地方",
-     "link": "https://www.ettoday.net/news/20260720/3204212.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-20T10:11:00+08:00",
-     "description": "「2026城鎮韌性（防空）演習」結合今年度漢光演習，首次演練行動網路受阻，僅能使用語音通話與簡訊的情境，分為台中、嘉義等7縣市；8月10日台北、新竹、宜蘭等7縣市。對此，國防部長顧立雄今（20日）表示，此考驗國軍在模擬情境，指管通訊備援能力，但固網沒有受到影響；這是初次驗證，日後應該會再擴及到其他地方。 《詳全文...》",
+     "title": "14縣市手機將降速30分鐘！NCC曝南部不實施原因",
+     "link": "https://news.ebc.net.tw/news/living/562210",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-20T21:01:34.299119+08:00",
+     "description": "NCC特別規畫在中部及北部共14個縣市實施30分鐘的「行動通訊降速演練」，對於南部不用降速，NCC主秘溫俊瑜表示因為南部演練在早上，擔心降速影響股票交易。",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "網路降速演習懶人包》手機上網變慢30分鐘！時間區域及應對措施一次看",
+     "link": "https://news.tvbs.com.tw/life/3262714",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-20T18:13:07+08:00",
+     "description": "",
+     "category": "life",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "life",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "8月演習30分鐘行動斷網 葛如鈞：測試驗證什麼必須說清楚",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sT3hQeTdQcVFpYThDUXRXaWg4T21IYlJVVWpjOTdsRHdXQS1MNG9NUGpnMHplV0JjQjVtX3Q4ZnZDTGFkM2dTSVpWbHFtOHRrQkHSAVdBVV95cUxNVmFLeEtRNUZWb1piWkxKNmFTbllaRDBpY093bU5nejFxeGdGV0pnM0t2V0kxUzlyUnBackJHZjhWRllzUlFRLU5uSmhhQzZ5VXVmMF9oOUU?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-07-20T13:31:11+08:00",
+     "description": "8月演習30分鐘行動斷網 葛如鈞：測試驗證什麼必須說清楚  UDN",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "網路戒嚴？NCC行動斷網演習「僅北中14縣實施」掀爭議　立委揭2大疑點",
+     "link": "https://www.mirrormedia.mg/story/20260720edi006",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-07-20T13:14:00+08:00",
+     "description": "",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -3162,7 +3341,7 @@
        "source": "unknown"
       },
       "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
      }
     }
    ]
@@ -3563,34 +3742,86 @@
    ]
   },
   {
-   "id": "5f5ca2a96b43",
-   "title": "府：藍縣市首長開反毒油會議　不妨公布近年稽查成果",
-   "outlet_count": 7,
+   "id": "112023090e87",
+   "title": "綠中執委改選　新系9席最大贏家、湧言會僅2席",
+   "outlet_count": 8,
    "outlets": [
     "cna",
-    "ettoday",
     "ltn",
+    "mirror",
     "newtalk",
     "nownews",
     "storm",
-    "tvbs"
+    "tvbs",
+    "udn"
    ],
-   "article_count": 13,
-   "first_seen": "2026-07-19T11:22:06+08:00",
-   "last_updated": "2026-07-21T15:07:58+08:00",
+   "article_count": 15,
+   "first_seen": "2026-07-19T17:49:50+08:00",
+   "last_updated": "2026-07-19T20:47:00+08:00",
    "tags": [
-    "國是會議",
-    "盧秀燕",
-    "毒油"
+    "民進黨",
+    "王定宇",
+    "中常委"
    ],
    "articles": [
     {
-     "title": "總統府要各縣市公開稽查成果 北市府反嗆：賴清德還要神隱多久？",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5512401",
+     "title": "民進黨中常委改選　湧言會改由林智鴻代表入常會",
+     "link": "https://www.mirrormedia.mg/story/20260719-165inv-204733",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-07-19T20:47:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "中常委改選新潮流拿3席　妃系、湧言等派系各1席",
+     "link": "https://www.cna.com.tw/news/aipl/202607190187.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-19T20:13:20+08:00",
+     "description": "（中央社記者葉素萍、王揚宇、溫貴香台北19日電）民進黨全代會今天改選黨內權力結構，新潮流系拿下3席中常委，是黨內最大派系，英系等其他派系各拿下1席；湧言會獲陳其邁系統奧援保住1席中常委，但現任中常委王定宇交棒給同派系林智鴻，陳亭妃胞妹陳怡珍也搶進1席中常委。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
+     }
+    },
+    {
+     "title": "新聞幕後／陳其邁勸退王定宇 湧言會驚險保住中常委席次",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBEMUstSHVGTjRnMUxZdmF6bFE4a21SMUtKQnl6eFZCbUlMT0tqN3VPemNMX3o2TWU1ZHA2TjFnMFRZVjU5c2VSaXZyRm95Mk8x0gFWQVVfeXFMUHRkc3pBZ28xVlhnOFdIbEV4QzBPUnpkUV9NcGZaRnBFcE8tT2VSLVJSaC1MWmhIc3hhajZGc2ZwQi0wdXpzSnBWZWlJT1NSaTVIY0lDeUE?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-07-19T20:06:36+08:00",
+     "description": "新聞幕後／陳其邁勸退王定宇 湧言會驚險保住中常委席次  UDN",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "綠營權力核心重組！泛賴系中常委強勢過半 王定宇交棒林智鴻",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5510702",
      "source": "ltn",
      "source_name": "自由時報",
-     "published": "2026-07-21T15:07:58+08:00",
-     "description": "中聯致癌油風暴席捲全國，台中市長盧秀燕號召藍白地方首長召開「反毒油線上國是會議」。總統府發言人郭雅慧表示，食安問題不分藍綠，各縣市不妨對國人公布近幾年來稽查的相關成果。台北市政...…",
+     "published": "2026-07-19T20:02:47+08:00",
+     "description": "民進黨內權力核心今（19日）重組，晚間從30席中執委選出10席中常委。新潮流系最終以3席稱霸，正國會、綠色友誼連線、民主活水、湧言會、英系、蘇系、陳亭妃系統則各拿下1席，尤以湧...…",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -3602,47 +3833,11 @@
      }
     },
     {
-     "title": "政院邀討論食安法修法　蔣萬安盧秀燕陳其邁將出席",
-     "link": "https://www.cna.com.tw/news/aipl/202607210109.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-21T12:28:56+08:00",
-     "description": "（中央社記者賴于榛台北21日電）中聯油脂案未歇，為強化食品安全衛生管理法修法內容，行政院今天邀請6直轄市代表，參與由行政院政務委員陳時中主持的法案審議討論。據了解，台北市長蔣萬安、台中市長盧秀燕、高雄市長陳其邁都將親自出席。",
-     "author": "賴于榛",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "賴于榛",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
-     }
-    },
-    {
-     "title": "府：藍縣市首長開反毒油會議　不妨公布近年稽查成果",
-     "link": "https://www.cna.com.tw/news/aipl/202607210063.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-21T11:12:19+08:00",
-     "description": "（中央社記者潘姿羽台北21日電）中聯油脂案延燒，台中市長盧秀燕邀請各縣市首長今天上午召開「反毒油線上國是會議」。總統府發言人郭雅慧說，食安問題不分藍綠，中央與地方各有負責的部分，不妨請各縣市對民眾公布近年稽查成果。",
-     "author": "潘姿羽",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "潘姿羽",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
-     }
-    },
-    {
-     "title": "藍首長開食安會議陳其邁不參加　府嗆：應公布近年稽查成果",
-     "link": "https://news.tvbs.com.tw/politics/3263130",
+     "title": "沒有王定宇！民進黨中常委改選結果揭曉　親賴陣營搶7席大勝",
+     "link": "https://news.tvbs.com.tw/politics/3261951",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-21T10:28:56+08:00",
+     "published": "2026-07-19T19:31:47+08:00",
      "description": "",
      "category": "politics",
      "metadata": {
@@ -3657,12 +3852,63 @@
      }
     },
     {
-     "title": "盧秀燕召開「反毒油線上國是會議」 總統府酸：不妨公開稽查成果| 政治",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91Y1NIYnNCN0NqV2VWNlVZZV9jeEFKdlJaODZXQVl1Z0ZySERUZ2w0T29QS0tjSlJTWmJnTFkweHNLNlRNOHg0U3prVE9tX2lKa0FGd0dqVVF6WE0?oc=5",
+     "title": "民進黨改選中評會　立委邱志偉擔任主委",
+     "link": "https://www.cna.com.tw/news/aipl/202607190178.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-19T19:31:00+08:00",
+     "description": "（中央社記者王揚宇、葉素萍台北19日電）民進黨全代會今天進行中央評議委員會改選，13人登記參選搶11席中評委，最後推舉民進黨立委邱志偉擔任中評會主委。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
+     }
+    },
+    {
+     "title": "民進黨中評委結果出爐！新潮流邱志偉接棒賴瑞隆",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83VXZlSU1MbjlWbzdadWRlWkNwWlpsbHQyU1lWZXpFbWxFa3Z4a1FMdnVRbU5rbFNDMXlzMHZMYTFzUHY5b2x6RjFVUUh0Y3R2WVHSAVJBVV95cUxPN1V2ZUlNTG45Vm83WnVkZVpDcFpabGx0MlNZVmV6RW1sRWt2eGtRTHZ1UW1Oa2xTQzF5czB2TGExc1B2OW9sekYxVVFIdGN0dllR?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-07-19T19:28:36+08:00",
+     "description": "民進黨中評委結果出爐！新潮流邱志偉接棒賴瑞隆  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "民進黨權力核心改選結果曝！信賴大贏家、王定宇沒連任",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE90YVpzcDk4SFBFcGJjWlAxeG40NlRrZU1ZVlIyenNyVDFIeDlLYldCTXRBbGl5dVJEamFQdW9QZ0JzQTY2VXNpSGFPcDTSAVJBVV95cUxPeDhIelNXSi1SQVlrTlpldHo3R2JfTkFXcEdNekN2U0dvVGJzbVVXN1pKWThMN050aTFQOVRxQlJsS3lTNWdleUxUUkNrVVNDZWtn?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-07-19T19:24:56+08:00",
+     "description": "快訊／民進黨權力核心改選結果曝！信賴大贏家、王定宇沒連任  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "民進黨權力核心出爐！泛賴系奪7席、非賴系3席王定宇讓出中常委| 政治",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPVzh0UjJjVmNIbzhxOGNVcW91ckluRkRkbW5jRnBrQ2ZYVnRvdk82bHhVSnlNbHJpclYzbGRhVnN6LVBYOW1YZEYzS3dueV96QjlGcGxZUnRmWHc?oc=5",
      "source": "newtalk",
      "source_name": "新頭殼",
-     "published": "2026-07-21T10:21:37+08:00",
-     "description": "盧秀燕召開「反毒油線上國是會議」 總統府酸：不妨公開稽查成果| 政治  Newtalk新聞",
+     "published": "2026-07-19T19:19:24+08:00",
+     "description": "民進黨權力核心出爐！泛賴系奪7席、非賴系3席王定宇讓出中常委| 政治  Newtalk新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -3674,31 +3920,12 @@
      }
     },
     {
-     "title": "食安鬥法！政院急召六都首長商討修法　蔣萬安、盧秀燕明親赴院會",
-     "link": "https://news.tvbs.com.tw/politics/3262984",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-20T23:13:30+08:00",
-     "description": "",
-     "category": "politics",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "politics",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "盧秀燕蔣萬安邀食安會議、上街頭 陳其邁：應一起參加政院會議",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5511725",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-20T19:55:00+08:00",
-     "description": "針對台中市長盧秀燕邀請7月21日參與線上會議討論食安，及台北市長蔣萬安邀請7月25日上凱道，高雄市長陳其邁今透過市府發言人指出，明天大家應該共同參加行政院會議。\n\n   高...…",
+     "title": "綠中執委改選　新系9席最大贏家、湧言會僅2席",
+     "link": "https://www.cna.com.tw/news/aipl/202607190172.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-19T18:30:47+08:00",
+     "description": "（中央社記者葉素萍、王揚宇、溫貴香台北19日電）民進黨今天召開全代會改選權力核心，35人搶30席中執委，新潮流系拿下9席是最大贏家；湧言會規劃3席中執委，最後僅拿下2席，包括立委王定宇、高雄市議員林智鴻，若中常委選舉時，湧言會無法獲得其他派系奧援，恐將無法保住現有1席中常委。",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -3706,60 +3933,7 @@
        "source": "unknown"
       },
       "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "蔣萬安、盧秀燕邀明「食安線上國是會議」　陳其邁態度曝光",
-     "link": "https://news.tvbs.com.tw/politics/3262836",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-20T19:38:23+08:00",
-     "description": "",
-     "category": "politics",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "politics",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "反毒油國是會議明召開　許淑華籲中央強化源頭管理、莫推責任",
-     "link": "https://www.ettoday.net/news/20260720/3204586.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-20T17:41:00+08:00",
-     "description": "致癌油事件導致全國人心惶惶，南投縣長許淑華表示，該縣截至7月19日為止已於市面回收近1萬5千公斤，下游廠商也退貨約4萬多公斤，期盼全國儘快度過致癌油的風暴，但也強調食安事件不能僅依靠地方政府末端稽查，更重要的是中央政府須從源頭建立完善管理制度、行政團隊最高決策者也該負起政治責任。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "被問漏驗BaP不回應 盧秀燕喊開線上國是會議：地方最清楚漏洞",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5511365",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-20T14:56:21+08:00",
-     "description": "國民黨籍台北市議員楊植斗、市議員參選人賴苡任、新北市議員參選人何元楷及張家馨等人為響應「725上街頭抗議毒油案」，昨日起在介壽派出所對面發動絕食靜坐，台中市長盧秀燕今（20）日...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
      }
     }
    ]
@@ -3973,7 +4147,7 @@
    "first_seen": "2026-07-20T16:15:43+08:00",
    "last_updated": "2026-07-21T10:47:00+08:00",
    "tags": [
-    "方已派團隊準",
+    "已派團隊準備",
     "習近平",
     "美國務卿"
    ],
@@ -4134,152 +4308,6 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
-   "id": "531293308d78",
-   "title": "台積電副理涉關鍵技術意圖外流中國　檢方起訴求刑7年",
-   "outlet_count": 7,
-   "outlets": [
-    "cna",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "storm",
-    "tvbs",
-    "udn"
-   ],
-   "article_count": 7,
-   "first_seen": "2026-07-20T17:53:54+08:00",
-   "last_updated": "2026-07-21T05:30:00+08:00",
-   "tags": [
-    "台積電",
-    "前副理",
-    "起訴求刑"
-   ],
-   "articles": [
-    {
-     "title": "竊半導體機密提供中國 台積電前副理起訴 求處7年刑",
-     "link": "https://ec.ltn.com.tw/article/paper/1763407",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-21T05:30:00+08:00",
-     "description": "密謀「藍海計畫」 竊取21件技術文件\n\n〔記者劉詠韻、林薏茹／台北報導〕台積電陳姓前副理涉嫌與香港籍中國人丁小琥共謀在中國成立半導體材料分析公司（簡稱CSMAC），由陳男擬具「藍海計畫」（中國製造半導體基地）等計畫，欲挖角台積電人才赴中國工作及滲透我國半導體產業，陳並竊取台積電國家核心關鍵技術及…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "台積電首例國安機密外洩！前副理偷21件秘密文件 檢求處7年重刑 | 黃振剛 | 新聞",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE52TXp3VzhWd1RuR3d0WHMxczYwOUZta21NZnJNc1RBbHEwMC1qdzUwQzkzbzU2alJPanAtU0pXT3dPREQ2UG9CTEpSeEV3UQ?oc=5",
-     "source": "storm",
-     "source_name": "風傳媒",
-     "published": "2026-07-20T20:10:06+08:00",
-     "description": "台積電首例國安機密外洩！前副理偷21件秘密文件 檢求處7年重刑 | 黃振剛 | 新聞  風傳媒",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "台積電前副理淪共諜！「藍海計畫」竊21件機密　遭起訴求刑7年",
-     "link": "https://www.ettoday.net/news/20260720/3204619.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-20T19:27:00+08:00",
-     "description": "台積電陳姓前副理遭香港人丁小琥吸收，合謀到大陸地區發展設立中國半導體材料分析公司（簡稱CSMAC），企圖透過挖角台積電人才赴陸工作，滲透半導體產業，以竊取「國家核心關鍵技術」。案經高檢署智慧財產分署偵辦後，5月底聲請羈押陳男獲准，全案於20日偵查終結，檢方對陳男提起公訴，並具體求處有期徒刑7年。\n 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "台積電副理涉竊21項機密助中國！「藍海計畫」曝光　檢求刑7年",
-     "link": "https://www.mirrormedia.mg/story/20260720edi056",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-07-20T19:07:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "台積電副理涉關鍵技術意圖外流中國　檢方起訴求刑7年",
-     "link": "https://www.cna.com.tw/news/asoc/202607200248.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-20T18:54:29+08:00",
-     "description": "（中央社記者謝君臨台北20日電）高檢署今天偵結台灣首例國家核心關鍵技術營業秘密意圖外流中國案，追查發現台積電陳姓副理涉有擅自重製取得國安營密之事，依違反國安法等罪嫌起訴，並建請法院量處7年徒刑。",
-     "author": "謝君臨",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "謝君臨",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/social"
-     }
-    },
-    {
-     "title": "台積電首例國安竊密！前副理偷21件技術流向中國　求處7年重刑",
-     "link": "https://news.tvbs.com.tw/local/3262725",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-20T18:38:23+08:00",
-     "description": "",
-     "category": "local",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "local",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "台積電前副理被中共吸收竊半導體機密 發展「藍海計畫」 起訴求刑7年",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5yNWtxYUlKdnlBeV84cllLMFBPSHBLcjA3cFpVZndHYlZINXQ0ZGw0S2psSDBzT3FoZk5ValZTQmVhRGlSVDhDQmZkSmRGM3VD0gFWQVVfeXFMUDExQ0pNQjhKTlNER3lzcmdWWk81ajlKckEwWTVQeUlUV2h3eU9VdC1wUjk3ODJrdnlmZGRoaXRkTm5ZTnVfdE1wc05aNFVlNmZKamJfcUE?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-07-20T17:53:54+08:00",
-     "description": "台積電前副理被中共吸收竊半導體機密 發展「藍海計畫」 起訴求刑7年  UDN",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -4507,7 +4535,7 @@
    "tags": [
     "陳屍辦公室",
     "北市調查",
-    "台北"
+    "嘔吐"
    ],
    "articles": [
     {
@@ -4695,33 +4723,102 @@
    ]
   },
   {
-   "id": "112023090e87",
-   "title": "綠中執委改選　新系9席最大贏家、湧言會僅2席",
-   "outlet_count": 7,
+   "id": "0ee6ea0bb37f",
+   "title": "城鎮韌性演習14縣市演練行動網路降載　顧立雄：考驗國軍指管備援",
+   "outlet_count": 6,
    "outlets": [
+    "chinatimes",
     "cna",
-    "ltn",
+    "ettoday",
     "mirror",
-    "newtalk",
-    "nownews",
-    "tvbs",
-    "udn"
+    "pts",
+    "tvbs"
    ],
-   "article_count": 14,
-   "first_seen": "2026-07-19T17:49:50+08:00",
-   "last_updated": "2026-07-19T20:47:00+08:00",
+   "article_count": 11,
+   "first_seen": "2026-07-20T10:09:56+08:00",
+   "last_updated": "2026-07-21T15:24:10+08:00",
    "tags": [
-    "民進黨",
-    "王定宇",
-    "中常委"
+    "城鎮韌性演習",
+    "顧立雄"
    ],
    "articles": [
     {
-     "title": "民進黨中常委改選　湧言會改由林智鴻代表入常會",
-     "link": "https://www.mirrormedia.mg/story/20260719-165inv-204733",
+     "title": "城鎮韌性演習手機降速30分　學者：藉此演練防災掩蔽與聯繫方式",
+     "link": "https://www.cna.com.tw/news/aipl/202607210199.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-21T15:24:10+08:00",
+     "description": "（中央社記者吳書緯、葉素萍台北21日電）2026年城鎮韌性演習全台14縣市將演練行動網路降速。學者指出，「斷網」用詞不精確，恐遭有心人士惡意散播；建議民眾可藉這30分鐘行動網路降速時間，嘗試思考當發生天災戰災時，如何熟悉當下環境的隱蔽掩蔽措施，以及跟家人建立聯絡的方式。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
+     }
+    },
+    {
+     "title": "韌性演習納手機降速　總統府：非台灣首創",
+     "link": "https://www.cna.com.tw/news/aipl/202607210050.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-21T10:48:52+08:00",
+     "description": "（中央社記者潘姿羽台北21日電）2026年城鎮韌性演習將首度納入「行動網路降速」演練，引發關注。總統府發言人郭雅慧今天表示，這是民主國家提升韌性的普遍做法，非台灣首創。考量中北部人口約占7成3，手機使用密度最高，所以優先演練，未來會擴及全國。",
+     "author": "潘姿羽",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "潘姿羽",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
+     }
+    },
+    {
+     "title": "城鎮韌性演習14縣市手機降速非斷網　影響範圍一篇看懂",
+     "link": "https://www.cna.com.tw/news/aipl/202607210026.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-21T08:55:59+08:00",
+     "description": "（中央社記者葉素萍台北21日電）2026年城鎮韌性演習首度納入「行動網路降速」演練，國安官員今天表示，8月10日中部、13日北部防空演習期間，將在演習區域實施30分鐘行動網路降速，驗證通訊受阻時政府應變及民眾備援能力；語音通話、簡訊、災防告警及110、119等緊急通訊，均不受影響。",
+     "author": "葉素萍",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "葉素萍",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
+     }
+    },
+    {
+     "title": "城鎮韌性演習首驗證跨縣市支援　軍民共用情境操演",
+     "link": "https://www.cna.com.tw/news/aipl/202607210025.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-21T08:55:57+08:00",
+     "description": "（中央社記者葉素萍台北21日電）國安人士今天表示，2026年城鎮韌性演習將首度與漢光演習更完整結合，城鎮演習由去年的1天延長為2天，採軍民共用情境，並首度驗證跨縣市協同作業，演練醫療地下化、疏散撤離、醫療後撤、聯合交通運輸及無人機運補等項目，強化全社會防衛韌性。",
+     "author": "葉素萍",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "葉素萍",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
+     }
+    },
+    {
+     "title": "城鎮韌性演習8月登場　首度演練4、5G行動網路降速",
+     "link": "https://www.mirrormedia.mg/story/20260720-165inv-122124",
      "source": "mirror",
      "source_name": "鏡週刊",
-     "published": "2026-07-19T20:47:00+08:00",
+     "published": "2026-07-21T08:00:00+08:00",
      "description": "",
      "metadata": {
       "schema_version": 1,
@@ -4734,12 +4831,12 @@
      }
     },
     {
-     "title": "中常委改選新潮流拿3席　妃系、湧言等派系各1席",
-     "link": "https://www.cna.com.tw/news/aipl/202607190187.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-19T20:13:20+08:00",
-     "description": "（中央社記者葉素萍、王揚宇、溫貴香台北19日電）民進黨全代會今天改選黨內權力結構，新潮流系拿下3席中常委，是黨內最大派系，英系等其他派系各拿下1席；湧言會獲陳其邁系統奧援保住1席中常委，但現任中常委王定宇交棒給同派系林智鴻，陳亭妃胞妹陳怡珍也搶進1席中常委。",
+     "title": "8月演習納「行動網路受阻」 顧立雄：固網不受影響",
+     "link": "https://news.pts.org.tw/article/818542",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-07-20T20:46:19+08:00",
+     "description": "國家通訊傳播委員會（NCC）規劃「城鎮韌性演習」，8月即將登場，將首度演練「行動網路受阻」，全台14縣市分2階段實施，屆時手機只能使用語音通話和簡訊服務。國防部長顧立雄今（20）日回應，演練以行動網路降速測試，固網部分不受影響，同時也是考驗國軍在模擬情境下的指管通訊備援能力。",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -4747,16 +4844,33 @@
        "source": "unknown"
       },
       "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
      }
     },
     {
-     "title": "新聞幕後／陳其邁勸退王定宇 湧言會驚險保住中常委席次",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBEMUstSHVGTjRnMUxZdmF6bFE4a21SMUtKQnl6eFZCbUlMT0tqN3VPemNMX3o2TWU1ZHA2TjFnMFRZVjU5c2VSaXZyRm95Mk8x0gFWQVVfeXFMUHRkc3pBZ28xVlhnOFdIbEV4QzBPUnpkUV9NcGZaRnBFcE8tT2VSLVJSaC1MWmhIc3hhajZGc2ZwQi0wdXpzSnBWZWlJT1NSaTVIY0lDeUE?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-07-19T20:06:36+08:00",
-     "description": "新聞幕後／陳其邁勸退王定宇 湧言會驚險保住中常委席次  UDN",
+     "title": "8月城鎮韌性演習將模擬「斷網」 顧立雄：考驗國軍通訊備援",
+     "link": "https://news.pts.org.tw/article/818433",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-07-20T15:24:54+08:00",
+     "description": "立法院外交及國防委員會，上午邀請國防部長顧立雄進行國軍軍品採購履約爭議，與違約致獲裝期程延宕採購專報告，由於NCC規劃的城鎮韌性演習即將在8月登場，到時14縣市行動網路將受阻、降載，引發外界議論。對此顧立雄強調，這是考驗國軍在模擬情境、指管通訊備援的能力，日後應該會再擴及到其他地方。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "8月防空演習僅降行動網路 互網不受影響 防長：考驗國軍資管通訊備援",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TVzliMW5iQy02XzJ6b3pKSDdPZ3JnS09iUU9vaGcxemJnTFVvb19ZUWlyZTVISTIzbTlvSFNfWlFteW9wUV9pSy1sWjhEX09EVHAxNHZOdTd2eENubFVKbjE0YjdLYXlCRjhWV3BB?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-07-20T11:38:58+08:00",
+     "description": "8月防空演習僅降行動網路 互網不受影響 防長：考驗國軍資管通訊備援  中時新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -4764,34 +4878,17 @@
        "source": "unknown"
       },
       "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
-     "title": "綠營權力核心重組！泛賴系中常委強勢過半 王定宇交棒林智鴻",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5510702",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-19T20:02:47+08:00",
-     "description": "民進黨內權力核心今（19日）重組，晚間從30席中執委選出10席中常委。新潮流系最終以3席稱霸，正國會、綠色友誼連線、民主活水、湧言會、英系、蘇系、陳亭妃系統則各拿下1席，尤以湧...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "沒有王定宇！民進黨中常委改選結果揭曉　親賴陣營搶7席大勝",
-     "link": "https://news.tvbs.com.tw/politics/3261951",
+     "title": "8月中北部模擬「戰爭斷網」　 顧立雄：再擴及其他地方",
+     "link": "https://news.tvbs.com.tw/life/3262197",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-19T19:31:47+08:00",
+     "published": "2026-07-20T11:13:22+08:00",
      "description": "",
-     "category": "politics",
+     "category": "life",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -4799,17 +4896,17 @@
        "source": "unknown"
       },
       "acquisition": "scraper",
-      "category": "politics",
+      "category": "life",
       "feed_url": "https://news.tvbs.com.tw/realtime"
      }
     },
     {
-     "title": "民進黨改選中評會　立委邱志偉擔任主委",
-     "link": "https://www.cna.com.tw/news/aipl/202607190178.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-19T19:31:00+08:00",
-     "description": "（中央社記者王揚宇、葉素萍台北19日電）民進黨全代會今天進行中央評議委員會改選，13人登記參選搶11席中評委，最後推舉民進黨立委邱志偉擔任中評會主委。",
+     "title": "城鎮韌性演習14縣市手機斷網半小時　顧立雄：日後會再擴及其他地方",
+     "link": "https://www.ettoday.net/news/20260720/3204212.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-20T10:11:00+08:00",
+     "description": "「2026城鎮韌性（防空）演習」結合今年度漢光演習，首次演練行動網路受阻，僅能使用語音通話與簡訊的情境，分為台中、嘉義等7縣市；8月10日台北、新竹、宜蘭等7縣市。對此，國防部長顧立雄今（20日）表示，此考驗國軍在模擬情境，指管通訊備援能力，但固網沒有受到影響；這是初次驗證，日後應該會再擴及到其他地方。 《詳全文...》",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -4817,75 +4914,7 @@
        "source": "unknown"
       },
       "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
-     }
-    },
-    {
-     "title": "民進黨中評委結果出爐！新潮流邱志偉接棒賴瑞隆",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83VXZlSU1MbjlWbzdadWRlWkNwWlpsbHQyU1lWZXpFbWxFa3Z4a1FMdnVRbU5rbFNDMXlzMHZMYTFzUHY5b2x6RjFVUUh0Y3R2WVHSAVJBVV95cUxPN1V2ZUlNTG45Vm83WnVkZVpDcFpabGx0MlNZVmV6RW1sRWt2eGtRTHZ1UW1Oa2xTQzF5czB2TGExc1B2OW9sekYxVVFIdGN0dllR?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-07-19T19:28:36+08:00",
-     "description": "民進黨中評委結果出爐！新潮流邱志偉接棒賴瑞隆  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "民進黨權力核心改選結果曝！信賴大贏家、王定宇沒連任",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE90YVpzcDk4SFBFcGJjWlAxeG40NlRrZU1ZVlIyenNyVDFIeDlLYldCTXRBbGl5dVJEamFQdW9QZ0JzQTY2VXNpSGFPcDTSAVJBVV95cUxPeDhIelNXSi1SQVlrTlpldHo3R2JfTkFXcEdNekN2U0dvVGJzbVVXN1pKWThMN050aTFQOVRxQlJsS3lTNWdleUxUUkNrVVNDZWtn?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-07-19T19:24:56+08:00",
-     "description": "快訊／民進黨權力核心改選結果曝！信賴大贏家、王定宇沒連任  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "民進黨權力核心出爐！泛賴系奪7席、非賴系3席王定宇讓出中常委| 政治",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPVzh0UjJjVmNIbzhxOGNVcW91ckluRkRkbW5jRnBrQ2ZYVnRvdk82bHhVSnlNbHJpclYzbGRhVnN6LVBYOW1YZEYzS3dueV96QjlGcGxZUnRmWHc?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-19T19:19:24+08:00",
-     "description": "民進黨權力核心出爐！泛賴系奪7席、非賴系3席王定宇讓出中常委| 政治  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "綠中執委改選　新系9席最大贏家、湧言會僅2席",
-     "link": "https://www.cna.com.tw/news/aipl/202607190172.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-19T18:30:47+08:00",
-     "description": "（中央社記者葉素萍、王揚宇、溫貴香台北19日電）民進黨今天召開全代會改選權力核心，35人搶30席中執委，新潮流系拿下9席是最大贏家；湧言會規劃3席中執委，最後僅拿下2席，包括立委王定宇、高雄市議員林智鴻，若中常委選舉時，湧言會無法獲得其他派系奧援，恐將無法保住現有1席中常委。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
      }
     }
    ]
@@ -5282,8 +5311,8 @@
    "last_updated": "2026-07-20T09:14:50+08:00",
    "tags": [
     "秘魯",
-    "規模",
-    "地震"
+    "地震",
+    "規模"
    ],
    "claims": [
     {
@@ -5781,6 +5810,207 @@
    ]
   },
   {
+   "id": "aaec782f6f93",
+   "title": "14:00將揭曉！ 2026《台灣米其林指南》星級美食餐廳名單 「這4城」能否摘星成焦點",
+   "outlet_count": 5,
+   "outlets": [
+    "ltn",
+    "mirror",
+    "nownews",
+    "tvbs",
+    "udn"
+   ],
+   "article_count": 12,
+   "first_seen": "2026-07-21T10:00:09+08:00",
+   "last_updated": "2026-07-21T16:59:59+08:00",
+   "tags": [
+    "米其林指南",
+    "餐廳"
+   ],
+   "articles": [
+    {
+     "title": "台灣米其林公布 台中一星餐廳有起有落",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5512632",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-21T16:59:59+08:00",
+     "description": "台灣米其林星級餐廳今天公布，台中市「JL Studio」 仍蟬連三星，一星餐廳包括「元紀」、「俺達的肉屋」、「澀 Sur-」、「L'Atelier par Yao」，「山与」為...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "2026米其林三星3餐廳衛冕成功 頤宮9連霸",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5512601",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-21T16:41:51+08:00",
+     "description": "《台灣米其林指南2026》今（21日）公布摘星名單，去年獲米其林三星的3間餐廳，今年成功全數衛冕，分別是頤宮、態芮TaÏrroir、JL studio，其中頤宮已是9連霸。\n...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "2026米其林指南／NOBUO升二星！主廚淚謝過世故友　親揭感動故事",
+     "link": "https://news.tvbs.com.tw/life/3263640",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-21T16:34:07+08:00",
+     "description": "",
+     "category": "life",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "life",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "2026台灣米其林名單揭曉！全台共61家餐廳成功摘星　新竹憑「鮨安」擺脫美食沙漠之名，台南靠漁光島「予島」拿下一星",
+     "link": "https://www.mirrormedia.mg/story/20260721food001",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-07-21T16:33:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "2026米其林指南／曾蟬聯一星5年無緣上榜！巴黎廳、鹽之華掉星",
+     "link": "https://news.tvbs.com.tw/life/3263557",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-21T16:23:07+08:00",
+     "description": "",
+     "category": "life",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "life",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "不斷更新／2026台灣米其林指南完整名單｜台南、新竹破蛋！星級餐廳一次看",
+     "link": "https://news.tvbs.com.tw/life/3263129",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-21T16:13:07+08:00",
+     "description": "",
+     "category": "life",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "life",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "2026米其林指南／頤宮9連霸！3餐廳蟬聯三星　特色料理一次看",
+     "link": "https://news.tvbs.com.tw/life/3263171",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-21T16:13:07+08:00",
+     "description": "",
+     "category": "life",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "life",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "2026米其林指南／台南、新竹破蛋摘星！予島大贏猛得獎　鮨安獲年輕主廚",
+     "link": "https://news.tvbs.com.tw/life/3263522",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-21T16:13:07+08:00",
+     "description": "",
+     "category": "life",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "life",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "2026米其林指南 關鍵字",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSDVDT00ta1M0a0lUZ0VNbjI5Skd4SnMzT1pGalNYaEFvOTRFYVFZZ3ZQMGE5UmpHUm1MalY3d1RjVUVodW82Y25YdUdIZkJRSkMyRjJzNGp3UjhyZHB0ay1XX3RYX2ZSekp0RDhybDNPRFN2eGdfbThoTko3Yy1jLV9QajRSQQ?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-07-21T16:02:10+08:00",
+     "description": "2026米其林指南 關鍵字  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "2026《台灣米其林指南》星級美食餐廳 得獎名單即時公布",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVGYtNGtFWVRQQlZoY2FfQ2tUcnNOMEJPc1pPaDRYSE5jd1p3Qm1sQWpTVlZEU3JaYjBEbzFBTmZKVzduaVJGZFF4TXpwWmU4U3BxekMzbDdPdlo4RUZZS2JkWjJFUUJrNHpycUFWblZFd2Jfa3hvTWg2WUlPdmdZS21tWUg0a2F1?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-07-21T13:49:09+08:00",
+     "description": "直播／2026《台灣米其林指南》星級美食餐廳 得獎名單即時公布  UDN",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
    "id": "ed1068ba0a63",
    "title": "尼加拉瓜總統稱選舉時代已結束 反對派批獨裁統治",
    "outlet_count": 5,
@@ -5948,7 +6178,7 @@
      "link": "https://news.tvbs.com.tw/politics/3263215",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-21T12:13:30+08:00",
+     "published": "2026-07-21T12:13:07+08:00",
      "description": "",
      "category": "politics",
      "metadata": {
@@ -6062,7 +6292,7 @@
    ],
    "article_count": 15,
    "first_seen": "2026-07-19T22:22:00+08:00",
-   "last_updated": "2026-07-21T12:13:30+08:00",
+   "last_updated": "2026-07-21T12:13:07+08:00",
    "tags": [
     "台灣大道",
     "受困"
@@ -6073,7 +6303,7 @@
      "link": "https://news.tvbs.com.tw/local/3263218",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-21T12:13:30+08:00",
+     "published": "2026-07-21T12:13:07+08:00",
      "description": "",
      "category": "local",
      "metadata": {
@@ -6704,9 +6934,9 @@
    "first_seen": "2026-07-21T01:37:00+08:00",
    "last_updated": "2026-07-21T08:54:58.868592+08:00",
    "tags": [
-    "軍人付出數倍",
     "川普警告伊朗",
-    "為殺害美國軍"
+    "要為殺害美國",
+    "付出數倍代價"
    ],
    "articles": [
     {
@@ -6966,7 +7196,7 @@
     },
     {
      "title": "我國取消柬埔寨簽證便利措施 陸外交部批民進黨「脅迫他國」",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nNDZJRm9zNk1fSEhORXNqUHM2U0duNXBtTFpVcmdoRUloNmNvQmVUMWtTYVRndVAzMkhDQUNsSVNWc25ZSUtfR211OTdXTlhf?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nNDZJRm9zNk1fSEhORXNqUHM2U0duNXBtTFpVcmdoRUloNmNvQmVUMWtTYVRndVAzMkhDQUNsSVNWc25ZSUtfR211OTdXTlhf0gFWQVVfeXFMT0ZDcWlOWlJVbVhKeGoxdkdyc2Mtb0x5aXNkcGg4SE9hQlpGMmZGNTFUNlppU1BtVmR0UFhCMmp4dnJldDVJa1RjMWNRRTVMS0JoMWpWTkE?oc=5",
      "source": "udn",
      "source_name": "聯合新聞網",
      "published": "2026-07-20T16:44:06+08:00",
@@ -6983,7 +7213,7 @@
     },
     {
      "title": "我國取消柬埔寨簽證便利措施 陸外交部批民進黨「脅迫他國」",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nNDZJRm9zNk1fSEhORXNqUHM2U0duNXBtTFpVcmdoRUloNmNvQmVUMWtTYVRndVAzMkhDQUNsSVNWc25ZSUtfR211OTdXTlhf0gFWQVVfeXFMT0ZDcWlOWlJVbVhKeGoxdkdyc2Mtb0x5aXNkcGg4SE9hQlpGMmZGNTFUNlppU1BtVmR0UFhCMmp4dnJldDVJa1RjMWNRRTVMS0JoMWpWTkE?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nNDZJRm9zNk1fSEhORXNqUHM2U0duNXBtTFpVcmdoRUloNmNvQmVUMWtTYVRndVAzMkhDQUNsSVNWc25ZSUtfR211OTdXTlhf?oc=5",
      "source": "udn",
      "source_name": "聯合新聞網",
      "published": "2026-07-20T16:44:06+08:00",
@@ -7198,7 +7428,7 @@
    "last_updated": "2026-07-20T13:31:47.475627+08:00",
    "tags": [
     "公寓清晨",
-    "命危送醫搶救",
+    "男命危送醫搶",
     "板橋"
    ],
    "articles": [
@@ -7311,7 +7541,7 @@
    "tags": [
     "史上第一人",
     "姆巴佩",
-    "金靴"
+    "梅西"
    ],
    "articles": [
     {
@@ -7706,7 +7936,7 @@
    "last_updated": "2026-07-19T11:29:07.851339+08:00",
    "tags": [
     "伊朗最高領袖",
-    "國違反停火協",
+    "美國違反停火",
     "川普簽名一"
    ],
    "articles": [
@@ -7802,6 +8032,355 @@
    ]
   },
   {
+   "id": "77eb98b7f5c1",
+   "title": "颱風最快本周生成！預測路徑「往西靠近台灣」　周末天氣危險了",
+   "outlet_count": 4,
+   "outlets": [
+    "ebc",
+    "mirror",
+    "nownews",
+    "tvbs"
+   ],
+   "article_count": 7,
+   "first_seen": "2026-07-20T10:37:55+08:00",
+   "last_updated": "2026-07-21T17:13:07.254465+08:00",
+   "tags": [
+    "最新路徑曝",
+    "近台灣",
+    "生成"
+   ],
+   "articles": [
+    {
+     "title": "準颱風「紅霞」最新路徑曝！這時最近台灣 雨炸這2地",
+     "link": "https://news.ebc.net.tw/news/living/562339",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-21T17:13:07.254465+08:00",
+     "description": "菲律賓東方海面有熱帶擾動正在發展，預估本週有機會生成今年第12號颱風「紅霞」，氣象粉專指出，週末與台灣的距離相對拉近，水氣恐影響東南部以及恆春半島。",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "週末颱風要來了？熱帶擾動醞釀中 恐北修接近台灣",
+     "link": "https://news.ebc.net.tw/news/living/562286",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-21T11:28:56.500672+08:00",
+     "description": "氣象粉專「天氣風險」分析師林孝儒提醒，目前菲東遠海面有熱帶擾動發展中，且不排除進一步增強為颱風！部分預報資料顯示，系統可能於本週後期逐漸往呂宋島附近移動，並有進",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "準颱風「紅霞」週末生成？最新路徑曝光　2地區雨勢最猛",
+     "link": "https://www.mirrormedia.mg/story/20260721edi021",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-07-21T10:52:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "天氣／週末恐有颱風生成！預測路徑曝　不排除北修「靠近台灣」",
+     "link": "https://news.tvbs.com.tw/life/3263098",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-21T10:13:07+08:00",
+     "description": "",
+     "category": "life",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "life",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "天氣／午後雨擴大！週末恐有熱帶擾動「最新路徑曝」　這天接近台灣",
+     "link": "https://news.tvbs.com.tw/life/3263046",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-21T08:13:07+08:00",
+     "description": "",
+     "category": "life",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "life",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "大台北明防午後大雨！週五恐有熱帶低壓生成　最新路徑曝光",
+     "link": "https://www.mirrormedia.mg/story/20260720edi076",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-07-20T21:55:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "颱風最快本周生成！預測路徑「往西靠近台灣」　周末天氣危險了",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAteUhhVHRXSnRQdHB6cjNJWXJVWkZPeHh4ejh1OWhvV0hCSU0wdC14WGlRNEpVZ09KX1lvc05XQU13UDB2YmhHLUtsRVjSAVJBVV95cUxOelV5UWkxT1dYclBBYnJGZ3NKd0JHUDhlaXN5OHA4aFd1Vi1XYXdIZUdrTUhFNFBOY1FIbU5pdlFzS1k2VG9TN0xkcE4tOWZvMmJB?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-07-20T10:37:55+08:00",
+     "description": "颱風最快本周生成！預測路徑「往西靠近台灣」　周末天氣危險了  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
+   "id": "6e6265ed6332",
+   "title": "《盤後解析》台積與千金股霸榜台股飆1783點創史上最大漲點- 上市櫃",
+   "outlet_count": 4,
+   "outlets": [
+    "chinatimes",
+    "ebc",
+    "newtalk",
+    "tvbs"
+   ],
+   "article_count": 4,
+   "first_seen": "2026-07-21T14:22:30+08:00",
+   "last_updated": "2026-07-21T17:13:07.254465+08:00",
+   "tags": [
+    "點創史上最大",
+    "台股",
+    "台積"
+   ],
+   "articles": [
+    {
+     "title": "台股暴漲1783點創史上最大！ 網見三大法人買賣驚：死定了",
+     "link": "https://news.ebc.net.tw/news/business/562336",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-21T17:13:07.254465+08:00",
+     "description": "台股今（21）日在台積電尾盤拉抬與聯發科強攻漲停帶動下，暴漲1783點，收44232點創單日最大漲點，一舉站回季線，成交量縮至8356億元；三大法人則合計買超1",
+     "category": "business",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "business",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "台股飆1783點！陳重銘加碼50張「1檔ETF」：台積電大跌是送分",
+     "link": "https://news.tvbs.com.tw/money/3263651",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-21T16:57:07+08:00",
+     "description": "",
+     "category": "money",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "money",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "反攻1,783點！台股收盤漲點寫史上最大 外資卻連13賣、投信連加碼20天",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zWmFnOEF1SGI0UU8tSXcyTVR4OG9jTTJCRC1vS0JXdllfd19LZF9mVlpJWDdiYzRfaVZBOHUtX1ZQNk9JWTJtWTNSOUt0elZPOGVzRU1IajU1YkU?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-21T16:01:20+08:00",
+     "description": "反攻1,783點！台股收盤漲點寫史上最大 外資卻連13賣、投信連加碼20天  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "《盤後解析》台積與千金股霸榜台股飆1783點創史上最大漲點- 上市櫃",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80ZUlqMFhldWNxVjE1U0VoemV2RTRIc1ZyOGN5TDVHaE80ekFHLTZLWl9WcXc3eXhlc05idzZITjh2NVZ3alVCQXB5T0VMV0steHhxRDltcHAtUzBGTnBrcHVMRHJ4eU8xM1E?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-07-21T14:22:30+08:00",
+     "description": "《盤後解析》台積與千金股霸榜台股飆1783點創史上最大漲點- 上市櫃  旺得富理財網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
+   "id": "5b020bfe0967",
+   "title": "新制將上路 太陽能模組廠受惠",
+   "outlet_count": 4,
+   "outlets": [
+    "chinatimes",
+    "ettoday",
+    "mirror",
+    "tvbs"
+   ],
+   "article_count": 5,
+   "first_seen": "2026-07-21T04:10:00+08:00",
+   "last_updated": "2026-07-21T16:33:00+08:00",
+   "tags": [
+    "太陽能模組廠",
+    "聯合再生",
+    "中美晶攜"
+   ],
+   "articles": [
+    {
+     "title": "中美晶攜聯合再生赴美設1GW太陽能模組廠　徐秀蘭：AI資料中心掀「自己帶電來」商機",
+     "link": "https://www.mirrormedia.mg/story/20260721-180fin-162319",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-07-21T16:33:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "搶AI市場！中美矽晶、聯合再生砸近13億　赴美設太陽能模組廠",
+     "link": "https://news.tvbs.com.tw/tech/3263547",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-21T16:13:07+08:00",
+     "description": "",
+     "category": "tech",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "tech",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "《半導體》中美晶攜手聯合再生赴美合設太陽能模組廠- 上市櫃",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPc201WnZXWmpaQkxQVVhSdVZUdmRmMG42MmJ1MHJvR0R2UjF0NFFzanJEN2dvZ0t6Sk9vQUFyS2FXVm5fbi1oYWFxeXJ0RVFyeFFhdDB6V1dIY3ZoS2ZlX05IZ0VEcEJIZFBUUmRrU2pHRjBmOTk1bG9hdmwyMGdOQTZrSzZRcmVrY09LZ3h5ZWh1VVU3QzRTYW9yamVfdmJnVjNMV1FZRXJmNS1zV0d0RU9QQW5lSkdaS1hnYXlVeVN0eHBwUVlkdS1wb2FpQUdDdFE?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-07-21T15:07:49+08:00",
+     "description": "《半導體》中美晶攜手聯合再生赴美合設太陽能模組廠- 上市櫃  旺得富理財網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "中美晶攜聯合再生能源赴美合資設太陽能模組廠　布局1GW產能",
+     "link": "https://finance.ettoday.net/news/3205051",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-21T14:40:00+08:00",
+     "description": "中美晶（5483）與聯合再生能源（3576）今日宣布，將共同投資成立美國太陽能模組製造公司，規劃建置年產能1GW的太陽能模組廠，總投資金額約4,000萬美元，由中美矽晶持股51%、聯合再生能源持股49%，並由太陽能產業資深專業經理人葉正賢領軍。\n\n 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "新制將上路 太陽能模組廠受惠",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hYjdQUmk1RmgzMmcwZnduRkU2bGx6TGFRVzVPQWJ4aHI0VXduMjVjRmpEVXZPQ1lYcjdRVldWVTd0RUpNZmhDVjhHSTFMekxKdDQzUWxDV19VaWpPT3hQQWx5RUR6N21hWnd3?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-07-21T04:10:00+08:00",
+     "description": "新制將上路 太陽能模組廠受惠  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
    "id": "300561f59403",
    "title": "中東局勢緊繃　美國務院發布警示籲公民提高警覺",
    "outlet_count": 4,
@@ -7844,7 +8423,7 @@
      "link": "https://news.tvbs.com.tw/world/3263224",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-21T14:13:30+08:00",
+     "published": "2026-07-21T14:13:07+08:00",
      "description": "",
      "category": "world",
      "metadata": {
@@ -7895,6 +8474,95 @@
    ]
   },
   {
+   "id": "1e81103b3934",
+   "title": "日本不只iPhone漲價！蘋果音樂、iCloud也漲　最高這項貴400",
+   "outlet_count": 4,
+   "outlets": [
+    "ebc",
+    "ettoday",
+    "mirror",
+    "tvbs"
+   ],
+   "article_count": 4,
+   "first_seen": "2026-07-19T10:28:52+08:00",
+   "last_updated": "2026-07-21T15:11:00+08:00",
+   "tags": [],
+   "articles": [
+    {
+     "title": "iPhone隱藏功能超神！果粉改用「滑動輸入」驚呆：打字快一倍",
+     "link": "https://www.ettoday.net/news/20260721/3205067.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-21T15:11:00+08:00",
+     "description": "很多人都是用iPhone，最近有果粉分享iPhone內建的「滑動輸入」鍵盤後，打字速度幾乎快了一倍，忍不住發文詢問「有人也是用這個鍵盤嗎？」沒想到不少人都是第一次知道有這項功能，還有人看完立刻跑去設定開啟，直呼真的學到新技巧。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "網購結帳免記載具編號！網授iPhone密技　簡單設定從此秒填",
+     "link": "https://www.mirrormedia.mg/story/20260721web001",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-07-21T14:17:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "iPhone日本突調漲11.3％ 下一步是台灣？",
+     "link": "https://news.ebc.net.tw/news/business/562204",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-20T23:01:57.025923+08:00",
+     "description": "蘋果調漲日本多款iPhone售價約10%，標準版約貴新台幣2600元，帶動二手市場買氣升溫。市場認為漲價與日圓貶值及成本上升有關，後續售價備受關注。",
+     "category": "business",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "business",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "日本不只iPhone漲價！蘋果音樂、iCloud也漲　最高這項貴400",
+     "link": "https://news.tvbs.com.tw/world/3261502",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-19T10:28:52+08:00",
+     "description": "",
+     "category": "world",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "world",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    }
+   ]
+  },
+  {
    "id": "5dc0a3237fee",
    "title": "謝賢4億遺產分好了？港媒報90%林青霞保管　謝霆鋒謝婷婷只能拿5%",
    "outlet_count": 4,
@@ -7935,7 +8603,7 @@
      "link": "https://news.tvbs.com.tw/entertainment/3263248",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-21T12:13:30+08:00",
+     "published": "2026-07-21T12:13:07+08:00",
      "description": "",
      "category": "entertainment",
      "metadata": {
@@ -8026,7 +8694,7 @@
      "link": "https://news.tvbs.com.tw/entertainment/3263253",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-21T12:13:30+08:00",
+     "published": "2026-07-21T12:13:07+08:00",
      "description": "",
      "category": "entertainment",
      "metadata": {
@@ -8072,97 +8740,6 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
-   "id": "ad0c65150984",
-   "title": "日本iPhone調漲1成！　疑「日圓貶值、記憶體變貴」雙重夾擊",
-   "outlet_count": 4,
-   "outlets": [
-    "ebc",
-    "ettoday",
-    "mirror",
-    "tvbs"
-   ],
-   "article_count": 4,
-   "first_seen": "2026-07-18T16:49:00+08:00",
-   "last_updated": "2026-07-21T14:17:00+08:00",
-   "tags": [
-    "調漲"
-   ],
-   "articles": [
-    {
-     "title": "網購結帳免記載具編號！網授iPhone密技　簡單設定從此秒填",
-     "link": "https://www.mirrormedia.mg/story/20260721web001",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-07-21T14:17:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "iPhone日本突調漲11.3％ 下一步是台灣？",
-     "link": "https://news.ebc.net.tw/news/business/562204",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-20T23:01:57.025923+08:00",
-     "description": "蘋果調漲日本多款iPhone售價約10%，標準版約貴新台幣2600元，帶動二手市場買氣升溫。市場認為漲價與日圓貶值及成本上升有關，後續售價備受關注。",
-     "category": "business",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "business",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "日本不只iPhone漲價！蘋果音樂、iCloud也漲　最高這項貴400",
-     "link": "https://news.tvbs.com.tw/world/3261502",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-19T10:28:52+08:00",
-     "description": "",
-     "category": "world",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "world",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "日本iPhone調漲1成！　疑「日圓貶值、記憶體變貴」雙重夾擊",
-     "link": "https://www.ettoday.net/news/20260718/3203557.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-18T16:49:00+08:00",
-     "description": "美國蘋果公司（Apple Inc.）17日正式調漲日本市場的iPhone售價，平均漲幅達1成。其中iPhone 17標準版漲到14萬2800日圓（約新台幣2萬8487元），頂規的iPhone 17 Pro Max也漲至21萬4800日圓（約新台幣4萬2850元）；就連平價機型iPhone 17e也首度突破10萬日圓（約新台幣1萬9948元）大關。\n\n 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
      }
     }
    ]
@@ -8366,135 +8943,6 @@
    ]
   },
   {
-   "id": "77eb98b7f5c1",
-   "title": "颱風最快本周生成！預測路徑「往西靠近台灣」　周末天氣危險了",
-   "outlet_count": 4,
-   "outlets": [
-    "ebc",
-    "mirror",
-    "nownews",
-    "tvbs"
-   ],
-   "article_count": 6,
-   "first_seen": "2026-07-20T10:37:55+08:00",
-   "last_updated": "2026-07-21T11:28:56.500672+08:00",
-   "tags": [
-    "最新路徑曝",
-    "近台灣",
-    "生成"
-   ],
-   "articles": [
-    {
-     "title": "週末颱風要來了？熱帶擾動醞釀中 恐北修接近台灣",
-     "link": "https://news.ebc.net.tw/news/living/562286",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-21T11:28:56.500672+08:00",
-     "description": "氣象粉專「天氣風險」分析師林孝儒提醒，目前菲東遠海面有熱帶擾動發展中，且不排除進一步增強為颱風！部分預報資料顯示，系統可能於本週後期逐漸往呂宋島附近移動，並有進",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "準颱風「紅霞」週末生成？最新路徑曝光　2地區雨勢最猛",
-     "link": "https://www.mirrormedia.mg/story/20260721edi021",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-07-21T10:52:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "天氣／週末恐有颱風生成！預測路徑曝　不排除北修「靠近台灣」",
-     "link": "https://news.tvbs.com.tw/life/3263098",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-21T10:13:30+08:00",
-     "description": "",
-     "category": "life",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "天氣／午後雨擴大！週末恐有熱帶擾動「最新路徑曝」　這天接近台灣",
-     "link": "https://news.tvbs.com.tw/life/3263046",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-21T08:13:30+08:00",
-     "description": "",
-     "category": "life",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "大台北明防午後大雨！週五恐有熱帶低壓生成　最新路徑曝光",
-     "link": "https://www.mirrormedia.mg/story/20260720edi076",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-07-20T21:55:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "颱風最快本周生成！預測路徑「往西靠近台灣」　周末天氣危險了",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAteUhhVHRXSnRQdHB6cjNJWXJVWkZPeHh4ejh1OWhvV0hCSU0wdC14WGlRNEpVZ09KX1lvc05XQU13UDB2YmhHLUtsRVjSAVJBVV95cUxOelV5UWkxT1dYclBBYnJGZ3NKd0JHUDhlaXN5OHA4aFd1Vi1XYXdIZUdrTUhFNFBOY1FIbU5pdlFzS1k2VG9TN0xkcE4tOWZvMmJB?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-07-20T10:37:55+08:00",
-     "description": "颱風最快本周生成！預測路徑「往西靠近台灣」　周末天氣危險了  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
    "id": "842a2c4d1fb3",
    "title": "林濁水：盧秀燕、蔣萬安突拋沉穩人設　這個黨問題不是普通大",
    "outlet_count": 4,
@@ -8508,8 +8956,8 @@
    "first_seen": "2026-07-21T09:54:00+08:00",
    "last_updated": "2026-07-21T11:17:11+08:00",
    "tags": [
-    "這個黨問題不",
-    "蔣萬安",
+    "黨問題不是普",
+    "林濁水",
     "盧秀燕"
    ],
    "articles": [
@@ -8757,7 +9205,7 @@
      "link": "https://news.tvbs.com.tw/world/3263026",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-21T05:13:30+08:00",
+     "published": "2026-07-21T05:13:07+08:00",
      "description": "",
      "category": "world",
      "metadata": {
@@ -9015,7 +9463,7 @@
      "link": "https://news.tvbs.com.tw/politics/3262982",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-20T23:13:30+08:00",
+     "published": "2026-07-20T23:13:07+08:00",
      "description": "",
      "category": "politics",
      "metadata": {
@@ -9061,396 +9509,6 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
-   "id": "3a88c501dcf2",
-   "title": "7/18今彩539開獎了！今天中獎號碼查詢　3星彩、4星彩獎號一次看",
-   "outlet_count": 4,
-   "outlets": [
-    "ebc",
-    "ltn",
-    "nownews",
-    "tvbs"
-   ],
-   "article_count": 8,
-   "first_seen": "2026-07-18T19:30:00+08:00",
-   "last_updated": "2026-07-20T22:26:57+08:00",
-   "tags": [
-    "威力彩",
-    "今彩",
-    "頭獎"
-   ],
-   "claims": [
-    {
-     "type": "金額",
-     "agree": false,
-     "outlet_count": 4,
-     "values": [
-      {
-       "value": "800萬元",
-       "outlets": [
-        "東森新聞",
-        "自由時報"
-       ]
-      },
-      {
-       "value": "2億元",
-       "outlets": [
-        "TVBS",
-        "今日新聞"
-       ]
-      }
-     ]
-    }
-   ],
-   "articles": [
-    {
-     "title": "發財再等等！2億威力彩頭獎、貳獎雙槓龜",
-     "link": "https://news.tvbs.com.tw/life/3262941",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-20T22:26:57+08:00",
-     "description": "",
-     "category": "life",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "7/20 威力彩、今彩539頭獎摃龜",
-     "link": "https://news.ltn.com.tw/news/society/breakingnews/5511781",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-20T22:15:59+08:00",
-     "description": "7月20日開獎的第115000175期今彩539，以及第115000058期威力彩，頭獎皆摃龜。\n\n第115000058期威力彩中獎號碼為「第一區：06、12、13、23、2...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "7/20 威力彩、今彩539獎號出爐！",
-     "link": "https://news.ltn.com.tw/news/society/breakingnews/5511647",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-20T20:53:16+08:00",
-     "description": "今天（7月20日）台彩各項開獎獎項及獎號。\n\n威力彩：06、12、13、23、29、31，第二區：02。\n\n今彩539：10、12、13、20、24。\n\n39樂合彩：...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "2億威力彩開獎！7/20中獎號碼一次看",
-     "link": "https://news.tvbs.com.tw/life/3262734",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-20T20:52:34+08:00",
-     "description": "",
-     "category": "life",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "威力彩7/20頭獎2億開獎！今彩539最新獎號、3星彩、4星彩一次看",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBNSjRpVk9oTHN6d3JSdjNwSmtrbHRQemUyby1hVFFTV05nSExmamJEbEVpTWthaUY3TlVZVHNVSzVCdXZLaWNwbWZxYnpoVnEwVFHSAVJBVV95cUxQTUo0aVZPaExzendyUnYzcEpra2x0UHplMm8tYVRRU1dOZ0hMZmpiRGxFaU1rYWlGN05VWVRzVUs1QnV2S2ljcG1mcWJ6aFZxMFRR?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-07-20T19:30:00+08:00",
-     "description": "威力彩7/20頭獎2億開獎！今彩539最新獎號、3星彩、4星彩一次看  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "今彩539頭獎一注獨得！幸運兒爽抱回800萬",
-     "link": "https://news.ebc.net.tw/news/living/561926",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-19T00:36:59.855590+08:00",
-     "description": "今彩539第115174期開獎，中獎號碼33、29、18、34、37；派彩結果，頭獎1注中獎，獎金新台幣800萬元。",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "7/18 今彩539頭獎開1注！800萬獎落台南",
-     "link": "https://news.ltn.com.tw/news/society/breakingnews/5509960",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-18T22:05:11+08:00",
-     "description": "7月18日開獎的第115000174期今彩539開出1注，由台南市新市區新和里仁愛街191號1樓的「巧合彩券行」開出。\n\n第115000174期今彩539中獎號碼為「18、2...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "7/18今彩539開獎了！今天中獎號碼查詢　3星彩、4星彩獎號一次看",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZSUI3Mjk0b2NCS0VzaUpid2lfTFk0aGthazNCYlJJRXJ2MXJEd0NSdkc3RXhTbE9sOUU1elFtWjNyZUdJZnFZVm1EbUJZajFXb0HSAVJBVV95cUxNWUlCNzI5NG9jQktFc2lKYndpX0xZNGhrYWszQmJSSUVydjFyRHdDUnZHN0V4U2xPbDlFNXpRbVozcmVHSWZxWVZtRG1CWWoxV29B?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-07-18T19:30:00+08:00",
-     "description": "7/18今彩539開獎了！今天中獎號碼查詢　3星彩、4星彩獎號一次看  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
-   "id": "7a72d3bcdea1",
-   "title": "新北警查獲詐團新手法　利用超商「交貨便」詐財",
-   "outlet_count": 4,
-   "outlets": [
-    "cna",
-    "newtalk",
-    "pts",
-    "tvbs"
-   ],
-   "article_count": 4,
-   "first_seen": "2026-07-20T17:13:30+08:00",
-   "last_updated": "2026-07-20T20:42:03+08:00",
-   "tags": [
-    "新北警查獲詐",
-    "交貨便",
-    "詐團新"
-   ],
-   "claims": [
-    {
-     "type": "金額",
-     "agree": false,
-     "outlet_count": 2,
-     "values": [
-      {
-       "value": "850萬元",
-       "outlets": [
-        "TVBS"
-       ]
-      },
-      {
-       "value": "2600萬元",
-       "outlets": [
-        "中央社"
-       ]
-      }
-     ]
-    }
-   ],
-   "articles": [
-    {
-     "title": "警查獲首起交貨便詐騙黃金 嫌犯以投資話術誘騙被害人寄出",
-     "link": "https://news.pts.org.tw/article/818538",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-07-20T20:42:03+08:00",
-     "description": "新北警方查獲首起詐騙集團，透過超商「交貨便」的方式，誘騙民眾寄出黃金。嫌犯以投資話術，宣稱用黃金變現來買股票，免扣手續費，誘騙被害人上鉤，初步清查至少有13人受害，警方更不排除還有更多人被騙，總財損恐怕破億元。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "新北警查獲詐團新手法利用超商「交貨便」詐財| 社會",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBS1ZTLXl1ZWlJWWJLWmNwOVZ4OHhhdVo2bERNVVZuaGFVOFpfaXhGa2FlTTlqRURjLTduV1VFVjhWUURJZHNMcXZhdXF5dG1Yc3ctNnVuY25USEk?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-20T19:00:01+08:00",
-     "description": "新北警查獲詐團新手法利用超商「交貨便」詐財| 社會  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "新北警查獲詐團新手法　利用超商「交貨便」詐財",
-     "link": "https://www.cna.com.tw/news/asoc/202607200208.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-20T17:35:01+08:00",
-     "description": "（中央社記者王鴻國新北20日電）新北刑大今天提醒民眾注意，詐團近來利用超商「交貨便」服務進行詐騙，經成立專案加強查緝，1個月內查獲逾50件、金額逾2600萬元遭詐騙包裹，成功攔阻被害人遭詐財物。",
-     "author": "王鴻國",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "王鴻國",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/social"
-     }
-    },
-    {
-     "title": "850萬黃金寄交貨便！「詐團新招」一個月內查獲50件",
-     "link": "https://news.tvbs.com.tw/local/3262632",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-20T17:13:30+08:00",
-     "description": "",
-     "category": "local",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "local",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    }
-   ]
-  },
-  {
-   "id": "c330fdfb1fe6",
-   "title": "手機送修要給密碼？相簿遭開15分鐘　親密照恐被看光「6招自保」",
-   "outlet_count": 4,
-   "outlets": [
-    "ettoday",
-    "ltn",
-    "nownews",
-    "tvbs"
-   ],
-   "article_count": 4,
-   "first_seen": "2026-07-20T11:01:23+08:00",
-   "last_updated": "2026-07-20T20:13:58+08:00",
-   "tags": [
-    "手機送修",
-    "相簿被瀏覽",
-    "給密碼"
-   ],
-   "articles": [
-    {
-     "title": "手機送修相簿被瀏覽 網友曝自保關鍵",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5511614",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-20T20:13:58+08:00",
-     "description": "近日一名女網友發文分享，男友將故障的手機送修，取回手機後卻發現手機相簿被瀏覽超過十分鐘，與男友的親密照片全被看光，事後詢問老闆，得到的解釋卻是，「修復好手機本來就要點進相簿測試」...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "手機送修「相簿被看15分鐘」！老闆稱是測試　內行曝：別給密碼",
-     "link": "https://news.tvbs.com.tw/life/3262848",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-20T19:46:32+08:00",
-     "description": "",
-     "category": "life",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "送修手機「相簿被瀏覽15分鐘」　老闆堅持是測試！內行曝自保方法",
-     "link": "https://www.ettoday.net/news/20260720/3203774.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-20T17:58:00+08:00",
-     "description": "一名女網友發文指出，男友日前將故障的手機送修，並配合店家，提供密碼給維修店老闆。豈料，事後取回手機並查看螢幕使用紀錄，竟發現相簿被瀏覽超過10分鐘，且觀看的內容多為她的自拍與兩人的私密照片，讓她非常擔憂。貼文曝光後，引起討論。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "手機送修要給密碼？相簿遭開15分鐘　親密照恐被看光「6招自保」",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nYnZYZzFyWVdOdEdyX09aVVp5cUlyZHBibnpOU3g0Q1JUWDVoXzBjZ1ZtdjVrdG9xT2ZLdk9Obm5XSWlvNjhBSjZudXRyTHgwMGfSAVJBVV95cUxPZ2J2WGcxcllXTnRHcl9PWlVaeXFJcmRwYm56TlN4NENSVFg1aF8wY2dWbXY1a3RvcU9mS3ZPTm5uV0lpbzY4QUo2bnV0ckx4MDBn?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-07-20T11:01:23+08:00",
-     "description": "手機送修要給密碼？相簿遭開15分鐘　親密照恐被看光「6招自保」  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
