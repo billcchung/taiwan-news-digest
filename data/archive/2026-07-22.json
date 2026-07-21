@@ -1,6 +1,6 @@
 {
  "date": "2026-07-22",
- "generated_at": "2026-07-22T04:44:55.988617+08:00",
+ "generated_at": "2026-07-22T06:36:59.907589+08:00",
  "events": [
   {
    "id": "2862b5b47d8c",
@@ -21,7 +21,7 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 146,
+   "article_count": 147,
    "first_seen": "2026-07-19T06:58:20+08:00",
    "last_updated": "2026-07-21T23:01:02.649536+08:00",
    "tags": [
@@ -127,7 +127,7 @@
      "link": "https://news.tvbs.com.tw/sports/3263199",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-21T11:44:55+08:00",
+     "published": "2026-07-21T11:36:59+08:00",
      "description": "",
      "category": "sports",
      "metadata": {
@@ -263,7 +263,7 @@
      "link": "https://news.tvbs.com.tw/politics/3263949",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-21T21:44:55+08:00",
+     "published": "2026-07-21T21:36:59+08:00",
      "description": "",
      "category": "politics",
      "metadata": {
@@ -350,7 +350,7 @@
      "link": "https://news.tvbs.com.tw/entertainment/3263822",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-21T18:37:34+08:00",
+     "published": "2026-07-21T18:36:59+08:00",
      "description": "",
      "category": "entertainment",
      "metadata": {
@@ -399,28 +399,27 @@
      }
     },
     {
-     "title": "蔣萬安號召反毒油「北市卻爆兒虐」　沈伯洋轟：快一周沒作為",
-     "link": "https://news.tvbs.com.tw/politics/3263680",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-21T17:44:55+08:00",
-     "description": "",
-     "category": "politics",
+     "title": "蔣萬安稱沒真相油品不上架　陳其邁主張先確保食安",
+     "link": "https://www.cna.com.tw/news/aipl/202607210287.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-21T17:40:18+08:00",
+     "description": "（中央社記者賴于榛台北21日電）衛福部今天宣布中聯油脂案共有19批檢驗合格油品可重新上架。台北市長蔣萬安表示，不同意此時討論上架，沒有真相就沒有上架；台中市長盧秀燕說，真相未明，她對上架抱持疑慮；高雄市長陳其邁認為，待事情真相搞清楚、確保食品安全無虞，他才會准許相關油品上架。",
+     "author": "賴于榛",
      "metadata": {
       "schema_version": 1,
       "author": {
-       "name": null,
-       "source": "unknown"
+       "name": "賴于榛",
+       "source": "description"
       },
-      "acquisition": "scraper",
-      "category": "politics",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
      }
     }
    ]
   },
   {
-   "id": "d1dc9aed1075",
+   "id": "a24d3d3e2773",
    "title": "宣明智身體不適　緊急送醫手術",
    "outlet_count": 12,
    "outlets": [
@@ -640,15 +639,32 @@
     "storm",
     "tvbs"
    ],
-   "article_count": 45,
+   "article_count": 46,
    "first_seen": "2026-07-19T11:22:06+08:00",
-   "last_updated": "2026-07-22T00:33:48+08:00",
+   "last_updated": "2026-07-22T05:30:00+08:00",
    "tags": [
     "國是會議",
     "盧秀燕",
     "反毒油"
    ],
    "articles": [
+    {
+     "title": "盧秀燕號召反毒油線上國是會議 總統府籲藍執政縣市公布稽查成果",
+     "link": "https://news.ltn.com.tw/news/life/paper/1763535",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-22T05:30:00+08:00",
+     "description": "〔記者蘇孟娟、陳昀、陳政宇、劉宛琳／綜合報導〕中聯油脂爆致癌油風暴延燒全國，台中市長盧秀燕昨號召台北市長蔣萬安等十七位藍白縣市首長召開「反毒油線上國是會議」，呼籲總統賴清德儘速召開國是會議集思廣益進行改革；總統府發言人郭雅慧表示，依法中央負責制定標準、擬定政策，地方負責平時稽查、化驗及下架，藍營執政…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
     {
      "title": "食安會議修法嚴懲中聯！蔣萬安、盧秀燕提前離席 張育萌：根本在護航",
      "link": "https://news.ltn.com.tw/news/politics/breakingnews/5513146",
@@ -804,23 +820,6 @@
       "acquisition": "scraper",
       "category": "politics",
       "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "盧秀燕邀縣市府開線上會議　盼攜手中央精進食安",
-     "link": "https://www.cna.com.tw/news/aloc/202607210294.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-21T17:54:33+08:00",
-     "description": "（中央社台北21日綜合報導）中聯油品案，台中市長盧秀燕今天邀各縣市召開「反毒油線上國是會議」，有17個縣市出席，共提出十大共識，將向中央反映地方建言，盼攜手精進食安制度，守護全民健康。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/local"
      }
     }
    ]
@@ -1225,7 +1224,7 @@
    ]
   },
   {
-   "id": "d84fc6d16c0d",
+   "id": "12dfa7a7174e",
    "title": "伊朗襲約旦2美軍陣亡　川普重申德黑蘭絕不能有核武",
    "outlet_count": 9,
    "outlets": [
@@ -1240,8 +1239,8 @@
     "tvbs"
    ],
    "article_count": 27,
-   "first_seen": "2026-07-19T05:41:00+08:00",
-   "last_updated": "2026-07-22T03:36:03+08:00",
+   "first_seen": "2026-07-19T07:33:52+08:00",
+   "last_updated": "2026-07-22T06:01:58+08:00",
    "tags": [
     "美軍",
     "伊朗",
@@ -1262,23 +1261,43 @@
        ]
       }
      ]
-    },
-    {
-     "type": "受傷人數",
-     "agree": true,
-     "outlet_count": 2,
-     "values": [
-      {
-       "value": "4",
-       "outlets": [
-        "ETtoday",
-        "新頭殼"
-       ]
-      }
-     ]
     }
    ],
    "articles": [
+    {
+     "title": "五角大廈：美國對伊朗戰爭已耗資逾1.2兆元",
+     "link": "https://www.cna.com.tw/news/aopl/202607220013.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-22T06:01:58+08:00",
+     "description": "（中央社華盛頓21日綜合外電報導）美國戰爭部長赫格塞斯（Pete Hegseth）今天表示，美方對伊朗戰爭的成本截至目前攀升至375億美元（約新台幣1兆2131億元），較前一次公布的估算成本大增近80億美元。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
+     }
+    },
+    {
+     "title": "交易者觀望荷莫茲海峽航運　國際油價收漲逾2%",
+     "link": "https://ec.ltn.com.tw/article/breakingnews/5513181",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-22T05:00:06+08:00",
+     "description": "交易者正在觀望荷莫茲海峽航運情形，以及獲伊朗撐腰的葉門叛軍「青年運動」（Houthi）對沙烏地阿拉伯實施海上封鎖等影響，國際油價今天收盤上漲逾2%。\n\n紐約商品交易所西德州中級原油8月交割價...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
     {
      "title": "美伊衝突持續擴大　川普稱美方行動「遠未結束」",
      "link": "https://news.ltn.com.tw/news/world/breakingnews/5513178",
@@ -1415,40 +1434,6 @@
       },
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "美伊衝突升級  川普沉默引發越戰覆轍憂慮",
-     "link": "https://news.ltn.com.tw/news/world/breakingnews/5511876",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-21T06:03:49+08:00",
-     "description": "美國和伊朗的戰事持續升級，美國總統川普在公開場合卻幾乎沒有披露任何戰局可能走向的線索。智庫學者警告，美軍傷亡人數可能因戰火延燒而逐漸增加，衝突可能全面重燃，美國可能會重蹈越戰...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "路透：調停人士推美伊10天停火協議 油價跌破90美元",
-     "link": "https://ec.ltn.com.tw/article/breakingnews/5511784",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-20T21:16:09+08:00",
-     "description": "首次上稿 21:16更新時間 23:57 （伊朗內政部長已赴巴基斯坦）\n\n\n\n\n\n路透報導，一名伊朗高級官員表示，調停人士已向伊朗提出一項緩和與美國戰爭的議案，據此，將提供為期...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
      }
     }
    ]
@@ -2417,8 +2402,8 @@
      }
     },
     {
-     "title": "謝賢離世！傳給小49歲女友「8千萬分手費」　她親曝內情",
-     "link": "https://news.tvbs.com.tw/entertainment/3262689",
+     "title": "謝賢89歲逝世！一生歷經5段情　拒娶小49歲女友原因曝",
+     "link": "https://news.tvbs.com.tw/entertainment/3262624",
      "source": "tvbs",
      "source_name": "TVBS",
      "published": "2026-07-21T19:01:34.200803+08:00",
@@ -2455,8 +2440,8 @@
      }
     },
     {
-     "title": "謝賢89歲逝世！一生歷經5段情　拒娶小49歲女友原因曝",
-     "link": "https://news.tvbs.com.tw/entertainment/3262624",
+     "title": "謝賢離世！傳給小49歲女友「8千萬分手費」　她親曝內情",
+     "link": "https://news.tvbs.com.tw/entertainment/3262689",
      "source": "tvbs",
      "source_name": "TVBS",
      "published": "2026-07-21T19:01:34.200803+08:00",
@@ -2777,7 +2762,7 @@
    ],
    "article_count": 16,
    "first_seen": "2026-07-20T17:13:30+08:00",
-   "last_updated": "2026-07-21T21:44:55+08:00",
+   "last_updated": "2026-07-21T21:36:59+08:00",
    "tags": [
     "食藥署",
     "中聯油"
@@ -2788,7 +2773,7 @@
      "link": "https://news.tvbs.com.tw/life/3263933",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-21T21:44:55+08:00",
+     "published": "2026-07-21T21:36:59+08:00",
      "description": "",
      "category": "life",
      "metadata": {
@@ -2983,7 +2968,7 @@
    "first_seen": "2026-07-19T10:22:00+08:00",
    "last_updated": "2026-07-21T17:48:01+08:00",
    "tags": [
-    "市大雷雨狂炸",
+    "縣市大雷雨狂",
     "氣象署示警",
     "生活"
    ],
@@ -3057,25 +3042,6 @@
      }
     },
     {
-     "title": "天氣／國家警報大響！大雷雨猛炸　警戒區一次看",
-     "link": "https://news.tvbs.com.tw/life/3262259",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-21T17:13:07.254465+08:00",
-     "description": "",
-     "category": "life",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
      "title": "16縣市豪大雨猛炸！1地緊急發布淹水警戒",
      "link": "https://news.ebc.net.tw/news/living/562342",
      "source": "ebc",
@@ -3092,6 +3058,25 @@
       "acquisition": "scraper",
       "category": "living",
       "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "天氣／國家警報大響！大雷雨猛炸　警戒區一次看",
+     "link": "https://news.tvbs.com.tw/life/3262259",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-21T17:13:07.254465+08:00",
+     "description": "",
+     "category": "life",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "life",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
      }
     },
     {
@@ -3381,7 +3366,7 @@
    "last_updated": "2026-07-21T14:12:23+08:00",
    "tags": [
     "台積電前副理",
-    "機密",
+    "求刑",
     "起訴"
    ],
    "articles": [
@@ -3923,6 +3908,169 @@
    ]
   },
   {
+   "id": "bc483c8dfbc9",
+   "title": "翁曉玲提案凍結卓榮泰薪資　政院：不副署違憲法案是護憲",
+   "outlet_count": 7,
+   "outlets": [
+    "cna",
+    "ettoday",
+    "ltn",
+    "mirror",
+    "newtalk",
+    "setn",
+    "tvbs"
+   ],
+   "article_count": 8,
+   "first_seen": "2026-07-21T09:55:00+08:00",
+   "last_updated": "2026-07-22T05:30:00+08:00",
+   "tags": [
+    "翁曉玲",
+    "卓榮泰",
+    "薪水"
+   ],
+   "articles": [
+    {
+     "title": "凍卓薪水？ 民團轟翁曉玲「法盲」",
+     "link": "https://news.ltn.com.tw/news/politics/paper/1763539",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-22T05:30:00+08:00",
+     "description": "公職人員薪資屬法定支出 提案無效且荒謬\n〔記者陳治程、許詠晴、陳鈺馥／台北報導〕今年度中央政府總預算案將進入協商階段，國民黨立委翁曉玲日前「無差別凍刪」文化部、總統府、司法院等政府機關預算，近日更提案凍結行政院長卓榮泰四個月薪水。民團昨反嗆翁「法盲」，公職人員薪資屬法定支出，提案凍薪無效且荒謬；民…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "翁曉玲提案凍卓榮泰4個月薪水　綠委轟政治霸凌、監督變報復",
+     "link": "https://news.tvbs.com.tw/politics/3263821",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-21T20:00:16+08:00",
+     "description": "",
+     "category": "politics",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "politics",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "翁曉玲喊凍卓揆薪水　綠委轟政治報復：做好效忠中華民國立委很難嗎",
+     "link": "https://www.ettoday.net/news/20260721/3205271.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-21T18:21:00+08:00",
+     "description": "國民黨立委翁曉玲今（21日）透露自己提案凍結行政院長卓榮泰9至12月薪水。據了解，該筆金額約148萬元，解凍條件是未來卓依法編列預算及副署法案後，向立法院內政委員會提交書面報告並獲同意。對此，民進黨立委陳培瑜痛批，這根本是把監督變成政治報復，「難道對你們來說，做好一個效忠於中華民國台灣的立法委員，很難嗎？」 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "卓榮泰9-12月薪水148萬！翁曉玲凍結案內容曝　藍黨團加碼砍特別費",
+     "link": "https://www.ettoday.net/news/20260721/3205260.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-21T18:14:00+08:00",
+     "description": "針對115年度中央政府總預算案，立法院長韓國瑜最快下周啟動二輪審查，國民黨立委翁曉玲今（21日）透露自己提案凍結行政院長卓榮泰9至12月薪水。據了解，該筆金額約148萬元，解凍條件是未來卓依法編列預算及副署法案後，向立法院內政委員會提交書面報告並獲同意；翁痛批，卓榮泰已是不適任的閣揆。另外，國民黨團也提案全數減列9至12月行政院長特別費，用以導正卓榮泰施政傲慢的心態。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "翁曉玲提案凍結卓榮泰薪資　政院：不副署違憲法案是護憲",
+     "link": "https://www.cna.com.tw/news/aipl/202607210140.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-21T13:48:05+08:00",
+     "description": "（中央社記者賴于榛台北21日電）國民黨立委翁曉玲今天指行政院長卓榮泰未依法編列預算、副署法律等，因此提案凍結卓榮泰今年9月至12月的薪水。行政院發言人李慧芝表示，對於違憲法案，不予副署是捍衛憲政秩序的義務，行政院維護憲法不是選擇，而是責任。",
+     "author": "賴于榛",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "賴于榛",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
+     }
+    },
+    {
+     "title": "提案刪今年度總預算270案還不夠翁曉玲：卓揆「尸位素餐」刪9至12月薪水| 政治",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMVmtGdFlNOXUxQmsyUDVCR19mOXdhTGhQQmVzU2pLTWtGUzk3cGh0RGotQmN0MmtmNEdJTXFnNy1xdGYwQ2ZKWGpkWm1yd0h6bzFkb295ZFJGRnM?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-21T11:37:36+08:00",
+     "description": "提案刪今年度總預算270案還不夠翁曉玲：卓揆「尸位素餐」刪9至12月薪水| 政治  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "提案凍結卓榮泰薪水　翁曉玲批尸位素餐：根本不配當行政院長",
+     "link": "https://www.mirrormedia.mg/story/20260721edi005",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-07-21T11:32:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "砍預算砍上癮？翁曉玲提凍結卓榮泰9到12月薪水：他尸位素餐不配當院長",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Qak9qSm5CaWdmcVEtc1FtZVFEb1lZbFFIVDg2VjJVXzdMZW9lWUtTSE9zenk0X000NXN5emV3MXBDb2FUX3hoZdIBTEFVX3lxTFBBQllRSlJYV0p5dkxlU2g3S0NrdkdYdjdncnVCRVZnZEJ2TVMzSk9mbFpqT2ROQ0ZsTi1pTTdTaWg2S3BtaFJ4UXFwcng?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-07-21T09:55:00+08:00",
+     "description": "砍預算砍上癮？翁曉玲提凍結卓榮泰9到12月薪水：他尸位素餐不配當院長  三立新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
    "id": "a22a7ff1d26f",
    "title": "一週大事／中聯總經理遭羈押、政院公布青安3.0（2026.7.13-7.19）",
    "outlet_count": 7,
@@ -3935,11 +4083,28 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 24,
+   "article_count": 26,
    "first_seen": "2026-07-19T11:00:00+08:00",
-   "last_updated": "2026-07-22T00:21:40+08:00",
+   "last_updated": "2026-07-22T04:17:09+08:00",
    "tags": [],
    "articles": [
+    {
+     "title": "經濟日報 2026-07-22 星期三",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IVGVGbmF0Q3hQVnhwNXZROUxNdFUzT2xScGRyQ0xnOTAxUnkwVTlST1ZtanQ2WHVaN0NXM2RZZ21WZzZTVGtxOU9kYUpYdTgtZEt0RzZ3?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-07-22T04:17:09+08:00",
+     "description": "經濟日報 2026-07-22 星期三  琅琅悅讀",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
     {
      "title": "新聞分類總覽 - 2026-07-22",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oRS1hQjhIOVFTSVhRS29qMFhPbm5kcmpTVS1fR0o3QXJyUlpreTZqSWF3Y3NkaGNIV0hDd0h0dXREQXN2N2lPSjNvckFZUHp1R1QyV0xzNA?oc=5",
@@ -4078,23 +4243,6 @@
     },
     {
      "title": "新聞分類總覽 - 2026-07-21",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15NlNBZFF6cExYNTdWdU91OF9hNHBKUjVCejB1ajBUNFFWNENWYjNBSXJwUWJFT0REeDFPMVpZWGd2cV94NHpMNXNrZnZjeHhEOXRzN2p6dw?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-21T00:04:29+08:00",
-     "description": "新聞分類總覽 - 2026-07-21  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "新聞分類總覽 - 2026-07-21",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mNGdXcV9rLUFTcjZHUU5NNkYtTTZtRm45OHJRZU9HbkRfTnlhLWs0OXRSaFNDNlBlaWRoQWpHQ0RGRTY4WEVndHdJWEpkbGRMS1Y3MnhTVQ?oc=5",
      "source": "newtalk",
      "source_name": "新頭殼",
@@ -4113,7 +4261,7 @@
    ]
   },
   {
-   "id": "aaec782f6f93",
+   "id": "340eadce2b8c",
    "title": "2026台灣米其林指南出爐 「予島」摘台南首星",
    "outlet_count": 7,
    "outlets": [
@@ -4850,6 +4998,134 @@
    ]
   },
   {
+   "id": "bc1c3f9865dc",
+   "title": "中聯自行放寬黃豆驗收標準10倍 衛福部：增加苯駢芘超標風險",
+   "outlet_count": 6,
+   "outlets": [
+    "ltn",
+    "mirror",
+    "pts",
+    "setn",
+    "storm",
+    "tvbs"
+   ],
+   "article_count": 6,
+   "first_seen": "2026-07-21T13:51:00+08:00",
+   "last_updated": "2026-07-22T05:30:00+08:00",
+   "tags": [
+    "黃豆熱損",
+    "中聯",
+    "放寬"
+   ],
+   "articles": [
+    {
+     "title": "中聯黃豆允收標準 私自放寬10倍 石崇良：油品製程也未依規控管",
+     "link": "https://news.ltn.com.tw/news/life/paper/1763563",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-22T05:30:00+08:00",
+     "description": "〔記者林志怡／台北報導〕中聯油脂案引爆全台食安危機，事件爆發後食藥署等相關單位持續追查發現，中聯油去年竟將黃豆允收標準放寬十倍，且未依據原訂的管制點執行管控，恐是造成這次毒油流竄全台的原因。\n熱損率從〇．五％放寬到五％\n石崇良指出，食藥署等相關單位持續對中聯油脂進行調查，先前已發現中聯油脂在去年…",
+     "author": "林志怡",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "林志怡",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "中聯自行放寬黃豆驗收標準10倍 衛福部：增加苯駢芘超標風險",
+     "link": "https://news.pts.org.tw/article/818730",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-07-21T19:59:53+08:00",
+     "description": "衛福部委託第三方單位成立的調查小組，今（21）日前往中聯工廠內展開調查，要釐清這次油品風暴的主因和管理程序，而衛福部也發現到，中聯自去（2025）年起，自行將黃豆熱損傷驗收標準放寬10倍，恐怕增加苯駢芘超標風險。另外，後續推動食安法修法，針對跨轄區的食安事件，會開設「食安事件指揮中心」，而如果業者延遲通報等狀況，最高罰鍰將提高到3000萬。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "追致癌油源頭　爆中聯「放寬黃豆熱損標準10倍」食藥署大動作上門查廠",
+     "link": "https://www.mirrormedia.mg/story/20260721edi035",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-07-21T17:07:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "致癌油元凶抓到了？中聯把黃豆標準「放寬10倍」 石崇良：製油過程也沒確實管制 | 張大任 | 新聞",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE43N0lISlZrVE83c0RxMjlQcW9DREVwVEVmRHFmczNDUGgxaXZndlFoSU85Y0dPNU5Jbk9MVjl0MzdWRXZ4YnoyZ3p6Q2hhZw?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-07-21T16:48:41+08:00",
+     "description": "致癌油元凶抓到了？中聯把黃豆標準「放寬10倍」 石崇良：製油過程也沒確實管制 | 張大任 | 新聞  風傳媒",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "衛福部揭中聯製程出包關鍵：私自放寬黃豆熱損率0.5%變5%",
+     "link": "https://news.tvbs.com.tw/health/3263642",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-21T16:44:55+08:00",
+     "description": "",
+     "category": "health",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "health",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "苯駢芘超標問題找到了？姜至剛：中聯私將黃豆熱損率「放寬10倍」",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1zOTJiUGhUazRfbGh2SjFkQ1l2X1A5S0VwUjB2V040RENIcW03cXlQZG5JWGF1ZW5udWd4T3QyaGkwenBkREFCX9IBTEFVX3lxTE5TeHdtX2VaV2w2NVoxemRQWG1zRHNENVB6Vmd3Y2tEclVUMmFnZTlqLVExSFcyYjFjaXcxN1V2Y0xJRG9kS0FRVHZqdzM?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-07-21T13:51:00+08:00",
+     "description": "苯駢芘超標問題找到了？姜至剛：中聯私將黃豆熱損率「放寬10倍」  三立新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
    "id": "8023e5bc9140",
    "title": "美國對部分加拿大商品加徵50%關稅　30天後生效",
    "outlet_count": 6,
@@ -5062,8 +5338,8 @@
    "first_seen": "2026-07-21T14:46:19+08:00",
    "last_updated": "2026-07-22T00:49:13.929600+08:00",
    "tags": [
-    "將涉貪護航光",
-    "海軍退役少將",
+    "少將涉貪護航",
+    "海軍",
     "光電"
    ],
    "claims": [
@@ -5177,7 +5453,7 @@
      "link": "https://news.tvbs.com.tw/local/3263648",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-21T17:44:55+08:00",
+     "published": "2026-07-21T17:36:59+08:00",
      "description": "",
      "category": "local",
      "metadata": {
@@ -5231,8 +5507,8 @@
    ],
    "articles": [
     {
-     "title": "發財再等等！2億威力彩頭獎、貳獎雙槓龜",
-     "link": "https://news.tvbs.com.tw/life/3262941",
+     "title": "2億威力彩開獎！7/20中獎號碼一次看",
+     "link": "https://news.tvbs.com.tw/life/3262734",
      "source": "tvbs",
      "source_name": "TVBS",
      "published": "2026-07-21T23:01:02.649536+08:00",
@@ -5250,8 +5526,8 @@
      }
     },
     {
-     "title": "2億威力彩開獎！7/20中獎號碼一次看",
-     "link": "https://news.tvbs.com.tw/life/3262734",
+     "title": "發財再等等！2億威力彩頭獎、貳獎雙槓龜",
+     "link": "https://news.tvbs.com.tw/life/3262941",
      "source": "tvbs",
      "source_name": "TVBS",
      "published": "2026-07-21T23:01:02.649536+08:00",
@@ -5410,151 +5686,6 @@
       "acquisition": "scraper",
       "category": "life",
       "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    }
-   ]
-  },
-  {
-   "id": "bc483c8dfbc9",
-   "title": "翁曉玲提案凍結卓榮泰薪資　政院：不副署違憲法案是護憲",
-   "outlet_count": 6,
-   "outlets": [
-    "cna",
-    "ettoday",
-    "mirror",
-    "newtalk",
-    "setn",
-    "tvbs"
-   ],
-   "article_count": 7,
-   "first_seen": "2026-07-21T09:55:00+08:00",
-   "last_updated": "2026-07-21T20:00:16+08:00",
-   "tags": [
-    "翁曉玲",
-    "凍結卓榮泰",
-    "尸位素餐"
-   ],
-   "articles": [
-    {
-     "title": "翁曉玲提案凍卓榮泰4個月薪水　綠委轟政治霸凌、監督變報復",
-     "link": "https://news.tvbs.com.tw/politics/3263821",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-21T20:00:16+08:00",
-     "description": "",
-     "category": "politics",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "politics",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "翁曉玲喊凍卓揆薪水　綠委轟政治報復：做好效忠中華民國立委很難嗎",
-     "link": "https://www.ettoday.net/news/20260721/3205271.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-21T18:21:00+08:00",
-     "description": "國民黨立委翁曉玲今（21日）透露自己提案凍結行政院長卓榮泰9至12月薪水。據了解，該筆金額約148萬元，解凍條件是未來卓依法編列預算及副署法案後，向立法院內政委員會提交書面報告並獲同意。對此，民進黨立委陳培瑜痛批，這根本是把監督變成政治報復，「難道對你們來說，做好一個效忠於中華民國台灣的立法委員，很難嗎？」 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "卓榮泰9-12月薪水148萬！翁曉玲凍結案內容曝　藍黨團加碼砍特別費",
-     "link": "https://www.ettoday.net/news/20260721/3205260.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-21T18:14:00+08:00",
-     "description": "針對115年度中央政府總預算案，立法院長韓國瑜最快下周啟動二輪審查，國民黨立委翁曉玲今（21日）透露自己提案凍結行政院長卓榮泰9至12月薪水。據了解，該筆金額約148萬元，解凍條件是未來卓依法編列預算及副署法案後，向立法院內政委員會提交書面報告並獲同意；翁痛批，卓榮泰已是不適任的閣揆。另外，國民黨團也提案全數減列9至12月行政院長特別費，用以導正卓榮泰施政傲慢的心態。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "翁曉玲提案凍結卓榮泰薪資　政院：不副署違憲法案是護憲",
-     "link": "https://www.cna.com.tw/news/aipl/202607210140.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-21T13:48:05+08:00",
-     "description": "（中央社記者賴于榛台北21日電）國民黨立委翁曉玲今天指行政院長卓榮泰未依法編列預算、副署法律等，因此提案凍結卓榮泰今年9月至12月的薪水。行政院發言人李慧芝表示，對於違憲法案，不予副署是捍衛憲政秩序的義務，行政院維護憲法不是選擇，而是責任。",
-     "author": "賴于榛",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "賴于榛",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
-     }
-    },
-    {
-     "title": "提案刪今年度總預算270案還不夠翁曉玲：卓揆「尸位素餐」刪9至12月薪水| 政治",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMVmtGdFlNOXUxQmsyUDVCR19mOXdhTGhQQmVzU2pLTWtGUzk3cGh0RGotQmN0MmtmNEdJTXFnNy1xdGYwQ2ZKWGpkWm1yd0h6bzFkb295ZFJGRnM?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-21T11:37:36+08:00",
-     "description": "提案刪今年度總預算270案還不夠翁曉玲：卓揆「尸位素餐」刪9至12月薪水| 政治  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "提案凍結卓榮泰薪水　翁曉玲批尸位素餐：根本不配當行政院長",
-     "link": "https://www.mirrormedia.mg/story/20260721edi005",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-07-21T11:32:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "砍預算砍上癮？翁曉玲提凍結卓榮泰9到12月薪水：他尸位素餐不配當院長",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Qak9qSm5CaWdmcVEtc1FtZVFEb1lZbFFIVDg2VjJVXzdMZW9lWUtTSE9zenk0X000NXN5emV3MXBDb2FUX3hoZdIBTEFVX3lxTFBBQllRSlJYV0p5dkxlU2g3S0NrdkdYdjdncnVCRVZnZEJ2TVMzSk9mbFpqT2ROQ0ZsTi1pTTdTaWg2S3BtaFJ4UXFwcng?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-07-21T09:55:00+08:00",
-     "description": "砍預算砍上癮？翁曉玲提凍結卓榮泰9到12月薪水：他尸位素餐不配當院長  三立新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -5763,7 +5894,7 @@
    "tags": [
     "我媽監督你爸",
     "嗆朱立倫兒",
-    "廣洋再爆黑料"
+    "佀廣洋再爆黑"
    ],
    "articles": [
     {
@@ -5822,7 +5953,7 @@
      "link": "https://news.tvbs.com.tw/politics/3263215",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-21T11:44:55+08:00",
+     "published": "2026-07-21T11:36:59+08:00",
      "description": "",
      "category": "politics",
      "metadata": {
@@ -6676,6 +6807,202 @@
    ]
   },
   {
+   "id": "085c38638f6f",
+   "title": "政院：食安法修法納10大重點　加重隱匿通報處罰",
+   "outlet_count": 5,
+   "outlets": [
+    "cna",
+    "ettoday",
+    "ltn",
+    "newtalk",
+    "tvbs"
+   ],
+   "article_count": 13,
+   "first_seen": "2026-07-20T10:32:00+08:00",
+   "last_updated": "2026-07-22T05:30:00+08:00",
+   "tags": [
+    "食安法修法",
+    "政院"
+   ],
+   "articles": [
+    {
+     "title": "食安法修法 延遲、隱匿通報罰鍰上限擬提高10倍／石崇良：規劃明定業者、實驗室都有通報責任 杜絕漏洞",
+     "link": "https://news.ltn.com.tw/news/life/paper/1763534",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-22T05:30:00+08:00",
+     "description": "〔記者林志怡、陳鈺馥、張軒哲／綜合報導〕中聯油脂案引爆食安危機，雖問題油品停留在七批，除外銷油品外，其他批號油品均檢驗合格，但業者延遲通報、惡意隱匿等情況已引起公憤，衛福部擬修「食安法」杜絕類似情況發生，除擴大業者與實驗室的通報責任外，也將把延遲通報、隱匿通報的罰鍰上限從現行三百萬提升至三千萬。\n…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "與會人士：食安法修法　陳時中指示納地方意見調整",
+     "link": "https://www.cna.com.tw/news/aipl/202607210397.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-21T23:10:21+08:00",
+     "description": "（中央社記者賴于榛台北21日電）行政院政務委員陳時中今天召開食安法部分條文修正草案會議，邀6都代表列席。與會人士指出，6都代表對修法提出建議，尤其多對攸關監測計畫的食安法第7條表達意見，陳時中指示衛福部，修法文字須依據地方建議調整，並無部分媒體報導所稱未落實成法條文字。",
+     "author": "賴于榛",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "賴于榛",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
+     }
+    },
+    {
+     "title": "陳時中：6都認同食安法修法方向　籲強化監測計畫分級",
+     "link": "https://www.cna.com.tw/news/aipl/202607210349.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-21T20:11:31+08:00",
+     "description": "（中央社記者賴于榛、高華謙台北21日電）行政院今天舉行食安法部分條文修正草案會議，邀6都代表列席。行政院政務委員陳時中說，會中大家都支持食安法修法方向，同時關注源頭管理、製程管理與數位治理，也建議政府針對業者的監測計畫要依據規模大小不同進行分級，後續將納入條文設計。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
+     }
+    },
+    {
+     "title": "新北提食安修法5建議　盼強化地方應變權",
+     "link": "https://www.cna.com.tw/news/aloc/202607210345.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-21T19:46:22+08:00",
+     "description": "（中央社記者黃旭昇新北21日電）新北市副市長朱惕之今天建議建立中央地方食安即時資訊共享機制、強化地方緊急處置權、建置全國食品流向追溯平台、建立重大食安事件分級應變制度，以及增加地方執行所需資源。",
+     "author": "黃旭昇",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "黃旭昇",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/local"
+     }
+    },
+    {
+     "title": "食安風暴開撕！藍推修法重罰10億　要求24小時預防性下架",
+     "link": "https://news.tvbs.com.tw/politics/3262411",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-21T15:13:30.441441+08:00",
+     "description": "",
+     "category": "politics",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "politics",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "民眾黨團提修食安法　關鍵原料出廠前逐批驗",
+     "link": "https://www.cna.com.tw/news/aipl/202607210103.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-21T12:20:44+08:00",
+     "description": "（中央社記者曾以寧台北21日電）中聯油脂案延燒，行政院長卓榮泰日前表示將修「食安法」。民眾黨團今天表示，也將提修法草案，建立第3方檢驗交叉驗證制與強制通報，關鍵食品原物料出廠前須逐批抽驗。",
+     "author": "曾以寧",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "曾以寧",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
+     }
+    },
+    {
+     "title": "民眾黨提修食安法　加強抽驗關鍵油料、預防性下架至少1個月",
+     "link": "https://www.ettoday.net/news/20260721/3204901.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-21T11:28:00+08:00",
+     "description": "中聯毒油案爆發至今超過半個月過去，食藥署20日宣布完成所有問題批號油品檢驗，並將派獨立調查小組再進廠調查一周。民眾黨今（21日）召開記者會說明《食安法》的修法方向，主張加強抽驗關鍵油料、落實第三方檢驗交叉驗證制度，建立高風險油品「政府強制抽驗」制度，還有關鍵食品原物料應逐批抽驗、強化中央主管機關主動查驗職責，同時也要明訂預防性下架期程，至少一個月，以利調查。\n\n 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "台中被指毒油破口 盧秀燕下午出席政院食安法修法會議",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5512030",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-21T11:13:22+08:00",
+     "description": "中聯致癌油風暴延燒全國，台中市長盧秀燕日前稱毒油風暴後中央要求不要查廠，卻被爆台中市在她市長近8年任內根本未曾檢驗過中聯油脂是否含苯駢芘，8年檢驗0次，被指毒油破口在台中，今早...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "食安法修法 增訂預防性下架原則／修法草案10大重點 行政院會週四將通過",
+     "link": "https://news.ltn.com.tw/news/life/paper/1763428",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-21T05:30:00+08:00",
+     "description": "〔記者鍾麗華、林欣漢、林志怡、蘇金鳳／綜合報導〕中聯油脂案暴露食安法對於業者自主管理油品的監督機制不足，也對無辜被迫下架的業者不公平，朝野都有意修法強化對業者管理，行政院會週四將通過「食品安全衛生管理法修正草案」，修法共十大重點，包括增訂高風險食品業者自主檢驗頻率、第三方驗證機構抽樣及通報機制，以及…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "一張圖看政院食安法修法10大重點　加重通報隱匿處罰、增檢驗頻率",
+     "link": "https://www.ettoday.net/news/20260720/3204590.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-20T17:41:00+08:00",
+     "description": "針對油品的食安議題，行政院長卓榮泰20日表示，為保障國人食品安全，杜絕不肖業者隱匿違規情事，衛福部將於本週四（7月23日）行政院院會提出《食品安全衛生管理法》及相關子法修正草案；行政院下午也公布，本次提出修法的10大重點。\n\n 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    }
+   ]
+  },
+  {
    "id": "e706f4c9545a",
    "title": "快訊》服裝設計大師溫慶珠辭世！ 品牌證實噩耗- 娛樂",
    "outlet_count": 5,
@@ -6688,7 +7015,7 @@
    ],
    "article_count": 6,
    "first_seen": "2026-07-21T23:34:45+08:00",
-   "last_updated": "2026-07-22T00:44:55+08:00",
+   "last_updated": "2026-07-22T00:36:59+08:00",
    "tags": [
     "師溫慶珠",
     "服裝設計",
@@ -6700,7 +7027,7 @@
      "link": "https://news.tvbs.com.tw/entertainment/3264017",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-22T00:44:55+08:00",
+     "published": "2026-07-22T00:36:59+08:00",
      "description": "",
      "category": "entertainment",
      "metadata": {
@@ -6966,202 +7293,6 @@
    ]
   },
   {
-   "id": "085c38638f6f",
-   "title": "政院：食安法修法納10大重點　加重隱匿通報處罰",
-   "outlet_count": 5,
-   "outlets": [
-    "cna",
-    "ettoday",
-    "ltn",
-    "newtalk",
-    "tvbs"
-   ],
-   "article_count": 12,
-   "first_seen": "2026-07-20T10:32:00+08:00",
-   "last_updated": "2026-07-21T23:10:21+08:00",
-   "tags": [
-    "食安法修法",
-    "政院"
-   ],
-   "articles": [
-    {
-     "title": "與會人士：食安法修法　陳時中指示納地方意見調整",
-     "link": "https://www.cna.com.tw/news/aipl/202607210397.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-21T23:10:21+08:00",
-     "description": "（中央社記者賴于榛台北21日電）行政院政務委員陳時中今天召開食安法部分條文修正草案會議，邀6都代表列席。與會人士指出，6都代表對修法提出建議，尤其多對攸關監測計畫的食安法第7條表達意見，陳時中指示衛福部，修法文字須依據地方建議調整，並無部分媒體報導所稱未落實成法條文字。",
-     "author": "賴于榛",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "賴于榛",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
-     }
-    },
-    {
-     "title": "陳時中：6都認同食安法修法方向　籲強化監測計畫分級",
-     "link": "https://www.cna.com.tw/news/aipl/202607210349.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-21T20:11:31+08:00",
-     "description": "（中央社記者賴于榛、高華謙台北21日電）行政院今天舉行食安法部分條文修正草案會議，邀6都代表列席。行政院政務委員陳時中說，會中大家都支持食安法修法方向，同時關注源頭管理、製程管理與數位治理，也建議政府針對業者的監測計畫要依據規模大小不同進行分級，後續將納入條文設計。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
-     }
-    },
-    {
-     "title": "新北提食安修法5建議　盼強化地方應變權",
-     "link": "https://www.cna.com.tw/news/aloc/202607210345.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-21T19:46:22+08:00",
-     "description": "（中央社記者黃旭昇新北21日電）新北市副市長朱惕之今天建議建立中央地方食安即時資訊共享機制、強化地方緊急處置權、建置全國食品流向追溯平台、建立重大食安事件分級應變制度，以及增加地方執行所需資源。",
-     "author": "黃旭昇",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "黃旭昇",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/local"
-     }
-    },
-    {
-     "title": "食安風暴開撕！藍推修法重罰10億　要求24小時預防性下架",
-     "link": "https://news.tvbs.com.tw/politics/3262411",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-21T15:13:30.441441+08:00",
-     "description": "",
-     "category": "politics",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "politics",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "民眾黨團提修食安法　關鍵原料出廠前逐批驗",
-     "link": "https://www.cna.com.tw/news/aipl/202607210103.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-21T12:20:44+08:00",
-     "description": "（中央社記者曾以寧台北21日電）中聯油脂案延燒，行政院長卓榮泰日前表示將修「食安法」。民眾黨團今天表示，也將提修法草案，建立第3方檢驗交叉驗證制與強制通報，關鍵食品原物料出廠前須逐批抽驗。",
-     "author": "曾以寧",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "曾以寧",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
-     }
-    },
-    {
-     "title": "民眾黨提修食安法　加強抽驗關鍵油料、預防性下架至少1個月",
-     "link": "https://www.ettoday.net/news/20260721/3204901.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-21T11:28:00+08:00",
-     "description": "中聯毒油案爆發至今超過半個月過去，食藥署20日宣布完成所有問題批號油品檢驗，並將派獨立調查小組再進廠調查一周。民眾黨今（21日）召開記者會說明《食安法》的修法方向，主張加強抽驗關鍵油料、落實第三方檢驗交叉驗證制度，建立高風險油品「政府強制抽驗」制度，還有關鍵食品原物料應逐批抽驗、強化中央主管機關主動查驗職責，同時也要明訂預防性下架期程，至少一個月，以利調查。\n\n 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "台中被指毒油破口 盧秀燕下午出席政院食安法修法會議",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5512030",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-21T11:13:22+08:00",
-     "description": "中聯致癌油風暴延燒全國，台中市長盧秀燕日前稱毒油風暴後中央要求不要查廠，卻被爆台中市在她市長近8年任內根本未曾檢驗過中聯油脂是否含苯駢芘，8年檢驗0次，被指毒油破口在台中，今早...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "食安法修法 增訂預防性下架原則／修法草案10大重點 行政院會週四將通過",
-     "link": "https://news.ltn.com.tw/news/life/paper/1763428",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-21T05:30:00+08:00",
-     "description": "〔記者鍾麗華、林欣漢、林志怡、蘇金鳳／綜合報導〕中聯油脂案暴露食安法對於業者自主管理油品的監督機制不足，也對無辜被迫下架的業者不公平，朝野都有意修法強化對業者管理，行政院會週四將通過「食品安全衛生管理法修正草案」，修法共十大重點，包括增訂高風險食品業者自主檢驗頻率、第三方驗證機構抽樣及通報機制，以及…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "一張圖看政院食安法修法10大重點　加重通報隱匿處罰、增檢驗頻率",
-     "link": "https://www.ettoday.net/news/20260720/3204590.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-20T17:41:00+08:00",
-     "description": "針對油品的食安議題，行政院長卓榮泰20日表示，為保障國人食品安全，杜絕不肖業者隱匿違規情事，衛福部將於本週四（7月23日）行政院院會提出《食品安全衛生管理法》及相關子法修正草案；行政院下午也公布，本次提出修法的10大重點。\n\n 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "行政院版食安修法10大重點  明定中央地方權責",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5511569",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-20T17:21:10+08:00",
-     "description": "致癌油風波延燒，行政院會預計週四（23日）通過「食品安全衛生管理法」修法。行政院長卓榮泰今（20）日透過新聞稿說明10項修法重點，包括增訂高風險食品業者自主檢驗頻率、地方主管機...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    }
-   ]
-  },
-  {
    "id": "64a52437d7bc",
    "title": "藍營串聯上凱道 何欣純：食安若當政治操作大有問題",
    "outlet_count": 5,
@@ -7202,7 +7333,7 @@
     },
     {
      "title": "盧秀燕沒驗過BAP、蔣萬安不知轄內油廠？律師轟：還好意思上街| 政治",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OLU81NGtxZFdURGVZbDRxMXZyV0FTS2Y2UFJjb28wa0FlQzhRdHpxWVN6U3ZzYzg4WkNkeXNLR002OGMxUzZUUkgyZTh3VHFLTnpONzVHaDE3SzQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxSUthSF93Y0JUeFQ1eVhFcExnRE1Ob2YwMUFqRVYtT3c4TUNYUWFLaTEtYzhnM3Y1TExraHlTODV1a1lna3F3T3dIX3Jsa1U4aU9wTnA0QmR5YWM?oc=5",
      "source": "newtalk",
      "source_name": "新頭殼",
      "published": "2026-07-21T10:59:45+08:00",
@@ -7219,7 +7350,7 @@
     },
     {
      "title": "盧秀燕沒驗過BAP、蔣萬安不知轄內油廠？律師轟：還好意思上街| 政治",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxSUthSF93Y0JUeFQ1eVhFcExnRE1Ob2YwMUFqRVYtT3c4TUNYUWFLaTEtYzhnM3Y1TExraHlTODV1a1lna3F3T3dIX3Jsa1U4aU9wTnA0QmR5YWM?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OLU81NGtxZFdURGVZbDRxMXZyV0FTS2Y2UFJjb28wa0FlQzhRdHpxWVN6U3ZzYzg4WkNkeXNLR002OGMxUzZUUkgyZTh3VHFLTnpONzVHaDE3SzQ?oc=5",
      "source": "newtalk",
      "source_name": "新頭殼",
      "published": "2026-07-21T10:59:45+08:00",
@@ -7532,7 +7663,7 @@
      "link": "https://news.tvbs.com.tw/life/3263690",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-21T17:44:55+08:00",
+     "published": "2026-07-21T17:36:59+08:00",
      "description": "",
      "category": "life",
      "metadata": {
@@ -7722,115 +7853,6 @@
       },
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    }
-   ]
-  },
-  {
-   "id": "bc1c3f9865dc",
-   "title": "中聯自行放寬黃豆驗收標準10倍 衛福部：增加苯駢芘超標風險",
-   "outlet_count": 5,
-   "outlets": [
-    "mirror",
-    "pts",
-    "setn",
-    "storm",
-    "tvbs"
-   ],
-   "article_count": 5,
-   "first_seen": "2026-07-21T13:51:00+08:00",
-   "last_updated": "2026-07-21T19:59:53+08:00",
-   "tags": [
-    "放寬黃豆熱損",
-    "苯駢芘超標",
-    "中聯"
-   ],
-   "articles": [
-    {
-     "title": "中聯自行放寬黃豆驗收標準10倍 衛福部：增加苯駢芘超標風險",
-     "link": "https://news.pts.org.tw/article/818730",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-07-21T19:59:53+08:00",
-     "description": "衛福部委託第三方單位成立的調查小組，今（21）日前往中聯工廠內展開調查，要釐清這次油品風暴的主因和管理程序，而衛福部也發現到，中聯自去（2025）年起，自行將黃豆熱損傷驗收標準放寬10倍，恐怕增加苯駢芘超標風險。另外，後續推動食安法修法，針對跨轄區的食安事件，會開設「食安事件指揮中心」，而如果業者延遲通報等狀況，最高罰鍰將提高到3000萬。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "追致癌油源頭　爆中聯「放寬黃豆熱損標準10倍」食藥署大動作上門查廠",
-     "link": "https://www.mirrormedia.mg/story/20260721edi035",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-07-21T17:07:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "致癌油元凶抓到了？中聯把黃豆標準「放寬10倍」 石崇良：製油過程也沒確實管制 | 張大任 | 新聞",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE43N0lISlZrVE83c0RxMjlQcW9DREVwVEVmRHFmczNDUGgxaXZndlFoSU85Y0dPNU5Jbk9MVjl0MzdWRXZ4YnoyZ3p6Q2hhZw?oc=5",
-     "source": "storm",
-     "source_name": "風傳媒",
-     "published": "2026-07-21T16:48:41+08:00",
-     "description": "致癌油元凶抓到了？中聯把黃豆標準「放寬10倍」 石崇良：製油過程也沒確實管制 | 張大任 | 新聞  風傳媒",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "衛福部揭中聯製程出包關鍵：私自放寬黃豆熱損率0.5%變5%",
-     "link": "https://news.tvbs.com.tw/health/3263642",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-21T16:44:55+08:00",
-     "description": "",
-     "category": "health",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "health",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "苯駢芘超標問題找到了？姜至剛：中聯私將黃豆熱損率「放寬10倍」",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1zOTJiUGhUazRfbGh2SjFkQ1l2X1A5S0VwUjB2V040RENIcW03cXlQZG5JWGF1ZW5udWd4T3QyaGkwenBkREFCX9IBTEFVX3lxTE5TeHdtX2VaV2w2NVoxemRQWG1zRHNENVB6Vmd3Y2tEclVUMmFnZTlqLVExSFcyYjFjaXcxN1V2Y0xJRG9kS0FRVHZqdzM?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-07-21T13:51:00+08:00",
-     "description": "苯駢芘超標問題找到了？姜至剛：中聯私將黃豆熱損率「放寬10倍」  三立新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -8050,7 +8072,8 @@
    "first_seen": "2026-07-21T01:37:00+08:00",
    "last_updated": "2026-07-21T08:54:58.868592+08:00",
    "tags": [
-    "美國軍人付出",
+    "軍人付出數倍",
+    "要為殺害美國",
     "川普警告伊朗"
    ],
    "articles": [
@@ -8311,7 +8334,7 @@
     },
     {
      "title": "我國取消柬埔寨簽證便利措施 陸外交部批民進黨「脅迫他國」",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nNDZJRm9zNk1fSEhORXNqUHM2U0duNXBtTFpVcmdoRUloNmNvQmVUMWtTYVRndVAzMkhDQUNsSVNWc25ZSUtfR211OTdXTlhf0gFWQVVfeXFMT0ZDcWlOWlJVbVhKeGoxdkdyc2Mtb0x5aXNkcGg4SE9hQlpGMmZGNTFUNlppU1BtVmR0UFhCMmp4dnJldDVJa1RjMWNRRTVMS0JoMWpWTkE?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nNDZJRm9zNk1fSEhORXNqUHM2U0duNXBtTFpVcmdoRUloNmNvQmVUMWtTYVRndVAzMkhDQUNsSVNWc25ZSUtfR211OTdXTlhf?oc=5",
      "source": "udn",
      "source_name": "聯合新聞網",
      "published": "2026-07-20T16:44:06+08:00",
@@ -8328,7 +8351,7 @@
     },
     {
      "title": "我國取消柬埔寨簽證便利措施 陸外交部批民進黨「脅迫他國」",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nNDZJRm9zNk1fSEhORXNqUHM2U0duNXBtTFpVcmdoRUloNmNvQmVUMWtTYVRndVAzMkhDQUNsSVNWc25ZSUtfR211OTdXTlhf?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nNDZJRm9zNk1fSEhORXNqUHM2U0duNXBtTFpVcmdoRUloNmNvQmVUMWtTYVRndVAzMkhDQUNsSVNWc25ZSUtfR211OTdXTlhf0gFWQVVfeXFMT0ZDcWlOWlJVbVhKeGoxdkdyc2Mtb0x5aXNkcGg4SE9hQlpGMmZGNTFUNlppU1BtVmR0UFhCMmp4dnJldDVJa1RjMWNRRTVMS0JoMWpWTkE?oc=5",
      "source": "udn",
      "source_name": "聯合新聞網",
      "published": "2026-07-20T16:44:06+08:00",
@@ -8543,7 +8566,7 @@
    "last_updated": "2026-07-20T13:31:47.475627+08:00",
    "tags": [
     "公寓清晨",
-    "命危送醫搶救",
+    "男命危送醫搶",
     "板橋"
    ],
    "articles": [
@@ -8833,8 +8856,8 @@
    "last_updated": "2026-07-19T12:27:08+08:00",
    "tags": [
     "沒收護照",
-    "伊朗正妹歌手",
-    "被控妨礙風化"
+    "被控妨礙風化",
+    "伊朗正妹歌手"
    ],
    "articles": [
     {
@@ -8927,6 +8950,224 @@
    ]
   },
   {
+   "id": "141fb22751b8",
+   "title": "民雄樂器行廁所裝針孔竊錄未成年 負責人遭嘉檢起訴",
+   "outlet_count": 4,
+   "outlets": [
+    "cna",
+    "ebc",
+    "ltn",
+    "pts"
+   ],
+   "article_count": 5,
+   "first_seen": "2026-07-21T13:21:47+08:00",
+   "last_updated": "2026-07-22T06:36:59.907589+08:00",
+   "tags": [
+    "民雄樂器行",
+    "廁所裝針孔",
+    "公布店名地址"
+   ],
+   "articles": [
+    {
+     "title": "音樂教室廁所裝針孔！涉偷拍16人 檢公布地址",
+     "link": "https://news.ebc.net.tw/news/society/562400",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-22T06:36:59.907589+08:00",
+     "description": "嘉義民雄音樂教室遭查獲廁所裝設2台針孔攝影機，偷拍16名學生如廁，其中10人未成年。檢方依兒少性剝削等罪起訴，並建請從重量刑。",
+     "category": "society",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "society",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "公布店名地址》法界︰防民眾受害 符合比例原則",
+     "link": "https://news.ltn.com.tw/news/society/paper/1763592",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-22T05:30:00+08:00",
+     "description": "〔記者王善嬿／嘉義報導〕嘉義縣民雄鄉「民雄樂器行」負責人劉建宏涉嫌在店內廁所架設針孔攝影機偷拍，遭嘉義地檢署起訴。檢方並罕見公布樂器行店名與地址。法界人士指出，檢方認為公開相關資訊有增進公共利益、避免更多人受害的必要，且所公布內容並非敏感性個人資料，符合比例原則，對此予以肯定。\n\n律師陳澤嘉表示…",
+     "author": "王善嬿",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "王善嬿",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "民雄樂器行 針孔偷拍16人 檢起訴色老闆 罕見公布店名地址",
+     "link": "https://news.ltn.com.tw/news/society/paper/1763591",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-22T05:30:00+08:00",
+     "description": "〔記者丁偉杰、王善嬿／嘉義報導〕嘉義縣民雄鄉中樂村保生街「民雄樂器行」負責人劉建宏涉嫌在店內廁所架設針孔攝影機，偷拍十六名如廁民眾，其中十名為未成年人，檢警今年二月逮捕劉男聲押獲准，並查扣偷拍設備，嘉義地檢署昨天依違反兒童及少年性剝削防制條例、妨害秘密等罪嫌將他起訴，並公布劉男店名與地址。\n\n其…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "廁所裝針孔偷拍16人如廁 嘉義民雄樂器行負責人遭起訴",
+     "link": "https://news.pts.org.tw/article/818629",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-07-21T14:33:49+08:00",
+     "description": "嘉義縣民雄樂器行劉姓負責人因涉嫌於店內廁所裝設針孔攝影機，並偷拍16名前來如廁的民眾，其中還包含10名未成年人受害，嘉義縣地檢署今（21）日宣布偵結，並依違反《兒童及少年性剝削防制條例》及《刑法》妨害秘密等罪對劉男提起公訴。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "民雄樂器行廁所裝針孔竊錄未成年 負責人遭嘉檢起訴",
+     "link": "https://www.cna.com.tw/news/asoc/202607210132.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-21T13:21:47+08:00",
+     "description": "（中央社記者黃國芳嘉義21日電）嘉義縣「民雄樂器行」劉姓負責人被控在樂器行廁所架設針孔攝影機，竊錄16人身體隱私部位及性影像、包括10名未成年；嘉檢偵結，依違反兒童及少年性剝削防制條例等罪嫌起訴。",
+     "author": "黃國芳",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "黃國芳",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/social"
+     }
+    }
+   ]
+  },
+  {
+   "id": "b5abdd9c616d",
+   "title": "美股早盤反彈了！台積電ADR止跌回升　SK海力士飆6%",
+   "outlet_count": 4,
+   "outlets": [
+    "ettoday",
+    "ltn",
+    "nownews",
+    "tvbs"
+   ],
+   "article_count": 5,
+   "first_seen": "2026-07-20T22:00:25+08:00",
+   "last_updated": "2026-07-22T06:06:46+08:00",
+   "tags": [
+    "台積電",
+    "美股早盤",
+    "海力士"
+   ],
+   "articles": [
+    {
+     "title": "美股收盤》晶片股反攻！費半勁揚5.2％ 台積電ADR漲逾5.5％",
+     "link": "https://ec.ltn.com.tw/article/breakingnews/5513187",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-22T06:06:46+08:00",
+     "description": "週二華爾街主要股指收高，半導體股強勁上漲，讓市場焦點從中東衝突和關稅戰轉移開來，投資人也正期待重要科技公司發布財報。道瓊工業指數上漲385.38點、0.74%，標普500指數上漲...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "傳台積電晶片將調漲！帶動ADR大漲逾3%　台指期夜盤再反彈",
+     "link": "https://news.tvbs.com.tw/money/3263957",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-21T22:36:59+08:00",
+     "description": "",
+     "category": "money",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "money",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "美股早盤記憶體嗨了！SK海力士狂飆9%　大摩分析師強力看好",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zNWx3RVRmVlphVlpfaTEwWUVOZXRRYURGeG1wZmk0LW5rWktEUkNtNVdWT0s2WXlGV1QxOW1Xc0ppRDV4VTBmOXdUbzVmakxBYlHSAVJBVV95cUxPMzVsd0VUZlZaYVZaX2kxMFlFTmV0UWFERnhtcGZpNC1ua1pLRFJDbTVXVk9LNll5RldUMTltV3NKaUQ1eFUwZjl3VG81ZmpMQWJR?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-07-21T22:01:33+08:00",
+     "description": "美股早盤記憶體嗨了！SK海力士狂飆9%　大摩分析師強力看好  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "美股開盤4大指數齊漲！台積電ADR「勁揚逾3％」",
+     "link": "https://finance.ettoday.net/news/3205329",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-21T21:57:00+08:00",
+     "description": "美股21日開盤後四大指數齊上漲！截至發稿為止，道瓊工業指數上漲84.32點或0.16％、標普500指數上漲29.16點或0.39％、那斯達克指數上漲196.74點或0.77％、費城半導體指數上漲478.50點或4.07％。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "美股早盤反彈了！台積電ADR止跌回升　SK海力士飆6%",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVbWJTNzBUVHdWU3dldDAxV3Y0eTR5enVtOHpkQlJDOTVrX0V1WUIxa29td2FkWFNCLVBoVGRXUWxseFNza1VRZnFROUhGWkdUU1HSAVJBVV95cUxQVW1iUzcwVFR3VlN3ZXQwMVd2NHk0eXp1bTh6ZEJSQzk1a19FdVlCMWtvbXdhZFhTQi1QaFRkV1FsbHhTc2tVUWZxUTlIRlpHVFNR?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-07-20T22:00:25+08:00",
+     "description": "美股早盤反彈了！台積電ADR止跌回升　SK海力士飆6%  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
    "id": "91ba94bc7363",
    "title": "宜蘭冬山民宅火警  男子救出全身45%燒燙傷",
    "outlet_count": 4,
@@ -8938,7 +9179,7 @@
    ],
    "article_count": 4,
    "first_seen": "2026-07-21T22:26:00+08:00",
-   "last_updated": "2026-07-21T23:44:55+08:00",
+   "last_updated": "2026-07-21T23:36:59+08:00",
    "tags": [
     "宜蘭冬山民宅",
     "宅火警",
@@ -8950,7 +9191,7 @@
      "link": "https://news.tvbs.com.tw/local/3264001",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-21T23:44:55+08:00",
+     "published": "2026-07-21T23:36:59+08:00",
      "description": "",
      "category": "local",
      "metadata": {
@@ -9006,116 +9247,6 @@
      "source_name": "ETtoday",
      "published": "2026-07-21T22:26:00+08:00",
      "description": "宜蘭縣冬山鄉今（21）日晚間發生一起民宅火警！消防局於晚間9時許接獲民眾報案，指稱冬山鄉香城路一處民宅竄出大量濃煙，情況十分緊急，警消火速到場救援，並研判2樓疑似有民眾受困，最後成功於2樓後方救出全身約45%二度燒燙傷但意識模糊、對痛覺尚有反應的38歲林姓男子，並緊急送往羅東博愛醫院進行救治。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    }
-   ]
-  },
-  {
-   "id": "2811537feef9",
-   "title": "伊朗最高領袖：美國違反停火協議　川普簽名一點用都沒有",
-   "outlet_count": 4,
-   "outlets": [
-    "ebc",
-    "ettoday",
-    "ltn",
-    "tvbs"
-   ],
-   "article_count": 5,
-   "first_seen": "2026-07-19T05:33:00+08:00",
-   "last_updated": "2026-07-21T23:10:54+08:00",
-   "tags": [
-    "伊朗最高領袖",
-    "違反停火協議",
-    "川普簽名一"
-   ],
-   "articles": [
-    {
-     "title": "伊朗最高領袖開戰受傷久未露面 總統曝兩人交流日漸增加",
-     "link": "https://news.ltn.com.tw/news/world/breakingnews/5513135",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-21T23:10:54+08:00",
-     "description": "伊朗最高領袖穆吉塔巴（Mojtaba Khamenei）自美伊開戰受傷以來便不曾公開露面，令外界質疑他的健康狀況，不過總統裴澤斯基安（Masoud ​Pezeshkian）今（2...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "伊朗最高領袖批違約 「美將付出沉重代價」",
-     "link": "https://news.ebc.net.tw/news/world/561943",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-19T11:29:07.851339+08:00",
-     "description": "中東戰火持續升級，美國中央司令部證實，有兩名駐約旦美軍遇襲身亡，另有一人失聯。美方為了「懲罰」伊朗，已在周六發動新一輪空襲行動，雙方衝突持續升溫。",
-     "category": "world",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "world",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "美伊停戰協議形同破裂 伊朗最高領袖：川普的簽名毫無價值",
-     "link": "https://news.ltn.com.tw/news/world/breakingnews/5510065",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-19T08:41:11+08:00",
-     "description": "中東戰火再起，美國與伊朗持續互轟，伊朗新任最高領袖穆吉塔巴．哈米尼（Mojtaba Khamenei）18日發表聲明指出，美國一再違反兩國簽署的諒解備忘錄（MOU），這表明川普總...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "嗆美國違反停火協議　伊朗最高領袖：川普簽名一文不值",
-     "link": "https://news.tvbs.com.tw/world/3261433",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-19T06:57:32+08:00",
-     "description": "",
-     "category": "world",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "world",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "伊朗最高領袖：美國違反停火協議　川普簽名一點用都沒有",
-     "link": "https://www.ettoday.net/news/20260719/3203682.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-19T05:33:00+08:00",
-     "description": "伊朗最高領袖穆吉塔巴．哈米尼（Mojtaba Khamenei）18日發表書面聲明，指控美國一再違反由伊朗與美國總統川普簽署的停火諒解備忘錄（MoU），批評川普的簽名「完全一文不值、毫無公信力」，並警告美國若持續升高衝突，伊朗將讓美方付出更沉重代價。\n 《詳全文...》",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -9251,7 +9382,7 @@
    "first_seen": "2026-07-21T14:58:12+08:00",
    "last_updated": "2026-07-21T21:07:00+08:00",
    "tags": [
-    "退費方式一次",
+    "費方式一次看",
     "致癌毒油",
     "商品"
    ],
@@ -9278,7 +9409,7 @@
      "link": "https://news.tvbs.com.tw/life/3263653",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-21T17:44:55+08:00",
+     "published": "2026-07-21T17:36:59+08:00",
      "description": "",
      "category": "life",
      "metadata": {
@@ -9297,7 +9428,7 @@
      "link": "https://news.tvbs.com.tw/life/3263717",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-21T17:44:55+08:00",
+     "published": "2026-07-21T17:36:59+08:00",
      "description": "",
      "category": "life",
      "metadata": {
@@ -9422,7 +9553,7 @@
      "link": "https://news.tvbs.com.tw/life/3263403",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-21T14:44:55+08:00",
+     "published": "2026-07-21T14:36:59+08:00",
      "description": "",
      "category": "life",
      "metadata": {
@@ -9714,7 +9845,7 @@
      "link": "https://news.tvbs.com.tw/world/3263224",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-21T13:44:55+08:00",
+     "published": "2026-07-21T13:36:59+08:00",
      "description": "",
      "category": "world",
      "metadata": {
@@ -9849,97 +9980,6 @@
       "acquisition": "scraper",
       "category": "world",
       "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    }
-   ]
-  },
-  {
-   "id": "5dc0a3237fee",
-   "title": "謝賢4億遺產分好了？港媒報90%林青霞保管　謝霆鋒謝婷婷只能拿5%",
-   "outlet_count": 4,
-   "outlets": [
-    "ltn",
-    "mirror",
-    "nownews",
-    "tvbs"
-   ],
-   "article_count": 4,
-   "first_seen": "2026-07-20T17:13:16+08:00",
-   "last_updated": "2026-07-21T14:43:27+08:00",
-   "tags": [
-    "林青霞保管",
-    "影迷會",
-    "沒合作過"
-   ],
-   "articles": [
-    {
-     "title": "林青霞遭捲謝賢遺產傳聞 影迷會硬起來打臉「是謠言」",
-     "link": "https://ent.ltn.com.tw/news/breakingnews/5512492",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-21T14:43:27+08:00",
-     "description": "〔娛樂頻道／綜合報導〕89歲香港資深影帝謝賢昨（20日）傳出與世長辭，享壽89歲，消息震撼華語影壇。然而，隨著謝賢離世，網路及部分中、港媒體近日卻流傳一則關於其遺產分配的消息，聲稱謝賢將九成財產留給孫...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "謝賢部分遺產給林青霞保管？影迷會狠打臉　嚴正闢謠「完全沒合作過」",
-     "link": "https://news.tvbs.com.tw/entertainment/3263248",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-21T12:13:07+08:00",
-     "description": "",
-     "category": "entertainment",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "entertainment",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "謝賢億元遺產分配大逆轉　傳託付林青霞保管　影迷會怒打臉：壓根沒合作過",
-     "link": "https://www.mirrormedia.mg/story/20260721-187ent-095305",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-07-21T09:53:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "謝賢4億遺產分好了？港媒報90%林青霞保管　謝霆鋒謝婷婷只能拿5%",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Wejl5Qk45SkxjOUJTaFd5MUxTTGppUWtrNkNrNVNjR1FJdkFHWWtzT00xeU9iXzJJdW0tYTZrbURlM2w0UlhsZi1USTbSAVJBVV95cUxQMXFwX3Z4cXplNWxsV1QxeWtVOEI2aDh3VlNnd05PdHIyVTJoc1hVY2VFSHV6WktpVVZVUDF5bDdxN09BWkd1YW5HUWsxRGR5a1dR?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-07-20T17:13:16+08:00",
-     "description": "謝賢4億遺產分好了？港媒報90%林青霞保管　謝霆鋒謝婷婷只能拿5%  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
