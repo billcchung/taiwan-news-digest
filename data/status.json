@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-07-23T15:12:03.344960+08:00",
+ "generated_at": "2026-07-23T17:12:03.599702+08:00",
  "sources": [
   {
    "id": "cna",
    "name": "中央社",
    "ok": true,
-   "count": 78,
+   "count": 79,
    "via_fallback": false,
    "errors": []
   },
@@ -21,7 +21,7 @@
    "id": "udn",
    "name": "聯合新聞網",
    "ok": true,
-   "count": 86,
+   "count": 85,
    "via_fallback": true,
    "errors": []
   },
@@ -53,7 +53,7 @@
    "id": "tvbs",
    "name": "TVBS",
    "ok": true,
-   "count": 597,
+   "count": 664,
    "via_fallback": false,
    "errors": []
   },
@@ -77,15 +77,15 @@
    "id": "mirror",
    "name": "鏡週刊",
    "ok": true,
-   "count": 143,
+   "count": 147,
    "via_fallback": false,
    "errors": []
   },
   {
    "id": "twreporter",
    "name": "報導者",
-   "ok": false,
-   "count": 0,
+   "ok": true,
+   "count": 2,
    "via_fallback": false,
    "errors": []
   },
