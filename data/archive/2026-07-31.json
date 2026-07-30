@@ -1,6 +1,6 @@
 {
  "date": "2026-07-31",
- "generated_at": "2026-07-31T00:51:05.639524+08:00",
+ "generated_at": "2026-07-31T02:50:16.147656+08:00",
  "events": [
   {
    "id": "97b6a391591c",
@@ -21,9 +21,9 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 258,
+   "article_count": 265,
    "first_seen": "2026-07-28T15:36:00+08:00",
-   "last_updated": "2026-07-30T23:59:13+08:00",
+   "last_updated": "2026-07-31T02:50:16.147656+08:00",
    "tags": [
     "熊本",
     "強震"
@@ -95,7 +95,7 @@
     {
      "type": "最大震度",
      "agree": true,
-     "outlet_count": 6,
+     "outlet_count": 4,
      "values": [
       {
        "value": "7",
@@ -103,8 +103,6 @@
         "ETtoday",
         "三立新聞網",
         "公視新聞",
-        "東森新聞",
-        "自由時報",
         "鏡週刊"
        ]
       }
@@ -126,6 +124,95 @@
     }
    ],
    "articles": [
+    {
+     "title": "地震速報！ 07/31 00:58左右   臺東地區發生有感地震",
+     "link": "https://news.ebc.net.tw/news/living/563896",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-31T02:50:16.147656+08:00",
+     "description": "中央氣象署發布， 07/31 00:58左右 ， 臺東地區發生有感地震 。預估震度 3 級以上地區： 花蓮 臺東",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "地牛翻身！0:58 臺東發生規模4.7地震",
+     "link": "https://news.ebc.net.tw/news/living/563897",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-31T02:50:16.147656+08:00",
+     "description": "【地震快訊】 發震時間： 115年7月31日0時58分36秒 中央氣象署發布顯著有感地震最新消息，今(31)日0時58分，發生芮氏規模4.7有感地震，震央位置在",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "台東地震規模4.7　最大震度4級",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5523677",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-31T01:21:03+08:00",
+     "description": "根據中央氣象署最新資訊，31日0時58分發生芮氏規模4.7地震，地震深度20.2公里，震央位於台東縣政府北北東方44.1公里（位於台東縣成功鎮），最大震度台東縣4級。（編輯：楊昭彥）1150...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "南台灣有感！台東成功00:58規模4.7極淺層地震 最大震度4級",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5523672",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-31T01:09:37+08:00",
+     "description": "台東縣成功鎮今天00時58分發生芮氏規模4.7有感地震，最大震度台東縣4級。\n\n地震深度20.2公里\n\n根據中央氣象署資料顯示，今天00時58分在台東縣成功鎮發生芮氏規模...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "快訊》00:58臺東縣成功鎮發生規模4.7有感地震 最大震度臺東縣池上4級",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PUkVjOUpzVURLeUROX0J3Q3JDZjJGMVNoU2RXaF9kcWdmRmM1UmUxY3p3b1k3QlBWdUxiQkVueG84NWhEZnRTWVlJcDVNajBlbFZzRi05SWwyaFk?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-31T01:06:24+08:00",
+     "description": "快訊》00:58臺東縣成功鎮發生規模4.7有感地震 最大震度臺東縣池上4級  newtalk.tw",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
     {
      "title": "媽祖大愛賑災！鹿港天后宮捐熊本縣500萬",
      "link": "https://news.ltn.com.tw/news/life/breakingnews/5523662",
@@ -197,12 +284,12 @@
      }
     },
     {
-     "title": "經濟部：熊本地震台積電部分停工其他廠商暫無影響- 上市櫃",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IZ3hlVUl5Qk5ENEpEOHU3RXRkaC1WdTBXWHFReHVQamJ0RHYxRVktVG5MN2NJSkNEa0F4UHRoNzAzZ0lmSS14Snp5VHJfUndLVFFhbkpQelV1S0VDd1Z0dUhvUW5jV2c3TVE?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-07-30T20:39:36+08:00",
-     "description": "經濟部：熊本地震台積電部分停工其他廠商暫無影響- 上市櫃  旺得富理財網",
+     "title": "強震重創高雄姊妹市康裕成宣布捐50萬日圓賑災| 政治",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzTW9EWDNoRkdjWWFFNzBZSmRsYzB1RGxOREFxUHpKaDV3bzJRUXk1bkxvTG9Yeks3YktwN1haS2NmSGR4eU1vZHNLWUlLOXROWmR2S3ZaMFM4UQ?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-30T22:44:06+08:00",
+     "description": "強震重創高雄姊妹市康裕成宣布捐50萬日圓賑災| 政治  newtalk.tw",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -210,95 +297,7 @@
        "source": "unknown"
       },
       "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "陳其邁捐10萬助熊本！高市府「捐1500萬日圓」：即起受理賑災捐款",
-     "link": "https://news.tvbs.com.tw/politics/3272356",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-30T19:51:05+08:00",
-     "description": "",
-     "category": "politics",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "politics",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "自衛隊增至5100人赴熊本救災　派支援船可供沐浴住宿",
-     "link": "https://www.cna.com.tw/news/aopl/202607300326.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-30T19:12:26+08:00",
-     "description": "（中央社熊本縣30日綜合外電報導）為了因應日本熊本縣28日發生的規模7.1強震，日本防衛大臣小泉進次郎今天表示，自衛隊將派遣可供沐浴、住宿及供餐的支援船前往災區。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
-     }
-    },
-    {
-     "title": "熊本地震高架橋錯位卻沒垮 「防落橋」裝置如何奏效？",
-     "link": "https://news.pts.org.tw/article/820101",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-07-30T19:09:11+08:00",
-     "description": "日本熊本縣28日發生規模7.1地震後，八代市的高架公路路段出現斷面整齊的上下錯位，引發日本網友讚嘆，斷裂的方式正好符合「防落橋」設計。陽明交大土木學系教授林子剛依據現有影像初判，此高架橋下方設有止震塊減少地震時位移，又有「防落拉桿」拉住下墜的橋梁，最後可能剛好卡在維修通道鋼架上，使橋梁並未整段崩塌。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "助日本熊本度難關　高雄市府即日起受理賑災捐款",
-     "link": "https://www.cna.com.tw/news/aloc/202607300313.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-30T18:43:57+08:00",
-     "description": "（中央社記者蔡孟妤高雄30日電）日本熊本近日強震，高雄市政府今天表示，「社會救助金專戶」即日起受理各界賑災捐款，另外市府將捐贈1500萬日圓助熊本災後復原，市長陳其邁則個人捐50萬日圓，盼拋磚引玉。",
-     "author": "蔡孟妤",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "蔡孟妤",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/local"
-     }
-    },
-    {
-     "title": "熊本強震後假消息滿天飛　AI災情影片、假求救文瘋傳",
-     "link": "https://www.cna.com.tw/news/aopl/202607300310.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-30T18:40:51+08:00",
-     "description": "（中央社熊本縣30日綜合外電報導）日本熊本縣28日發生規模7.1強震，日本社群媒體上充斥著虛構的求救訊息，以及各種AI製作的災情假影片，恐干擾救災工作推進。日媒呼籲民眾勿輕信、勿轉傳來源不明的資訊。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -731,7 +730,7 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 101,
+   "article_count": 102,
    "first_seen": "2026-07-28T15:39:53+08:00",
    "last_updated": "2026-07-30T23:02:09.759369+08:00",
    "tags": [
@@ -826,25 +825,6 @@
    ],
    "articles": [
     {
-     "title": "九州新幹線震後停擺！軌道斷裂列車卡高架　乘客「困車廂過夜」",
-     "link": "https://news.tvbs.com.tw/world/3270865",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-30T23:02:09.759369+08:00",
-     "description": "",
-     "category": "world",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "world",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
      "title": "熊本7.1強震！高市府即日起啟動賑災專戶 捐款方式一次看",
      "link": "https://news.ebc.net.tw/news/world/563886",
      "source": "ebc",
@@ -861,6 +841,25 @@
       "acquisition": "scraper",
       "category": "world",
       "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "九州新幹線震後停擺！軌道斷裂列車卡高架　乘客「困車廂過夜」",
+     "link": "https://news.tvbs.com.tw/world/3270865",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-30T23:02:09.759369+08:00",
+     "description": "",
+     "category": "world",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "world",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
      }
     },
     {
@@ -881,12 +880,29 @@
      }
     },
     {
+     "title": "外交部開設日北熊本地震賑災專戶8/1起接受民間捐款協助災區重建| 政治",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iRFRrZ20zaXBSczJmT0dZbDZUc25DQXdzSEd2WDJOQzdkVFRDazJydm5ZSWZ5WmVQRGo0Nm5IaXhzS2syNnNCZjNKQTB0aDFBbjJBVTY3UVRndw?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-30T22:49:58+08:00",
+     "description": "外交部開設日北熊本地震賑災專戶8/1起接受民間捐款協助災區重建| 政治  newtalk.tw",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
      "title": "強震後中斷 九州新幹線熊本以北31日恢復通車 | 國際",
      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QRDB4SkN4M1BXSFFGdVRmdS0zTFpMdlZYWmRLZUdBd1pNWWlJSTVLZG90aW53Mlh0YlhxT3JPTVM1Z3g3TVU4S0dnbG5lVC0yV3pQTlJ1ZlBMWG8?oc=5",
      "source": "newtalk",
      "source_name": "新頭殼",
      "published": "2026-07-30T20:59:43+08:00",
-     "description": "強震後中斷 九州新幹線熊本以北31日恢復通車 | 國際  Newtalk新聞",
+     "description": "強震後中斷 九州新幹線熊本以北31日恢復通車 | 國際  newtalk.tw",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -984,23 +1000,6 @@
       },
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/rsscna/politics"
-     }
-    },
-    {
-     "title": "熊本強震搜救與時間賽跑  家屬守候瓦礫前盼奇蹟",
-     "link": "https://news.ltn.com.tw/news/world/breakingnews/5523122",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-30T16:48:38+08:00",
-     "description": "日本熊本縣28日下午發生規模7.1強震，搜救工作持續與時間賽跑。倒塌的建築、滿地瓦礫間，警消人員日夜搜尋失聯者；封鎖線外，一張張焦急等待的面孔默默守候著親人的消息。\n\n「讀賣新聞」報導，...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
      }
     }
    ]
@@ -1244,7 +1243,7 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 101,
+   "article_count": 102,
    "first_seen": "2026-07-28T17:49:00+08:00",
    "last_updated": "2026-07-30T22:11:00+08:00",
    "tags": [
@@ -1823,7 +1822,7 @@
     },
     {
      "title": "韋淳祐仿賴清德聲音遭送辦國民黨：願提供律師協助| 政治",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12STFOVWNRa0IyWmFzLXpaMkVlV3RmcWVoUzRPOC14YU85VHNZOUxPMV9idE9sdWJDMGdNNGxDOGwtQnlQOG1XZ2pCaTdSdEpWby1Mc1dBWmdCeE9uN3FOczkySQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41U3V2QTRfWHlQandadkgzQXowVUk3R2cxVW9lUTkxRzdoWjJSUEFrMTIzUEZhNU9FZTJ3a3hKQ0ZDbDFiSHd0TW00cTVmeVZCWm8xdTZCOG5zNE0?oc=5",
      "source": "newtalk",
      "source_name": "新頭殼",
      "published": "2026-07-29T15:58:36+08:00",
@@ -1840,7 +1839,7 @@
     },
     {
      "title": "韋淳祐仿賴清德聲音遭送辦國民黨：願提供律師協助| 政治",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41U3V2QTRfWHlQandadkgzQXowVUk3R2cxVW9lUTkxRzdoWjJSUEFrMTIzUEZhNU9FZTJ3a3hKQ0ZDbDFiSHd0TW00cTVmeVZCWm8xdTZCOG5zNE0?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12STFOVWNRa0IyWmFzLXpaMkVlV3RmcWVoUzRPOC14YU85VHNZOUxPMV9idE9sdWJDMGdNNGxDOGwtQnlQOG1XZ2pCaTdSdEpWby1Mc1dBWmdCeE9uN3FOczkySQ?oc=5",
      "source": "newtalk",
      "source_name": "新頭殼",
      "published": "2026-07-29T15:58:36+08:00",
@@ -2462,7 +2461,7 @@
      "source": "newtalk",
      "source_name": "新頭殼",
      "published": "2026-07-30T18:47:56+08:00",
-     "description": "民主國家解散政黨案例曝光國安人士：解散統促黨才能讓國人安心| 政治  Newtalk新聞",
+     "description": "民主國家解散政黨案例曝光國安人士：解散統促黨才能讓國人安心| 政治  newtalk.tw",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -2522,6 +2521,200 @@
       },
       "acquisition": "rss",
       "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    }
+   ]
+  },
+  {
+   "id": "aa0508085d51",
+   "title": "嫌疑犯X的獻身 娛樂關鍵字",
+   "outlet_count": 9,
+   "outlets": [
+    "chinatimes",
+    "ebc",
+    "ettoday",
+    "ltn",
+    "mirror",
+    "nownews",
+    "setn",
+    "storm",
+    "tvbs"
+   ],
+   "article_count": 185,
+   "first_seen": "2026-07-28T03:03:17+08:00",
+   "last_updated": "2026-07-31T00:18:56+08:00",
+   "tags": [
+    "娛樂關鍵字"
+   ],
+   "articles": [
+    {
+     "title": "阿西師 娛樂關鍵字",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBLWlJyUV9vYURUMDBva2Vic1ZuWGxtNjNzek5qT2FNbWF4bndEWEFkSmNzZVl3SzNUUzJ4QU1wT2xuVkNRdnZSXw?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-07-31T00:18:56+08:00",
+     "description": "阿西師 娛樂關鍵字  三立娛樂星聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "薩卡 娛樂關鍵字",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9pamZQR0pfWDFuMm5nMGE2aHV5R0wtNmxMd2tIamQwV3ptamtKQVpNWEdSUlZkV0I3NFN0MGlrWktzTGh4WFJuTQ?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-07-31T00:17:19+08:00",
+     "description": "薩卡 娛樂關鍵字  三立娛樂星聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "謝金融 娛樂關鍵字",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1sUUJCUUlMMlBSM0RzMngwTXlfLTNfWXZ2NHVJV2lDRGR4WGRoMXFxLXdEX2FldkxnSm1rWnkxdURPVG1qbUluSA?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-07-31T00:16:21+08:00",
+     "description": "謝金融 娛樂關鍵字  三立娛樂星聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "郭禮伯 娛樂關鍵字",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0wc252d0tKeGhxbEdYUG90R01CalV4bEZrNWp3Vk14VkhRa1dzUFY0a0hpeFF2T09JWVBNbi0xX203MnJGZTBPMg?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-07-31T00:15:13+08:00",
+     "description": "郭禮伯 娛樂關鍵字  三立娛樂星聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "DNA 鑑定 娛樂關鍵字",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBqY1IxZTNHMnd6cmducUt0dnhlUVNQN0ZVYWJqWlNUZlBZazFlY05ac0pKQ2VCVW1vbWdibGxTdERFeEstN09HaA?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-07-31T00:14:56+08:00",
+     "description": "DNA 鑑定 娛樂關鍵字  三立娛樂星聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "莫妮塔 娛樂關鍵字",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBVQUVxRzlsY0FTVzhTU1E0ZEVzRU81WE40MlVsYmlqZDhhaGRLSjVPck51T29TZkJHMXdUc0RRVW5Ea3NzTmJRLQ?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-07-31T00:04:31+08:00",
+     "description": "莫妮塔 娛樂關鍵字  三立娛樂星聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "潭子 娛樂關鍵字",
+     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBVS25aUHl2ZVk2Y1pHSU9CZkVxUVhERzNQOG9oZnBLZi1HUW5MZ1Y0b01KSlJuUlBZdC14V2QtX0pSeWdJQ3Rv?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-07-30T23:30:03+08:00",
+     "description": "潭子 娛樂關鍵字  三立娛樂星聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "馬斯克（ElonMusk 娛樂關鍵字 | 娛樂星聞 STAR.SETN.COM",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1YYXgyT2FIRTlTUkVpWU5zb3ZOMzBZZ1ZPZk5tSnhfMFNWcnFndldTbVUtd09WTTduTlZXY0djX3JfY0NiVHRGTw?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-07-30T23:28:47+08:00",
+     "description": "馬斯克（ElonMusk 娛樂關鍵字 | 娛樂星聞 STAR.SETN.COM  三立娛樂星聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "賀喜遙香 娛樂關鍵字",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9SVDRnMmNMMkhCNU5CX3JtMnlkUmllT01jRlVUVTlSWW5udjVqbF9DUWxWTlBIdWpVNTlPcHRfTjVOYXAtWGMzVA?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-07-30T23:02:11+08:00",
+     "description": "賀喜遙香 娛樂關鍵字  三立娛樂星聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "國安團隊 娛樂關鍵字",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE83b3RkYUdCSDFtTWV1TXFxc2QtbGpuSnFZWGExWlY1MlN1S0E0RlFFQlFTcDdCdndqd3l1Mml4Z2NRMlhNdWJ4Nw?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-07-30T22:29:51+08:00",
+     "description": "國安團隊 娛樂關鍵字  三立娛樂星聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -3609,13 +3802,13 @@
     "storm",
     "tvbs"
    ],
-   "article_count": 14,
+   "article_count": 15,
    "first_seen": "2026-07-28T09:36:08+08:00",
    "last_updated": "2026-07-30T21:39:06+08:00",
    "tags": [
     "白海豚",
-    "強颱",
-    "路徑"
+    "路徑",
+    "強颱"
    ],
    "articles": [
     {
@@ -3652,6 +3845,23 @@
       "acquisition": "scraper",
       "category": "life",
       "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "明天天氣／飆36度高溫！2區迎降雨 「白海豚逼近」最新路徑曝",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE55OEFkZ2FXX3JMb2xiRjMzdFZUTHRIQkliSm9Na01vbGlxbF9hU05BZE1WaFowSEp4VWhjNnhNUi00ZkhzTHgwZUdWX1h3dw?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-30T19:03:00+08:00",
+     "description": "明天天氣／飆36度高溫！2區迎降雨 「白海豚逼近」最新路徑曝  TVBS新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
@@ -3775,23 +3985,6 @@
       "acquisition": "scraper",
       "category": "life",
       "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "颱風白海豚挑戰風王寶座！今高溫飆36度　午後雷雨一路到下週",
-     "link": "https://www.mirrormedia.mg/story/20260729edi007",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-07-29T09:54:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
      }
     }
    ]
@@ -4286,7 +4479,7 @@
      "source": "newtalk",
      "source_name": "新頭殼",
      "published": "2026-07-30T11:30:55+08:00",
-     "description": "白海豚昨晚升級為強颱！賈新興：路徑南修是否侵台「這天」是關鍵| 生活  Newtalk新聞",
+     "description": "白海豚昨晚升級為強颱！賈新興：路徑南修是否侵台「這天」是關鍵| 生活  newtalk.tw",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -4437,7 +4630,7 @@
     "storm",
     "tvbs"
    ],
-   "article_count": 12,
+   "article_count": 13,
    "first_seen": "2026-07-28T17:49:28+08:00",
    "last_updated": "2026-07-30T22:07:09+08:00",
    "tags": [
@@ -4463,6 +4656,23 @@
       "acquisition": "scraper",
       "category": "life",
       "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "白海豚不轉彎了！高壓太強勢最新路徑「一路向西」 專家揭對台影響- 生活",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAybFhKVUswVUtPdDN4TDhWTndWYm9HUFd4SkFBVGE0VmM1NXBCdWtkOHRGNUZHRlhnejRUTjlCZ0Z2c004Vk1SbHhKRE81U2U1N1Nsd0JidjZpSU9wakxxaHByWk12RHBNMlVqWGV3?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-07-30T22:00:46+08:00",
+     "description": "白海豚不轉彎了！高壓太強勢最新路徑「一路向西」 專家揭對台影響- 生活  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
@@ -4604,25 +4814,6 @@
       "acquisition": "rss",
       "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
      }
-    },
-    {
-     "title": "天氣／白海豚爆發性增強「挑戰今年風王」　吳德榮：對台暫無威脅",
-     "link": "https://news.tvbs.com.tw/life/3270515",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-29T07:39:24+08:00",
-     "description": "",
-     "category": "life",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
     }
    ]
   },
@@ -4723,7 +4914,7 @@
      "source": "newtalk",
      "source_name": "新頭殼",
      "published": "2026-07-30T17:42:20+08:00",
-     "description": "苦茶油「苯駢芘」超標下架回收！食藥署查廠永豐餘生技：全力配合釐清原因| 生活  Newtalk新聞",
+     "description": "苦茶油「苯駢芘」超標下架回收！食藥署查廠永豐餘生技：全力配合釐清原因| 生活  newtalk.tw",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -4955,7 +5146,7 @@
      "source": "newtalk",
      "source_name": "新頭殼",
      "published": "2026-07-30T14:05:02+08:00",
-     "description": "拓寬農路涉圖利台東縣農業處長許家豪20萬元交保| 社會  Newtalk新聞",
+     "description": "拓寬農路涉圖利台東縣農業處長許家豪20萬元交保| 社會  newtalk.tw",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -5155,7 +5346,7 @@
      "source": "udn",
      "source_name": "聯合新聞網",
      "published": "2026-07-30T10:37:48+08:00",
-     "description": "強颱白海豚前進中 下周朝日本九州、台灣北部海面之間移動  UDN",
+     "description": "強颱白海豚前進中 下周朝日本九州、台灣北部海面之間移動  udn.com",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -5309,7 +5500,7 @@
      "source": "newtalk",
      "source_name": "新頭殼",
      "published": "2026-07-30T18:00:16+08:00",
-     "description": "台達電法說》AI營收占比突破25%！400V、800V新品Q3量產鄭平：放量等明年| 財經  Newtalk新聞",
+     "description": "台達電法說》AI營收占比突破25%！400V、800V新品Q3量產鄭平：放量等明年| 財經  newtalk.tw",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -5362,7 +5553,7 @@
      "source": "newtalk",
      "source_name": "新頭殼",
      "published": "2026-07-30T17:07:08+08:00",
-     "description": "台達電法說》AI建置潮短期不會停！全年資本支出衝700億元鄭平：不能等訂單來才蓋廠| 財經  Newtalk新聞",
+     "description": "台達電法說》AI建置潮短期不會停！全年資本支出衝700億元鄭平：不能等訂單來才蓋廠| 財經  newtalk.tw",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -5488,7 +5679,7 @@
      "source": "newtalk",
      "source_name": "新頭殼",
      "published": "2026-07-30T18:02:20+08:00",
-     "description": "林雪峰違《反滲透法》判刑4年定讞梁文傑：該判決有重大影響| 政治  Newtalk新聞",
+     "description": "林雪峰違《反滲透法》判刑4年定讞梁文傑：該判決有重大影響| 政治  newtalk.tw",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -5677,7 +5868,7 @@
    "last_updated": "2026-07-30T17:04:00+08:00",
    "tags": [
     "獲利",
-    "海力士",
+    "預期",
     "新高"
    ],
    "articles": [
@@ -5822,12 +6013,12 @@
      }
     },
     {
-     "title": "韓國SK海力士集團相關報導",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE55T3JkVUlGaU9JU3BNR1RKTXVaelV1Sjg0dWdSRG1nUGxLcF83T0g0MG5uZXMtRFJUMmQ3R0hrbi1TSDltSTZ1bw?oc=5",
+     "title": "日月光大飯店集團相關報導",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5FU3BaT1htLWlyMDRJR2lZQk1BbzE4cmRsbGFvRk8zREFmUXdKZFNTaGo3Wkl6Z3hYNzVnUnJKcUgtcUluRmpxbg?oc=5",
      "source": "setn",
      "source_name": "三立新聞網",
-     "published": "2026-07-29T15:50:12+08:00",
-     "description": "韓國SK海力士集團相關報導  三立新聞",
+     "published": "2026-07-29T15:54:48+08:00",
+     "description": "日月光大飯店集團相關報導  三立新聞網SETN.com",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -5839,22 +6030,20 @@
      }
     },
     {
-     "title": "SK海力士財報創新高也沒用！股價一個月崩4成　法人揭3大關鍵",
-     "link": "https://news.tvbs.com.tw/world/3270998",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-29T15:36:45+08:00",
-     "description": "",
-     "category": "world",
+     "title": "韓國SK海力士集團相關報導",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE55T3JkVUlGaU9JU3BNR1RKTXVaelV1Sjg0dWdSRG1nUGxLcF83T0g0MG5uZXMtRFJUMmQ3R0hrbi1TSDltSTZ1bw?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-07-29T15:50:12+08:00",
+     "description": "韓國SK海力士集團相關報導  三立新聞網SETN.com",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "scraper",
-      "category": "world",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -5971,7 +6160,7 @@
      "source": "newtalk",
      "source_name": "新頭殼",
      "published": "2026-07-30T12:28:02+08:00",
-     "description": "藍禮讓5席不分區共拚倒閣？民眾黨團批：別不具名放話吃豆腐、測風向| 政治  Newtalk新聞",
+     "description": "藍禮讓5席不分區共拚倒閣？民眾黨團批：別不具名放話吃豆腐、測風向| 政治  newtalk.tw",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -6302,9 +6491,9 @@
     "storm",
     "tvbs"
    ],
-   "article_count": 18,
+   "article_count": 17,
    "first_seen": "2026-07-28T09:16:00+08:00",
-   "last_updated": "2026-07-30T13:20:19.474965+08:00",
+   "last_updated": "2026-07-30T11:18:54+08:00",
    "tags": [
     "台股"
    ],
@@ -6328,25 +6517,6 @@
     }
    ],
    "articles": [
-    {
-     "title": "SK海力士財報不如預期引爆賣壓　盤中重挫逾10%　三星電子也翻黑",
-     "link": "https://news.tvbs.com.tw/world/3270737",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-30T13:20:19.474965+08:00",
-     "description": "",
-     "category": "world",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "world",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
     {
      "title": "40K攻防戰！哪些股票該抱、哪些該砍？專家盤點名單一次看| 財經",
      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4V3RyNHh6QWlxZEtERGU0czRPUFZxbEJxd3dadkk0eGFlYk5vVmJWZU1xN0FZRTFNR1htTGUzbmpxM0JFckV3Wnlucld4VUZ0aHlJZV9NTFlxMVk?oc=5",
@@ -6508,6 +6678,23 @@
       "acquisition": "scraper",
       "category": "money",
       "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "0050跌到97元能買嗎，史上最大分割確定？網傳下月「1變X」 元大投信給答案了 | 李瑋萱 | 新聞",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4xcGlMbDdnZ2hqZThsZF9ySkhtMGx4NnB5RDBqTnNHTXE4ZjRscUxiR1JOSHFuWkdRR1QyWFFBTUFaNGxubXRpTm5SZWhjdw?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-07-28T15:59:36+08:00",
+     "description": "0050跌到97元能買嗎，史上最大分割確定？網傳下月「1變X」 元大投信給答案了 | 李瑋萱 | 新聞  風傳媒",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -6873,197 +7060,6 @@
    ]
   },
   {
-   "id": "a7be97d9fa5c",
-   "title": "東野圭吾過世 娛樂關鍵字",
-   "outlet_count": 6,
-   "outlets": [
-    "ebc",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "nownews",
-    "setn"
-   ],
-   "article_count": 172,
-   "first_seen": "2026-07-28T01:34:55+08:00",
-   "last_updated": "2026-07-30T23:02:11+08:00",
-   "tags": [
-    "娛樂關鍵字"
-   ],
-   "articles": [
-    {
-     "title": "賀喜遙香 娛樂關鍵字",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9SVDRnMmNMMkhCNU5CX3JtMnlkUmllT01jRlVUVTlSWW5udjVqbF9DUWxWTlBIdWpVNTlPcHRfTjVOYXAtWGMzVA?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-07-30T23:02:11+08:00",
-     "description": "賀喜遙香 娛樂關鍵字  三立娛樂星聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "國安團隊 娛樂關鍵字",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE83b3RkYUdCSDFtTWV1TXFxc2QtbGpuSnFZWGExWlY1MlN1S0E0RlFFQlFTcDdCdndqd3l1Mml4Z2NRMlhNdWJ4Nw?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-07-30T22:29:51+08:00",
-     "description": "國安團隊 娛樂關鍵字  三立娛樂星聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "道瓊指數 娛樂關鍵字",
-     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5WUFFXU3M0X0Fway0xX3hLVnJfRV8xYmdrYXBCek9ZN2V4cEF1OV9qVlAxbnViU0RaUDF2RmE5WDN2UDdJ?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-07-30T21:56:50+08:00",
-     "description": "道瓊指數 娛樂關鍵字  三立娛樂星聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "請柬 娛樂關鍵字",
-     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBiczlBRS1VVmJIcVZEeHpoanAwajIzSHVlVk9rY0dLeHA4dlY3NVhzRXc3YzJJSnk5NDdQdTZab2JvZnRHUTV3?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-07-30T21:31:22+08:00",
-     "description": "請柬 娛樂關鍵字  三立娛樂星聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "Georgina Rodríguez 娛樂關鍵字 | 娛樂星聞 STAR.SETN.COM",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0yYUxIUTdKVVRHZ0ZmQk4ySkFPUXhiQkN2ZzZVVDdwQ21ySVJXOEN4Z3VXSFV4Wl91Q0htOWdENElaLXo2bEJjaQ?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-07-30T21:29:47+08:00",
-     "description": "Georgina Rodríguez 娛樂關鍵字 | 娛樂星聞 STAR.SETN.COM  三立娛樂星聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "GEZAN 娛樂關鍵字 | 娛樂星聞 STAR.SETN.COM",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9uTVlSV1piLXFDRmEzN1hHbk5XcVkwd25scGJ4enJZSk1VVHo2SXVjTFVIaXRFdTlCcFlXamo0UGxuS1lWYkd5bA?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-07-30T20:29:39+08:00",
-     "description": "GEZAN 娛樂關鍵字 | 娛樂星聞 STAR.SETN.COM  三立娛樂星聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "MahiTo The People 娛樂關鍵字 | 娛樂星聞 STAR.SETN.COM",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE15WXREWGJPbjdjZnZlYlNnTnlRblNuR0xlZzVTWkxiTnA2NkxRNUV5ZmI1TU1wT3hBbkFNVlNNbm5HUVAzdTNYYg?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-07-30T20:29:05+08:00",
-     "description": "MahiTo The People 娛樂關鍵字 | 娛樂星聞 STAR.SETN.COM  三立娛樂星聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "可愛CP 娛樂關鍵字 | 娛樂星聞 STAR.SETN.COM",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE12NDNvLVFsQU5zSzFzNEZsU1pXVmZJME1LQldGR3Z3QmZYZnVMZi1FVDFQQ3ZuZzQ0SXQ1aDQtWkJFUVBlaTJmUg?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-07-30T19:45:14+08:00",
-     "description": "可愛CP 娛樂關鍵字 | 娛樂星聞 STAR.SETN.COM  三立娛樂星聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "SHarK米爾艾力 娛樂關鍵字",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5HMWk1YVpfZjZsUTc2MXoxRHk1LXI1RHAxeGp5T2kwT25sQVBkNHZiTDFpMG5IT05PVlU1bWVpMWU5enhCNVZtbw?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-07-30T19:31:14+08:00",
-     "description": "SHarK米爾艾力 娛樂關鍵字  三立娛樂星聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "換位 娛樂關鍵字",
-     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBrMWVTVmd5WFBWZWZYcUluZWg1VFV0enFObUVOYUhEdFQwSmswcGtOYmt5VDRxZkJRakx4c3dJdktIUklhUldZ?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-07-30T19:06:38+08:00",
-     "description": "換位 娛樂關鍵字  三立娛樂星聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
    "id": "26f597d727f9",
    "title": "政院核定西拉雅為原住民第17族　平埔族首例、8月中起可登記身分",
    "outlet_count": 6,
@@ -7143,7 +7139,7 @@
      "source": "newtalk",
      "source_name": "新頭殼",
      "published": "2026-07-30T17:19:05+08:00",
-     "description": "西拉雅族正名成第17族！ 賴瑞隆：落實台灣基本族群正義| 政治  Newtalk新聞",
+     "description": "西拉雅族正名成第17族！ 賴瑞隆：落實台灣基本族群正義| 政治  newtalk.tw",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -7557,11 +7553,11 @@
     },
     {
      "title": "李四川將樹林鐵路地下化困難推中央 蘇競辦：開芭樂票還要中央幫你實現？",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VSUFfTVRxQS1Xb2YtWmFKLWFpNkZacjB5THF0TXJaY3NzR25BSlIzYmhaSS1fOVFlaWUxdFB3LWhJX2xGZFlLcXExWFU1TXU0TGdYeXM2VndUcjQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qajE0eXhXcEw1dS1GbnFRdVhDS042R3ZKWGRLVmVLS1k0eEYyRjRJVmZ2THV4enlwSFFFTFppV1dUTzkwUzQtTVRUWGwzc0RsdUc3WUp2bTlqYmhpN1Zzd2prMA?oc=5",
      "source": "newtalk",
      "source_name": "新頭殼",
      "published": "2026-07-28T21:21:16+08:00",
-     "description": "李四川將樹林鐵路地下化困難推中央 蘇競辦：開芭樂票還要中央幫你實現？  Newtalk新聞",
+     "description": "李四川將樹林鐵路地下化困難推中央 蘇競辦：開芭樂票還要中央幫你實現？  stage.newtalk.tw",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -7574,11 +7570,11 @@
     },
     {
      "title": "李四川將樹林鐵路地下化困難推中央 蘇競辦：開芭樂票還要中央幫你實現？",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qajE0eXhXcEw1dS1GbnFRdVhDS042R3ZKWGRLVmVLS1k0eEYyRjRJVmZ2THV4enlwSFFFTFppV1dUTzkwUzQtTVRUWGwzc0RsdUc3WUp2bTlqYmhpN1Zzd2prMA?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VSUFfTVRxQS1Xb2YtWmFKLWFpNkZacjB5THF0TXJaY3NzR25BSlIzYmhaSS1fOVFlaWUxdFB3LWhJX2xGZFlLcXExWFU1TXU0TGdYeXM2VndUcjQ?oc=5",
      "source": "newtalk",
      "source_name": "新頭殼",
      "published": "2026-07-28T21:21:16+08:00",
-     "description": "李四川將樹林鐵路地下化困難推中央 蘇競辦：開芭樂票還要中央幫你實現？  stage.newtalk.tw",
+     "description": "李四川將樹林鐵路地下化困難推中央 蘇競辦：開芭樂票還要中央幫你實現？  Newtalk新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -8276,7 +8272,7 @@
      "source": "newtalk",
      "source_name": "新頭殼",
      "published": "2026-07-29T17:41:49+08:00",
-     "description": "前政委楊珍妮遭監院彈劾移送懲戒法院政院：予以尊重| 政治  Newtalk新聞",
+     "description": "前政委楊珍妮遭監院彈劾移送懲戒法院政院：予以尊重| 政治  newtalk.tw",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -8361,8 +8357,8 @@
    ]
   },
   {
-   "id": "f677934a50c9",
-   "title": "大樂透頭獎9.1億1注獨得！台北市誕生幸運兒　中獎彩券行曝",
+   "id": "533b78f34d3c",
+   "title": "超幸運！大樂透頭獎1注獨得9.1億  獎落這個縣市",
    "outlet_count": 6,
    "outlets": [
     "ebc",
@@ -8509,20 +8505,20 @@
      }
     },
     {
-     "title": "超幸運！大樂透頭獎1注獨得9.1億  獎落這個縣市",
-     "link": "https://ec.ltn.com.tw/article/breakingnews/5520963",
-     "source": "ltn",
-     "source_name": "自由時報",
+     "title": "大樂透頭獎9.1億1注獨得！台北市誕生幸運兒　中獎彩券行曝",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBvZTdSWk1WOXBxVGdtRHQzVUc0RS1MVjZVY1Fabi1zYk5mZHUtSU9PdDhtaUp4X3AwYVFybGdLZ2l1aDcyRzRPUmJMaHnSAVJBVV95cUxPWlJWTWUyamMwWmhGeWZDUTBCNzVCN29URERUTFFIbHU5ZFp2dFBYclk5ZUx1aG53S0c2R0pManJqWGZScl9vb3hVYXZra1I2ZlJn?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
      "published": "2026-07-28T22:00:00+08:00",
-     "description": "大樂透頭獎連22摃後，終於開出大獎！今晚（28日）開獎的大樂透，頭獎1注中獎，獨得獎金9.1億元，為大樂透第5屆最高頭獎總獎金，頭獎由台北市松山區撫遠街339號「恆發彩券...…",
+     "description": "快訊／大樂透頭獎9.1億1注獨得！台北市誕生幸運兒　中獎彩券行曝  NOWnews今日新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
@@ -8543,20 +8539,20 @@
      }
     },
     {
-     "title": "大樂透頭獎9.1億1注獨得！台北市誕生幸運兒　中獎彩券行曝",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBvZTdSWk1WOXBxVGdtRHQzVUc0RS1MVjZVY1Fabi1zYk5mZHUtSU9PdDhtaUp4X3AwYVFybGdLZ2l1aDcyRzRPUmJMaHnSAVJBVV95cUxPWlJWTWUyamMwWmhGeWZDUTBCNzVCN29URERUTFFIbHU5ZFp2dFBYclk5ZUx1aG53S0c2R0pManJqWGZScl9vb3hVYXZra1I2ZlJn?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
+     "title": "超幸運！大樂透頭獎1注獨得9.1億  獎落這個縣市",
+     "link": "https://ec.ltn.com.tw/article/breakingnews/5520963",
+     "source": "ltn",
+     "source_name": "自由時報",
      "published": "2026-07-28T22:00:00+08:00",
-     "description": "快訊／大樂透頭獎9.1億1注獨得！台北市誕生幸運兒　中獎彩券行曝  NOWnews今日新聞",
+     "description": "大樂透頭獎連22摃後，終於開出大獎！今晚（28日）開獎的大樂透，頭獎1注中獎，獨得獎金9.1億元，為大樂透第5屆最高頭獎總獎金，頭獎由台北市松山區撫遠街339號「恆發彩券...…",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
      }
     }
    ]
@@ -8763,7 +8759,7 @@
    "tags": [
     "自由參加",
     "國民黨",
-    "動員"
+    "凱道"
    ],
    "articles": [
     {
@@ -9055,6 +9051,134 @@
    ]
   },
   {
+   "id": "0bf0b1db3486",
+   "title": "「泰山賣全家」爆內線　前、現任董事長遭17路搜索",
+   "outlet_count": 5,
+   "outlets": [
+    "ebc",
+    "ettoday",
+    "ltn",
+    "mirror",
+    "tvbs"
+   ],
+   "article_count": 6,
+   "first_seen": "2026-07-30T17:48:00+08:00",
+   "last_updated": "2026-07-31T01:12:03+08:00",
+   "tags": [
+    "內線交易",
+    "現任董事長",
+    "泰山賣全家"
+   ],
+   "articles": [
+    {
+     "title": "涉內線交易　泰山前、現任董事長各50萬交保",
+     "link": "https://news.ltn.com.tw/news/society/breakingnews/5523675",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-31T01:12:03+08:00",
+     "description": "泰山企業4年前處分全家股份，於重訊發布前疑涉內線交易。北檢30日搜索17處，並約談泰山集團前董事長詹仁道、現任董事長劉偉龍等人，訊後諭令詹、劉各50萬元交保，其餘人請回。\n\n民國111年12...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "「泰山賣全家」內線案揭詹家內鬨　Faye父親首度現身北檢",
+     "link": "https://www.ettoday.net/news/20260730/3210655.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-30T21:31:00+08:00",
+     "description": "食品大廠泰山公司(1218)在4年前公告賣掉持有的全家公司股票，但長期經營泰山的詹氏家族疑似在重大訊息公布前禁止交易期間，分別在市場上或洽特定人買賣自家股票，涉嫌《證交法》內線交易罪，台北地檢署30日指揮調查局搜索並約談11名被告到案，包括鮮少曝光的詹家二代、藝人Faye父親詹仁謙。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "泰山公司疑內線交易！前、現任董事長遭約談",
+     "link": "https://news.ebc.net.tw/news/society/563864",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-30T19:01:16.046987+08:00",
+     "description": "泰山公司高層疑涉內線交易，檢調17路搜索約談多名被告與證人，案情持續調查中。",
+     "category": "society",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "society",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "泰山賣全家爆內線交易！北檢兵分17路搜查　前後任董座等11人遭約談",
+     "link": "https://www.mirrormedia.mg/story/20260730edi037",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-07-30T18:28:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "泰山經營權之爭爆金雞母「全家」內線交易　檢調17路搜索約談",
+     "link": "https://news.tvbs.com.tw/local/3272205",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-30T17:51:05+08:00",
+     "description": "",
+     "category": "local",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "local",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "「泰山賣全家」爆內線　前、現任董事長遭17路搜索",
+     "link": "https://www.ettoday.net/news/20260730/3210577.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-30T17:48:00+08:00",
+     "description": "深陷中聯致癌油風暴的泰山公司在2022年間因經營權之爭，決議賣掉持有的全家公司股票，但泰山高層疑似在重大訊息公布前，分別在市場上或洽特定人買、賣泰山股票，涉嫌內線交易，台北地檢署30日指揮調查局兵分17路，搜索泰山前、現任董事長等人住處及公司，同步約談當年參與決策者共11名被告、4名證人到案釐清。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    }
+   ]
+  },
+  {
    "id": "7687f959bb81",
    "title": "新聞分類總覽 - 2026-07-28",
    "outlet_count": 5,
@@ -9065,7 +9189,7 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 22,
+   "article_count": 24,
    "first_seen": "2026-07-28T05:56:28+08:00",
    "last_updated": "2026-07-31T00:05:04+08:00",
    "tags": [],
@@ -9076,7 +9200,7 @@
      "source": "newtalk",
      "source_name": "新頭殼",
      "published": "2026-07-31T00:05:04+08:00",
-     "description": "新聞分類總覽 - 2026-07-31  Newtalk新聞",
+     "description": "新聞分類總覽 - 2026-07-31  newtalk.tw",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -9085,6 +9209,40 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "天氣/白海豚長胖挑戰今年風王路徑南修恐通過北部海域｜TVBS新聞 @TVBSNEWS01│TVBS新聞網",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zZ0l0Zk1lWEhqbXZBa0xmZE9rSDFPZjk4bXZFR0ZqVHhjN0loYXJQQmRZY3FDbGlSZzBmNmVBVERuYWNjcVE1bDNJdHc2dTdDendDWXdxa3c?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-30T19:28:04+08:00",
+     "description": "天氣/白海豚長胖挑戰今年風王路徑南修恐通過北部海域｜TVBS新聞 @TVBSNEWS01│TVBS新聞網  TVBS新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "天氣/超強颱「白海豚」尚遠 本週高溫+午後雷雨｜氣象主播 吳軒彤｜TVBS氣象站｜TVBS新聞20260730 @TVBSNEWS01",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwUnJ1Mjd5b05zSkY1ZTVLTExFZm52a28yMmwza0VUV1A1N0xMZjBUQUd5TUx6S181Vm9lamVDNV91WXoySm5PQ3JNNnFoQzc5OXpCNVRQeV8?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-30T18:29:53+08:00",
+     "description": "天氣/超強颱「白海豚」尚遠 本週高溫+午後雷雨｜氣象主播 吳軒彤｜TVBS氣象站｜TVBS新聞20260730 @TVBSNEWS01  TVBS新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
@@ -9156,8 +9314,8 @@
      }
     },
     {
-     "title": "麥當勞優惠2026》7月優惠券代碼：買一送一、APP、歡樂送懶人包",
-     "link": "https://news.tvbs.com.tw/life/2815618",
+     "title": "2026全家霜淇淋口味查詢｜門市查詢＆買一送一日期及價錢懶人包",
+     "link": "https://news.tvbs.com.tw/life/2846432",
      "source": "tvbs",
      "source_name": "TVBS",
      "published": "2026-07-29T17:18:15.614680+08:00",
@@ -9175,8 +9333,8 @@
      }
     },
     {
-     "title": "2026全家霜淇淋口味查詢｜門市查詢＆買一送一日期及價錢懶人包",
-     "link": "https://news.tvbs.com.tw/life/2846432",
+     "title": "麥當勞優惠2026》7月優惠券代碼：買一送一、APP、歡樂送懶人包",
+     "link": "https://news.tvbs.com.tw/life/2815618",
      "source": "tvbs",
      "source_name": "TVBS",
      "published": "2026-07-29T17:18:15.614680+08:00",
@@ -9209,40 +9367,6 @@
       "acquisition": "rss",
       "feed_url": "https://news.ltn.com.tw/rss/all.xml"
      }
-    },
-    {
-     "title": "經濟日報 2026-07-29 星期三",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wZVNCZzFvRnJuZzVvN3JtVVBFNHBUTXlBUEJhTEl0a0ZQamtMYVNkVjQ1dHgtTFZzV25OYmE2NENJcS1MVFJRdGptcTJiclRTRmxEdEl3?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-07-29T08:11:16+08:00",
-     "description": "經濟日報 2026-07-29 星期三  琅琅悅讀",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "（2026/07/29）星座運勢／牡羊座避免股票虧損　巨蟹座獲伴侶相助",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BT1NaVUFOWEVucTR6WnVTTWVYWllpb25WT2NfQWJrZjFSRzdwa2w4bzEwc3NNdTEwXzRMYS11cHczLWdJcTdqSWYzVW9MRUZJZWfSAVJBVV95cUxOQU9TWlVBTlhFbnE0elp1U01lWFpZaW9uVk9jX0Fia2YxUkc3cGtsOG8xMHNzTXUxMF80TGEtdXB3My1nSXE3aklmM1VvTEVGSWVn?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-07-29T07:00:00+08:00",
-     "description": "（2026/07/29）星座運勢／牡羊座避免股票虧損　巨蟹座獲伴侶相助  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
     }
    ]
   },
@@ -9263,7 +9387,7 @@
    "tags": [
     "葛萊美",
     "影片",
-    "下架"
+    "官方"
    ],
    "articles": [
     {
@@ -9528,12 +9652,12 @@
     "newtalk",
     "tvbs"
    ],
-   "article_count": 7,
+   "article_count": 8,
    "first_seen": "2026-07-28T08:38:00+08:00",
    "last_updated": "2026-07-30T18:02:09+08:00",
    "tags": [
     "白海豚",
-    "生成機率高",
+    "生成",
     "鯨魚"
    ],
    "articles": [
@@ -9554,6 +9678,23 @@
       "acquisition": "scraper",
       "category": "life",
       "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "白海豚恐變「大隻中颱」！持續增強中 最快下周五影響台灣",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9RU2hnazg1YU1TTE1La0RrME53cGNpbFNLVXBZWVIwZGdqWDN5ZWJKUkhocE1paE95MFJ0NjVDWkdlS2REYzdxcE5aOF9iZw?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-30T18:00:00+08:00",
+     "description": "白海豚恐變「大隻中颱」！持續增強中 最快下周五影響台灣  TVBS新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
@@ -9728,7 +9869,7 @@
      "source": "setn",
      "source_name": "三立新聞網",
      "published": "2026-07-29T12:03:00+08:00",
-     "description": "「我沒幫妳顧小孩嗎？」中和媳婦遭公公砍死！昔PO文怨渣夫：住院才來  setn.com",
+     "description": "「我沒幫妳顧小孩嗎？」中和媳婦遭公公砍死！昔PO文怨渣夫：住院才來  三立新聞網SETN.com",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -9959,131 +10100,6 @@
    ]
   },
   {
-   "id": "380a16f0e162",
-   "title": "東野圭吾大腸癌亡！衛福部曝「早期幾乎0症狀」　3類人高風險",
-   "outlet_count": 5,
-   "outlets": [
-    "chinatimes",
-    "ettoday",
-    "mirror",
-    "storm",
-    "tvbs"
-   ],
-   "article_count": 6,
-   "first_seen": "2026-07-28T01:45:00+08:00",
-   "last_updated": "2026-07-28T19:42:00+08:00",
-   "tags": [
-    "野圭吾大腸癌",
-    "症狀"
-   ],
-   "articles": [
-    {
-     "title": "東野圭吾大腸癌逝「台灣年輕患者變多」　醫揭常見症狀",
-     "link": "https://health.ettoday.net/news/3209197",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-28T19:42:00+08:00",
-     "description": "日本推理作家東野圭吾7月23日因大腸癌病逝，再度引發外界關注。醫師提醒，大腸癌早期常無明顯症狀，近年台灣50歲以下患者也增加，若反覆血便、排便習慣改變等應儘速就醫。國健署目前補助45至74歲及部分高風險族群每2年1次糞便潛血檢查，及早篩檢有助降低晚期與死亡風險。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "東野圭吾大腸癌逝 醫喊小心「前身」3種肉不敢吃",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS3Z6NWtIdEJ1VHZQSzBVSVc3Tm5FMnVmNEJPeUNJNkFfU3JjSmwwSy1fcktxa3UxVGlwN256TnRZbUZDSG1kVXpzeURXeUZ2bjNfemQ1QlZINU9LczdWTmJaWWpXeHUzcGZGa3J0SXJKRmpkcVJQMEFtWmJHLWdDQzFxb194TGVKa291QnBEUQ?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-07-28T13:16:08+08:00",
-     "description": "東野圭吾大腸癌逝 醫喊小心「前身」3種肉不敢吃  中時新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "東野圭吾大腸癌病逝！衛福部示警：早期幾乎無症狀　3類人風險最高",
-     "link": "https://www.mirrormedia.mg/story/20260728edi011",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-07-28T11:42:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "東野圭吾68歲大腸癌病逝！出現「3症狀」別輕忽，國健署曝「1招」降4 成死亡率",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1FaEpCOW9NOERSNjVydkE5aU1nR09Iem9CeEpSa1V6S2RldXFwcWltZ1h0TmFLZkVrZkI2SWZnRDRDWnRDVFFLTUN3a0hBS2ZC?oc=5",
-     "source": "storm",
-     "source_name": "風傳媒",
-     "published": "2026-07-28T10:34:39+08:00",
-     "description": "東野圭吾68歲大腸癌病逝！出現「3症狀」別輕忽，國健署曝「1招」降4 成死亡率  風傳媒",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "東野圭吾大腸癌病逝！醫曝5大前兆：出現2週快就醫",
-     "link": "https://news.tvbs.com.tw/health/3269487",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-28T10:04:47+08:00",
-     "description": "",
-     "category": "health",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "health",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "東野圭吾大腸癌亡！衛福部曝「早期幾乎0症狀」　3類人高風險",
-     "link": "https://www.ettoday.net/news/20260728/3208648.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-28T01:45:00+08:00",
-     "description": "日本著名推理小說家東野圭吾因大腸癌去世，消息也讓大腸癌再次引發討論。根據衛福部統計，大腸癌曾連續多年蟬聯台灣十大癌症發生人數第一名，直到2023年才被肺癌擠下到第2名，衛福部表示，大腸癌的早期多無症狀，最可靠的方法就是定期接受大腸癌篩檢，若早期發現並妥善治療，存活率高達90％以上。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    }
-   ]
-  },
-  {
    "id": "3a0d25216653",
    "title": "白批假考察真觀光　徐佳青嗤之以鼻：細節放網路脫光光給阿共看？",
    "outlet_count": 4,
@@ -10266,7 +10282,7 @@
      "source": "newtalk",
      "source_name": "新頭殼",
      "published": "2026-07-30T13:57:11+08:00",
-     "description": "高市謝各國對熊本強震關懷但漏台灣 日網友留言怒噴：妳少了賴清德！  Newtalk新聞",
+     "description": "高市謝各國對熊本強震關懷但漏台灣 日網友留言怒噴：妳少了賴清德！  newtalk.tw",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -10289,13 +10305,13 @@
     "nownews",
     "tvbs"
    ],
-   "article_count": 6,
+   "article_count": 7,
    "first_seen": "2026-07-29T19:30:00+08:00",
    "last_updated": "2026-07-30T23:02:09.759369+08:00",
    "tags": [
     "威力彩",
     "頭獎",
-    "次看"
+    "中獎"
    ],
    "claims": [
     {
@@ -10355,6 +10371,23 @@
       "acquisition": "scraper",
       "category": "life",
       "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "2億威力彩頭獎槓龜！貳獎1注中獎「爽抱回1148萬」",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1sQ1JZcEtDRmtacXVtcS1UbDVtTXhzTmtlV01aU0dhZHlPa0FQZXEycGZpLWNTWmZCSFNLc1pNcjhPM1JyTmc0MXcwSzQ2QQ?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-30T22:23:00+08:00",
+     "description": "2億威力彩頭獎槓龜！貳獎1注中獎「爽抱回1148萬」  TVBS新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
@@ -10439,12 +10472,12 @@
     "ettoday",
     "tvbs"
    ],
-   "article_count": 4,
+   "article_count": 5,
    "first_seen": "2026-07-30T19:52:00+08:00",
    "last_updated": "2026-07-30T23:02:09.759369+08:00",
    "tags": [
     "多人死傷",
-    "伊朗",
+    "架嚴重受損",
     "美軍"
    ],
    "articles": [
@@ -10484,6 +10517,23 @@
       "acquisition": "scraper",
       "category": "world",
       "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "傳多人死傷！伊朗反擊「摧毀3架美軍F-35」 另外3架嚴重受損",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCNVRwY1FsM1doc2pWVzFKM0NjVDhvYmd3Zl9rc3R2U0VaTnlJMHNFSnBMbDY3ZWI2SC1KeEV1eGpmWVVQVFlyalhmM19LS0k?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-30T20:58:00+08:00",
+     "description": "傳多人死傷！伊朗反擊「摧毀3架美軍F-35」 另外3架嚴重受損  TVBS新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
@@ -10532,13 +10582,13 @@
     "newtalk",
     "tvbs"
    ],
-   "article_count": 4,
+   "article_count": 5,
    "first_seen": "2026-07-30T18:42:00+08:00",
    "last_updated": "2026-07-30T22:49:09+08:00",
    "tags": [
     "轎車撞斷電桿",
     "旬女駕駛重傷",
-    "苗縣台"
+    "婦人命危送醫"
    ],
    "articles": [
     {
@@ -10561,12 +10611,29 @@
      }
     },
     {
+     "title": "苗栗驚悚自撞！轎車撞斷電桿「慘壓車頂」 77歲婦人命危送醫",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GR0ZTYUJ5TEFnWXpCMDZQR2VELU5RYlpINzBxWHdwdTB3RzdfX2lJWGt3cmRpREJZeVpHa2hZcUNRaGUyc1p2RWZYMUozUzQ?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-30T22:49:00+08:00",
+     "description": "苗栗驚悚自撞！轎車撞斷電桿「慘壓車頂」 77歲婦人命危送醫  TVBS新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
      "title": "苗縣台1線轎車撞斷電桿翻覆7旬女駕駛重傷| 社會",
      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1US0FhWV9oUUVUUG9tbzkxbjQ1N1hBSGhBWl83Q2p2U0JUOGVEUjZGX3FiLXMwRlFrVmo0YzFXQk9ldUd1U19GMUloaUdQU2tZZFJ5NkpsQTVtdTQ?oc=5",
      "source": "newtalk",
      "source_name": "新頭殼",
      "published": "2026-07-30T20:35:02+08:00",
-     "description": "苗縣台1線轎車撞斷電桿翻覆7旬女駕駛重傷| 社會  Newtalk新聞",
+     "description": "苗縣台1線轎車撞斷電桿翻覆7旬女駕駛重傷| 社會  newtalk.tw",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -10705,31 +10772,31 @@
    ]
   },
   {
-   "id": "0bf0b1db3486",
-   "title": "「泰山賣全家」爆內線　前、現任董事長遭17路搜索",
+   "id": "51d68edc56c0",
+   "title": "英國央行按兵不動　基準利率維持3.75%",
    "outlet_count": 4,
    "outlets": [
-    "ebc",
-    "ettoday",
-    "mirror",
-    "tvbs"
+    "cna",
+    "newtalk",
+    "nownews",
+    "pts"
    ],
    "article_count": 5,
-   "first_seen": "2026-07-30T17:48:00+08:00",
-   "last_updated": "2026-07-30T21:31:00+08:00",
+   "first_seen": "2026-07-29T21:51:16+08:00",
+   "last_updated": "2026-07-30T21:10:56+08:00",
    "tags": [
-    "泰山賣全家",
-    "現任董事長遭",
-    "內線交易"
+    "美股道瓊",
+    "利率",
+    "伊朗"
    ],
    "articles": [
     {
-     "title": "「泰山賣全家」內線案揭詹家內鬨　Faye父親首度現身北檢",
-     "link": "https://www.ettoday.net/news/20260730/3210655.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-30T21:31:00+08:00",
-     "description": "食品大廠泰山公司(1218)在4年前公告賣掉持有的全家公司股票，但長期經營泰山的詹氏家族疑似在重大訊息公布前禁止交易期間，分別在市場上或洽特定人買賣自家股票，涉嫌《證交法》內線交易罪，台北地檢署30日指揮調查局搜索並約談11名被告到案，包括鮮少曝光的詹家二代、藝人Faye父親詹仁謙。 《詳全文...》",
+     "title": "英國央行按兵不動　基準利率維持3.75%",
+     "link": "https://www.cna.com.tw/news/aopl/202607300366.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-30T21:10:56+08:00",
+     "description": "（中央社倫敦30日綜合外電報導）英國央行英格蘭銀行（Bank of England）今天維持基準利率3.75%不變，但提出警告，美國與伊朗的戰事推高能源價格，未來通膨率可能還會攀升。",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -10737,35 +10804,16 @@
        "source": "unknown"
       },
       "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
      }
     },
     {
-     "title": "泰山公司疑內線交易！前、現任董事長遭約談",
-     "link": "https://news.ebc.net.tw/news/society/563864",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-30T19:01:16.046987+08:00",
-     "description": "泰山公司高層疑涉內線交易，檢調17路搜索約談多名被告與證人，案情持續調查中。",
-     "category": "society",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "society",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "泰山賣全家爆內線交易！北檢兵分17路搜查　前後任董座等11人遭約談",
-     "link": "https://www.mirrormedia.mg/story/20260730edi037",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-07-30T18:28:00+08:00",
-     "description": "",
+     "title": "Fed利率連5凍 維持3.5%至3.75%區間",
+     "link": "https://news.pts.org.tw/article/820161",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-07-30T20:59:33+08:00",
+     "description": "美國聯準會週三在決策會議後宣布，利率按兵不動，維持在3.5%到3.75%不變，不過在12名委員中有3人主張升息，凸顯聯準會內部對通膨走勢看法分歧。目前已有市場人士預期，美國可能會在12月升息。",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -10773,43 +10821,58 @@
        "source": "unknown"
       },
       "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
      }
     },
     {
-     "title": "泰山經營權之爭爆金雞母「全家」內線交易　檢調17路搜索約談",
-     "link": "https://news.tvbs.com.tw/local/3272205",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-30T17:51:05+08:00",
-     "description": "",
-     "category": "local",
+     "title": "美國聯準會利率不變！美股道瓊暴跌1153點、台積電ADR重挫4.5％",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81MVVQUWVmQU5kOVF6UjA0Y0RUS1BSbnRYVEtnUE1rbVFxWE1FUzdqeTcyc0lZd0hYZWpRS2JQVG9XZHlWMTZEOHhGR3c5SUtVcnN3OFlwSmlwQjA?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-30T07:38:54+08:00",
+     "description": "美國聯準會利率不變！美股道瓊暴跌1153點、台積電ADR重挫4.5％  newtalk.tw",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "scraper",
-      "category": "local",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
-     "title": "「泰山賣全家」爆內線　前、現任董事長遭17路搜索",
-     "link": "https://www.ettoday.net/news/20260730/3210577.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-30T17:48:00+08:00",
-     "description": "深陷中聯致癌油風暴的泰山公司在2022年間因經營權之爭，決議賣掉持有的全家公司股票，但泰山高層疑似在重大訊息公布前，分別在市場上或洽特定人買、賣泰山股票，涉嫌內線交易，台北地檢署30日指揮調查局兵分17路，搜索泰山前、現任董事長等人住處及公司，同步約談當年參與決策者共11名被告、4名證人到案釐清。 《詳全文...》",
+     "title": "Fed利率連五凍！伊朗、油價、AI憂患尚存　美股道瓊重挫1153點",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MN3FCNWtWZTlpeklEcllvWkQ2bVpvcmVTX3dkOHhRNWtPUFByMTljUUhWYjduUVY2UnNhRHhyUkhTTVY5TmRRZGJReljSAVJBVV95cUxPTXI4T0FhQ05YT2NVUUtoaUY5OGlqVU1OeUhUbDF0eEJHeGVQSFBQVmYyclpFd3QtVzlVZXVrLXlmZmNMMlJGZVdXOUN5TTVHX2Nn?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-07-30T06:01:57+08:00",
+     "description": "Fed利率連五凍！伊朗、油價、AI憂患尚存　美股道瓊重挫1153點  NOWnews今日新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "川普嗆狠打伊朗！油價上漲加劇市場憂慮　美股道瓊開盤下跌400點",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9iUTZ0bkt6SXZZYUI1dDdqTzVZRGFNeVk2YWRxLWRTNm9pU1N1RkItU3ZkQWhKV2JsbWNfbE85ajJyVFRlUUV2VVdHcHpSR1BfQXfSAVJBVV95cUxPYlE2dG5Lekl2WWFCNXQ3ak81WURhTXlZNmFkcS1kUzZvaVNTdUZCLVN2ZEFoSldibG1jX2xPOWoyclRUZVFFdlVXR3B6UkdQX0F3?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-07-29T21:51:16+08:00",
+     "description": "川普嗆狠打伊朗！油價上漲加劇市場憂慮　美股道瓊開盤下跌400點  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -10869,7 +10932,7 @@
     },
     {
      "title": "日本食品消費稅明年降1% 高市早苗親說明：9月完成大綱並向國會提案| 國際",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yNXpFdXVZMEJrOERWR2pNbDcwcTY0aHk2RVNxSzRwNVNZbTVDYTNXNjl4dHRPbHFxYUxZOTNyNlBhb05sR04tSU9reUZ6M1VDS2V4ZmFTd1Y2bmM?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50X1RFdnNUVUQ4dWlYc01oVmFiQ2dZSjdRMGQyal9fSi1ya0Y0WG1vS0NhZFprWmw0WlpJR19lQnkzVmhBTVk3VTVVUzZZVm1PTVR5cldZYkF0QQ?oc=5",
      "source": "newtalk",
      "source_name": "新頭殼",
      "published": "2026-07-30T17:53:41+08:00",
@@ -10886,11 +10949,11 @@
     },
     {
      "title": "日本食品消費稅明年降1% 高市早苗親說明：9月完成大綱並向國會提案| 國際",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50X1RFdnNUVUQ4dWlYc01oVmFiQ2dZSjdRMGQyal9fSi1ya0Y0WG1vS0NhZFprWmw0WlpJR19lQnkzVmhBTVk3VTVVUzZZVm1PTVR5cldZYkF0QQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yNXpFdXVZMEJrOERWR2pNbDcwcTY0aHk2RVNxSzRwNVNZbTVDYTNXNjl4dHRPbHFxYUxZOTNyNlBhb05sR04tSU9reUZ6M1VDS2V4ZmFTd1Y2bmM?oc=5",
      "source": "newtalk",
      "source_name": "新頭殼",
      "published": "2026-07-30T17:53:41+08:00",
-     "description": "日本食品消費稅明年降1% 高市早苗親說明：9月完成大綱並向國會提案| 國際  Newtalk新聞",
+     "description": "日本食品消費稅明年降1% 高市早苗親說明：9月完成大綱並向國會提案| 國際  newtalk.tw",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -10981,7 +11044,7 @@
      "source": "newtalk",
      "source_name": "新頭殼",
      "published": "2026-07-30T15:15:03+08:00",
-     "description": "吊車施工疑碰觸高壓電線嘉縣1工人重傷送醫| 社會  Newtalk新聞",
+     "description": "吊車施工疑碰觸高壓電線嘉縣1工人重傷送醫| 社會  newtalk.tw",
      "metadata": {
       "schema_version": 1,
       "author": {
