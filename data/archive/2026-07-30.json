@@ -1,7 +1,495 @@
 {
  "date": "2026-07-30",
- "generated_at": "2026-07-30T06:38:28.884149+08:00",
+ "generated_at": "2026-07-30T08:51:14.088806+08:00",
  "events": [
+  {
+   "id": "7039b9bfa209",
+   "title": "熊本規模7.1地震　台積電熊本廠位菊陽町震度5強",
+   "outlet_count": 13,
+   "outlets": [
+    "chinatimes",
+    "cna",
+    "ebc",
+    "ettoday",
+    "ltn",
+    "mirror",
+    "newtalk",
+    "nownews",
+    "pts",
+    "setn",
+    "storm",
+    "tvbs",
+    "udn"
+   ],
+   "article_count": 230,
+   "first_seen": "2026-07-27T10:19:00+08:00",
+   "last_updated": "2026-07-30T08:51:14.088806+08:00",
+   "tags": [
+    "熊本",
+    "強震"
+   ],
+   "claims": [
+    {
+     "type": "死亡人數",
+     "agree": false,
+     "outlet_count": 5,
+     "values": [
+      {
+       "value": "13",
+       "outlets": [
+        "公視新聞",
+        "東森新聞",
+        "鏡週刊"
+       ]
+      },
+      {
+       "value": "1",
+       "outlets": [
+        "中央社"
+       ]
+      },
+      {
+       "value": "14",
+       "outlets": [
+        "TVBS"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "地震規模",
+     "agree": true,
+     "outlet_count": 5,
+     "values": [
+      {
+       "value": "7.1",
+       "outlets": [
+        "中時新聞網",
+        "今日新聞",
+        "聯合新聞網",
+        "鏡週刊",
+        "風傳媒"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "最大震度",
+     "agree": true,
+     "outlet_count": 4,
+     "values": [
+      {
+       "value": "7",
+       "outlets": [
+        "三立新聞網",
+        "東森新聞",
+        "自由時報",
+        "鏡週刊"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "受傷人數",
+     "agree": true,
+     "outlet_count": 2,
+     "values": [
+      {
+       "value": "50",
+       "outlets": [
+        "中央社",
+        "公視新聞"
+       ]
+      }
+     ]
+    }
+   ],
+   "articles": [
+    {
+     "title": "花蓮08:10規模3.8地震 3縣市有感",
+     "link": "https://news.ebc.net.tw/news/living/563749",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-30T08:51:14.088806+08:00",
+     "description": "花蓮今（30日）上午8時10分發生芮氏規模3.8地震，震源深度22.2公里，各地最大震度為花蓮2級、南投1級、台中1級。",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "花蓮近海地震！「規模3.8」3縣市有感　08:10地牛翻身",
+     "link": "https://news.tvbs.com.tw/life/3271589",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-30T08:31:14+08:00",
+     "description": "",
+     "category": "life",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "life",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "熊本強震引發地殼變動 地表位移84公分",
+     "link": "https://news.ebc.net.tw/news/world/563739",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-30T00:46:56.650232+08:00",
+     "description": "熊本規模7.1強震造成地殼明顯位移，八代市測得最大84公分變動，日奈久斷層再受關注。日本氣象廳提醒未來一週恐有強震風險，民眾須留意餘震發展。",
+     "category": "world",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "world",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "台積電熊本二廠復工",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tYnpFOFVsVk5XVkNTUldhdUc5QW40NFdqTld5R2dWME9Za2Itcl9mWWNwbUlRSWU4dE5IOWltTS13dC1PZTJCUDhydTlJVFgtOTBwNy11R2lyUdIBX0FVX3lxTE5RNlJXbUZCNjFYUVhKd3BYZEtkNFNqdjF5WHFVTU9LcWZrQXo3ZG9KUFkxVDJSVDRIbFcwYjlsMmZUeGdoYjcybzJrRWxXdE5pOTFlN1c3clpUb3FmVzhB?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-07-29T23:54:46+08:00",
+     "description": "台積電熊本二廠復工  經濟日報",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "熊本強震！賴瑞隆率先捐薪 盧秀燕、陳世凱捐款賑災",
+     "link": "https://news.ebc.net.tw/news/politics/563726",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-29T23:02:26.761281+08:00",
+     "description": "日本熊本強震造成重大傷亡，台灣各界陸續伸出援手。賴瑞隆率先宣布捐出1個月薪水，多位立委響應，台中市長盧秀燕、交通部長陳世凱及駐日代表李逸洋也相繼宣布捐款賑災。",
+     "category": "politics",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "politics",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "熊本地震恐衝擊台廠？經濟部曝「最新狀況」：廠區營運暫無影響",
+     "link": "https://news.tvbs.com.tw/life/3270293",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-29T23:02:26.761281+08:00",
+     "description": "",
+     "category": "life",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "life",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "日本熊本又震！今晚規模5.8極淺層地震 最大震度5弱",
+     "link": "https://news.ltn.com.tw/news/world/breakingnews/5522284",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-29T22:05:22+08:00",
+     "description": "日本熊本縣今晚再度發生地震。日本氣象廳表示，當地時間晚間10時19分（台北時間9時19分）左右，熊本縣天草、蘆北地區發生規模5.8地震，震源深度極淺，最大震度5弱。\n\n根據日本氣象廳資料...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "熊本晚間地震規模5.8深度極淺　最大震度5弱、氣象廳籲留意餘震",
+     "link": "https://www.cna.com.tw/news/aopl/202607290369.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-29T21:50:42+08:00",
+     "description": "（中央社記者戴雅真東京29日專電）日本熊本縣今晚再度發生地震。日本氣象廳表示，當地時間晚間10時19分（台北時間9時19分）左右，熊本縣天草、蘆北地區發生規模5.8地震，震源深度極淺，最大震度5弱。",
+     "author": "戴雅真",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "戴雅真",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
+     }
+    },
+    {
+     "title": "地牛翻身！熊本再爆規模5.8地震　最大震度5弱",
+     "link": "https://news.tvbs.com.tw/world/3271445",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-29T21:46:56+08:00",
+     "description": "",
+     "category": "world",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "world",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "日本熊本晚間規模5.8地震　最大震度5弱",
+     "link": "https://www.ettoday.net/news/20260729/3209981.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-29T21:46:00+08:00",
+     "description": "日本熊本縣今天（29日）晚間10時19分（日本時間）發生地震。日本氣象廳表示，震央位於熊本縣天草、蘆北地區，震源深度極淺，初步推估地震規模為芮氏5.8。\n\n 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    }
+   ]
+  },
+  {
+   "id": "7022ec5a8a93",
+   "title": "日本知名推理小說家東野圭吾大腸癌病逝　享年68歲",
+   "outlet_count": 13,
+   "outlets": [
+    "chinatimes",
+    "cna",
+    "ebc",
+    "ettoday",
+    "ltn",
+    "mirror",
+    "newtalk",
+    "nownews",
+    "pts",
+    "setn",
+    "storm",
+    "tvbs",
+    "udn"
+   ],
+   "article_count": 163,
+   "first_seen": "2026-07-27T15:26:00+08:00",
+   "last_updated": "2026-07-30T07:30:19+08:00",
+   "tags": [
+    "娛樂關鍵字"
+   ],
+   "articles": [
+    {
+     "title": "周銳 娛樂關鍵字",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9wVHRfdUstd2pFd1pBZl9ad2JsTlE0NGd4XzV4N1dHMVpRNndBeE5EZGZnSnEza1ZTTHdFaDd0VTU5Y1JTc0VKUQ?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-07-30T07:30:19+08:00",
+     "description": "周銳 娛樂關鍵字  三立娛樂星聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "微女神breeze 娛樂關鍵字 | 娛樂星聞 STAR.SETN.COM",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9SYVJxTmRtZlR1OWtiRTdVZUxlTndGYzlsZ1NFMmgydTMwTjR5WFJES1p4SHhrcWxRLTBqWWNTT0Nua2pQVTkzMQ?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-07-30T04:26:09+08:00",
+     "description": "微女神breeze 娛樂關鍵字 | 娛樂星聞 STAR.SETN.COM  三立娛樂星聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "韓國大法院 娛樂關鍵字",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE51NDFXZ1l5bnBUYTdsTDJIeUt3UWtaTzNmZGxnazFoOXhnc2xjd2Y2RVJ0NTF6Zm5ZbDZtZjQtSzFNaHlTMmd6ZQ?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-07-30T03:01:58+08:00",
+     "description": "韓國大法院 娛樂關鍵字  三立娛樂星聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "宋晉賢 娛樂關鍵字",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zaVdmYmVOREIxRW1yQjNTY29ZMWJiZXp2RURJbTBBeThldGNCMGhhQ2Y5a3RnR3Fxb2ZzTE9yQldVTkdRbkdrQ2lKVnpoVlJmNkNhc05MXzZZc00wTm1jbUVHejdFUlBveTBZ?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-07-30T02:29:18+08:00",
+     "description": "宋晉賢 娛樂關鍵字  三立娛樂星聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "醫起看／男大生激戰後得菜花 醫師要他快打「HPV疫苗」原因曝",
+     "link": "https://news.ebc.net.tw/news/health/563719",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-29T23:02:26.761281+08:00",
+     "description": "一名男大生參加S2O潑水音樂節後，與一名女子發生性行為，事後竟感染菜花。他去就醫時，醫師則建議他打HPV疫苗。",
+     "category": "health",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "health",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "車界女神 娛樂關鍵字",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9JbFRBTW42cTJBNHZVMFI0UlozZEpaOFlBLWl4RjRHbVZkWnlzbC1rVDBwQkxablJkdWQ4WGtNdWZsMTl2SVJPag?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-07-29T22:29:25+08:00",
+     "description": "車界女神 娛樂關鍵字  三立娛樂星聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "職場壓迫 娛樂關鍵字",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1zd0JLZENDdDdjQUg5UXhFUU5BeGFIYTI4MWllN1VzS2ZDcDU0NGd0dXB0NFZSYk8xMEx1UzY2VmJ4T1BaQ3FMYg?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-07-29T22:29:25+08:00",
+     "description": "職場壓迫 娛樂關鍵字  三立娛樂星聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "汽車媒體圈 娛樂關鍵字",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4wU2NLdzA2VXhvbXZ2OENBSzR3UzNoWW9RWEJ2cjVZT1E3YURmMkh5MmwzOXJZam9pZFQxVXE2UHdKY3YtbzlZbw?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-07-29T22:29:24+08:00",
+     "description": "汽車媒體圈 娛樂關鍵字  三立娛樂星聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "法說會 娛樂關鍵字",
+     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8zNk9NZVNfdDhqaUJFTmctZU1SSVZTenU3RXFNVUVqNWt1ekRpSHJaVFRJSlVuTFByblk5bzBFWllHRTQ4eUE?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-07-29T20:10:50+08:00",
+     "description": "法說會 娛樂關鍵字  三立娛樂星聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "양다연 娛樂關鍵字",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB1LTQyQmRWUVZ0WVY4RzdCczBfdDl6VHU3RFRQMzZ4RzV1X1MtUHJQVFB3cGZLVndhWGdBanhBVVg2SUdaODBuWA?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-07-29T19:14:27+08:00",
+     "description": "양다연 娛樂關鍵字  三立娛樂星聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
   {
    "id": "287042ef0b25",
    "title": "還原食安會議發言 陳其邁：當天討論修法不是爭是非",
@@ -206,493 +694,6 @@
    ]
   },
   {
-   "id": "7022ec5a8a93",
-   "title": "日本知名推理小說家東野圭吾大腸癌病逝　享年68歲",
-   "outlet_count": 13,
-   "outlets": [
-    "chinatimes",
-    "cna",
-    "ebc",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "newtalk",
-    "nownews",
-    "pts",
-    "setn",
-    "storm",
-    "tvbs",
-    "udn"
-   ],
-   "article_count": 161,
-   "first_seen": "2026-07-27T15:26:00+08:00",
-   "last_updated": "2026-07-30T03:01:58+08:00",
-   "tags": [
-    "娛樂關鍵字"
-   ],
-   "articles": [
-    {
-     "title": "韓國大法院 娛樂關鍵字",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE51NDFXZ1l5bnBUYTdsTDJIeUt3UWtaTzNmZGxnazFoOXhnc2xjd2Y2RVJ0NTF6Zm5ZbDZtZjQtSzFNaHlTMmd6ZQ?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-07-30T03:01:58+08:00",
-     "description": "韓國大法院 娛樂關鍵字  三立娛樂星聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "宋晉賢 娛樂關鍵字",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zaVdmYmVOREIxRW1yQjNTY29ZMWJiZXp2RURJbTBBeThldGNCMGhhQ2Y5a3RnR3Fxb2ZzTE9yQldVTkdRbkdrQ2lKVnpoVlJmNkNhc05MXzZZc00wTm1jbUVHejdFUlBveTBZ?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-07-30T02:29:18+08:00",
-     "description": "宋晉賢 娛樂關鍵字  三立娛樂星聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "醫起看／男大生激戰後得菜花 醫師要他快打「HPV疫苗」原因曝",
-     "link": "https://news.ebc.net.tw/news/health/563719",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-29T23:02:26.761281+08:00",
-     "description": "一名男大生參加S2O潑水音樂節後，與一名女子發生性行為，事後竟感染菜花。他去就醫時，醫師則建議他打HPV疫苗。",
-     "category": "health",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "health",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "車界女神 娛樂關鍵字",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9JbFRBTW42cTJBNHZVMFI0UlozZEpaOFlBLWl4RjRHbVZkWnlzbC1rVDBwQkxablJkdWQ4WGtNdWZsMTl2SVJPag?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-07-29T22:29:25+08:00",
-     "description": "車界女神 娛樂關鍵字  三立娛樂星聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "職場壓迫 娛樂關鍵字",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1zd0JLZENDdDdjQUg5UXhFUU5BeGFIYTI4MWllN1VzS2ZDcDU0NGd0dXB0NFZSYk8xMEx1UzY2VmJ4T1BaQ3FMYg?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-07-29T22:29:25+08:00",
-     "description": "職場壓迫 娛樂關鍵字  三立娛樂星聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "汽車媒體圈 娛樂關鍵字",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4wU2NLdzA2VXhvbXZ2OENBSzR3UzNoWW9RWEJ2cjVZT1E3YURmMkh5MmwzOXJZam9pZFQxVXE2UHdKY3YtbzlZbw?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-07-29T22:29:24+08:00",
-     "description": "汽車媒體圈 娛樂關鍵字  三立娛樂星聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "法說會 娛樂關鍵字",
-     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8zNk9NZVNfdDhqaUJFTmctZU1SSVZTenU3RXFNVUVqNWt1ekRpSHJaVFRJSlVuTFByblk5bzBFWllHRTQ4eUE?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-07-29T20:10:50+08:00",
-     "description": "法說會 娛樂關鍵字  三立娛樂星聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "양다연 娛樂關鍵字",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB1LTQyQmRWUVZ0WVY4RzdCczBfdDl6VHU3RFRQMzZ4RzV1X1MtUHJQVFB3cGZLVndhWGdBanhBVVg2SUdaODBuWA?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-07-29T19:14:27+08:00",
-     "description": "양다연 娛樂關鍵字  三立娛樂星聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "天使寶寶 娛樂關鍵字",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5zUUZYQzZUaUQwREtZRkVfcVNhaTVsRmNVQm9sWUE0c3dvT2plek85N2Q4cGQ2eTI5UFozam9qWnVRUFRwMlgxVg?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-07-29T19:04:31+08:00",
-     "description": "天使寶寶 娛樂關鍵字  三立娛樂星聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "DJ LYNN 娛樂關鍵字",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5xNHk3cTF0WDhMOUY2ekhZQWM2OE45U2J6X1BPc0JDUlFDd3BaeUxWelVtX29sSkNlM25lM0hwMk44OC1hcUFxdw?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-07-29T18:04:18+08:00",
-     "description": "DJ LYNN 娛樂關鍵字  三立娛樂星聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
-   "id": "7039b9bfa209",
-   "title": "熊本規模7.1地震　台積電熊本廠位菊陽町震度5強",
-   "outlet_count": 13,
-   "outlets": [
-    "chinatimes",
-    "cna",
-    "ebc",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "newtalk",
-    "nownews",
-    "pts",
-    "setn",
-    "storm",
-    "tvbs",
-    "udn"
-   ],
-   "article_count": 226,
-   "first_seen": "2026-07-27T10:19:00+08:00",
-   "last_updated": "2026-07-30T00:46:56.650232+08:00",
-   "tags": [
-    "熊本",
-    "強震"
-   ],
-   "claims": [
-    {
-     "type": "死亡人數",
-     "agree": false,
-     "outlet_count": 5,
-     "values": [
-      {
-       "value": "13",
-       "outlets": [
-        "公視新聞",
-        "東森新聞",
-        "鏡週刊"
-       ]
-      },
-      {
-       "value": "1",
-       "outlets": [
-        "中央社"
-       ]
-      },
-      {
-       "value": "14",
-       "outlets": [
-        "TVBS"
-       ]
-      }
-     ]
-    },
-    {
-     "type": "地震規模",
-     "agree": true,
-     "outlet_count": 5,
-     "values": [
-      {
-       "value": "7.1",
-       "outlets": [
-        "中時新聞網",
-        "今日新聞",
-        "聯合新聞網",
-        "鏡週刊",
-        "風傳媒"
-       ]
-      }
-     ]
-    },
-    {
-     "type": "最大震度",
-     "agree": true,
-     "outlet_count": 4,
-     "values": [
-      {
-       "value": "7",
-       "outlets": [
-        "三立新聞網",
-        "東森新聞",
-        "自由時報",
-        "鏡週刊"
-       ]
-      }
-     ]
-    },
-    {
-     "type": "受傷人數",
-     "agree": true,
-     "outlet_count": 2,
-     "values": [
-      {
-       "value": "50",
-       "outlets": [
-        "中央社",
-        "公視新聞"
-       ]
-      }
-     ]
-    }
-   ],
-   "articles": [
-    {
-     "title": "熊本強震引發地殼變動 地表位移84公分",
-     "link": "https://news.ebc.net.tw/news/world/563739",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-30T00:46:56.650232+08:00",
-     "description": "熊本規模7.1強震造成地殼明顯位移，八代市測得最大84公分變動，日奈久斷層再受關注。日本氣象廳提醒未來一週恐有強震風險，民眾須留意餘震發展。",
-     "category": "world",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "world",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "台積電熊本二廠復工",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tYnpFOFVsVk5XVkNTUldhdUc5QW40NFdqTld5R2dWME9Za2Itcl9mWWNwbUlRSWU4dE5IOWltTS13dC1PZTJCUDhydTlJVFgtOTBwNy11R2lyUdIBX0FVX3lxTE5RNlJXbUZCNjFYUVhKd3BYZEtkNFNqdjF5WHFVTU9LcWZrQXo3ZG9KUFkxVDJSVDRIbFcwYjlsMmZUeGdoYjcybzJrRWxXdE5pOTFlN1c3clpUb3FmVzhB?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-07-29T23:54:46+08:00",
-     "description": "台積電熊本二廠復工  經濟日報",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "熊本地震恐衝擊台廠？經濟部曝「最新狀況」：廠區營運暫無影響",
-     "link": "https://news.tvbs.com.tw/life/3270293",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-29T23:02:26.761281+08:00",
-     "description": "",
-     "category": "life",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "熊本強震！賴瑞隆率先捐薪 盧秀燕、陳世凱捐款賑災",
-     "link": "https://news.ebc.net.tw/news/politics/563726",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-29T23:02:26.761281+08:00",
-     "description": "日本熊本強震造成重大傷亡，台灣各界陸續伸出援手。賴瑞隆率先宣布捐出1個月薪水，多位立委響應，台中市長盧秀燕、交通部長陳世凱及駐日代表李逸洋也相繼宣布捐款賑災。",
-     "category": "politics",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "politics",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "日本熊本又震！今晚規模5.8極淺層地震 最大震度5弱",
-     "link": "https://news.ltn.com.tw/news/world/breakingnews/5522284",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-29T22:05:22+08:00",
-     "description": "日本熊本縣今晚再度發生地震。日本氣象廳表示，當地時間晚間10時19分（台北時間9時19分）左右，熊本縣天草、蘆北地區發生規模5.8地震，震源深度極淺，最大震度5弱。\n\n根據日本氣象廳資料...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "熊本晚間地震規模5.8深度極淺　最大震度5弱、氣象廳籲留意餘震",
-     "link": "https://www.cna.com.tw/news/aopl/202607290369.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-29T21:50:42+08:00",
-     "description": "（中央社記者戴雅真東京29日專電）日本熊本縣今晚再度發生地震。日本氣象廳表示，當地時間晚間10時19分（台北時間9時19分）左右，熊本縣天草、蘆北地區發生規模5.8地震，震源深度極淺，最大震度5弱。",
-     "author": "戴雅真",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "戴雅真",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
-     }
-    },
-    {
-     "title": "地牛翻身！熊本再爆規模5.8地震　最大震度5弱",
-     "link": "https://news.tvbs.com.tw/world/3271445",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-29T21:46:56+08:00",
-     "description": "",
-     "category": "world",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "world",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "日本熊本晚間規模5.8地震　最大震度5弱",
-     "link": "https://www.ettoday.net/news/20260729/3209981.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-29T21:46:00+08:00",
-     "description": "日本熊本縣今天（29日）晚間10時19分（日本時間）發生地震。日本氣象廳表示，震央位於熊本縣天草、蘆北地區，震源深度極淺，初步推估地震規模為芮氏5.8。\n\n 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "李逸洋：台日命運共同體　台灣準備好隨時馳援熊本",
-     "link": "https://www.cna.com.tw/news/aipl/202607290362.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-29T21:25:24+08:00",
-     "description": "（中央社記者戴雅真東京29日專電）駐日代表李逸洋今天晚間在日本福岡出席「台灣高鐵N700ST新型車輛出廠」歡迎晚宴表示，昨天熊本發生強烈地震，台灣已作好準備，隨時可提供支援。",
-     "author": "戴雅真",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "戴雅真",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
-     }
-    },
-    {
-     "title": "東森挺進熊本台積電！員工忙檢修、照常進出",
-     "link": "https://news.ebc.net.tw/news/world/563702",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-29T21:00:07.847843+08:00",
-     "description": "熊本地震後，台積電熊本廠確認人員平安、建築結構安全，但部分建廠工程暫停，持續檢查設備並觀察餘震，後續復工時程仍待評估。",
-     "category": "world",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "world",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    }
-   ]
-  },
-  {
    "id": "a34dd1496cd7",
    "title": "立院三讀民法修正案　刪除兄弟姊妹特留分規定",
    "outlet_count": 13,
@@ -715,7 +716,7 @@
    "first_seen": "2026-07-28T09:32:00+08:00",
    "last_updated": "2026-07-29T16:21:00+08:00",
    "tags": [
-    "弟姊妹特留分",
+    "兄弟姊妹特留",
     "刪除",
     "三讀"
    ],
@@ -1130,6 +1131,204 @@
      "source_name": "聯合新聞網",
      "published": "2026-07-29T08:43:36+08:00",
      "description": "熊本強震罹難者增至13人！永旺翻新開幕才1個多月 震後爆炸化瓦礫  UDN",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
+   "id": "11d0e625bf22",
+   "title": "台股收跌2030點失守42K 創史上第3大跌點",
+   "outlet_count": 11,
+   "outlets": [
+    "chinatimes",
+    "ebc",
+    "ettoday",
+    "ltn",
+    "mirror",
+    "newtalk",
+    "nownews",
+    "pts",
+    "setn",
+    "tvbs",
+    "udn"
+   ],
+   "article_count": 31,
+   "first_seen": "2026-07-27T17:00:00+08:00",
+   "last_updated": "2026-07-29T21:55:26+08:00",
+   "tags": [
+    "台股"
+   ],
+   "articles": [
+    {
+     "title": "台股暴跌 上市櫃融資單日史詩級大減520億元破紀錄",
+     "link": "https://ec.ltn.com.tw/article/breakingnews/5522276",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-29T21:55:26+08:00",
+     "description": "台股兩天重挫超過四千點，根據證交所及櫃買統計，今日上市櫃融資金額合計大減520億元，創下單日最大減少金額，其中上市融資餘額降至5070億元、上櫃降至1674億元。\n\n\n根...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "台股狂瀉失守4萬點  金管會信心喊話  整戶擔保維持率仍有165.5％",
+     "link": "https://ec.ltn.com.tw/article/breakingnews/5522213",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-29T20:29:56+08:00",
+     "description": "台股昨天（28日）狂跌2030點，寫史上第三慘，今天（29日）再跌1564點，盤中一度跌破4萬點大關，市場憂心融資斷頭風暴衝擊；對此，金管會證期局強調，截至7月28日，信...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "台股兩天崩近8000點　證交所急喊話：回歸基本面",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xRW5hdDI0QUJnSTh1T0hRN0tVYXdJczAyUkpSMFZIb3g2TGg2UUJsQWcwUkhrNFc1eHBLbGE2ejg0LThKZ3hHWFBoR1BXTlNaUmfSAVJBVV95cUxOcUVuYXQyNEFCZ0k4dU9IUTdLVWF3SXMwMlJKUjBWSG94NkxoNlFCbEFnMFJIazRXNXhwS2xhNno4NC04Smd4R1hQaEdQV05TWlJn?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-07-29T20:24:26+08:00",
+     "description": "台股兩天崩近8000點　證交所急喊話：回歸基本面  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "台股今創史上第7大跌點 上市櫃共119家跌停",
+     "link": "https://news.pts.org.tw/article/819962",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-07-29T20:16:51+08:00",
+     "description": "亞股週三開盤力拚反彈，但開盤1小時後開始逆轉翻黑探底，韓股終場跌5.98%，日股跌930點、收在6萬1434點。台股則驚險守住4萬點整數關卡，終場跌幅收斂、跌1564點，以4萬39點作收，創史上第7大跌點，總計上市櫃共119家跌停，成交量1.08兆元。由於近期台股單日暴跌千點，有立委關注國安基金是否進場，財政部長莊翠雲表示，目前將持續關注國際情勢和台股走勢。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "台股2天崩近4000點！金管會拋數據「維持率165%」點名基本面仍穩",
+     "link": "https://finance.ettoday.net/news/3209950",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-29T19:48:00+08:00",
+     "description": "台股29日賣壓持續湧現，加權指數盤中一度跌破4萬點，終場收在40,039.18點，下跌1,564.18點，跌幅3.76%，短短兩個交易日重挫近4,000點，引發市場關注融資追繳及外資操作情況。對此，金管會29日公布最新數據指出，截至7月28日，全市場信用交易整戶擔保維持率為165.50%，借券賣出占市場成交值比率為3.76%，並強調國內上市櫃公司營收及企業基本面仍維持穩健。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "台股重挫逾1,500點、驚險守住4萬大關三大法人賣超縮手至317億元| 財經",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiMkFWczNkV00zT1pDX3RRMEtHbk5ScjVPejR4elV5a0hWMmVHZlkxSzVwRjJrNkpEU3JOMUxYUzVnRFp5aVNOejhYNGxpTVhfcUM5Q21fQ1FGbTA?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-29T16:48:05+08:00",
+     "description": "台股重挫逾1,500點、驚險守住4萬大關三大法人賣超縮手至317億元| 財經  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "2天暴殺4000點「股票對折出清」！億元教授曝進場時機：別急抄底",
+     "link": "https://www.ettoday.net/news/20260729/3209663.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-29T15:52:00+08:00",
+     "description": "台股殺聲隆隆，繼昨（28）日寫下史上第3大收盤跌點後，今（29）日賣壓再度傾巢而出，盤中一度狂瀉約2,000點，跌破4萬點心理防線關卡，短短2個交易日跌逾4,000點。半導體、記憶體、AI、被動元件等熱門族群血崩，市場信心潰散。億元教授鄭廳宜提醒，台股前波漲太快、季線乖離率過大，目前不是急著抄底時機，應緊盯收出帶量長下影線、新台幣升值等訊號，才是跌深反彈契機。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "台股2天崩4000點！億元教授：現在別急著抄底",
+     "link": "https://www.mirrormedia.mg/story/20260729-183mon-124159",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-07-29T12:41:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "台股收盤／史上第7大跌點！終場跌1564點驚險收4萬關",
+     "link": "https://news.tvbs.com.tw/money/3270545",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-29T11:03:16+08:00",
+     "description": "",
+     "category": "money",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "money",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "全球晶片股跳水 台股重挫2,030點 止跌緊盯三個訊號",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KVFF3a0dmT0swSEZEYTRrLVQza3BoclJXem1TVkJma3Fhd3NHUTBtZmh4QzlrVkluenQwTWMtUXhWZ29QdzNLOGlLTFQ4dEJxQncwdWdqTTgzd9IBX0FVX3lxTE5mMkhWNlE3M2NBbDdYeVVCQVRzVlFwRFhfNlFYZDJxMVFjMDEzU2pDa0hXQ25mbk15SlZGUzg1ekJnZlVXVzdySk1iSkJtNkxBRG0wZ2VQTHZpaVgtM0xV?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-07-29T01:39:47+08:00",
+     "description": "全球晶片股跳水 台股重挫2,030點 止跌緊盯三個訊號  經濟日報",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -1825,203 +2024,6 @@
    ]
   },
   {
-   "id": "11d0e625bf22",
-   "title": "台股收跌2030點失守42K 創史上第3大跌點",
-   "outlet_count": 10,
-   "outlets": [
-    "chinatimes",
-    "ebc",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "newtalk",
-    "nownews",
-    "pts",
-    "tvbs",
-    "udn"
-   ],
-   "article_count": 30,
-   "first_seen": "2026-07-27T17:00:00+08:00",
-   "last_updated": "2026-07-29T21:55:26+08:00",
-   "tags": [
-    "台股"
-   ],
-   "articles": [
-    {
-     "title": "台股暴跌 上市櫃融資單日史詩級大減520億元破紀錄",
-     "link": "https://ec.ltn.com.tw/article/breakingnews/5522276",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-29T21:55:26+08:00",
-     "description": "台股兩天重挫超過四千點，根據證交所及櫃買統計，今日上市櫃融資金額合計大減520億元，創下單日最大減少金額，其中上市融資餘額降至5070億元、上櫃降至1674億元。\n\n\n根...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "台股狂瀉失守4萬點  金管會信心喊話  整戶擔保維持率仍有165.5％",
-     "link": "https://ec.ltn.com.tw/article/breakingnews/5522213",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-29T20:29:56+08:00",
-     "description": "台股昨天（28日）狂跌2030點，寫史上第三慘，今天（29日）再跌1564點，盤中一度跌破4萬點大關，市場憂心融資斷頭風暴衝擊；對此，金管會證期局強調，截至7月28日，信...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "台股兩天崩近8000點　證交所急喊話：回歸基本面",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xRW5hdDI0QUJnSTh1T0hRN0tVYXdJczAyUkpSMFZIb3g2TGg2UUJsQWcwUkhrNFc1eHBLbGE2ejg0LThKZ3hHWFBoR1BXTlNaUmfSAVJBVV95cUxOcUVuYXQyNEFCZ0k4dU9IUTdLVWF3SXMwMlJKUjBWSG94NkxoNlFCbEFnMFJIazRXNXhwS2xhNno4NC04Smd4R1hQaEdQV05TWlJn?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-07-29T20:24:26+08:00",
-     "description": "台股兩天崩近8000點　證交所急喊話：回歸基本面  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "台股今創史上第7大跌點 上市櫃共119家跌停",
-     "link": "https://news.pts.org.tw/article/819962",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-07-29T20:16:51+08:00",
-     "description": "亞股週三開盤力拚反彈，但開盤1小時後開始逆轉翻黑探底，韓股終場跌5.98%，日股跌930點、收在6萬1434點。台股則驚險守住4萬點整數關卡，終場跌幅收斂、跌1564點，以4萬39點作收，創史上第7大跌點，總計上市櫃共119家跌停，成交量1.08兆元。由於近期台股單日暴跌千點，有立委關注國安基金是否進場，財政部長莊翠雲表示，目前將持續關注國際情勢和台股走勢。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "台股2天崩近4000點！金管會拋數據「維持率165%」點名基本面仍穩",
-     "link": "https://finance.ettoday.net/news/3209950",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-29T19:48:00+08:00",
-     "description": "台股29日賣壓持續湧現，加權指數盤中一度跌破4萬點，終場收在40,039.18點，下跌1,564.18點，跌幅3.76%，短短兩個交易日重挫近4,000點，引發市場關注融資追繳及外資操作情況。對此，金管會29日公布最新數據指出，截至7月28日，全市場信用交易整戶擔保維持率為165.50%，借券賣出占市場成交值比率為3.76%，並強調國內上市櫃公司營收及企業基本面仍維持穩健。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "台股重挫逾1,500點、驚險守住4萬大關三大法人賣超縮手至317億元| 財經",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiMkFWczNkV00zT1pDX3RRMEtHbk5ScjVPejR4elV5a0hWMmVHZlkxSzVwRjJrNkpEU3JOMUxYUzVnRFp5aVNOejhYNGxpTVhfcUM5Q21fQ1FGbTA?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-29T16:48:05+08:00",
-     "description": "台股重挫逾1,500點、驚險守住4萬大關三大法人賣超縮手至317億元| 財經  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "2天暴殺4000點「股票對折出清」！億元教授曝進場時機：別急抄底",
-     "link": "https://www.ettoday.net/news/20260729/3209663.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-29T15:52:00+08:00",
-     "description": "台股殺聲隆隆，繼昨（28）日寫下史上第3大收盤跌點後，今（29）日賣壓再度傾巢而出，盤中一度狂瀉約2,000點，跌破4萬點心理防線關卡，短短2個交易日跌逾4,000點。半導體、記憶體、AI、被動元件等熱門族群血崩，市場信心潰散。億元教授鄭廳宜提醒，台股前波漲太快、季線乖離率過大，目前不是急著抄底時機，應緊盯收出帶量長下影線、新台幣升值等訊號，才是跌深反彈契機。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "台股2天崩4000點！億元教授：現在別急著抄底",
-     "link": "https://www.mirrormedia.mg/story/20260729-183mon-124159",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-07-29T12:41:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "台股收盤／史上第7大跌點！終場跌1564點驚險收4萬關",
-     "link": "https://news.tvbs.com.tw/money/3270545",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-29T11:03:16+08:00",
-     "description": "",
-     "category": "money",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "money",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "全球晶片股跳水 台股重挫2,030點 止跌緊盯三個訊號",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KVFF3a0dmT0swSEZEYTRrLVQza3BoclJXem1TVkJma3Fhd3NHUTBtZmh4QzlrVkluenQwTWMtUXhWZ29QdzNLOGlLTFQ4dEJxQncwdWdqTTgzd9IBX0FVX3lxTE5mMkhWNlE3M2NBbDdYeVVCQVRzVlFwRFhfNlFYZDJxMVFjMDEzU2pDa0hXQ25mbk15SlZGUzg1ekJnZlVXVzdySk1iSkJtNkxBRG0wZ2VQTHZpaVgtM0xV?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-07-29T01:39:47+08:00",
-     "description": "全球晶片股跳水 台股重挫2,030點 止跌緊盯三個訊號  經濟日報",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
    "id": "947e935f06d9",
    "title": "台股重挫國安基金是否進場　莊翠雲：持續關注情勢",
    "outlet_count": 10,
@@ -2225,8 +2227,8 @@
    ]
   },
   {
-   "id": "0b11b36bda1b",
-   "title": "天氣／大而強「白海豚」颱風今恐生成！對台影響曝　這2地午後猛炸雷雨",
+   "id": "dc5d39841089",
+   "title": "天氣／又有新颱風！「白海豚」最快今天生成，3縣市雨彈狂炸，對台影響一次看 | 李伊晴 | 風生活",
    "outlet_count": 9,
    "outlets": [
     "chinatimes",
@@ -2239,15 +2241,89 @@
     "storm",
     "tvbs"
    ],
-   "article_count": 37,
-   "first_seen": "2026-07-27T07:29:17+08:00",
-   "last_updated": "2026-07-30T06:23:10+08:00",
+   "article_count": 41,
+   "first_seen": "2026-07-27T09:14:19+08:00",
+   "last_updated": "2026-07-30T08:51:14.088806+08:00",
    "tags": [
     "白海豚",
     "天氣",
     "路徑"
    ],
    "articles": [
+    {
+     "title": "全台今飆36度！午後雷雨恐狂炸 「白海豚」挑戰今年風王",
+     "link": "https://news.ebc.net.tw/news/living/563748",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-30T08:51:14.088806+08:00",
+     "description": "注意劇烈午後雨！今（30 日）全台雖維持高溫悶熱天氣型態，但午後受冷心低壓影響，午後對流發展的不確定性大增，須嚴防劇烈午後雷陣雨。",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "天氣／強颱「白海豚」恐登今年風王！侵台機率曝",
+     "link": "https://news.tvbs.com.tw/life/3271583",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-30T08:01:14+08:00",
+     "description": "",
+     "category": "life",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "life",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "路徑南修！ 「白海豚」風速追平「巴威」 吳德榮：有機會登頂風王",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5522388",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-30T07:53:55+08:00",
+     "description": "今年第13號颱風「白海豚」已經達到強颱等級，目前正持續向西北西前進，未來路徑動向備受關注。氣象專家吳德榮表示，最新歐洲模式的「暴風範圍侵襲機率圖」顯示，「白海豚」路徑略向南調整，...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "天氣／白海豚颱風更壯了！「最新路徑再變」西衝　預測逼北台灣海面",
+     "link": "https://news.tvbs.com.tw/life/3271576",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-30T07:51:14+08:00",
+     "description": "",
+     "category": "life",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "life",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
     {
      "title": "今日高溫上看36度  高溫炎熱持續至下週",
      "link": "https://news.ltn.com.tw/news/life/breakingnews/5522384",
@@ -2263,6 +2339,23 @@
       },
       "acquisition": "rss",
       "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "強颱白海豚挑戰今年風王　侵襲北部機率10%以下",
+     "link": "https://www.ettoday.net/news/20260730/3210021.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-30T06:11:00+08:00",
+     "description": "強烈颱風白海豚挑戰今年風王！氣象專家吳德榮表示，最新歐洲人工智能模式未來10天的暴風範圍侵襲機率圖顯示，暴風範圍侵襲機率以日本琉球、九州一帶較高，台灣北部機率還在10%以下，應持續觀察模式調整。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
      }
     },
     {
@@ -2339,97 +2432,6 @@
       "acquisition": "scraper",
       "category": "life",
       "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "白海豚颱風持續增強前進中 下週恐又有「鯨魚」生成",
-     "link": "https://news.ebc.net.tw/news/living/563669",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-29T17:18:15.614680+08:00",
-     "description": "中度颱風白海豚持續增強中，最新路徑預計往沖繩一帶前進，對台灣沒有直接影響，不過目前距離遙遠仍有變數，需持續觀察，8月3日至5日有可能生成「鯨魚」颱風。",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "白海豚路徑變了！颱風眼超清晰 挑戰今年最強風王",
-     "link": "https://news.ebc.net.tw/news/living/563599",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-29T11:28:16.189872+08:00",
-     "description": "中央氣象署今（29）日表示，中颱「白海豚」（國際命名DOLPHIN）持續增強，未來有增強為強烈颱風的趨勢。",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "天氣／白海豚後「鯨魚颱風緊跟」！最快下週生成　路徑往西猛衝",
-     "link": "https://news.tvbs.com.tw/life/3270588",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-29T10:16:12+08:00",
-     "description": "",
-     "category": "life",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "白海豚颱風強度爆發！路徑往西修正　最新對台影響、日本天氣出爐",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1JNkxYZHAzWU5VQ05rXzdjQzNmTnZuajctWDh1ZGVhdFpkelBpWWhEbHdNNUlCV21HVGZiN0pmQ19xLWtCbEl5T3pxTnXSAVJBVV95cUxOU1dKR0htOTNPT3JWV2dCR3BodWlYdVlTcG5oM3otNE1VZzZjemlHMjRzaFZMeWpKc3o2djNURXVtN3locXBPdUE3bEpFUmZabXF3?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-07-29T10:08:48+08:00",
-     "description": "白海豚颱風強度爆發！路徑往西修正　最新對台影響、日本天氣出爐  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "颱風白海豚挑戰風王寶座！今高溫飆36度　午後雷雨一路到下週",
-     "link": "https://www.mirrormedia.mg/story/20260729edi007",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-07-29T09:54:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
      }
     }
    ]
@@ -2670,9 +2672,9 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 16,
+   "article_count": 17,
    "first_seen": "2026-07-27T09:19:01+08:00",
-   "last_updated": "2026-07-29T23:56:46+08:00",
+   "last_updated": "2026-07-30T08:27:14+08:00",
    "tags": [
     "美元",
     "輝達"
@@ -2712,6 +2714,25 @@
    ],
    "articles": [
     {
+     "title": "OpenAI失控網攻！川普防中國超車拒絕限制：稱霸AI才是贏家",
+     "link": "https://news.tvbs.com.tw/world/3271578",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-30T08:27:14+08:00",
+     "description": "",
+     "category": "world",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "world",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
      "title": "聯電上季每股賺3.39元 創新高",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxdHdSaHFBV2VmeldOWUFyV3N2WWkyUmVFNXNNdThoMkNjMXNGbFBlZlYwNGRBWmcxZHhsa3ViUkp0V2gzc0Z2alpFZzUxMTZDWGl4VjlTX0l3QdIBX0FVX3lxTFBhYjJ3RlZtdlA2ZllqeFVyMXEzVnF5ZHNSR2xXeThJWnRFNlYxNWc3WFhBalowTFNrNXdBV1JTaDJhdXI1ei1acmlaNzBublkzbV9zVnRmRlIwa2c2bWxr?oc=5",
      "source": "udn",
@@ -2733,7 +2754,7 @@
      "link": "https://news.tvbs.com.tw/money/3271209",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-29T18:00:07+08:00",
+     "published": "2026-07-29T17:51:14+08:00",
      "description": "",
      "category": "money",
      "metadata": {
@@ -2873,23 +2894,6 @@
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
      }
-    },
-    {
-     "title": "黃仁勳出手了！輝達豪砸10億美元入股Naver　韓股一度大漲逾10%",
-     "link": "https://finance.ettoday.net/news/3208629",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-27T22:17:00+08:00",
-     "description": "南韓網路與雲端服務龍頭Naver（NAVER）27日股價一度大漲超過10%，主因是輝達（NVIDIA）宣布將投資約10億美元認購Naver新股，協助推動南韓AI資料中心擴建計畫。這項合作也象徵雙方AI戰略夥伴關係進一步深化，將共同布局亞太、歐洲及中東市場日益成長的「主權AI（Sovereign AI）」需求。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
     }
    ]
   },
@@ -3019,12 +3023,12 @@
      }
     },
     {
-     "title": "中聯油獨立報告今出爐 食藥署：原料、製程都出問題…3大關鍵導致缺失",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE45Y3NUeEw3NFlwR25YN1NEcjFjM2thd041Njc1ODZJeTRxT2hjZHVUMWo5ZF9jeHd3THhjRHNmRUpBQVFLb2VGYmlIQXRDb3lvUURV0gFYQVVfeXFMTzVhTll1NWJXWURBY1R2SXdibEd1LTdpRFphWkdzM1VrMnJWVkZHcmlZdm9FVnBmOE9jODlyYzhsN0YwMGpBX1pBRzRsRWM0RTNCWWxpcXFJUA?oc=5",
+     "title": "中聯油獨立報告今出爐食藥署：原料、製程都出問題…3大關鍵導致缺失| 食用油爆致癌物| 生活",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE45Y3NUeEw3NFlwR25YN1NEcjFjM2thd041Njc1ODZJeTRxT2hjZHVUMWo5ZF9jeHd3THhjRHNmRUpBQVFLb2VGYmlIQXRDb3lvUURV?oc=5",
      "source": "udn",
      "source_name": "聯合新聞網",
      "published": "2026-07-27T15:52:15+08:00",
-     "description": "中聯油獨立報告今出爐 食藥署：原料、製程都出問題…3大關鍵導致缺失  UDN",
+     "description": "中聯油獨立報告今出爐食藥署：原料、製程都出問題…3大關鍵導致缺失| 食用油爆致癌物| 生活  UDN",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -3036,12 +3040,12 @@
      }
     },
     {
-     "title": "中聯油獨立報告今出爐食藥署：原料、製程都出問題…3大關鍵導致缺失| 食用油爆致癌物| 生活",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE45Y3NUeEw3NFlwR25YN1NEcjFjM2thd041Njc1ODZJeTRxT2hjZHVUMWo5ZF9jeHd3THhjRHNmRUpBQVFLb2VGYmlIQXRDb3lvUURV?oc=5",
+     "title": "中聯油獨立報告今出爐 食藥署：原料、製程都出問題…3大關鍵導致缺失",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE45Y3NUeEw3NFlwR25YN1NEcjFjM2thd041Njc1ODZJeTRxT2hjZHVUMWo5ZF9jeHd3THhjRHNmRUpBQVFLb2VGYmlIQXRDb3lvUURV0gFYQVVfeXFMTzVhTll1NWJXWURBY1R2SXdibEd1LTdpRFphWkdzM1VrMnJWVkZHcmlZdm9FVnBmOE9jODlyYzhsN0YwMGpBX1pBRzRsRWM0RTNCWWxpcXFJUA?oc=5",
      "source": "udn",
      "source_name": "聯合新聞網",
      "published": "2026-07-27T15:52:15+08:00",
-     "description": "中聯油獨立報告今出爐食藥署：原料、製程都出問題…3大關鍵導致缺失| 食用油爆致癌物| 生活  UDN",
+     "description": "中聯油獨立報告今出爐 食藥署：原料、製程都出問題…3大關鍵導致缺失  UDN",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -3500,236 +3504,6 @@
    ]
   },
   {
-   "id": "b11bf427965f",
-   "title": "新北雙溪昨晚規模5.6地震 一週內估有規模4.5至5餘震",
-   "outlet_count": 8,
-   "outlets": [
-    "chinatimes",
-    "ebc",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "newtalk",
-    "pts",
-    "tvbs"
-   ],
-   "article_count": 12,
-   "first_seen": "2026-07-27T07:59:36+08:00",
-   "last_updated": "2026-07-29T16:56:21+08:00",
-   "tags": [
-    "新北雙溪",
-    "南海海槽",
-    "強震"
-   ],
-   "claims": [
-    {
-     "type": "地震規模",
-     "agree": false,
-     "outlet_count": 3,
-     "values": [
-      {
-       "value": "7.0",
-       "outlets": [
-        "新頭殼"
-       ]
-      },
-      {
-       "value": "5",
-       "outlets": [
-        "鏡週刊"
-       ]
-      },
-      {
-       "value": "7.1",
-       "outlets": [
-        "中時新聞網"
-       ]
-      }
-     ]
-    }
-   ],
-   "articles": [
-    {
-     "title": "熊本7.1強震只是前震？ 專家示警：南海海槽「百年週期已到」",
-     "link": "https://news.ltn.com.tw/news/world/breakingnews/5521588",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-29T16:56:21+08:00",
-     "description": "日本熊本縣昨（28）日發生規模7.1的強烈地震，震源深度僅10公里，最大震度達到7，截至今（29）日下午3點，累積餘震逾200起。台灣大學地質系教授陳文山分析指出，南海海槽百年強...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "熊本7.1強震「只是前震」？專家驚百年週期已到：規模恐達8.5",
-     "link": "https://news.tvbs.com.tw/world/3270553",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-29T09:36:45+08:00",
-     "description": "",
-     "category": "world",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "world",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "熊本規模7.1強震恐是前震 專家示警南海海槽「百年周期來了」",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Fc3hTYjhzYmFKMDd4MkRISi05cUQwWFZNcEg4aFFubVlKWGQyUUtFNjJDYjV5MDc0WmpXMWtTM1A0THlCNmNlTnpyS09yNnU1UDRPeU1kVVFUd2t6cFdLYzV0R1ZkYWtTbGtmNmVR?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-07-29T07:52:01+08:00",
-     "description": "熊本規模7.1強震恐是前震 專家示警南海海槽「百年周期來了」  中時新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "熊本7.1強震恐是前震！台專家曝百年「南海海槽週期」已到",
-     "link": "https://news.ebc.net.tw/news/world/563539",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-29T00:51:49.169668+08:00",
-     "description": "日本熊本28日下午4時27分發生規模7.1強震，深度僅約10公里，最大震度達7級。主震發生後餘震不斷，最大餘震規模達6.1，日本氣象廳已對周邊海域發布海嘯警報。",
-     "category": "world",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "world",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "連續強震有前例！憂熊本7.1地震「只是前震」　學者示警：南海海槽週期已到",
-     "link": "https://www.mirrormedia.mg/story/20260728edi045",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-07-28T18:32:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "近10年罕見！新北雙溪5.6地震「非斷層造成」",
-     "link": "https://news.ebc.net.tw/news/living/563279",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-27T15:30:17.629734+08:00",
-     "description": "新北市雙溪區26日晚間發生規模5.6地震，震源深度95公里，北台灣民眾普遍感受到明顯搖晃。根據國家災害防救科技中心資料，此次震央周邊過去觀測紀錄相對少見。",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "雙溪地震非斷層引發！氣象署揭隱沒帶：曾釀規模7.0強震",
-     "link": "https://news.ebc.net.tw/news/living/563251",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-27T13:33:23.884117+08:00",
-     "description": "新北市雙溪區昨晚（26）發生芮氏規模5.6地震，由於該地區較少地震，其地震成因引起外界關注。中央氣象署指出，該地震與南海海槽有一定關聯。",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "新北雙溪5.6地震與去年7.0強震有關　氣象署：未來一週恐有規模5餘震",
-     "link": "https://www.mirrormedia.mg/story/20260727edi029",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-07-27T11:09:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "新北雙溪地區昨晚罕見5.6地震！氣象署：與去年規模7.0強震有關| 生活",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uRzB2bndlWWJtb00zYURUQVNDckYtYnpOcllxTHpydkl3b0VocU8wOU0xZl9sckJUdXZydGpKZWdMb0pqUUtWbUJxeFgwejNSc1hRRnVNaHVyWUk?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-27T10:43:18+08:00",
-     "description": "新北雙溪地區昨晚罕見5.6地震！氣象署：與去年規模7.0強震有關| 生活  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "雙溪地震隱沒帶延伸南海海槽　氣象署：與去年規模7.0強震有關",
-     "link": "https://www.ettoday.net/news/20260727/3208142.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-27T10:14:00+08:00",
-     "description": "昨天晚間新北雙溪發生規模5.6地震，少見的震央引起討論。中央氣象署表示，這起地震的隱沒帶往東延伸至宜蘭外海，往北延伸至日本沖繩，去年12月也曾在宜蘭外海發生規模7.0地震，今年也有規模6.1地震。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    }
-   ]
-  },
-  {
    "id": "66d9a3d73b5c",
    "title": "巴紐片面關閉台駐處　外交部：已停止進口現貨天然氣",
    "outlet_count": 8,
@@ -3933,6 +3707,204 @@
    ]
   },
   {
+   "id": "bf13fa574a5d",
+   "title": "13號颱風「白海豚」將生成！月底恐轉強颱　日本預測路徑曝",
+   "outlet_count": 7,
+   "outlets": [
+    "ebc",
+    "ettoday",
+    "ltn",
+    "mirror",
+    "newtalk",
+    "nownews",
+    "tvbs"
+   ],
+   "article_count": 21,
+   "first_seen": "2026-07-27T09:48:05+08:00",
+   "last_updated": "2026-07-30T08:51:14.088806+08:00",
+   "tags": [
+    "白海豚",
+    "路徑",
+    "強颱"
+   ],
+   "articles": [
+    {
+     "title": "強颱白海豚暴風圈擴大！路徑偏西恐逼近北部外海",
+     "link": "https://news.ebc.net.tw/news/living/563750",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-30T08:51:14.088806+08:00",
+     "description": "今年第13號颱風「白海豚」已正式升級為強烈颱風！根據中央氣象署今（30日）清晨2時的觀測資料，白海豚中心位置目前位於鵝鑾鼻東方4860公里處，正以每小時21公里",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "今又熱又悶！強颱白海豚「圓滾滾」路徑西修　專家：直衝日本機率下降",
+     "link": "https://www.mirrormedia.mg/story/20260730edi003",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-07-30T07:05:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "強颱白海豚「還在長大」路徑西修　直衝日本機率下降",
+     "link": "https://www.ettoday.net/news/20260730/3210025.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-30T05:49:00+08:00",
+     "description": "白海豚還在長大！氣象專家林得恩表示，強烈颱風白海豚後續路徑，各國主流數值模式均有調整修正，大多顯示向西分量都在增加，直衝日本的機會也正在下降；不過，時間還久，環境尚在調整，不確定性大，可再追蹤監測。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "白海豚升級強颱！颱風粉專：風眼銳利 核心非常紮實",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5522306",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-29T23:00:18+08:00",
+     "description": "首次上稿 07-29 22:59更新時間 07-30 06:00\n今年第13號颱風「白海豚」持續向西北西前進，移動速度每小時20公里。對此，氣象粉專「台灣颱風論壇｜天氣特急﻿」...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "白海豚升級成強颱！　最新路徑、對台影響一次看",
+     "link": "https://www.mirrormedia.mg/story/20260729edi074",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-07-29T21:37:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "白海豚升級強颱　路徑偏西",
+     "link": "https://www.ettoday.net/news/20260729/3209461.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-29T21:08:00+08:00",
+     "description": "中央氣象署發布，今年第13號颱風「白海豚」晚間8時增強發展為強烈颱風。白海豚以西北西朝日本南方海面移動，目前距離台灣相當遙遠，暫時對台灣天氣無影響，但下周可能往日本北轉或偏西往韓國、中國，甚至台灣北部海面前進 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "白海豚路徑持續西修！AI預報「2條穿過北台灣」恐升級強颱",
+     "link": "https://news.ebc.net.tw/news/living/563706",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-29T21:00:07.847843+08:00",
+     "description": "中颱「白海豚」持續西修，氣象粉專「台灣颱風論壇｜天氣特急」表示，AI預報驚見2條路徑穿過北台灣。中央氣象署評估，目前白海豚已達中颱上限，今、明2天恐升級強颱。",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "白海豚颱風會轉彎？粉專曝「路徑持續西修」　AI預報「有機會靠近北台灣海域」",
+     "link": "https://www.mirrormedia.mg/story/20260729edi058",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-07-29T19:08:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "Google個人AI代理台灣上線！官方7大指令教你用Gemini Spark",
+     "link": "https://3c.ltn.com.tw/news/67010",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-29T15:12:32+08:00",
+     "description": "Google在今年5月的2026 Google I/O 開發者大會上，發表全新個人AI服務Gemini Spark，如今這項功能也正式開放台灣用戶使用。\n什麼是Gemini Spark？\n簡單來說，Gemini Spark就像一位24小時待命的個人AI助理。它由Gemini …",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "白海豚颱風增強路徑演變與潛在影響分析",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9QSTNpVGVsOFlBNkticEdrLU1QcXp3bW14YTV4Y0ZHeXBWMkdOQnl3cDROVloxLU93Tmk5eDJyNVBLTUt5Nms1RUF3dDM?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-29T13:39:24+08:00",
+     "description": "白海豚颱風增強路徑演變與潛在影響分析  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
    "id": "73299b830d77",
    "title": "花蓮縣社會處長涉貪交保  縣府：偵辦時機引疑慮",
    "outlet_count": 7,
@@ -3945,19 +3917,19 @@
     "mirror",
     "tvbs"
    ],
-   "article_count": 10,
+   "article_count": 11,
    "first_seen": "2026-07-29T20:55:19+08:00",
-   "last_updated": "2026-07-30T06:19:00+08:00",
+   "last_updated": "2026-07-30T08:27:15+08:00",
    "tags": [
     "社會處長",
-    "花蓮縣府",
+    "花蓮縣",
     "善款"
    ],
    "claims": [
     {
      "type": "金額",
      "agree": false,
-     "outlet_count": 4,
+     "outlet_count": 3,
      "values": [
       {
        "value": "27.8億元",
@@ -3969,14 +3941,30 @@
       {
        "value": "40萬元",
        "outlets": [
-        "中央社",
-        "自由時報"
+        "中央社"
        ]
       }
      ]
     }
    ],
    "articles": [
+    {
+     "title": "花蓮縣社會處長涉貪交保 486先生：我就是先知",
+     "link": "https://ent.ltn.com.tw/news/breakingnews/5522405",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-30T08:27:15+08:00",
+     "description": "2018年花蓮大地震，團購電商名人「486先生」陳延昶原本捐了200萬，後來發現民眾捐給災民善款，竟有部分被規劃拿去做業者紓困、貸款利息補貼，當時令他非常不能接受。\n\n\n...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
     {
      "title": "0206花蓮強震27.8億元善款流向有疑慮！花蓮縣府遭搜索　社會處長40萬交保",
      "link": "https://www.mirrormedia.mg/story/20260730edi001",
@@ -4134,14 +4122,119 @@
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
      }
+    }
+   ]
+  },
+  {
+   "id": "314e94cbc0ee",
+   "title": "雙溪地震隱沒帶延伸南海海槽　氣象署：與去年規模7.0強震有關",
+   "outlet_count": 7,
+   "outlets": [
+    "chinatimes",
+    "ebc",
+    "ettoday",
+    "ltn",
+    "mirror",
+    "newtalk",
+    "tvbs"
+   ],
+   "article_count": 11,
+   "first_seen": "2026-07-27T10:14:00+08:00",
+   "last_updated": "2026-07-30T08:14:07+08:00",
+   "tags": [
+    "南海海槽",
+    "強震",
+    "是前震"
+   ],
+   "claims": [
+    {
+     "type": "地震規模",
+     "agree": false,
+     "outlet_count": 4,
+     "values": [
+      {
+       "value": "7.1",
+       "outlets": [
+        "中時新聞網",
+        "自由時報"
+       ]
+      },
+      {
+       "value": "7.0",
+       "outlets": [
+        "新頭殼"
+       ]
+      },
+      {
+       "value": "5",
+       "outlets": [
+        "鏡週刊"
+       ]
+      }
+     ]
+    }
+   ],
+   "articles": [
+    {
+     "title": "熊本7.1強震》日奈久斷層錯動30公里 專家示警仍有未破裂區",
+     "link": "https://news.ltn.com.tw/news/world/breakingnews/5522403",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-30T08:14:07+08:00",
+     "description": "日本熊本縣28日發生規模7.1強震，最大震度達7，已知逾10人喪命。日本政府地震調查委員會研判，日奈久斷層帶部分區段發生錯動引發這起強震，推估斷層帶錯動範圍長約30公里。專家指出...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
     },
     {
-     "title": "傳花蓮社會處長遭檢調帶回 疑大地震27.8億善款金流有關",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSTVTV1VFMUdfZnlyMXB1a1NDVmJrNEF5ZDdDSTVrS2FYRG10WDhTc1ZnR1FDZmZxTkxrMEw1Xzh3NkR4S2hnVzlSdGVpWEJjZmxlOW5mTWhZR1ZXRjFTVnhqLUtsTl9mc0hZMXlMSkg0UHBEZnlueFFmTkhaSHNKS1hOSkhxa3dyaEdxdTJUYw?oc=5",
+     "title": "熊本7.1強震只是前震？ 專家示警：南海海槽「百年週期已到」",
+     "link": "https://news.ltn.com.tw/news/world/breakingnews/5521588",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-29T16:56:21+08:00",
+     "description": "日本熊本縣昨（28）日發生規模7.1的強烈地震，震源深度僅10公里，最大震度達到7，截至今（29）日下午3點，累積餘震逾200起。台灣大學地質系教授陳文山分析指出，南海海槽百年強...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "熊本7.1強震「只是前震」？專家驚百年週期已到：規模恐達8.5",
+     "link": "https://news.tvbs.com.tw/world/3270553",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-29T09:36:45+08:00",
+     "description": "",
+     "category": "world",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "world",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "熊本規模7.1強震恐是前震 專家示警南海海槽「百年周期來了」",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Fc3hTYjhzYmFKMDd4MkRISi05cUQwWFZNcEg4aFFubVlKWGQyUUtFNjJDYjV5MDc0WmpXMWtTM1A0THlCNmNlTnpyS09yNnU1UDRPeU1kVVFUd2t6cFdLYzV0R1ZkYWtTbGtmNmVR?oc=5",
      "source": "chinatimes",
      "source_name": "中時新聞網",
-     "published": "2026-07-29T20:55:19+08:00",
-     "description": "傳花蓮社會處長遭檢調帶回 疑大地震27.8億善款金流有關  中時新聞網",
+     "published": "2026-07-29T07:52:01+08:00",
+     "description": "熊本規模7.1強震恐是前震 專家示警南海海槽「百年周期來了」  中時新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -4151,37 +4244,15 @@
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
-    }
-   ]
-  },
-  {
-   "id": "90c7ffa0b4ad",
-   "title": "MLB》太神了！李灝宇夯長打連11戰敲安 刷新台灣史無前例偉業",
-   "outlet_count": 7,
-   "outlets": [
-    "ebc",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "newtalk",
-    "nownews",
-    "tvbs"
-   ],
-   "article_count": 21,
-   "first_seen": "2026-07-27T07:41:06+08:00",
-   "last_updated": "2026-07-30T06:16:28+08:00",
-   "tags": [
-    "李灝宇"
-   ],
-   "articles": [
+    },
     {
-     "title": "MLB老虎延長賽輸金鶯　李灝宇連續安打停在12場",
-     "link": "https://news.tvbs.com.tw/sports/3271565",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-30T06:16:28+08:00",
-     "description": "",
-     "category": "sports",
+     "title": "熊本7.1強震恐是前震！台專家曝百年「南海海槽週期」已到",
+     "link": "https://news.ebc.net.tw/news/world/563539",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-29T00:51:49.169668+08:00",
+     "description": "日本熊本28日下午4時27分發生規模7.1強震，深度僅約10公里，最大震度達7級。主震發生後餘震不斷，最大餘震規模達6.1，日本氣象廳已對周邊海域發布海嘯警報。",
+     "category": "world",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -4189,101 +4260,16 @@
        "source": "unknown"
       },
       "acquisition": "scraper",
-      "category": "sports",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
+      "category": "world",
+      "feed_url": "https://news.ebc.net.tw/realtime"
      }
     },
     {
-     "title": "MLB老虎延長賽輸金鶯　李灝宇連續安打停在12場",
-     "link": "https://sports.ltn.com.tw/news/breakingnews/5522377",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-30T05:21:03+08:00",
-     "description": "美國職棒大聯盟MLB底特律老虎今天主場與巴爾的摩金鶯進行3連戰系列最後一戰，老虎隊台灣好手李灝宇只擊出一支高飛犧牲打帶1分打點，連續安打場次停在12場。\n\n兩隊打完9局7比7戰平，延長賽第1...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "MLB》集氣！李灝宇對明星左投扛先發第3棒 挑戰連13場敲安最狂紀錄",
-     "link": "https://sports.ltn.com.tw/news/breakingnews/5522294",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-29T22:15:45+08:00",
-     "description": "老虎台灣怪力男李灝宇今天替補上陣，沒有打擊機會。老虎將於台灣時間明天凌晨1點10分繼續對決金鶯，李灝宇擔任先發第3棒三壘手，要持續挑戰連續安打場次紀錄。\n\n\n李灝宇今天在8...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "MLB》李灝宇金項鍊受矚目 在國外還是投資標的？",
-     "link": "https://sports.ltn.com.tw/news/breakingnews/5522103",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-29T18:29:36+08:00",
-     "description": "老虎台灣怪力男李灝宇，近期好表現引起台灣球迷關注，而他脖子上那條超粗金項鍊更是引發討論。\n\n\n有媒體請銀樓業者看照片隔空估價，粗估其價值最高可達到將近百萬元新台幣，但詳細...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "MLB》李灝宇超粗金項鍊獲關注！張育成看法超直接 曝旅美爆笑往事",
-     "link": "https://sports.ltn.com.tw/news/breakingnews/5521889",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-29T16:57:06+08:00",
-     "description": "老虎台灣怪力男李灝宇連續12場比賽敲安，引起台灣球迷關注，而他脖子上那條超粗金項鍊更是引發討論。前旅美好手張育成直呼，在球場上戴金項鍊其實沒有太特別的意義，純粹就是身分地位...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "MLB》成李灝宇現役紀錄苦主！剛獲29億約的金鶯右投狂挨10安吐心聲",
-     "link": "https://sports.ltn.com.tw/news/breakingnews/5520574",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-28T16:55:34+08:00",
-     "description": "金鶯今天以8：5擊敗老虎，29歲右投布瑞迪許（Kyle Bradish）此役表現不理想，先發4.2局被敲多達10支安打，失掉5分責失分。賽後他坦言，幸好球隊最後有贏球。\n\n...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "MLB海外賽有望來台？　蔡其昌拜會大聯盟總部：下一輪台灣優先",
-     "link": "https://www.mirrormedia.mg/story/20260728edi054",
+     "title": "連續強震有前例！憂熊本7.1地震「只是前震」　學者示警：南海海槽週期已到",
+     "link": "https://www.mirrormedia.mg/story/20260728edi045",
      "source": "mirror",
      "source_name": "鏡週刊",
-     "published": "2026-07-28T12:02:00+08:00",
+     "published": "2026-07-28T18:32:00+08:00",
      "description": "",
      "metadata": {
       "schema_version": 1,
@@ -4296,13 +4282,13 @@
      }
     },
     {
-     "title": "MLB／李灝宇連12戰敲安續寫紀錄！朝鈴木一朗壯舉邁進",
-     "link": "https://news.ebc.net.tw/news/sport/563411",
+     "title": "近10年罕見！新北雙溪5.6地震「非斷層造成」",
+     "link": "https://news.ebc.net.tw/news/living/563279",
      "source": "ebc",
      "source_name": "東森新聞",
-     "published": "2026-07-28T11:27:22.296970+08:00",
-     "description": "底特律老虎隊23歲台灣好手李灝宇手感持續火熱，於今賽事中擔任先發第七棒二壘手。他在前兩打席展現優異推進與打擊能力，包辦隊上2分打點，一舉將個人連續安打場次推進至",
-     "category": "sport",
+     "published": "2026-07-27T15:30:17.629734+08:00",
+     "description": "新北市雙溪區26日晚間發生規模5.6地震，震源深度95公里，北台灣民眾普遍感受到明顯搖晃。根據國家災害防救科技中心資料，此次震央周邊過去觀測紀錄相對少見。",
+     "category": "living",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -4310,17 +4296,249 @@
        "source": "unknown"
       },
       "acquisition": "scraper",
-      "category": "sport",
+      "category": "living",
       "feed_url": "https://news.ebc.net.tw/realtime"
      }
     },
     {
-     "title": "大巨蛋有資格辦MLB海外賽嗎？規格已是世界級　卻卡在「一難關」",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9OZmxuQVQ4eUxGWDN4WWhQZ0NqWklMcFdFSXpWY3BocmFJMEJCd3E2MkFkcG9BM0xmUE8td0Y3OHA5LVZ1TlZoWEktOWrSAVJBVV95cUxNZjF1Ym10TzNldkxxaEg4RzBEclBEeUE3dTh5OXpvR2RVWkdnc0dub3NEZzFOWU95ZUlIMGsxU3d5M1VUSFlNRUdYZDQ1U3A4TVF3?oc=5",
+     "title": "雙溪地震非斷層引發！氣象署揭隱沒帶：曾釀規模7.0強震",
+     "link": "https://news.ebc.net.tw/news/living/563251",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-27T13:33:23.884117+08:00",
+     "description": "新北市雙溪區昨晚（26）發生芮氏規模5.6地震，由於該地區較少地震，其地震成因引起外界關注。中央氣象署指出，該地震與南海海槽有一定關聯。",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "新北雙溪5.6地震與去年7.0強震有關　氣象署：未來一週恐有規模5餘震",
+     "link": "https://www.mirrormedia.mg/story/20260727edi029",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-07-27T11:09:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "新北雙溪地區昨晚罕見5.6地震！氣象署：與去年規模7.0強震有關| 生活",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uRzB2bndlWWJtb00zYURUQVNDckYtYnpOcllxTHpydkl3b0VocU8wOU0xZl9sckJUdXZydGpKZWdMb0pqUUtWbUJxeFgwejNSc1hRRnVNaHVyWUk?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-27T10:43:18+08:00",
+     "description": "新北雙溪地區昨晚罕見5.6地震！氣象署：與去年規模7.0強震有關| 生活  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
+   "id": "f7af31fe6be9",
+   "title": "1縣市豪大雨特報！下到晚上",
+   "outlet_count": 7,
+   "outlets": [
+    "ebc",
+    "ettoday",
+    "ltn",
+    "mirror",
+    "newtalk",
+    "nownews",
+    "tvbs"
+   ],
+   "article_count": 35,
+   "first_seen": "2026-07-27T09:42:00+08:00",
+   "last_updated": "2026-07-30T07:48:01+08:00",
+   "tags": [
+    "氣象署",
+    "雨特報",
+    "生活"
+   ],
+   "articles": [
+    {
+     "title": "快訊》熱浪襲4縣市如烤箱！氣象署示警：嚴防中暑| 生活",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5abUVPSzJ1Q2habTdzMzRxWVpsc0M2ME1mZS1LM19ucWc1MFBlRGZjaktkTlJ3UUhocHVQVWNTSmJlMXRTZ3NuWlJ1eVZOdnlxb0FDU3ptSS1haDQ?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-30T07:48:01+08:00",
+     "description": "快訊》熱浪襲4縣市如烤箱！氣象署示警：嚴防中暑| 生活  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "大雷雨襲擊嘉義、台南、高雄 雨勢持續1小時",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5522124",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-29T18:57:04+08:00",
+     "description": "氣象署今晚對嘉義縣、台南市發布大雨特報，提醒民眾留心雷擊、強陣風、積水等情況。 \n\n氣象署提醒，對流雲系發展旺盛，易有短延時強降雨，今（29）日嘉義及台南地區有局部大雨發生的...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "快訊》3縣市雷雨猛灌！氣象署示警嚴防雷擊積水| 生活",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqOElQUlo5aHR6VWJ3RUROa1BCbEFlXzBYMVR3bEw5ZzNVVVFrVElIWVRqTnEybG1OaDRwZkRBMWlJLW1TSVo2UDkxVHUtSVo3RjM3OHZvRzhpWjQ?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-29T18:48:01+08:00",
+     "description": "快訊》3縣市雷雨猛灌！氣象署示警嚴防雷擊積水| 生活  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "快訊》7/29 降雨特報！外出請注意，留意路面積水| 生活",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSMTdVSGpaWGtTdHd5U0pXcHdoaHZnMnNpYnJTbElEa0Y1Nkd0dHRWQlZoekY1aXZuLUcyWWEtUXpMSWtMMVUyZnhheTdjenRzbzJqeXhESnZXNFE?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-29T18:36:01+08:00",
+     "description": "快訊》7/29 降雨特報！外出請注意，留意路面積水| 生活  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "快訊》4縣市高溫如烤箱！氣象署示警：當心熱衰竭| 生活",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KYVRTeVBwV3pVWkVaNEVzWlJQdV9zbDRvWVpjVHRWNTFadm14NGluZHBici1NS3JBb0lrYXM1azZLaVFGSnlGWmNmd1BTNHUzRFM2TzhUczJXZkU?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-29T18:24:02+08:00",
+     "description": "快訊》4縣市高溫如烤箱！氣象署示警：當心熱衰竭| 生活  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "快訊》7/29 高溫特報！熱浪侵襲嚴防中暑熱傷害| 生活",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlM1pRYkJCVVZlRUdjU1M5ZmpOYUd4MmJFN1FqV01SR3NsNEhDdHpRc3U1U0tZdWx2aXJiaUxlblE3VThJbVF1OXRKZjliQlp2UWtMRUxvTE9ubE0?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-29T07:48:01+08:00",
+     "description": "快訊》7/29 高溫特報！熱浪侵襲嚴防中暑熱傷害| 生活  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "天氣／大雨狂轟！2縣市發布淹水警戒　5地列一級",
+     "link": "https://news.tvbs.com.tw/life/3269046",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-28T19:04:47.411509+08:00",
+     "description": "",
+     "category": "life",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "life",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "快訊》熱浪來襲！9縣市氣象署示警：慎防熱傷害| 生活",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtSTY3YnZIT0c3ZUNfcXJSeW1zV2swdE4tbWhEVHhRN2RaYWhmaG41dUpSb1NYeUJRa284NVpWY1RVQVZCVS0yNi1YNHlYWHdIbmcteGJDbzNYaGs?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-28T17:48:01+08:00",
+     "description": "快訊》熱浪來襲！9縣市氣象署示警：慎防熱傷害| 生活  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "12縣市大雨特報！大雷雨開炸投雲嘉南",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5520219",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-28T15:08:36+08:00",
+     "description": "上稿時間：13:42更新時間：15:08\n對流雲系發展旺盛，易有短延時強降雨，中央氣象署今（28）日針對12縣市發布大雨特報。\n\n氣象署下午1時35分表示，今（28）日雲林...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "小心下冰雹！嘉義、台南急發「大雷雨警戒」　國家級警報狂響",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YX2l0MVJpc1ZLdHd5THItUVhMU0dMRXoxOFBfTW5XV3JDcTl1NnVFTFVEUF84V3VfUy0yWnBHV01jdkRlcXRuTFVqUER5cWpNOXfSAVJBVV95cUxOWF9pdDFSaXNWS3R3eUxyLVFYTFNHTEV6MThQX01uV1dyQ3E5dTZ1RUxVRFBfOFd1X1MtMlpwR1dNY3ZEZXF0bkxValBEeXFqTTl3?oc=5",
      "source": "nownews",
      "source_name": "今日新聞",
-     "published": "2026-07-28T10:52:48+08:00",
-     "description": "大巨蛋有資格辦MLB海外賽嗎？規格已是世界級　卻卡在「一難關」  NOWnews今日新聞",
+     "published": "2026-07-28T14:05:36+08:00",
+     "description": "小心下冰雹！嘉義、台南急發「大雷雨警戒」　國家級警報狂響  NOWnews今日新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -4329,25 +4547,6 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "MLB／李灝宇手感火燙！連12場敲安灌2打點　直逼張育成紀錄",
-     "link": "https://news.tvbs.com.tw/sports/3269478",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-28T09:44:52+08:00",
-     "description": "",
-     "category": "sports",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "sports",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
      }
     }
    ]
@@ -4365,7 +4564,7 @@
     "nownews",
     "tvbs"
    ],
-   "article_count": 81,
+   "article_count": 80,
    "first_seen": "2026-07-28T17:49:00+08:00",
    "last_updated": "2026-07-29T23:02:26.761281+08:00",
    "tags": [
@@ -4603,201 +4802,6 @@
    ]
   },
   {
-   "id": "2f6db645412c",
-   "title": "中北部防短延時豪雨！白海豚颱風最快今生成　是否「轉彎」路徑曝光",
-   "outlet_count": 7,
-   "outlets": [
-    "ebc",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "newtalk",
-    "nownews",
-    "tvbs"
-   ],
-   "article_count": 19,
-   "first_seen": "2026-07-27T07:54:00+08:00",
-   "last_updated": "2026-07-29T23:00:18+08:00",
-   "tags": [
-    "白海豚",
-    "路徑"
-   ],
-   "articles": [
-    {
-     "title": "白海豚升級強颱！颱風粉專：風眼銳利 核心非常紮實",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5522306",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-29T23:00:18+08:00",
-     "description": "首次上稿 07-29 22:59更新時間 07-30 06:00\n今年第13號颱風「白海豚」持續向西北西前進，移動速度每小時20公里。對此，氣象粉專「台灣颱風論壇｜天氣特急﻿」...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "白海豚升級成強颱！　最新路徑、對台影響一次看",
-     "link": "https://www.mirrormedia.mg/story/20260729edi074",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-07-29T21:37:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "白海豚升級強颱　路徑偏西",
-     "link": "https://www.ettoday.net/news/20260729/3209461.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-29T21:08:00+08:00",
-     "description": "中央氣象署發布，今年第13號颱風「白海豚」晚間8時增強發展為強烈颱風。白海豚以西北西朝日本南方海面移動，目前距離台灣相當遙遠，暫時對台灣天氣無影響，但下周可能往日本北轉或偏西往韓國、中國，甚至台灣北部海面前進 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "白海豚路徑持續西修！AI預報「2條穿過北台灣」恐升級強颱",
-     "link": "https://news.ebc.net.tw/news/living/563706",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-07-29T21:00:07.847843+08:00",
-     "description": "中颱「白海豚」持續西修，氣象粉專「台灣颱風論壇｜天氣特急」表示，AI預報驚見2條路徑穿過北台灣。中央氣象署評估，目前白海豚已達中颱上限，今、明2天恐升級強颱。",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "白海豚颱風會轉彎？粉專曝「路徑持續西修」　AI預報「有機會靠近北台灣海域」",
-     "link": "https://www.mirrormedia.mg/story/20260729edi058",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-07-29T19:08:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "Google個人AI代理台灣上線！官方7大指令教你用Gemini Spark",
-     "link": "https://3c.ltn.com.tw/news/67010",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-29T15:12:32+08:00",
-     "description": "Google在今年5月的2026 Google I/O 開發者大會上，發表全新個人AI服務Gemini Spark，如今這項功能也正式開放台灣用戶使用。\n什麼是Gemini Spark？\n簡單來說，Gemini Spark就像一位24小時待命的個人AI助理。它由Gemini …",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "白海豚颱風增強路徑演變與潛在影響分析",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9QSTNpVGVsOFlBNkticEdrLU1QcXp3bW14YTV4Y0ZHeXBWMkdOQnl3cDROVloxLU93Tmk5eDJyNVBLTUt5Nms1RUF3dDM?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-29T13:39:24+08:00",
-     "description": "白海豚颱風增強路徑演變與潛在影響分析  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "Google Gemini Spark登台！不用一直下指令、電腦關機也照樣工作",
-     "link": "https://ai.ettoday.net/news/3209620",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-29T13:15:00+08:00",
-     "description": "Google 正式發表全新 AI 代理 Gemini Spark，主打可在雲端持續執行使用者交辦的工作，即使電腦關機或手機鎖定，仍能於背景完成指定任務。Google 表示，Gemini Spark 將於未來幾周內陸續開放給台灣的 Google AI Pro 訂閱用戶，並支援繁體中文與英文。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "Google AI代理來了！Gemini Spark開放台灣Pro用戶  關機也能持續工作",
-     "link": "https://ec.ltn.com.tw/article/breakingnews/5521517",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-29T12:51:54+08:00",
-     "description": "Google今（29）日宣布，旗下全新AI代理（AI Agent）Gemini Spark將於未來幾週陸續開放給台灣Google AI Pro訂閱用戶。不同於傳統聊天機器...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "Google搜尋AI摘要覆蓋率達43%　網站流量面臨新挑戰",
-     "link": "https://ai.ettoday.net/news/3209563",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-29T11:50:00+08:00",
-     "description": "Google 正持續擴大 AI 功能在搜尋服務中的比重。最新研究指出，Google 搜尋結果中出現 AI 摘要（AI Overviews） 的比例，已從一年前的 15% 提升至 43%，顯示 AI 生成答案正逐漸成為使用者取得資訊的重要方式，也讓搜尋模式從過去引導使用者前往網站，逐步轉向直接在搜尋頁面提供答案。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    }
-   ]
-  },
-  {
    "id": "8f95c577fef0",
    "title": "「油不得你」影片疑涉偽造文書罪　北檢分他案偵辦",
    "outlet_count": 7,
@@ -5011,12 +5015,12 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 12,
+   "article_count": 11,
    "first_seen": "2026-07-28T14:38:06+08:00",
    "last_updated": "2026-07-29T19:08:34.726747+08:00",
    "tags": [
-    "蔣萬安",
     "有事衝我來",
+    "蔣萬安",
     "查水表"
    ],
    "articles": [
@@ -5073,23 +5077,6 @@
       "acquisition": "scraper",
       "category": "politics",
       "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "蔣萬安批綠指揮辦深偽片 徐國勇反擊：改姓就忘了法律？",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5521512",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-29T12:51:03+08:00",
-     "description": "前國民黨新媒體主任韋淳祐涉嫌偽造總統賴清德聲音遭檢舉，台北市長蔣萬安聲稱是自己委託製作影片，還指控民進黨議員要求警察偵辦是「指揮辦案」。民進黨秘書長徐國勇今（25日）反...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
      }
     },
     {
@@ -5195,55 +5182,14 @@
       "category": "politics",
       "feed_url": "https://news.tvbs.com.tw/realtime"
      }
-    }
-   ]
-  },
-  {
-   "id": "f7af31fe6be9",
-   "title": "1縣市豪大雨特報！下到晚上",
-   "outlet_count": 7,
-   "outlets": [
-    "ebc",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "newtalk",
-    "nownews",
-    "tvbs"
-   ],
-   "article_count": 34,
-   "first_seen": "2026-07-27T09:42:00+08:00",
-   "last_updated": "2026-07-29T18:57:04+08:00",
-   "tags": [
-    "氣象署",
-    "雨特報",
-    "生活"
-   ],
-   "articles": [
-    {
-     "title": "大雷雨襲擊嘉義、台南、高雄 雨勢持續1小時",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5522124",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-29T18:57:04+08:00",
-     "description": "氣象署今晚對嘉義縣、台南市發布大雨特報，提醒民眾留心雷擊、強陣風、積水等情況。 \n\n氣象署提醒，對流雲系發展旺盛，易有短延時強降雨，今（29）日嘉義及台南地區有局部大雨發生的...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
     },
     {
-     "title": "快訊》3縣市雷雨猛灌！氣象署示警嚴防雷擊積水| 生活",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqOElQUlo5aHR6VWJ3RUROa1BCbEFlXzBYMVR3bEw5ZzNVVVFrVElIWVRqTnEybG1OaDRwZkRBMWlJLW1TSVo2UDkxVHUtSVo3RjM3OHZvRzhpWjQ?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-29T18:48:01+08:00",
-     "description": "快訊》3縣市雷雨猛灌！氣象署示警嚴防雷擊積水| 生活  Newtalk新聞",
+     "title": "藍AI深偽賴清德惹議！蔣萬安嗆「我拜託韋淳祐製作影片」：有事衝我來",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE56NnB6WElyX0stdFVyaFF3em5VNjdIZHhfQlF3NkpYVklSYUMzMUFjUjRtNWZoSVJZcWtQam5vZWJwaG1ZeXFDUNIBTEFVX3lxTE5lWmNSbnh5YUlTa0xKd1RQUlBZanlNbXFoakVvWHhjYVVPWGFCcmlkWmEwT0N0TTFsR0dtY2kzUUV3eG5UaVpIT1NvbTc?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-07-28T14:49:00+08:00",
+     "description": "藍AI深偽賴清德惹議！蔣萬安嗆「我拜託韋淳祐製作影片」：有事衝我來  三立新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -5251,145 +5197,7 @@
        "source": "unknown"
       },
       "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "快訊》7/29 降雨特報！外出請注意，留意路面積水| 生活",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSMTdVSGpaWGtTdHd5U0pXcHdoaHZnMnNpYnJTbElEa0Y1Nkd0dHRWQlZoekY1aXZuLUcyWWEtUXpMSWtMMVUyZnhheTdjenRzbzJqeXhESnZXNFE?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-29T18:36:01+08:00",
-     "description": "快訊》7/29 降雨特報！外出請注意，留意路面積水| 生活  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "快訊》4縣市高溫如烤箱！氣象署示警：當心熱衰竭| 生活",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KYVRTeVBwV3pVWkVaNEVzWlJQdV9zbDRvWVpjVHRWNTFadm14NGluZHBici1NS3JBb0lrYXM1azZLaVFGSnlGWmNmd1BTNHUzRFM2TzhUczJXZkU?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-29T18:24:02+08:00",
-     "description": "快訊》4縣市高溫如烤箱！氣象署示警：當心熱衰竭| 生活  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "快訊》7/29 高溫特報！熱浪侵襲嚴防中暑熱傷害| 生活",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlM1pRYkJCVVZlRUdjU1M5ZmpOYUd4MmJFN1FqV01SR3NsNEhDdHpRc3U1U0tZdWx2aXJiaUxlblE3VThJbVF1OXRKZjliQlp2UWtMRUxvTE9ubE0?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-29T07:48:01+08:00",
-     "description": "快訊》7/29 高溫特報！熱浪侵襲嚴防中暑熱傷害| 生活  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "天氣／大雨狂轟！2縣市發布淹水警戒　5地列一級",
-     "link": "https://news.tvbs.com.tw/life/3269046",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-28T19:04:47.411509+08:00",
-     "description": "",
-     "category": "life",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "快訊》熱浪來襲！9縣市氣象署示警：慎防熱傷害| 生活",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtSTY3YnZIT0c3ZUNfcXJSeW1zV2swdE4tbWhEVHhRN2RaYWhmaG41dUpSb1NYeUJRa284NVpWY1RVQVZCVS0yNi1YNHlYWHdIbmcteGJDbzNYaGs?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-28T17:48:01+08:00",
-     "description": "快訊》熱浪來襲！9縣市氣象署示警：慎防熱傷害| 生活  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "12縣市大雨特報！大雷雨開炸投雲嘉南",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5520219",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-28T15:08:36+08:00",
-     "description": "上稿時間：13:42更新時間：15:08\n對流雲系發展旺盛，易有短延時強降雨，中央氣象署今（28）日針對12縣市發布大雨特報。\n\n氣象署下午1時35分表示，今（28）日雲林...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "小心下冰雹！嘉義、台南急發「大雷雨警戒」　國家級警報狂響",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YX2l0MVJpc1ZLdHd5THItUVhMU0dMRXoxOFBfTW5XV3JDcTl1NnVFTFVEUF84V3VfUy0yWnBHV01jdkRlcXRuTFVqUER5cWpNOXfSAVJBVV95cUxOWF9pdDFSaXNWS3R3eUxyLVFYTFNHTEV6MThQX01uV1dyQ3E5dTZ1RUxVRFBfOFd1X1MtMlpwR1dNY3ZEZXF0bkxValBEeXFqTTl3?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-07-28T14:05:36+08:00",
-     "description": "小心下冰雹！嘉義、台南急發「大雷雨警戒」　國家級警報狂響  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "12縣市大雨特報　台南「大雷雨警戒」防冰雹",
-     "link": "https://www.ettoday.net/news/20260728/3208998.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-28T13:50:00+08:00",
-     "description": "中央氣象署針對12縣市發布大雨特報，對流雲系發展旺盛，易有短延時強降雨，今（28日）雲林以南、南投地區、金門及桃園以南山區有局部大雨發生的機率，請注意雷擊及強陣風，山區應慎防坍方、落石及溪水暴漲，低窪地區應慎防積水。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -5407,13 +5215,13 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 9,
+   "article_count": 10,
    "first_seen": "2026-07-29T07:31:43+08:00",
    "last_updated": "2026-07-29T18:36:20+08:00",
    "tags": [
     "海力士",
-    "預期",
-    "獲利"
+    "獲利",
+    "預期"
    ],
    "articles": [
     {
@@ -5484,6 +5292,25 @@
       },
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
+     }
+    },
+    {
+     "title": "記憶體遭錯殺？旺宏Q2獲利創高卻慘跌停　外資揭供需真相",
+     "link": "https://news.tvbs.com.tw/money/3270584",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-29T10:51:14+08:00",
+     "description": "",
+     "category": "money",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "money",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
      }
     },
     {
@@ -6640,6 +6467,187 @@
    ]
   },
   {
+   "id": "94791be9cec1",
+   "title": "MLB》締造台灣史無前例紀錄！ 李灝宇吐心聲：台灣選手在大聯盟不容易...",
+   "outlet_count": 7,
+   "outlets": [
+    "ebc",
+    "ettoday",
+    "ltn",
+    "mirror",
+    "newtalk",
+    "nownews",
+    "tvbs"
+   ],
+   "article_count": 9,
+   "first_seen": "2026-07-27T14:44:48+08:00",
+   "last_updated": "2026-07-28T16:55:34+08:00",
+   "tags": [
+    "輪台灣優先",
+    "大聯盟",
+    "海外賽"
+   ],
+   "articles": [
+    {
+     "title": "MLB》成李灝宇現役紀錄苦主！剛獲29億約的金鶯右投狂挨10安吐心聲",
+     "link": "https://sports.ltn.com.tw/news/breakingnews/5520574",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-28T16:55:34+08:00",
+     "description": "金鶯今天以8：5擊敗老虎，29歲右投布瑞迪許（Kyle Bradish）此役表現不理想，先發4.2局被敲多達10支安打，失掉5分責失分。賽後他坦言，幸好球隊最後有贏球。\n\n...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "MLB海外賽有望來台？　蔡其昌拜會大聯盟總部：下一輪台灣優先",
+     "link": "https://www.mirrormedia.mg/story/20260728edi054",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-07-28T12:02:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "大巨蛋有資格辦MLB海外賽嗎？規格已是世界級　卻卡在「一難關」",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9OZmxuQVQ4eUxGWDN4WWhQZ0NqWklMcFdFSXpWY3BocmFJMEJCd3E2MkFkcG9BM0xmUE8td0Y3OHA5LVZ1TlZoWEktOWrSAVJBVV95cUxNZjF1Ym10TzNldkxxaEg4RzBEclBEeUE3dTh5OXpvR2RVWkdnc0dub3NEZzFOWU95ZUlIMGsxU3d5M1VUSFlNRUdYZDQ1U3A4TVF3?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-07-28T10:52:48+08:00",
+     "description": "大巨蛋有資格辦MLB海外賽嗎？規格已是世界級　卻卡在「一難關」  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "MLB海外賽有望來台！大聯盟主席曼佛瑞德鬆口「下一輪優先」",
+     "link": "https://sports.ettoday.net/news/3208722",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-28T09:11:00+08:00",
+     "description": "中華職棒大聯盟會長蔡其昌27日訪問美國職棒大聯盟，會晤主席曼佛瑞德等高層。蔡其昌指出，大聯盟對台灣球迷可以坐滿日本球場感到震撼，由於海外賽已在日本及韓國等舉行，下一輪台灣優先。\n 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "中職／蔡其昌訪大聯盟總部！美職海外賽下輪台灣優先",
+     "link": "https://news.ebc.net.tw/news/sport/563372",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-28T08:52:53.312280+08:00",
+     "description": "中華職棒大聯盟會長蔡其昌今天訪問美國職棒大聯盟，會晤主席曼佛瑞德等高層。蔡其昌指出，大聯盟對台灣球迷可以坐滿日本球場感到震撼，由於海外賽已在日本及韓國等舉行，下",
+     "category": "sport",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "sport",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "蔡其昌訪大聯盟總部美職海外賽下輪台灣優先| 體育",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93N2FFNDl4UHYxOEV1YzlBZkZFNURVdWhUQUhOMHpSQnp3SC1oV3UwQTBWdFA5anpKcUJ4THM1YWRVTk14Z0ZrUGlfSFdTZXpLaWJoVDdnWDdUeDQ?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-28T08:47:06+08:00",
+     "description": "蔡其昌訪大聯盟總部美職海外賽下輪台灣優先| 體育  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "大聯盟海外賽「下一輪台灣優先」！主席驚嘆：台灣球迷坐滿球場",
+     "link": "https://news.tvbs.com.tw/sports/3269413",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-28T08:24:53+08:00",
+     "description": "",
+     "category": "sports",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "sports",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "MLB》有望在大巨蛋看大谷翔平？ 大聯盟海外賽下一輪台灣優先",
+     "link": "https://sports.ltn.com.tw/news/breakingnews/5519781",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-28T08:09:30+08:00",
+     "description": "中職會長蔡其昌昨在「大都會台灣日」受邀擔任開球嘉賓，今天造訪大聯盟總部進行交流，雙方談到海外賽在台灣舉辦的可能性。\n\n\n根據《中央社》報導，蔡其昌與大聯盟主席曼佛瑞（Rob...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "MLB》締造台灣史無前例紀錄！ 李灝宇吐心聲：台灣選手在大聯盟不容易...",
+     "link": "https://sports.ltn.com.tw/news/breakingnews/5519146",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-27T14:44:48+08:00",
+     "description": "老虎台灣怪力男李灝宇逐漸在大聯盟站穩腳步，目前連續11場比賽敲安，他也有感而發表示，台灣球員要打出這種成績不容易，自己會繼續加油。\n\n\n李灝宇近期火燙手感席捲台灣媒體版面，...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    }
+   ]
+  },
+  {
    "id": "27eb0801ceb0",
    "title": "林雪峰招攬村里長赴中國旅遊影響選舉　判刑4年定讞",
    "outlet_count": 6,
@@ -6799,201 +6807,6 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
-   "id": "e5fd2a0a2b7f",
-   "title": "（2026/07/27）星座運勢／天蠍座工作量減少！獅子座控制投資情緒",
-   "outlet_count": 6,
-   "outlets": [
-    "ettoday",
-    "ltn",
-    "newtalk",
-    "nownews",
-    "tvbs",
-    "udn"
-   ],
-   "article_count": 28,
-   "first_seen": "2026-07-27T07:00:00+08:00",
-   "last_updated": "2026-07-30T00:03:32+08:00",
-   "tags": [],
-   "articles": [
-    {
-     "title": "新聞分類總覽 - 2026-07-30",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Eb0NTVVUyZ3JfdjNYNWZ0U3l0UGVRekZ1VUs4cHV2cWd5WUhlUWkycTR0eHpXRW9hUE9TNVpwTzFyVVcxakx5VXJya3N1MWVyelR6TjB0NA?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-30T00:03:32+08:00",
-     "description": "新聞分類總覽 - 2026-07-30  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "2026全家霜淇淋口味查詢｜門市查詢＆買一送一日期及價錢懶人包",
-     "link": "https://news.tvbs.com.tw/life/2846432",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-29T17:18:15.614680+08:00",
-     "description": "",
-     "category": "life",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "麥當勞優惠2026》7月優惠券代碼：買一送一、APP、歡樂送懶人包",
-     "link": "https://news.tvbs.com.tw/life/2815618",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-29T17:18:15.614680+08:00",
-     "description": "",
-     "category": "life",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "國考英文每日一題2026.07.29",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5521203",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-29T11:00:00+08:00",
-     "description": "題目：\nA proverb is a（n） _____ statement that expresses a lucid truth or a practical rule.\n\n選項：\n（A）...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "經濟日報 2026-07-29 星期三",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wZVNCZzFvRnJuZzVvN3JtVVBFNHBUTXlBUEJhTEl0a0ZQamtMYVNkVjQ1dHgtTFZzV25OYmE2NENJcS1MVFJRdGptcTJiclRTRmxEdEl3?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-07-29T08:11:16+08:00",
-     "description": "經濟日報 2026-07-29 星期三  琅琅悅讀",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "（2026/07/29）星座運勢／牡羊座避免股票虧損　巨蟹座獲伴侶相助",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BT1NaVUFOWEVucTR6WnVTTWVYWllpb25WT2NfQWJrZjFSRzdwa2w4bzEwc3NNdTEwXzRMYS11cHczLWdJcTdqSWYzVW9MRUZJZWfSAVJBVV95cUxOQU9TWlVBTlhFbnE0elp1U01lWFpZaW9uVk9jX0Fia2YxUkc3cGtsOG8xMHNzTXUxMF80TGEtdXB3My1nSXE3aklmM1VvTEVGSWVn?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-07-29T07:00:00+08:00",
-     "description": "（2026/07/29）星座運勢／牡羊座避免股票虧損　巨蟹座獲伴侶相助  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "夕陽黃昏心情- jong2020 的部落格",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1tdDI2bFFsTDdqUzBMY01nLVRrYmxGNkwzVHlWdnI5XzhiNW0zUVFhalY2OXl3QmlQMmoxMjB3VGFjLWV2WU9yd1YzcE41VEla?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-07-29T04:06:44+08:00",
-     "description": "夕陽黃昏心情- jong2020 的部落格  udn部落格",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "新聞分類總覽 - 2026-07-29",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCWlJlb2Z0Ymt2bC1NSkRudDVfS01XS21zWGtiR0JKUUc4ckozSzdreGM3cnBES2RBeUlRMWxLS1M5NDAwOUdQUnRfNmhIaWZlWTFyclFwVQ?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-29T00:11:44+08:00",
-     "description": "新聞分類總覽 - 2026-07-29  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "2026/07/28 - 粗心小王子的部落格",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53TVpRT2cxaDd5OHVfa2VUM2ZmYW1IaW10R3MxS0EwZ2JzeWhHUVpUSjQ3bTRIZXZpRUY0cU9UajNmdnNZc3VyNzZJTzdXX3MzMnc?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-07-28T23:56:05+08:00",
-     "description": "2026/07/28 - 粗心小王子的部落格  udn部落格",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "全聯買一送一2026/7最新DM》週三週六買一送一、6折優惠懶人包",
-     "link": "https://news.tvbs.com.tw/life/2819201",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-28T18:18:15+08:00",
-     "description": "",
-     "category": "life",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "life",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
      }
     }
    ]
@@ -7213,7 +7026,7 @@
    "first_seen": "2026-07-28T12:14:46+08:00",
    "last_updated": "2026-07-29T21:01:24+08:00",
    "tags": [
-    "樹林鐵路地下",
+    "林鐵路地下化",
     "李四川"
    ],
    "articles": [
@@ -7929,7 +7742,7 @@
     },
     {
      "title": "張景森挺蔣萬安「倒閣」說：回嗆「民進黨可以支持啊」",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1POFNVSlJ1RVV2RXgyZENuSDhYemlvckVPRThlYWRVOTN0b1ZLUVJGQTNuMGNoa2ltOGVpbjNWVW51UzUzNXFxME8xSW9WWDdPRW1hVHo3SElZWXc?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KTVBadjVuVlNnd3VHa2RqSU81SW5hV2d1Z3pSOHlvRkdJTG9icGhjREREWm5ydmpHaTRtbmRMMGZ5SWxUaGQ4YzJHZGlCRlJHYjBfR0VZY0VGUQ?oc=5",
      "source": "newtalk",
      "source_name": "新頭殼",
      "published": "2026-07-27T17:43:03+08:00",
@@ -7946,7 +7759,7 @@
     },
     {
      "title": "張景森挺蔣萬安「倒閣」說：回嗆「民進黨可以支持啊」",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KTVBadjVuVlNnd3VHa2RqSU81SW5hV2d1Z3pSOHlvRkdJTG9icGhjREREWm5ydmpHaTRtbmRMMGZ5SWxUaGQ4YzJHZGlCRlJHYjBfR0VZY0VGUQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1POFNVSlJ1RVV2RXgyZENuSDhYemlvckVPRThlYWRVOTN0b1ZLUVJGQTNuMGNoa2ltOGVpbjNWVW51UzUzNXFxME8xSW9WWDdPRW1hVHo3SElZWXc?oc=5",
      "source": "newtalk",
      "source_name": "新頭殼",
      "published": "2026-07-27T17:43:03+08:00",
@@ -7973,200 +7786,6 @@
       "author": {
        "name": null,
        "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
-     }
-    }
-   ]
-  },
-  {
-   "id": "8f5cfce09540",
-   "title": "民進黨：以AI假冒他人聲音恐觸法　司法調查有必要",
-   "outlet_count": 6,
-   "outlets": [
-    "cna",
-    "ltn",
-    "newtalk",
-    "nownews",
-    "setn",
-    "tvbs"
-   ],
-   "article_count": 14,
-   "first_seen": "2026-07-27T07:40:41+08:00",
-   "last_updated": "2026-07-29T17:18:15.614680+08:00",
-   "tags": [
-    "造賴清德聲音"
-   ],
-   "articles": [
-    {
-     "title": "藍青年軍製「反毒油片」變造賴清德聲音　府：刻意混淆民眾",
-     "link": "https://news.tvbs.com.tw/politics/3269552",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-29T17:18:15.614680+08:00",
-     "description": "",
-     "category": "politics",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "politics",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "萊爾校長小編AI涉偽造賴清德聲音 蔣萬安「自爆」是他拜託去做的！",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5520808",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-28T22:37:31+08:00",
-     "description": "創造出譏諷總統賴清德角色「萊爾校長」的前國民黨新媒體部主任韋淳祐，日前製作725反毒油集會宣傳片，因偽造賴清德的聲音被民眾檢舉，警方獲報到其住處查證，引發藍營不滿，指控查水表。對...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "藍營小編偽造賴清德聲音學者：是聲紋詐騙、更是國安問題| 政治",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mM0RzSXpiUUtqT09KbzNybTVYWU56RGRNSENHTkNyaHZUZVhQVHJjWkJzekJlQy1jRFN5eGhZUlQtWWFFSW9xY1diS0IydEdIUTVUZVFiR2lnQVE?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-28T17:59:04+08:00",
-     "description": "藍營小編偽造賴清德聲音學者：是聲紋詐騙、更是國安問題| 政治  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "藍營小編偽造賴清德聲音學者：是聲紋詐騙、更是國安問題| 政治",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iMXNMbXNPNWF3ejRpWFlNekNva2pLNWNXYm1RMW04dGhPWHpJRkJyT2hVbUUtSTc4WGhDeG9IYmY5R1pVLXE5alJ3RXZ3WkpEMDlDVGhVMkdQZw?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-28T17:59:04+08:00",
-     "description": "藍營小編偽造賴清德聲音學者：是聲紋詐騙、更是國安問題| 政治  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "AI偽造總統聲音沒違法？陳沂逆風護航律師開酸：難怪考不上律師| 網紅",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VcENfWWhfUEVtd3hOUHZqVjdKa3JPT1daeTBmUWpDaHYzNS1zMWFHM20yajlDc25pUUhycHhSeHdQcXRTOWVZTUlBRTRsdHVhTTJ3RjZfcjQ1NDA?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-28T11:32:18+08:00",
-     "description": "AI偽造總統聲音沒違法？陳沂逆風護航律師開酸：難怪考不上律師| 網紅  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "藍AI偽造賴清德聲音！陳沂護航「創作自由」　林智群酸：果然考不上律師",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9zRDdrbVlkNE92bVNwZUthSXlLclJPS2NaV0dpbEFSS1lvN2pEZ3ZEbTB6Ukk2YXltVTU0RlhsbHlDM2VyRXAwZdIBTEFVX3lxTE9EMk9IUkgwUDlmTkxUdjdtYVZwc2dXMXNIeUVBNXdHT0RRSUlKOGhGTnExRUpzeXlTYVZlWU4wc3RSbXVHRk1GOEF0Mno?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-07-28T07:23:00+08:00",
-     "description": "藍AI偽造賴清德聲音！陳沂護航「創作自由」　林智群酸：果然考不上律師  三立新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "偽造賴清德聲音被查水表 牛煦庭諷：乾脆頒布《萊爾法典》",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TMGNJMzFXVU01WnBrYmZ4SWZJS2JmdV80T3lwLTNGRlYwY2loUVQtcTN4SFpHaTJqZnd4RXFHUDBpNXgzeEpoM19jRHZqeVlZcFdsWG55NU96UQ?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-27T15:44:23+08:00",
-     "description": "偽造賴清德聲音被查水表 牛煦庭諷：乾脆頒布《萊爾法典》  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "偽造賴清德聲音被查水表 牛煦庭諷：乾脆頒布《萊爾法典》",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VdE1mN0I1SEVkOUQtWnl2TDhtZzRHMzJ3MzJuaWNreHpDT1NISEVHQXhxYUNWS2ZpMzJteXk3T3J0ZWk1MVY4SUhVUTRYcnJacXRkWHl2bUpnaHc?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-27T15:44:23+08:00",
-     "description": "偽造賴清德聲音被查水表 牛煦庭諷：乾脆頒布《萊爾法典》  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "藍前小編疑AI偽造賴清德聲音遭法辦 學者直言：涉及國安被法辦「剛好而已」",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85SXY5T3N0RXI5WkZZUEt2aEtFdUFpYXZKa0d4eFVpWVBPMkU0OVpWQmw2cWliSDVkUllKOUY3bWtuWUpILW5RMV9ZLXo0UGtVakQ3LXNWZnBNSDg?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-27T13:24:51+08:00",
-     "description": "藍前小編疑AI偽造賴清德聲音遭法辦 學者直言：涉及國安被法辦「剛好而已」  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "民進黨：以AI假冒他人聲音恐觸法　司法調查有必要",
-     "link": "https://www.cna.com.tw/news/aipl/202607270060.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-27T11:06:46+08:00",
-     "description": "（中央社記者王揚宇台北27日電）網路流傳疑似以AI合成總統賴清德聲音的影片，引發討論。民進黨發言人吳崢今天說，用AI或深偽假冒他人聲音、影像等都可能觸法，恐製造風險與混亂，有必要請司法單位依法調查清楚。",
-     "author": "王揚宇",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "王揚宇",
-       "source": "description"
       },
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/rsscna/politics"
@@ -8249,12 +7868,12 @@
      }
     },
     {
-     "title": "媳婦遭惡公公亂刀砍死 律師揭殘酷現實：外遇尪可拿她遺產",
-     "link": "https://news.ebc.net.tw/news/society/563588",
+     "title": "公公早在樓下等候？兒媳遭亂刀砍死 最後身影曝光",
+     "link": "https://news.ebc.net.tw/news/society/563597",
      "source": "ebc",
      "source_name": "東森新聞",
      "published": "2026-07-29T11:28:16.189872+08:00",
-     "description": "新北市中和區一名34歲張姓女子，26日被66歲的張姓公公砍死，網紅律師王至德表示，死者遇到惡公公已經很慘了，但更慘的是因為還沒離婚，外遇的老公可以繼承她的遺產。",
+     "description": "新北中和66歲張男疑埋伏等候，持刀砍死34歲媳婦，警方依監視器戳破其謊言，懷疑早有預謀，犯案動機仍待調查。",
      "category": "society",
      "metadata": {
       "schema_version": 1,
@@ -8268,12 +7887,12 @@
      }
     },
     {
-     "title": "公公早在樓下等候？兒媳遭亂刀砍死 最後身影曝光",
-     "link": "https://news.ebc.net.tw/news/society/563597",
+     "title": "媳婦遭惡公公亂刀砍死 律師揭殘酷現實：外遇尪可拿她遺產",
+     "link": "https://news.ebc.net.tw/news/society/563588",
      "source": "ebc",
      "source_name": "東森新聞",
      "published": "2026-07-29T11:28:16.189872+08:00",
-     "description": "新北中和66歲張男疑埋伏等候，持刀砍死34歲媳婦，警方依監視器戳破其謊言，懷疑早有預謀，犯案動機仍待調查。",
+     "description": "新北市中和區一名34歲張姓女子，26日被66歲的張姓公公砍死，網紅律師王至德表示，死者遇到惡公公已經很慘了，但更慘的是因為還沒離婚，外遇的老公可以繼承她的遺產。",
      "category": "society",
      "metadata": {
       "schema_version": 1,
@@ -8340,12 +7959,12 @@
      }
     },
     {
-     "title": "中和驚悚命案！ 公公在住家梯間 追砍媳婦致死",
-     "link": "https://news.ebc.net.tw/news/society/563378",
+     "title": "中和百刀命案！惡公公長期借錢又疑媳外遇　惡行全曝光",
+     "link": "https://news.ebc.net.tw/news/society/563412",
      "source": "ebc",
      "source_name": "東森新聞",
      "published": "2026-07-28T11:27:22.296970+08:00",
-     "description": "新北中和發生公媳命案，66歲公公疑因金錢觀念及教養問題，持刀從四樓追砍34歲媳婦至一樓身亡，警方依殺人罪逮捕送辦，犯案動機仍待釐清。",
+     "description": "中和張姓媳婦遭公公持雙刀砍殺身亡，閨蜜再爆料，指公公長期向媳婦借錢、懷疑外遇、跑到超商查勤，生活習慣也屢爆衝突，婆媳關係早已惡化。",
      "category": "society",
      "metadata": {
       "schema_version": 1,
@@ -8359,12 +7978,12 @@
      }
     },
     {
-     "title": "中和百刀命案！惡公公長期借錢又疑媳外遇　惡行全曝光",
-     "link": "https://news.ebc.net.tw/news/society/563412",
+     "title": "中和驚悚命案！ 公公在住家梯間 追砍媳婦致死",
+     "link": "https://news.ebc.net.tw/news/society/563378",
      "source": "ebc",
      "source_name": "東森新聞",
      "published": "2026-07-28T11:27:22.296970+08:00",
-     "description": "中和張姓媳婦遭公公持雙刀砍殺身亡，閨蜜再爆料，指公公長期向媳婦借錢、懷疑外遇、跑到超商查勤，生活習慣也屢爆衝突，婆媳關係早已惡化。",
+     "description": "新北中和發生公媳命案，66歲公公疑因金錢觀念及教養問題，持刀從四樓追砍34歲媳婦至一樓身亡，警方依殺人罪逮捕送辦，犯案動機仍待釐清。",
      "category": "society",
      "metadata": {
       "schema_version": 1,
@@ -9858,8 +9477,8 @@
    "first_seen": "2026-07-27T11:54:00+08:00",
    "last_updated": "2026-07-27T15:45:00+08:00",
    "tags": [
-    "李退之",
     "梁文傑",
+    "李退之",
     "回應了"
    ],
    "articles": [
@@ -9980,19 +9599,19 @@
     "storm",
     "tvbs"
    ],
-   "article_count": 7,
+   "article_count": 8,
    "first_seen": "2026-07-28T16:16:12+08:00",
-   "last_updated": "2026-07-29T19:08:34.726747+08:00",
+   "last_updated": "2026-07-30T08:13:14+08:00",
    "tags": [
-    "符合資格",
     "補助",
-    "最高"
+    "最高",
+    "資格"
    ],
    "claims": [
     {
      "type": "金額",
      "agree": false,
-     "outlet_count": 2,
+     "outlet_count": 3,
      "values": [
       {
        "value": "12.6萬元",
@@ -10005,11 +9624,36 @@
        "outlets": [
         "風傳媒"
        ]
+      },
+      {
+       "value": "5萬元",
+       "outlets": [
+        "TVBS"
+       ]
       }
      ]
     }
    ],
    "articles": [
+    {
+     "title": "勞動部補助加碼！家有子女「最高領5萬元」8/1起救命錢來了",
+     "link": "https://news.tvbs.com.tw/life/3271587",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-30T08:13:14+08:00",
+     "description": "",
+     "category": "life",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "life",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
     {
      "title": "北市青年局推AI工具補助 每年最高4000元",
      "link": "https://news.ebc.net.tw/news/living/563675",
@@ -10132,6 +9776,354 @@
       "acquisition": "scraper",
       "category": "life",
       "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ead7fdaa0597",
+   "title": "新聞分類總覽 - 2026-07-27",
+   "outlet_count": 5,
+   "outlets": [
+    "ltn",
+    "newtalk",
+    "nownews",
+    "tvbs",
+    "udn"
+   ],
+   "article_count": 26,
+   "first_seen": "2026-07-27T15:00:00+08:00",
+   "last_updated": "2026-07-30T07:00:00+08:00",
+   "tags": [],
+   "articles": [
+    {
+     "title": "（2026/07/30）星座運勢／巨蟹座加強財務控管　處女座有獲利機會",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEVDNWd3hEY0ZCcmRVTGdVc1VYdURuVldUR3AxMzF0ckJyYnk5VVBlM3BWUk92NEc1UXJTVXVKb1hXWHg2RnFrVk9IVmQ0YXpndkHSAVJBVV95cUxQRFQzVnd4RGNGQnJkVUxnVXNVWHVEblZXVEdwMTMxdHJCcmJ5OVVQZTNwVlJPdjRHNVFyU1V1Sm9YV1h4NkZxa1ZPSFZkNGF6Z3ZB?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-07-30T07:00:00+08:00",
+     "description": "（2026/07/30）星座運勢／巨蟹座加強財務控管　處女座有獲利機會  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "新聞分類總覽 - 2026-07-30",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Eb0NTVVUyZ3JfdjNYNWZ0U3l0UGVRekZ1VUs4cHV2cWd5WUhlUWkycTR0eHpXRW9hUE9TNVpwTzFyVVcxakx5VXJya3N1MWVyelR6TjB0NA?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-30T00:03:32+08:00",
+     "description": "新聞分類總覽 - 2026-07-30  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "麥當勞優惠2026》7月優惠券代碼：買一送一、APP、歡樂送懶人包",
+     "link": "https://news.tvbs.com.tw/life/2815618",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-29T17:18:15.614680+08:00",
+     "description": "",
+     "category": "life",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "life",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "2026全家霜淇淋口味查詢｜門市查詢＆買一送一日期及價錢懶人包",
+     "link": "https://news.tvbs.com.tw/life/2846432",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-29T17:18:15.614680+08:00",
+     "description": "",
+     "category": "life",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "life",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "國考英文每日一題2026.07.29",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5521203",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-29T11:00:00+08:00",
+     "description": "題目：\nA proverb is a（n） _____ statement that expresses a lucid truth or a practical rule.\n\n選項：\n（A）...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "經濟日報 2026-07-29 星期三",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wZVNCZzFvRnJuZzVvN3JtVVBFNHBUTXlBUEJhTEl0a0ZQamtMYVNkVjQ1dHgtTFZzV25OYmE2NENJcS1MVFJRdGptcTJiclRTRmxEdEl3?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-07-29T08:11:16+08:00",
+     "description": "經濟日報 2026-07-29 星期三  琅琅悅讀",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "（2026/07/29）星座運勢／牡羊座避免股票虧損　巨蟹座獲伴侶相助",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BT1NaVUFOWEVucTR6WnVTTWVYWllpb25WT2NfQWJrZjFSRzdwa2w4bzEwc3NNdTEwXzRMYS11cHczLWdJcTdqSWYzVW9MRUZJZWfSAVJBVV95cUxOQU9TWlVBTlhFbnE0elp1U01lWFpZaW9uVk9jX0Fia2YxUkc3cGtsOG8xMHNzTXUxMF80TGEtdXB3My1nSXE3aklmM1VvTEVGSWVn?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-07-29T07:00:00+08:00",
+     "description": "（2026/07/29）星座運勢／牡羊座避免股票虧損　巨蟹座獲伴侶相助  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "夕陽黃昏心情- jong2020 的部落格",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1tdDI2bFFsTDdqUzBMY01nLVRrYmxGNkwzVHlWdnI5XzhiNW0zUVFhalY2OXl3QmlQMmoxMjB3VGFjLWV2WU9yd1YzcE41VEla?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-07-29T04:06:44+08:00",
+     "description": "夕陽黃昏心情- jong2020 的部落格  udn部落格",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "新聞分類總覽 - 2026-07-29",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCWlJlb2Z0Ymt2bC1NSkRudDVfS01XS21zWGtiR0JKUUc4ckozSzdreGM3cnBES2RBeUlRMWxLS1M5NDAwOUdQUnRfNmhIaWZlWTFyclFwVQ?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-29T00:11:44+08:00",
+     "description": "新聞分類總覽 - 2026-07-29  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "2026/07/28 - 粗心小王子的部落格",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53TVpRT2cxaDd5OHVfa2VUM2ZmYW1IaW10R3MxS0EwZ2JzeWhHUVpUSjQ3bTRIZXZpRUY0cU9UajNmdnNZc3VyNzZJTzdXX3MzMnc?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-07-28T23:56:05+08:00",
+     "description": "2026/07/28 - 粗心小王子的部落格  udn部落格",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
+   "id": "f2be352ec576",
+   "title": "街口支付創辦人胡亦嘉違證券投資信託及顧問法　一審判刑7年、罰金億元",
+   "outlet_count": 5,
+   "outlets": [
+    "chinatimes",
+    "cna",
+    "ltn",
+    "tvbs",
+    "udn"
+   ],
+   "article_count": 6,
+   "first_seen": "2026-07-29T14:41:12+08:00",
+   "last_updated": "2026-07-30T05:30:00+08:00",
+   "tags": [
+    "創辦人胡亦嘉",
+    "街口支付",
+    "一審判"
+   ],
+   "claims": [
+    {
+     "type": "金額",
+     "agree": false,
+     "outlet_count": 3,
+     "values": [
+      {
+       "value": "6600萬元",
+       "outlets": [
+        "中時新聞網"
+       ]
+      },
+      {
+       "value": "1億元",
+       "outlets": [
+        "TVBS"
+       ]
+      },
+      {
+       "value": "6665萬元",
+       "outlets": [
+        "自由時報"
+       ]
+      }
+     ]
+    }
+   ],
+   "articles": [
+    {
+     "title": "發行原油期貨基金 自肥6665萬 街口創辦人胡亦嘉 一審重判7年",
+     "link": "https://ec.ltn.com.tw/article/paper/1764581",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-30T05:30:00+08:00",
+     "description": "〔記者翁靖祐／台北報導〕街口支付創辦人胡亦嘉，二〇二〇年在街口投信辦理配售布蘭特原油期貨基金時，和地產大亨楊建一之子楊立偉共謀，以「左手賣右手」方式，不法獲利六六六五萬餘元。台北地院昨依違反證券投資信託及顧問法之背信罪，將胡男判刑七年、併科罰金一億元；另偽造私文書部分判刑六月、得易科罰金，不法所得三…",
+     "author": "翁靖祐",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "翁靖祐",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "街口創辦人胡亦嘉背信案一審判7年　北院：無視法紀",
+     "link": "https://www.cna.com.tw/news/asoc/202607290334.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-29T19:23:17+08:00",
+     "description": "（中央社記者謝君臨台北29日電）街口支付創辦人胡亦嘉辦理基金配售時，涉嫌未公平配售投資人，並從中獲取利益，北院今天判刑7年、罰金1億元，並批評胡男無視法紀，將其他券商與投資人的權利視如敝屣。可上訴。",
+     "author": "謝君臨",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "謝君臨",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/social"
+     }
+    },
+    {
+     "title": "賣ETF自肥6千萬　街口胡亦嘉背信罪一審判7年、罰1億",
+     "link": "https://news.tvbs.com.tw/local/3270978",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-29T15:38:28+08:00",
+     "description": "",
+     "category": "local",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "local",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "街口支付創辦人胡亦嘉違證券投資信託及顧問法　一審判刑7年、罰金億元",
+     "link": "https://www.cna.com.tw/news/asoc/202607290185.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-29T15:09:56+08:00",
+     "description": "（中央社記者謝君臨台北29日電）街口支付創辦人胡亦嘉辦理基金配售時涉嫌未公平配售投資人，獲取不法所得約6000萬元，遭北檢起訴。台北地院今天依涉犯證券投資信託及顧問法判胡男7年、罰金1億元。可上訴。",
+     "author": "謝君臨",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "謝君臨",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/social"
+     }
+    },
+    {
+     "title": "街口支付胡亦嘉追募ETF涉「自肥」6665萬 判7年併科罰金1億元",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LM0oxbXVtYVpUN1JnVTFDSzl2blF2aWNYbjlxdWxtNG5lRVBEcHBBYlBNX3ZVLV9EVnJNVUowdUFtUGRDM2RwRkxaQlVFQ2s10gFWQVVfeXFMTkJoenhzbk9RZTZlOVNnUHlzQTZmWTJBcmw0N3VxOVp5b1JJUnNmWWllbi1uSWRKUXp1RHJ6UXZjUTRscXlzQ25oTUhnMHVaMlhGbzFnd2c?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-07-29T14:46:46+08:00",
+     "description": "街口支付胡亦嘉追募ETF涉「自肥」6665萬 判7年併科罰金1億元  UDN",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "賣ETF自肥6600萬 「街口支付」創辦人胡亦嘉判囚7年",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWjQ5OEJMdG9DZGlsemFib3BOVmxnaEtsWm0zLUdIOVNaQXVjQ1VwY3JhUFN2Q0p1M1RyWUktdGt0NEx5Sk9TRVJzV0NFcGh1aHZ0OUhGQ0dzclF6SzdxSHJPcXZJV0JueDdvbmFEVnBlUUU1cEFwby00emQ1Q19BWFRGRmRrZXR6ZzlRVU84NA?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-07-29T14:41:12+08:00",
+     "description": "賣ETF自肥6600萬 「街口支付」創辦人胡亦嘉判囚7年  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -10297,6 +10289,199 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ee668faef688",
+   "title": "民進黨：以AI假冒他人聲音恐觸法　司法調查有必要",
+   "outlet_count": 5,
+   "outlets": [
+    "cna",
+    "ltn",
+    "newtalk",
+    "setn",
+    "tvbs"
+   ],
+   "article_count": 11,
+   "first_seen": "2026-07-27T10:55:37+08:00",
+   "last_updated": "2026-07-29T17:18:15.614680+08:00",
+   "tags": [
+    "造賴清德聲音"
+   ],
+   "articles": [
+    {
+     "title": "藍青年軍製「反毒油片」變造賴清德聲音　府：刻意混淆民眾",
+     "link": "https://news.tvbs.com.tw/politics/3269552",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-29T17:18:15.614680+08:00",
+     "description": "",
+     "category": "politics",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "politics",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    },
+    {
+     "title": "萊爾校長小編AI涉偽造賴清德聲音 蔣萬安「自爆」是他拜託去做的！",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5520808",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-28T22:37:31+08:00",
+     "description": "創造出譏諷總統賴清德角色「萊爾校長」的前國民黨新媒體部主任韋淳祐，日前製作725反毒油集會宣傳片，因偽造賴清德的聲音被民眾檢舉，警方獲報到其住處查證，引發藍營不滿，指控查水表。對...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "藍營小編偽造賴清德聲音學者：是聲紋詐騙、更是國安問題| 政治",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mM0RzSXpiUUtqT09KbzNybTVYWU56RGRNSENHTkNyaHZUZVhQVHJjWkJzekJlQy1jRFN5eGhZUlQtWWFFSW9xY1diS0IydEdIUTVUZVFiR2lnQVE?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-28T17:59:04+08:00",
+     "description": "藍營小編偽造賴清德聲音學者：是聲紋詐騙、更是國安問題| 政治  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "藍營小編偽造賴清德聲音學者：是聲紋詐騙、更是國安問題| 政治",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iMXNMbXNPNWF3ejRpWFlNekNva2pLNWNXYm1RMW04dGhPWHpJRkJyT2hVbUUtSTc4WGhDeG9IYmY5R1pVLXE5alJ3RXZ3WkpEMDlDVGhVMkdQZw?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-28T17:59:04+08:00",
+     "description": "藍營小編偽造賴清德聲音學者：是聲紋詐騙、更是國安問題| 政治  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "AI偽造總統聲音沒違法？陳沂逆風護航律師開酸：難怪考不上律師| 網紅",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VcENfWWhfUEVtd3hOUHZqVjdKa3JPT1daeTBmUWpDaHYzNS1zMWFHM20yajlDc25pUUhycHhSeHdQcXRTOWVZTUlBRTRsdHVhTTJ3RjZfcjQ1NDA?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-28T11:32:18+08:00",
+     "description": "AI偽造總統聲音沒違法？陳沂逆風護航律師開酸：難怪考不上律師| 網紅  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "藍AI偽造賴清德聲音！陳沂護航「創作自由」　林智群酸：果然考不上律師",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9zRDdrbVlkNE92bVNwZUthSXlLclJPS2NaV0dpbEFSS1lvN2pEZ3ZEbTB6Ukk2YXltVTU0RlhsbHlDM2VyRXAwZdIBTEFVX3lxTE9EMk9IUkgwUDlmTkxUdjdtYVZwc2dXMXNIeUVBNXdHT0RRSUlKOGhGTnExRUpzeXlTYVZlWU4wc3RSbXVHRk1GOEF0Mno?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-07-28T07:23:00+08:00",
+     "description": "藍AI偽造賴清德聲音！陳沂護航「創作自由」　林智群酸：果然考不上律師  三立新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "偽造賴清德聲音被查水表 牛煦庭諷：乾脆頒布《萊爾法典》",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VdE1mN0I1SEVkOUQtWnl2TDhtZzRHMzJ3MzJuaWNreHpDT1NISEVHQXhxYUNWS2ZpMzJteXk3T3J0ZWk1MVY4SUhVUTRYcnJacXRkWHl2bUpnaHc?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-27T15:44:23+08:00",
+     "description": "偽造賴清德聲音被查水表 牛煦庭諷：乾脆頒布《萊爾法典》  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "偽造賴清德聲音被查水表 牛煦庭諷：乾脆頒布《萊爾法典》",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TMGNJMzFXVU01WnBrYmZ4SWZJS2JmdV80T3lwLTNGRlYwY2loUVQtcTN4SFpHaTJqZnd4RXFHUDBpNXgzeEpoM19jRHZqeVlZcFdsWG55NU96UQ?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-27T15:44:23+08:00",
+     "description": "偽造賴清德聲音被查水表 牛煦庭諷：乾脆頒布《萊爾法典》  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "藍前小編疑AI偽造賴清德聲音遭法辦 學者直言：涉及國安被法辦「剛好而已」",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85SXY5T3N0RXI5WkZZUEt2aEtFdUFpYXZKa0d4eFVpWVBPMkU0OVpWQmw2cWliSDVkUllKOUY3bWtuWUpILW5RMV9ZLXo0UGtVakQ3LXNWZnBNSDg?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-07-27T13:24:51+08:00",
+     "description": "藍前小編疑AI偽造賴清德聲音遭法辦 學者直言：涉及國安被法辦「剛好而已」  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "民進黨：以AI假冒他人聲音恐觸法　司法調查有必要",
+     "link": "https://www.cna.com.tw/news/aipl/202607270060.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-27T11:06:46+08:00",
+     "description": "（中央社記者王揚宇台北27日電）網路流傳疑似以AI合成總統賴清德聲音的影片，引發討論。民進黨發言人吳崢今天說，用AI或深偽假冒他人聲音、影像等都可能觸法，恐製造風險與混亂，有必要請司法單位依法調查清楚。",
+     "author": "王揚宇",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "王揚宇",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
      }
     }
    ]
@@ -10996,201 +11181,6 @@
    ]
   },
   {
-   "id": "fb6abea9bc48",
-   "title": "特派在現場／柏林同志遊行恐攻　悼念民眾：不讓恐懼淹沒愛",
-   "outlet_count": 5,
-   "outlets": [
-    "cna",
-    "newtalk",
-    "pts",
-    "storm",
-    "tvbs"
-   ],
-   "article_count": 8,
-   "first_seen": "2026-07-27T07:24:52+08:00",
-   "last_updated": "2026-07-28T12:33:47+08:00",
-   "tags": [
-    "柏林同志遊行",
-    "擊斃",
-    "國際"
-   ],
-   "claims": [
-    {
-     "type": "死亡人數",
-     "agree": true,
-     "outlet_count": 4,
-     "values": [
-      {
-       "value": "1",
-       "outlets": [
-        "中央社",
-        "公視新聞",
-        "新頭殼",
-        "風傳媒"
-       ]
-      }
-     ]
-    },
-    {
-     "type": "受傷人數",
-     "agree": true,
-     "outlet_count": 4,
-     "values": [
-      {
-       "value": "29",
-       "outlets": [
-        "中央社",
-        "公視新聞",
-        "新頭殼",
-        "風傳媒"
-       ]
-      }
-     ]
-    }
-   ],
-   "articles": [
-    {
-     "title": "德國柏林同志遊行遭伊斯蘭主義恐攻1死29傷 21歲嫌犯圍捕中遭擊斃| 國際",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VNWdvSDR3NjBlTVBfeXJ0a0JWVGpmeFk2RmJuSEttSElQN01xT1VacUhLMEhkenllM0JLX0pKSXA2czlqMWh5Q2VoOGtjMHBBbmhYV1haYk5VbTQ?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-28T12:33:47+08:00",
-     "description": "德國柏林同志遊行遭伊斯蘭主義恐攻1死29傷 21歲嫌犯圍捕中遭擊斃| 國際  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "柏林同志遊行恐攻死者為波蘭人　德總理研議改變罪犯監管權",
-     "link": "https://www.cna.com.tw/news/aopl/202607270315.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-27T23:38:12+08:00",
-     "description": "（中央社柏林27日綜合外電報導）德國首都柏林25日同志大遊行發生車輛衝撞攻擊事件，造成1死29傷。對於已因相關犯罪被判有罪的嫌犯為何先前未遭關押，引發民眾議論。德國總理梅爾茨今天承諾將採取因應行動。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
-     }
-    },
-    {
-     "title": "衝撞柏林同志遊行釀1死29傷 21歲男遭德國警方圍捕擊斃",
-     "link": "https://news.pts.org.tw/article/819505",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-07-27T15:41:33+08:00",
-     "description": "德國首都柏林25日晚間同志大遊行活動周邊，遭歹徒開車衝撞人群並持刀砍殺，造成1人死亡、29人輕重傷。警方展開大搜捕，隔（26）日傍晚在柏林西區一處菜園，將嫌犯圍捕並當場擊斃。當局證實，21歲的嫌犯是在德國出生、具黎巴嫩血統的極端份子，去（2025）年甚至曾試圖前往中東加入恐怖組織「伊斯蘭國」。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "柏林同志遊行恐攻1死29傷，21歲嫌犯遭警方擊斃！歐洲政要強烈譴責，嫌犯父親稱「兒子被洗腦了」 | 國際中心 | 新聞",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NWG1COU9OeElGNTNrRmtScndTSFpJRERYTHh3QlNpQUNIeHVZVUZjZ0RCWEFFNlRyd2NnZmJzSzVqaFcyNXBzVFdtQnNjZw?oc=5",
-     "source": "storm",
-     "source_name": "風傳媒",
-     "published": "2026-07-27T13:06:15+08:00",
-     "description": "柏林同志遊行恐攻1死29傷，21歲嫌犯遭警方擊斃！歐洲政要強烈譴責，嫌犯父親稱「兒子被洗腦了」 | 國際中心 | 新聞  風傳媒",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "柏林同志遊行恐攻悼念民眾：不讓恐懼淹沒愛| 國際",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaMUFLSG40ZjJtV2NUOEtVdmlYQWYxYk56QnFuLXdqdzlualZ1T0REVjFoQTBzY2Q2eG5lOF9CSW5vSkJnb3VPejFTUXZuNTY5RC11V01XanV4UWc?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-27T08:56:25+08:00",
-     "description": "柏林同志遊行恐攻悼念民眾：不讓恐懼淹沒愛| 國際  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "柏林恐攻嫌犯遭擊斃！列管危險人物竟「輔導中犯案」",
-     "link": "https://news.tvbs.com.tw/world/3268429",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-27T08:47:28+08:00",
-     "description": "",
-     "category": "world",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "world",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "柏林同志遊行恐攻嫌犯遭警擊斃曾接受去極端化輔導| 國際",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NVG9sMTQ3YjlOZmg0MUJhaXV2OERKWXU1UmZROEhDVlIzbnVraThzNlZHeHQ1MVhqZ19lYkh6a1hnNzVOMHN3WnlKSGNUSW5xc3ZVUm52WW5vNnM?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-07-27T07:56:25+08:00",
-     "description": "柏林同志遊行恐攻嫌犯遭警擊斃曾接受去極端化輔導| 國際  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "特派在現場／柏林同志遊行恐攻　悼念民眾：不讓恐懼淹沒愛",
-     "link": "https://www.cna.com.tw/news/aopl/202607270008.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-27T07:24:52+08:00",
-     "description": "（中央社記者林尚縈柏林26日專電）德國柏林同志遊行汽車衝撞造成多人死傷。案發隔日，不少當地民眾及前來參加活動的遊客重返現場獻上鮮花、蠟燭和彩虹旗為傷者打氣。一名悼念民眾告訴中央社，同志驕傲代表的是慶祝愛，攻擊不會改變同志驕傲的意義，愛也不會被恐懼淹沒。",
-     "author": "林尚縈",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "林尚縈",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
-     }
-    }
-   ]
-  },
-  {
    "id": "c1166a49afe9",
    "title": "不只是賣水泥！台泥啟動歐洲上市計畫「Project Arcadia」，張安平親揭未來願景 | 林彥呈 | 財經",
    "outlet_count": 5,
@@ -11206,7 +11196,7 @@
    "last_updated": "2026-07-28T08:44:52+08:00",
    "tags": [
     "歐洲上市計畫",
-    "泥正式啟動歐",
+    "台泥正式啟動",
     "董事會審議"
    ],
    "articles": [
@@ -11300,32 +11290,49 @@
    ]
   },
   {
-   "id": "cf3dbb67c236",
-   "title": "鄧愷威下放3A續當牛棚　太空人總教練點出兩大調整課題",
-   "outlet_count": 5,
+   "id": "6846341ab181",
+   "title": "MLB／李灝宇連續11場安打創台將新高！1紀錄獨居史上第2",
+   "outlet_count": 4,
    "outlets": [
     "ebc",
     "ettoday",
     "ltn",
-    "mirror",
     "tvbs"
    ],
-   "article_count": 5,
-   "first_seen": "2026-07-27T07:57:00+08:00",
-   "last_updated": "2026-07-27T12:49:00+08:00",
+   "article_count": 13,
+   "first_seen": "2026-07-27T09:00:28.616382+08:00",
+   "last_updated": "2026-07-30T08:51:14.088806+08:00",
    "tags": [
-    "鄧愷威",
-    "太空人總教練",
-    "下放"
+    "李灝宇",
+    "敲安"
    ],
    "articles": [
     {
-     "title": "球隊才祝福「生日快樂」　鄭宗哲與鄧愷威同日遭下放3A",
-     "link": "https://www.mirrormedia.mg/story/20260727edi039",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-07-27T12:49:00+08:00",
-     "description": "",
+     "title": "MLB／老虎延長賽輸金鶯！李灝宇連續安打停在12場",
+     "link": "https://news.ebc.net.tw/news/sport/563747",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-07-30T08:51:14.088806+08:00",
+     "description": "美國職棒大聯盟MLB底特律老虎今天主場與巴爾的摩金鶯進行3連戰系列最後一戰，老虎隊台灣好手李灝宇只擊出一支高飛犧牲打帶1分打點，連續安打場次停在12場。",
+     "category": "sport",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "sport",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "MLB》李灝宇貢獻1打點、2打數就被換代打 無緣連13場敲安！",
+     "link": "https://sports.ltn.com.tw/news/breakingnews/5522400",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-30T07:36:32+08:00",
+     "description": "老虎隊台灣好手李灝宇今天擔任先發第三棒三壘手，全場2打數沒有敲安，貢獻1支高飛犧牲打進帳1分打點，無緣連13場敲安。老虎隊搞砸7比0的領先，最終在延長賽12局以9比10敗給...…",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -11333,15 +11340,15 @@
        "source": "unknown"
       },
       "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
      }
     },
     {
-     "title": "退場隊友神救援！鄧愷威控球失準仍收第5勝　賽後慘遭下放3A",
-     "link": "https://news.tvbs.com.tw/sports/3268474",
+     "title": "MLB老虎延長賽輸金鶯　李灝宇連續安打停在12場",
+     "link": "https://news.tvbs.com.tw/sports/3271565",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-27T09:18:52+08:00",
+     "published": "2026-07-30T06:16:28+08:00",
      "description": "",
      "category": "sports",
      "metadata": {
@@ -11356,12 +11363,97 @@
      }
     },
     {
-     "title": "MLB／鄧愷威遭下放3A！外媒分析太空人考量",
-     "link": "https://news.ebc.net.tw/news/sport/563208",
+     "title": "李灝宇連續12場安打止步！　MLB老虎延長賽輸金鶯",
+     "link": "https://sports.ettoday.net/news/3210031",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-07-30T05:50:00+08:00",
+     "description": "美國職棒大聯盟MLB底特律老虎30日主場與巴爾的摩金鶯進行系列賽終戰，台灣好手李灝宇擔任先發三壘手，全場敲出一支高飛犧牲打進帳1分打點，連續安打場次停在12場。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "MLB老虎延長賽輸金鶯　李灝宇連續安打停在12場",
+     "link": "https://sports.ltn.com.tw/news/breakingnews/5522377",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-30T05:21:03+08:00",
+     "description": "美國職棒大聯盟MLB底特律老虎今天主場與巴爾的摩金鶯進行3連戰系列最後一戰，老虎隊台灣好手李灝宇只擊出一支高飛犧牲打帶1分打點，連續安打場次停在12場。\n\n兩隊打完9局7比7戰平，延長賽第1...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "MLB》集氣！李灝宇對明星左投扛先發第3棒 挑戰連13場敲安最狂紀錄",
+     "link": "https://sports.ltn.com.tw/news/breakingnews/5522294",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-29T22:15:45+08:00",
+     "description": "老虎台灣怪力男李灝宇今天替補上陣，沒有打擊機會。老虎將於台灣時間明天凌晨1點10分繼續對決金鶯，李灝宇擔任先發第3棒三壘手，要持續挑戰連續安打場次紀錄。\n\n\n李灝宇今天在8...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "MLB》李灝宇金項鍊受矚目 在國外還是投資標的？",
+     "link": "https://sports.ltn.com.tw/news/breakingnews/5522103",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-29T18:29:36+08:00",
+     "description": "老虎台灣怪力男李灝宇，近期好表現引起台灣球迷關注，而他脖子上那條超粗金項鍊更是引發討論。\n\n\n有媒體請銀樓業者看照片隔空估價，粗估其價值最高可達到將近百萬元新台幣，但詳細...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "MLB》李灝宇超粗金項鍊獲關注！張育成看法超直接 曝旅美爆笑往事",
+     "link": "https://sports.ltn.com.tw/news/breakingnews/5521889",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-07-29T16:57:06+08:00",
+     "description": "老虎台灣怪力男李灝宇連續12場比賽敲安，引起台灣球迷關注，而他脖子上那條超粗金項鍊更是引發討論。前旅美好手張育成直呼，在球場上戴金項鍊其實沒有太特別的意義，純粹就是身分地位...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "MLB／李灝宇連12戰敲安續寫紀錄！朝鈴木一朗壯舉邁進",
+     "link": "https://news.ebc.net.tw/news/sport/563411",
      "source": "ebc",
      "source_name": "東森新聞",
-     "published": "2026-07-27T09:00:28.616382+08:00",
-     "description": "為了在密集賽程中維持牛棚的續航力，休士頓太空人隊於台灣時間26日進行牛棚戰力調度，宣布自3A糖城（Sugar Land Space Cowboys）拉上24歲右",
+     "published": "2026-07-28T11:27:22.296970+08:00",
+     "description": "底特律老虎隊23歲台灣好手李灝宇手感持續火熱，於今賽事中擔任先發第七棒二壘手。他在前兩打席展現優異推進與打擊能力，包辦隊上2分打點，一舉將個人連續安打場次推進至",
      "category": "sport",
      "metadata": {
       "schema_version": 1,
@@ -11375,66 +11467,143 @@
      }
     },
     {
-     "title": "MLB》台灣強投鄧愷威被下放3A！ 太空人總教練解釋原因",
-     "link": "https://sports.ltn.com.tw/news/breakingnews/5518669",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-27T08:45:49+08:00",
-     "description": "太空人今天進行陣容異動，把台灣強投鄧愷威下放3A，拉上新秀右投烏洛拉（Miguel Ullola）。\n\n\n談到升上烏洛拉，太空人總教練艾斯帕達（Joe Espada）表示：...…",
+     "title": "MLB／李灝宇手感火燙！連12場敲安灌2打點　直逼張育成紀錄",
+     "link": "https://news.tvbs.com.tw/sports/3269478",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-28T09:44:52+08:00",
+     "description": "",
+     "category": "sports",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "鄧愷威下放3A續當牛棚　太空人總教練點出兩大調整課題",
-     "link": "https://sports.ettoday.net/news/3208067",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-07-27T07:57:00+08:00",
-     "description": "太空人27日（台灣時間）進行牛棚異動，將台灣右投鄧愷威下放3A糖城太空牛仔，同時升上烏約拉（Miguel Ullola）。總教練艾斯帕達（Joe Espada）表示，球隊希望讓鄧愷威回3A調整速球與橫掃球的進壘品質，並透露他接下來仍會以後援角色出賽。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+      "acquisition": "scraper",
+      "category": "sports",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
      }
     }
    ]
   },
   {
-   "id": "4be61fc7ca9b",
-   "title": "伊朗彈襲約旦美軍基地　川普矢言狠狠反擊",
+   "id": "da7a763cb713",
+   "title": "永豐餘通報苦茶油苯駢芘超標  北市全面預防性下架",
    "outlet_count": 4,
    "outlets": [
     "cna",
-    "ettoday",
-    "ltn",
+    "mirror",
+    "pts",
     "tvbs"
    ],
    "article_count": 4,
-   "first_seen": "2026-07-29T22:19:57+08:00",
-   "last_updated": "2026-07-30T06:11:28+08:00",
+   "first_seen": "2026-07-29T21:51:14+08:00",
+   "last_updated": "2026-07-30T08:20:19+08:00",
    "tags": [
-    "敬伊朗朝美軍",
-    "狠狠打擊他們",
-    "川普"
+    "油苯駢芘超標",
+    "預防性下架",
+    "永豐餘通報"
    ],
    "articles": [
     {
-     "title": "回敬伊朗朝美軍射5枚飛彈　川普：將狠狠打擊他們",
-     "link": "https://news.tvbs.com.tw/world/3271569",
+     "title": "永豐餘通報苦茶油苯駢芘超標 北市衛生局預防性全面下架回收",
+     "link": "https://news.pts.org.tw/article/820013",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-07-30T08:20:19+08:00",
+     "description": "台北市衛生局昨（29）日接獲「永豐餘生技股份有限公司」自主通報，自7月1日起出貨販售的「在地金花小菓苦茶油」，自主送驗檢出苯駢芘疑有異常，立即會同衛福部食藥署，前往永豐餘生技及其供應商威加國際股份有限公司稽查。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "又有苦茶油中鏢！永豐餘通報1款苦茶油苯駢芘超標　北市全面預防性下架",
+     "link": "https://www.mirrormedia.mg/story/20260730edi004",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-07-30T08:14:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "永豐餘通報苦茶油苯駢芘超標  北市全面預防性下架",
+     "link": "https://www.cna.com.tw/news/ahel/202607290374.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-07-29T22:16:53+08:00",
+     "description": "（中央社記者楊淑閔台北29日電）台北市衛生局今天表示，接獲永豐餘生技股份有限公司自主通報，自1日起出貨販售的「在地金花小菓苦茶油」自主送驗苯駢芘超標，已會同食藥署稽查，回收剩餘500瓶、不分批號84瓶。",
+     "author": "楊淑閔",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "楊淑閔",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/local"
+     }
+    },
+    {
+     "title": "「永豐餘生技苦茶油」自主通報苯駢芘超標！不分批號預防性下架",
+     "link": "https://news.tvbs.com.tw/life/3271444",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-07-30T06:11:28+08:00",
+     "published": "2026-07-29T21:51:14+08:00",
+     "description": "",
+     "category": "life",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "life",
+      "feed_url": "https://news.tvbs.com.tw/realtime"
+     }
+    }
+   ]
+  },
+  {
+   "id": "98559475b0a1",
+   "title": "美股道瓊重挫1152點！　Fed利率不動通膨難解",
+   "outlet_count": 4,
+   "outlets": [
+    "ettoday",
+    "mirror",
+    "nownews",
+    "tvbs"
+   ],
+   "article_count": 4,
+   "first_seen": "2026-07-30T05:48:00+08:00",
+   "last_updated": "2026-07-30T06:51:14+08:00",
+   "tags": [
+    "美股道瓊重挫",
+    "利率不動",
+    "通膨難解"
+   ],
+   "articles": [
+    {
+     "title": "基準利率不動美債殖利率飆高　通膨難解拖累道瓊大跌",
+     "link": "https://news.tvbs.com.tw/world/3271568",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-07-30T06:51:14+08:00",
      "description": "",
      "category": "world",
      "metadata": {
@@ -11449,12 +11618,12 @@
      }
     },
     {
-     "title": "回敬伊朗朝美軍射5枚飛彈　川普：將狠狠打擊他們",
-     "link": "https://news.ltn.com.tw/news/world/breakingnews/5522381",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-30T05:36:04+08:00",
-     "description": "美國總統川普今天表示，伊朗朝美軍發射5枚飛彈，結果全數遭到攔截，現在輪到美國還手，「我們要狠狠打擊他們」，但他同時也未放棄達成協議。\n\n對於傳出伊朗將取得數百台中國製的飛彈發射器，川普表示若...…",
+     "title": "Fed利率連5凍沒用！美股道瓊重挫1153點　費半大跌逾5%、台積電ADR跌4.5%",
+     "link": "https://www.mirrormedia.mg/story/20260730edi002",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-07-30T06:39:00+08:00",
+     "description": "",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -11462,16 +11631,33 @@
        "source": "unknown"
       },
       "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
      }
     },
     {
-     "title": "伊朗襲美軍基地　川普怒爆粗口嗆：打到他X的屁滾尿流",
-     "link": "https://www.ettoday.net/news/20260730/3210014.htm",
+     "title": "Fed利率連五凍！伊朗、油價、AI憂患尚存　美股道瓊重挫1153點",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MN3FCNWtWZTlpeklEcllvWkQ2bVpvcmVTX3dkOHhRNWtPUFByMTljUUhWYjduUVY2UnNhRHhyUkhTTVY5TmRRZGJReljSAVJBVV95cUxPTXI4T0FhQ05YT2NVUUtoaUY5OGlqVU1OeUhUbDF0eEJHeGVQSFBQVmYyclpFd3QtVzlVZXVrLXlmZmNMMlJGZVdXOUN5TTVHX2Nn?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-07-30T06:01:57+08:00",
+     "description": "Fed利率連五凍！伊朗、油價、AI憂患尚存　美股道瓊重挫1153點  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "美股道瓊重挫1152點！　Fed利率不動通膨難解",
+     "link": "https://www.ettoday.net/news/20260730/3210029.htm",
      "source": "ettoday",
      "source_name": "ETtoday",
-     "published": "2026-07-30T01:43:00+08:00",
-     "description": "伊朗今天對駐約旦的美軍基地發動攻擊後，美國總統川普（Donald Trump）隨即放話，將對伊朗採取強力報復。 《詳全文...》",
+     "published": "2026-07-30T05:48:00+08:00",
+     "description": "美國聯邦準備理事會（Fed）決定維持基準利率不變，受通膨陰影與升息壓力影響，美股三大指數29日開高走低，道瓊工業指數重挫1152點，創去年宣布對等關稅以來最大單日跌點。美債殖利率隨之上揚，衝擊科技與晶片類股賣壓沉重。 《詳全文...》",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -11480,161 +11666,6 @@
       },
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "伊朗彈襲約旦美軍基地　川普矢言狠狠反擊",
-     "link": "https://www.cna.com.tw/news/aopl/202607290376.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-29T22:19:57+08:00",
-     "description": "（中央社德黑蘭29日綜合外電報導）伊朗今天攻擊美軍位於約旦的基地後，美國總統川普（Donald Trump）矢言狠狠反擊伊朗。而隨著中東戰事再度升溫，伊朗的代理人也再度捲入衝突。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
-     }
-    }
-   ]
-  },
-  {
-   "id": "f2be352ec576",
-   "title": "街口支付創辦人胡亦嘉違證券投資信託及顧問法　一審判刑7年、罰金億元",
-   "outlet_count": 4,
-   "outlets": [
-    "chinatimes",
-    "cna",
-    "ltn",
-    "tvbs"
-   ],
-   "article_count": 5,
-   "first_seen": "2026-07-29T14:41:12+08:00",
-   "last_updated": "2026-07-30T05:30:00+08:00",
-   "tags": [
-    "創辦人胡亦嘉",
-    "街口",
-    "一審判"
-   ],
-   "claims": [
-    {
-     "type": "金額",
-     "agree": false,
-     "outlet_count": 3,
-     "values": [
-      {
-       "value": "6600萬元",
-       "outlets": [
-        "中時新聞網"
-       ]
-      },
-      {
-       "value": "1億元",
-       "outlets": [
-        "TVBS"
-       ]
-      },
-      {
-       "value": "6665萬元",
-       "outlets": [
-        "自由時報"
-       ]
-      }
-     ]
-    }
-   ],
-   "articles": [
-    {
-     "title": "發行原油期貨基金 自肥6665萬 街口創辦人胡亦嘉 一審重判7年",
-     "link": "https://ec.ltn.com.tw/article/paper/1764581",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-07-30T05:30:00+08:00",
-     "description": "〔記者翁靖祐／台北報導〕街口支付創辦人胡亦嘉，二〇二〇年在街口投信辦理配售布蘭特原油期貨基金時，和地產大亨楊建一之子楊立偉共謀，以「左手賣右手」方式，不法獲利六六六五萬餘元。台北地院昨依違反證券投資信託及顧問法之背信罪，將胡男判刑七年、併科罰金一億元；另偽造私文書部分判刑六月、得易科罰金，不法所得三…",
-     "author": "翁靖祐",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "翁靖祐",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "街口創辦人胡亦嘉背信案一審判7年　北院：無視法紀",
-     "link": "https://www.cna.com.tw/news/asoc/202607290334.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-29T19:23:17+08:00",
-     "description": "（中央社記者謝君臨台北29日電）街口支付創辦人胡亦嘉辦理基金配售時，涉嫌未公平配售投資人，並從中獲取利益，北院今天判刑7年、罰金1億元，並批評胡男無視法紀，將其他券商與投資人的權利視如敝屣。可上訴。",
-     "author": "謝君臨",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "謝君臨",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/social"
-     }
-    },
-    {
-     "title": "賣ETF自肥6千萬　街口胡亦嘉背信罪一審判7年、罰1億",
-     "link": "https://news.tvbs.com.tw/local/3270978",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-07-29T15:38:28+08:00",
-     "description": "",
-     "category": "local",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "local",
-      "feed_url": "https://news.tvbs.com.tw/realtime"
-     }
-    },
-    {
-     "title": "街口支付創辦人胡亦嘉違證券投資信託及顧問法　一審判刑7年、罰金億元",
-     "link": "https://www.cna.com.tw/news/asoc/202607290185.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-07-29T15:09:56+08:00",
-     "description": "（中央社記者謝君臨台北29日電）街口支付創辦人胡亦嘉辦理基金配售時涉嫌未公平配售投資人，獲取不法所得約6000萬元，遭北檢起訴。台北地院今天依涉犯證券投資信託及顧問法判胡男7年、罰金1億元。可上訴。",
-     "author": "謝君臨",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "謝君臨",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/social"
-     }
-    },
-    {
-     "title": "賣ETF自肥6600萬 「街口支付」創辦人胡亦嘉判囚7年",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWjQ5OEJMdG9DZGlsemFib3BOVmxnaEtsWm0zLUdIOVNaQXVjQ1VwY3JhUFN2Q0p1M1RyWUktdGt0NEx5Sk9TRVJzV0NFcGh1aHZ0OUhGQ0dzclF6SzdxSHJPcXZJV0JueDdvbmFEVnBlUUU1cEFwby00emQ1Q19BWFRGRmRrZXR6ZzlRVU84NA?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-07-29T14:41:12+08:00",
-     "description": "賣ETF自肥6600萬 「街口支付」創辦人胡亦嘉判囚7年  中時新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
