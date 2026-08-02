@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-08-02T13:39:11.634089+08:00",
+ "generated_at": "2026-08-02T15:11:46.293639+08:00",
  "sources": [
   {
    "id": "cna",
    "name": "中央社",
    "ok": true,
-   "count": 79,
+   "count": 80,
    "via_fallback": false,
    "errors": []
   },
@@ -21,7 +21,7 @@
    "id": "udn",
    "name": "聯合新聞網",
    "ok": true,
-   "count": 94,
+   "count": 95,
    "via_fallback": true,
    "errors": []
   },
@@ -69,17 +69,15 @@
    "id": "ebc",
    "name": "東森新聞",
    "ok": true,
-   "count": 100,
-   "via_fallback": true,
-   "errors": [
-    "scraper: 403 Client Error: Forbidden for url: https://news.ebc.net.tw/realtime"
-   ]
+   "count": 9,
+   "via_fallback": false,
+   "errors": []
   },
   {
    "id": "mirror",
    "name": "鏡週刊",
    "ok": true,
-   "count": 136,
+   "count": 138,
    "via_fallback": false,
    "errors": []
   },
