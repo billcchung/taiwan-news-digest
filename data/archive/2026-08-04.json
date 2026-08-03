@@ -1,11 +1,11 @@
 {
  "date": "2026-08-04",
- "generated_at": "2026-08-04T01:02:45.340831+08:00",
+ "generated_at": "2026-08-04T02:56:11.740356+08:00",
  "events": [
   {
-   "id": "9168f44f2572",
-   "title": "莫斯科市中心餐廳爆炸　至少3死15傷",
-   "outlet_count": 12,
+   "id": "8b8dfc89539b",
+   "title": "傳美日聯手撐日圓　路透：日本財相3日將證實",
+   "outlet_count": 11,
    "outlets": [
     "chinatimes",
     "cna",
@@ -17,45 +17,26 @@
     "nownews",
     "pts",
     "storm",
-    "tvbs",
-    "udn"
+    "tvbs"
    ],
-   "article_count": 152,
-   "first_seen": "2026-08-01T01:37:08+08:00",
-   "last_updated": "2026-08-03T23:07:25+08:00",
+   "article_count": 19,
+   "first_seen": "2026-08-02T11:40:00+08:00",
+   "last_updated": "2026-08-04T01:36:04+08:00",
    "tags": [
-    "新聞網"
+    "美日聯手",
+    "干預"
    ],
    "claims": [
     {
-     "type": "受傷人數",
+     "type": "金額（美元）",
      "agree": true,
-     "outlet_count": 5,
+     "outlet_count": 2,
      "values": [
       {
-       "value": "21",
+       "value": "5500億美元",
        "outlets": [
-        "中時新聞網",
-        "公視新聞",
-        "東森新聞",
-        "自由時報",
-        "鏡週刊"
-       ]
-      }
-     ]
-    },
-    {
-     "type": "死亡人數",
-     "agree": true,
-     "outlet_count": 4,
-     "values": [
-      {
-       "value": "3",
-       "outlets": [
-        "ETtoday",
-        "中時新聞網",
-        "自由時報",
-        "鏡週刊"
+        "中央社",
+        "自由時報"
        ]
       }
      ]
@@ -63,12 +44,63 @@
    ],
    "articles": [
     {
-     "title": "未注意車前狀況國道一號新竹段四車連撞貨車駕駛左腿斷｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJQUJVV3pMVmlLeUhSQXhWMWkySzUwdmdrMGFTdlc0QzkzbFU5b3BOMWtHTC1QY19EMF94elMyLVJ5UGlxVnMzOHFHMk1aTnpTTUtQaW5R?oc=5",
+     "title": "日圓狂跌創40年新低　美日聯手救日圓重點一次看",
+     "link": "https://news.ltn.com.tw/news/world/breakingnews/5527508",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-04T01:36:04+08:00",
+     "description": "在日圓近期跌至40年來新低後，美國罕見再次與日本聯手介入匯市以提振日圓。日圓貶值推高進口成本和日本家庭支出，也會推高美國利率、打亂日本對美投資5500億美元計畫。\n\n財經新聞網CNBC指出，...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "日圓狂跌創40年新低　美日聯手救日圓重點一次看",
+     "link": "https://www.cna.com.tw/news/aopl/202608040003.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-08-04T01:29:52+08:00",
+     "description": "（中央社華盛頓3日綜合外電報導）在日圓近期跌至40年來新低後，美國罕見再次與日本聯手介入匯市以提振日圓。日圓貶值推高進口成本和日本家庭支出，也會推高美國利率、打亂日本對美投資5500億美元計畫。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
+     }
+    },
+    {
+     "title": "美日聯手干預日圓匯率 近30年首見",
+     "link": "https://news.pts.org.tw/article/820661",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-08-03T20:31:13+08:00",
+     "description": "日圓匯率，近日一度逼近164日圓兌1美元的40年新低，這讓日本財務省與美國財政部，發動了近30年來首見的聯手干預。美國總統川普證實「跨海救援」，聲稱這是展現兩國友誼的訊號，有利全球經濟。日本財務大臣則警告，如果市場出現無秩序變動，隨時準備採取進一步行動。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "日圓飆回0.21字頭！ 10萬台幣「少換2.6萬」創10月新低",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HYlpXUmJQU0dEU2RmRm5EUWk1SlpRUXhZUGYxWW5OdEtNT1dwMzlxNk9oOVVrVGpGa1JDOGp1dnk2UGVnUXM4UHVtLW5odw?oc=5",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-08-03T23:07:25+08:00",
-     "description": "未注意車前狀況國道一號新竹段四車連撞貨車駕駛左腿斷｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網  TVBS新聞網",
+     "published": "2026-08-03T18:34:00+08:00",
+     "description": "影音／日圓飆回0.21字頭！ 10萬台幣「少換2.6萬」創10月新低  TVBS新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -80,29 +112,30 @@
      }
     },
     {
-     "title": "2026/08/03 - 粗心小王子的部落格",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9SSFRXdGpiMFVkaHdUVm9rTlpSM2xTWDFHSnRvSTZveHJVcTdNTmxQS0hMbGRIVjA5a0h5anBtbXQzT3k3RTFaQk50SzM4dDRzdlE?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-08-03T21:33:20+08:00",
-     "description": "2026/08/03 - 粗心小王子的部落格  udn部落格",
+     "title": "「日美貨幣同盟」成焦點　聯手救日圓釋強烈訊號",
+     "link": "https://www.cna.com.tw/news/aopl/202608030190.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-08-03T16:11:00+08:00",
+     "description": "（中央社記者戴雅真東京3日專電）面對歷史性日圓貶值，日本政府證實與美國聯手進場買進日圓，並表示未來若市場再度出現劇烈波動，不排除再次協調干預。日本財務省財務官三村淳今天以「日美貨幣同盟的完成形」來形容日美這次協調干預匯市，凸顯兩國在穩定匯率上的合作已邁入新階段。",
+     "author": "戴雅真",
      "metadata": {
       "schema_version": 1,
       "author": {
-       "name": null,
-       "source": "unknown"
+       "name": "戴雅真",
+       "source": "description"
       },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
      }
     },
     {
-     "title": "手搖飲貨車疑撞車起火！苗栗駕駛「受困燒死」車門打不開釀悲劇",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUamxERDJtUklQQ0p5QkRoVGRaeTZGRGY2bXZGMjFPVkRqbWt0UVRyMEFCTXpKU2FqQ0NQRVI1MTlZQktuSzc2b1p6dmY4YW8?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-08-03T20:32:00+08:00",
-     "description": "影音／手搖飲貨車疑撞車起火！苗栗駕駛「受困燒死」車門打不開釀悲劇  TVBS新聞網",
+     "title": "「協助穩定日圓，符合美國國家利益！」美日證實聯手干預匯市，力阻日圓跌至40年來新低| BBC News 中文 | 新聞",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1GWUJHME9Wc2E3bGREcElCeFZ0bTJRSDY2MS0tTTFncDBlQi1EX3ItNjZNNW5kMUVKYVlVUFlTRDJFMlFXUk41TllaOE94dw?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-08-03T13:05:22+08:00",
+     "description": "「協助穩定日圓，符合美國國家利益！」美日證實聯手干預匯市，力阻日圓跌至40年來新低| BBC News 中文 | 新聞  風傳媒",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -110,16 +143,16 @@
        "source": "unknown"
       },
       "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
-     "title": "天氣/白海豚環流挾雨週五變天週三路徑關鍵父親節雨多｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JZl8zQ3hXMFZFSi1QbHdldjNGZThqdzk1Sng5dFdoRldyZnQwN3ZwMmI2aTVhWmNLODU5ZXFlZ0hrNDBMZjJqTjhEOEYwOFp3TDVFSWlB?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-08-03T19:46:54+08:00",
-     "description": "天氣/白海豚環流挾雨週五變天週三路徑關鍵父親節雨多｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網  TVBS新聞網",
+     "title": "為何美日聯手干預日圓匯率？施俊吉揭背後動機：成功拆解全球股市「套利炸彈」 | 張庭維 | 新聞",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FQWQ0aHVIa3hDeHp1cUJRdkZSZV9na2U1a2FzbExKT05SVmQ5TVo5VWVmUXhfYkNfdU9hWmc2TnBYSlhCQVQ0Nm9kOUFWdw?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-08-03T12:12:32+08:00",
+     "description": "為何美日聯手干預日圓匯率？施俊吉揭背後動機：成功拆解全球股市「套利炸彈」 | 張庭維 | 新聞  風傳媒",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -127,16 +160,16 @@
        "source": "unknown"
       },
       "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
-     "title": "等近30分暴怒 外送員踢破宵夜炸烤店冰箱櫃｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SdklQQXA5OWpWZTliQTNwNXZxZUp6UGVjOFV2blZjc1BzUzRJdmxhRmNxVTVNOWRsSWZIcFFkUjRoZmFXUXJUd2RNbm9VTEZFU2lEel9R?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-08-03T19:05:20+08:00",
-     "description": "等近30分暴怒 外送員踢破宵夜炸烤店冰箱櫃｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網  TVBS新聞網",
+     "title": "《國際金融》日圓走強市場關注美日聯合干預措施- 國際",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZaGVtWlJXNkpQb2NYZmJhMU1DOWVaR0lISE43TnlUQXJsdnliQVNIZzM2THR5UkpPOHhZc1Naamc0V0VrX0dLQW9JUDNqckVxQ0plTktVQklieTYtMC1wNjVKZ0JvbGstVEE?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-08-03T11:50:16+08:00",
+     "description": "《國際金融》日圓走強市場關注美日聯合干預措施- 國際  旺得富理財網",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -144,16 +177,16 @@
        "source": "unknown"
       },
       "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
-     "title": "殺人棄屍奪金又補刀！一審派無期徒刑 死者妹怒：台灣司法沒救了",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5RWWtLMXQ5MXRoRGp2TTA0RnBfWFlTOFNfeXlaTXRQVERxM3BLSTFVcEdmWFBYNkdGdGFXX0NIeGlLXzYzTzg3VXVOTkpOdEU?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-08-03T18:31:00+08:00",
-     "description": "影音／殺人棄屍奪金又補刀！一審派無期徒刑 死者妹怒：台灣司法沒救了  TVBS新聞網",
+     "title": "日圓重返0.21字頭！美日聯手干預效應發酵10萬元台幣少換2.8萬日圓| 財經",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBndXN3c2J4S0EzS19TR1NfaWZaSDY0dUxnMGdtN3dINTFsLTl4cHhWSHpTWjhzcC1PYk5Hb2xsdGw5TURaTFpySnNLYXVQUkxfNE1YVFp6R2NENDg?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-08-03T11:49:40+08:00",
+     "description": "日圓重返0.21字頭！美日聯手干預效應發酵10萬元台幣少換2.8萬日圓| 財經  Newtalk新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -161,75 +194,24 @@
        "source": "unknown"
       },
       "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
-     "title": "天氣/炎熱高溫再1天 週三起水氣增 週末颱風近｜氣象主播 吳軒彤｜TVBS氣象站｜TVBS新聞20260803 @TVBSNEWS01",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1CcEVvYTVDQTh6ci1OMXJ2STJEN2FaajV5RXFGcklqcUsxSW5XRW1rQ3RuazhlUTFzUWxhMWVUSjdPV2htVDNDbUlxUTR3d0Mtd19UZG9n?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-08-03T18:30:21+08:00",
-     "description": "天氣/炎熱高溫再1天 週三起水氣增 週末颱風近｜氣象主播 吳軒彤｜TVBS氣象站｜TVBS新聞20260803 @TVBSNEWS01  TVBS新聞網",
+     "title": "美日聯手拋匯救日圓！罕見共同干預市場　專家卻憂心「1疑點」恐幫倒忙",
+     "link": "https://www.mirrormedia.mg/story/20260803edi004",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-08-03T10:39:00+08:00",
+     "description": "",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "殺人棄屍奪金又補刀! 一審判無期徒刑死者妹怒:台灣司法沒救了｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91d2o1TlAtOFlCQkQwS21iYXJKeVc0MmpTWHVuN0VfT2ZqYTBEUzFDbUtvRGZpb1VFYm1YZUhZWldCUEtjejBSSjdwNkQxV2llRTgzQXRB?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-08-03T18:28:34+08:00",
-     "description": "殺人棄屍奪金又補刀! 一審判無期徒刑死者妹怒:台灣司法沒救了｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網  TVBS新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "曳引車載直升機 螺旋槳過長 勾電線釀撞｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxbWRqanFRYTJMYjFJckItSWFyaDBHbmwzTkNrUTdEUEl3ZEo5Sjd0OG90SnhaMzFITGw1bHVycWs2dTlpd0x4ZHE1eWdncXJ5YlJCZDJR?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-08-03T18:15:01+08:00",
-     "description": "曳引車載直升機 螺旋槳過長 勾電線釀撞｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網  TVBS新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "#獨家 嫌友「太臭屁」 反目成仇持刀埋伏 猛刺釀傷｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeGZZNThNR2FZR1RhRS1WX052a2VBWk9xSDBxamVkR1REYk1CWEI1aEk2SEh3U2xGanJ4Wi1fRl8xUEtOSHFHRjJnTU9xMGFKaU14TmlMdDVHOHdJRzhFVG1yWHp3enpWNWhySlAxdjZjUklIdHBmZlNaaElFV2hQNnFUZ0I0QXhmOVNBM2pHSmQ?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-08-03T18:10:45+08:00",
-     "description": "#獨家 嫌友「太臭屁」 反目成仇持刀埋伏 猛刺釀傷｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網  news.tvbs.com.tw",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
      }
     }
    ]
@@ -251,15 +233,32 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 52,
+   "article_count": 53,
    "first_seen": "2026-08-01T17:21:08+08:00",
-   "last_updated": "2026-08-03T21:50:55+08:00",
+   "last_updated": "2026-08-03T22:59:04+08:00",
    "tags": [
     "台糖",
     "通報",
     "中聯"
    ],
    "articles": [
+    {
+     "title": "中聯案5大QA 台糖拒收免通報、食安稽查權責一次看",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5527394",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-03T22:59:04+08:00",
+     "description": "中聯問題油案延燒，台糖拒收中聯問題粗膠原油不需要通報，外界質疑只罰下游業者南僑、不罰台糖，甚至食安稽查到底是中央還是地方責任，中央社記者從法規面向整理5大QA一次看。\n\n根據食品安全衛生...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
     {
      "title": "經濟部稱「台糖未通報毒油」不應無限上綱 高檢署主任打臉：通報是法定義務 | 黃振剛 | 新聞",
      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5obGlkTzgtNFdzQnI4WkNURnMwbEthMEI2QVlXNE40TjZ2LWJSRDVwMGEwV3FSR3Nackx1ZXRsZjF0c1hDMW0yTmdOSV9CUQ?oc=5",
@@ -412,30 +411,13 @@
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
-    },
-    {
-     "title": "台糖5月驗出致癌毒油未通報林燕祝：食安制度破大洞要求嚴格修法| 政治",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tWFlMbC1vVVZkTlJXeWE1ZmxkY3hCaDE3SkFrYzFEbExnNVI1MEN0UXV6YjVwOE5YV0lTX20zVjZkR05XSnBrV253b1ItLWhVaFBaR1FCNFo5Ync?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-08-03T16:55:49+08:00",
-     "description": "台糖5月驗出致癌毒油未通報林燕祝：食安制度破大洞要求嚴格修法| 政治  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
     }
    ]
   },
   {
-   "id": "9c54425b35b5",
-   "title": "傳美日聯手撐日圓　路透：日本財相3日將證實",
-   "outlet_count": 11,
+   "id": "56affb907061",
+   "title": "莫斯科市中心餐廳爆炸　至少3死15傷",
+   "outlet_count": 10,
    "outlets": [
     "chinatimes",
     "cna",
@@ -444,44 +426,59 @@
     "ltn",
     "mirror",
     "newtalk",
-    "nownews",
     "pts",
     "storm",
     "tvbs"
    ],
-   "article_count": 15,
-   "first_seen": "2026-08-02T19:22:47+08:00",
-   "last_updated": "2026-08-03T20:31:13+08:00",
+   "article_count": 136,
+   "first_seen": "2026-08-01T08:32:11+08:00",
+   "last_updated": "2026-08-03T23:33:29+08:00",
    "tags": [
-    "美日聯手",
-    "干預",
-    "證實"
+    "新聞網"
+   ],
+   "claims": [
+    {
+     "type": "受傷人數",
+     "agree": true,
+     "outlet_count": 5,
+     "values": [
+      {
+       "value": "21",
+       "outlets": [
+        "中時新聞網",
+        "公視新聞",
+        "東森新聞",
+        "自由時報",
+        "鏡週刊"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "死亡人數",
+     "agree": true,
+     "outlet_count": 4,
+     "values": [
+      {
+       "value": "3",
+       "outlets": [
+        "ETtoday",
+        "中時新聞網",
+        "自由時報",
+        "鏡週刊"
+       ]
+      }
+     ]
+    }
    ],
    "articles": [
     {
-     "title": "美日聯手干預日圓匯率 近30年首見",
-     "link": "https://news.pts.org.tw/article/820661",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-08-03T20:31:13+08:00",
-     "description": "日圓匯率，近日一度逼近164日圓兌1美元的40年新低，這讓日本財務省與美國財政部，發動了近30年來首見的聯手干預。美國總統川普證實「跨海救援」，聲稱這是展現兩國友誼的訊號，有利全球經濟。日本財務大臣則警告，如果市場出現無秩序變動，隨時準備採取進一步行動。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "日圓飆回0.21字頭！ 10萬台幣「少換2.6萬」創10月新低",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HYlpXUmJQU0dEU2RmRm5EUWk1SlpRUXhZUGYxWW5OdEtNT1dwMzlxNk9oOVVrVGpGa1JDOGp1dnk2UGVnUXM4UHVtLW5odw?oc=5",
+     "title": "港香奈兒抓內鬼貨倉主管監守自盜偷700過季包轉賣.判7年 ｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hZm9PYzcwUmRUSEpDb0tVcERmc1ZhazlFaDZKM25aZEwxc2I0dmJKYzlTYUZ5MzJPWUtBaWpQTWlFbUQyaUlhbUJxZUgtZlBLak92R0Zn?oc=5",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-08-03T18:34:00+08:00",
-     "description": "影音／日圓飆回0.21字頭！ 10萬台幣「少換2.6萬」創10月新低  TVBS新聞網",
+     "published": "2026-08-03T23:33:29+08:00",
+     "description": "港香奈兒抓內鬼貨倉主管監守自盜偷700過季包轉賣.判7年 ｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網  TVBS新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -493,30 +490,12 @@
      }
     },
     {
-     "title": "「日美貨幣同盟」成焦點　聯手救日圓釋強烈訊號",
-     "link": "https://www.cna.com.tw/news/aopl/202608030190.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-08-03T16:11:00+08:00",
-     "description": "（中央社記者戴雅真東京3日專電）面對歷史性日圓貶值，日本政府證實與美國聯手進場買進日圓，並表示未來若市場再度出現劇烈波動，不排除再次協調干預。日本財務省財務官三村淳今天以「日美貨幣同盟的完成形」來形容日美這次協調干預匯市，凸顯兩國在穩定匯率上的合作已邁入新階段。",
-     "author": "戴雅真",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "戴雅真",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
-     }
-    },
-    {
-     "title": "為何美日聯手干預日圓匯率？施俊吉揭背後動機：成功拆解全球股市「套利炸彈」 | 張庭維 | 新聞",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FQWQ0aHVIa3hDeHp1cUJRdkZSZV9na2U1a2FzbExKT05SVmQ5TVo5VWVmUXhfYkNfdU9hWmc2TnBYSlhCQVQ0Nm9kOUFWdw?oc=5",
-     "source": "storm",
-     "source_name": "風傳媒",
-     "published": "2026-08-03T12:12:32+08:00",
-     "description": "為何美日聯手干預日圓匯率？施俊吉揭背後動機：成功拆解全球股市「套利炸彈」 | 張庭維 | 新聞  風傳媒",
+     "title": "未注意車前狀況國道一號新竹段四車連撞貨車駕駛左腿斷｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJQUJVV3pMVmlLeUhSQXhWMWkySzUwdmdrMGFTdlc0QzkzbFU5b3BOMWtHTC1QY19EMF94elMyLVJ5UGlxVnMzOHFHMk1aTnpTTUtQaW5R?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-08-03T23:07:25+08:00",
+     "description": "未注意車前狀況國道一號新竹段四車連撞貨車駕駛左腿斷｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網  TVBS新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -524,16 +503,16 @@
        "source": "unknown"
       },
       "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
-     "title": "《國際金融》日圓走強市場關注美日聯合干預措施- 國際",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZaGVtWlJXNkpQb2NYZmJhMU1DOWVaR0lISE43TnlUQXJsdnliQVNIZzM2THR5UkpPOHhZc1Naamc0V0VrX0dLQW9JUDNqckVxQ0plTktVQklieTYtMC1wNjVKZ0JvbGstVEE?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-08-03T11:50:16+08:00",
-     "description": "《國際金融》日圓走強市場關注美日聯合干預措施- 國際  旺得富理財網",
+     "title": "手搖飲貨車疑撞車起火！苗栗駕駛「受困燒死」車門打不開釀悲劇",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUamxERDJtUklQQ0p5QkRoVGRaeTZGRGY2bXZGMjFPVkRqbWt0UVRyMEFCTXpKU2FqQ0NQRVI1MTlZQktuSzc2b1p6dmY4YW8?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-08-03T20:32:00+08:00",
+     "description": "影音／手搖飲貨車疑撞車起火！苗栗駕駛「受困燒死」車門打不開釀悲劇  TVBS新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -541,16 +520,16 @@
        "source": "unknown"
       },
       "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
-     "title": "日圓重返0.21字頭！美日聯手干預效應發酵10萬元台幣少換2.8萬日圓| 財經",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBndXN3c2J4S0EzS19TR1NfaWZaSDY0dUxnMGdtN3dINTFsLTl4cHhWSHpTWjhzcC1PYk5Hb2xsdGw5TURaTFpySnNLYXVQUkxfNE1YVFp6R2NENDg?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-08-03T11:49:40+08:00",
-     "description": "日圓重返0.21字頭！美日聯手干預效應發酵10萬元台幣少換2.8萬日圓| 財經  Newtalk新聞",
+     "title": "天氣/白海豚環流挾雨週五變天週三路徑關鍵父親節雨多｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JZl8zQ3hXMFZFSi1QbHdldjNGZThqdzk1Sng5dFdoRldyZnQwN3ZwMmI2aTVhWmNLODU5ZXFlZ0hrNDBMZjJqTjhEOEYwOFp3TDVFSWlB?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-08-03T19:46:54+08:00",
+     "description": "天氣/白海豚環流挾雨週五變天週三路徑關鍵父親節雨多｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網  TVBS新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -558,33 +537,16 @@
        "source": "unknown"
       },
       "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
-     "title": "美日聯手拋匯救日圓！罕見共同干預市場　專家卻憂心「1疑點」恐幫倒忙",
-     "link": "https://www.mirrormedia.mg/story/20260803edi004",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-08-03T10:39:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "日圓匯率急升見155字頭！美日證實聯合干預匯市、稱不排除延續動作| 財經",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wUXFZUDdOWmJhYzVnOXdrTzJ4cFBBTWV0Uk5nSG5UR21zTFZJTUptTm5sYzc4bU1IYlhfTVI5U2xtMGtCaUxkMXhZWHpZNzgxb1NydWhCQ1BsZkU?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-08-03T09:08:55+08:00",
-     "description": "日圓匯率急升見155字頭！美日證實聯合干預匯市、稱不排除延續動作| 財經  newtalk.tw",
+     "title": "等近30分暴怒 外送員踢破宵夜炸烤店冰箱櫃｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SdklQQXA5OWpWZTliQTNwNXZxZUp6UGVjOFV2blZjc1BzUzRJdmxhRmNxVTVNOWRsSWZIcFFkUjRoZmFXUXJUd2RNbm9VTEZFU2lEel9R?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-08-03T19:05:20+08:00",
+     "description": "等近30分暴怒 外送員踢破宵夜炸烤店冰箱櫃｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網  TVBS新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -592,43 +554,92 @@
        "source": "unknown"
       },
       "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
-     "title": "川普證實了！美日聯手干預匯市推升日圓",
-     "link": "https://news.ebc.net.tw/news/world/564375",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-08-03T08:58:22.228874+08:00",
-     "description": "美國總統川普表示，美國上周和日本聯手干預匯市，推升日圓，展現對日友誼。他也預期，華府協助盟友可獲得財務利益。",
-     "category": "world",
+     "title": "殺人棄屍奪金又補刀！一審派無期徒刑 死者妹怒：台灣司法沒救了",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5RWWtLMXQ5MXRoRGp2TTA0RnBfWFlTOFNfeXlaTXRQVERxM3BLSTFVcEdmWFBYNkdGdGFXX0NIeGlLXzYzTzg3VXVOTkpOdEU?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-08-03T18:31:00+08:00",
+     "description": "影音／殺人棄屍奪金又補刀！一審派無期徒刑 死者妹怒：台灣司法沒救了  TVBS新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "scraper",
-      "category": "world",
-      "feed_url": "https://news.ebc.net.tw/realtime"
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
-     "title": "美日證實聯手干預 日圓匯率急升",
-     "link": "https://ec.ltn.com.tw/article/breakingnews/5526502",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-03T08:52:01+08:00",
-     "description": "〔財經頻道／綜合報導〕日本財務大臣片山皋月週一（3日）發表聲明稱，在美東時間7月31日，日本與美國財政部經協調後買入日圓，干預了匯率市場。聲明證實了這一罕見的雙邊行動，並推動日圓匯率在週一早盤急...…",
+     "title": "天氣/炎熱高溫再1天 週三起水氣增 週末颱風近｜氣象主播 吳軒彤｜TVBS氣象站｜TVBS新聞20260803 @TVBSNEWS01",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1CcEVvYTVDQTh6ci1OMXJ2STJEN2FaajV5RXFGcklqcUsxSW5XRW1rQ3RuazhlUTFzUWxhMWVUSjdPV2htVDNDbUlxUTR3d0Mtd19UZG9n?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-08-03T18:30:21+08:00",
+     "description": "天氣/炎熱高溫再1天 週三起水氣增 週末颱風近｜氣象主播 吳軒彤｜TVBS氣象站｜TVBS新聞20260803 @TVBSNEWS01  TVBS新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "殺人棄屍奪金又補刀! 一審判無期徒刑死者妹怒:台灣司法沒救了｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91d2o1TlAtOFlCQkQwS21iYXJKeVc0MmpTWHVuN0VfT2ZqYTBEUzFDbUtvRGZpb1VFYm1YZUhZWldCUEtjejBSSjdwNkQxV2llRTgzQXRB?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-08-03T18:28:34+08:00",
+     "description": "殺人棄屍奪金又補刀! 一審判無期徒刑死者妹怒:台灣司法沒救了｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網  TVBS新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "曳引車載直升機 螺旋槳過長 勾電線釀撞｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxbWRqanFRYTJMYjFJckItSWFyaDBHbmwzTkNrUTdEUEl3ZEo5Sjd0OG90SnhaMzFITGw1bHVycWs2dTlpd0x4ZHE1eWdncXJ5YlJCZDJR?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-08-03T18:15:01+08:00",
+     "description": "曳引車載直升機 螺旋槳過長 勾電線釀撞｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網  TVBS新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "#獨家 嫌友「太臭屁」 反目成仇持刀埋伏 猛刺釀傷｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeGZZNThNR2FZR1RhRS1WX052a2VBWk9xSDBxamVkR1REYk1CWEI1aEk2SEh3U2xGanJ4Wi1fRl8xUEtOSHFHRjJnTU9xMGFKaU14TmlMdDVHOHdJRzhFVG1yWHp3enpWNWhySlAxdjZjUklIdHBmZlNaaElFV2hQNnFUZ0I0QXhmOVNBM2pHSmQ?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-08-03T18:10:45+08:00",
+     "description": "#獨家 嫌友「太臭屁」 反目成仇持刀埋伏 猛刺釀傷｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網  news.tvbs.com.tw",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -827,6 +838,205 @@
       },
       "acquisition": "rss",
       "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    }
+   ]
+  },
+  {
+   "id": "38fbf25d818b",
+   "title": "白海豚颱風不排除週五發海警 路徑變化是影響台灣程度關鍵",
+   "outlet_count": 9,
+   "outlets": [
+    "ebc",
+    "ettoday",
+    "ltn",
+    "mirror",
+    "newtalk",
+    "nownews",
+    "pts",
+    "storm",
+    "tvbs"
+   ],
+   "article_count": 41,
+   "first_seen": "2026-08-01T05:57:00+08:00",
+   "last_updated": "2026-08-03T23:20:15.041056+08:00",
+   "tags": [
+    "白海豚",
+    "路徑"
+   ],
+   "articles": [
+    {
+     "title": "白海豚「父親節」最靠近！北部暴風侵襲率破3成",
+     "link": "https://news.ebc.net.tw/news/living/564558",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-08-03T23:20:15.041056+08:00",
+     "description": "白海豚颱風持續西行，預估週五接近琉球群島，氣象署不排除發布海警，北北基桃及宜蘭風雨影響增，父親節週末出遊恐受天候影響。",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "白海豚路徑北修「開花」風雨避不了　2關鍵轉彎逼台！周末豪雨變天",
+     "link": "https://www.ettoday.net/news/20260803/3212711.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-08-03T23:18:00+08:00",
+     "description": "中央氣象署表示，第12號中度颱風「白海豚」（Dolphin）最新路徑潛勢顯示有北修趨向，但因其暴風半徑大，最快7日（周五）下半天可能發布海上颱風警報。專家分析，未來白海豚的動向有2個關鍵點，其一是颱風的移動速度，其二是北轉2種情境，但這次各模式陣營都呈現「開花」狀態，就算最後沒有很近台，仍避免不了風雨。\n\n 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "中颱白海豚持續向西 週五半個台灣溼答答",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5527419",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-03T21:45:38+08:00",
+     "description": "週二（3日）各地為多雲到晴，僅基隆北海岸及大臺北山區有零星短暫陣雨，午後中南部、花東地區及其他山區有局部短暫雷陣雨，清晨至上午西半部地區有零星短暫陣雨，近中午前後...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "白海豚颱風持續向西 估週五至週六通過琉球群島",
+     "link": "https://news.pts.org.tw/article/820668",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-08-03T20:34:09+08:00",
+     "description": "目前白海豚颱風持續向西進行，預計週五（7日）到週六（8日）通過琉球群島，本週末也會影響台灣的天氣。氣象署表示，如果颱風持續向西，或是北轉的時間點比較晚，就不排除最快會在週五發布海上颱風警報。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "白海豚北轉機率增！ 颱風偏胖仍可能發海警時間出爐",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5527307",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-03T18:39:56+08:00",
+     "description": "白海豚來勢洶洶！中央氣象署預報，白海豚預估持續朝西前進到琉球群島，後續推估以北轉趨勢較高，但由於其暴風半徑偏大，因此週五下半天可能會發布海上颱風警報，接近台灣時將維持中颱或輕颱...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "中颱白海豚可能北轉！最快週五發海警　週末最接近台灣",
+     "link": "https://www.mirrormedia.mg/story/20260803edi084",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-08-03T18:21:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "明天的天氣/白海豚颱風最快周五發海警！對台影響「這2天全台變天大雨狂炸」， 本周氣象曝",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1lNGo5OEk0NDdiVE9maXRlSzRKY005MGpWQl9JVnBoLUxjX0tscUp5ZTNfQS04M3VJZ21LRDY1cFV4MEJHSkVaN3JSamp5WVJ3?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-08-03T18:14:49+08:00",
+     "description": "明天的天氣/白海豚颱風最快周五發海警！對台影響「這2天全台變天大雨狂炸」， 本周氣象曝  storm.mg",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "白海豚最新路徑曝！北北基桃宜暴風侵襲率破3成",
+     "link": "https://news.ebc.net.tw/news/living/564506",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-08-03T17:31:55.557781+08:00",
+     "description": "白海豚颱風轉為中颱，氣象署今（3）日2時也公布最新暴風侵襲機率，北北基桃宜都破3成，民間氣象粉專也提醒，目前週五、週六通過日本後的路徑仍有嚴重分歧。",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "颱風白海豚路徑神似這些怪颱！週末卡在東北部海面打轉影響台灣2大關鍵曝| 生活",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uRDVWclJ5Y0xadFhHa05VNDJFTmtqM3ZiOFZ3ekZSc0J6WDBja1BBUzZONEVWTzlhQnRGemh5cFc0cjdfUWlvdV9CM3VMSGZSckVFNGZNRWRHUnM?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-08-03T16:59:49+08:00",
+     "description": "颱風白海豚路徑神似這些怪颱！週末卡在東北部海面打轉影響台灣2大關鍵曝| 生活  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "天氣／白海豚颱風會放颱風假？全台最新暴風侵襲率出爐北北基數據最高| 風生活綜合報導| 風生活",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4yUExlalczR28zcFc5OU1mOFczelBDZzVacG03MVE2THJJNS1LWTVhajVfWF9UMDlNNWl1LUxKT3VlQ0ctN2d4dnpXUHZuLXFI?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-08-03T16:27:44+08:00",
+     "description": "天氣／白海豚颱風會放颱風假？全台最新暴風侵襲率出爐北北基數據最高| 風生活綜合報導| 風生活  風傳媒",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -1698,7 +1908,7 @@
    "tags": [
     "選棒協理事長",
     "周玲妏",
-    "當選"
+    "棒球"
    ],
    "articles": [
     {
@@ -1871,204 +2081,6 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
-   "id": "38fbf25d818b",
-   "title": "白海豚颱風不排除週五發海警 路徑變化是影響台灣程度關鍵",
-   "outlet_count": 8,
-   "outlets": [
-    "ebc",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "newtalk",
-    "pts",
-    "storm",
-    "tvbs"
-   ],
-   "article_count": 39,
-   "first_seen": "2026-08-01T05:57:00+08:00",
-   "last_updated": "2026-08-03T23:20:15.041056+08:00",
-   "tags": [
-    "白海豚",
-    "路徑"
-   ],
-   "articles": [
-    {
-     "title": "白海豚「父親節」最靠近！北部暴風侵襲率破3成",
-     "link": "https://news.ebc.net.tw/news/living/564558",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-08-03T23:20:15.041056+08:00",
-     "description": "白海豚颱風持續西行，預估週五接近琉球群島，氣象署不排除發布海警，北北基桃及宜蘭風雨影響增，父親節週末出遊恐受天候影響。",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "中颱白海豚持續向西 週五半個台灣溼答答",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5527419",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-03T21:45:38+08:00",
-     "description": "週二（3日）各地為多雲到晴，僅基隆北海岸及大臺北山區有零星短暫陣雨，午後中南部、花東地區及其他山區有局部短暫雷陣雨，清晨至上午西半部地區有零星短暫陣雨，近中午前後...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "白海豚颱風持續向西 估週五至週六通過琉球群島",
-     "link": "https://news.pts.org.tw/article/820668",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-08-03T20:34:09+08:00",
-     "description": "目前白海豚颱風持續向西進行，預計週五（7日）到週六（8日）通過琉球群島，本週末也會影響台灣的天氣。氣象署表示，如果颱風持續向西，或是北轉的時間點比較晚，就不排除最快會在週五發布海上颱風警報。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "白海豚北轉機率增！ 颱風偏胖仍可能發海警時間出爐",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5527307",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-03T18:39:56+08:00",
-     "description": "白海豚來勢洶洶！中央氣象署預報，白海豚預估持續朝西前進到琉球群島，後續推估以北轉趨勢較高，但由於其暴風半徑偏大，因此週五下半天可能會發布海上颱風警報，接近台灣時將維持中颱或輕颱...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "中颱白海豚可能北轉！最快週五發海警　週末最接近台灣",
-     "link": "https://www.mirrormedia.mg/story/20260803edi084",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-08-03T18:21:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "明天的天氣/白海豚颱風最快周五發海警！對台影響「這2天全台變天大雨狂炸」， 本周氣象曝",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1lNGo5OEk0NDdiVE9maXRlSzRKY005MGpWQl9JVnBoLUxjX0tscUp5ZTNfQS04M3VJZ21LRDY1cFV4MEJHSkVaN3JSamp5WVJ3?oc=5",
-     "source": "storm",
-     "source_name": "風傳媒",
-     "published": "2026-08-03T18:14:49+08:00",
-     "description": "明天的天氣/白海豚颱風最快周五發海警！對台影響「這2天全台變天大雨狂炸」， 本周氣象曝  storm.mg",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "白海豚最新路徑曝！北北基桃宜暴風侵襲率破3成",
-     "link": "https://news.ebc.net.tw/news/living/564506",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-08-03T17:31:55.557781+08:00",
-     "description": "白海豚颱風轉為中颱，氣象署今（3）日2時也公布最新暴風侵襲機率，北北基桃宜都破3成，民間氣象粉專也提醒，目前週五、週六通過日本後的路徑仍有嚴重分歧。",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "颱風白海豚路徑神似這些怪颱！週末卡在東北部海面打轉影響台灣2大關鍵曝| 生活",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uRDVWclJ5Y0xadFhHa05VNDJFTmtqM3ZiOFZ3ekZSc0J6WDBja1BBUzZONEVWTzlhQnRGemh5cFc0cjdfUWlvdV9CM3VMSGZSckVFNGZNRWRHUnM?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-08-03T16:59:49+08:00",
-     "description": "颱風白海豚路徑神似這些怪颱！週末卡在東北部海面打轉影響台灣2大關鍵曝| 生活  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "天氣／白海豚颱風會放颱風假？全台最新暴風侵襲率出爐北北基數據最高| 風生活綜合報導| 風生活",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4yUExlalczR28zcFc5OU1mOFczelBDZzVacG03MVE2THJJNS1LWTVhajVfWF9UMDlNNWl1LUxKT3VlQ0ctN2d4dnpXUHZuLXFI?oc=5",
-     "source": "storm",
-     "source_name": "風傳媒",
-     "published": "2026-08-03T16:27:44+08:00",
-     "description": "天氣／白海豚颱風會放颱風假？全台最新暴風侵襲率出爐北北基數據最高| 風生活綜合報導| 風生活  風傳媒",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "颱風／白海豚最新路徑向西衝！全台颱風暴風侵襲率出爐",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5mMkFfRktWSnZBMzVuTF9WMWpiRHp6RVprMXd4Mjl6WFJKRlFFT09YTlBoNC1hUzNHdnJPRG9jZWg5WTBDb01nUEdCUmlJdw?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-08-03T15:45:00+08:00",
-     "description": "颱風／白海豚最新路徑向西衝！全台颱風暴風侵襲率出爐  TVBS新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -2697,7 +2709,7 @@
     "nownews",
     "setn"
    ],
-   "article_count": 43,
+   "article_count": 48,
    "first_seen": "2026-08-01T13:41:00+08:00",
    "last_updated": "2026-08-03T17:36:49+08:00",
    "tags": [
@@ -2727,7 +2739,24 @@
      "source": "setn",
      "source_name": "三立新聞網",
      "published": "2026-08-03T17:30:46+08:00",
-     "description": "薪資.相關報導  setn.com",
+     "description": "薪資.相關報導  三立新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "阿賢.宋致賢相關報導",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5MekhoOGJpOVVmeDhjUnBrLWU4QmkwMmhpbkl2NXBKcG1GNjRHSFdaYlZBVGZDZ3lkN0tiODdqTmg3STJCZmFDbQ?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-08-03T16:48:59+08:00",
+     "description": "阿賢.宋致賢相關報導  三立新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -2745,6 +2774,40 @@
      "source_name": "三立新聞網",
      "published": "2026-08-03T13:07:47+08:00",
      "description": "夏天便當  三立新聞網SETN.com",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "陳澄三相關報導",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBITWp4Sm51WnRhUmR2NGF4ZElIRWp5cl9KSTVzNGJTQXVBb2xZdW5jVUZBdGh1bjdjeWpkS1Q5YW5aSEdiYXgzYg?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-08-03T11:13:14+08:00",
+     "description": "陳澄三相關報導  三立新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "說明政策相關報導",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5iTWpaeEJpcjBVTWNlZEwxUV9WMXJTM0ROYkNFVDlwd2J1bU5LWFB1bW9wdExCel9LNUtHWkdZeEZFUGl4ZXZ2Tg?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-08-03T11:12:10+08:00",
+     "description": "說明政策相關報導  三立新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -2813,57 +2876,6 @@
      "source_name": "三立新聞網",
      "published": "2026-08-03T09:44:41+08:00",
      "description": "楊淵琛相關報導  setn.com",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "張紘甡相關報導",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5BbS1lbnpULWJ2N3dWVko1VWVDOEFUNV8tbzY4Ni11cmpwblVZSDhoYlNzbHZscmhBUEdBeFRSNWFUQnY1Q2tqeQ?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-08-03T09:20:55+08:00",
-     "description": "張紘甡相關報導  三立新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "景山國小相關報導",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1makcwNk9mVG4zZjlmR0lrSEU4azFkc0w0MEtlWXNOWGdCdHVzaUY2ZktGck5uRHRZZjNyVVNZaWlEQzdZZmt1bg?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-08-03T06:51:21+08:00",
-     "description": "景山國小相關報導  三立新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "春製油廠相關報導",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE82Y045TlMwQWFtQ212d244cmRleU92aW5YRFlXWkRmRFo0OUVqcFRfWDVjbXRTZl9CU1RrbFNKNVVVTVY0c1RSMQ?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-08-03T01:11:54+08:00",
-     "description": "春製油廠相關報導  三立新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -3090,8 +3102,8 @@
    "last_updated": "2026-08-03T17:28:00+08:00",
    "tags": [
     "最大震度",
-    "規模",
-    "地震"
+    "地震",
+    "規模"
    ],
    "claims": [
     {
@@ -3542,7 +3554,7 @@
    "last_updated": "2026-08-03T10:23:00+08:00",
    "tags": [
     "直升機",
-    "林和農地火災",
+    "森林和農地火",
     "希臘"
    ],
    "claims": [
@@ -3758,7 +3770,7 @@
    ]
   },
   {
-   "id": "6ebcaa89777c",
+   "id": "71bbbb913820",
    "title": "高雄議員陳明澤涉恐嚇綠能業者索賄　遭羈押禁見",
    "outlet_count": 6,
    "outlets": [
@@ -3769,13 +3781,13 @@
     "mirror",
     "newtalk"
    ],
-   "article_count": 13,
-   "first_seen": "2026-08-01T02:30:00+08:00",
+   "article_count": 11,
+   "first_seen": "2026-08-01T08:29:33+08:00",
    "last_updated": "2026-08-01T21:15:03+08:00",
    "tags": [
     "羈押禁見",
-    "陳明",
-    "中聯油"
+    "中聯油脂廠長",
+    "陳明"
    ],
    "claims": [
     {
@@ -3976,6 +3988,518 @@
    ]
   },
   {
+   "id": "21d8c4cd6a0d",
+   "title": "東京多摩動物公園3隻獅子死亡　疑遭酷暑奪命",
+   "outlet_count": 5,
+   "outlets": [
+    "cna",
+    "ettoday",
+    "mirror",
+    "nownews",
+    "setn"
+   ],
+   "article_count": 67,
+   "first_seen": "2026-08-02T11:35:28+08:00",
+   "last_updated": "2026-08-04T01:11:00+08:00",
+   "tags": [
+    "娛樂關鍵字"
+   ],
+   "articles": [
+    {
+     "title": "沒強迫用EZ Way　關貿公司首發聲明APP個資一次講清楚",
+     "link": "https://www.ettoday.net/news/20260804/3212731.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-08-04T01:11:00+08:00",
+     "description": "近日不少民眾才發現，跨境網購報關使用的「EZ WAY易利委」，並非由政府自行開發、營運，而是由民營的關貿網路公司建置維運，引發外界對收費機制、個資安全及政府監督等質疑。對此，關貿網路公司3日發布聲明回應，表示未強制民眾使用EZ WAY，EZ WAY是依個資法及資安規定所建置營運，資安等級符合國際認證，並納入國家級監控。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "醫療帳單 娛樂關鍵字",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE96RVJnbFhCNkJLUjc3ak5pUW1zRG5fYWhWVmw3Mk5qZ2l6YkExRG5mLUUwZVI2N0hiQ1MxbWF6LWM5a1NDZ1c3SA?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-08-03T23:32:18+08:00",
+     "description": "醫療帳單 娛樂關鍵字  娛樂星聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "Max Gilardi 娛樂關鍵字",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Qak02ZVBaWHdfc0VCdlhqampRUWt2Z3I2bEFacGJjMkJnblVhb251Z1lENlVDaUFBd0VnekY0UkpSemtsdDk2Nw?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-08-03T23:32:18+08:00",
+     "description": "Max Gilardi 娛樂關鍵字  娛樂星聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "hotdiggedydemon 娛樂關鍵字",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE43N19nVVZwLUIydFkxSW51ZkcyMU5TQjQzTFItY0F1TUItalFSS1hVNUpkMDFHY3lvOE5YaDlfQ2N4Sk0xcVhKdw?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-08-03T23:32:18+08:00",
+     "description": "hotdiggedydemon 娛樂關鍵字  娛樂星聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "金敘緣 娛樂關鍵字",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5SMWpzNnBiZ2dqSHZmb0xkbUV4T2M1RHJJRVBpV3paWFMxODFTQlkyRnFWekg3VmpXQ21lel9faFAtdk5uZXkxZA?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-08-03T23:28:37+08:00",
+     "description": "金敘緣 娛樂關鍵字  娛樂星聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "徐莉玲與 娛樂關鍵字",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1CQmxrQ2gyNmdYR3lDMXBCOTdWYWdza3JZRVdqdnVod0Q5SUJPRkZoUEFmUGhBUV9MM25YMjJaSm9RWjFjZF9PZQ?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-08-03T22:38:59+08:00",
+     "description": "徐莉玲與 娛樂關鍵字  娛樂星聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "NEWBEAT 關鍵字",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NWUxlZTRuLWc0QVA0MG9qQ2xNQm1vRnNKeWc0U0s1TDVBbnJ5VWtBMVBNcjVKbTZ2TVNKU0hYWUtXWUpOX1ZxT2JxYjBmUQ?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-08-03T22:38:54+08:00",
+     "description": "NEWBEAT 關鍵字  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "Legging 娛樂關鍵字",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBrcmtCSGpySkFSTlptT1BOblNGYUxFazlYci1JRDdOWmR0emdPRS1PTG9kWThpbkJzSnE2UDI5M1J0M0pYMm9wdw?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-08-03T22:08:39+08:00",
+     "description": "Legging 娛樂關鍵字  娛樂星聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "台玻夫人 娛樂關鍵字",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA3dl8wUVpTUjJYdG5wOTVwVThRajQ2MEtZSjJ2OUQ3VnhCOWI2QWdGX3ZBVk15ZlpIYlI1dkVtYjN6aE1zSVdGOQ?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-08-03T21:42:09+08:00",
+     "description": "台玻夫人 娛樂關鍵字  娛樂星聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "伊旺 娛樂關鍵字",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9laUQ4YThTWDZwblpGUW1XMTlkUF8yd1hYcVZUaVg2ZFJ3eE9yVW9jVF9uWGQwWjZYckdKU2M2ZlBISkJxMnBfWg?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-08-03T21:40:12+08:00",
+     "description": "伊旺 娛樂關鍵字  娛樂星聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
+   "id": "785a95c0becd",
+   "title": "桃園盃三對三籃球賽　體育局：廠商坦承報名灌水",
+   "outlet_count": 5,
+   "outlets": [
+    "cna",
+    "ettoday",
+    "ltn",
+    "mirror",
+    "newtalk"
+   ],
+   "article_count": 12,
+   "first_seen": "2026-08-02T19:59:00+08:00",
+   "last_updated": "2026-08-04T00:28:00+08:00",
+   "tags": [
+    "三對三籃球賽",
+    "桃園盃",
+    "灌水"
+   ],
+   "articles": [
+    {
+     "title": "桃園盃報名爆「幽靈隊」灌水　市府：全案送政風、廠商送法辦",
+     "link": "https://www.ettoday.net/news/20260804/3212725.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-08-04T00:28:00+08:00",
+     "description": "針對桃園盃三對三籃球賽報名灌水行為，桃園市政府新聞處長羅楚東3日表示，市府體育局2日晚間已聲明，將追究其詐欺行為，就是透過移送法辦的方式處置；也將求償並且依公共工程委員會機制提報為不良廠商，防堵其未來仍有承接政府標案的機會。市府依法嚴辦，絕不姑息，體育局也主動將案件送政風調查。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "桃園盃三對三籃球賽爆AI生成灌水挨批審查失靈 桃市府：決不包庇",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5526936",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-03T14:58:32+08:00",
+     "description": "桃園市政府體育局主辦的「2026第十屆桃園盃全國三對三籃球賽共吸引2075隊、近8000名選手報名參加，號稱歷年最大規模，卻被選手踢爆承辦廠商以AI生成「幽靈球隊」灌水報名，引...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "桃園盃爆「AI幽靈選手」灌水爭議！桃市府：全案送政風調查　廠商移送法辦",
+     "link": "https://www.mirrormedia.mg/story/20260803edi014",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-08-03T14:19:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "桃園盃三對三籃賽灌水案議員指失職　市府：送法辦",
+     "link": "https://www.cna.com.tw/news/aloc/202608030119.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-08-03T13:31:27+08:00",
+     "description": "（中央社記者吳睿騏桃園3日電）桃園市府主辦桃園盃全國三對三籃球賽報名灌水引爭議。民進黨市議員黃瓊慧今天批體育局未善盡監督，要求提告求償及政風處調查。市府回應說，將移送法辦、求償並提報不良廠商。",
+     "author": "吳睿騏",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "吳睿騏",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/local"
+     }
+    },
+    {
+     "title": "桃園盃報名爭議！桃市府：全案送政風調查廠商移送法辦| 政治",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYYWNwZW00MEVTTmpUQXU4R1YwTll2RURjeDUyZTkzSkJQQTVSYTZtSnI4UVEtSDJkUGgtSWlHUFVwTnhtNnoxQmFQajFnbXllRWN5Q3RjaTBDdw?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-08-03T13:25:50+08:00",
+     "description": "桃園盃報名爭議！桃市府：全案送政風調查廠商移送法辦| 政治  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "桃園盃籃球賽爆AI幽靈隊名灌水造假 議員批市府審查把關失靈",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5526678",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-03T11:12:32+08:00",
+     "description": "桃園市政府體育局主辦「2026第10屆桃園盃全國三對三籃球賽」1日登場，號稱歷年規模最大、超過2000隊報名參賽，卻爆出廠商「長揚國際實業有限公司」用AI生成幽靈隊名，灌水造假...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "桃園三對三爆幽靈隊伍灌水！ 他轟「AI市長」張善政：怎不喊衝著我來？",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5526600",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-03T10:56:24+08:00",
+     "description": "第十屆桃園盃全國三對三籃球賽於8月1日盛大開打，桃園市長張善政出席開幕式時，高調宣稱有超過2000隊報名、近8000名選手參賽，堪稱國內最大規模賽事之一。然而比賽現場卻爆出大批隊...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "桃園盃三對三籃球賽遭質疑報名灌水！桃市府體育局：廠商坦承造假| 政治",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10X2MxbWdTZUVsb0NMdDBzVEJvME9mbk4wSVJTT0gzOS15SGJmb2NQdFVzV0ZSNzNobUZDclZ1NkwyTEhabElnZHRLS2R2bzRsX2lMdTRpOTgyenc?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-08-03T08:52:09+08:00",
+     "description": "桃園盃三對三籃球賽遭質疑報名灌水！桃市府體育局：廠商坦承造假| 政治  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "廠商全招了！桃園籃球賽「大量AI幽靈球隊」報名灌水　體育局怒批詐欺要求賠償",
+     "link": "https://www.mirrormedia.mg/story/20260802edi031",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-08-03T06:30:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "桃園盃三對三籃球賽爆報名灌水　廠商坦承造假市府將追究責任",
+     "link": "https://www.ettoday.net/news/20260802/3212053.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-08-02T22:20:00+08:00",
+     "description": "桃園市議員魏筠2日於臉書發文指出，號稱「歷年規模最大」、宣稱有 2,075 支隊伍、近8,000名選手報名參與的「桃園盃三對三籃球賽」，結果居然是一場徹頭徹尾的誇大造神秀？引發各界熱議。市府晚間火速說明：承辦活動廠商，坦承桃園盃三對三籃球報名灌水，市府體育局將追究責任並提報為不良廠商。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    }
+   ]
+  },
+  {
+   "id": "65e0a2950aca",
+   "title": "中聯福懋5月未通報油品異常 台中市府重罰各300萬元",
+   "outlet_count": 5,
+   "outlets": [
+    "chinatimes",
+    "cna",
+    "ebc",
+    "ettoday",
+    "newtalk"
+   ],
+   "article_count": 5,
+   "first_seen": "2026-08-03T21:34:07+08:00",
+   "last_updated": "2026-08-04T00:07:00+08:00",
+   "tags": [
+    "未通報油品異",
+    "中市府重罰各",
+    "中聯"
+   ],
+   "claims": [
+    {
+     "type": "金額",
+     "agree": true,
+     "outlet_count": 5,
+     "values": [
+      {
+       "value": "300萬元",
+       "outlets": [
+        "ETtoday",
+        "中央社",
+        "中時新聞網",
+        "新頭殼",
+        "東森新聞"
+       ]
+      }
+     ]
+    }
+   ],
+   "articles": [
+    {
+     "title": "中聯、福懋5月未通報油品異常！台中市府再祭300萬重罰",
+     "link": "https://www.ettoday.net/news/20260804/3212727.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-08-04T00:07:00+08:00",
+     "description": "台糖今年5月採購由中聯製造、福懋供應的油品原料，檢出含有超標的苯駢芘，卻未依規定於第一時間向地方主管機關通報。台中市食品藥物安全處於3日晚間認定中聯與福懋公司違規事實明確，依違反《食品安全衛生管理法》重罰兩家業者最高額各新台幣300萬元，展現市府捍衛食安的堅定立場。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "中聯福懋5月未通報油品異常 台中市府重罰各300萬元",
+     "link": "https://news.ebc.net.tw/news/society/564561",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-08-03T23:20:15.041056+08:00",
+     "description": "中聯、福懋5月得知原料油苯駢芘超標卻未通報台中市府，市府認定違反食安法，各重罰300萬元。",
+     "category": "society",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "society",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "中聯、福懋5月未通報油品異常! 台中市政府依食安法重罰各300萬元| 政治",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZVFBSaW1MWDZrYVI5Z0stY2xyYkI4WmlGakFiZHBJeThwNHlZQlN6Y2VBaUFVb2NYTDhOZy1lZUhNcG0xUXlCNURWU3RhVDJHVjI2MXVXd1V3UGM?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-08-03T22:55:32+08:00",
+     "description": "中聯、福懋5月未通報油品異常! 台中市政府依食安法重罰各300萬元| 政治  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "台糖5月採購油超標！中聯、福懋油裝死沒通報 中市府重罰各300萬",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaTRBcU03WGQtVTk0cXVFSWNXSHFNZTlsdHFZMWNadGtoendBMzNMWGtqZ2ZINWl3M1AwVkZxVHRjd2swdmRlREY4SGJRbFBJa1F4eGpRbmNPX1NNU2RDQ3F5U2RXRjVma2E0VXZPWVJ0eW9LWl92TWZiVV8yRWNUT3I2NjFNSy1tZlZ1b2Vvcw?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-08-03T22:45:26+08:00",
+     "description": "台糖5月採購油超標！中聯、福懋油裝死沒通報 中市府重罰各300萬  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "中聯福懋5月未通報油品異常 台中市府重罰各300萬元",
+     "link": "https://www.cna.com.tw/news/aloc/202608030301.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-08-03T21:34:07+08:00",
+     "description": "（中央社記者趙麗妍台中3日電）台糖今年5月通報中聯油脂311號油槽原料油檢驗不合格並拒收。因中聯及福懋未在第一時間通報台中市政府，中市府今天依照食安法，重罰中聯、福懋各新台幣300萬元。",
+     "author": "趙麗妍",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "趙麗妍",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/local"
+     }
+    }
+   ]
+  },
+  {
    "id": "3f45565db0d0",
    "title": "熊本強震重創文化財　日相高市早苗擬8/3視察災區",
    "outlet_count": 5,
@@ -3991,7 +4515,7 @@
    "last_updated": "2026-08-03T23:48:45+08:00",
    "tags": [
     "高市早苗",
-    "升機視察災情",
+    "搭直升機視察",
     "赴熊本勘災"
    ],
    "claims": [
@@ -4907,7 +5431,7 @@
    "tags": [
     "員工",
     "熊本",
-    "商場"
+    "搜救"
    ],
    "claims": [
     {
@@ -5132,8 +5656,8 @@
    "last_updated": "2026-08-03T17:40:40+08:00",
    "tags": [
     "科測驗成績",
-    "新低",
-    "數甲"
+    "公布",
+    "新低"
    ],
    "articles": [
     {
@@ -5458,201 +5982,7 @@
    ]
   },
   {
-   "id": "785a95c0becd",
-   "title": "桃園盃三對三籃球賽　體育局：廠商坦承報名灌水",
-   "outlet_count": 5,
-   "outlets": [
-    "cna",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "newtalk"
-   ],
-   "article_count": 11,
-   "first_seen": "2026-08-02T19:59:00+08:00",
-   "last_updated": "2026-08-03T14:58:32+08:00",
-   "tags": [
-    "三對三籃球賽",
-    "桃園盃",
-    "灌水"
-   ],
-   "articles": [
-    {
-     "title": "桃園盃三對三籃球賽爆AI生成灌水挨批審查失靈 桃市府：決不包庇",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5526936",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-03T14:58:32+08:00",
-     "description": "桃園市政府體育局主辦的「2026第十屆桃園盃全國三對三籃球賽共吸引2075隊、近8000名選手報名參加，號稱歷年最大規模，卻被選手踢爆承辦廠商以AI生成「幽靈球隊」灌水報名，引...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "桃園盃爆「AI幽靈選手」灌水爭議！桃市府：全案送政風調查　廠商移送法辦",
-     "link": "https://www.mirrormedia.mg/story/20260803edi014",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-08-03T14:19:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "桃園盃三對三籃賽灌水案議員指失職　市府：送法辦",
-     "link": "https://www.cna.com.tw/news/aloc/202608030119.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-08-03T13:31:27+08:00",
-     "description": "（中央社記者吳睿騏桃園3日電）桃園市府主辦桃園盃全國三對三籃球賽報名灌水引爭議。民進黨市議員黃瓊慧今天批體育局未善盡監督，要求提告求償及政風處調查。市府回應說，將移送法辦、求償並提報不良廠商。",
-     "author": "吳睿騏",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "吳睿騏",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/local"
-     }
-    },
-    {
-     "title": "桃園盃報名爭議！桃市府：全案送政風調查廠商移送法辦| 政治",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYYWNwZW00MEVTTmpUQXU4R1YwTll2RURjeDUyZTkzSkJQQTVSYTZtSnI4UVEtSDJkUGgtSWlHUFVwTnhtNnoxQmFQajFnbXllRWN5Q3RjaTBDdw?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-08-03T13:25:50+08:00",
-     "description": "桃園盃報名爭議！桃市府：全案送政風調查廠商移送法辦| 政治  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "桃園盃籃球賽爆AI幽靈隊名灌水造假 議員批市府審查把關失靈",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5526678",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-03T11:12:32+08:00",
-     "description": "桃園市政府體育局主辦「2026第10屆桃園盃全國三對三籃球賽」1日登場，號稱歷年規模最大、超過2000隊報名參賽，卻爆出廠商「長揚國際實業有限公司」用AI生成幽靈隊名，灌水造假...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "桃園三對三爆幽靈隊伍灌水！ 他轟「AI市長」張善政：怎不喊衝著我來？",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5526600",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-03T10:56:24+08:00",
-     "description": "第十屆桃園盃全國三對三籃球賽於8月1日盛大開打，桃園市長張善政出席開幕式時，高調宣稱有超過2000隊報名、近8000名選手參賽，堪稱國內最大規模賽事之一。然而比賽現場卻爆出大批隊...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "桃園盃三對三籃球賽遭質疑報名灌水！桃市府體育局：廠商坦承造假| 政治",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10X2MxbWdTZUVsb0NMdDBzVEJvME9mbk4wSVJTT0gzOS15SGJmb2NQdFVzV0ZSNzNobUZDclZ1NkwyTEhabElnZHRLS2R2bzRsX2lMdTRpOTgyenc?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-08-03T08:52:09+08:00",
-     "description": "桃園盃三對三籃球賽遭質疑報名灌水！桃市府體育局：廠商坦承造假| 政治  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "廠商全招了！桃園籃球賽「大量AI幽靈球隊」報名灌水　體育局怒批詐欺要求賠償",
-     "link": "https://www.mirrormedia.mg/story/20260802edi031",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-08-03T06:30:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "桃園盃三對三籃球賽爆報名灌水　廠商坦承造假市府將追究責任",
-     "link": "https://www.ettoday.net/news/20260802/3212053.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-08-02T22:20:00+08:00",
-     "description": "桃園市議員魏筠2日於臉書發文指出，號稱「歷年規模最大」、宣稱有 2,075 支隊伍、近8,000名選手報名參與的「桃園盃三對三籃球賽」，結果居然是一場徹頭徹尾的誇大造神秀？引發各界熱議。市府晚間火速說明：承辦活動廠商，坦承桃園盃三對三籃球報名灌水，市府體育局將追究責任並提報為不良廠商。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "桃園盃三對三籃球賽　體育局：廠商坦承報名灌水",
-     "link": "https://www.cna.com.tw/news/aloc/202608020193.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-08-02T22:14:39+08:00",
-     "description": "（中央社記者吳睿騏桃園2日電）桃園盃全國三對三籃球賽1日開打，遭質疑參賽隊伍灌水。民進黨桃園市議員黃瓊慧要求市長張善政說明並負起政治責任。桃園市體育局今晚表示，廠商坦承報名灌水造假，將依法究責。",
-     "author": "吳睿騏",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "吳睿騏",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/local"
-     }
-    }
-   ]
-  },
-  {
-   "id": "cd0fb95be3b7",
+   "id": "08f4ff0433c4",
    "title": "苦茶油苯駢芘超標  嘉義源春製油廠：可辦理退貨",
    "outlet_count": 5,
    "outlets": [
@@ -5810,7 +6140,7 @@
     },
     {
      "title": "2批「高仰三苦茶油」檢出苯駢芘超標台北市衛生局令下架開放退貨| 生活",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JY1BSRFFGWkhxN2xLb2U3Nk1vdzdxZjVNUVdXdGl0RTRVUHhmd2NQaDdIQmswc05GbUJkQlV5bTVUTG0wTkdHdERSbHRUQ2FYRmFjQ2w5eFZvdXM?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VeWU3X2ZkaUQxZ2p5V3h1aGNvdXNUWVN3SmttYXFIcXRMMDhEUGN4NzRjRWh6MFVKOHkwRXVpbkVVbjNyVkJYSjFsSVJlZG1rUUtaNFhLQXg4dw?oc=5",
      "source": "newtalk",
      "source_name": "新頭殼",
      "published": "2026-08-01T11:41:30+08:00",
@@ -5827,7 +6157,7 @@
     },
     {
      "title": "2批「高仰三苦茶油」檢出苯駢芘超標台北市衛生局令下架開放退貨| 生活",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VeWU3X2ZkaUQxZ2p5V3h1aGNvdXNUWVN3SmttYXFIcXRMMDhEUGN4NzRjRWh6MFVKOHkwRXVpbkVVbjNyVkJYSjFsSVJlZG1rUUtaNFhLQXg4dw?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JY1BSRFFGWkhxN2xLb2U3Nk1vdzdxZjVNUVdXdGl0RTRVUHhmd2NQaDdIQmswc05GbUJkQlV5bTVUTG0wTkdHdERSbHRUQ2FYRmFjQ2w5eFZvdXM?oc=5",
      "source": "newtalk",
      "source_name": "新頭殼",
      "published": "2026-08-01T11:41:30+08:00",
@@ -5860,8 +6190,8 @@
    "last_updated": "2026-08-03T10:42:18+08:00",
    "tags": [
     "白海豚",
-    "最快",
-    "生成"
+    "生成",
+    "鯨魚"
    ],
    "articles": [
     {
@@ -6035,7 +6365,7 @@
    "last_updated": "2026-08-02T18:50:02+08:00",
    "tags": [
     "自撞護欄翻落",
-    "岸公路水璉段",
+    "花東海岸公路",
     "邊坡"
    ],
    "claims": [
@@ -6173,7 +6503,7 @@
    "first_seen": "2026-08-02T11:21:00+08:00",
    "last_updated": "2026-08-02T16:01:36+08:00",
    "tags": [
-    "北投貴子坑露",
+    "投貴子坑露營",
     "胸口穿刺傷",
     "運將"
    ],
@@ -6532,7 +6862,7 @@
     },
     {
      "title": "劉櫂豪宣布不選下屆縣長！陳瑩：只要為台東都可以站在同一個方向| 政治",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oQkE4allLTG54X25RczhzLXhCSEVVSkpIYVF4SXNnNEs0WVFZNXFDaG93YU5FZzdaOHVsV2UwdmF5bWRzcGF5Y3RLSFRDRElJX0tBM291R2JEQQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jekFqTUFUUmM4bEhmaDFjRmlkTUlWYldZdHplSmhtZnNGa2szNDdNbUZKN21EOWVBV0hiQnNKZEhJWWVFVkMzQWwxUXctSTBfd09PT1JrZVM3bFk?oc=5",
      "source": "newtalk",
      "source_name": "新頭殼",
      "published": "2026-08-01T12:08:10+08:00",
@@ -6549,7 +6879,7 @@
     },
     {
      "title": "劉櫂豪宣布不選下屆縣長！陳瑩：只要為台東都可以站在同一個方向| 政治",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jekFqTUFUUmM4bEhmaDFjRmlkTUlWYldZdHplSmhtZnNGa2szNDdNbUZKN21EOWVBV0hiQnNKZEhJWWVFVkMzQWwxUXctSTBfd09PT1JrZVM3bFk?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oQkE4allLTG54X25RczhzLXhCSEVVSkpIYVF4SXNnNEs0WVFZNXFDaG93YU5FZzdaOHVsV2UwdmF5bWRzcGF5Y3RLSFRDRElJX0tBM291R2JEQQ?oc=5",
      "source": "newtalk",
      "source_name": "新頭殼",
      "published": "2026-08-01T12:08:10+08:00",
@@ -6601,258 +6931,27 @@
    ]
   },
   {
-   "id": "21d8c4cd6a0d",
-   "title": "東京多摩動物公園3隻獅子死亡　疑遭酷暑奪命",
+   "id": "bb692cc4672a",
+   "title": "（2026/08/01）星座運勢／巨蟹基金賺被動財　天秤座適合兼差",
    "outlet_count": 4,
    "outlets": [
-    "cna",
-    "mirror",
+    "ltn",
+    "newtalk",
     "nownews",
-    "setn"
+    "udn"
    ],
-   "article_count": 64,
-   "first_seen": "2026-08-02T11:35:28+08:00",
-   "last_updated": "2026-08-03T23:32:18+08:00",
-   "tags": [
-    "娛樂關鍵字"
-   ],
+   "article_count": 17,
+   "first_seen": "2026-08-01T07:00:00+08:00",
+   "last_updated": "2026-08-04T00:02:58+08:00",
+   "tags": [],
    "articles": [
     {
-     "title": "醫療帳單 娛樂關鍵字",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE96RVJnbFhCNkJLUjc3ak5pUW1zRG5fYWhWVmw3Mk5qZ2l6YkExRG5mLUUwZVI2N0hiQ1MxbWF6LWM5a1NDZ1c3SA?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-08-03T23:32:18+08:00",
-     "description": "醫療帳單 娛樂關鍵字  娛樂星聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "金敘緣 娛樂關鍵字",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5SMWpzNnBiZ2dqSHZmb0xkbUV4T2M1RHJJRVBpV3paWFMxODFTQlkyRnFWekg3VmpXQ21lel9faFAtdk5uZXkxZA?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-08-03T23:28:37+08:00",
-     "description": "金敘緣 娛樂關鍵字  娛樂星聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "徐莉玲與 娛樂關鍵字",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1CQmxrQ2gyNmdYR3lDMXBCOTdWYWdza3JZRVdqdnVod0Q5SUJPRkZoUEFmUGhBUV9MM25YMjJaSm9RWjFjZF9PZQ?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-08-03T22:38:59+08:00",
-     "description": "徐莉玲與 娛樂關鍵字  娛樂星聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "NEWBEAT 關鍵字",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NWUxlZTRuLWc0QVA0MG9qQ2xNQm1vRnNKeWc0U0s1TDVBbnJ5VWtBMVBNcjVKbTZ2TVNKU0hYWUtXWUpOX1ZxT2JxYjBmUQ?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-08-03T22:38:54+08:00",
-     "description": "NEWBEAT 關鍵字  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "Legging 娛樂關鍵字",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBrcmtCSGpySkFSTlptT1BOblNGYUxFazlYci1JRDdOWmR0emdPRS1PTG9kWThpbkJzSnE2UDI5M1J0M0pYMm9wdw?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-08-03T22:08:39+08:00",
-     "description": "Legging 娛樂關鍵字  娛樂星聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "台玻夫人 娛樂關鍵字",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA3dl8wUVpTUjJYdG5wOTVwVThRajQ2MEtZSjJ2OUQ3VnhCOWI2QWdGX3ZBVk15ZlpIYlI1dkVtYjN6aE1zSVdGOQ?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-08-03T21:42:09+08:00",
-     "description": "台玻夫人 娛樂關鍵字  娛樂星聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "伊旺 娛樂關鍵字",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9laUQ4YThTWDZwblpGUW1XMTlkUF8yd1hYcVZUaVg2ZFJ3eE9yVW9jVF9uWGQwWjZYckdKU2M2ZlBISkJxMnBfWg?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-08-03T21:40:12+08:00",
-     "description": "伊旺 娛樂關鍵字  娛樂星聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "一直下 娛樂關鍵字",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1qY0I5aFhqQUtwYlVrNkc0Ql9BVXl0Qm9UYTlHb0lyUzhlX1hVbEZqWElmMXBHU05mWUFvdElqN2EwX2lYVkl0WA?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-08-03T20:39:53+08:00",
-     "description": "一直下 娛樂關鍵字  娛樂星聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "東京多摩動物公園3隻獅子死亡　疑遭酷暑奪命",
-     "link": "https://www.cna.com.tw/news/aopl/202608030284.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-08-03T20:02:25+08:00",
-     "description": "（中央社記者戴雅真東京3日專電）日本東京都今天表示，位於東京都日野市的多摩動物公園，近日有3隻獅子疑因高溫影響接連死亡。園方已暫停獅子展示，全面強化獅舍降溫措施，詳細死因將交由外部專業機構進一步鑑定。",
-     "author": "戴雅真",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "戴雅真",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
-     }
-    },
-    {
-     "title": "Seizer 娛樂關鍵字",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5mcVNHWllIMGpPcGZlNzJic1l6dEd6WkUxYkRwU19LZjhVUEo5a3RwYVFVMzh3cXFRN1pJQ2VMNFh3VWpPT2RZYg?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-08-03T19:42:49+08:00",
-     "description": "Seizer 娛樂關鍵字  娛樂星聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
-   "id": "65e0a2950aca",
-   "title": "中聯福懋5月未通報油品異常 台中市府重罰各300萬元",
-   "outlet_count": 4,
-   "outlets": [
-    "chinatimes",
-    "cna",
-    "ebc",
-    "newtalk"
-   ],
-   "article_count": 4,
-   "first_seen": "2026-08-03T21:34:07+08:00",
-   "last_updated": "2026-08-03T23:20:15.041056+08:00",
-   "tags": [
-    "未通報油品異",
-    "中市府重罰各",
-    "中聯福懋"
-   ],
-   "claims": [
-    {
-     "type": "金額",
-     "agree": true,
-     "outlet_count": 4,
-     "values": [
-      {
-       "value": "300萬元",
-       "outlets": [
-        "中央社",
-        "中時新聞網",
-        "新頭殼",
-        "東森新聞"
-       ]
-      }
-     ]
-    }
-   ],
-   "articles": [
-    {
-     "title": "中聯福懋5月未通報油品異常 台中市府重罰各300萬元",
-     "link": "https://news.ebc.net.tw/news/society/564561",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-08-03T23:20:15.041056+08:00",
-     "description": "中聯、福懋5月得知原料油苯駢芘超標卻未通報台中市府，市府認定違反食安法，各重罰300萬元。",
-     "category": "society",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "society",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "中聯、福懋5月未通報油品異常! 台中市政府依食安法重罰各300萬元| 政治",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZVFBSaW1MWDZrYVI5Z0stY2xyYkI4WmlGakFiZHBJeThwNHlZQlN6Y2VBaUFVb2NYTDhOZy1lZUhNcG0xUXlCNURWU3RhVDJHVjI2MXVXd1V3UGM?oc=5",
+     "title": "新聞分類總覽 - 2026-08-04",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Qam1tVWxTaTBaTURLdktZWFk2RndRODgzSTVkdlRmOVNveVd3Q0lxSnZ6enotWDkxMFRiX2w5ZGxkcXJkWkxLOElLbWVmY2NDWTlFekhLZw?oc=5",
      "source": "newtalk",
      "source_name": "新頭殼",
-     "published": "2026-08-03T22:55:32+08:00",
-     "description": "中聯、福懋5月未通報油品異常! 台中市政府依食安法重罰各300萬元| 政治  Newtalk新聞",
+     "published": "2026-08-04T00:02:58+08:00",
+     "description": "新聞分類總覽 - 2026-08-04  Newtalk新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -6864,12 +6963,12 @@
      }
     },
     {
-     "title": "台糖5月採購油超標！中聯、福懋油裝死沒通報 中市府重罰各300萬",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaTRBcU03WGQtVTk0cXVFSWNXSHFNZTlsdHFZMWNadGtoendBMzNMWGtqZ2ZINWl3M1AwVkZxVHRjd2swdmRlREY4SGJRbFBJa1F4eGpRbmNPX1NNU2RDQ3F5U2RXRjVma2E0VXZPWVJ0eW9LWl92TWZiVV8yRWNUT3I2NjFNSy1tZlZ1b2Vvcw?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-08-03T22:45:26+08:00",
-     "description": "台糖5月採購油超標！中聯、福懋油裝死沒通報 中市府重罰各300萬  中時新聞網",
+     "title": "2026/08/03 - 粗心小王子的部落格",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9SSFRXdGpiMFVkaHdUVm9rTlpSM2xTWDFHSnRvSTZveHJVcTdNTmxQS0hMbGRIVjA5a0h5anBtbXQzT3k3RTFaQk50SzM4dDRzdlE?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-08-03T21:33:20+08:00",
+     "description": "2026/08/03 - 粗心小王子的部落格  udn部落格",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -6877,25 +6976,143 @@
        "source": "unknown"
       },
       "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
-     "title": "中聯福懋5月未通報油品異常 台中市府重罰各300萬元",
-     "link": "https://www.cna.com.tw/news/aloc/202608030301.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-08-03T21:34:07+08:00",
-     "description": "（中央社記者趙麗妍台中3日電）台糖今年5月通報中聯油脂311號油槽原料油檢驗不合格並拒收。因中聯及福懋未在第一時間通報台中市政府，中市府今天依照食安法，重罰中聯、福懋各新台幣300萬元。",
-     "author": "趙麗妍",
+     "title": "經濟日報 2026-08-03 星期一",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ybGdyNEU2WWl4dDRGbnZVWlBEbldOY1Z3SGZlb2pmZlc0MXZvSUJXcC1Kbl9xbTVKcmQ1NEtXOWVoN2hmNmFOV21kN29oaXZCN2gwSTRB?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-08-03T11:54:45+08:00",
+     "description": "經濟日報 2026-08-03 星期一  琅琅悅讀",
      "metadata": {
       "schema_version": 1,
       "author": {
-       "name": "趙麗妍",
-       "source": "description"
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "國考英文每日一題2026.08.03",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5526491",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-03T11:00:00+08:00",
+     "description": "題目：\nThe lawyer’s _____ argument, with its logical reasoning and supporting evidence, convinced the ...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
       },
       "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/local"
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "新聞分類總覽 - 2026-08-03",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KVS1NRkhPcVMyVmExcE0zcHNzRVBRQzZyTS1VYVp4U2dEcU9WVEpfWlZkYmoxbnJjR2V4ZTJIZnNTM09DRFhvX1dnUjVTOHk5SElBaTJ5cw?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-08-03T00:04:21+08:00",
+     "description": "新聞分類總覽 - 2026-08-03  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "新聞分類總覽 - 2026-08-03",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCZ0NVUDJXOGgtN096bjNDei0zb1psTjhJSUI5TTZUdDFUZHpHQWhtcXFMTlZzZ1N3VE9jcHA0TE05NTlqNTh0ZjVtdGhORGNkY1MzMEtxYw?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-08-03T00:04:21+08:00",
+     "description": "新聞分類總覽 - 2026-08-03  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "雨揚老師》08/02~08/08本週運勢：龍、狗、虎運勢最佳| 生活",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlUDg3NGpTVkg3eTg1SGtxLTBhOTBWSFp0aEljQkxUT2FlZm8yQjkxTTUtVGkzZFBPcElnS1pQWjlJVHR6YTYzT2VDVkN0SVpMR2ZGdTRMcElHVUk?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-08-02T13:18:11+08:00",
+     "description": "雨揚老師》08/02~08/08本週運勢：龍、狗、虎運勢最佳| 生活  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "國考英文每日一題2026.08.02",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5525936",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-02T12:57:20+08:00",
+     "description": "題目：\nThe food company tends to _____ the health benefits of its products, so careful consideration s...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "經濟日報 2026-07-31 星期五",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mQUV1YVFEMnBQblBCOGpyRXJFcEZaWnZEX3dadldHaWxJVHVDWk1Ea01mSlB5RXFacFZaT0dmM0dvNnFDV19OVUsyTkZ4MnFTZWZERXhR?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-08-02T11:58:03+08:00",
+     "description": "經濟日報 2026-07-31 星期五  reading.udn.com",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "經濟日報 2026-08-01 星期六",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BNVdvZDBHMTRaU3U4WEZ1eVhENHdPTUd2RFpxYkxmRTJwSU1jTWJKUmwzZWNhX0pPbk9hTGUwa3p1Z3dBcUFjaDdiVm0tRDZWelpObzlR?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-08-02T11:58:03+08:00",
+     "description": "經濟日報 2026-08-01 星期六  琅琅悅讀",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -7020,8 +7237,8 @@
    "first_seen": "2026-08-03T19:04:00+08:00",
    "last_updated": "2026-08-03T21:21:28.021039+08:00",
    "tags": [
-    "駕駛夾困車內",
-    "內腿骨折送醫",
+    "車內腿骨折送",
+    "貨車駕駛夾困",
     "新竹段多車碰"
    ],
    "articles": [
@@ -7112,7 +7329,7 @@
    "last_updated": "2026-08-03T20:32:53+08:00",
    "tags": [
     "引車載直升機",
-    "行證遭警舉發",
+    "通行證遭警舉",
     "機勾電纜礙交"
    ],
    "articles": [
@@ -7345,7 +7562,7 @@
    "first_seen": "2026-08-02T12:59:00+08:00",
    "last_updated": "2026-08-03T17:31:55.557781+08:00",
    "tags": [
-    "救援判斷已死",
+    "援判斷已死亡",
     "單車騎士摔落",
     "公尺深邊坡"
    ],
@@ -7454,9 +7671,9 @@
    "first_seen": "2026-08-03T10:08:00+08:00",
    "last_updated": "2026-08-03T13:32:00.908425+08:00",
    "tags": [
-    "雄男拒檢撞傷",
-    "涉毒駕屢犯",
-    "最高恐挨罰"
+    "男拒檢撞傷警",
+    "最高恐挨罰",
+    "涉毒駕屢犯"
    ],
    "claims": [
     {
@@ -7843,9 +8060,9 @@
    "first_seen": "2026-08-01T21:37:00+08:00",
    "last_updated": "2026-08-02T20:08:10+08:00",
    "tags": [
-    "主礁領海基線",
+    "民主礁領海基",
     "菲律賓劃設民",
-    "協商不應排除"
+    "不應排除台灣"
    ],
    "articles": [
     {
@@ -7952,8 +8169,8 @@
    "last_updated": "2026-08-02T19:55:12+08:00",
    "tags": [
     "恐嚇電子郵件",
-    "警追查竟是同",
-    "同校學生惡作"
+    "竟是同校學生",
+    "國中生收"
    ],
    "articles": [
     {
@@ -8323,7 +8540,7 @@
    "first_seen": "2026-08-02T13:23:19+08:00",
    "last_updated": "2026-08-02T14:03:00+08:00",
    "tags": [
-    "桃警雷霆除暴",
+    "雷霆除暴查獲",
     "籍男逃跑遭逮",
     "件刑案"
    ],
@@ -8558,8 +8775,8 @@
    "last_updated": "2026-08-02T00:05:53+08:00",
    "tags": [
     "陳其邁",
-    "應罰站爭議盼",
-    "盼聚焦電競法"
+    "罰站爭議盼聚",
+    "邁籲速審預算"
    ],
    "articles": [
     {
@@ -8687,7 +8904,7 @@
    ]
   },
   {
-   "id": "2dcf7d4f3c83",
+   "id": "93a472effcb8",
    "title": "遭黃偉哲批「科技佛地魔」播深偽音檔反擊 蔣萬安回應了",
    "outlet_count": 4,
    "outlets": [
@@ -8701,8 +8918,8 @@
    "last_updated": "2026-08-01T15:10:10.498109+08:00",
    "tags": [
     "深偽佛地魔",
-    "黃偉哲",
-    "蔣萬安"
+    "蔣萬安",
+    "黃偉哲"
    ],
    "articles": [
     {
@@ -8777,7 +8994,7 @@
     },
     {
      "title": "遭黃偉哲批「科技佛地魔」播深偽音檔反擊 蔣萬安回應了",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVGhVbjJQN2lfLU1GUFhPck5qRXhJbklwWUFkaWZ6NElvbzR2WTJTdGtxbXVfTXpZTHR3RzlHMTFDcGVMZ3BjWlNwQ19HZEZ3OUVxYklzVUFKUEIyLTJWN2o3akdlNFZUN01BZU5tRDM2dkxXRE10UjEtVElMNGZTc0VqRlhWYkVlMHhhWmxKVQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CS3p2RGRPNk9NMG5yZzhaMEx3QndSTzFfMmVFbUxNYWhRM0g2Zk1qZG9Fb2hTN1h0MWRMWDFEMXNPUzRVT3g5enFGcXpKVU50UHlqeEZ1LXhidXdfZ1lFT0pJRlRqRE1mc1RkeW9B?oc=5",
      "source": "chinatimes",
      "source_name": "中時新聞網",
      "published": "2026-08-01T10:40:12+08:00",
@@ -8794,7 +9011,7 @@
     },
     {
      "title": "遭黃偉哲批「科技佛地魔」播深偽音檔反擊 蔣萬安回應了",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CS3p2RGRPNk9NMG5yZzhaMEx3QndSTzFfMmVFbUxNYWhRM0g2Zk1qZG9Fb2hTN1h0MWRMWDFEMXNPUzRVT3g5enFGcXpKVU50UHlqeEZ1LXhidXdfZ1lFT0pJRlRqRE1mc1RkeW9B?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVGhVbjJQN2lfLU1GUFhPck5qRXhJbklwWUFkaWZ6NElvbzR2WTJTdGtxbXVfTXpZTHR3RzlHMTFDcGVMZ3BjWlNwQ19HZEZ3OUVxYklzVUFKUEIyLTJWN2o3akdlNFZUN01BZU5tRDM2dkxXRE10UjEtVElMNGZTc0VqRlhWYkVlMHhhWmxKVQ?oc=5",
      "source": "chinatimes",
      "source_name": "中時新聞網",
      "published": "2026-08-01T10:40:12+08:00",
@@ -8914,8 +9131,8 @@
    "first_seen": "2026-08-01T09:04:00+08:00",
    "last_updated": "2026-08-01T12:32:27+08:00",
    "tags": [
-    "送醫父子恢復",
-    "新北三重公寓",
+    "北三重公寓火",
+    "口送醫父子恢",
     "一家"
    ],
    "articles": [
@@ -8986,6 +9203,94 @@
       },
       "acquisition": "rss",
       "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    }
+   ]
+  },
+  {
+   "id": "da55481fd15c",
+   "title": "美國環孢子蟲病擴大　密西根州2死",
+   "outlet_count": 3,
+   "outlets": [
+    "cna",
+    "ettoday",
+    "ltn"
+   ],
+   "article_count": 3,
+   "first_seen": "2026-08-04T01:45:00+08:00",
+   "last_updated": "2026-08-04T02:21:04+08:00",
+   "tags": [
+    "環孢子蟲病",
+    "密西根州",
+    "美國"
+   ],
+   "claims": [
+    {
+     "type": "死亡人數",
+     "agree": true,
+     "outlet_count": 3,
+     "values": [
+      {
+       "value": "2",
+       "outlets": [
+        "ETtoday",
+        "中央社",
+        "自由時報"
+       ]
+      }
+     ]
+    }
+   ],
+   "articles": [
+    {
+     "title": "美國環孢子蟲病擴大　密西根州2死",
+     "link": "https://news.ltn.com.tw/news/world/breakingnews/5527511",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-04T02:21:04+08:00",
+     "description": "美國密西根州衛生廳今天表示，州內爆發的環孢子蟲病（cyclosporiasis）疫情已造成2人死亡。\n\n環孢子蟲病是由寄生原蟲隱孢子蟲（Cryptosporidium parvum）或環孢子...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "美國環孢子蟲病擴大　密西根州2死",
+     "link": "https://www.cna.com.tw/news/aopl/202608040004.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-08-04T02:15:55+08:00",
+     "description": "（中央社紐約3日綜合外電報導）美國密西根州衛生廳今天表示，州內爆發的環孢子蟲病（cyclosporiasis）疫情已造成2人死亡。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
+     }
+    },
+    {
+     "title": "美國爆萬人感染！首見「環孢子蟲病」2死、來源疑萵苣",
+     "link": "https://www.ettoday.net/news/20260804/3212738.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-08-04T01:45:00+08:00",
+     "description": "美國密西根州衛生官員表示，孢子蟲疫情出現首2例死亡，有兩名感染環孢子蟲病（Cyclosporiasis）患者已死亡，成為美國首度確認與微型寄生蟲有關的大規模疫情死亡案例。密西根州已累計超過1.1萬例感染，官方初判，疫情可能與來自墨西哥中部的結球萵苣有關。\n\n 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
      }
     }
    ]
@@ -9149,8 +9454,8 @@
    "first_seen": "2026-08-02T12:23:00+08:00",
    "last_updated": "2026-08-03T22:55:32+08:00",
    "tags": [
-    "被提醒竟起身",
-    "蜘蛛人",
+    "提醒竟起身打",
+    "男用手機被提",
     "重生日"
    ],
    "articles": [
@@ -9220,217 +9525,6 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
-   "id": "68a587e0e8af",
-   "title": "8/1今彩539開獎！今天中獎號碼查詢　3星彩、4星彩獎號一次看",
-   "outlet_count": 3,
-   "outlets": [
-    "ettoday",
-    "ltn",
-    "nownews"
-   ],
-   "article_count": 5,
-   "first_seen": "2026-08-01T19:30:00+08:00",
-   "last_updated": "2026-08-03T22:20:15+08:00",
-   "tags": [
-    "今彩",
-    "威力彩",
-    "頭獎"
-   ],
-   "articles": [
-    {
-     "title": "再接再厲！8/3 威力彩、今彩539頭獎摃龜",
-     "link": "https://news.ltn.com.tw/news/society/breakingnews/5527458",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-03T22:20:15+08:00",
-     "description": "8月3日開獎的第115000187期今彩539、第115000062期威力彩頭獎皆摃龜。\n\n第115000062期威力彩中獎號碼為「第一區：04、15、22、26、34、36...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "手刀對獎！8/3 威力彩、今彩539獎號出爐",
-     "link": "https://news.ltn.com.tw/news/society/breakingnews/5527372",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-03T20:55:55+08:00",
-     "description": "今天（8月3日）台彩各項開獎獎項及獎號。\n\n威力彩：04、15、22、26、34、36，第二區：07。\n\n今彩539：07、21、23、28、35。\n\n39樂合彩：0...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "今彩539頭獎「狂開5注」！　5縣市均分2400萬",
-     "link": "https://www.ettoday.net/news/20260801/3211698.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-08-01T23:11:00+08:00",
-     "description": "台灣彩券1日晚間開出今彩539頭獎，本期共誕生5名幸運得主，各得480萬元，中獎彩券分別開在臻好運彩券行（臺中市大甲區日南里黎明路3之4號1樓）、錢來爺彩券行（臺南市北門區北門里北門2號1樓）、真正旺投注站（桃園市蘆竹區營盤里長興路一段52號1樓）、今興發彩券行（臺北市中正區武昌街一段36號1樓）以及喬立商店（新北市淡水區學府路25號）。\n 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "8/1 今彩539頭獎開5注！480萬獎落「這5都」",
-     "link": "https://news.ltn.com.tw/news/society/breakingnews/5525637",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-01T22:13:45+08:00",
-     "description": "8月1日開獎的第115000186期今彩539頭獎開出5注，由台中市大甲區日南里黎明路3之4號1樓的「臻好運彩券行」、台南市北門區北門里北門2號1樓「錢來爺彩券行」、桃園市蘆竹區...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "8/1今彩539開獎！今天中獎號碼查詢　3星彩、4星彩獎號一次看",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mQmlzeUpCbWtvaGJfY00yaS14ZEtmTnp6S1poRWZsRTRXMGhHUWtXb3dlRGZ5T3h5SFNlMkFFdWhfazVTaE14QkFNSEVscGJrU2fSAVJBVV95cUxOZkJpc3lKQm1rb2hiX2NNMmkteGRLZk56ektaaEVmbEU0VzBoR1FrV293ZURmeU94eUhTZTJBRXVoX2s1U2hNeEJBTUhFbHBia1Nn?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-08-01T19:30:00+08:00",
-     "description": "8/1今彩539開獎！今天中獎號碼查詢　3星彩、4星彩獎號一次看  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
-   "id": "011c09315d54",
-   "title": "赴彰化輔選　鄭麗文：與王惠美之間溝通沒問題",
-   "outlet_count": 3,
-   "outlets": [
-    "cna",
-    "ltn",
-    "newtalk"
-   ],
-   "article_count": 5,
-   "first_seen": "2026-08-03T13:03:38+08:00",
-   "last_updated": "2026-08-03T21:14:12+08:00",
-   "tags": [
-    "鄭麗文",
-    "魏平政",
-    "王惠美"
-   ],
-   "articles": [
-    {
-     "title": "3000人擠1出口！鄭麗文彰化輔選如「梨泰院」翻版 張詠勝臨陣解危",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5527409",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-03T21:14:12+08:00",
-     "description": "國民黨彰化縣黨部今（3日）在員林市皇潮鼎宴會館舉辦「推薦黨內同志介紹會」，黨主席鄭麗文到場輔選，吸引約3000名支持者參加。不料活動結束後，大批民眾同時散場，全擠向唯一開放的樓...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "鄭麗文：提名魏平政不是開空頭支票",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5527379",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-03T19:59:59+08:00",
-     "description": "國民黨主席鄭麗文今（3日）南下彰化，為黨提名縣長參選人魏平政輔選。她表示，社頭有「芭樂多、襪子多、董事長多」三大特色，其中魏平政家族經營的織襪事業，扎根在地卻能行銷歐美，是台灣...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "王惠美輔選魏平政力道不夠強？鄭麗文撇不合：我常「騷擾她」",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5527313",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-03T18:56:33+08:00",
-     "description": "九合一選戰升溫，國民黨彰化縣黨部啟動彰化縣26鄉鎮市「推薦黨內同志介紹會」，黨主席鄭麗文今天（3日）下午來到員林市，力挺黨提名的縣長參選人魏平政，她上午在社頭鄉，以「龜兔賽跑」...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "赴彰化輔選　鄭麗文：與王惠美之間溝通沒問題",
-     "link": "https://www.cna.com.tw/news/aipl/202608030251.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-08-03T17:54:13+08:00",
-     "description": "（中央社記者鄭維真彰化3日電）國民黨主席鄭麗文今天到彰化輔選時表示，她與縣長王惠美之間溝通沒問題；彰化縣提名起步較慢，但只要國民黨團結一致，有王惠美縣政做底氣，彰化的國民黨團隊一定會贏。",
-     "author": "鄭維真",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "鄭維真",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
-     }
-    },
-    {
-     "title": "選情太差王惠美也不積極輔選？ 鄭麗文奔彰化力挺魏平政| 政治",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tSU9oSThoSmdwZ2ZpOUp0bmJrRWVCMjhPYTZjS050alpxRS1OQS1yRTc5bkpzUVExLVppcE5GR0h6bEFzUGpFTXZHVElzSXRfYjJHNVFSS3FzZw?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-08-03T13:03:38+08:00",
-     "description": "選情太差王惠美也不積極輔選？ 鄭麗文奔彰化力挺魏平政| 政治  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
