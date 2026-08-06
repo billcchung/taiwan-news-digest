@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-08-06T15:15:29.005592+08:00",
+ "generated_at": "2026-08-06T17:17:37.166708+08:00",
  "sources": [
   {
    "id": "cna",
    "name": "中央社",
    "ok": true,
-   "count": 77,
+   "count": 78,
    "via_fallback": false,
    "errors": []
   },
@@ -29,9 +29,11 @@
    "id": "ltn",
    "name": "自由時報",
    "ok": true,
-   "count": 40,
-   "via_fallback": false,
-   "errors": []
+   "count": 100,
+   "via_fallback": true,
+   "errors": [
+    "https://news.ltn.com.tw/rss/all.xml: 403 Client Error: Forbidden for url: https://news.ltn.com.tw/rss/all.xml"
+   ]
   },
   {
    "id": "chinatimes",
@@ -69,7 +71,7 @@
    "id": "ebc",
    "name": "東森新聞",
    "ok": true,
-   "count": 11,
+   "count": 10,
    "via_fallback": false,
    "errors": []
   },
@@ -77,15 +79,15 @@
    "id": "mirror",
    "name": "鏡週刊",
    "ok": true,
-   "count": 142,
+   "count": 148,
    "via_fallback": false,
    "errors": []
   },
   {
    "id": "twreporter",
    "name": "報導者",
-   "ok": false,
-   "count": 0,
+   "ok": true,
+   "count": 3,
    "via_fallback": false,
    "errors": []
   },
@@ -101,7 +103,7 @@
    "id": "newtalk",
    "name": "新頭殼",
    "ok": true,
-   "count": 95,
+   "count": 90,
    "via_fallback": true,
    "errors": []
   },
