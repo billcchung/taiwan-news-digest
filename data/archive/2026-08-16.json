@@ -1,6 +1,6 @@
 {
  "date": "2026-08-16",
- "generated_at": "2026-08-16T02:29:51.110105+08:00",
+ "generated_at": "2026-08-16T04:28:39.440794+08:00",
  "events": [
   {
    "id": "9f26fbff3575",
@@ -473,13 +473,13 @@
     "pts",
     "tvbs"
    ],
-   "article_count": 36,
+   "article_count": 38,
    "first_seen": "2026-08-15T06:43:58+08:00",
-   "last_updated": "2026-08-15T23:05:46+08:00",
+   "last_updated": "2026-08-16T02:30:06+08:00",
    "tags": [
     "印尼",
-    "規模",
-    "強震"
+    "強震",
+    "規模"
    ],
    "claims": [
     {
@@ -556,6 +556,40 @@
    ],
    "articles": [
     {
+     "title": "印尼7.7強震增至47人罹難　救援人員持續搜尋生還者",
+     "link": "https://news.ltn.com.tw/news/world/breakingnews/5541299",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-16T02:30:06+08:00",
+     "description": "印尼東部佛羅雷斯島外海今天稍早發生規模7.7強震，據災害防救官員表示，罹難人數已增至47人，救援人員持續在瓦礫堆中搜尋生還者。\n\n法新社報導，印尼國家災害應變總署（BNPB）今天晚間將死亡人...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "印尼7.7強震增至47人罹難　救援人員持續搜尋生還者",
+     "link": "https://www.cna.com.tw/news/aopl/202608160003.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-08-16T02:18:17+08:00",
+     "description": "（中央社印尼墨梅爾15日綜合外電報導）印尼東部佛羅雷斯島外海今天稍早發生規模7.7強震，據災害防救官員表示，罹難人數已增至47人，救援人員持續在瓦礫堆中搜尋生還者。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
+     }
+    },
+    {
      "title": "東部海域規模5.2地震 氣象署測報中心：屬隱沒型地震",
      "link": "https://news.ltn.com.tw/news/life/breakingnews/5541241",
      "source": "ltn",
@@ -607,13 +641,13 @@
      }
     },
     {
-     "title": "印尼發生規模6.9地震！震源深度達183.2公里",
-     "link": "https://news.ebc.net.tw/news/world/566438",
+     "title": "地牛翻身！19:30 宜蘭發生規模5.2地震",
+     "link": "https://news.ebc.net.tw/news/living/566443",
      "source": "ebc",
      "source_name": "東森新聞",
      "published": "2026-08-15T20:30:26.421887+08:00",
-     "description": "印尼北蘇門答臘地區於當地時間今（15）日台灣時間晚間6時54分發生芮氏規模6.9地震，根據美國地質署（USGS）測報資料指出，震源深度達183.2公里。",
-     "category": "world",
+     "description": "【地震快訊】 發震時間： 115年8月15日19時30分16秒 中央氣象署發布顯著有感地震最新消息，今(15)日19時30分，發生芮氏規模5.2有感地震，震央位",
+     "category": "living",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -621,7 +655,7 @@
        "source": "unknown"
       },
       "acquisition": "scraper",
-      "category": "world",
+      "category": "living",
       "feed_url": "https://news.ebc.net.tw/realtime"
      }
     },
@@ -645,13 +679,13 @@
      }
     },
     {
-     "title": "地牛翻身！19:30 宜蘭發生規模5.2地震",
-     "link": "https://news.ebc.net.tw/news/living/566443",
+     "title": "印尼發生規模6.9地震！震源深度達183.2公里",
+     "link": "https://news.ebc.net.tw/news/world/566438",
      "source": "ebc",
      "source_name": "東森新聞",
      "published": "2026-08-15T20:30:26.421887+08:00",
-     "description": "【地震快訊】 發震時間： 115年8月15日19時30分16秒 中央氣象署發布顯著有感地震最新消息，今(15)日19時30分，發生芮氏規模5.2有感地震，震央位",
-     "category": "living",
+     "description": "印尼北蘇門答臘地區於當地時間今（15）日台灣時間晚間6時54分發生芮氏規模6.9地震，根據美國地質署（USGS）測報資料指出，震源深度達183.2公里。",
+     "category": "world",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -659,7 +693,7 @@
        "source": "unknown"
       },
       "acquisition": "scraper",
-      "category": "living",
+      "category": "world",
       "feed_url": "https://news.ebc.net.tw/realtime"
      }
     },
@@ -695,41 +729,6 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "印尼蘇門答臘發生規模6.9強震　尚未發布海嘯警報",
-     "link": "https://www.cna.com.tw/news/aopl/202608150193.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-08-15T19:56:50+08:00",
-     "description": "（中央社雅加達15日綜合外電報導）美國地質調查所（U.S. Geological Survey）資料顯示，印尼西部蘇門答臘島（Sumatra）今天傍晚發生規模6.9強烈地震，目前相關當局尚未發布海嘯警報。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
-     }
-    },
-    {
-     "title": "東部海域規模5.2地震 北捷：正常營運",
-     "link": "https://www.cna.com.tw/news/ahel/202608150190.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-08-15T19:48:44+08:00",
-     "description": "（中央社記者葉蓁芸台北15日電）根據中央氣象署最新資訊，今天晚間7時30分台灣東部海域發生芮氏規模5.2地震。台北捷運公司表示，北捷系統未受影響，正常營運。",
-     "author": "葉蓁芸",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "葉蓁芸",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/local"
      }
     }
    ]
@@ -943,6 +942,203 @@
       },
       "acquisition": "rss",
       "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    }
+   ]
+  },
+  {
+   "id": "f0a0ab79562b",
+   "title": "柯文哲：「藍白合」是趨勢　但不可能每件事一致",
+   "outlet_count": 9,
+   "outlets": [
+    "chinatimes",
+    "cna",
+    "ettoday",
+    "mirror",
+    "nownews",
+    "pts",
+    "storm",
+    "tvbs",
+    "udn"
+   ],
+   "article_count": 13,
+   "first_seen": "2026-08-14T12:06:24+08:00",
+   "last_updated": "2026-08-15T18:00:40+08:00",
+   "tags": [
+    "安樂死公投",
+    "國民黨",
+    "藍白"
+   ],
+   "articles": [
+    {
+     "title": "安樂死公投未獲藍營支持 柯文哲：藍白合是合作不是合併，各黨仍有自主性 | 蕭宥宸 | 新聞",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kSTQ2dGtJY2N1TUpiZVUyaHBqVXN5bllwUERjSU1BYkZPV3NhSU9mbmNmOHlrZERSU3NhWWdVZUNiY3lCclBSdkJ3aFNhdw?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-08-15T18:00:40+08:00",
+     "description": "安樂死公投未獲藍營支持 柯文哲：藍白合是合作不是合併，各黨仍有自主性 | 蕭宥宸 | 新聞  風傳媒",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "安樂死公投遭藍營背棄 柯文哲揭底線：可以合作時別搞對抗",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9oVG51OE9DVlZPY0pSM1FNbGZxaG9vWHNwek5hVTFiRHFWMUtVSjZXOHNiU0J1QUYtNVFrZ256b0doZE8yMmlvMEJYM2pTRkU2a3Bv?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-08-15T15:01:00+08:00",
+     "description": "安樂死公投遭藍營背棄 柯文哲揭底線：可以合作時別搞對抗  TVBS新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "安樂死公投慘被藍營丟包　黃國昌：國民黨自己要對全體選民負責",
+     "link": "https://www.ettoday.net/news/20260815/3219728.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-08-15T14:27:00+08:00",
+     "description": "立法院14日上午處理公投案表決，民眾黨提出交通罰鍰專款專用、移轉投票、安樂死公投等3案公投，最終僅交通罰單通過，移轉投票未被納入議程，柯文哲與民眾黨極為重視的安樂死則是7比51的慘烈結果。對此，黨主席黃國昌今（15日）說，各黨對公投的投票有不同價值取向，在這件事情上國民黨明顯說不，就彰顯出不同價值觀，國內移轉投票、安樂死有許多年輕選民支持，自己要跟全體選民負責，不是說要對民眾黨負責。 《詳全文..",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "民眾黨安樂死公投國民黨全未投票　黃健豪曝「不投票」原因",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52S0owRUdadjZQbGRXTEd3SkRaQmN0Y0JmNFY4RXo5ZjhleF9kZV9hZFM2UFY5bXJ5VTZORDI2ZEVaRXpXR1NjMWE5U3lzRm9NeFHSAVJBVV95cUxOdktKMEVHWnY2UGxkV0xHd0pEWkJjdGNCZjRWOEV6OWY4ZXhfZGVfYWRTNlBWOW1yeVU2TkQyNmRFWkV6V0dTYzFhOVN5c0ZvTXhR?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-08-15T11:55:09+08:00",
+     "description": "民眾黨安樂死公投國民黨全未投票　黃健豪曝「不投票」原因  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "柯文哲：「藍白合」是趨勢　但不可能每件事一致",
+     "link": "https://www.cna.com.tw/news/aipl/202608150068.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-08-15T11:48:10+08:00",
+     "description": "（中央社記者蘇木春台中15日電）台灣民眾黨立法院黨團提安樂死法制化公民投票案未獲國民黨團支持，前民眾黨主席柯文哲今天表示，政黨還是自主性與主體性，「藍白合」還是趨勢，但不可能每件事意見都一致。",
+     "author": "蘇木春",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "蘇木春",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
+     }
+    },
+    {
+     "title": "安樂死公投國民黨全棄權 柯文哲指「正常」：藍白合是合作不是合併",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOTlplOE5aa3poaDV6emM2Y0FzWjhtQTd2N3VPZFloMVpPZ0lFWFFPRk8tMGcyZjdaREhTTkpOSHJNSXRLckhtaFVJTGpVcWxq0gFWQVVfeXFMTVphTHE2LXRHcjdGMzg5Sm1FUDZuUi1QVkxsb0xlb1pKRHljX0c5MklFempPRG1DUndHUWFCQXJQX0VjRVBUdmUzdHJoUF8tVDlXYTJMSXc?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-08-15T11:45:53+08:00",
+     "description": "安樂死公投國民黨全棄權 柯文哲指「正常」：藍白合是合作不是合併  UDN",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "立法院會14日表決通過藍白黨團所提3項公投提案，你最關注哪一項？",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWlpUM0xNak9sdzg3WlBXRC1XSjFoRmxkZ0dJMF9WdkNpdTRGV3NnRUN5dHJhekJwa2ZpR2kyQm9LZ2ZfeG11MlYzZ3hfVkd6MW0wLVhxMjczVlZpb0pCR3l3bHdHOGdaam5abU9SNnY4M1BaTElGTWRTaElSMC0xMHZpdw?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-08-15T11:40:28+08:00",
+     "description": "立法院會14日表決通過藍白黨團所提3項公投提案，你最關注哪一項？  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "安樂死公投慘被國民黨丟包　柯文哲仍說：2026藍白合是趨勢",
+     "link": "https://www.ettoday.net/news/20260815/3219644.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-08-15T11:16:00+08:00",
+     "description": "立法院14日上午處理公投案表決，民眾黨提出交通罰鍰專款專用、移轉投票、安樂死公投等3案公投，最終僅交通罰單通過，移轉投票未被納入議程，柯文哲與民眾黨極為重視的安樂死公投則是以7比51的慘烈結果未通過。柯今到台中輔選時受訪說，「對2026，至少到目前為止，藍白合還是一個趨勢」，不可能每件事兩黨意見都一致，「關於安樂死國民黨沒有支持民眾黨，這很正常，本來就不可能意見完全一致」。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "立法院通過鞭刑公投案 反詐協會：須正視被害人對公平正義期待",
+     "link": "https://www.mirrormedia.mg/story/20260814-169soc-153106",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-08-14T15:32:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "立法院通過鞭刑等3公投提案 安樂死提案僅7票同意未過關",
+     "link": "https://news.pts.org.tw/article/822389",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-08-14T14:01:03+08:00",
+     "description": "立法院針對在野黨提出的多項公投案進行審議，最終共有4案於今（14）日進行表決，其中交通罰鍰專用、鞭刑、廢除非核家園等3案均表決通過，但民眾黨提出的安樂死公投案，則在國民黨棄權未投、民進黨全數投下反對票的情況下，僅獲得7票同意而未通過。至於「反廢死」與「移轉投票」兩項公投案，今日並未排入議程進行表決。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
      }
     }
    ]
@@ -1356,7 +1552,7 @@
     "setn",
     "udn"
    ],
-   "article_count": 22,
+   "article_count": 23,
    "first_seen": "2026-08-13T08:37:31+08:00",
    "last_updated": "2026-08-15T22:28:42.660020+08:00",
    "tags": [
@@ -1382,6 +1578,23 @@
       "acquisition": "scraper",
       "category": "politics",
       "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "陳幸妤連2天來這間店吃午餐 Google評價4.1星 網驚難怪會凍齡",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWkdmaEpsQnJMdDZ1c1J1d2R4dm9VY244YUQ5bEZoRUkxTnd2UmlRS2JvRWdZQklTazhpR1c5NmdaOEVaZjFLa2VmOUFtakhRR2pvU1F0M1NXb0o0YlRTbmVja0hHLVQ5aWJVdkZoMFNLODAtN29vYkkzSWR5bnp6aVZIdEVzOXlFMktfNmdFMA?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-08-15T20:25:17+08:00",
+     "description": "陳幸妤連2天來這間店吃午餐 Google評價4.1星 網驚難怪會凍齡  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
@@ -1519,29 +1732,12 @@
       "acquisition": "rss",
       "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
      }
-    },
-    {
-     "title": "陳幸妤為何「選Google評論開戰前夫？」網曝原因讚：打在軟肋上",
-     "link": "https://www.ettoday.net/news/20260814/3219192.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-08-14T12:57:00+08:00",
-     "description": "陳幸妤在8月12日50歲生日這天，到趙建銘骨科診所Google評論自爆已經離婚，並控訴趙建銘亂搞男女關係，不過「趙建銘骨科診所」帳號留言，「她寫的完全不是事實，何必呢？懶得回覆」。就有網友猜測，陳幸妤選擇在Google評論開戰的背後原因，「診所每篇評論都會回文」，貼文掀起熱論。\n\n 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
     }
    ]
   },
   {
-   "id": "a244526b6705",
-   "title": "高市早苗熱線伊朗總統　籲荷莫茲海峽不應收額外費用",
+   "id": "f57382bdf29d",
+   "title": "川普稱將繼續控制荷莫茲海峽　嗆伊朗對美軍封鎖無能為力",
    "outlet_count": 8,
    "outlets": [
     "cna",
@@ -1553,12 +1749,12 @@
     "storm",
     "tvbs"
    ],
-   "article_count": 17,
-   "first_seen": "2026-08-13T03:13:59+08:00",
+   "article_count": 15,
+   "first_seen": "2026-08-13T05:40:15+08:00",
    "last_updated": "2026-08-15T22:01:41+08:00",
    "tags": [
     "荷莫茲海峽",
-    "伊朗",
+    "擊敗伊朗後",
     "美國領土"
    ],
    "articles": [
@@ -1735,202 +1931,6 @@
       },
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
-     }
-    }
-   ]
-  },
-  {
-   "id": "f0a0ab79562b",
-   "title": "柯文哲：「藍白合」是趨勢　但不可能每件事一致",
-   "outlet_count": 8,
-   "outlets": [
-    "cna",
-    "ettoday",
-    "mirror",
-    "nownews",
-    "pts",
-    "storm",
-    "tvbs",
-    "udn"
-   ],
-   "article_count": 12,
-   "first_seen": "2026-08-14T12:06:24+08:00",
-   "last_updated": "2026-08-15T18:00:40+08:00",
-   "tags": [
-    "安樂死公投",
-    "國民黨",
-    "柯文哲"
-   ],
-   "articles": [
-    {
-     "title": "安樂死公投未獲藍營支持 柯文哲：藍白合是合作不是合併，各黨仍有自主性 | 蕭宥宸 | 新聞",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kSTQ2dGtJY2N1TUpiZVUyaHBqVXN5bllwUERjSU1BYkZPV3NhSU9mbmNmOHlrZERSU3NhWWdVZUNiY3lCclBSdkJ3aFNhdw?oc=5",
-     "source": "storm",
-     "source_name": "風傳媒",
-     "published": "2026-08-15T18:00:40+08:00",
-     "description": "安樂死公投未獲藍營支持 柯文哲：藍白合是合作不是合併，各黨仍有自主性 | 蕭宥宸 | 新聞  風傳媒",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "安樂死公投遭藍營背棄 柯文哲揭底線：可以合作時別搞對抗",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9oVG51OE9DVlZPY0pSM1FNbGZxaG9vWHNwek5hVTFiRHFWMUtVSjZXOHNiU0J1QUYtNVFrZ256b0doZE8yMmlvMEJYM2pTRkU2a3Bv?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-08-15T15:01:00+08:00",
-     "description": "安樂死公投遭藍營背棄 柯文哲揭底線：可以合作時別搞對抗  TVBS新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "安樂死公投慘被藍營丟包　黃國昌：國民黨自己要對全體選民負責",
-     "link": "https://www.ettoday.net/news/20260815/3219728.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-08-15T14:27:00+08:00",
-     "description": "立法院14日上午處理公投案表決，民眾黨提出交通罰鍰專款專用、移轉投票、安樂死公投等3案公投，最終僅交通罰單通過，移轉投票未被納入議程，柯文哲與民眾黨極為重視的安樂死則是7比51的慘烈結果。對此，黨主席黃國昌今（15日）說，各黨對公投的投票有不同價值取向，在這件事情上國民黨明顯說不，就彰顯出不同價值觀，國內移轉投票、安樂死有許多年輕選民支持，自己要跟全體選民負責，不是說要對民眾黨負責。 《詳全文..",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "民眾黨安樂死公投國民黨全未投票　黃健豪曝「不投票」原因",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52S0owRUdadjZQbGRXTEd3SkRaQmN0Y0JmNFY4RXo5ZjhleF9kZV9hZFM2UFY5bXJ5VTZORDI2ZEVaRXpXR1NjMWE5U3lzRm9NeFHSAVJBVV95cUxOdktKMEVHWnY2UGxkV0xHd0pEWkJjdGNCZjRWOEV6OWY4ZXhfZGVfYWRTNlBWOW1yeVU2TkQyNmRFWkV6V0dTYzFhOVN5c0ZvTXhR?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-08-15T11:55:09+08:00",
-     "description": "民眾黨安樂死公投國民黨全未投票　黃健豪曝「不投票」原因  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "柯文哲：「藍白合」是趨勢　但不可能每件事一致",
-     "link": "https://www.cna.com.tw/news/aipl/202608150068.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-08-15T11:48:10+08:00",
-     "description": "（中央社記者蘇木春台中15日電）台灣民眾黨立法院黨團提安樂死法制化公民投票案未獲國民黨團支持，前民眾黨主席柯文哲今天表示，政黨還是自主性與主體性，「藍白合」還是趨勢，但不可能每件事意見都一致。",
-     "author": "蘇木春",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "蘇木春",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
-     }
-    },
-    {
-     "title": "安樂死公投國民黨全棄權 柯文哲指「正常」：藍白合是合作不是合併",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOTlplOE5aa3poaDV6emM2Y0FzWjhtQTd2N3VPZFloMVpPZ0lFWFFPRk8tMGcyZjdaREhTTkpOSHJNSXRLckhtaFVJTGpVcWxq0gFWQVVfeXFMTVphTHE2LXRHcjdGMzg5Sm1FUDZuUi1QVkxsb0xlb1pKRHljX0c5MklFempPRG1DUndHUWFCQXJQX0VjRVBUdmUzdHJoUF8tVDlXYTJMSXc?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-08-15T11:45:53+08:00",
-     "description": "安樂死公投國民黨全棄權 柯文哲指「正常」：藍白合是合作不是合併  UDN",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "安樂死公投慘被國民黨丟包　柯文哲仍說：2026藍白合是趨勢",
-     "link": "https://www.ettoday.net/news/20260815/3219644.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-08-15T11:16:00+08:00",
-     "description": "立法院14日上午處理公投案表決，民眾黨提出交通罰鍰專款專用、移轉投票、安樂死公投等3案公投，最終僅交通罰單通過，移轉投票未被納入議程，柯文哲與民眾黨極為重視的安樂死公投則是以7比51的慘烈結果未通過。柯今到台中輔選時受訪說，「對2026，至少到目前為止，藍白合還是一個趨勢」，不可能每件事兩黨意見都一致，「關於安樂死國民黨沒有支持民眾黨，這很正常，本來就不可能意見完全一致」。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "立法院通過鞭刑公投案 反詐協會：須正視被害人對公平正義期待",
-     "link": "https://www.mirrormedia.mg/story/20260814-169soc-153106",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-08-14T15:32:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "立法院通過鞭刑等3公投提案 安樂死提案僅7票同意未過關",
-     "link": "https://news.pts.org.tw/article/822389",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-08-14T14:01:03+08:00",
-     "description": "立法院針對在野黨提出的多項公投案進行審議，最終共有4案於今（14）日進行表決，其中交通罰鍰專用、鞭刑、廢除非核家園等3案均表決通過，但民眾黨提出的安樂死公投案，則在國民黨棄權未投、民進黨全數投下反對票的情況下，僅獲得7票同意而未通過。至於「反廢死」與「移轉投票」兩項公投案，今日並未排入議程進行表決。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "民眾黨團被丟包2次！立法院僅通過3公投案 國民黨團沒挺移轉投票、安樂死 | 鍾秉哲 | 新聞",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zak50dGFUTFlnS2g5b0x5bGpQOGxQQ2huVm5WaGJoV296SDRwYUpqUWprcExkTUdmWm5pR3hjUjNnMDhTUnpkSDRIV0RnQQ?oc=5",
-     "source": "storm",
-     "source_name": "風傳媒",
-     "published": "2026-08-14T12:56:26+08:00",
-     "description": "民眾黨團被丟包2次！立法院僅通過3公投案 國民黨團沒挺移轉投票、安樂死 | 鍾秉哲 | 新聞  風傳媒",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -2132,7 +2132,7 @@
    ]
   },
   {
-   "id": "62aef7529934",
+   "id": "9a60c6fba2c7",
    "title": "「逐玉」張凌赫人氣延燒「這一秒過火」掀追劇熱潮｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
    "outlet_count": 7,
    "outlets": [
@@ -2176,7 +2176,7 @@
      "source": "tvbs",
      "source_name": "TVBS",
      "published": "2026-08-16T00:28:58+08:00",
-     "description": "【LIVE】雨來! 週末低壓帶接棒｜20260815｜TVBS新聞網  news.tvbs.com.tw",
+     "description": "【LIVE】雨來! 週末低壓帶接棒｜20260815｜TVBS新聞網  TVBS新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -2193,7 +2193,7 @@
      "source": "tvbs",
      "source_name": "TVBS",
      "published": "2026-08-15T22:39:15+08:00",
-     "description": "建國高架下方停車場 「電動車充電樁」突起火｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網  news.tvbs.com.tw",
+     "description": "建國高架下方停車場 「電動車充電樁」突起火｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網  TVBS新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -2278,7 +2278,7 @@
      "source": "tvbs",
      "source_name": "TVBS",
      "published": "2026-08-15T20:00:06+08:00",
-     "description": "就跟你說報廢了還硬要罰！車行2報廢機車遭警罰3.6萬執法瑕疵惹眾怒該警遭調職...庇護島保護行人保不了車！駕駛難計算輪差庇護島成車禍熱點｜【話題懶人包】｜TVBS新聞@TVBSNEWS02 │ TVBS新聞網  news.tvbs.com.tw",
+     "description": "就跟你說報廢了還硬要罰！車行2報廢機車遭警罰3.6萬執法瑕疵惹眾怒該警遭調職...庇護島保護行人保不了車！駕駛難計算輪差庇護島成車禍熱點｜【話題懶人包】｜TVBS新聞@TVBSNEWS02 │ TVBS新聞網  TVBS新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -2295,7 +2295,7 @@
      "source": "tvbs",
      "source_name": "TVBS",
      "published": "2026-08-15T19:10:24+08:00",
-     "description": "社宅停車30小時1元? 真相「1小時30元」車主:佛｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網  news.tvbs.com.tw",
+     "description": "社宅停車30小時1元? 真相「1小時30元」車主:佛｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網  TVBS新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -2312,7 +2312,169 @@
      "source": "tvbs",
      "source_name": "TVBS",
      "published": "2026-08-15T18:56:47+08:00",
-     "description": "通緝犯狂逃!巷弄朝警揮刀.噴辣椒水對峙｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網  news.tvbs.com.tw",
+     "description": "通緝犯狂逃!巷弄朝警揮刀.噴辣椒水對峙｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網  TVBS新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
+   "id": "f4ebe9094f3d",
+   "title": "高鐵新列車N700ST抵台 史哲：明年7月上路後檢討票價",
+   "outlet_count": 7,
+   "outlets": [
+    "ebc",
+    "ettoday",
+    "ltn",
+    "nownews",
+    "pts",
+    "storm",
+    "tvbs"
+   ],
+   "article_count": 8,
+   "first_seen": "2026-08-15T14:02:36+08:00",
+   "last_updated": "2026-08-16T00:29:08.456551+08:00",
+   "tags": [
+    "高鐵",
+    "明年",
+    "票價"
+   ],
+   "articles": [
+    {
+     "title": "台灣高鐵新車廂抵高雄港 明年7月上路票價恐漲",
+     "link": "https://news.ebc.net.tw/news/living/566457",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-08-16T00:29:08.456551+08:00",
+     "description": "台灣高鐵向日本採購12組N700ST新世代列車，首組15日抵達高雄港，預計明年7月1日上路，車廂設備全面升級，未來票價也將調整。",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "高鐵睽違22年迎新列車 首批預計明年7/1起營運",
+     "link": "https://news.pts.org.tw/article/822581",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-08-15T19:51:43+08:00",
+     "description": "相隔22年，高鐵新車再度抵達高雄港，高鐵公司向日立東芝聯盟、購買12組新世代列車N700ST，原訂15日上午抵達，卻因海象不佳延到下午。這批列車從運往台灣的過程中，還遭遇大地震、颱風，幾經波折最後安全抵達，預計明（2027）年7月1日加入營運。董事長史哲也預告，如果民眾乘車經驗有提升，希望可以來討論調漲票價。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "高鐵新車終於抵達台灣！N700ST最快什麼時候能搭？12項升級細節一次看 | 社群中心 | 風生活",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Yc2t3TVNRR1FXVEJXZldSb2x3cXlhOWNmR2tfY2R4eGFoZEg0cTQtTWNLaDRGQi0yZFNmYWxISjdtWlhLV3ZtWC0zVzhmYmYx?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-08-15T16:28:00+08:00",
+     "description": "高鐵新車終於抵達台灣！N700ST最快什麼時候能搭？12項升級細節一次看 | 社群中心 | 風生活  風傳媒",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "高鐵首組新列車抵台 董事長史哲：2027年7/1後檢討票價但「有這前提」",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5540958",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-15T16:19:44+08:00",
+     "description": "台灣高鐵公司向日本購買12組新世代列車N700ST，今天（15日）運抵台灣。高鐵公司董事長史哲致詞時表示，第一組列車明年7月1日上線營運，之後便會檢討20年來沒調整的票價。\n...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "高鐵新列車N700ST抵台 史哲：明年7月上路後檢討票價",
+     "link": "https://news.pts.org.tw/article/822563",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-08-15T15:50:38+08:00",
+     "description": "台灣高鐵睽違22年迎來新一代列車N700ST，並於今（15）日從日本運抵高雄港，後續將進行測試，預計明（2027）年7月正式營運。相較現行700T列車，N700ST不僅提升車廂降噪及行駛穩定度，全車也均配有充電座，高鐵公司董事長史哲表示，待新車順利上路後也將檢討票價。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "高鐵首列N700ST渡海抵台　史哲：明年7月檢討票價",
+     "link": "https://www.ettoday.net/news/20260815/3219746.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-08-15T14:59:00+08:00",
+     "description": "高鐵首列N700ST新世代列車渡海航行1600多公里，今（15）日抵達高雄港，預計明年7月1日上路。台灣高鐵董事長史哲表示，高鐵未來將面臨3挑戰，其中一項則是財務永續，明年7月新車上路後，將針對20年沒調整的票價進行檢討。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "台灣高鐵首輛新車明年7月上線後票價恐調漲！董座曝同步啟動檢討",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGUDg4TE85RGlyYzdGT1UxbXlSdmlZZFZEWmtHZm9CUVh3dU1IS2tCWloyVmNjSnYyUVJaUFBkVXNtaWFyTUkzUjgwQmNRN05MTkHSAVJBVV95cUxQRlA4OExPOURpcmM3Rk9VMW15UnZpWWRWRFprR2ZvQlFYd3VNSEtrQlpaMlZjY0p2MlFSWlBQZFVzbWlhck1JM1I4MEJjUTdOTE5B?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-08-15T14:54:43+08:00",
+     "description": "台灣高鐵首輛新車明年7月上線後票價恐調漲！董座曝同步啟動檢討  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "高鐵新世代列車 N700ST抵台典禮｜LIVE",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DeUNidzhuQi1MSVBpckJYYnE0cmtXVGdnUV9BcU10RWZ1a3BvczdfUVlBUDVIMWdRZ1Y3dTRtVDAwVVNJVU5UdHFCd0U2UkNDZmxZeUVwLUx6ajFjdlBhYklVc3BIWTQwUXVLV0NjMW85czRv?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-08-15T14:02:36+08:00",
+     "description": "高鐵新世代列車 N700ST抵台典禮｜LIVE  TVBS新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -2474,7 +2636,7 @@
      "source": "tvbs",
      "source_name": "TVBS",
      "published": "2026-08-14T15:09:04+08:00",
-     "description": "【TVBS18氣象站】週末泡湯了! 明中南部豪大雨 山區.北宜午後大雷雨 再濕一週  news.tvbs.com.tw",
+     "description": "【TVBS18氣象站】週末泡湯了! 明中南部豪大雨 山區.北宜午後大雷雨 再濕一週  TVBS新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -2925,7 +3087,7 @@
     },
     {
      "title": "立法院三讀總預算共砍480億元 韓國瑜呼籲政院副署、執行",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LVVVPRms3WFM3TWY4RENVNzFSbTBCc2o5Y2VHZEp6ZjBsVDBRdG81c0czbUNDNXRBbXdabkNJOTNXQWdQTzlvNU9qcVEwbi02WEFZ0gFYQVVfeXFMTURMLXd5ekNDODJGSk1tdTY2SWRING9KZlBsMEMxaGxSS0diejJsMlFRMC1rd01mUTk1Nlhzam9pSmkteGs1bUIwU3dTSHl1eHpvclNETFYwcQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LVVVPRms3WFM3TWY4RENVNzFSbTBCc2o5Y2VHZEp6ZjBsVDBRdG81c0czbUNDNXRBbXdabkNJOTNXQWdQTzlvNU9qcVEwbi02WEFZ?oc=5",
      "source": "udn",
      "source_name": "聯合新聞網",
      "published": "2026-08-14T18:48:16+08:00",
@@ -2938,6 +3100,218 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
+   "id": "47e1cffa96fa",
+   "title": "藍：全力支持國防無人機產業　634億預算全數通過",
+   "outlet_count": 7,
+   "outlets": [
+    "chinatimes",
+    "cna",
+    "ettoday",
+    "ltn",
+    "nownews",
+    "setn",
+    "storm"
+   ],
+   "article_count": 15,
+   "first_seen": "2026-08-14T10:32:53+08:00",
+   "last_updated": "2026-08-15T13:14:47+08:00",
+   "tags": [
+    "無人機",
+    "預算"
+   ],
+   "claims": [
+    {
+     "type": "金額",
+     "agree": true,
+     "outlet_count": 4,
+     "values": [
+      {
+       "value": "634億元",
+       "outlets": [
+        "三立新聞網",
+        "中時新聞網",
+        "今日新聞",
+        "風傳媒"
+       ]
+      }
+     ]
+    }
+   ],
+   "articles": [
+    {
+     "title": "賴瑞隆質疑財劃法、無人機預算立場　柯志恩澄清",
+     "link": "https://www.cna.com.tw/news/aloc/202608150084.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-08-15T13:14:47+08:00",
+     "description": "（中央社記者林巧璉高雄15日電）民主進步黨高雄市長參選人賴瑞隆今天質疑競選對手、中國國民黨籍立法委員柯志恩在財政收支劃分法、無人機預算等政策立場；柯志恩說，賴瑞隆一再以政治攻防操作議題。",
+     "author": "林巧璉",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "林巧璉",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/local"
+     }
+    },
+    {
+     "title": "藍擋2100億軍用無人機 葉耀元轟：不阻共軍就是賣台",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5540595",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-15T12:03:13+08:00",
+     "description": "立法院院會昨處理今年中央政府總預算案，而在朝野會商前，國民黨團上午10點多突宣布將放行634億元無人機年度預算，強調「全力支持無人機產業與國防自主」，期望能夠打造第2座世界級的護...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "無人機634億預算「一毛未刪」仍挨轟　賴士葆怒轟民進黨：心眼壞",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBha2xMbTZuUC0zWE5LNTc3MDlUaUNwcWhRdHVCb3dnVXEwYlZXQV9TQkY5dVQ5Qk16a21uV2JvN0VQc2Y5YTlJZGd4SWRtdHExM0HSAVJBVV95cUxQYWtsTG02blAtM1hOSzU3NzA5VGlDcHFoUXR1Qm93Z1VxMGJWV0FfU0JGOXVUOUJNemttbldibzdFUHNmOWE5SWRneElkbXRxMTNB?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-08-15T10:41:56+08:00",
+     "description": "無人機634億預算「一毛未刪」仍挨轟　賴士葆怒轟民進黨：心眼壞  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "軍用無人機2100億預算仍卡關 賴瑞隆批：只有北京跟國民黨反對",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5540581",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-15T10:20:16+08:00",
+     "description": "立法院昨（14）日針對今年度總預算案進行表決，國民黨團針對無人機相關634億預算億全數通過；民進黨高雄市長參選人、立委賴瑞隆今（15）日受訪指出，放行的是商用、民用無人機，更關...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "賴瑞隆曝藍迫壓力通過總預算　開轟柯志恩：甩鍋",
+     "link": "https://www.ettoday.net/news/20260815/3219598.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-08-15T09:43:00+08:00",
+     "description": "立法院總預算案經過漫長審議終告落幕，但過程中引發的爭議仍持續延燒。民進黨高雄市長參選人、立委賴瑞隆今（15）日針對總預算審查及《財政收支劃分法》（財劃法）修法等議題出面強烈質疑國民黨市長參選人、立委柯志恩，批評其立場一再重複「說一套做一套」，不僅在違法凍結行政院長薪資案中倒戈投下贊成票，更在軍用無人機預算及財劃法等攸關國家安全與高雄地方權益的重大法案上背離民意，承諾將對此「追查到底」。 《詳全文.",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "634億預算相關報導",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBzeV9UNnhkdUVvVzJudncyTEJJSTYyNEZOdVVuLTAtNWZRYWM0UV9VanhtM0hwb3JrZ1lYbmVCLVA0cVZITlJRTw?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-08-15T00:29:47+08:00",
+     "description": "634億預算相關報導  setn.com",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "盧秀燕搶先發布！634億無人機預算三讀   周永鴻質疑「擋預算變政績」",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5540391",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-14T21:58:46+08:00",
+     "description": "無人機等共634億相關預算，今天大轉彎立院全數通過，台中市長盧秀燕在通過前搶先發布相訊息，黨團總召周永鴻質疑，「撤回原本刪凍主張」，竟包裝成自己的政績，「昨天擋預算、今...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "柯志恩稱力挺634億無人機預算過關  賴瑞隆：放火的人假裝救火",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5540388",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-14T21:47:09+08:00",
+     "description": "634億元無人機預算過關，國民黨高雄市長參選人柯志恩強調她始終力挺無人機、謠言不攻自破；民進黨高雄市長參選人賴瑞隆嗆柯與藍營遭輿論撻伐後才撤回提案，如今又高調邀功，儼然「放火的...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "立院通過無人機預算 經部拚2030年產值破400億",
+     "link": "https://ec.ltn.com.tw/article/breakingnews/5540309",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-14T20:11:58+08:00",
+     "description": "立法院今（14）日審議通過115年度中央政府總預算案中無人機相關預算。經濟部樂見立法院支持本案，使無人機產業相關工作得以持續推動，為國內業者投入技術研發、量產製造、檢測驗...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "無人機634億預算全過！柯志恩：不讓無人機變民進黨選舉造謠工具 | 黃振剛 | 新聞",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE56SGg5cmNGel9jc1RlTXZZZ1dZNWJEQldCaHZlNG9jdEo5OU1BODVKV3BxQkEzTXdEbGhkaTVHcGFlYVBmUGg5dkFqUmd6UQ?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-08-14T18:38:18+08:00",
+     "description": "無人機634億預算全過！柯志恩：不讓無人機變民進黨選舉造謠工具 | 黃振剛 | 新聞  風傳媒",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -2959,8 +3333,8 @@
    "first_seen": "2026-08-13T11:16:06+08:00",
    "last_updated": "2026-08-15T08:58:44+08:00",
    "tags": [
-    "抗生素",
     "麥當勞",
+    "抗生素",
     "蝦堡"
    ],
    "articles": [
@@ -3284,69 +3658,34 @@
    ]
   },
   {
-   "id": "717934990c57",
-   "title": "高鐵新列車N700ST抵台 史哲：明年7月上路後檢討票價",
-   "outlet_count": 6,
+   "id": "5a52c2b57b11",
+   "title": "彭文正控蔡英文偽造文書案　最高法院駁回確定",
+   "outlet_count": 7,
    "outlets": [
-    "ebc",
+    "chinatimes",
+    "cna",
     "ettoday",
     "ltn",
-    "nownews",
-    "pts",
-    "storm"
+    "mirror",
+    "newtalk",
+    "udn"
    ],
    "article_count": 7,
-   "first_seen": "2026-08-15T14:54:43+08:00",
-   "last_updated": "2026-08-16T00:29:08.456551+08:00",
+   "first_seen": "2026-08-14T11:10:48+08:00",
+   "last_updated": "2026-08-14T15:03:53+08:00",
    "tags": [
-    "高鐵",
-    "檢討票價",
-    "明年"
+    "偽造文書",
+    "蔡英文",
+    "彭文正"
    ],
    "articles": [
     {
-     "title": "台灣高鐵新車廂抵高雄港 明年7月上路票價恐漲",
-     "link": "https://news.ebc.net.tw/news/living/566457",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-08-16T00:29:08.456551+08:00",
-     "description": "台灣高鐵向日本採購12組N700ST新世代列車，首組15日抵達高雄港，預計明年7月1日上路，車廂設備全面升級，未來票價也將調整。",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "高鐵睽違22年迎新列車 首批預計明年7/1起營運",
-     "link": "https://news.pts.org.tw/article/822581",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-08-15T19:51:43+08:00",
-     "description": "相隔22年，高鐵新車再度抵達高雄港，高鐵公司向日立東芝聯盟、購買12組新世代列車N700ST，原訂15日上午抵達，卻因海象不佳延到下午。這批列車從運往台灣的過程中，還遭遇大地震、颱風，幾經波折最後安全抵達，預計明（2027）年7月1日加入營運。董事長史哲也預告，如果民眾乘車經驗有提升，希望可以來討論調漲票價。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "高鐵新車終於抵達台灣！N700ST最快什麼時候能搭？12項升級細節一次看 | 社群中心 | 風生活",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Yc2t3TVNRR1FXVEJXZldSb2x3cXlhOWNmR2tfY2R4eGFoZEg0cTQtTWNLaDRGQi0yZFNmYWxISjdtWlhLV3ZtWC0zVzhmYmYx?oc=5",
-     "source": "storm",
-     "source_name": "風傳媒",
-     "published": "2026-08-15T16:28:00+08:00",
-     "description": "高鐵新車終於抵達台灣！N700ST最快什麼時候能搭？12項升級細節一次看 | 社群中心 | 風生活  風傳媒",
+     "title": "論文案一路告到最高院仍敗！彭文正控蔡英文偽造文書遭駁回確定| 政治",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aMWFvRnpXNlJYRXdtUGZaaXFHNGNMaU9wN2I1VHZkOHhROWxkeGRGajF6VFJJNjY5QzIwVE9wWkdhMUxNSDd1R05rM2ctVVBNYkpJNC1CMThITGM?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-08-14T15:03:53+08:00",
+     "description": "論文案一路告到最高院仍敗！彭文正控蔡英文偽造文書遭駁回確定| 政治  Newtalk新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -3354,16 +3693,33 @@
        "source": "unknown"
       },
       "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
-     "title": "高鐵首組新列車抵台 董事長史哲：2027年7/1後檢討票價但「有這前提」",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5540958",
+     "title": "彭文正上訴再敗！蔡英文偽造文書案遭最高法院駁回　全案「不受理」確定",
+     "link": "https://www.mirrormedia.mg/story/20260814edi052",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-08-14T12:35:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "彭文正自訴控蔡英文論文涉偽造文書 最高法院判不受理確定",
+     "link": "https://ent.ltn.com.tw/news/breakingnews/5539576",
      "source": "ltn",
      "source_name": "自由時報",
-     "published": "2026-08-15T16:19:44+08:00",
-     "description": "台灣高鐵公司向日本購買12組新世代列車N700ST，今天（15日）運抵台灣。高鐵公司董事長史哲致詞時表示，第一組列車明年7月1日上線營運，之後便會檢討20年來沒調整的票價。\n...…",
+     "published": "2026-08-14T12:17:15+08:00",
+     "description": "名嘴彭文正質疑前總統蔡英文的英國倫敦政經學院法學博士學位造假，提刑事自訴控告蔡英文涉犯偽造文書罪，法院歷審皆判自訴不受理；彭上訴，最高法院仍認定彭不是該論文撰寫者、名義人或其他...…",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -3375,29 +3731,47 @@
      }
     },
     {
-     "title": "高鐵新列車N700ST抵台 史哲：明年7月上路後檢討票價",
-     "link": "https://news.pts.org.tw/article/822563",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-08-15T15:50:38+08:00",
-     "description": "台灣高鐵睽違22年迎來新一代列車N700ST，並於今（15）日從日本運抵高雄港，後續將進行測試，預計明（2027）年7月正式營運。相較現行700T列車，N700ST不僅提升車廂降噪及行駛穩定度，全車也均配有充電座，高鐵公司董事長史哲表示，待新車順利上路後也將檢討票價。",
+     "title": "彭文正控蔡英文偽造文書案　最高法院駁回確定",
+     "link": "https://www.cna.com.tw/news/asoc/202608140078.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-08-14T11:40:56+08:00",
+     "description": "（中央社記者林長順台北14日電）媒體人彭文正指控前總統蔡英文將倫敦政經學院的博士論文送交國家圖書館，存入「台灣博碩士論文知識加值系統」，涉及偽造文書罪，一、二審判決不受理，最高法院駁回上訴確定。",
+     "author": "林長順",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "林長順",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/social"
+     }
+    },
+    {
+     "title": "前總統蔡英文遭彭文正提告涉犯偽造文書罪 最後結果出爐",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBaRFdlSlhTV2FycmoyMERXR00wTDI5cS16eG5hTUFGdmlPQjRBZXk3VXFUM2w1dGg4Slo0WGoyVlhqblJFNzJEcjZZVjg0eGp5cm10QXR3OF9sYkJmOVdmSmNTWF9mT0RZV05xVjBn?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-08-14T11:27:25+08:00",
+     "description": "前總統蔡英文遭彭文正提告涉犯偽造文書罪 最後結果出爐  中時新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
-     "title": "高鐵首列N700ST渡海抵台　史哲：明年7月檢討票價",
-     "link": "https://www.ettoday.net/news/20260815/3219746.htm",
+     "title": "控蔡英文論文造假！彭文正自訴偽造文書　最高法院駁回確定",
+     "link": "https://www.ettoday.net/news/20260814/3219030.htm",
      "source": "ettoday",
      "source_name": "ETtoday",
-     "published": "2026-08-15T14:59:00+08:00",
-     "description": "高鐵首列N700ST新世代列車渡海航行1600多公里，今（15）日抵達高雄港，預計明年7月1日上路。台灣高鐵董事長史哲表示，高鐵未來將面臨3挑戰，其中一項則是財務永續，明年7月新車上路後，將針對20年沒調整的票價進行檢討。 《詳全文...》",
+     "published": "2026-08-14T11:22:00+08:00",
+     "description": "遭通緝的政論節目主持人彭文正，對前總統蔡英文的博士論文提出確認之訴，敗訴確定。他也提出自訴，控告蔡英文涉嫌偽造文書。但一二審法院均認定他不具備該案的直接被害人資格，判決「自訴不受理」。他不死心，上訴第三審，最高法院14日駁回彭文正的上訴確定。\n 《詳全文...》",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -3409,12 +3783,12 @@
      }
     },
     {
-     "title": "台灣高鐵首輛新車明年7月上線後票價恐調漲！董座曝同步啟動檢討",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGUDg4TE85RGlyYzdGT1UxbXlSdmlZZFZEWmtHZm9CUVh3dU1IS2tCWloyVmNjSnYyUVJaUFBkVXNtaWFyTUkzUjgwQmNRN05MTkHSAVJBVV95cUxQRlA4OExPOURpcmM3Rk9VMW15UnZpWWRWRFprR2ZvQlFYd3VNSEtrQlpaMlZjY0p2MlFSWlBQZFVzbWlhck1JM1I4MEJjUTdOTE5B?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-08-15T14:54:43+08:00",
-     "description": "台灣高鐵首輛新車明年7月上線後票價恐調漲！董座曝同步啟動檢討  NOWnews今日新聞",
+     "title": "質疑博士論文造假…彭文正自訴蔡英文「偽造文書」 法院判不受理確定",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1LSk1WWXFrb2xVYk5WaGJlVUxVZWhoR3Z2d1U0Q19LU3pvZUZQMUFMUGx0bjAwZ3UwSWVETXBYNG5pcGRDUEZteGFyUFhXek5w0gFWQVVfeXFMT2E2TER1ZW84WFdROGZWTF9SLVVEUW14UWtFRElaeUFTZXJGYmFXZnFOZmlwcjE0Vmo2eExpWGR1Y0g2bHhvcHZNWHZvSU5BUmUtVHR1ZGc?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-08-14T11:10:48+08:00",
+     "description": "質疑博士論文造假…彭文正自訴蔡英文「偽造文書」 法院判不受理確定  UDN",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -3422,7 +3796,7 @@
        "source": "unknown"
       },
       "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -3439,11 +3813,28 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 30,
+   "article_count": 31,
    "first_seen": "2026-08-13T04:59:28+08:00",
-   "last_updated": "2026-08-16T00:07:25+08:00",
+   "last_updated": "2026-08-16T01:48:02+08:00",
    "tags": [],
    "articles": [
+    {
+     "title": "新聞分類總覽 - 2026-08-16",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90RUxQcm44TEs0MXpRRkgtOWs0dmh5QlJRTTlMSWhpVDNjTGhFV3lUNGdHb1hYeHZ6cndhbmd3eGVGbDZHZnhJTW1Fd0RBVi1COGp0T1dYcw?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-08-16T01:48:02+08:00",
+     "description": "新聞分類總覽 - 2026-08-16  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
     {
      "title": "新聞分類總覽 - 2026-08-16",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9qTVFkaTBwQ282ZVpabVVVSlZnRUpMOHB0NlBUWmo2c01SUTA1aVA3OWdqdHNpaWJKeDNJa0tsa2o3Y3B3dk52aEF5eEd2cnJuazRLTVZkWQ?oc=5",
@@ -3484,7 +3875,7 @@
      "source": "udn",
      "source_name": "聯合新聞網",
      "published": "2026-08-15T15:42:18+08:00",
-     "description": "經濟日報 2026-08-15 星期六  reading.udn.com",
+     "description": "經濟日報 2026-08-15 星期六  琅琅悅讀",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -3595,23 +3986,6 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "美航母戰力衰退太平洋空窗？ 美軍坦承6代機落後中國4年【#新聞大白話】20260814-10│#董智森 #賴岳謙 #張延廷 @tvbstalk │ TVBS新聞網",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkalI0am1GSWhUcHlGQ2NXTzczZXNoYTFwQUdlTGNtc2tQclZnRUdMSTI5ajNHMm1TcjAtbVk1Yy0zbXFNdHlCZnN5aklRdGU2S2NpMmtR?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-08-14T19:41:23+08:00",
-     "description": "美航母戰力衰退太平洋空窗？ 美軍坦承6代機落後中國4年【#新聞大白話】20260814-10│#董智森 #賴岳謙 #張延廷 @tvbstalk │ TVBS新聞網  news.tvbs.com.tw",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -3795,7 +4169,7 @@
      "source": "tvbs",
      "source_name": "TVBS",
      "published": "2026-08-15T11:59:00+08:00",
-     "description": "最新民調揭「蔣萬安領先幅度縮水」 沈伯洋親曝關鍵  news.tvbs.com.tw",
+     "description": "最新民調揭「蔣萬安領先幅度縮水」 沈伯洋親曝關鍵  TVBS新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -3809,199 +4183,8 @@
    ]
   },
   {
-   "id": "abed00baa79d",
-   "title": "KongKong 娛樂關鍵字",
-   "outlet_count": 6,
-   "outlets": [
-    "chinatimes",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "nownews",
-    "setn"
-   ],
-   "article_count": 139,
-   "first_seen": "2026-08-13T02:41:08+08:00",
-   "last_updated": "2026-08-15T22:43:11+08:00",
-   "tags": [
-    "娛樂關鍵字"
-   ],
-   "articles": [
-    {
-     "title": "彩演 娛樂關鍵字",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBHWUIyd3RGWU9saXgzUkVOUDhXSDdaNUk0ejhveTFUM3NQNzlNSGYzZWxaXzlmTGtVd2VGTVBjQVVYYWgxVW1odg?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-08-15T22:43:11+08:00",
-     "description": "彩演 娛樂關鍵字  star.setn.com",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "Vishal Garg 關鍵字",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02aUlvVzdjcDRka0NCczQ2QkR3UW53WGdOMHpSdjZGcVcwMEJJUzZHeEQtOVdyakc0QTFXbzh5Yi1saTdCSGZKOUxqTW1uSUVRbVBPelVB?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-08-15T18:55:22+08:00",
-     "description": "Vishal Garg 關鍵字  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "Vishal Garg 關鍵字",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01Ym1zcUFFbGxfVmpqLXAxN0stREdrODFNazRGblU2WnVMM1lvRVZOdHVuaVA1UC1uM1Y2UUZ1enNkR1N6VEtycHZsUUoybU1jQXhv?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-08-15T18:52:39+08:00",
-     "description": "Vishal Garg 關鍵字  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "李雪豪 娛樂關鍵字",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB6bmdmaVctaldUWUcyRlZjTjhWbFphUEhkLVVVX3RqTE96bGZnV2hLN1VkSkpUS0kwWUJDZ2pPRXIxWUxLOXotYQ?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-08-15T18:05:24+08:00",
-     "description": "李雪豪 娛樂關鍵字  star.setn.com",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "紅塵夢 娛樂關鍵字",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1UZThQckN2UmpKdktLME1DMU1qU2ZLQUxhLS16ZnRTYjBHU1JFWHNUTUpOblNOeWtZanJkdHA4LUJSaDk4a2FVZA?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-08-15T16:56:02+08:00",
-     "description": "紅塵夢 娛樂關鍵字  star.setn.com",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "Summer Sonic 2026 關鍵字",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TS0FwcXAtVjBuNWUyaTY5Q1prLUFXMDdtdFAyV0R5VWtZWjFfdXdtcU5sWFFhWnpjempzRTJwYThtUUtrSkxZTUxjUFpTQTA2SzA3MmVqOWNTVTg?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-08-15T16:54:43+08:00",
-     "description": "Summer Sonic 2026 關鍵字  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "排球校隊 娛樂關鍵字",
-     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBzS0tvOHR3QWpLc1plUFBobk5xeDVBUVU1MDYtSVM4RE81VWZMTlUxOEVuUjRjVlZGeDAySGE2TnlmM0p2VDBR?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-08-15T16:40:09+08:00",
-     "description": "排球校隊 娛樂關鍵字  star.setn.com",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "舊振南 娛樂關鍵字",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUkRVUjZnaG5iNW8yaDJYUDNhOERUNDVoM1ZzNVIzRHV4MnZNRXE3YVdfS2hnbmY1UlA1WWgtU3ZqRFItMlhKUDJrbWVBa0tjWW1NaS1NZG9XN0hzcllJS21WMnMxSlpnRUVIMU52ZEx2QzV1R1ZTSU1MMFU0NTRtS3o3MzY4dlBDYWt6U192dnE2OWlEbDJJc3VnX3I0WUtaS2dSN3R3?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-08-15T15:39:14+08:00",
-     "description": "舊振南 娛樂關鍵字  star.setn.com",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "寺田心 娛樂關鍵字",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RU2N2OGRfNHMyY1ByTUwyMG42MDVKSGFmdHlNbElBc2NybTNrX2VyNHp6bGV5cExtUFA2ZTVwaHVNSUwteTlneQ?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-08-15T15:29:40+08:00",
-     "description": "寺田心 娛樂關鍵字  star.setn.com",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "All That",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9FSlJIQTlDT2VNa1lzY1BnNHd4N1hIVldpWldLNWxRWlhmS2hrMm5qYm12QXE2dXoxZ1gySjlpNXdWTWtFLUNVa1l6ZmZscEk?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-08-15T15:00:35+08:00",
-     "description": "All That  三立新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
-   "id": "16783e133600",
-   "title": "7縣市「大雨特報」雨彈炸　最新警戒區域曝",
+   "id": "26a8dd3ce010",
+   "title": "快訊》熱浪籠罩7縣市！氣象署急籲慎防熱傷害| 生活",
    "outlet_count": 6,
    "outlets": [
     "ebc",
@@ -4011,12 +4194,12 @@
     "newtalk",
     "nownews"
    ],
-   "article_count": 71,
-   "first_seen": "2026-08-13T03:54:00+08:00",
+   "article_count": 67,
+   "first_seen": "2026-08-13T07:48:01+08:00",
    "last_updated": "2026-08-15T19:35:00+08:00",
    "tags": [
     "氣象署",
-    "雷雨",
+    "縣市雷雨",
     "生活"
    ],
    "articles": [
@@ -4089,12 +4272,12 @@
      }
     },
     {
-     "title": "快訊》1縣市雷雨強襲！氣象署急示警嚴防積淹災情 | 生活",
+     "title": "快訊》1縣市雷雨強襲！氣象署急示警嚴防積淹災情| 生活",
      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RVW1kd1RkcDVnQktUejUtVzRMVWVlR1hlRVUzdnVsRXhCUS02UjBmOEs5ZmU3VnBMOTB0eWd1cThSVVhZQmw0Um45aTFUNHM4Mmx3WDA4STM4U1U?oc=5",
      "source": "newtalk",
      "source_name": "新頭殼",
      "published": "2026-08-15T16:24:01+08:00",
-     "description": "快訊》1縣市雷雨強襲！氣象署急示警嚴防積淹災情 | 生活  Newtalk新聞",
+     "description": "快訊》1縣市雷雨強襲！氣象署急示警嚴防積淹災情| 生活  Newtalk新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -4640,216 +4823,6 @@
    ]
   },
   {
-   "id": "47e1cffa96fa",
-   "title": "藍：全力支持國防無人機產業　634億預算全數通過",
-   "outlet_count": 6,
-   "outlets": [
-    "chinatimes",
-    "cna",
-    "ettoday",
-    "ltn",
-    "nownews",
-    "storm"
-   ],
-   "article_count": 14,
-   "first_seen": "2026-08-14T10:32:53+08:00",
-   "last_updated": "2026-08-15T13:14:47+08:00",
-   "tags": [
-    "無人機",
-    "預算"
-   ],
-   "claims": [
-    {
-     "type": "金額",
-     "agree": true,
-     "outlet_count": 3,
-     "values": [
-      {
-       "value": "634億元",
-       "outlets": [
-        "中時新聞網",
-        "今日新聞",
-        "風傳媒"
-       ]
-      }
-     ]
-    }
-   ],
-   "articles": [
-    {
-     "title": "賴瑞隆質疑財劃法、無人機預算立場　柯志恩澄清",
-     "link": "https://www.cna.com.tw/news/aloc/202608150084.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-08-15T13:14:47+08:00",
-     "description": "（中央社記者林巧璉高雄15日電）民主進步黨高雄市長參選人賴瑞隆今天質疑競選對手、中國國民黨籍立法委員柯志恩在財政收支劃分法、無人機預算等政策立場；柯志恩說，賴瑞隆一再以政治攻防操作議題。",
-     "author": "林巧璉",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "林巧璉",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/local"
-     }
-    },
-    {
-     "title": "藍擋2100億軍用無人機 葉耀元轟：不阻共軍就是賣台",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5540595",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-15T12:03:13+08:00",
-     "description": "立法院院會昨處理今年中央政府總預算案，而在朝野會商前，國民黨團上午10點多突宣布將放行634億元無人機年度預算，強調「全力支持無人機產業與國防自主」，期望能夠打造第2座世界級的護...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "無人機634億預算「一毛未刪」仍挨轟　賴士葆怒轟民進黨：心眼壞",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBha2xMbTZuUC0zWE5LNTc3MDlUaUNwcWhRdHVCb3dnVXEwYlZXQV9TQkY5dVQ5Qk16a21uV2JvN0VQc2Y5YTlJZGd4SWRtdHExM0HSAVJBVV95cUxQYWtsTG02blAtM1hOSzU3NzA5VGlDcHFoUXR1Qm93Z1VxMGJWV0FfU0JGOXVUOUJNemttbldibzdFUHNmOWE5SWRneElkbXRxMTNB?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-08-15T10:41:56+08:00",
-     "description": "無人機634億預算「一毛未刪」仍挨轟　賴士葆怒轟民進黨：心眼壞  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "軍用無人機2100億預算仍卡關 賴瑞隆批：只有北京跟國民黨反對",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5540581",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-15T10:20:16+08:00",
-     "description": "立法院昨（14）日針對今年度總預算案進行表決，國民黨團針對無人機相關634億預算億全數通過；民進黨高雄市長參選人、立委賴瑞隆今（15）日受訪指出，放行的是商用、民用無人機，更關...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "賴瑞隆曝藍迫壓力通過總預算　開轟柯志恩：甩鍋",
-     "link": "https://www.ettoday.net/news/20260815/3219598.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-08-15T09:43:00+08:00",
-     "description": "立法院總預算案經過漫長審議終告落幕，但過程中引發的爭議仍持續延燒。民進黨高雄市長參選人、立委賴瑞隆今（15）日針對總預算審查及《財政收支劃分法》（財劃法）修法等議題出面強烈質疑國民黨市長參選人、立委柯志恩，批評其立場一再重複「說一套做一套」，不僅在違法凍結行政院長薪資案中倒戈投下贊成票，更在軍用無人機預算及財劃法等攸關國家安全與高雄地方權益的重大法案上背離民意，承諾將對此「追查到底」。 《詳全文.",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "盧秀燕搶先發布！634億無人機預算三讀   周永鴻質疑「擋預算變政績」",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5540391",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-14T21:58:46+08:00",
-     "description": "無人機等共634億相關預算，今天大轉彎立院全數通過，台中市長盧秀燕在通過前搶先發布相訊息，黨團總召周永鴻質疑，「撤回原本刪凍主張」，竟包裝成自己的政績，「昨天擋預算、今...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "柯志恩稱力挺634億無人機預算過關  賴瑞隆：放火的人假裝救火",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5540388",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-14T21:47:09+08:00",
-     "description": "634億元無人機預算過關，國民黨高雄市長參選人柯志恩強調她始終力挺無人機、謠言不攻自破；民進黨高雄市長參選人賴瑞隆嗆柯與藍營遭輿論撻伐後才撤回提案，如今又高調邀功，儼然「放火的...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "立院通過無人機預算 經部拚2030年產值破400億",
-     "link": "https://ec.ltn.com.tw/article/breakingnews/5540309",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-14T20:11:58+08:00",
-     "description": "立法院今（14）日審議通過115年度中央政府總預算案中無人機相關預算。經濟部樂見立法院支持本案，使無人機產業相關工作得以持續推動，為國內業者投入技術研發、量產製造、檢測驗...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "無人機634億預算全過！柯志恩：不讓無人機變民進黨選舉造謠工具 | 黃振剛 | 新聞",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE56SGg5cmNGel9jc1RlTXZZZ1dZNWJEQldCaHZlNG9jdEo5OU1BODVKV3BxQkEzTXdEbGhkaTVHcGFlYVBmUGg5dkFqUmd6UQ?oc=5",
-     "source": "storm",
-     "source_name": "風傳媒",
-     "published": "2026-08-14T18:38:18+08:00",
-     "description": "無人機634億預算全過！柯志恩：不讓無人機變民進黨選舉造謠工具 | 黃振剛 | 新聞  風傳媒",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "放行634億無人機預算遭綠疑「煙霧彈」  賴士葆反批小心眼",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5540000",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-14T16:33:06+08:00",
-     "description": "立法院國民黨團今（14日）宣布放行634億元無人機年度預算，不過民進黨質疑，此舉恐只是「煙霧彈」，仍可能為後續阻擋行政院提出的2100億元「無人載具採購特別條例」鋪路。對此，藍...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    }
-   ]
-  },
-  {
    "id": "95cdc04593de",
    "title": "關鍵字 陳幸妤離婚",
    "outlet_count": 6,
@@ -5101,7 +5074,7 @@
      "source": "udn",
      "source_name": "聯合新聞網",
      "published": "2026-08-14T14:49:16+08:00",
-     "description": "誰挾持台灣民主？英國《經濟學人》專文批評的「自私政客」風波  global.udn.com",
+     "description": "誰挾持台灣民主？英國《經濟學人》專文批評的「自私政客」風波  轉角國際udn Global",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -5234,132 +5207,6 @@
    ]
   },
   {
-   "id": "5a52c2b57b11",
-   "title": "彭文正控蔡英文偽造文書案　最高法院駁回確定",
-   "outlet_count": 6,
-   "outlets": [
-    "cna",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "newtalk",
-    "udn"
-   ],
-   "article_count": 6,
-   "first_seen": "2026-08-14T11:10:48+08:00",
-   "last_updated": "2026-08-14T15:03:53+08:00",
-   "tags": [
-    "偽造文書",
-    "最高法院駁回",
-    "彭文正"
-   ],
-   "articles": [
-    {
-     "title": "論文案一路告到最高院仍敗！彭文正控蔡英文偽造文書遭駁回確定| 政治",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aMWFvRnpXNlJYRXdtUGZaaXFHNGNMaU9wN2I1VHZkOHhROWxkeGRGajF6VFJJNjY5QzIwVE9wWkdhMUxNSDd1R05rM2ctVVBNYkpJNC1CMThITGM?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-08-14T15:03:53+08:00",
-     "description": "論文案一路告到最高院仍敗！彭文正控蔡英文偽造文書遭駁回確定| 政治  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "彭文正上訴再敗！蔡英文偽造文書案遭最高法院駁回　全案「不受理」確定",
-     "link": "https://www.mirrormedia.mg/story/20260814edi052",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-08-14T12:35:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "彭文正自訴控蔡英文論文涉偽造文書 最高法院判不受理確定",
-     "link": "https://ent.ltn.com.tw/news/breakingnews/5539576",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-14T12:17:15+08:00",
-     "description": "名嘴彭文正質疑前總統蔡英文的英國倫敦政經學院法學博士學位造假，提刑事自訴控告蔡英文涉犯偽造文書罪，法院歷審皆判自訴不受理；彭上訴，最高法院仍認定彭不是該論文撰寫者、名義人或其他...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "彭文正控蔡英文偽造文書案　最高法院駁回確定",
-     "link": "https://www.cna.com.tw/news/asoc/202608140078.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-08-14T11:40:56+08:00",
-     "description": "（中央社記者林長順台北14日電）媒體人彭文正指控前總統蔡英文將倫敦政經學院的博士論文送交國家圖書館，存入「台灣博碩士論文知識加值系統」，涉及偽造文書罪，一、二審判決不受理，最高法院駁回上訴確定。",
-     "author": "林長順",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "林長順",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/social"
-     }
-    },
-    {
-     "title": "控蔡英文論文造假！彭文正自訴偽造文書　最高法院駁回確定",
-     "link": "https://www.ettoday.net/news/20260814/3219030.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-08-14T11:22:00+08:00",
-     "description": "遭通緝的政論節目主持人彭文正，對前總統蔡英文的博士論文提出確認之訴，敗訴確定。他也提出自訴，控告蔡英文涉嫌偽造文書。但一二審法院均認定他不具備該案的直接被害人資格，判決「自訴不受理」。他不死心，上訴第三審，最高法院14日駁回彭文正的上訴確定。\n 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "質疑博士論文造假…彭文正自訴蔡英文「偽造文書」 法院判不受理確定",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1LSk1WWXFrb2xVYk5WaGJlVUxVZWhoR3Z2d1U0Q19LU3pvZUZQMUFMUGx0bjAwZ3UwSWVETXBYNG5pcGRDUEZteGFyUFhXek5w0gFWQVVfeXFMT2E2TER1ZW84WFdROGZWTF9SLVVEUW14UWtFRElaeUFTZXJGYmFXZnFOZmlwcjE0Vmo2eExpWGR1Y0g2bHhvcHZNWHZvSU5BUmUtVHR1ZGc?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-08-14T11:10:48+08:00",
-     "description": "質疑博士論文造假…彭文正自訴蔡英文「偽造文書」 法院判不受理確定  UDN",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
    "id": "4ac16079e7d8",
    "title": "結束旅外生涯返台加盟戰神 林庭謙：目標就是總冠軍",
    "outlet_count": 6,
@@ -5432,12 +5279,12 @@
      }
     },
     {
-     "title": "TPBL／戰神贈林庭謙加盟紀念禮 藏父子奪牌回憶！",
-     "link": "https://news.ebc.net.tw/news/sport/566128",
+     "title": "TPBL／「希望他有在看！」林庭謙深信爸爸仍在觀眾席",
+     "link": "https://news.ebc.net.tw/news/sport/566127",
      "source": "ebc",
      "source_name": "東森新聞",
      "published": "2026-08-13T18:40:56.140774+08:00",
-     "description": "臺北台新戰神今舉行林庭謙加盟記者會，為紀念這個重要時刻，球團將他與父親共同走過的籃球記憶、一路以來的信念，以及對初心的堅持，轉化為看得見、也能被珍藏的設計。",
+     "description": "臺北台新戰神今舉行林庭謙加盟記者會，林庭謙穿著爸爸帶領能仁家商拿下首座HBL冠軍的西裝亮相。記者會上由臺北戰神領隊尚瑞強親自致贈戰神球衣，歡迎林庭謙成為戰神一員",
      "category": "sport",
      "metadata": {
       "schema_version": 1,
@@ -5451,12 +5298,12 @@
      }
     },
     {
-     "title": "TPBL／「希望他有在看！」林庭謙深信爸爸仍在觀眾席",
-     "link": "https://news.ebc.net.tw/news/sport/566127",
+     "title": "TPBL／戰神贈林庭謙加盟紀念禮 藏父子奪牌回憶！",
+     "link": "https://news.ebc.net.tw/news/sport/566128",
      "source": "ebc",
      "source_name": "東森新聞",
      "published": "2026-08-13T18:40:56.140774+08:00",
-     "description": "臺北台新戰神今舉行林庭謙加盟記者會，林庭謙穿著爸爸帶領能仁家商拿下首座HBL冠軍的西裝亮相。記者會上由臺北戰神領隊尚瑞強親自致贈戰神球衣，歡迎林庭謙成為戰神一員",
+     "description": "臺北台新戰神今舉行林庭謙加盟記者會，為紀念這個重要時刻，球團將他與父親共同走過的籃球記憶、一路以來的信念，以及對初心的堅持，轉化為看得見、也能被珍藏的設計。",
      "category": "sport",
      "metadata": {
       "schema_version": 1,
@@ -5537,6 +5384,196 @@
       "acquisition": "scraper",
       "category": "sport",
       "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    }
+   ]
+  },
+  {
+   "id": "71d33e09ed0c",
+   "title": "姜玟玥 娛樂關鍵字",
+   "outlet_count": 5,
+   "outlets": [
+    "ettoday",
+    "ltn",
+    "mirror",
+    "nownews",
+    "setn"
+   ],
+   "article_count": 143,
+   "first_seen": "2026-08-13T07:57:35+08:00",
+   "last_updated": "2026-08-16T03:00:00+08:00",
+   "tags": [
+    "娛樂關鍵字"
+   ],
+   "articles": [
+    {
+     "title": "《TAIPEI TIMES》 Scam targeted Taiwanese abroad, police say",
+     "link": "https://news.ltn.com.tw/news/focus/breakingnews/5541266",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-16T03:00:00+08:00",
+     "description": "By Liu Ching-hou and Esme Yeh / Staff reporters\n\nA Taiwan-based scam ring allegedly funneled more ...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "《TAIPEI TIMES》 Cabinet to restore NT$1.25tn proposal",
+     "link": "https://news.ltn.com.tw/news/focus/breakingnews/5541262",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-16T03:00:00+08:00",
+     "description": "FULL AMOUNT? With NT$780bn approved by the legislature and NT$210bn slated to fund drones, NT$260bn ...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "《TAIPEI TIMES》 Taiwan could host more clinical trials",
+     "link": "https://news.ltn.com.tw/news/focus/breakingnews/5541269",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-16T03:00:00+08:00",
+     "description": "IDEAL RESOURCES: Taiwan’s tech and healthcare could be ideal for hosting clinical trials as the cell...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "《TAIPEI TIMES》 Next-gen HSR train arrives",
+     "link": "https://news.ltn.com.tw/news/focus/breakingnews/5541270",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-16T03:00:00+08:00",
+     "description": "By Wu Liang-yi and Jonathan Chin / Staff reporter, with staff writer\n\nTaiwan High Speed Rail Corp ...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "《TAIPEI TIMES》 Missile production passes key test: source",
+     "link": "https://news.ltn.com.tw/news/focus/breakingnews/5541263",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-16T03:00:00+08:00",
+     "description": "MANUFACTURING RACE: An official said that the NCSIST, which had optimized its assembly lines, overca...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "《TAIPEI TIMES》 KMT defends cuts, while DPP calls them irrational",
+     "link": "https://news.ltn.com.tw/news/focus/breakingnews/5541267",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-16T03:00:00+08:00",
+     "description": "WORRIES:The cuts raise questions about whether the government can maintain basic operations and quic...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "星彤（Arissa） 娛樂關鍵字",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9URnFsRS1BM084SGxMVmlBQjJFSllFbnNMSF9rSlZxYmpYamdBeXNUQjBfcGRyenlkRnY2Q0lSMF9pbkZ4ZlFDaw?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-08-16T01:30:35+08:00",
+     "description": "星彤（Arissa） 娛樂關鍵字  star.setn.com",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "彩演 娛樂關鍵字",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBHWUIyd3RGWU9saXgzUkVOUDhXSDdaNUk0ejhveTFUM3NQNzlNSGYzZWxaXzlmTGtVd2VGTVBjQVVYYWgxVW1odg?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-08-15T22:43:11+08:00",
+     "description": "彩演 娛樂關鍵字  star.setn.com",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "Vishal Garg 關鍵字",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02aUlvVzdjcDRka0NCczQ2QkR3UW53WGdOMHpSdjZGcVcwMEJJUzZHeEQtOVdyakc0QTFXbzh5Yi1saTdCSGZKOUxqTW1uSUVRbVBPelVB?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-08-15T18:55:22+08:00",
+     "description": "Vishal Garg 關鍵字  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "Vishal Garg 關鍵字",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01Ym1zcUFFbGxfVmpqLXAxN0stREdrODFNazRGblU2WnVMM1lvRVZOdHVuaVA1UC1uM1Y2UUZ1enNkR1N6VEtycHZsUUoybU1jQXhv?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-08-15T18:52:39+08:00",
+     "description": "Vishal Garg 關鍵字  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -6368,7 +6405,7 @@
    ]
   },
   {
-   "id": "cac6b119c8e3",
+   "id": "c5bffb9a93f7",
    "title": "12強及奧運資格賽在台舉辦 商圈協會估大巨蛋人潮增6成",
    "outlet_count": 5,
    "outlets": [
@@ -6507,7 +6544,7 @@
     },
     {
      "title": "台灣主場優勢！台北確定舉辦2027年12強、2028年洛杉磯奧運資格賽",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wNnFObFFPcEZXNk9aaC1mczlDemRWRlc2Q1dqUWdIcmpORjE0WTc1NktBZkxHdzE0QmdIVjF3VmtPeVdLSjZ2Y0haYXXSAVJBVV95cUxPZ252cUI2dEJmSVdUX1BoZ2dfa1JmZm40Y3V0Slhpd21TNXRDdHAyVVBMUGQzVURPVW92bWhfUGRIY3BYd1RWSWJSSEZKamRndWhB?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nbnZxQjZ0QmZJV1RfUGhnZ19rUmZmbjRjdXRKWGl3bVM1dEN0cDJVUExQZDNVRE9Vb3ZtaF9QZEhjcFh3VFZJYlJIRkpqZGd1aEHSAVJBVV95cUxPZ252cUI2dEJmSVdUX1BoZ2dfa1JmZm40Y3V0Slhpd21TNXRDdHAyVVBMUGQzVURPVW92bWhfUGRIY3BYd1RWSWJSSEZKamRndWhB?oc=5",
      "source": "nownews",
      "source_name": "今日新聞",
      "published": "2026-08-13T16:17:23+08:00",
@@ -6524,7 +6561,7 @@
     },
     {
      "title": "台灣主場優勢！台北確定舉辦2027年12強、2028年洛杉磯奧運資格賽",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nbnZxQjZ0QmZJV1RfUGhnZ19rUmZmbjRjdXRKWGl3bVM1dEN0cDJVUExQZDNVRE9Vb3ZtaF9QZEhjcFh3VFZJYlJIRkpqZGd1aEHSAVJBVV95cUxPZ252cUI2dEJmSVdUX1BoZ2dfa1JmZm40Y3V0Slhpd21TNXRDdHAyVVBMUGQzVURPVW92bWhfUGRIY3BYd1RWSWJSSEZKamRndWhB?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wNnFObFFPcEZXNk9aaC1mczlDemRWRlc2Q1dqUWdIcmpORjE0WTc1NktBZkxHdzE0QmdIVjF3VmtPeVdLSjZ2Y0haYXXSAVJBVV95cUxPZ252cUI2dEJmSVdUX1BoZ2dfa1JmZm40Y3V0Slhpd21TNXRDdHAyVVBMUGQzVURPVW92bWhfUGRIY3BYd1RWSWJSSEZKamRndWhB?oc=5",
      "source": "nownews",
      "source_name": "今日新聞",
      "published": "2026-08-13T16:17:23+08:00",
@@ -6789,7 +6826,7 @@
    "first_seen": "2026-08-14T17:55:00+08:00",
    "last_updated": "2026-08-14T22:38:34.990954+08:00",
    "tags": [
-    "文化部媒宣費",
+    "砍光文化部媒",
     "公視預算",
     "藍白"
    ],
@@ -7284,6 +7321,111 @@
    ]
   },
   {
+   "id": "af1a295247cf",
+   "title": "7.65億蓋高雄三民運動中心…跑步機僅4台、廁所飄臭味 議員怒：錢花哪去？",
+   "outlet_count": 4,
+   "outlets": [
+    "ltn",
+    "nownews",
+    "storm",
+    "udn"
+   ],
+   "article_count": 4,
+   "first_seen": "2026-08-15T16:54:22+08:00",
+   "last_updated": "2026-08-16T00:03:56+08:00",
+   "tags": [
+    "三民運動中心",
+    "免費體驗延長",
+    "健身房"
+   ],
+   "claims": [
+    {
+     "type": "金額",
+     "agree": true,
+     "outlet_count": 2,
+     "values": [
+      {
+       "value": "7.65億元",
+       "outlets": [
+        "聯合新聞網",
+        "自由時報"
+       ]
+      }
+     ]
+    }
+   ],
+   "articles": [
+    {
+     "title": "高雄三民運動中心健身房擴大優惠免費體驗延長至9月15日",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KRjItY0gyRnRjZFlmY1pGRlAtQmlTcjZiMlpycllFM3ozZmMxeHA2Tm5NRUdGeDJraklCd2R2M1dySTg1NXM5T01yaGdXS2ZISGfSAVJBVV95cUxNSkYyLWNIMkZ0Y2RZZmNaRkZQLUJpU3I2YjJacnJZRTN6M2ZjMXhwNk5uTUVHRngya2pJQndkdjNXckk4NTVzOU9NcmhnV0tmSEhn?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-08-16T00:03:56+08:00",
+     "description": "高雄三民運動中心健身房擴大優惠免費體驗延長至9月15日  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "三民運動中心擴大健身設備 免費體驗延長至9月15日 | 徐炳文 | 地方新聞",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9PdGJZSDBrWXlFSkh1dnJnSzVtN0szdlVTUG4wbE9XZVFWS0pFZHRuRXlMeFBpcmRiWEJmSkxFVjRQSkdTeUpBQ0FHOWRsQQ?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-08-15T23:05:07+08:00",
+     "description": "三民運動中心擴大健身設備 免費體驗延長至9月15日 | 徐炳文 | 地方新聞  風傳媒",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "高雄三民運動中心挨批「掉漆」 健身房免費體驗延長到9/15",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5541261",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-15T22:56:37+08:00",
+     "description": "花費7.65億元建造的高雄市三民運動中心8月1日甫開幕，泳池水質混濁、身房跑步機僅4台等問題連環爆，挨批「掉漆」。高雄市運動發展局說，經調整和改善，除了泳池水質檢測正常，營運團...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "7.65億蓋高雄三民運動中心…跑步機僅4台、廁所飄臭味 議員怒：錢花哪去？",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBKRDZmWkZwV1hkOWJwbWNKZGZCWGRLZDVTOW9LaDBqc3dDdDI5REJIY3VCQzBDRERTN182ZDYtTGRnSjRWcFpWV203RzRnTW440gFWQVVfeXFMUE1ZQ3ZkRDlEeWRreFV5ckRqM0JNVFJOSjhmYUQ4dENCVmxqeVRLQ2dFTlQ4Nnp5eHpMTVY3NHFqNkJCWEEzaUJ4SndxNFlyOHVYalY2SWc?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-08-15T16:54:22+08:00",
+     "description": "7.65億蓋高雄三民運動中心…跑步機僅4台、廁所飄臭味 議員怒：錢花哪去？  UDN",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
    "id": "cde32bbca907",
    "title": "民主剛果伊波拉疫情升溫　聯合國：每30分鐘奪1命",
    "outlet_count": 4,
@@ -7586,8 +7728,8 @@
    "first_seen": "2026-08-15T17:03:00+08:00",
    "last_updated": "2026-08-15T18:28:43.364992+08:00",
    "tags": [
-    "柴油價格維持",
-    "下週汽",
+    "油價格維持不",
+    "下週汽柴油",
     "中油宣布"
    ],
    "articles": [
@@ -7686,7 +7828,7 @@
      "source": "tvbs",
      "source_name": "TVBS",
      "published": "2026-08-15T13:51:00+08:00",
-     "description": "台新新光金前7月狂賺527.8億「EPS創新高」 網狂喊太委屈：噴到60沒問題  news.tvbs.com.tw",
+     "description": "台新新光金前7月狂賺527.8億「EPS創新高」 網狂喊太委屈：噴到60沒問題  TVBS新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -8065,7 +8207,7 @@
    "last_updated": "2026-08-14T14:48:25.846487+08:00",
    "tags": [
     "警頭部中彈",
-    "市中山分局交",
+    "中山分局交通",
     "車牌吊銷案"
    ],
    "articles": [
@@ -8145,7 +8287,7 @@
      "source": "tvbs",
      "source_name": "TVBS",
      "published": "2026-08-14T07:45:00+08:00",
-     "description": "快訊／北市中山分局交通分隊槍響 「男警頭部中彈」明顯死亡  news.tvbs.com.tw",
+     "description": "快訊／北市中山分局交通分隊槍響 「男警頭部中彈」明顯死亡  TVBS新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -8508,9 +8650,9 @@
    "first_seen": "2026-08-13T21:46:00+08:00",
    "last_updated": "2026-08-14T08:41:05.370162+08:00",
    "tags": [
-    "本狂發最高警",
+    "狂發最高警報",
     "千葉恐怖暴雨",
-    "警報"
+    "前所未"
    ],
    "articles": [
     {
@@ -8620,7 +8762,7 @@
    "tags": [
     "通勤列車出軌",
     "肇因待釐清",
-    "國載逾百人通"
+    "英國載逾百人"
    ],
    "claims": [
     {
@@ -8876,7 +9018,7 @@
    "tags": [
     "前董座",
     "基屋管",
-    "侵占"
+    "前妻"
    ],
    "claims": [
     {
@@ -8973,6 +9115,77 @@
    ]
   },
   {
+   "id": "ab9564225524",
+   "title": "鞭刑公投52比51驚險過關 民眾黨8票未表態 藍委現場高喊：台灣有正義 | 蕭宥宸 | 新聞",
+   "outlet_count": 3,
+   "outlets": [
+    "ettoday",
+    "mirror",
+    "storm"
+   ],
+   "article_count": 3,
+   "first_seen": "2026-08-14T14:49:29+08:00",
+   "last_updated": "2026-08-16T02:06:00+08:00",
+   "tags": [
+    "鞭刑公投",
+    "嚇阻犯罪",
+    "廢死聯盟"
+   ],
+   "articles": [
+    {
+     "title": "「鞭刑公投」提案通過！　廢死聯盟反對：無法嚇阻犯罪",
+     "link": "https://www.ettoday.net/news/20260816/3219908.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-08-16T02:06:00+08:00",
+     "description": "立法院於14日通過性侵害、虐童及高額詐欺等罪增設「鞭刑」的公投案。對此，廢死聯盟及民間團體發表聯合聲明，強調司法鞭刑違憲且違反禁止酷刑的國際人權義務，同時欠缺犯罪嚇阻的可靠實證。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "鞭刑公投52：51驚險闖關！　廢死聯盟強烈反對：無法證明能嚇阻犯罪",
+     "link": "https://www.mirrormedia.mg/story/20260815edi011",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-08-15T11:43:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "鞭刑公投52比51驚險過關 民眾黨8票未表態 藍委現場高喊：台灣有正義 | 蕭宥宸 | 新聞",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ud29wXzQyR0dkZmxJMDA0Y19LYTBpSjNyVEFMdk1PcTJXdzJYdFhteHctZnVJMVVCYTNlQ0MxekdBNWFfaXlWeUNqVlNKUQ?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-08-14T14:49:29+08:00",
+     "description": "鞭刑公投52比51驚險過關 民眾黨8票未表態 藍委現場高喊：台灣有正義 | 蕭宥宸 | 新聞  風傳媒",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
    "id": "f53a8281bc28",
    "title": "阿蘇中岳火山活動加劇 管制調升第三級限制入山",
    "outlet_count": 3,
@@ -8985,7 +9198,7 @@
    "first_seen": "2026-08-14T17:52:00+08:00",
    "last_updated": "2026-08-16T00:29:08.456551+08:00",
    "tags": [
-    "火山活動加劇",
+    "中岳火山活動",
     "阿蘇",
     "熊本"
    ],
@@ -9132,93 +9345,6 @@
    ]
   },
   {
-   "id": "af1a295247cf",
-   "title": "7.65億蓋高雄三民運動中心…跑步機僅4台、廁所飄臭味 議員怒：錢花哪去？",
-   "outlet_count": 3,
-   "outlets": [
-    "ltn",
-    "storm",
-    "udn"
-   ],
-   "article_count": 3,
-   "first_seen": "2026-08-15T16:54:22+08:00",
-   "last_updated": "2026-08-15T23:05:07+08:00",
-   "tags": [
-    "三民運動中心",
-    "免費體驗延長",
-    "健身"
-   ],
-   "claims": [
-    {
-     "type": "金額",
-     "agree": true,
-     "outlet_count": 2,
-     "values": [
-      {
-       "value": "7.65億元",
-       "outlets": [
-        "聯合新聞網",
-        "自由時報"
-       ]
-      }
-     ]
-    }
-   ],
-   "articles": [
-    {
-     "title": "三民運動中心擴大健身設備 免費體驗延長至9月15日 | 徐炳文 | 地方新聞",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9PdGJZSDBrWXlFSkh1dnJnSzVtN0szdlVTUG4wbE9XZVFWS0pFZHRuRXlMeFBpcmRiWEJmSkxFVjRQSkdTeUpBQ0FHOWRsQQ?oc=5",
-     "source": "storm",
-     "source_name": "風傳媒",
-     "published": "2026-08-15T23:05:07+08:00",
-     "description": "三民運動中心擴大健身設備 免費體驗延長至9月15日 | 徐炳文 | 地方新聞  風傳媒",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "高雄三民運動中心挨批「掉漆」 健身房免費體驗延長到9/15",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5541261",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-15T22:56:37+08:00",
-     "description": "花費7.65億元建造的高雄市三民運動中心8月1日甫開幕，泳池水質混濁、身房跑步機僅4台等問題連環爆，挨批「掉漆」。高雄市運動發展局說，經調整和改善，除了泳池水質檢測正常，營運團...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "7.65億蓋高雄三民運動中心…跑步機僅4台、廁所飄臭味 議員怒：錢花哪去？",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBKRDZmWkZwV1hkOWJwbWNKZGZCWGRLZDVTOW9LaDBqc3dDdDI5REJIY3VCQzBDRERTN182ZDYtTGRnSjRWcFpWV203RzRnTW440gFWQVVfeXFMUE1ZQ3ZkRDlEeWRreFV5ckRqM0JNVFJOSjhmYUQ4dENCVmxqeVRLQ2dFTlQ4Nnp5eHpMTVY3NHFqNkJCWEEzaUJ4SndxNFlyOHVYalY2SWc?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-08-15T16:54:22+08:00",
-     "description": "7.65億蓋高雄三民運動中心…跑步機僅4台、廁所飄臭味 議員怒：錢花哪去？  UDN",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
    "id": "6e64e53a56a9",
    "title": "日職埼玉西武獅主場辦台南觀光日　黃偉哲現身開球",
    "outlet_count": 3,
@@ -9348,7 +9474,7 @@
      "source": "setn",
      "source_name": "三立新聞網",
      "published": "2026-08-15T09:35:00+08:00",
-     "description": "宜蘭輔選吳宗憲「大遲到近1小時」　蔣萬安：抱歉！沒想到週六這麼塞  三立新聞網SETN.com",
+     "description": "宜蘭輔選吳宗憲「大遲到近1小時」　蔣萬安：抱歉！沒想到週六這麼塞  setn.com",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -9357,95 +9483,6 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
-   "id": "415125370803",
-   "title": "19:30發生地震！雙北感受搖晃",
-   "outlet_count": 3,
-   "outlets": [
-    "ebc",
-    "ettoday",
-    "nownews"
-   ],
-   "article_count": 3,
-   "first_seen": "2026-08-15T19:30:00+08:00",
-   "last_updated": "2026-08-15T20:30:26.421887+08:00",
-   "tags": [
-    "有感地震",
-    "東部海域",
-    "發生"
-   ],
-   "claims": [
-    {
-     "type": "最大震度",
-     "agree": true,
-     "outlet_count": 2,
-     "values": [
-      {
-       "value": "3",
-       "outlets": [
-        "今日新聞",
-        "東森新聞"
-       ]
-      }
-     ]
-    }
-   ],
-   "articles": [
-    {
-     "title": "地震速報！ 08/15 19:30左右   東部海域發生有感地震",
-     "link": "https://news.ebc.net.tw/news/living/566441",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-08-15T20:30:26.421887+08:00",
-     "description": "中央氣象署發布， 08/15 19:30左右 ， 東部海域發生有感地震 。預估震度 3 級以上地區： 宜蘭",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "地震速報／19:30東部海域有感地震！宜蘭震度3級以上",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41bjI3SmFYQWZzamRPS0NfNWJwN1BtVTBpVzZnTzZKRUxEOGM1M3NrMUt2UnVzYjRvYk0wbHVIV2xZOWJsVVRPWllQbU5IWTVncUHSAVJBVV95cUxONW4yN0phWEFmc2pkT0tDXzVicDdQbVUwaVc2Z082SkVMRDhjNTNzazFLdlJ1c2I0b2JNMGx1SFdsWTlibFVUT1pZUG1OSFk1Z3FB?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-08-15T19:32:56+08:00",
-     "description": "地震速報／19:30東部海域有感地震！宜蘭震度3級以上  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "19:30發生地震！雙北感受搖晃",
-     "link": "https://www.ettoday.net/news/20260815/3219846.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-08-15T19:30:00+08:00",
-     "description": "有地震發生！今（15日）晚上7時30分左右台灣發生有感地震，台北市區明顯出現搖晃。\n                《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
      }
     }
    ]
