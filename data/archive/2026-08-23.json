@@ -1,7 +1,252 @@
 {
  "date": "2026-08-23",
- "generated_at": "2026-08-23T02:30:02.332740+08:00",
+ "generated_at": "2026-08-23T04:28:56.644159+08:00",
  "events": [
+  {
+   "id": "f9f1cf9fd69b",
+   "title": "台南安南區空地廢棄物起火爆炸　延燒8戶波及20車、13人送醫",
+   "outlet_count": 12,
+   "outlets": [
+    "chinatimes",
+    "cna",
+    "ebc",
+    "ettoday",
+    "ltn",
+    "mirror",
+    "newtalk",
+    "nownews",
+    "pts",
+    "storm",
+    "tvbs",
+    "udn"
+   ],
+   "article_count": 55,
+   "first_seen": "2026-08-22T05:30:00+08:00",
+   "last_updated": "2026-08-23T00:29:17.745192+08:00",
+   "tags": [
+    "爆炸",
+    "台南"
+   ],
+   "claims": [
+    {
+     "type": "受傷人數",
+     "agree": false,
+     "outlet_count": 6,
+     "values": [
+      {
+       "value": "13",
+       "outlets": [
+        "公視新聞",
+        "聯合新聞網"
+       ]
+      },
+      {
+       "value": "14",
+       "outlets": [
+        "自由時報",
+        "鏡週刊"
+       ]
+      },
+      {
+       "value": "15",
+       "outlets": [
+        "中央社",
+        "風傳媒"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "金額",
+     "agree": true,
+     "outlet_count": 2,
+     "values": [
+      {
+       "value": "2萬元",
+       "outlets": [
+        "TVBS",
+        "公視新聞"
+       ]
+      }
+     ]
+    }
+   ],
+   "articles": [
+    {
+     "title": "追偷埋鎂土禍首！無照廢五金業者疑潛逃國外",
+     "link": "https://news.ebc.net.tw/news/society/567650",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-08-23T00:29:17.745192+08:00",
+     "description": "台南安南區停車場遭違法埋放鎂土，追查發現由曾住附近的冷氣安裝男子埋放，委託方疑為高雄友誠洋行。環保局指出王姓負責人疑似潛逃國外，將追究刑責並移送法辦。",
+     "category": "society",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "society",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "網傳「建商堆廢棄物」害台南爆炸！建商緊急澄清：與我們無關",
+     "link": "https://www.ettoday.net/news/20260822/3224004.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-08-22T23:15:00+08:00",
+     "description": "台南市安南區海佃路二段22日凌晨發生重大火警爆炸事故，延燒11戶民宅並造成13人受傷。由於事故地點鄰近建案，網路隨後傳出現場堆置廢棄物為建商所有的謠言。對此，建商力弘建設發表聲明鄭重澄清，事故現場堆置物與該公司完全無關，呼籲外界勿以訛傳訛散播不實訊息，並強調將配合主管機關調查釐清責任。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "台南爆炸案毀8屋釀15傷 負責人是通緝犯、6月底就離境跑路 | 蕭宥宸 | 新聞",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nY0lDVVEwU0FENDYxZk03M1VmUHlvYTRBcmNSeXlnZHZ3RV9WWnhLSFhLVDJNOC1qM2hlNlBrdzBocUJqTFZ1ZkRWNU5FUQ?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-08-22T22:57:07+08:00",
+     "description": "台南爆炸案毀8屋釀15傷 負責人是通緝犯、6月底就離境跑路 | 蕭宥宸 | 新聞  風傳媒",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "台南重大火警爆炸案 黃偉哲返台坐鎮、拚災後復原",
+     "link": "https://news.ltn.com.tw/news/society/breakingnews/5549020",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-22T22:38:40+08:00",
+     "description": "台南市安南區今晨發生重大火警，市長黃偉哲更改原訂新加坡行程返台，晚間隨即前往災害指揮所聽取簡報，並赴災區及安置場所慰問受災居民，了解房屋受損、生活安置及家園復原情形，要求市府全...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "台南安南區爆炸驚魂！ 後備軍人暖心救援",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5548966",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-22T21:39:53+08:00",
+     "description": "台南安南區​今天凌晨發生鎂土爆炸案，猛烈火勢波及周邊近70戶民宅，台南後備軍人輔導中心幹部迅速抵達災區，與國軍弟兄一起攜手協助清理家園，成為災區中最溫暖的力量。\n\n​今天凌晨...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "台南安南區廢棄物起火爆炸釀15傷　黃偉哲急返國慰問",
+     "link": "https://www.cna.com.tw/news/asoc/202608220214.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-08-22T21:22:00+08:00",
+     "description": "（中央社記者張榮祥台南22日電）台南市安南區海佃路空地的廢棄物今天凌晨起火爆炸，延燒11戶，造成15人受傷，市長黃偉哲晚間從新加坡趕返探視慰問，他表示，已啟動刑事偵查，因偵查不公開，無法透露內容。",
+     "author": "張榮祥",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "張榮祥",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/social"
+     }
+    },
+    {
+     "title": "台南爆炸毀68戶！一查業者竟是通緝犯...借址髮廊堆毒廢棄物　驚爆6月早已潛逃出國行蹤不明",
+     "link": "https://www.mirrormedia.mg/story/20260822edi032",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-08-22T19:39:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "台南大爆炸登CNN：「兩次巨大爆炸」火球衝天",
+     "link": "https://www.ettoday.net/news/20260822/3223955.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-08-22T19:37:00+08:00",
+     "description": "台南市安南區海佃路二段342巷今（22）日凌晨發生火警，救災期間現場接連發生兩次巨大爆炸，猛烈火光瞬間衝上夜空，造成多人受傷，也波及周邊民宅及車輛。驚人畫面更引發國際關注。\n\n 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "違法堆含鎂鋁廢棄物致爆炸 台南市府擬發2萬慰問金助求償",
+     "link": "https://news.pts.org.tw/article/823636",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-08-22T19:06:25+08:00",
+     "description": "台南市安南區一處空地，今（22）日凌晨發生火警爆炸，導致消防員在內15個人受傷，68戶民宅被波及，22部車毀損，市府初步調查發現現場違法堆置含鎂鋁的事業廢棄物，將會究責。總統賴清德致電市長黃偉哲表達關心，指示相關部會全力協助。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "台南廢棄物爆炸！五金行負責人是通緝犯　6月出國下落不明",
+     "link": "https://www.ettoday.net/news/20260822/3223944.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-08-22T18:51:00+08:00",
+     "description": "台南市安南區一處空地今(22日)凌晨發生爆炸，造成15人受傷，大火延燒8戶房屋、另有40多戶住戶震碎玻璃及其他損傷。警方查出該公司地址位於高雄鼓山區，不過市府今（22）日前往該址稽查，發現負責人王逸凱於該地點早已無租約，而他也早在6月底出國，目前行蹤不明。\n\n 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    }
+   ]
+  },
   {
    "id": "ee4ab874e4b9",
    "title": "颱風沙德爾路徑不確定性仍大 估下週二抵琉球東方海域",
@@ -205,236 +450,6 @@
    ]
   },
   {
-   "id": "f9f1cf9fd69b",
-   "title": "台南安南區空地廢棄物起火爆炸　延燒8戶波及20車、13人送醫",
-   "outlet_count": 11,
-   "outlets": [
-    "chinatimes",
-    "cna",
-    "ebc",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "newtalk",
-    "nownews",
-    "pts",
-    "tvbs",
-    "udn"
-   ],
-   "article_count": 42,
-   "first_seen": "2026-08-22T05:30:00+08:00",
-   "last_updated": "2026-08-22T23:15:00+08:00",
-   "tags": [
-    "台南安南",
-    "爆炸"
-   ],
-   "claims": [
-    {
-     "type": "受傷人數",
-     "agree": false,
-     "outlet_count": 5,
-     "values": [
-      {
-       "value": "13",
-       "outlets": [
-        "公視新聞",
-        "聯合新聞網"
-       ]
-      },
-      {
-       "value": "14",
-       "outlets": [
-        "自由時報",
-        "鏡週刊"
-       ]
-      },
-      {
-       "value": "15",
-       "outlets": [
-        "中央社"
-       ]
-      }
-     ]
-    }
-   ],
-   "articles": [
-    {
-     "title": "網傳「建商堆廢棄物」害台南爆炸！建商緊急澄清：與我們無關",
-     "link": "https://www.ettoday.net/news/20260822/3224004.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-08-22T23:15:00+08:00",
-     "description": "台南市安南區海佃路二段22日凌晨發生重大火警爆炸事故，延燒11戶民宅並造成13人受傷。由於事故地點鄰近建案，網路隨後傳出現場堆置廢棄物為建商所有的謠言。對此，建商力弘建設發表聲明鄭重澄清，事故現場堆置物與該公司完全無關，呼籲外界勿以訛傳訛散播不實訊息，並強調將配合主管機關調查釐清責任。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "台南重大火警爆炸案 黃偉哲返台坐鎮、拚災後復原",
-     "link": "https://news.ltn.com.tw/news/society/breakingnews/5549020",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-22T22:38:40+08:00",
-     "description": "台南市安南區今晨發生重大火警，市長黃偉哲更改原訂新加坡行程返台，晚間隨即前往災害指揮所聽取簡報，並赴災區及安置場所慰問受災居民，了解房屋受損、生活安置及家園復原情形，要求市府全...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "台南安南區爆炸驚魂！ 後備軍人暖心救援",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5548966",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-22T21:39:53+08:00",
-     "description": "台南安南區​今天凌晨發生鎂土爆炸案，猛烈火勢波及周邊近70戶民宅，台南後備軍人輔導中心幹部迅速抵達災區，與國軍弟兄一起攜手協助清理家園，成為災區中最溫暖的力量。\n\n​今天凌晨...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "台南安南區廢棄物起火爆炸釀15傷　黃偉哲急返國慰問",
-     "link": "https://www.cna.com.tw/news/asoc/202608220214.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-08-22T21:22:00+08:00",
-     "description": "（中央社記者張榮祥台南22日電）台南市安南區海佃路空地的廢棄物今天凌晨起火爆炸，延燒11戶，造成15人受傷，市長黃偉哲晚間從新加坡趕返探視慰問，他表示，已啟動刑事偵查，因偵查不公開，無法透露內容。",
-     "author": "張榮祥",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "張榮祥",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/social"
-     }
-    },
-    {
-     "title": "原定到新加坡行銷！黃偉哲得知台南爆炸「緊急取消行程」返台",
-     "link": "https://www.ettoday.net/news/20260822/3223946.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-08-22T18:50:00+08:00",
-     "description": "台南市安南區海佃路二段22日凌晨發生重大火警，延燒11戶透天民宅並造成13人受傷。台南市長黃偉哲原定22日搭乘凌晨紅眼班機前往新加坡，出席秋季旅展觀光行銷活動，上午9點抵達新加坡知悉火災後，因心繫台南災情，當即決定行程喊卡並折返回台。黃偉哲搭乘中午12點班機返台，傍晚已回到台灣親自坐鎮指示善後與救災工作。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "台南安南區大爆炸釀15傷、57戶受損 每戶發2萬救助金",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wVHlXbWxFckhRY2NvTVJqYlZZMjZ2UHFCWURHQ0hTZHcxOUttLXRyNHBrak9hcHFPaDBiZVZxT2d4N0JmcnVQUGJBMXh6SFE?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-08-22T17:16:00+08:00",
-     "description": "台南安南區大爆炸釀15傷、57戶受損 每戶發2萬救助金  TVBS新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "台南大火多人傷　卓榮泰令：各部會全力救災、助受災民眾安置",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11aWd1MU1nUDJaRjE2YVM0T2p2djlMZkpRODlLQWw1QW1HQUt3YkdzN1BhXzVDREdJOGhoSmtIN3VUT29JR1U4MzFHZUpmbFhDUlHSAVJBVV95cUxNdWlndTFNZ1AyWkYxNmFTNE9qdnY5TGZKUTg5S0FsNUFtR0FLd2JHczdQYV81Q0RHSThoaEprSDd1VE9vSUdVODMxR2VKZmxYQ1JR?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-08-22T16:31:08+08:00",
-     "description": "台南大火多人傷　卓榮泰令：各部會全力救災、助受災民眾安置  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "安南爆炸釀災卓揆發聲：已指示各部會全力協助救災| 政治",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BaU9ZRG5BNlZ0Z2NkYVVWMzR1V2lqNTB2VE9DZ2tJZ3NhR0dtY2JPdkc1YVoxY3J6NkxRWTdrRW5rMTlweEhVWGxlMFhVTzkyREV1ZWhUYlVuTm8?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-08-22T16:30:13+08:00",
-     "description": "安南爆炸釀災卓揆發聲：已指示各部會全力協助救災| 政治  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "台南爆炸釀15傷！環保局追源頭 登記地址竟變美髮店",
-     "link": "https://news.ebc.net.tw/news/society/567594",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-08-22T16:30:08.182101+08:00",
-     "description": "台南市安南區22日凌晨發生劇烈爆炸，起因是高雄某業者違法堆積鋁鎂廢材，導致15人受傷。然而環保局依登記地址查訪，現場竟變一間美髮店。",
-     "category": "society",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "society",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "台南安南區爆炸　卓榮泰：全力救災安置受災民眾",
-     "link": "https://www.cna.com.tw/news/aipl/202608220136.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-08-22T16:08:07+08:00",
-     "description": "（中央社記者賴于榛台北22日電）台南市安南區今天凌晨發生火警爆炸事故，行政院長卓榮泰表示，已指示各部會全力協助台南市政府進行救災及後續處置，以及協助受災民眾安置、傷勢照護等，同時請內政部消防署全力協助受傷消防人員。",
-     "author": "賴于榛",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "賴于榛",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
-     }
-    }
-   ]
-  },
-  {
    "id": "587331a981ea",
    "title": "平日國旅補助9月上路 今起開放上網登記",
    "outlet_count": 11,
@@ -451,7 +466,7 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 28,
+   "article_count": 29,
    "first_seen": "2026-08-20T10:37:51+08:00",
    "last_updated": "2026-08-22T15:56:00+08:00",
    "tags": [
@@ -566,6 +581,23 @@
      }
     },
     {
+     "title": "國旅補助登記 房價竟已先上漲",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSSzZVSWxxdWQwaU5ra2R5bGFpLVdjalhST2pvQ01QcVczZjZ6VmxaWlg3dk42MlNoRHkyV3BRanJwTC1kTGxmSHZuc2FYbG1B0gFWQVVfeXFMUHFqMWNSbmJFZXRRQ09TdzBkOTdGZURkTXRWVFJPbWVYVUV5MU5mWTdpa2c3SHhYbmtoaUs5bnBON0dmRnNoUzFoam84bmVjeU1qekJnaEE?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-08-22T00:00:00+08:00",
+     "description": "國旅補助登記 房價竟已先上漲  UDN",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
      "title": "網友爆「國旅補助公布住宿喊漲」　觀光署：請地方加強取締",
      "link": "https://www.ettoday.net/news/20260821/3223421.htm",
      "source": "ettoday",
@@ -631,23 +663,6 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "搶攻平日國旅補助台北晶華開第一槍加碼4千元- 商情",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQXprX29jNVREaFN3MjRKaV9HbzFfcFBxUEJjd2ZENDgxdnVlMzdTV2JBeFZidEpyLXBqX3phek1aaFExNjBhTmhGNXJXT3NfQXFETDl2TnYtWElKLUlWdXFKSmJIakd0VnVJM3pVQ1hCbjQ4VnlJcG82Y3h2bEsxeEdsRzJqVDAzZ3BnY3NFQS1QeFFsS3YwMFR3dFFnaVZ4dEdCcExkUG9OQXpmUFZiallpZFJWd2M5cEJhSkpFYkJaWVVvSXlaeGVhWjhBVFgxanc?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-08-21T13:32:46+08:00",
-     "description": "搶攻平日國旅補助台北晶華開第一槍加碼4千元- 商情  旺得富理財網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -821,25 +836,6 @@
      }
     },
     {
-     "title": "離婚風波燒到媒人夫妻！陳幸妤致歉：對不起他們",
-     "link": "https://news.ebc.net.tw/news/living/567453",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-08-21T20:31:16.853442+08:00",
-     "description": "陳幸妤與趙建銘離婚風波延燒，當年替兩人作媒的韓毅雄夫妻近況也受關注，陳幸妤得知後致歉，表示「真的覺得蠻對不起他們」。",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
      "title": "趙建銘母是超佛房東！豪宅1.6萬租護理師 專家曝真實行情",
      "link": "https://news.ebc.net.tw/news/politics/567451",
      "source": "ebc",
@@ -859,6 +855,25 @@
      }
     },
     {
+     "title": "離婚風波燒到媒人夫妻！陳幸妤致歉：對不起他們",
+     "link": "https://news.ebc.net.tw/news/living/567453",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-08-21T20:31:16.853442+08:00",
+     "description": "陳幸妤與趙建銘離婚風波延燒，當年替兩人作媒的韓毅雄夫妻近況也受關注，陳幸妤得知後致歉，表示「真的覺得蠻對不起他們」。",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
      "title": "陳幸妤難逃1億賠償？律師揭趙建銘1動作自作聰明：自己先違約了- 生活",
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0bnBKYzlJMXJOcTZ2QVFMOE13YktEcUxLTjhRTnZuUzFCVzExa1JvcjNTV0NXMEhtX3p0aHBaSzk3LWwxS04tZUZyWF9aQ2pvYXluR05mZWlJVHFMV3h5dzJkWFl3ZzlGOFpoZTdB?oc=5",
      "source": "chinatimes",
@@ -873,6 +888,200 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
+   "id": "bffc8c6903e6",
+   "title": "北捷信義線東延段8/30通車　蔣萬安：將推出優惠方案",
+   "outlet_count": 9,
+   "outlets": [
+    "cna",
+    "ettoday",
+    "mirror",
+    "nownews",
+    "pts",
+    "setn",
+    "storm",
+    "tvbs",
+    "udn"
+   ],
+   "article_count": 101,
+   "first_seen": "2026-08-20T07:47:00+08:00",
+   "last_updated": "2026-08-22T22:43:43+08:00",
+   "tags": [
+    "相關報導"
+   ],
+   "articles": [
+    {
+     "title": "提領限額相關報導",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5FZkZqakFOUkxuenM0clBpQUhiWlpmeHdtTGt1ZFlVVUNCUUd5bWt3UGFOT25LdHVMM09zOUtFSG5rVndmdDZIeg?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-08-22T22:43:43+08:00",
+     "description": "提領限額相關報導  三立新聞網SETN.com",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "協會青年隊相關報導",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1rMjZuSXR2cDFMX2h1RTNpQ1lBRkJVbk5hSjVmNktwVHNFdUk4MGpuVmdpVGR0WjFwZGFrQndCWkZvSWloQVB0RQ?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-08-22T18:21:38+08:00",
+     "description": "協會青年隊相關報導  三立新聞網SETN.com",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "kk._hi相關報導",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5mQ01CWjBPbmh4d2NzTmFYclJJSEIwWno0S3VxZ1dvVWNKNGU2R3BjWHVuOXdCUUhBNmFqVzkxX3hXMFZMVEZCYg?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-08-22T17:15:25+08:00",
+     "description": "kk._hi相關報導  三立新聞網SETN.com",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "簡 拉 維相關報導",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9IbEstUk9FT29mV1hwa3JudjVvWWNUZHVTdm1nRThiVjZRQ1E4cTNUYVB3N0Y4eWYyU05la2FIb3dYSjV3N2Nfbw?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-08-22T16:20:49+08:00",
+     "description": "簡 拉 維相關報導  三立新聞網SETN.com",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "路人受傷相關報導",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1TblZVNlVqUldDSm1DYmVROHJ0akhVUGdOSV9QX05EUHZTUHJtUU9aNlB2QU9za1JWaEs4Sk9HeTBmd0JtelZmZA?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-08-22T16:06:37+08:00",
+     "description": "路人受傷相關報導  三立新聞網SETN.com",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "蔡俊彥相關報導",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9SeEdCZXdCSUNmYjVsUHh0a1FOVF9Mb3RiZFRzRUxncnpWdTI4cTdxYmp5RGhDRUp4TXFOdTVOb0JpcThVS1d1dw?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-08-22T16:06:21+08:00",
+     "description": "蔡俊彥相關報導  三立新聞網SETN.com",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "王棠雲相關報導",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9POEJKQ0RyQ1I5NHAwN2NVaEVwRlVZU2FyYzA0bHNxX2JnV2R4NDE5Wjc2SWNFTlByZzZUSkVDYlVaVmN5MFlkTg?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-08-22T15:20:26+08:00",
+     "description": "王棠雲相關報導  三立新聞網SETN.com",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "生態風險相關報導",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9Mc2dDQUkxcTNxXzREOUlYdGRyNGdIS04tZlQtY1YyTkowUnd3LUdIdjdLUmt5UmtOUFZWYU92dE9Fc2V3eTRrOQ?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-08-22T15:06:35+08:00",
+     "description": "生態風險相關報導  三立新聞網SETN.com",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "機車碰撞相關報導",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBvR0kzSGlwMGszZ25rcmRmbzRMUlJ6V085TzJBeHpjUEtfYXJ5X1pLSnRJQS1MZ21fUjlkRkF3a3dVOTFtcVFTTw?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-08-22T13:00:13+08:00",
+     "description": "機車碰撞相關報導  三立新聞網SETN.com",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "金志哲相關報導",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE40RU54cU9lQnhsX1hxeEF0anBLbEtTRGtMVUQwSW8xQ3hiVWhiMXRCeFZDajZ2WnZGU3lXVndhc05GYXFJRW54Vg?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-08-22T12:52:30+08:00",
+     "description": "金志哲相關報導  三立新聞網SETN.com",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -1091,200 +1300,6 @@
       },
       "acquisition": "rss",
       "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    }
-   ]
-  },
-  {
-   "id": "bffc8c6903e6",
-   "title": "北捷信義線東延段8/30通車　蔣萬安：將推出優惠方案",
-   "outlet_count": 9,
-   "outlets": [
-    "cna",
-    "ettoday",
-    "mirror",
-    "nownews",
-    "pts",
-    "setn",
-    "storm",
-    "tvbs",
-    "udn"
-   ],
-   "article_count": 95,
-   "first_seen": "2026-08-20T07:47:00+08:00",
-   "last_updated": "2026-08-22T18:21:38+08:00",
-   "tags": [
-    "相關報導"
-   ],
-   "articles": [
-    {
-     "title": "協會青年隊相關報導",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1rMjZuSXR2cDFMX2h1RTNpQ1lBRkJVbk5hSjVmNktwVHNFdUk4MGpuVmdpVGR0WjFwZGFrQndCWkZvSWloQVB0RQ?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-08-22T18:21:38+08:00",
-     "description": "協會青年隊相關報導  三立新聞網SETN.com",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "kk._hi相關報導",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5mQ01CWjBPbmh4d2NzTmFYclJJSEIwWno0S3VxZ1dvVWNKNGU2R3BjWHVuOXdCUUhBNmFqVzkxX3hXMFZMVEZCYg?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-08-22T17:15:25+08:00",
-     "description": "kk._hi相關報導  三立新聞網SETN.com",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "簡 拉 維相關報導",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9IbEstUk9FT29mV1hwa3JudjVvWWNUZHVTdm1nRThiVjZRQ1E4cTNUYVB3N0Y4eWYyU05la2FIb3dYSjV3N2Nfbw?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-08-22T16:20:49+08:00",
-     "description": "簡 拉 維相關報導  三立新聞網SETN.com",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "路人受傷相關報導",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1TblZVNlVqUldDSm1DYmVROHJ0akhVUGdOSV9QX05EUHZTUHJtUU9aNlB2QU9za1JWaEs4Sk9HeTBmd0JtelZmZA?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-08-22T16:06:37+08:00",
-     "description": "路人受傷相關報導  三立新聞網SETN.com",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "蔡俊彥相關報導",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9SeEdCZXdCSUNmYjVsUHh0a1FOVF9Mb3RiZFRzRUxncnpWdTI4cTdxYmp5RGhDRUp4TXFOdTVOb0JpcThVS1d1dw?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-08-22T16:06:21+08:00",
-     "description": "蔡俊彥相關報導  三立新聞網SETN.com",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "生態風險相關報導",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9Mc2dDQUkxcTNxXzREOUlYdGRyNGdIS04tZlQtY1YyTkowUnd3LUdIdjdLUmt5UmtOUFZWYU92dE9Fc2V3eTRrOQ?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-08-22T15:06:35+08:00",
-     "description": "生態風險相關報導  三立新聞網SETN.com",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "機車碰撞相關報導",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBvR0kzSGlwMGszZ25rcmRmbzRMUlJ6V085TzJBeHpjUEtfYXJ5X1pLSnRJQS1MZ21fUjlkRkF3a3dVOTFtcVFTTw?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-08-22T13:00:13+08:00",
-     "description": "機車碰撞相關報導  三立新聞網SETN.com",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "金志哲相關報導",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE40RU54cU9lQnhsX1hxeEF0anBLbEtTRGtMVUQwSW8xQ3hiVWhiMXRCeFZDajZ2WnZGU3lXVndhc05GYXFJRW54Vg?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-08-22T12:52:30+08:00",
-     "description": "金志哲相關報導  三立新聞網SETN.com",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "合江街相關報導",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1GTTM2TzRrZzlCRktFQmtYRFYxNnBQYU02czk3UWxUbFNVU182a09LVHYwXzRhZllzWVlIcm5MdnBqdC0ycmUwdm14S3F1QQ?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-08-22T12:52:22+08:00",
-     "description": "合江街相關報導  三立新聞網SETN.com",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "慶州殺遊紀相關報導",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9DUlBhRGprdTlSNXFoV1V2WmQ1T1hQY1pJMWVReXF6X0VvZldWdVl3Y3d6cUJILWtQYUREX2RyeEhsX2RiVmdKSw?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-08-22T12:32:10+08:00",
-     "description": "慶州殺遊紀相關報導  三立新聞網SETN.com",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -2084,8 +2099,8 @@
    ]
   },
   {
-   "id": "18b887a08222",
-   "title": "錄音殺青 娛樂關鍵字",
+   "id": "43e5f1495164",
+   "title": "秀琴歌劇團 娛樂關鍵字",
    "outlet_count": 8,
    "outlets": [
     "chinatimes",
@@ -2097,8 +2112,8 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 150,
-   "first_seen": "2026-08-20T02:54:20+08:00",
+   "article_count": 149,
+   "first_seen": "2026-08-20T09:11:00+08:00",
    "last_updated": "2026-08-23T01:23:00+08:00",
    "tags": [
     "娛樂關鍵字"
@@ -2481,219 +2496,6 @@
    ]
   },
   {
-   "id": "818e78319053",
-   "title": "違法堆含鎂鋁廢棄物致爆炸 台南市府擬發2萬慰問金助求償",
-   "outlet_count": 7,
-   "outlets": [
-    "ebc",
-    "ettoday",
-    "mirror",
-    "pts",
-    "storm",
-    "tvbs",
-    "udn"
-   ],
-   "article_count": 13,
-   "first_seen": "2026-08-22T10:58:01+08:00",
-   "last_updated": "2026-08-23T00:29:17.745192+08:00",
-   "tags": [
-    "南大爆炸",
-    "台南"
-   ],
-   "claims": [
-    {
-     "type": "受傷人數",
-     "agree": true,
-     "outlet_count": 2,
-     "values": [
-      {
-       "value": "15",
-       "outlets": [
-        "ETtoday",
-        "風傳媒"
-       ]
-      }
-     ]
-    }
-   ],
-   "articles": [
-    {
-     "title": "追偷埋鎂土禍首！無照廢五金業者疑潛逃國外",
-     "link": "https://news.ebc.net.tw/news/society/567650",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-08-23T00:29:17.745192+08:00",
-     "description": "台南安南區停車場遭違法埋放鎂土，追查發現由曾住附近的冷氣安裝男子埋放，委託方疑為高雄友誠洋行。環保局指出王姓負責人疑似潛逃國外，將追究刑責並移送法辦。",
-     "category": "society",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "society",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "台南爆炸案毀8屋釀15傷 負責人是通緝犯、6月底就離境跑路 | 蕭宥宸 | 新聞",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nY0lDVVEwU0FENDYxZk03M1VmUHlvYTRBcmNSeXlnZHZ3RV9WWnhLSFhLVDJNOC1qM2hlNlBrdzBocUJqTFZ1ZkRWNU5FUQ?oc=5",
-     "source": "storm",
-     "source_name": "風傳媒",
-     "published": "2026-08-22T22:57:07+08:00",
-     "description": "台南爆炸案毀8屋釀15傷 負責人是通緝犯、6月底就離境跑路 | 蕭宥宸 | 新聞  風傳媒",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "台南爆炸毀68戶！一查業者竟是通緝犯...借址髮廊堆毒廢棄物　驚爆6月早已潛逃出國行蹤不明",
-     "link": "https://www.mirrormedia.mg/story/20260822edi032",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-08-22T19:39:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "台南大爆炸登CNN：「兩次巨大爆炸」火球衝天",
-     "link": "https://www.ettoday.net/news/20260822/3223955.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-08-22T19:37:00+08:00",
-     "description": "台南市安南區海佃路二段342巷今（22）日凌晨發生火警，救災期間現場接連發生兩次巨大爆炸，猛烈火光瞬間衝上夜空，造成多人受傷，也波及周邊民宅及車輛。驚人畫面更引發國際關注。\n\n 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "違法堆含鎂鋁廢棄物致爆炸 台南市府擬發2萬慰問金助求償",
-     "link": "https://news.pts.org.tw/article/823636",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-08-22T19:06:25+08:00",
-     "description": "台南市安南區一處空地，今（22）日凌晨發生火警爆炸，導致消防員在內15個人受傷，68戶民宅被波及，22部車毀損，市府初步調查發現現場違法堆置含鎂鋁的事業廢棄物，將會究責。總統賴清德致電市長黃偉哲表達關心，指示相關部會全力協助。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "台南廢棄物爆炸！五金行負責人是通緝犯　6月出國下落不明",
-     "link": "https://www.ettoday.net/news/20260822/3223944.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-08-22T18:51:00+08:00",
-     "description": "台南市安南區一處空地今(22日)凌晨發生爆炸，造成15人受傷，大火延燒8戶房屋、另有40多戶住戶震碎玻璃及其他損傷。警方查出該公司地址位於高雄鼓山區，不過市府今（22）日前往該址稽查，發現負責人王逸凱於該地點早已無租約，而他也早在6月底出國，目前行蹤不明。\n\n 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "釀台南大爆炸 廢五金負責人疑潛逃國外",
-     "link": "https://news.ebc.net.tw/news/society/567606",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-08-22T18:28:47.674694+08:00",
-     "description": "台南安南區廢棄物爆炸火警，警方查出涉案五金公司王姓負責人疑已潛逃國外，持續追查事故責任與去向。",
-     "category": "society",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "society",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "釀台南大爆炸涉案業者曝光！稽查竟是美髮店 業者冤喊：不知情",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PV3J0NzVxWDQwQ1BYWjdySUhmaU9EdllENTJIRVhWTS1aWkFKeHVINnBmYVJKR1B5THBKbi1tWU1rT1dtZEZ2VzNzQTU2bFE?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-08-22T15:34:00+08:00",
-     "description": "釀台南大爆炸涉案業者曝光！稽查竟是美髮店 業者冤喊：不知情  TVBS新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "台南爆炸原因曝光！環保局稽查「竟是美髮店」　涉案高雄五金業者被帶回調查",
-     "link": "https://www.mirrormedia.mg/story/20260822edi015",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-08-22T15:02:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "堆鎂鋁廢棄物釀台南大爆炸！環保局奔公司稽查　竟是美髮店",
-     "link": "https://www.ettoday.net/news/20260822/3223829.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-08-22T14:22:00+08:00",
-     "description": "台南市安南區海佃路二段一處空地今(22日)凌晨1時許傳出劇烈爆炸，造成15人受傷，大火延燒8戶房屋、另有40多戶住戶震碎玻璃及其他損傷，災情十分慘重。警方初步掌握，位於高雄鼓山的某公司於該處空地堆放鋁鎂廢棄物，才會引發爆炸災情，今(22日)高雄市環保局發動搜索，依照登記地址前往現場，卻發現該處竟是一家美髮店，店員均表示不清楚情況、也沒聽說過該公司。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    }
-   ]
-  },
-  {
    "id": "a6db56dbd372",
    "title": "台南高雄屏東23日停班停課",
    "outlet_count": 7,
@@ -2885,6 +2687,150 @@
       },
       "acquisition": "rss",
       "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    }
+   ]
+  },
+  {
+   "id": "e9266d75be97",
+   "title": "學校衛生法立院三讀　主管機關應助備置生理用品、推動月經教育",
+   "outlet_count": 7,
+   "outlets": [
+    "cna",
+    "ltn",
+    "newtalk",
+    "nownews",
+    "pts",
+    "tvbs",
+    "udn"
+   ],
+   "article_count": 7,
+   "first_seen": "2026-08-21T15:56:51+08:00",
+   "last_updated": "2026-08-22T21:24:00+08:00",
+   "tags": [
+    "學校衛生法",
+    "三讀",
+    "手機"
+   ],
+   "articles": [
+    {
+     "title": "學生不能滑手機了？《學校衛生法》三讀可管制 教育部回應了",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Ld0ZfQU02SjZPdEdkWnllR1BoYmpENHAzS0daWVFrQ0VuelQwTUdOMmNPNTdfNUxkc25xVXpYUUpESVAxVmdYcS1hRl80UQ?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-08-22T21:24:00+08:00",
+     "description": "學生不能滑手機了？《學校衛生法》三讀可管制 教育部回應了  TVBS新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "學校衛生法三讀 學生若手機成癮校方可限制使用",
+     "link": "https://news.pts.org.tw/article/823665",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-08-22T19:23:22+08:00",
+     "description": "立法院三讀通過《學校衛生法》部分條文修正案，未來學校面對學生手機等，行動載具成癮問題，可以依照實際需要，進行適時輔導、管理或限制使用。全教總雖然肯定修法方向，但也呼籲後續訂定細則，應該納入老師、家長跟孩子的意見共同討論，避免師生衝突加劇。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "學校衛生法三讀 校方可管制學生滑手機、禁電子煙",
+     "link": "https://news.ltn.com.tw/news/life/paper/1767611",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-22T05:30:00+08:00",
+     "description": "〔記者羅國嘉、林曉雲／台北報導〕學生使用手機等行動載具若影響身心健康，學校將有明確法律依據可進行管理或限制，心理健康教育也正式納入健康相關課程。立法院昨三讀通過「學校衛生法」部分條文修正案，共修正七條，除規範影響學生健康的物品與行為，也明定主管機關應協助學校備置生理用品、推動月經教育，加強學生聽力保…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "學校衛生法三讀通過 手機、平板成癮學校可限制使用",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9FVEZpYl9tSkdEVHppVlE0NXFnMnNSLUJwMy0zZm42U29nWDRyUktKNzBNY2xONVFBMmdMbW43Y3BSV1dDSlI5RnNKY3VrX05G0gFWQVVfeXFMTTdmNk8yYmxWeFBrOGVQczhtU1lEQjVaZDVDZ29md0I2RGRuU1M4a0RTcTh0TWd2TjlOZ3BFMVJ6OFNKcWFxQmpySDYwVFhIQlJYODdfY0E?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-08-21T18:13:03+08:00",
+     "description": "學校衛生法三讀通過 手機、平板成癮學校可限制使用  UDN",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "學生注意！《學校衛生法》通過三讀：學校可依法管制、限用手機| 生活",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSWTFoRXoyTHZzQUlwQ2ZQMEEtM3NqZ3M2NG1nOTZ2cVhOOEpuUlhDSXhjWnB6dFhITnI2dC1Bd3RQWU1CMjNwLUZpaHNwMFIwbmVMd2oxNllHcFk?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-08-21T18:10:45+08:00",
+     "description": "學生注意！《學校衛生法》通過三讀：學校可依法管制、限用手機| 生活  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "《學校衛生法》三讀　主管機關應協助校園備置生理用品",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0ydEI1N3dBQUZSaXlEc25YM2dKYWhhSnZoZF9tSWV4TjB6cW1NMVJwdkhoSkZIUGtCZDI2dWxLVXhYYkd3OGdwS2NveFNSeE54U2fSAVJBVV95cUxNMnRCNTd3QUFGUml5RHNuWDNnSmFoYUp2aGRfbUlleE4wenFtTTFScHZIaEpGSFBrQmQyNnVsS1V4WGJHdzhncEtjb3hTUnhOeFNn?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-08-21T16:50:17+08:00",
+     "description": "《學校衛生法》三讀　主管機關應協助校園備置生理用品  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "學校衛生法立院三讀　主管機關應助備置生理用品、推動月經教育",
+     "link": "https://www.cna.com.tw/news/aipl/202608210184.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-08-21T15:56:51+08:00",
+     "description": "（中央社記者林敬殷台北21日電）立法院會今天三讀通過學校衛生法部分條文，為落實月經平權，並終結月經貧窮，往前邁開一大步。三讀條文明定，各級主管機關應協助學校備置生理用品，並推動月經教育。此外，為遏止毒害，三讀條文規定，高級中等以下學校，全面禁止電子煙、新型態菸品。",
+     "author": "林敬殷",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "林敬殷",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
      }
     }
    ]
@@ -3202,12 +3148,12 @@
      }
     },
     {
-     "title": "宜蘭發生規模5.1地震 各地震度一次看",
-     "link": "https://news.ebc.net.tw/news/living/567549",
+     "title": "地震速報！ 08/22 11:40左右   東北地區發生有感地震",
+     "link": "https://news.ebc.net.tw/news/living/567547",
      "source": "ebc",
      "source_name": "東森新聞",
      "published": "2026-08-22T12:30:10.826529+08:00",
-     "description": "中央氣象署測定今（22）日上午11時40分，台灣東部海域發生芮氏規模5.1地震。",
+     "description": "中央氣象署發布， 08/22 11:40左右 ， 東北地區發生有感地震 。預估震度 3 級以上地區： 宜蘭",
      "category": "living",
      "metadata": {
       "schema_version": 1,
@@ -3240,12 +3186,12 @@
      }
     },
     {
-     "title": "地震速報！ 08/22 11:40左右   東北地區發生有感地震",
-     "link": "https://news.ebc.net.tw/news/living/567547",
+     "title": "宜蘭發生規模5.1地震 各地震度一次看",
+     "link": "https://news.ebc.net.tw/news/living/567549",
      "source": "ebc",
      "source_name": "東森新聞",
      "published": "2026-08-22T12:30:10.826529+08:00",
-     "description": "中央氣象署發布， 08/22 11:40左右 ， 東北地區發生有感地震 。預估震度 3 級以上地區： 宜蘭",
+     "description": "中央氣象署測定今（22）日上午11時40分，台灣東部海域發生芮氏規模5.1地震。",
      "category": "living",
      "metadata": {
       "schema_version": 1,
@@ -3342,7 +3288,7 @@
     "pts",
     "udn"
    ],
-   "article_count": 8,
+   "article_count": 9,
    "first_seen": "2026-08-20T06:01:41+08:00",
    "last_updated": "2026-08-22T07:59:57+08:00",
    "tags": [
@@ -3374,6 +3320,23 @@
      "source_name": "今日新聞",
      "published": "2026-08-22T07:59:57+08:00",
      "description": "954萬英鎊法律費！哈利王子與多人官司敗訴　返英之際再添新帳單  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "哈利梅根一家為何選擇此時搬回英國？安全疑慮是否已解決？",
+     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQ1hNNWRBWlptQzhYTXN5NXBXZE4zVlRpTEMzdVk5QTNXamliMG0wbkh6QWpfT2NPUmFpalZWSExCdHoxMnJ2dUQ4UElEVEZJUzdVS0x3cUVCUWw0ZWl0U19zSEJKSU1lZmwzNWFJb3lpUXN3VnpSLUV3ek45a2s4N2JLc3RlUUt5QW1EblBrWGdyYVkwWExsMXVFZkJpcmp4bEhrN0ZETE9Tdm1DSXRVMnNDLUdJRmlmV0xPekhLZGJNUmo5RENYYjhud2s5N05pNEhfZlY0S2NpeUlfZWdGLVBjVWVEWjR5?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-08-22T01:03:38+08:00",
+     "description": "哈利梅根一家為何選擇此時搬回英國？安全疑慮是否已解決？  newslens.nownews.com",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -3723,6 +3686,203 @@
    ]
   },
   {
+   "id": "a7a3a8455992",
+   "title": "瓊斯盃／賽制惹議遭各界砲轟　籃協發聲明致歉允諾明年將全面改進",
+   "outlet_count": 6,
+   "outlets": [
+    "ebc",
+    "ltn",
+    "mirror",
+    "nownews",
+    "setn",
+    "udn"
+   ],
+   "article_count": 13,
+   "first_seen": "2026-08-20T10:23:00+08:00",
+   "last_updated": "2026-08-23T04:28:56.644159+08:00",
+   "tags": [
+    "瓊斯盃",
+    "菲律賓",
+    "賽制"
+   ],
+   "articles": [
+    {
+     "title": "瓊斯盃／保底4強賽制爆爭議 中華藍主帥圖齊回應了",
+     "link": "https://news.ebc.net.tw/news/sport/567640",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-08-23T04:28:56.644159+08:00",
+     "description": "第45屆瓊斯盃22日進行4強賽，僅剩10人的中華藍以71比96不敵美國爾灣分校落入季軍戰，總教練圖齊賽後親自澄清未支持保送賽制。",
+     "category": "sport",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "sport",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "瓊斯盃》對決台灣藍閉眼罰球！菲律賓洋將解釋原因、透露愛吃牛肉麵",
+     "link": "https://sports.ltn.com.tw/news/breakingnews/5548167",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-21T22:47:57+08:00",
+     "description": "菲律賓昨在瓊斯盃以43分差血洗台灣藍隊，陣中洋將阿基（Tajuan Steven Agee）更在分數懸殊時閉眼罰球引發討論，他今在排名賽後接受訪問時表示，無意對任何人不尊...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "瓊斯盃》保送台灣影響菲律賓明年來台意願？主帥曝老闆非常不開心",
+     "link": "https://sports.ltn.com.tw/news/breakingnews/5548146",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-21T22:24:52+08:00",
+     "description": "第45屆威廉瓊斯盃國際籃球邀請賽男子組賽事因保送台灣藍隊的特殊規則持續引發討論，菲律賓今以96：91擊敗約旦，收下第5名，主帥張念財坦言，這次的爭議也許會對球隊明年來台參...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "瓊斯盃／中華藍保送4強惹議！籃協駁臨時改賽制：7/30已通知",
+     "link": "https://news.ebc.net.tw/news/sport/567477",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-08-21T20:31:16.853442+08:00",
+     "description": "本屆威廉瓊斯盃男子組賽事中，中華藍隊享有「保障四強」的特殊賽制在近日引發外界高度爭議與討論。",
+     "category": "sport",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "sport",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "瓊斯盃》5勝1敗的菲律賓只能打排名賽  國王洋將杰倫、沃許本觀戰",
+     "link": "https://sports.ltn.com.tw/news/breakingnews/5548055",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-21T20:05:04+08:00",
+     "description": "第45屆威廉瓊斯盃國際籃球邀請賽男子組賽事進入尾聲，今進行兩場排名賽，由於4支球隊都是外隊，觀眾席相當冷清，不過不乏亮點，未隨隊前往成都的TPBL新北國王洋將沃許本也現身...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "瓊斯盃賽制羅生門！籃協再發聲明公布時間軸：7月底已通知日韓菲",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ON19pbFVpOGt5UVpxYklnbDJxTDhiTFdEcFJ0X0RhWXRQUlVKTVFNWmFleGRaRklfZ1hWVFNYQ1JWVjZ6TXhHaF9jQkvSAVJBVV95cUxNajZkUzYxTGF3ZENmWGxWM0NzdmRrMlpuRUZROFJUREY5NFJWN0dkNkstbGN1Snl2V2drSmJjMG1WN3R4M21DLUd6MlBtS0JycTN3?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-08-21T20:03:50+08:00",
+     "description": "瓊斯盃賽制羅生門！籃協再發聲明公布時間軸：7月底已通知日韓菲  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "瓊斯盃》台灣藍保障四強賽制惹議！籃協澄清：7/30已通知日韓菲三國",
+     "link": "https://sports.ltn.com.tw/news/breakingnews/5548031",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-21T19:47:40+08:00",
+     "description": "本屆瓊斯盃男子組因台灣藍隊保障四強的賽制引發爭議，中華民國籃球協會稍早再度發出聲明澄清，已在7月30日通知與台灣藍隊同組的日、韓、菲三國，告知本屆將採取此特殊賽制，並非網...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "5勝1敗不如1勝墊底...瓊斯盃驚人賽制挨轟　菲律賓球員「閉眼罰球」回敬中華藍",
+     "link": "https://www.mirrormedia.mg/story/20260821edi051",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-08-21T12:37:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "瓊斯盃賽制爭議再添恩怨　盤點中華男籃與菲律賓歷年經典浴血戰役",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKRW1oNklmMEhGeUU1OXV0WDhrb1duZDN2X3VDdi1pUkRjMno0TjIweWFpUGU2SmlHdFFNT00yMEY3dkJTd0xQMGJQeTQ2R01GTEHSAVJBVV95cUxQSkVtaDZJZjBIRnlFNTl1dFg4a29XbmQzdl91Q3YtaVJEYzJ6NE4yMHlhaVBlNkppR3RRTU9NMjBGN3ZCU3dMUDBiUHk0NkdNRkxB?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-08-21T09:44:42+08:00",
+     "description": "瓊斯盃賽制爭議再添恩怨　盤點中華男籃與菲律賓歷年經典浴血戰役  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "瓊斯盃／韓國教練也抱怨！菲律賓主帥怒曝來台才知「中華藍保送4強」",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB4dDZUbmswUmdPa0JFdno3XzhDa3VIM3lnSTBIYlJMcUZScXJUMHoyVDhrN2JHUThWT2gwQjdYVTBhWEh4UnNiUnNmWHlRdzRo0gFWQVVfeXFMT3NFdmhqVFYtYnZXQUZDWVlQU2tRRG9KZHZuczlMVjlYb0FBdDNWUnJRVG1fQ1dFLWRXREF2Yi11aHZMUkF6Zmo1alN2N2otWEpENlVDZGc?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-08-20T14:42:53+08:00",
+     "description": "瓊斯盃／韓國教練也抱怨！菲律賓主帥怒曝來台才知「中華藍保送4強」  UDN",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
    "id": "4b5e698a40a2",
    "title": "執行蘭陽溪疏濬遇溪水暴漲　聯結車司機獲救",
    "outlet_count": 6,
@@ -3734,7 +3894,7 @@
     "pts",
     "tvbs"
    ],
-   "article_count": 140,
+   "article_count": 141,
    "first_seen": "2026-08-20T08:36:32+08:00",
    "last_updated": "2026-08-22T23:35:16+08:00",
    "tags": [
@@ -3743,7 +3903,7 @@
    "articles": [
     {
      "title": "TIMA男團爭鋒! Super Junior壓軸開唱.RIIZE全黑舞台裝跳到飆汗｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMXdYQk9TUEJVcHFGbUZDTXgwRkN4cTM3c2pwX01lTzRXTW1LbllLSUxiaS1uamNLbTlKU2NuemZ4UXN3cUVvX3JvMVB6RU5WMzZ2NmdjYVNGQi1iM3JZZzg1b3BjVEhvZ0oweUY4RFFwZ1JSckl5TFF4SEY1OUlfQnFlYWp3dE8zMWdEN1Q3cEM?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xYld2czNnYnhmX0g1LXVfQkVfVUNQZi0tYWp6bGdWekNWVnRoM3V3cm1EYkp3YmNFdWx2aHRPclNJUGhRblhtSDRkSjF0VDJRWUlWTlZB?oc=5",
      "source": "tvbs",
      "source_name": "TVBS",
      "published": "2026-08-22T23:35:16+08:00",
@@ -3760,7 +3920,7 @@
     },
     {
      "title": "TIMA男團爭鋒! Super Junior壓軸開唱.RIIZE全黑舞台裝跳到飆汗｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xYld2czNnYnhmX0g1LXVfQkVfVUNQZi0tYWp6bGdWekNWVnRoM3V3cm1EYkp3YmNFdWx2aHRPclNJUGhRblhtSDRkSjF0VDJRWUlWTlZB?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMXdYQk9TUEJVcHFGbUZDTXgwRkN4cTM3c2pwX01lTzRXTW1LbllLSUxiaS1uamNLbTlKU2NuemZ4UXN3cUVvX3JvMVB6RU5WMzZ2NmdjYVNGQi1iM3JZZzg1b3BjVEhvZ0oweUY4RFFwZ1JSckl5TFF4SEY1OUlfQnFlYWp3dE8zMWdEN1Q3cEM?oc=5",
      "source": "tvbs",
      "source_name": "TVBS",
      "published": "2026-08-22T23:35:16+08:00",
@@ -3811,7 +3971,7 @@
     },
     {
      "title": "天氣/西南風北抬雨勢增強南部明起防致災豪雨4熱帶系統大亂鬥! 沙德爾估明變強颱最新路徑「偏南」恐躲不掉｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSmJ2S0FyUmtxUFpOQ2lSdXR1UUVqb2RIVUVuZEQtOFJ2NjlrcHl4THExUjFuSkE1d2k0T2gtNjFEMzZ5UTVkTjlrbGwzMVZQVTlOU1NsZF9xd0dpVkF6MnJoR3dkdGh3Y2czc2FqV0pVaU9LaEZYZE14QTFfOEdiQmN1R3o3emdvQVNGNE04ZHM?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GTHpQWUstZjZXR2RBLU1OWVJYY2VfRFFrelkwX1BhWjV1WnFVMkNsU1MxLUttQjRkSmNDRlh3VGlLMnRnN3BqblQ1ejdiRFNQZ2J3OXZ3?oc=5",
      "source": "tvbs",
      "source_name": "TVBS",
      "published": "2026-08-22T20:01:18+08:00",
@@ -3828,7 +3988,7 @@
     },
     {
      "title": "天氣/西南風北抬雨勢增強南部明起防致災豪雨4熱帶系統大亂鬥! 沙德爾估明變強颱最新路徑「偏南」恐躲不掉｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GTHpQWUstZjZXR2RBLU1OWVJYY2VfRFFrelkwX1BhWjV1WnFVMkNsU1MxLUttQjRkSmNDRlh3VGlLMnRnN3BqblQ1ejdiRFNQZ2J3OXZ3?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSmJ2S0FyUmtxUFpOQ2lSdXR1UUVqb2RIVUVuZEQtOFJ2NjlrcHl4THExUjFuSkE1d2k0T2gtNjFEMzZ5UTVkTjlrbGwzMVZQVTlOU1NsZF9xd0dpVkF6MnJoR3dkdGh3Y2czc2FqV0pVaU9LaEZYZE14QTFfOEdiQmN1R3o3emdvQVNGNE04ZHM?oc=5",
      "source": "tvbs",
      "source_name": "TVBS",
      "published": "2026-08-22T20:01:18+08:00",
@@ -3909,132 +4069,6 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
-   "id": "e9266d75be97",
-   "title": "學校衛生法立院三讀　主管機關應助備置生理用品、推動月經教育",
-   "outlet_count": 6,
-   "outlets": [
-    "cna",
-    "ltn",
-    "newtalk",
-    "nownews",
-    "pts",
-    "udn"
-   ],
-   "article_count": 6,
-   "first_seen": "2026-08-21T15:56:51+08:00",
-   "last_updated": "2026-08-22T19:23:22+08:00",
-   "tags": [
-    "學校衛生法",
-    "三讀",
-    "手機"
-   ],
-   "articles": [
-    {
-     "title": "學校衛生法三讀 學生若手機成癮校方可限制使用",
-     "link": "https://news.pts.org.tw/article/823665",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-08-22T19:23:22+08:00",
-     "description": "立法院三讀通過《學校衛生法》部分條文修正案，未來學校面對學生手機等，行動載具成癮問題，可以依照實際需要，進行適時輔導、管理或限制使用。全教總雖然肯定修法方向，但也呼籲後續訂定細則，應該納入老師、家長跟孩子的意見共同討論，避免師生衝突加劇。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "學校衛生法三讀 校方可管制學生滑手機、禁電子煙",
-     "link": "https://news.ltn.com.tw/news/life/paper/1767611",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-22T05:30:00+08:00",
-     "description": "〔記者羅國嘉、林曉雲／台北報導〕學生使用手機等行動載具若影響身心健康，學校將有明確法律依據可進行管理或限制，心理健康教育也正式納入健康相關課程。立法院昨三讀通過「學校衛生法」部分條文修正案，共修正七條，除規範影響學生健康的物品與行為，也明定主管機關應協助學校備置生理用品、推動月經教育，加強學生聽力保…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "學校衛生法三讀通過 手機、平板成癮學校可限制使用",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9FVEZpYl9tSkdEVHppVlE0NXFnMnNSLUJwMy0zZm42U29nWDRyUktKNzBNY2xONVFBMmdMbW43Y3BSV1dDSlI5RnNKY3VrX05G0gFWQVVfeXFMTTdmNk8yYmxWeFBrOGVQczhtU1lEQjVaZDVDZ29md0I2RGRuU1M4a0RTcTh0TWd2TjlOZ3BFMVJ6OFNKcWFxQmpySDYwVFhIQlJYODdfY0E?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-08-21T18:13:03+08:00",
-     "description": "學校衛生法三讀通過 手機、平板成癮學校可限制使用  UDN",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "學生注意！《學校衛生法》通過三讀：學校可依法管制、限用手機| 生活",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSWTFoRXoyTHZzQUlwQ2ZQMEEtM3NqZ3M2NG1nOTZ2cVhOOEpuUlhDSXhjWnB6dFhITnI2dC1Bd3RQWU1CMjNwLUZpaHNwMFIwbmVMd2oxNllHcFk?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-08-21T18:10:45+08:00",
-     "description": "學生注意！《學校衛生法》通過三讀：學校可依法管制、限用手機| 生活  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "《學校衛生法》三讀　主管機關應協助校園備置生理用品",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0ydEI1N3dBQUZSaXlEc25YM2dKYWhhSnZoZF9tSWV4TjB6cW1NMVJwdkhoSkZIUGtCZDI2dWxLVXhYYkd3OGdwS2NveFNSeE54U2fSAVJBVV95cUxNMnRCNTd3QUFGUml5RHNuWDNnSmFoYUp2aGRfbUlleE4wenFtTTFScHZIaEpGSFBrQmQyNnVsS1V4WGJHdzhncEtjb3hTUnhOeFNn?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-08-21T16:50:17+08:00",
-     "description": "《學校衛生法》三讀　主管機關應協助校園備置生理用品  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "學校衛生法立院三讀　主管機關應助備置生理用品、推動月經教育",
-     "link": "https://www.cna.com.tw/news/aipl/202608210184.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-08-21T15:56:51+08:00",
-     "description": "（中央社記者林敬殷台北21日電）立法院會今天三讀通過學校衛生法部分條文，為落實月經平權，並終結月經貧窮，往前邁開一大步。三讀條文明定，各級主管機關應協助學校備置生理用品，並推動月經教育。此外，為遏止毒害，三讀條文規定，高級中等以下學校，全面禁止電子煙、新型態菸品。",
-     "author": "林敬殷",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "林敬殷",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
      }
     }
    ]
@@ -4443,201 +4477,6 @@
       },
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/rsscna/social"
-     }
-    }
-   ]
-  },
-  {
-   "id": "a7a3a8455992",
-   "title": "瓊斯盃／賽制惹議遭各界砲轟　籃協發聲明致歉允諾明年將全面改進",
-   "outlet_count": 6,
-   "outlets": [
-    "ebc",
-    "ltn",
-    "mirror",
-    "nownews",
-    "setn",
-    "udn"
-   ],
-   "article_count": 12,
-   "first_seen": "2026-08-20T10:23:00+08:00",
-   "last_updated": "2026-08-21T22:47:57+08:00",
-   "tags": [
-    "瓊斯盃",
-    "菲律賓",
-    "賽制"
-   ],
-   "articles": [
-    {
-     "title": "瓊斯盃》對決台灣藍閉眼罰球！菲律賓洋將解釋原因、透露愛吃牛肉麵",
-     "link": "https://sports.ltn.com.tw/news/breakingnews/5548167",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-21T22:47:57+08:00",
-     "description": "菲律賓昨在瓊斯盃以43分差血洗台灣藍隊，陣中洋將阿基（Tajuan Steven Agee）更在分數懸殊時閉眼罰球引發討論，他今在排名賽後接受訪問時表示，無意對任何人不尊...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "瓊斯盃》保送台灣影響菲律賓明年來台意願？主帥曝老闆非常不開心",
-     "link": "https://sports.ltn.com.tw/news/breakingnews/5548146",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-21T22:24:52+08:00",
-     "description": "第45屆威廉瓊斯盃國際籃球邀請賽男子組賽事因保送台灣藍隊的特殊規則持續引發討論，菲律賓今以96：91擊敗約旦，收下第5名，主帥張念財坦言，這次的爭議也許會對球隊明年來台參...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "瓊斯盃／中華藍保送4強惹議！籃協駁臨時改賽制：7/30已通知",
-     "link": "https://news.ebc.net.tw/news/sport/567477",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-08-21T20:31:16.853442+08:00",
-     "description": "本屆威廉瓊斯盃男子組賽事中，中華藍隊享有「保障四強」的特殊賽制在近日引發外界高度爭議與討論。",
-     "category": "sport",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "sport",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "瓊斯盃》5勝1敗的菲律賓只能打排名賽  國王洋將杰倫、沃許本觀戰",
-     "link": "https://sports.ltn.com.tw/news/breakingnews/5548055",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-21T20:05:04+08:00",
-     "description": "第45屆威廉瓊斯盃國際籃球邀請賽男子組賽事進入尾聲，今進行兩場排名賽，由於4支球隊都是外隊，觀眾席相當冷清，不過不乏亮點，未隨隊前往成都的TPBL新北國王洋將沃許本也現身...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "瓊斯盃賽制羅生門！籃協再發聲明公布時間軸：7月底已通知日韓菲",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ON19pbFVpOGt5UVpxYklnbDJxTDhiTFdEcFJ0X0RhWXRQUlVKTVFNWmFleGRaRklfZ1hWVFNYQ1JWVjZ6TXhHaF9jQkvSAVJBVV95cUxNajZkUzYxTGF3ZENmWGxWM0NzdmRrMlpuRUZROFJUREY5NFJWN0dkNkstbGN1Snl2V2drSmJjMG1WN3R4M21DLUd6MlBtS0JycTN3?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-08-21T20:03:50+08:00",
-     "description": "瓊斯盃賽制羅生門！籃協再發聲明公布時間軸：7月底已通知日韓菲  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "瓊斯盃》台灣藍保障四強賽制惹議！籃協澄清：7/30已通知日韓菲三國",
-     "link": "https://sports.ltn.com.tw/news/breakingnews/5548031",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-21T19:47:40+08:00",
-     "description": "本屆瓊斯盃男子組因台灣藍隊保障四強的賽制引發爭議，中華民國籃球協會稍早再度發出聲明澄清，已在7月30日通知與台灣藍隊同組的日、韓、菲三國，告知本屆將採取此特殊賽制，並非網...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "5勝1敗不如1勝墊底...瓊斯盃驚人賽制挨轟　菲律賓球員「閉眼罰球」回敬中華藍",
-     "link": "https://www.mirrormedia.mg/story/20260821edi051",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-08-21T12:37:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "瓊斯盃賽制爭議再添恩怨　盤點中華男籃與菲律賓歷年經典浴血戰役",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKRW1oNklmMEhGeUU1OXV0WDhrb1duZDN2X3VDdi1pUkRjMno0TjIweWFpUGU2SmlHdFFNT00yMEY3dkJTd0xQMGJQeTQ2R01GTEHSAVJBVV95cUxQSkVtaDZJZjBIRnlFNTl1dFg4a29XbmQzdl91Q3YtaVJEYzJ6NE4yMHlhaVBlNkppR3RRTU9NMjBGN3ZCU3dMUDBiUHk0NkdNRkxB?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-08-21T09:44:42+08:00",
-     "description": "瓊斯盃賽制爭議再添恩怨　盤點中華男籃與菲律賓歷年經典浴血戰役  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "瓊斯盃／韓國教練也抱怨！菲律賓主帥怒曝來台才知「中華藍保送4強」",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB4dDZUbmswUmdPa0JFdno3XzhDa3VIM3lnSTBIYlJMcUZScXJUMHoyVDhrN2JHUThWT2gwQjdYVTBhWEh4UnNiUnNmWHlRdzRo0gFWQVVfeXFMT3NFdmhqVFYtYnZXQUZDWVlQU2tRRG9KZHZuczlMVjlYb0FBdDNWUnJRVG1fQ1dFLWRXREF2Yi11aHZMUkF6Zmo1alN2N2otWEpENlVDZGc?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-08-20T14:42:53+08:00",
-     "description": "瓊斯盃／韓國教練也抱怨！菲律賓主帥怒曝來台才知「中華藍保送4強」  UDN",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "瓊斯盃男籃一軍分組墊底仍「保送晉級」　籃協道歉：未來持續改進",
-     "link": "https://www.mirrormedia.mg/story/20260820edi034",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-08-20T13:21:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
      }
     }
    ]
@@ -5422,8 +5261,8 @@
    "first_seen": "2026-08-20T10:39:37+08:00",
    "last_updated": "2026-08-22T16:56:00+08:00",
    "tags": [
-    "豪宅",
     "違規",
+    "豪宅",
     "蕭伊"
    ],
    "claims": [
@@ -6876,7 +6715,7 @@
    ]
   },
   {
-   "id": "966fcc488fec",
+   "id": "f065453e471a",
    "title": "韓國瑜指武器化副署權　張惇涵：依憲法捍衛民主憲政",
    "outlet_count": 5,
    "outlets": [
@@ -6891,8 +6730,8 @@
    "last_updated": "2026-08-21T12:50:00+08:00",
    "tags": [
     "民主憲政",
-    "武器化",
-    "副署權"
+    "韓國瑜",
+    "武器化"
    ],
    "articles": [
     {
@@ -6964,24 +6803,6 @@
      }
     },
     {
-     "title": "不副署隔空交火》卓榮泰：防在野獨裁 須有不副署勇氣",
-     "link": "https://news.ltn.com.tw/news/politics/paper/1767458",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-21T05:30:00+08:00",
-     "description": "〔記者鍾麗華／台北報導〕行政院長卓榮泰近日為三讀法案「不副署」，與立法院長韓國瑜隔空開火，卓揆昨在行政院院會後記者會表示，如果法律案破壞國家財政紀律，難道政府要束手無策嗎？他也預告將針對明年度總預算案拜會韓國瑜，並強調，「禮之用，和為貴，知和而和，不以禮節之，亦不可行也」，大家要和氣、要合作，但不照…",
-     "author": "鍾麗華",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "鍾麗華",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
      "title": "不副署隔空交火》韓國瑜：副署權武器化 傷害民主憲政",
      "link": "https://news.ltn.com.tw/news/politics/paper/1767459",
      "source": "ltn",
@@ -6993,6 +6814,24 @@
       "schema_version": 1,
       "author": {
        "name": "劉宛琳",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "不副署隔空交火》卓榮泰：防在野獨裁 須有不副署勇氣",
+     "link": "https://news.ltn.com.tw/news/politics/paper/1767458",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-21T05:30:00+08:00",
+     "description": "〔記者鍾麗華／台北報導〕行政院長卓榮泰近日為三讀法案「不副署」，與立法院長韓國瑜隔空開火，卓揆昨在行政院院會後記者會表示，如果法律案破壞國家財政紀律，難道政府要束手無策嗎？他也預告將針對明年度總預算案拜會韓國瑜，並強調，「禮之用，和為貴，知和而和，不以禮節之，亦不可行也」，大家要和氣、要合作，但不照…",
+     "author": "鍾麗華",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "鍾麗華",
        "source": "description"
       },
       "acquisition": "rss",
@@ -7125,8 +6964,8 @@
    "last_updated": "2026-08-20T11:38:18+08:00",
    "tags": [
     "千萬桶原油",
-    "荷莫茲安全走",
-    "傳美軍秘闢荷"
+    "軍秘闢荷莫茲",
+    "美軍"
    ],
    "articles": [
     {
@@ -7232,7 +7071,7 @@
    "last_updated": "2026-08-20T10:27:56+08:00",
    "tags": [
     "會晤金正恩",
-    "議題難有進展",
+    "武議題難有進",
     "枚強大核武"
    ],
    "articles": [
@@ -7325,7 +7164,7 @@
    ]
   },
   {
-   "id": "20931f0f4efb",
+   "id": "878a0173c947",
    "title": "新聞分類總覽 - 2026-08-19",
    "outlet_count": 4,
    "outlets": [
@@ -7335,7 +7174,7 @@
     "udn"
    ],
    "article_count": 37,
-   "first_seen": "2026-08-20T03:18:42+08:00",
+   "first_seen": "2026-08-20T05:04:47+08:00",
    "last_updated": "2026-08-23T00:02:40+08:00",
    "tags": [],
    "articles": [
@@ -7354,6 +7193,23 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "2026/08/22 - 粗心小王子的部落格",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kblliYzBiRTBXdFVHUVdWMkJTeGh0OTd1c19vYlZ2aFpjZ3JGdWxoMkJ5Wk1sUGdEN1VNU1F3azJXejA2WHRuZDFPMHdTWWpRTUE?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-08-22T21:45:47+08:00",
+     "description": "2026/08/22 - 粗心小王子的部落格  udn部落格",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
@@ -7490,23 +7346,6 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "經濟日報 2026-08-20 星期四",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEVldoRm1QZnBUcHlkV1NnaUY3ODQ0d05yRkFKZDc0Y1JvT0Y2R01kTG5nNEtYbW1JWGpjcHRJX2w5aENFa2t6RW9RM19zaHV6V2lOeTF3?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-08-21T23:42:31+08:00",
-     "description": "經濟日報 2026-08-20 星期四  琅琅悅讀",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -7669,7 +7508,7 @@
    "tags": [
     "民主剛果",
     "伊波拉疫",
-    "再延長"
+    "疫情已"
    ],
    "claims": [
     {
@@ -7777,9 +7616,9 @@
    "first_seen": "2026-08-22T09:59:13+08:00",
    "last_updated": "2026-08-22T16:25:00+08:00",
    "tags": [
-    "立法院副院長",
-    "饒穎奇辭世享",
-    "慶鈴悲痛證實"
+    "院副院長饒穎",
+    "慶鈴悲痛證實",
+    "穎奇辭世享耆"
    ],
    "articles": [
     {
@@ -8040,9 +7879,9 @@
    "first_seen": "2026-08-21T21:22:00+08:00",
    "last_updated": "2026-08-22T08:32:19.998148+08:00",
    "tags": [
-    "不想沾胎哥郎",
+    "七月不想沾胎",
     "台南花店霸氣",
-    "支持者想送花"
+    "趙建銘支持者"
    ],
    "articles": [
     {
@@ -9235,7 +9074,7 @@
    "first_seen": "2026-08-22T19:48:59+08:00",
    "last_updated": "2026-08-22T23:17:06+08:00",
    "tags": [
-    "棒球場進入",
+    "新竹棒球場",
     "高虹安",
     "驗收階段"
    ],
@@ -9449,6 +9288,77 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
+   "id": "1427c46d8f7a",
+   "title": "趙翊廷向祖母解釋「媽媽不是惡意」 嘆3兄弟生活費比許芊芊薪水低",
+   "outlet_count": 3,
+   "outlets": [
+    "chinatimes",
+    "mirror",
+    "setn"
+   ],
+   "article_count": 3,
+   "first_seen": "2026-08-21T12:04:44+08:00",
+   "last_updated": "2026-08-22T13:23:00+08:00",
+   "tags": [
+    "比許芊芊薪水",
+    "生活費",
+    "陳幸妤"
+   ],
+   "articles": [
+    {
+     "title": "許芊芊月薪恐達「這數字」！陳幸妤兒子控生活費不足　她憑對話細節反推",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1FdXJtdHZuRi13T21wbWJ4MHBKNmZSLXhDUUJjOHZGSjNnVlJWeUxKc2ttSnBvV1dFeXJJejdsbmRKeUdvR092WtIBTEFVX3lxTE5xLUQ3Z1FIUGhLVjN0TkVfcXJtRjZDenc1elp6a2NZOHhHcll4RU1CcjEwSmJWNF9zZThUOVdMYzdUQVQzQi1WcWpzNWE?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-08-22T13:23:00+08:00",
+     "description": "許芊芊月薪恐達「這數字」！陳幸妤兒子控生活費不足　她憑對話細節反推  三立新聞網SETN.com",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "1個月生活費比許芊芊薪水低！陳幸妤3兒子學霸背景曝光　他靠自學「成台灣之光」掀關注",
+     "link": "https://www.mirrormedia.mg/story/20260822edi010",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-08-22T10:27:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "趙翊廷向祖母解釋「媽媽不是惡意」 嘆3兄弟生活費比許芊芊薪水低",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GdEswcklXVFJ0ZUZuRW5GSjNtdEhRajdPNlB0WHJQMnQtUjRlbUZlSVhzVnRlVDZQeFdfMllycFdwYVkwRU1kZlR2MzYxSXlCSTNvdVZzUmZRT1BUMVhCckJqeGM0d1lTUEJKY1ZB?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-08-21T12:04:44+08:00",
+     "description": "趙翊廷向祖母解釋「媽媽不是惡意」 嘆3兄弟生活費比許芊芊薪水低  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
