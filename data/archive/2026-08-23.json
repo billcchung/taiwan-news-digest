@@ -1,11 +1,11 @@
 {
  "date": "2026-08-23",
- "generated_at": "2026-08-23T10:45:05.534484+08:00",
+ "generated_at": "2026-08-23T12:30:57.564886+08:00",
  "events": [
   {
-   "id": "18580fd47422",
-   "title": "趙建銘返台不受訪　提供文件稱與陳幸妤協議違反保密賠1億",
-   "outlet_count": 11,
+   "id": "f9f1cf9fd69b",
+   "title": "台南安南區空地廢棄物起火爆炸　延燒8戶波及20車、13人送醫",
+   "outlet_count": 12,
    "outlets": [
     "chinatimes",
     "cna",
@@ -15,23 +15,269 @@
     "mirror",
     "newtalk",
     "nownews",
+    "pts",
+    "storm",
+    "tvbs",
+    "udn"
+   ],
+   "article_count": 60,
+   "first_seen": "2026-08-22T05:30:00+08:00",
+   "last_updated": "2026-08-23T12:30:57.564886+08:00",
+   "tags": [
+    "爆炸",
+    "台南"
+   ],
+   "claims": [
+    {
+     "type": "受傷人數",
+     "agree": false,
+     "outlet_count": 5,
+     "values": [
+      {
+       "value": "13",
+       "outlets": [
+        "公視新聞",
+        "聯合新聞網"
+       ]
+      },
+      {
+       "value": "15",
+       "outlets": [
+        "中央社",
+        "風傳媒"
+       ]
+      },
+      {
+       "value": "14",
+       "outlets": [
+        "自由時報"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "金額",
+     "agree": true,
+     "outlet_count": 2,
+     "values": [
+      {
+       "value": "2萬元",
+       "outlets": [
+        "TVBS",
+        "公視新聞"
+       ]
+      }
+     ]
+    }
+   ],
+   "articles": [
+    {
+     "title": "臨沂大爆炸「釀1死2失聯」原因曝 現場驚悚畫面流出",
+     "link": "https://news.ebc.net.tw/news/world/567639",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-08-23T12:30:57.564886+08:00",
+     "description": "中國山東省臨沂市21日下午驚傳爆炸事故，沂河新區王橋社區突然發生猛烈爆炸，強大衝擊波造成周邊多棟住宅受損，現場滿是磚塊、水泥與碎石，附近車輛也遭到波及。",
+     "category": "world",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "world",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "台南大爆炸掀國際關注！「巨大爆炸」登《CNN》　「恐怖瞬間」全還原",
+     "link": "https://www.mirrormedia.mg/story/20260823edi008",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-08-23T10:58:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "台南安南區重大火警爆炸！延燒11戶釀13傷　建商急澄清：與本公司無關",
+     "link": "https://www.mirrormedia.mg/story/20260823edi010",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-08-23T07:47:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "台南安南區空地火堆大爆炸 15人傷、燒11戶 疑堆置鎂鋁、廢油爆炸 57戶民宅波及受損",
+     "link": "https://news.ltn.com.tw/news/society/paper/1767694",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-23T05:30:00+08:00",
+     "description": "〔記者王捷、洪瑞琴／台南報導〕台南市安南區海佃路二段一處巷內空地昨凌晨一時許發生火災，原本只是一個小火堆，但因裡頭含有鎂、鋁金屬類事業廢棄物，遇水進而引發大火及連續爆炸，這場火災在四小時後撲滅，有消防人員及民眾共十五人受傷，引發十一戶民宅火災，因爆炸波威力驚人，也造成鄰近五十七戶民宅受損。\n\n現…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "追偷埋鎂土禍首！無照廢五金業者疑潛逃國外",
+     "link": "https://news.ebc.net.tw/news/society/567650",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-08-23T00:29:17.745192+08:00",
+     "description": "台南安南區停車場遭違法埋放鎂土，追查發現由曾住附近的冷氣安裝男子埋放，委託方疑為高雄友誠洋行。環保局指出王姓負責人疑似潛逃國外，將追究刑責並移送法辦。",
+     "category": "society",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "society",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "網傳「建商堆廢棄物」害台南爆炸！建商緊急澄清：與我們無關",
+     "link": "https://www.ettoday.net/news/20260822/3224004.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-08-22T23:15:00+08:00",
+     "description": "台南市安南區海佃路二段22日凌晨發生重大火警爆炸事故，延燒11戶民宅並造成13人受傷。由於事故地點鄰近建案，網路隨後傳出現場堆置廢棄物為建商所有的謠言。對此，建商力弘建設發表聲明鄭重澄清，事故現場堆置物與該公司完全無關，呼籲外界勿以訛傳訛散播不實訊息，並強調將配合主管機關調查釐清責任。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "台南爆炸案毀8屋釀15傷 負責人是通緝犯、6月底就離境跑路 | 蕭宥宸 | 新聞",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nY0lDVVEwU0FENDYxZk03M1VmUHlvYTRBcmNSeXlnZHZ3RV9WWnhLSFhLVDJNOC1qM2hlNlBrdzBocUJqTFZ1ZkRWNU5FUQ?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-08-22T22:57:07+08:00",
+     "description": "台南爆炸案毀8屋釀15傷 負責人是通緝犯、6月底就離境跑路 | 蕭宥宸 | 新聞  風傳媒",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "台南重大火警爆炸案 黃偉哲返台坐鎮、拚災後復原",
+     "link": "https://news.ltn.com.tw/news/society/breakingnews/5549020",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-22T22:38:40+08:00",
+     "description": "台南市安南區今晨發生重大火警，市長黃偉哲更改原訂新加坡行程返台，晚間隨即前往災害指揮所聽取簡報，並赴災區及安置場所慰問受災居民，了解房屋受損、生活安置及家園復原情形，要求市府全...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "台南大爆炸！廢料公司負責人是通緝犯 已出國行蹤不明",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QQ1Y5aDhuQ0RacWs3WldSNl80SzYtcGdudTUzZTdnRS1sWFNTVGFfRXRKOTN4Yk55TTFJeF9sdDdmYmNYVTBjYTBLTkp6VExsQ2E0Z0Q0NzRuUDc3UzhSXzYzTXhCTDRnMFQwUmV3?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-08-22T22:05:51+08:00",
+     "description": "台南大爆炸！廢料公司負責人是通緝犯 已出國行蹤不明  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "台南安南區爆炸驚魂！ 後備軍人暖心救援",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5548966",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-22T21:39:53+08:00",
+     "description": "台南安南區​今天凌晨發生鎂土爆炸案，猛烈火勢波及周邊近70戶民宅，台南後備軍人輔導中心幹部迅速抵達災區，與國軍弟兄一起攜手協助清理家園，成為災區中最溫暖的力量。\n\n​今天凌晨...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    }
+   ]
+  },
+  {
+   "id": "836a29fe248d",
+   "title": "趙建銘返台不受訪　提供文件稱與陳幸妤協議違反保密賠1億",
+   "outlet_count": 12,
+   "outlets": [
+    "chinatimes",
+    "cna",
+    "ebc",
+    "ettoday",
+    "ltn",
+    "mirror",
+    "newtalk",
+    "nownews",
+    "pts",
     "setn",
     "storm",
     "tvbs"
    ],
-   "article_count": 107,
-   "first_seen": "2026-08-20T11:06:42+08:00",
-   "last_updated": "2026-08-23T08:47:40+08:00",
+   "article_count": 73,
+   "first_seen": "2026-08-20T23:02:57+08:00",
+   "last_updated": "2026-08-23T11:13:48+08:00",
    "tags": [
     "趙建銘",
-    "陳幸妤",
-    "協議"
+    "離婚協議",
+    "陳幸妤"
    ],
    "claims": [
     {
      "type": "金額",
-     "agree": true,
-     "outlet_count": 7,
+     "agree": false,
+     "outlet_count": 10,
      "values": [
       {
        "value": "1億元",
@@ -41,14 +287,39 @@
         "中時新聞網",
         "今日新聞",
         "新頭殼",
+        "東森新聞",
         "自由時報",
+        "鏡週刊",
         "風傳媒"
+       ]
+      },
+      {
+       "value": "200億元",
+       "outlets": [
+        "公視新聞"
        ]
       }
      ]
     }
    ],
    "articles": [
+    {
+     "title": "貿易談判破局 美對加拿大商品加徵50%關稅",
+     "link": "https://news.pts.org.tw/article/823678",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-08-23T11:13:48+08:00",
+     "description": "美國與加拿大的貿易談判，在最後一刻宣告破局，美方自22日凌晨起，正式對價值200億元的加拿大商品，加徵50%關稅。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
     {
      "title": "美對加開徵50%關稅生效　4大重點一次看",
      "link": "https://www.cna.com.tw/news/aopl/202608230021.aspx",
@@ -101,23 +372,6 @@
      }
     },
     {
-     "title": "陳幸妤婚變完整揭密！　趙建銘「20歲大學生女友」曝光",
-     "link": "https://www.ettoday.net/news/20260822/3223641.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-08-22T07:21:00+08:00",
-     "description": "前總統陳水扁女兒陳幸妤上週在前夫趙建銘診所的Google評論區留言，首度以「前妻」身分揭露2人早已離婚，更痛斥趙建銘對妻兒無情無義，與診所女助理許芊芊糾纏不清、大搞男女關係。本刊掌握，趙建銘身邊新歡，是一名年僅20歲、就讀台南應用科技大學的女大生，而且疑似非本國籍，更讓陳幸妤決心撕破臉的是，她多年替3個兒子存下共2,300萬元教育基金，原交由趙建銘代管，如今遭挪用且遲未歸還。扁家友人透露，趙建銘3",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
      "title": "陳幸妤恐賠1億？律師揭保密協議「致命漏洞」",
      "link": "https://news.ebc.net.tw/news/living/567462",
      "source": "ebc",
@@ -154,40 +408,6 @@
      }
     },
     {
-     "title": "陳幸妤虧「只能在脆上搞笑」 阿扁親回這個貼圖",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5548076",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-21T21:14:04+08:00",
-     "description": "前總統陳水扁的女兒陳幸妤與趙建銘離婚，吸引眾人目光，今（21日）陳幸妤被媒體問及，父親陳水扁是否有關心她的情況時，她忍不住笑虧「爸爸也不能幫忙什麼，他真的退休了，只能在Threa...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "陳幸妤笑虧爸爸「只能在Threads搞笑給你們看」　受訪畫面瘋傳！陳水扁現身留言反擊",
-     "link": "https://www.mirrormedia.mg/story/20260821edi089",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-08-21T21:02:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
      "title": "離婚風波燒到媒人夫妻！陳幸妤致歉：對不起他們",
      "link": "https://news.ebc.net.tw/news/living/567453",
      "source": "ebc",
@@ -207,254 +427,60 @@
      }
     },
     {
-     "title": "趙建銘母是超佛房東！豪宅1.6萬租護理師 專家曝真實行情",
-     "link": "https://news.ebc.net.tw/news/politics/567451",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-08-21T20:31:16.853442+08:00",
-     "description": "陳幸妤與趙建銘離婚風波持續，許姓護理師稱以月租1.6萬元承租趙母豪宅，未介入家庭。專家調出同社區實價登錄，指出合理月租約4.5萬元，直言1萬租金遠低於市價。",
-     "category": "politics",
+     "title": "陳幸妤難逃1億賠償？律師揭趙建銘1動作自作聰明：自己先違約了- 生活",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0bnBKYzlJMXJOcTZ2QVFMOE13YktEcUxLTjhRTnZuUzFCVzExa1JvcjNTV0NXMEhtX3p0aHBaSzk3LWwxS04tZUZyWF9aQ2pvYXluR05mZWlJVHFMV3h5dzJkWFl3ZzlGOFpoZTdB?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-08-21T20:25:17+08:00",
+     "description": "陳幸妤難逃1億賠償？律師揭趙建銘1動作自作聰明：自己先違約了- 生活  中時新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "scraper",
-      "category": "politics",
-      "feed_url": "https://news.ebc.net.tw/realtime"
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "陳幸妤要賠償趙建銘1億？保密條款違約懶人包 律師揭「前駙馬」背後目的 | 李瑋萱 | 新聞",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB4UVRpd0hUaGhnSEJzLU1GaFB6WGNRdE1WLVlzUnZoQ3hYNmdpLUpuMVJhMDBiczN3a3pCNVE4V0xCVThQZDFtSG5Hc1JQUQ?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-08-21T18:51:05+08:00",
+     "description": "陳幸妤要賠償趙建銘1億？保密條款違約懶人包 律師揭「前駙馬」背後目的 | 李瑋萱 | 新聞  風傳媒",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "趙建銘轉身「頭頂禿一大片」？另1角度曝光醫揭原因- 生活",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QTnNsc0tuNzRuTC1IQWFZa1JYN2wyRmhkRFh2cjhKYVNKMkhRSHZIMFJRUzViUFFWeC1RN3ZTTjkzOWVZTUh6bUtxbjJJN09XVFNiVkFTdkQzaXVSOGdaQzFqaGh6LUFkNG5rV3Rn?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-08-21T18:40:23+08:00",
+     "description": "趙建銘轉身「頭頂禿一大片」？另1角度曝光醫揭原因- 生活  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
   },
   {
-   "id": "f9f1cf9fd69b",
-   "title": "台南安南區空地廢棄物起火爆炸　延燒8戶波及20車、13人送醫",
-   "outlet_count": 11,
-   "outlets": [
-    "chinatimes",
-    "cna",
-    "ebc",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "newtalk",
-    "nownews",
-    "pts",
-    "tvbs",
-    "udn"
-   ],
-   "article_count": 44,
-   "first_seen": "2026-08-22T05:30:00+08:00",
-   "last_updated": "2026-08-23T07:47:00+08:00",
-   "tags": [
-    "台南安南",
-    "爆炸"
-   ],
-   "claims": [
-    {
-     "type": "受傷人數",
-     "agree": false,
-     "outlet_count": 4,
-     "values": [
-      {
-       "value": "13",
-       "outlets": [
-        "公視新聞",
-        "聯合新聞網"
-       ]
-      },
-      {
-       "value": "14",
-       "outlets": [
-        "自由時報"
-       ]
-      },
-      {
-       "value": "15",
-       "outlets": [
-        "中央社"
-       ]
-      }
-     ]
-    }
-   ],
-   "articles": [
-    {
-     "title": "台南安南區重大火警爆炸！延燒11戶釀13傷　建商急澄清：與本公司無關",
-     "link": "https://www.mirrormedia.mg/story/20260823edi010",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-08-23T07:47:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "台南安南區空地火堆大爆炸 15人傷、燒11戶 疑堆置鎂鋁、廢油爆炸 57戶民宅波及受損",
-     "link": "https://news.ltn.com.tw/news/society/paper/1767694",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-23T05:30:00+08:00",
-     "description": "〔記者王捷、洪瑞琴／台南報導〕台南市安南區海佃路二段一處巷內空地昨凌晨一時許發生火災，原本只是一個小火堆，但因裡頭含有鎂、鋁金屬類事業廢棄物，遇水進而引發大火及連續爆炸，這場火災在四小時後撲滅，有消防人員及民眾共十五人受傷，引發十一戶民宅火災，因爆炸波威力驚人，也造成鄰近五十七戶民宅受損。\n\n現…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "網傳「建商堆廢棄物」害台南爆炸！建商緊急澄清：與我們無關",
-     "link": "https://www.ettoday.net/news/20260822/3224004.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-08-22T23:15:00+08:00",
-     "description": "台南市安南區海佃路二段22日凌晨發生重大火警爆炸事故，延燒11戶民宅並造成13人受傷。由於事故地點鄰近建案，網路隨後傳出現場堆置廢棄物為建商所有的謠言。對此，建商力弘建設發表聲明鄭重澄清，事故現場堆置物與該公司完全無關，呼籲外界勿以訛傳訛散播不實訊息，並強調將配合主管機關調查釐清責任。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "台南重大火警爆炸案 黃偉哲返台坐鎮、拚災後復原",
-     "link": "https://news.ltn.com.tw/news/society/breakingnews/5549020",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-22T22:38:40+08:00",
-     "description": "台南市安南區今晨發生重大火警，市長黃偉哲更改原訂新加坡行程返台，晚間隨即前往災害指揮所聽取簡報，並赴災區及安置場所慰問受災居民，了解房屋受損、生活安置及家園復原情形，要求市府全...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "台南安南區爆炸驚魂！ 後備軍人暖心救援",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5548966",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-22T21:39:53+08:00",
-     "description": "台南安南區​今天凌晨發生鎂土爆炸案，猛烈火勢波及周邊近70戶民宅，台南後備軍人輔導中心幹部迅速抵達災區，與國軍弟兄一起攜手協助清理家園，成為災區中最溫暖的力量。\n\n​今天凌晨...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "台南安南區廢棄物起火爆炸釀15傷　黃偉哲急返國慰問",
-     "link": "https://www.cna.com.tw/news/asoc/202608220214.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-08-22T21:22:00+08:00",
-     "description": "（中央社記者張榮祥台南22日電）台南市安南區海佃路空地的廢棄物今天凌晨起火爆炸，延燒11戶，造成15人受傷，市長黃偉哲晚間從新加坡趕返探視慰問，他表示，已啟動刑事偵查，因偵查不公開，無法透露內容。",
-     "author": "張榮祥",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "張榮祥",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/social"
-     }
-    },
-    {
-     "title": "原定到新加坡行銷！黃偉哲得知台南爆炸「緊急取消行程」返台",
-     "link": "https://www.ettoday.net/news/20260822/3223946.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-08-22T18:50:00+08:00",
-     "description": "台南市安南區海佃路二段22日凌晨發生重大火警，延燒11戶透天民宅並造成13人受傷。台南市長黃偉哲原定22日搭乘凌晨紅眼班機前往新加坡，出席秋季旅展觀光行銷活動，上午9點抵達新加坡知悉火災後，因心繫台南災情，當即決定行程喊卡並折返回台。黃偉哲搭乘中午12點班機返台，傍晚已回到台灣親自坐鎮指示善後與救災工作。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "台南安南區大爆炸釀15傷、57戶受損 每戶發2萬救助金",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wVHlXbWxFckhRY2NvTVJqYlZZMjZ2UHFCWURHQ0hTZHcxOUttLXRyNHBrak9hcHFPaDBiZVZxT2d4N0JmcnVQUGJBMXh6SFE?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-08-22T17:16:00+08:00",
-     "description": "台南安南區大爆炸釀15傷、57戶受損 每戶發2萬救助金  TVBS新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "台南大火多人傷　卓榮泰令：各部會全力救災、助受災民眾安置",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11aWd1MU1nUDJaRjE2YVM0T2p2djlMZkpRODlLQWw1QW1HQUt3YkdzN1BhXzVDREdJOGhoSmtIN3VUT29JR1U4MzFHZUpmbFhDUlHSAVJBVV95cUxNdWlndTFNZ1AyWkYxNmFTNE9qdnY5TGZKUTg5S0FsNUFtR0FLd2JHczdQYV81Q0RHSThoaEprSDd1VE9vSUdVODMxR2VKZmxYQ1JR?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-08-22T16:31:08+08:00",
-     "description": "台南大火多人傷　卓榮泰令：各部會全力救災、助受災民眾安置  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "安南爆炸釀災卓揆發聲：已指示各部會全力協助救災| 政治",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BaU9ZRG5BNlZ0Z2NkYVVWMzR1V2lqNTB2VE9DZ2tJZ3NhR0dtY2JPdkc1YVoxY3J6NkxRWTdrRW5rMTlweEhVWGxlMFhVTzkyREV1ZWhUYlVuTm8?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-08-22T16:30:13+08:00",
-     "description": "安南爆炸釀災卓揆發聲：已指示各部會全力協助救災| 政治  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
-   "id": "c1a60e6a8521",
+   "id": "e5adaaee4e95",
    "title": "平日國旅補助9月上路 今起開放上網登記",
    "outlet_count": 11,
    "outlets": [
@@ -470,11 +496,12 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 28,
-   "first_seen": "2026-08-20T11:00:51+08:00",
+   "article_count": 20,
+   "first_seen": "2026-08-20T12:32:00+08:00",
    "last_updated": "2026-08-22T15:56:00+08:00",
    "tags": [
     "國旅補助",
+    "平日",
     "最高"
    ],
    "claims": [
@@ -517,23 +544,6 @@
      }
     },
     {
-     "title": "今天身分證尾數6、7快登記！最新觀光署旅遊補助「9/1起每人領最高5200元」，5 筆錢金額如何申請一次看",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0tRHdORHZwRTBXaUJycmJTRW5YeE1FakI4ZGozNThsQWZWRkw4Q1ZuX2gwcF9wd0g0SHhrV1YzOUZ4b0psSnFmMExBb1FtZ21V?oc=5",
-     "source": "storm",
-     "source_name": "風傳媒",
-     "published": "2026-08-22T11:27:10+08:00",
-     "description": "今天身分證尾數6、7快登記！最新觀光署旅遊補助「9/1起每人領最高5200元」，5 筆錢金額如何申請一次看  風傳媒",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
      "title": "「身分證尾數4、5」快搶3200國旅補助！登錄3步驟QA：Agoda不適用",
      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBTk52LV9GbG8zdlBtcUlrR184QjZ3bl96cDBCWk9aZGkxb2VaWUhTYUZJSFNQTGdCVzl6bm5Ka29oa3czbVAwa0hsbS1RMTh3UHfSAVJBVV95cUxQQU5Odi1fRmxvM3ZQbXFJa0dfOEI2d25fenAwQlpPWmRpMW9lWllIU2FGSUhTUExnQlc5em5uSmtvaGt3M21QMGtIbG0tUTE4d1B3?oc=5",
      "source": "nownews",
@@ -548,40 +558,6 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "70歲長輩快點領錢！政府發36000元交通補助「符合資格全台都能領」， 如何請領一文看",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9aU3pWRXllM3RyLVplMWJHNTZuRFlaMUNnTFhvM19BbWZNUllfc1RwUEZmXzBhdU5IOFRlbkQtVi1aLURlYnVDNkd3Wnh1aG5z?oc=5",
-     "source": "storm",
-     "source_name": "風傳媒",
-     "published": "2026-08-22T10:32:29+08:00",
-     "description": "70歲長輩快點領錢！政府發36000元交通補助「符合資格全台都能領」， 如何請領一文看  風傳媒",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "2026最新家電補助快申請！9/1每人發最高5000元「1地符合資格就入帳」， 如何請領一次看",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9idHhBSWFNNTVWbE1YSnpGcUNHSEllVDBBOHNNWGlRLWd5MnVOamgtVjVoRTNVUUwyZEJQRWZQeG5UeXFUQVlyWmNLdGJQdnN1?oc=5",
-     "source": "storm",
-     "source_name": "風傳媒",
-     "published": "2026-08-22T08:40:00+08:00",
-     "description": "2026最新家電補助快申請！9/1每人發最高5000元「1地符合資格就入帳」， 如何請領一次看  風傳媒",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
@@ -636,23 +612,6 @@
      }
     },
     {
-     "title": "2026年國旅補助9/1上路 申請方式、獎助內容一次看",
-     "link": "https://news.pts.org.tw/article/823494",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-08-21T16:00:37+08:00",
-     "description": "2026年國旅補助將於9月1日上路，除提供平日住宿2晚合計最高2500元的獎助金外，每個月也會抽出1000名壽星發放1200元生日住宿金，並提供樂園點數與台鐵Taiwan PASS等優惠。本次國旅提供哪些補助內容？要如何查詢可申請補助的旅宿？",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
      "title": "《TVBS新聞網》網路投票／國旅補助9月上路，您認為能提振國旅嗎？",
      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBGaEwzNldFeWlYaFdPV3B3LUlFVFJYQ3VMSmxBVVBLYWVFNWQ2UTVXN0UxTXZQc1dZbS1YUmFVRDMzbjF2ck0xOGo3X212UQ?oc=5",
      "source": "tvbs",
@@ -668,13 +627,81 @@
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
+    },
+    {
+     "title": "搶攻平日國旅補助台北晶華開第一槍加碼4千元- 商情",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQXprX29jNVREaFN3MjRKaV9HbzFfcFBxUEJjd2ZENDgxdnVlMzdTV2JBeFZidEpyLXBqX3phek1aaFExNjBhTmhGNXJXT3NfQXFETDl2TnYtWElKLUlWdXFKSmJIakd0VnVJM3pVQ1hCbjQ4VnlJcG82Y3h2bEsxeEdsRzJqVDAzZ3BnY3NFQS1QeFFsS3YwMFR3dFFnaVZ4dEdCcExkUG9OQXpmUFZiallpZFJWd2M5cEJhSkpFYkJaWVVvSXlaeGVhWjhBVFgxanc?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-08-21T13:32:46+08:00",
+     "description": "搶攻平日國旅補助台北晶華開第一槍加碼4千元- 商情  旺得富理財網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "國旅補助平日住房優惠，晶華酒店加碼4000元餐飲金，對旅遊市場有何影響？",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeDlCbVA2Z09YRmZhSUdxbGVGeWVQSGJzRVJ3ekROdWdsdE9ZOXJmWWdCNFhzWGZCUG5ESWZ5T1RuWUhKVjIxVTN6Szd6dWQyd0xDU1p5bXRyOTFOdE8yY1dFVmJUbjhmU0lPMHRxd0ZTMUFTbFBLOVA2OTFJWEJNZkN0dHZqc0IxbURNd2J5VTF1X2NGUVVvbXFOcTYxNHMzajdqbDdWSHM2RXI2RUN3?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-08-21T12:00:57+08:00",
+     "description": "國旅補助平日住房優惠，晶華酒店加碼4000元餐飲金，對旅遊市場有何影響？  newslens.nownews.com",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "國旅補助「身分證尾數2、3」今申請！拼領3200元　登記3步驟速記",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KbUVhNk0zYW82dDAwc1NtYTlMb3M0NTdqRWRKQTZIWGluX2xmM0tzUnFzMW5md3hjeVlPWjBfVmFIZUFnZEdqWUprQmJrT19HN0HSAVJBVV95cUxOSm1FYTZNM2FvNnQwMHNTbWE5TG9zNDU3akVkSkE2SFhpbl9sZjNLc1JxczFuZnd4Y3lZT1owX1ZhSGVBZ2RHallKa0Jia09fRzdB?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-08-21T10:10:49+08:00",
+     "description": "國旅補助「身分證尾數2、3」今申請！拼領3200元　登記3步驟速記  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "當「壽星」遇上國旅補助：1200元生日券如何放大旅遊價值？",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaVJwUldCUnFmeHpNRXROUktpMnBhRGcycHk3YThxRzhOZ1pZREZfMklHbVNjVGY2eVRuaGU5WjVlbzd3bFBxRWVEZDdQTGpSd09scFF4ejlwN0lOWEpBemtwR0tocUJkNEpJck1xbXlob2ppMHhxNFN0UERydWNtVzduWVJnMkdUOFRzWHUzM1pOb0VmQ2xpR2FZbXhHTE81cWhfSV9WX1ZmcTl5RGRr?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-08-21T02:14:33+08:00",
+     "description": "當「壽星」遇上國旅補助：1200元生日券如何放大旅遊價值？  newslens.nownews.com",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
     }
    ]
   },
   {
    "id": "a6db56dbd372",
    "title": "台南高雄屏東23日停班停課",
-   "outlet_count": 9,
+   "outlet_count": 10,
    "outlets": [
     "cna",
     "ebc",
@@ -683,23 +710,41 @@
     "mirror",
     "newtalk",
     "nownews",
+    "pts",
     "setn",
     "storm"
    ],
-   "article_count": 24,
+   "article_count": 25,
    "first_seen": "2026-08-22T12:15:00+08:00",
-   "last_updated": "2026-08-23T10:16:05+08:00",
+   "last_updated": "2026-08-23T10:59:04+08:00",
    "tags": [
     "停班停課"
    ],
    "articles": [
     {
-     "title": "明天8/24會放豪雨假嗎？「4縣市」停班停課達標！全台22 縣市名單不斷更新",
+     "title": "嚴防劇烈強降雨 台南、高雄、屏東今日停班課",
+     "link": "https://news.pts.org.tw/article/823681",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-08-23T10:59:04+08:00",
+     "description": "受到低壓帶及西南風影響，南部持續降雨，氣象署昨（22）日晚間5時，啟動較大規模或較劇烈豪雨作業，雨將一路下到週二才會趨緩。由於可能會有更劇烈的強降雨，台南、高雄、屏東都宣布今（23）日停班停課。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "明天8/24會放豪雨假嗎？「6縣市」停班停課達標！全台22 縣市名單不斷更新",
      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5qd3RYRHlTQTVFbEZ2YXhHdXdINEliclJqU2VwVUIxRk5SczRSMUs2VkFDeHoxMklfSlp2LXVnNGc1MzJLTWdWUmhuQnZJTE5j?oc=5",
      "source": "storm",
      "source_name": "風傳媒",
      "published": "2026-08-23T10:16:05+08:00",
-     "description": "明天8/24會放豪雨假嗎？「4縣市」停班停課達標！全台22 縣市名單不斷更新  風傳媒",
+     "description": "明天8/24會放豪雨假嗎？「6縣市」停班停課達標！全台22 縣市名單不斷更新  風傳媒",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -847,78 +892,59 @@
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/rsscna/local"
      }
-    },
-    {
-     "title": "屏東停班停課相關報導",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1wVUJRdS1RVDI4MEdIWHRpTW9najV6eHFTT3AyRVdZTTlJSUEyVURXRDVLT2QwVzdWZmdEU0FTdFBqRXhRY2kzWQ?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-08-22T20:48:35+08:00",
-     "description": "屏東停班停課相關報導  三立新聞網SETN.com",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
     }
    ]
   },
   {
-   "id": "f146e51e8564",
-   "title": "總統府購中秋禮盒經費遭刪　民團遺憾、翁曉玲澄清",
+   "id": "603d78477d9d",
+   "title": "趙建銘薄情揭密／諷公主說謊！趙建銘友人「王醫師」身分曝光？　網抓帳號2細節「IP竟在越南」",
    "outlet_count": 9,
    "outlets": [
-    "cna",
+    "chinatimes",
+    "ebc",
     "ettoday",
     "ltn",
     "mirror",
     "newtalk",
     "nownews",
-    "pts",
-    "setn",
+    "tvbs",
     "udn"
    ],
-   "article_count": 18,
-   "first_seen": "2026-08-20T11:10:08+08:00",
-   "last_updated": "2026-08-23T09:24:00+08:00",
+   "article_count": 24,
+   "first_seen": "2026-08-20T12:56:00+08:00",
+   "last_updated": "2026-08-23T12:30:57.564886+08:00",
    "tags": [
-    "國務機要費",
-    "翁曉玲",
-    "弱勢"
-   ],
-   "claims": [
-    {
-     "type": "金額",
-     "agree": false,
-     "outlet_count": 2,
-     "values": [
-      {
-       "value": "20萬元",
-       "outlets": [
-        "三立新聞網"
-       ]
-      },
-      {
-       "value": "25萬元",
-       "outlets": [
-        "鏡週刊"
-       ]
-      }
-     ]
-    }
+    "趙建銘",
+    "王醫師",
+    "帳號"
    ],
    "articles": [
     {
-     "title": "翁曉玲控已讀不回　總統府打臉：有提供書面資料！翁辦主任回收到",
-     "link": "https://www.ettoday.net/news/20260823/3224069.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-08-23T09:24:00+08:00",
-     "description": "針對國民黨立委翁曉玲凍刪總統府國務機要費3000萬，直接影響到歷年向弱勢團體購買禮盒的慣例，今年導致37家庇護工場1.5萬盒中秋禮盒泡湯。不過，翁曉玲指控，總統府就國務機要費有所謂「已讀不回」情勢，總統府發言人郭雅慧昨天（22日）查證後打臉，強調總統府有提供完整書面資訊，翁曉玲辦公室主任明確回覆「收到」，相關聯繫對話紀錄均清楚可查，「總統府尊重立法委員依照憲法權責監督預算，但不接受對國人的造假欺騙",
+     "title": "趙建銘兒1句話洩端倪！許姓護理師疑「天價」月薪曝光",
+     "link": "https://news.ebc.net.tw/news/living/567680",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-08-23T12:30:57.564886+08:00",
+     "description": "趙建銘兒疑稱每月生活費比許姓護理師薪水低很多，網紅依UC Irvine學生開銷反推，其月薪可能落在十幾萬元，但強調真正重點並非薪資高低。",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "趙建銘薄情揭密／趙建銘角色扮演失敗？王醫師kk._hi帳號扯出史努比　網抓「1句留言」露餡秒關帳",
+     "link": "https://www.mirrormedia.mg/story/20260822edi028",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-08-22T17:10:00+08:00",
+     "description": "",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -926,51 +952,33 @@
        "source": "unknown"
       },
       "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
      }
     },
     {
-     "title": "翁曉玲稱國務機要費詢問遭「已讀不回」 總統府反駁：主任明確回覆收到| 政治",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1bUMwNjNKbUdfWkdrWHFCWnBWTmhiN2ZncnJUYVpsNnd3OUcyNXpVdjlXMmZOSWhMeU52bnlpdko5V1AySlVQeWwxbWR4cGlFRHhSUFRWLTg0YXc?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-08-22T20:57:39+08:00",
-     "description": "翁曉玲稱國務機要費詢問遭「已讀不回」 總統府反駁：主任明確回覆收到| 政治  Newtalk新聞",
+     "title": "趙建銘薄情揭密／護趙建銘Threads藏鏡人到底是誰？　女病患抖出「王醫師」本尊真實身分：確實有其人",
+     "link": "https://www.mirrormedia.mg/story/20260822edi027",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-08-22T16:22:00+08:00",
+     "description": "",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "翁曉玲稱詢問國務機要費遭已讀不回　府：當天即回覆",
-     "link": "https://www.cna.com.tw/news/aipl/202608220205.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-08-22T20:40:41+08:00",
-     "description": "（中央社記者葉素萍台北22日電）國民黨立委翁曉玲稱，曾針對國務機要費向總統府詢問卻遭「已讀不回」。總統府發言人郭雅慧今天表示，經查，翁曉玲辦公室8月13日向府方詢問當天，總統府即回覆並提供完整書面資訊，沒有翁曉玲所稱情形。",
-     "author": "葉素萍",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "葉素萍",
-       "source": "description"
-      },
       "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
      }
     },
     {
-     "title": "總統府槓上翁曉玲刪國務機要費  籲莫以不實言論卸責",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5548938",
+     "title": "他搭日本新幹線沒座位竟「自備椅子」還在Threads炫耀  網友一面倒開轟",
+     "link": "https://ec.ltn.com.tw/article/breakingnews/5548650",
      "source": "ltn",
      "source_name": "自由時報",
-     "published": "2026-08-22T20:16:12+08:00",
-     "description": "針對國民黨立委翁曉玲聲稱總統府就國務機要費有所謂「已讀不回」情事，總統府發言人郭雅慧今（22）日嚴正表示，經查證於本月13日翁委員辦公室向府方詢問同日，總統府即回覆並提供完整書...…",
+     "published": "2026-08-22T16:05:44+08:00",
+     "description": "〔財經頻道／綜合報導〕目前日本正值暑假期間，新幹線會比平時更加擁擠，但一名日本男子日前在搭乘新幹線隼號時，因為買不到有座位的指定席，竟想到用「自備椅子」加「站票」的方式搭車，還將這招當成「...…",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -982,46 +990,29 @@
      }
     },
     {
-     "title": "刪國務機要費波及庇護工場月餅 翁曉玲再控綠「拿弱勢當肉票」網痛批：到底有什麼毛病？",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vRnZ0ZXdjaHJtMGVIclFpaUE4VDZpcjZXQ25WVFFBQk1NUGYwZlNlcFJ0b2RfZGt4cDJLa1ozenk1UTNMWjdPYWRHM3BFTXJvTVhGelB6dlN5d0U?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-08-22T18:54:24+08:00",
-     "description": "刪國務機要費波及庇護工場月餅 翁曉玲再控綠「拿弱勢當肉票」網痛批：到底有什麼毛病？  Newtalk新聞",
+     "title": "始源台灣拍戲還狂刷Threads！「被醫師分析帥臉」中文親回：我沒整過",
+     "link": "https://star.ettoday.net/news/3223855",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-08-22T15:22:00+08:00",
+     "description": "南韓天團SUPER JUNIOR成員崔始源近期在台灣拍戲，與女星雷嘉汭合作新戲《要是未曾相遇就好了》，也在台出席品牌活動，透露想要與台灣有更多交流。時常在台灣網友聚集的Threads海巡的他，被台灣整形醫師公開分析外貌，更親自現身留言，幽默回應「我沒整形過」，讓台灣粉絲都相當驚喜。 《詳全文...》",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
      }
     },
     {
-     "title": "庇護工場採購遭刪凍！家長總會怒轟翁曉玲「明知故刪」 弱勢團體成政治犧牲品| 政治",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BdTk3am1XQ1d1eUc3X1pESGl3Qk13Yld1MzRwOVpoZVY5ZzBrZE8xR09NSHRYaXFQeVIwNndEVVFMLXVpenJPQ1lQbi1hYmE2M2RQWWRPcGJEekE?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-08-22T18:25:00+08:00",
-     "description": "庇護工場採購遭刪凍！家長總會怒轟翁曉玲「明知故刪」 弱勢團體成政治犧牲品| 政治  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "翁曉玲刪預算波及庇護工場 智障者家總批：再怎麼野蠻也不應「明知故刪」",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5548786",
+     "title": "王醫師「kk._hi」非許芊芊？網抓包過去一句留言成「關鍵證據」",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5548411",
      "source": "ltn",
      "source_name": "自由時報",
-     "published": "2026-08-22T17:24:25+08:00",
-     "description": "立法院藍白陣營聯手通過國民黨立委翁曉玲提案，刪凍總統府國務機要費3000萬元，衝擊全台37家庇護工場1.5萬份中秋禮盒採購訂單。中華民國智障者家長總會痛批，再怎麼野蠻，也不應「明...…",
+     "published": "2026-08-22T12:24:48+08:00",
+     "description": "牙醫陳幸妤與前夫趙建銘離婚爭議持續延燒。Threads上一個自稱是趙建銘友人「王醫師」的帳號「kk._hi」近期引發討論，不僅陳幸妤懷疑該帳號就是趙建銘的小號，還有網友破解「kk...…",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -1033,29 +1024,31 @@
      }
     },
     {
-     "title": "總統府購中秋禮盒經費遭刪　民團遺憾、翁曉玲澄清",
-     "link": "https://www.cna.com.tw/news/aipl/202608220145.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-08-22T16:38:26+08:00",
-     "description": "（中央社記者沈佩瑤、王承中台北22日電）中華民國智障者家長總會說，總統府向公益團體購買中秋禮盒經費遭刪，總會表達嚴正譴責與深切遺憾；中國國民黨籍立法委員翁曉玲今天說，在濟弱扶傾議題上無藍綠之分。",
+     "title": "神秘帳號「kk._hi」不是許姓護理師？ 9字露餡另有其人",
+     "link": "https://news.ebc.net.tw/news/living/567539",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-08-22T10:39:25.346062+08:00",
+     "description": "陳幸妤連日爆料前夫趙建銘各項爭議期間，社群平台Threads出現一個以「王醫師」名義發文的神秘帳號「kk._hi」，頻頻替趙建銘辯護，成為網友熱議焦點。",
+     "category": "living",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
      }
     },
     {
-     "title": "翁曉玲號召幫買弱勢禮盒　還原砍預算前有問總統府遭「已讀不回」",
-     "link": "https://www.ettoday.net/news/20260822/3223861.htm",
+     "title": "帳號「kk._hi」昔留9字身分露餡　應該不是許芊芊",
+     "link": "https://www.ettoday.net/news/20260822/3223646.htm",
      "source": "ettoday",
      "source_name": "ETtoday",
-     "published": "2026-08-22T15:29:00+08:00",
-     "description": "今年度總統國務機要費3000萬，遭立法院減列1000萬元、凍結2000萬元。總統府稱，原定向37家庇護工場採購的計畫無法履行，更與弱勢團體一同開記者會，對這些身障團體及庇護工場，說「歹勢」，引發討論。對此，提案砍預算的國民黨立委翁曉玲今（22日）表示，在表決總預算前，她有找總統府溝通，可修正原預算刪減案，將刪1000萬調整為減列500萬，但維持凍結2000萬，只是總統府已讀不回。她也提到，藍委群組",
+     "published": "2026-08-22T08:07:00+08:00",
+     "description": "前總統陳水扁的女兒陳幸妤與前夫趙建銘的離婚風波未平，自稱是趙建銘好友的王醫師「kk._hi」目前已經關閉帳號。不過，有眼尖網友發現，該帳號曾提及「我老婆也喜歡史努比」，引發外界質疑背後的使用者可能不是診所助理許芊芊，而是趙建銘本人。但趙建銘至今都未對相關爭議做出直接回應。 《詳全文...》",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -1067,12 +1060,12 @@
      }
     },
     {
-     "title": "翁曉玲刪預算砍到庇護工場　智障者家總罕發聲：不該明知故刪",
-     "link": "https://www.ettoday.net/news/20260822/3223844.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-08-22T14:50:00+08:00",
-     "description": "立法院日前三讀通過全數刪凍總統府國務機要費3000萬元，導致原訂向全國37家庇護工場採購1.5萬盒中秋禮盒被迫臨時取消訂單。對此，除了總統賴清德將自掏腰包20萬元，認購庇護工場的產品。國民黨則痛批情緒勒索。中華民國智障者家長總會罕見發聲表示，呼籲翁曉玲委員及所有立法委員：監督政府沒有錯，但監督不能失去比例原則，不能讓最沒有政治籌碼的人承擔代價，再怎麼野蠻，也不應明知故刪，庇護員工不應成為政治攻防的",
+     "title": "境外介選？游淑貞Threads驚爆「香港」帳號  發完聲明就刪了",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5548169",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-21T23:21:59+08:00",
+     "description": "首次上稿 8-21 23:21更新時間 8-22 06:20\n\n有傅崐萁接班人之稱、國民黨徵召花蓮縣長參選人游淑貞，21日在社群軟體Threads出現「幸福花蓮 游此開始」...…",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -1080,7 +1073,24 @@
        "source": "unknown"
       },
       "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "Threads演算法成詐騙溫床！警揭「6件中1件中招」財損破千萬",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40OW1xU2hYd00zRGNWeWFFYTcxU1E5UVZYVWNjemRkRWlNNldNZEw5NE5kWk1YaUJpVzE1Q1IzTXlnUV95UFpZejBrLUZiZ1U?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-08-21T22:00:00+08:00",
+     "description": "影音／Threads演算法成詐騙溫床！警揭「6件中1件中招」財損破千萬  TVBS新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -1100,15 +1110,32 @@
     "pts",
     "storm"
    ],
-   "article_count": 19,
+   "article_count": 20,
    "first_seen": "2026-08-20T20:08:28+08:00",
-   "last_updated": "2026-08-23T07:54:05+08:00",
+   "last_updated": "2026-08-23T09:29:37+08:00",
    "tags": [
     "陳超明",
     "改判無罪",
     "徐永明"
    ],
    "articles": [
+    {
+     "title": "SOGO收賄案大逆轉！沈政男對比京華城案「1性質相同」 斷言柯文哲二審下場 | 張庭維 | 新聞",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRNXpnWmc4MV9GdnF5aGhhUFFPcjlma1c4bWRyY1BlNFYtMFZ4WW16UzdwVU4xcFI2cDdrbkh4YUFWOEpMUDVZS3NQMlEwdw?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-08-23T09:29:37+08:00",
+     "description": "SOGO收賄案大逆轉！沈政男對比京華城案「1性質相同」 斷言柯文哲二審下場 | 張庭維 | 新聞  風傳媒",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
     {
      "title": "分析立委集體收賄案二審結果 沈政男斷言京華城案「柯P下場」",
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14ZEZZaVN4MXNOdHdvaUtlS0x6bnc4dFlkbVc3RGVUZ081MXlZWFlJcklYdnNsTC1JZzViY2gzNXhSeVdpZV94T1IxbzRQaElzUzJyVlRfRnlZTmlrWlVUM0M3T0xlVktrSGRoN1VR?oc=5",
@@ -1263,419 +1290,6 @@
       },
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/rsscna/social"
-     }
-    },
-    {
-     "title": "涉集體收賄二審宣判「改無罪」　陳超明：遲來的正義！真相終得大白",
-     "link": "https://www.mirrormedia.mg/story/20260821edi050",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-08-21T11:30:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    }
-   ]
-  },
-  {
-   "id": "fc42af16af29",
-   "title": "颱風沙德爾路徑不確定性仍大 估下週二抵琉球東方海域",
-   "outlet_count": 9,
-   "outlets": [
-    "ebc",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "newtalk",
-    "pts",
-    "storm",
-    "tvbs",
-    "udn"
-   ],
-   "article_count": 36,
-   "first_seen": "2026-08-20T10:52:00+08:00",
-   "last_updated": "2026-08-23T07:48:00+08:00",
-   "tags": [
-    "沙德爾",
-    "雨特報",
-    "大雨"
-   ],
-   "articles": [
-    {
-     "title": "17縣市豪大雨　沙德爾「最快今強颱」海警機率高",
-     "link": "https://www.ettoday.net/news/20260823/3224033.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-08-23T07:48:00+08:00",
-     "description": "17縣市豪大雨特報，中度颱風沙德爾今天可能變強颱！中央氣象署預報員王品翔表示，預估沙德爾周五最靠近台灣，但靠近程度有分歧性，評估海上警報機率高，而陸上警報還要再看。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "南台灣28地淹水警戒！　高雄台南共18區列一級",
-     "link": "https://finance.ettoday.net/news/3224036",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-08-23T07:25:00+08:00",
-     "description": "南台灣豪雨持續，經濟部水利署今（23）日上午7時10分發布淹水警戒，高雄市、台南市合計共有28個行政區列入警戒，其中18區達一級淹水警戒、10區為二級警戒。依水利署標準，一級警戒區若持續降雨，轄內易淹水村里有70%機率已開始積淹水，民眾應提高警覺。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "國家警報響！　大雷雨轟3縣市",
-     "link": "https://www.ettoday.net/news/20260823/3224032.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-08-23T07:16:00+08:00",
-     "description": "國家警報響，大雷雨轟南高屏！中央氣象署表示，今天西南風進一步增強及低壓帶影響，易有短延時強降雨。氣象署並對台南市、高雄市發布「災防告警訊息」。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "西南風增強！17縣市雨彈狂襲　「2地區防大豪雨」颱風最新動態曝",
-     "link": "https://www.mirrormedia.mg/story/20260823edi001",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-08-23T07:05:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "高雄屏東豪雨特報 其餘縣市留意局部大雨",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE00T0p5d0lYejBWQ0xJQ3pqdEFQTXZmdzR3dEJXaklpdF80T1BWOGVPTWNEUjZWdkFzSGxYbEFkX0FGWWljdmV4amNONnFJUQ?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-08-23T06:21:00+08:00",
-     "description": "高雄屏東豪雨特報 其餘縣市留意局部大雨  TVBS新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "高雄屏東豪雨特報　其餘縣市留意局部大雨",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5549069",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-23T05:21:04+08:00",
-     "description": "中央氣象署發布豪雨特報，西南風偏強及低壓帶影響，易有短延時強降雨，今（23）日高雄市地區、屏東縣地區有局部豪雨或大豪雨。\n\n嘉義縣地區、臺南市地區、恆春半島及花蓮縣山區、臺東縣山區有局部大雨...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "雨彈轟17縣市！高雄、屏東紅色警戒炸大豪雨",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5549052",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-22T23:55:06+08:00",
-     "description": "中央氣象署深夜發布豪雨特報提醒，受西南風偏強及低壓帶影響，易有短延時強降雨，高雄市地區、屏東縣地區有局部豪雨或大豪雨，嘉義縣地區、台南市地區、恆春半島及花蓮縣山區、台東縣山區有局...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "17縣市豪大雨特報！「高屏一片紅」最新警戒區曝",
-     "link": "https://www.ettoday.net/news/20260822/3224000.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-08-22T22:45:00+08:00",
-     "description": "中央氣象署針對17縣市發布豪大雨特報，因西南風偏強及低壓帶影響，易有短延時強降雨，今（22日）晚至明（23）日高雄市地區、屏東縣地區有局部豪雨或大豪雨，嘉義縣地區、台南市地區、恆春半島及花蓮縣山區、台東縣山區有局部大雨或豪雨，新北至雲林、南投、嘉義市、東半部地區及澎湖、蘭嶼、綠島有局部大雨發生的機率，請注意雷擊及強陣風，低窪地區請慎防積淹水，山區請慎防坍方、落石、土石流及溪水暴漲。 《詳全文...",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "沙德爾持續增強！3天恐達強颱 「路徑變數大」恐直逼台灣",
-     "link": "https://news.ebc.net.tw/news/living/567617",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-08-22T20:30:37.715144+08:00",
-     "description": "台灣周邊海面近期有多個熱帶系統發展，其中熱帶性低氣壓TD22已獲日本氣象廳升格為颱風「簡拉維」，路徑逐漸朝台灣方向靠近。",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "19縣市豪大雨特報！　最新警戒區域曝",
-     "link": "https://www.ettoday.net/news/20260822/3223951.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-08-22T18:59:00+08:00",
-     "description": "中央氣象署針對19縣市發布豪大雨特報，因西南風偏強及低壓帶影響，易有短延時強降雨，今（22日）晚至明（23）日新北市、基隆市、台南市、高雄市及屏東縣有局部大雨或豪雨，中部以北地區及東半部山區有局部大雨發生的機率，請注意瞬間大雨、雷擊、強陣風及溪水暴漲，山區請慎防坍方及落石，低窪地區請慎防積水。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    }
-   ]
-  },
-  {
-   "id": "1cb6092e5384",
-   "title": "趙建銘薄情揭密／王醫師「搞不好是趙建銘小帳」　陳幸妤揭唯一盼望：小孩教育基金還來",
-   "outlet_count": 9,
-   "outlets": [
-    "chinatimes",
-    "ebc",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "newtalk",
-    "nownews",
-    "tvbs",
-    "udn"
-   ],
-   "article_count": 31,
-   "first_seen": "2026-08-20T10:48:00+08:00",
-   "last_updated": "2026-08-22T17:10:00+08:00",
-   "tags": [
-    "趙建銘",
-    "王醫師",
-    "陳幸妤"
-   ],
-   "articles": [
-    {
-     "title": "趙建銘薄情揭密／趙建銘角色扮演失敗？王醫師kk._hi帳號扯出史努比　網抓「1句留言」露餡秒關帳",
-     "link": "https://www.mirrormedia.mg/story/20260822edi028",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-08-22T17:10:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "趙建銘薄情揭密／護趙建銘Threads藏鏡人到底是誰？　女病患抖出「王醫師」本尊真實身分：確實有其人",
-     "link": "https://www.mirrormedia.mg/story/20260822edi027",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-08-22T16:22:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "他搭日本新幹線沒座位竟「自備椅子」還在Threads炫耀  網友一面倒開轟",
-     "link": "https://ec.ltn.com.tw/article/breakingnews/5548650",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-22T16:05:44+08:00",
-     "description": "〔財經頻道／綜合報導〕目前日本正值暑假期間，新幹線會比平時更加擁擠，但一名日本男子日前在搭乘新幹線隼號時，因為買不到有座位的指定席，竟想到用「自備椅子」加「站票」的方式搭車，還將這招當成「...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "始源台灣拍戲還狂刷Threads！「被醫師分析帥臉」中文親回：我沒整過",
-     "link": "https://star.ettoday.net/news/3223855",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-08-22T15:22:00+08:00",
-     "description": "南韓天團SUPER JUNIOR成員崔始源近期在台灣拍戲，與女星雷嘉汭合作新戲《要是未曾相遇就好了》，也在台出席品牌活動，透露想要與台灣有更多交流。時常在台灣網友聚集的Threads海巡的他，被台灣整形醫師公開分析外貌，更親自現身留言，幽默回應「我沒整形過」，讓台灣粉絲都相當驚喜。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "王醫師「kk._hi」非許芊芊？網抓包過去一句留言成「關鍵證據」",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5548411",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-22T12:24:48+08:00",
-     "description": "牙醫陳幸妤與前夫趙建銘離婚爭議持續延燒。Threads上一個自稱是趙建銘友人「王醫師」的帳號「kk._hi」近期引發討論，不僅陳幸妤懷疑該帳號就是趙建銘的小號，還有網友破解「kk...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "神秘帳號「kk._hi」不是許姓護理師？ 9字露餡另有其人",
-     "link": "https://news.ebc.net.tw/news/living/567539",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-08-22T10:39:25.346062+08:00",
-     "description": "陳幸妤連日爆料前夫趙建銘各項爭議期間，社群平台Threads出現一個以「王醫師」名義發文的神秘帳號「kk._hi」，頻頻替趙建銘辯護，成為網友熱議焦點。",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "帳號「kk._hi」昔留9字身分露餡　應該不是許芊芊",
-     "link": "https://www.ettoday.net/news/20260822/3223646.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-08-22T08:07:00+08:00",
-     "description": "前總統陳水扁的女兒陳幸妤與前夫趙建銘的離婚風波未平，自稱是趙建銘好友的王醫師「kk._hi」目前已經關閉帳號。不過，有眼尖網友發現，該帳號曾提及「我老婆也喜歡史努比」，引發外界質疑背後的使用者可能不是診所助理許芊芊，而是趙建銘本人。但趙建銘至今都未對相關爭議做出直接回應。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "封面故事／陳幸妤難忍教育基金遭提領一空、女大生身分曝光　趙建銘薄倖婚變揭密",
-     "link": "https://www.mirrormedia.mg/story/20260811inv001",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-08-22T06:28:59+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "境外介選？游淑貞Threads驚爆「香港」帳號  發完聲明就刪了",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5548169",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-21T23:21:59+08:00",
-     "description": "首次上稿 8-21 23:21更新時間 8-22 06:20\n\n有傅崐萁接班人之稱、國民黨徵召花蓮縣長參選人游淑貞，21日在社群軟體Threads出現「幸福花蓮 游此開始」...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "Threads演算法成詐騙溫床！警揭「6件中1件中招」財損破千萬",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40OW1xU2hYd00zRGNWeWFFYTcxU1E5UVZYVWNjemRkRWlNNldNZEw5NE5kWk1YaUJpVzE1Q1IzTXlnUV95UFpZejBrLUZiZ1U?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-08-21T22:00:00+08:00",
-     "description": "影音／Threads演算法成詐騙溫床！警揭「6件中1件中招」財損破千萬  TVBS新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -1880,6 +1494,202 @@
    ]
   },
   {
+   "id": "6909da366e1e",
+   "title": "準強颱「沙德爾」最新路徑曝！是否影響台灣變數高",
+   "outlet_count": 8,
+   "outlets": [
+    "ebc",
+    "ettoday",
+    "ltn",
+    "mirror",
+    "newtalk",
+    "storm",
+    "tvbs",
+    "udn"
+   ],
+   "article_count": 33,
+   "first_seen": "2026-08-20T12:31:25.758489+08:00",
+   "last_updated": "2026-08-23T12:30:57.564886+08:00",
+   "tags": [
+    "雨特報",
+    "大雨"
+   ],
+   "articles": [
+    {
+     "title": "豪大雨猛灌！最新雨量預測出爐 6縣市達停班停課標準",
+     "link": "https://news.ebc.net.tw/news/living/567673",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-08-23T12:30:57.564886+08:00",
+     "description": "17縣市豪大雨猛灌，中央氣象署已啟動較大規模或較劇烈豪雨作業，依據最新預測，明天共有6縣市雨量達到停班停課標準。",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "沙德爾最快今增強為強颱！　氣象粉專曝「走法相當罕見」：可能直接侵襲台灣",
+     "link": "https://www.mirrormedia.mg/story/20260823edi025",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-08-23T12:04:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "沙德爾走法「相當罕見」　氣象粉專：有可能直接侵襲台灣",
+     "link": "https://www.ettoday.net/news/20260823/3224155.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-08-23T11:39:00+08:00",
+     "description": "中度颱風沙德爾持續增強，未來動向受到關注。氣象粉專「台灣颱風論壇｜天氣特急」稍早發文指出，沙德爾目前距離台灣約2150公里，未來可能朝台灣附近接近，也可能直接侵襲台灣，這個走法非常特別、相當罕見。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "沙德爾偏西移動機率高　最快周四影響台灣",
+     "link": "https://www.ettoday.net/news/20260823/3224105.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-08-23T10:57:00+08:00",
+     "description": "沙德爾颱風預計周三接近琉球群島海面，屆時持續偏西移動的機率高，可能接近台灣，周四、周五北台灣降雨將明顯增加。今天白天南部持續有短延時豪雨，午後北部有局部大雨，晚間起東半部雨勢也將明顯增強。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "17縣市豪大雨　沙德爾「最快今強颱」海警機率高",
+     "link": "https://www.ettoday.net/news/20260823/3224033.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-08-23T07:48:00+08:00",
+     "description": "17縣市豪大雨特報，中度颱風沙德爾今天可能變強颱！中央氣象署預報員王品翔表示，預估沙德爾周五最靠近台灣，但靠近程度有分歧性，評估海上警報機率高，而陸上警報還要再看。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "南台灣28地淹水警戒！　高雄台南共18區列一級",
+     "link": "https://finance.ettoday.net/news/3224036",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-08-23T07:25:00+08:00",
+     "description": "南台灣豪雨持續，經濟部水利署今（23）日上午7時10分發布淹水警戒，高雄市、台南市合計共有28個行政區列入警戒，其中18區達一級淹水警戒、10區為二級警戒。依水利署標準，一級警戒區若持續降雨，轄內易淹水村里有70%機率已開始積淹水，民眾應提高警覺。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "國家警報響！　大雷雨轟3縣市",
+     "link": "https://www.ettoday.net/news/20260823/3224032.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-08-23T07:16:00+08:00",
+     "description": "國家警報響，大雷雨轟南高屏！中央氣象署表示，今天西南風進一步增強及低壓帶影響，易有短延時強降雨。氣象署並對台南市、高雄市發布「災防告警訊息」。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "西南風增強！17縣市雨彈狂襲　「2地區防大豪雨」颱風最新動態曝",
+     "link": "https://www.mirrormedia.mg/story/20260823edi001",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-08-23T07:05:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "高雄屏東豪雨特報 其餘縣市留意局部大雨",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE00T0p5d0lYejBWQ0xJQ3pqdEFQTXZmdzR3dEJXaklpdF80T1BWOGVPTWNEUjZWdkFzSGxYbEFkX0FGWWljdmV4amNONnFJUQ?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-08-23T06:21:00+08:00",
+     "description": "高雄屏東豪雨特報 其餘縣市留意局部大雨  TVBS新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "高雄屏東豪雨特報　其餘縣市留意局部大雨",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5549069",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-23T05:21:04+08:00",
+     "description": "中央氣象署發布豪雨特報，西南風偏強及低壓帶影響，易有短延時強降雨，今（23）日高雄市地區、屏東縣地區有局部豪雨或大豪雨。\n\n嘉義縣地區、臺南市地區、恆春半島及花蓮縣山區、臺東縣山區有局部大雨...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    }
+   ]
+  },
+  {
    "id": "84db0d0493be",
    "title": "南部雨彈狂炸！沙德爾恐升級為強颱 下週三路徑是關鍵",
    "outlet_count": 8,
@@ -1893,13 +1703,12 @@
     "storm",
     "tvbs"
    ],
-   "article_count": 22,
+   "article_count": 23,
    "first_seen": "2026-08-20T12:31:25.758489+08:00",
    "last_updated": "2026-08-23T10:45:05.534484+08:00",
    "tags": [
     "沙德爾",
-    "強颱",
-    "路徑"
+    "強颱"
    ],
    "articles": [
     {
@@ -1953,6 +1762,23 @@
       },
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "為何日氣象廳升格颱風「簡拉維」氣象署仍不變鄭明典給答案- 生活",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92OHpUbF9KZUNEYlVrd3p4bWo5c3VnbnFkT29wRkxQNzhWTmhKRmNwaDBvMkQxa3ByWDRTN3poZ204UjREc0NYclhXTktuQURNN2NvU3NzNzVIR2RUYll5V09GS21LLTFSaklDNXZn?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-08-22T22:16:28+08:00",
+     "description": "為何日氣象廳升格颱風「簡拉維」氣象署仍不變鄭明典給答案- 生活  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
@@ -2058,31 +1884,12 @@
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
-    },
-    {
-     "title": "準颱風「簡拉維」恐朝台灣撲來！沙德爾今晚挑戰強颱",
-     "link": "https://news.ebc.net.tw/news/living/567542",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-08-22T12:30:10.826529+08:00",
-     "description": "太平洋海域當前呈現「雙颱＋一熱低」的活躍局面！日本氣象廳已針對台灣東北方海面、宮古島附近的熱帶性低氣壓發布烈風警報（Gale Warning），預估最快明日將升",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
     }
    ]
   },
   {
-   "id": "6b8740c58fe9",
-   "title": "Paruparu 娛樂關鍵字",
+   "id": "df7e9606e3e0",
+   "title": "照見名 娛樂關鍵字",
    "outlet_count": 8,
    "outlets": [
     "chinatimes",
@@ -2094,8 +1901,8 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 157,
-   "first_seen": "2026-08-20T10:47:03+08:00",
+   "article_count": 155,
+   "first_seen": "2026-08-20T12:39:12+08:00",
    "last_updated": "2026-08-23T08:11:52+08:00",
    "tags": [
     "娛樂關鍵字"
@@ -2238,23 +2045,6 @@
      }
     },
     {
-     "title": "聯合報業 娛樂關鍵字",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE50Q0REdmUySE5kb3NSdm5KUFFpbl96aHpZZWlRdG8ya0tsWUFPZldOdWtzZHMwaXRMbzNRaVdnZ3pLTWdWdHh4eg?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-08-22T21:19:12+08:00",
-     "description": "聯合報業 娛樂關鍵字  三立娛樂星聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
      "title": "團體成員 娛樂關鍵字",
      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9IWTBmc0M2ZlI1Tk1SdDExSHJrVU90ejA3cVBISlRXcloxSFF6eG9uZmx3Vmc1YkNkTHM2eUFCV3VlMkh0TFBuQg?oc=5",
      "source": "setn",
@@ -2270,58 +2060,89 @@
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
+    },
+    {
+     "title": "聯合報業 娛樂關鍵字",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE50Q0REdmUySE5kb3NSdm5KUFFpbl96aHpZZWlRdG8ya0tsWUFPZldOdWtzZHMwaXRMbzNRaVdnZ3pLTWdWdHh4eg?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-08-22T21:19:12+08:00",
+     "description": "聯合報業 娛樂關鍵字  三立娛樂星聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
     }
    ]
   },
   {
-   "id": "ff0a851d2bb4",
-   "title": "謝文雄新北土城當街砍殺妻子小姨子　國民法官參審判無期徒刑",
-   "outlet_count": 8,
+   "id": "1acbe17caded",
+   "title": "傳白營不滿蔣萬安站台像施捨　柯文哲：要怪沈伯洋太弱",
+   "outlet_count": 7,
    "outlets": [
     "cna",
-    "ebc",
+    "ettoday",
     "ltn",
     "mirror",
     "newtalk",
     "nownews",
-    "tvbs",
-    "udn"
+    "storm"
    ],
-   "article_count": 20,
-   "first_seen": "2026-08-20T12:11:58+08:00",
-   "last_updated": "2026-08-22T16:30:08.182101+08:00",
+   "article_count": 7,
+   "first_seen": "2026-08-22T16:50:31+08:00",
+   "last_updated": "2026-08-23T12:12:33+08:00",
    "tags": [
-    "無期徒刑",
-    "小姨子",
-    "許家印"
+    "柯文哲",
+    "蔣萬安沒壓力",
+    "沈伯洋"
    ],
    "articles": [
     {
-     "title": "家暴男殺妻、小姨子逃死！ 家屬淚：法官說「非最嚴重之罪」",
-     "link": "https://news.ebc.net.tw/news/society/567563",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-08-22T16:30:08.182101+08:00",
-     "description": "新北土城謝文雄去年持刀殺害妻子及小姨子，一審遭判兩個無期徒刑。法院認定未達情節最嚴重之罪，死者父母難以接受，痛批判決並質疑司法制度。",
-     "category": "society",
+     "title": "弱到蔣萬安沒壓力？沈伯洋：柯文哲當年也被說太弱最後卻贏了",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5549298",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-23T12:12:33+08:00",
+     "description": "年底地方選舉，國民黨籍的台北市長蔣萬安若輔選民眾黨候選人只能出席聯合造勢，傳出白營小雞不滿直言「宛如施捨」；民眾黨創黨主席柯文哲昨說，要怪就怪民進黨派立委沈伯洋出來「太弱了」，...…",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "scraper",
-      "category": "society",
-      "feed_url": "https://news.ebc.net.tw/realtime"
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
      }
     },
     {
-     "title": "狠夫砍死妻子與小姨子判無期 雙親淚控：要全家死才算嚴重？",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yU2FEOFNOV2xwdG1ZSjRsMXltREozY1pYQVhTeWRzSHN3cEYyWER4bzZ6WUZlODZoeE1tUlJ3Mks0MVhDQVd0NVRKZjNVeFU?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-08-22T12:58:00+08:00",
-     "description": "狠夫砍死妻子與小姨子判無期 雙親淚控：要全家死才算嚴重？  TVBS新聞網",
+     "title": "被柯文哲酸選台北太弱　沈伯洋：當年大家也說柯弱但最後贏下市長",
+     "link": "https://www.ettoday.net/news/20260823/3224142.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-08-23T11:17:00+08:00",
+     "description": "面對年底九合一選舉，國民黨限制台北市長蔣萬安不得為個別民眾黨台北市議員站台，僅能聯合造勢、且限一場，引發白營小雞不滿。民眾黨創黨主席柯文哲昨稱，「這就要怪民進黨派那個沈伯洋太弱了，弱到蔣萬安都沒有壓力，這個事實的真相就是這樣，就是沈伯洋太弱了」。對此，民進黨台北市長參選人、立委沈伯洋今（23日）表示，就是因為弱，所以才要努力走動。柯文哲剛出來時，大家也說柯太弱，但最後贏下市長。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "柯文哲嗆「太弱」讓蔣萬安沒壓力　沈伯洋認了：柯出來也被說弱",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vSnVqTmNQZ3ZoazdlWDU4Q2VDa2prak9HVXoxNUZMbnZ3NjVQd2o2aUdxYkpYMVlyZjVmMFhScXZUVGJvLUF0R0Vvc1ZYRW1CVkHSAVJBVV95cUxOb0p1ak5jUGd2aGs3ZVg1OENlQ2tqa2pPR1V6MTVGTG52dzY1UHdqNmlHcWJKWDFZcmY1ZjBYUnF2VFRiby1BdEdFb3NWWEVtQlZB?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-08-23T10:22:25+08:00",
+     "description": "柯文哲嗆「太弱」讓蔣萬安沒壓力　沈伯洋認了：柯出來也被說弱  NOWnews今日新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -2329,34 +2150,15 @@
        "source": "unknown"
       },
       "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
-     "title": "謝文雄殺妻子、小姨子判無期 新北院：不符最嚴重情節",
-     "link": "https://news.ebc.net.tw/news/society/567516",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-08-22T10:39:25.346062+08:00",
-     "description": "謝文雄在土城持刀殺害妻子及小姨子，新北地院21日判無期徒刑；法院認定不符憲判8最嚴重情節及高度再犯風險，無從判處死刑。",
-     "category": "society",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "society",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "家暴男狠殺老婆小姨子「遭判2無期」　為何不判死？法院點破關鍵：檢方未提足夠證明",
-     "link": "https://www.mirrormedia.mg/story/20260821edi094",
+     "title": "被柯文哲酸「選台北太弱」　沈伯洋反擊：當年大家也說他弱結果最後選贏了",
+     "link": "https://www.mirrormedia.mg/story/20260823edi007",
      "source": "mirror",
      "source_name": "鏡週刊",
-     "published": "2026-08-22T07:30:00+08:00",
+     "published": "2026-08-23T10:21:00+08:00",
      "description": "",
      "metadata": {
       "schema_version": 1,
@@ -2369,12 +2171,12 @@
      }
     },
     {
-     "title": "砍死妻子、小姨子！土城男無期徒刑 新北地院曝「不判死關鍵」",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zV3BmcVNFTEJ0VUpnUVZjVXRkNms2ZG43cVBOc2hMRm1rTGtqZWZ0Y2taQ1BQbnhhQzByT1gwTmM2YzBXdm9aSW9fUlhvQms?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-08-21T22:04:00+08:00",
-     "description": "砍死妻子、小姨子！土城男無期徒刑 新北地院曝「不判死關鍵」  TVBS新聞網",
+     "title": "柯文哲嗆太弱讓蔣萬安沒壓力沈伯洋承認了：柯剛出來也弱但贏下市長| 政治",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wcGI4MkRObEkwNGY4VVE4YndQRzExalBsSHhpM29adEpOWmNqU0t2OWY5N0ZyM2loR0tSMDdsU3hCMnhhMWhkd0lybEJCSWFjb2FabThMSTNNd3M?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-08-23T09:46:11+08:00",
+     "description": "柯文哲嗆太弱讓蔣萬安沒壓力沈伯洋承認了：柯剛出來也弱但贏下市長| 政治  Newtalk新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -2382,104 +2184,49 @@
        "source": "unknown"
       },
       "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
-     "title": "謝文雄當街殺2人判無期　新北地院：不符合最嚴重要件無從判死",
-     "link": "https://www.cna.com.tw/news/asoc/202608210319.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-08-21T20:57:43+08:00",
-     "description": "（中央社記者曹亞沿新北21日電）謝文雄去年在土城當街砍殺妻子及小姨子致死，今天被判無期徒刑。新北地院說明，因無法證明謝文雄預謀連續殺人且有再犯高度危險，不符憲判8犯罪情節最嚴重要件，無從判決死刑。",
-     "author": "曹亞沿",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "曹亞沿",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/social"
-     }
-    },
-    {
-     "title": "土城家暴男當街砍死老婆小姨子！國民法官判「2個無期徒刑」　被害家屬悲喊：死得好冤枉",
-     "link": "https://www.mirrormedia.mg/story/20260821edi071",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-08-21T20:51:00+08:00",
-     "description": "",
+     "title": "蔣萬安不幫民眾黨小雞站台 柯文哲揭背後真相：要怪民進黨做了這件事 | 蕭宥宸 | 新聞",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1CNFhjT1BvYWZmT0JQRjcyWnJYY3JnOFhQMUdUdkl0OVV4cVJ4S1EyeUFBRlJ4Tm56UlRoME9peWhxTXhGalpzVUxBdVhWZw?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-08-22T17:09:51+08:00",
+     "description": "蔣萬安不幫民眾黨小雞站台 柯文哲揭背後真相：要怪民進黨做了這件事 | 蕭宥宸 | 新聞  風傳媒",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
-     "title": "謝文雄當街砍殺妻子小姨子判無期　家屬淚喊上訴到底",
-     "link": "https://www.cna.com.tw/news/asoc/202608210288.aspx",
+     "title": "傳白營不滿蔣萬安站台像施捨　柯文哲：要怪沈伯洋太弱",
+     "link": "https://www.cna.com.tw/news/aipl/202608220147.aspx",
      "source": "cna",
      "source_name": "中央社",
-     "published": "2026-08-21T19:03:35+08:00",
-     "description": "（中央社記者曹亞沿新北21日電）男子謝文雄去年在新北土城當街砍殺妻子及小姨子多刀致死，法院今天判處2個無期徒刑。死者家屬聽判後，難以接受未判死刑，痛哭失聲，呼喊會用生命上訴到底。",
-     "author": "曹亞沿",
+     "published": "2026-08-22T16:50:31+08:00",
+     "description": "（中央社記者王承中台北22日電）國民黨北市黨部日前表示，台北市長蔣萬安不為個別民眾黨議員參選人站台，傳出引發白營不滿。民眾黨創黨主席柯文哲今天說，這就要怪民進黨台北市長參選人沈伯洋太弱，弱到蔣萬安都沒有壓力，事實的真相就是這樣。",
+     "author": "王承中",
      "metadata": {
       "schema_version": 1,
       "author": {
-       "name": "曹亞沿",
+       "name": "王承中",
        "source": "description"
       },
       "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/social"
-     }
-    },
-    {
-     "title": "當街殺害妻子小姨子！ 土城家暴男判2個無期徒刑",
-     "link": "https://news.ebc.net.tw/news/society/567409",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-08-21T18:29:58.428000+08:00",
-     "description": "土城家暴男謝文雄去年無視保護令，持刀、鋁棒伏擊妻子與小姨子，造成2人身亡，新北地院國民法官密集審理後，今天判處謝男2個無期徒刑。",
-     "category": "society",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "society",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "謝文雄新北土城當街砍殺妻子小姨子　國民法官參審判無期徒刑",
-     "link": "https://www.cna.com.tw/news/asoc/202608210253.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-08-21T17:51:20+08:00",
-     "description": "（中央社記者曹亞沿新北21日電）謝文雄去年在新北土城當街砍殺妻子及小姨子多刀致死。新北地院國民法官連5天審理，今天依殺人罪判處無期徒刑，褫奪公權終身。",
-     "author": "曹亞沿",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "曹亞沿",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/social"
+      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
      }
     }
    ]
   },
   {
-   "id": "52b9df93ad48",
-   "title": "名廚詹姆士涉開空殼公司 首開庭現身｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+   "id": "95a9fba8dfc5",
+   "title": "2小時100毫米馬路淹水 網笑:南投有海了｜TVBS新聞 @TVBSNEWS01",
    "outlet_count": 7,
    "outlets": [
     "ettoday",
@@ -2490,8 +2237,8 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 182,
-   "first_seen": "2026-08-20T12:06:31+08:00",
+   "article_count": 180,
+   "first_seen": "2026-08-20T12:36:56+08:00",
    "last_updated": "2026-08-23T08:58:17+08:00",
    "tags": [
     "新聞網"
@@ -2534,6 +2281,23 @@
     {
      "title": "天氣/中尺度對流移入! 南部整天防「致災降雨」 ｜氣象主播 吳姝叡｜早安氣象｜TVBS新聞 20260823 @TVBSNEWS01",
      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3NVlUdGRwMm53R054cFFVa0RoaTZydlZpVlpha1dCVEhSMmQzV3RvWXFTOFExNVlxV2VmZWVxV25yN09NUURnN3pBTmM0VXl4R181RHh3?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-08-23T08:33:00+08:00",
+     "description": "天氣/中尺度對流移入! 南部整天防「致災降雨」 ｜氣象主播 吳姝叡｜早安氣象｜TVBS新聞 20260823 @TVBSNEWS01  TVBS新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "天氣/中尺度對流移入! 南部整天防「致災降雨」 ｜氣象主播 吳姝叡｜早安氣象｜TVBS新聞 20260823 @TVBSNEWS01",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdndLeFNobUphbkcydDJDWV9KSFFvZ0ZzVXpKcnBUSmR2YWFHa0FlRTJ4SGdoOXNtbF9sSUhCMVBSblF4d2ctZ1duaGJHQnVvQV9aMjdLU2ZNcnpMV1gzc01ZZTdXb1JuUXRJenBaZWRIR2JhLUFqMnMtejY1RnduTy1obHVtS1JpVzBLZ3JIR1E?oc=5",
      "source": "tvbs",
      "source_name": "TVBS",
      "published": "2026-08-23T08:33:00+08:00",
@@ -2631,23 +2395,6 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "TIMA男團爭鋒! Super Junior壓軸開唱.RIIZE全黑舞台裝跳到飆汗｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMXdYQk9TUEJVcHFGbUZDTXgwRkN4cTM3c2pwX01lTzRXTW1LbllLSUxiaS1uamNLbTlKU2NuemZ4UXN3cUVvX3JvMVB6RU5WMzZ2NmdjYVNGQi1iM3JZZzg1b3BjVEhvZ0oweUY4RFFwZ1JSckl5TFF4SEY1OUlfQnFlYWp3dE8zMWdEN1Q3cEM?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-08-22T23:35:16+08:00",
-     "description": "TIMA男團爭鋒! Super Junior壓軸開唱.RIIZE全黑舞台裝跳到飆汗｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網  TVBS新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
@@ -2893,219 +2640,6 @@
      "source_name": "ETtoday",
      "published": "2026-08-23T01:18:00+08:00",
      "description": "日本茨城縣南部今（23）日凌晨發生規模5.9地震，日本氣象廳觀測到最大震度5弱，關東地區多個城市出現強烈搖晃。\n\n 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    }
-   ]
-  },
-  {
-   "id": "818e78319053",
-   "title": "違法堆含鎂鋁廢棄物致爆炸 台南市府擬發2萬慰問金助求償",
-   "outlet_count": 7,
-   "outlets": [
-    "ebc",
-    "ettoday",
-    "mirror",
-    "pts",
-    "storm",
-    "tvbs",
-    "udn"
-   ],
-   "article_count": 13,
-   "first_seen": "2026-08-22T10:58:01+08:00",
-   "last_updated": "2026-08-23T00:29:17.745192+08:00",
-   "tags": [
-    "南大爆炸",
-    "台南"
-   ],
-   "claims": [
-    {
-     "type": "受傷人數",
-     "agree": true,
-     "outlet_count": 2,
-     "values": [
-      {
-       "value": "15",
-       "outlets": [
-        "ETtoday",
-        "風傳媒"
-       ]
-      }
-     ]
-    }
-   ],
-   "articles": [
-    {
-     "title": "追偷埋鎂土禍首！無照廢五金業者疑潛逃國外",
-     "link": "https://news.ebc.net.tw/news/society/567650",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-08-23T00:29:17.745192+08:00",
-     "description": "台南安南區停車場遭違法埋放鎂土，追查發現由曾住附近的冷氣安裝男子埋放，委託方疑為高雄友誠洋行。環保局指出王姓負責人疑似潛逃國外，將追究刑責並移送法辦。",
-     "category": "society",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "society",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "台南爆炸案毀8屋釀15傷 負責人是通緝犯、6月底就離境跑路 | 蕭宥宸 | 新聞",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nY0lDVVEwU0FENDYxZk03M1VmUHlvYTRBcmNSeXlnZHZ3RV9WWnhLSFhLVDJNOC1qM2hlNlBrdzBocUJqTFZ1ZkRWNU5FUQ?oc=5",
-     "source": "storm",
-     "source_name": "風傳媒",
-     "published": "2026-08-22T22:57:07+08:00",
-     "description": "台南爆炸案毀8屋釀15傷 負責人是通緝犯、6月底就離境跑路 | 蕭宥宸 | 新聞  風傳媒",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "台南爆炸毀68戶！一查業者竟是通緝犯...借址髮廊堆毒廢棄物　驚爆6月早已潛逃出國行蹤不明",
-     "link": "https://www.mirrormedia.mg/story/20260822edi032",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-08-22T19:39:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "台南大爆炸登CNN：「兩次巨大爆炸」火球衝天",
-     "link": "https://www.ettoday.net/news/20260822/3223955.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-08-22T19:37:00+08:00",
-     "description": "台南市安南區海佃路二段342巷今（22）日凌晨發生火警，救災期間現場接連發生兩次巨大爆炸，猛烈火光瞬間衝上夜空，造成多人受傷，也波及周邊民宅及車輛。驚人畫面更引發國際關注。\n\n 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "違法堆含鎂鋁廢棄物致爆炸 台南市府擬發2萬慰問金助求償",
-     "link": "https://news.pts.org.tw/article/823636",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-08-22T19:06:25+08:00",
-     "description": "台南市安南區一處空地，今（22）日凌晨發生火警爆炸，導致消防員在內15個人受傷，68戶民宅被波及，22部車毀損，市府初步調查發現現場違法堆置含鎂鋁的事業廢棄物，將會究責。總統賴清德致電市長黃偉哲表達關心，指示相關部會全力協助。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "台南廢棄物爆炸！五金行負責人是通緝犯　6月出國下落不明",
-     "link": "https://www.ettoday.net/news/20260822/3223944.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-08-22T18:51:00+08:00",
-     "description": "台南市安南區一處空地今(22日)凌晨發生爆炸，造成15人受傷，大火延燒8戶房屋、另有40多戶住戶震碎玻璃及其他損傷。警方查出該公司地址位於高雄鼓山區，不過市府今（22）日前往該址稽查，發現負責人王逸凱於該地點早已無租約，而他也早在6月底出國，目前行蹤不明。\n\n 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "釀台南大爆炸 廢五金負責人疑潛逃國外",
-     "link": "https://news.ebc.net.tw/news/society/567606",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-08-22T18:28:47.674694+08:00",
-     "description": "台南安南區廢棄物爆炸火警，警方查出涉案五金公司王姓負責人疑已潛逃國外，持續追查事故責任與去向。",
-     "category": "society",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "society",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "釀台南大爆炸涉案業者曝光！稽查竟是美髮店 業者冤喊：不知情",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PV3J0NzVxWDQwQ1BYWjdySUhmaU9EdllENTJIRVhWTS1aWkFKeHVINnBmYVJKR1B5THBKbi1tWU1rT1dtZEZ2VzNzQTU2bFE?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-08-22T15:34:00+08:00",
-     "description": "釀台南大爆炸涉案業者曝光！稽查竟是美髮店 業者冤喊：不知情  TVBS新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "台南爆炸原因曝光！環保局稽查「竟是美髮店」　涉案高雄五金業者被帶回調查",
-     "link": "https://www.mirrormedia.mg/story/20260822edi015",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-08-22T15:02:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "堆鎂鋁廢棄物釀台南大爆炸！環保局奔公司稽查　竟是美髮店",
-     "link": "https://www.ettoday.net/news/20260822/3223829.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-08-22T14:22:00+08:00",
-     "description": "台南市安南區海佃路二段一處空地今(22日)凌晨1時許傳出劇烈爆炸，造成15人受傷，大火延燒8戶房屋、另有40多戶住戶震碎玻璃及其他損傷，災情十分慘重。警方初步掌握，位於高雄鼓山的某公司於該處空地堆放鋁鎂廢棄物，才會引發爆炸災情，今(22日)高雄市環保局發動搜索，依照登記地址前往現場，卻發現該處竟是一家美髮店，店員均表示不清楚情況、也沒聽說過該公司。 《詳全文...》",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -3575,12 +3109,12 @@
      }
     },
     {
-     "title": "宜蘭發生規模5.1地震 各地震度一次看",
-     "link": "https://news.ebc.net.tw/news/living/567549",
+     "title": "地震速報！ 08/22 11:40左右   東北地區發生有感地震",
+     "link": "https://news.ebc.net.tw/news/living/567547",
      "source": "ebc",
      "source_name": "東森新聞",
      "published": "2026-08-22T12:30:10.826529+08:00",
-     "description": "中央氣象署測定今（22）日上午11時40分，台灣東部海域發生芮氏規模5.1地震。",
+     "description": "中央氣象署發布， 08/22 11:40左右 ， 東北地區發生有感地震 。預估震度 3 級以上地區： 宜蘭",
      "category": "living",
      "metadata": {
       "schema_version": 1,
@@ -3613,12 +3147,12 @@
      }
     },
     {
-     "title": "地震速報！ 08/22 11:40左右   東北地區發生有感地震",
-     "link": "https://news.ebc.net.tw/news/living/567547",
+     "title": "宜蘭發生規模5.1地震 各地震度一次看",
+     "link": "https://news.ebc.net.tw/news/living/567549",
      "source": "ebc",
      "source_name": "東森新聞",
      "published": "2026-08-22T12:30:10.826529+08:00",
-     "description": "中央氣象署發布， 08/22 11:40左右 ， 東北地區發生有感地震 。預估震度 3 級以上地區： 宜蘭",
+     "description": "中央氣象署測定今（22）日上午11時40分，台灣東部海域發生芮氏規模5.1地震。",
      "category": "living",
      "metadata": {
       "schema_version": 1,
@@ -3935,7 +3469,7 @@
    "first_seen": "2026-08-21T18:57:25+08:00",
    "last_updated": "2026-08-22T13:30:12+08:00",
    "tags": [
-    "管局長林裕益",
+    "翡管局長林裕",
     "交保",
     "免職"
    ],
@@ -4135,6 +3669,200 @@
    ]
   },
   {
+   "id": "cc597989d9f3",
+   "title": "趙建銘薄情揭密／婚變連環爆占新聞版面！　陳幸妤曝朋友「都看膩了」：想看台中毒油",
+   "outlet_count": 6,
+   "outlets": [
+    "chinatimes",
+    "ebc",
+    "ettoday",
+    "ltn",
+    "mirror",
+    "nownews"
+   ],
+   "article_count": 27,
+   "first_seen": "2026-08-20T13:40:00+08:00",
+   "last_updated": "2026-08-22T07:21:00+08:00",
+   "tags": [
+    "建銘薄情揭密",
+    "陳幸妤"
+   ],
+   "articles": [
+    {
+     "title": "陳幸妤婚變完整揭密！　趙建銘「20歲大學生女友」曝光",
+     "link": "https://www.ettoday.net/news/20260822/3223641.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-08-22T07:21:00+08:00",
+     "description": "前總統陳水扁女兒陳幸妤上週在前夫趙建銘診所的Google評論區留言，首度以「前妻」身分揭露2人早已離婚，更痛斥趙建銘對妻兒無情無義，與診所女助理許芊芊糾纏不清、大搞男女關係。本刊掌握，趙建銘身邊新歡，是一名年僅20歲、就讀台南應用科技大學的女大生，而且疑似非本國籍，更讓陳幸妤決心撕破臉的是，她多年替3個兒子存下共2,300萬元教育基金，原交由趙建銘代管，如今遭挪用且遲未歸還。扁家友人透露，趙建銘3",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "封面故事／陳幸妤難忍教育基金遭提領一空、女大生身分曝光　趙建銘薄倖婚變揭密",
+     "link": "https://www.mirrormedia.mg/story/20260811inv001",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-08-22T06:28:59+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "陳幸妤虧「只能在脆上搞笑」 阿扁親回這個貼圖",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5548076",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-21T21:14:04+08:00",
+     "description": "前總統陳水扁的女兒陳幸妤與趙建銘離婚，吸引眾人目光，今（21日）陳幸妤被媒體問及，父親陳水扁是否有關心她的情況時，她忍不住笑虧「爸爸也不能幫忙什麼，他真的退休了，只能在Threa...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "陳幸妤笑虧爸爸「只能在Threads搞笑給你們看」　受訪畫面瘋傳！陳水扁現身留言反擊",
+     "link": "https://www.mirrormedia.mg/story/20260821edi089",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-08-21T21:02:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "趙建銘母是超佛房東！豪宅1.6萬租護理師 專家曝真實行情",
+     "link": "https://news.ebc.net.tw/news/politics/567451",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-08-21T20:31:16.853442+08:00",
+     "description": "陳幸妤與趙建銘離婚風波持續，許姓護理師稱以月租1.6萬元承租趙母豪宅，未介入家庭。專家調出同社區實價登錄，指出合理月租約4.5萬元，直言1萬租金遠低於市價。",
+     "category": "politics",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "politics",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "陳幸妤吐槽「他只能在脆上搞笑」　陳水扁回這個貼圖讓6萬人笑瘋",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOZUpITDJyMnJjSmk5R2tFZmJxRkgyUnY0V3cyUVpRZjd0dC0zNkg2SlZWNzJyRW04TURQVU9TRGFZWG5VSnBqdGlKMTZGSzRGX1HSAVJBVV95cUxQTmVKSEwycjJyY0ppOUdrRWZicUZIMlJ2NFd3MlFaUWY3dHQtMzZINkpWVjcyckVtOE1EUFVPU0RhWVhuVUpwanRpSjE2Rks0Rl9R?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-08-21T20:07:19+08:00",
+     "description": "陳幸妤吐槽「他只能在脆上搞笑」　陳水扁回這個貼圖讓6萬人笑瘋  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "趙建銘薄情揭密／陳水扁來電關心？陳幸妤虧「他只能在脆搞笑給你們看」",
+     "link": "https://www.mirrormedia.mg/story/20260821edi070",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-08-21T19:52:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "趙建銘薄情揭密／許芊芊爆討名牌包！陳幸妤母子卻省成這樣　她吃隔夜炒飯、兒子自己煮3年",
+     "link": "https://www.mirrormedia.mg/story/20260821edi032",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-08-21T17:56:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "趙建銘回台無情比「噓」！兩性專家搖頭揭用意：頗傷人的- 娛樂",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54SkxNOHo4Tm9WWWpnTURkTnpSdmxaTVZmVmJGVUVCQVhxb1ZWNWNyQndCRkpyVVNCUHZ1N2tZM3hoeWc3cTEteEdVa1gwaUFuRC1Cb3dUU0Y3VWctcEhfVEpzb0o2aFNxWVpxUVhn?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-08-21T17:15:20+08:00",
+     "description": "趙建銘回台無情比「噓」！兩性專家搖頭揭用意：頗傷人的- 娛樂  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "趙建銘薄情揭密／陳幸妤吐委屈遭警告？趙建銘返台機場狂比「噓」　兩性專家搖頭曝真實心態：頗傷人",
+     "link": "https://www.mirrormedia.mg/story/20260821edi075",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-08-21T16:25:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    }
+   ]
+  },
+  {
    "id": "4e3f31bf1772",
    "title": "不是吳淑珍拆散！陳致中還原「陳幸妤分手林子欽」真相：男方漏馬腳",
    "outlet_count": 6,
@@ -4276,6 +4004,384 @@
       },
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    }
+   ]
+  },
+  {
+   "id": "010efca04a8d",
+   "title": "翁曉玲稱詢問國務機要費遭已讀不回　府：當天即回覆",
+   "outlet_count": 5,
+   "outlets": [
+    "cna",
+    "ettoday",
+    "ltn",
+    "newtalk",
+    "udn"
+   ],
+   "article_count": 9,
+   "first_seen": "2026-08-22T14:35:41+08:00",
+   "last_updated": "2026-08-23T09:24:00+08:00",
+   "tags": [
+    "國務機要費",
+    "翁曉玲",
+    "庇護工場"
+   ],
+   "articles": [
+    {
+     "title": "翁曉玲控已讀不回　總統府打臉：有提供書面資料！翁辦主任回收到",
+     "link": "https://www.ettoday.net/news/20260823/3224069.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-08-23T09:24:00+08:00",
+     "description": "針對國民黨立委翁曉玲凍刪總統府國務機要費3000萬，直接影響到歷年向弱勢團體購買禮盒的慣例，今年導致37家庇護工場1.5萬盒中秋禮盒泡湯。不過，翁曉玲指控，總統府就國務機要費有所謂「已讀不回」情勢，總統府發言人郭雅慧昨天（22日）查證後打臉，強調總統府有提供完整書面資訊，翁曉玲辦公室主任明確回覆「收到」，相關聯繫對話紀錄均清楚可查，「總統府尊重立法委員依照憲法權責監督預算，但不接受對國人的造假欺騙",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "翁曉玲稱國務機要費詢問遭「已讀不回」 總統府反駁：主任明確回覆收到| 政治",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1bUMwNjNKbUdfWkdrWHFCWnBWTmhiN2ZncnJUYVpsNnd3OUcyNXpVdjlXMmZOSWhMeU52bnlpdko5V1AySlVQeWwxbWR4cGlFRHhSUFRWLTg0YXc?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-08-22T20:57:39+08:00",
+     "description": "翁曉玲稱國務機要費詢問遭「已讀不回」 總統府反駁：主任明確回覆收到| 政治  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "翁曉玲稱詢問國務機要費遭已讀不回　府：當天即回覆",
+     "link": "https://www.cna.com.tw/news/aipl/202608220205.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-08-22T20:40:41+08:00",
+     "description": "（中央社記者葉素萍台北22日電）國民黨立委翁曉玲稱，曾針對國務機要費向總統府詢問卻遭「已讀不回」。總統府發言人郭雅慧今天表示，經查，翁曉玲辦公室8月13日向府方詢問當天，總統府即回覆並提供完整書面資訊，沒有翁曉玲所稱情形。",
+     "author": "葉素萍",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "葉素萍",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
+     }
+    },
+    {
+     "title": "總統府槓上翁曉玲刪國務機要費  籲莫以不實言論卸責",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5548938",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-22T20:16:12+08:00",
+     "description": "針對國民黨立委翁曉玲聲稱總統府就國務機要費有所謂「已讀不回」情事，總統府發言人郭雅慧今（22）日嚴正表示，經查證於本月13日翁委員辦公室向府方詢問同日，總統府即回覆並提供完整書...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "刪國務機要費波及庇護工場月餅 翁曉玲再控綠「拿弱勢當肉票」網痛批：到底有什麼毛病？",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vRnZ0ZXdjaHJtMGVIclFpaUE4VDZpcjZXQ25WVFFBQk1NUGYwZlNlcFJ0b2RfZGt4cDJLa1ozenk1UTNMWjdPYWRHM3BFTXJvTVhGelB6dlN5d0U?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-08-22T18:54:24+08:00",
+     "description": "刪國務機要費波及庇護工場月餅 翁曉玲再控綠「拿弱勢當肉票」網痛批：到底有什麼毛病？  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "庇護工場採購遭刪凍！家長總會怒轟翁曉玲「明知故刪」 弱勢團體成政治犧牲品| 政治",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BdTk3am1XQ1d1eUc3X1pESGl3Qk13Yld1MzRwOVpoZVY5ZzBrZE8xR09NSHRYaXFQeVIwNndEVVFMLXVpenJPQ1lQbi1hYmE2M2RQWWRPcGJEekE?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-08-22T18:25:00+08:00",
+     "description": "庇護工場採購遭刪凍！家長總會怒轟翁曉玲「明知故刪」 弱勢團體成政治犧牲品| 政治  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "翁曉玲刪預算波及庇護工場 智障者家總批：再怎麼野蠻也不應「明知故刪」",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5548786",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-22T17:24:25+08:00",
+     "description": "立法院藍白陣營聯手通過國民黨立委翁曉玲提案，刪凍總統府國務機要費3000萬元，衝擊全台37家庇護工場1.5萬份中秋禮盒採購訂單。中華民國智障者家長總會痛批，再怎麼野蠻，也不應「明...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "翁曉玲刪預算砍到庇護工場　智障者家總罕發聲：不該明知故刪",
+     "link": "https://www.ettoday.net/news/20260822/3223844.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-08-22T14:50:00+08:00",
+     "description": "立法院日前三讀通過全數刪凍總統府國務機要費3000萬元，導致原訂向全國37家庇護工場採購1.5萬盒中秋禮盒被迫臨時取消訂單。對此，除了總統賴清德將自掏腰包20萬元，認購庇護工場的產品。國民黨則痛批情緒勒索。中華民國智障者家長總會罕見發聲表示，呼籲翁曉玲委員及所有立法委員：監督政府沒有錯，但監督不能失去比例原則，不能讓最沒有政治籌碼的人承擔代價，再怎麼野蠻，也不應明知故刪，庇護員工不應成為政治攻防的",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "刪國務機要費影響庇護工場 智障者家總：障礙者工作權不該淪政治籌碼",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFbFYzQnVsLXpScHdiVllvaGdVUWpjelEtU1V0dkdXNlVJV1o3Ylhad29tVm9UajBsbVZOV2owYURwa0JJMnVfSFk3cUVjbXBC0gFWQVVfeXFMT0pGa2ZRQ3hnQVhyT2p0cVZubWQzWElMcXIxb2dqWGtNT01kbElIR0p3NGF3cXpDWWllVWh2T2p6TTF6dWtXWkl5cXhjalRYbnY4bzRid0E?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-08-22T14:35:41+08:00",
+     "description": "刪國務機要費影響庇護工場 智障者家總：障礙者工作權不該淪政治籌碼  UDN",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
+   "id": "e866538943d0",
+   "title": "沙德爾颱風路徑變了！吳德榮：逼近台灣機會變大　全台雨再灌5天",
+   "outlet_count": 5,
+   "outlets": [
+    "ebc",
+    "ltn",
+    "newtalk",
+    "nownews",
+    "tvbs"
+   ],
+   "article_count": 16,
+   "first_seen": "2026-08-21T06:41:50+08:00",
+   "last_updated": "2026-08-23T00:29:17.745192+08:00",
+   "tags": [
+    "沙德爾",
+    "路徑",
+    "近台"
+   ],
+   "articles": [
+    {
+     "title": "沙德爾颱風來勢洶洶 最靠近台灣時間點曝光",
+     "link": "https://news.ebc.net.tw/news/living/567651",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-08-23T00:29:17.745192+08:00",
+     "description": "中央氣象署於8月22日發布警報，因低壓帶與西南風增強，23日至25日清晨南部及東半部將出現紫爆等級豪雨，民眾需嚴防積淹水。",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "沙德爾持續增強！3天恐達強颱 「路徑變數大」恐直逼台灣",
+     "link": "https://news.ebc.net.tw/news/living/567617",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-08-22T20:30:37.715144+08:00",
+     "description": "台灣周邊海面近期有多個熱帶系統發展，其中熱帶性低氣壓TD22已獲日本氣象廳升格為颱風「簡拉維」，路徑逐漸朝台灣方向靠近。",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "沙德爾颱風最快明成強颱！最新路徑南修不排除接近台灣| 生活",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91LTVJVEVUNzZVbG11djE5MWhtOWFza1MtZ2RIV05EU0FQSEkzcWZuemhDYVRrdnhLS2hlX25vMVkzWmdJQkFxdnV0SVBKRGZiV1Rfei00YVhQSGc?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-08-22T12:27:50+08:00",
+     "description": "沙德爾颱風最快明成強颱！最新路徑南修不排除接近台灣| 生活  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "赴日旅遊注意！沙德爾恐升強颱25日直撲沖繩",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5548347",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-22T11:37:39+08:00",
+     "description": "計畫前往日本的民眾請密切留意天氣動態！今年第18號颱風「沙德爾」持續增強，25日恐直撲日本沖繩。據日本氣象廳最新觀測資訊顯示，沙德爾颱風於今天（22日）上午9時位於馬里亞納群島附...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "沙德爾颱風「這2天」靠近琉球！專家：是否靠近台灣明後天有結果| 生活",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85dVNyWWRCeW5sYVhtakZYT3kzbjJlMERDXzdTaUtRbGJLaVlIY0FSYnE3TE1PWVFQZms4YXNMTWhSQ1FudWJYMEpBaXVLRUhHT0o5OWNJN3N5RE0?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-08-22T11:20:18+08:00",
+     "description": "沙德爾颱風「這2天」靠近琉球！專家：是否靠近台灣明後天有結果| 生活  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "台灣「颱風假」關鍵數據上升！ 沙德爾2大路徑分析曝光",
+     "link": "https://news.ebc.net.tw/news/living/567522",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-08-22T10:39:25.346062+08:00",
+     "description": "中度颱風沙德爾，以每小時19公里速度，向西北進行，影響颱風假的關鍵數據，120小時「颱風暴風侵襲機率」也顯示，全台機率都不是0。",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "沙德爾晉升中颱！路徑分歧擴大 歐洲模式估「登陸花蓮」",
+     "link": "https://news.ebc.net.tw/news/living/567506",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-08-22T00:30:37.146940+08:00",
+     "description": "沙德爾21日晚間增強為中颱，最快週日挑戰強颱。各國模式路徑仍分歧，歐洲模式甚至預估可能登陸花蓮，下週五至週六恐最接近台灣。",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "沙德爾路徑「180度大發散」！月底恐逼近台灣 最新預測曝關鍵變數",
+     "link": "https://news.ebc.net.tw/news/living/567470",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-08-21T22:30:48.359639+08:00",
+     "description": "受到低壓帶及偏強西南風影響，台灣近期天氣持續不穩定，南部地區今（21日）整天都有陣雨或雷雨，局部地區24小時累積雨量已突破200毫米。",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "颱風沙德爾路徑突然大發散！台灣也在範圍內關鍵時間點曝光| 生活",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sZTFqVUwyblNScHRMaERwYkYyWC1kbERmbHg5a0tacWIzLU1qd3kxaEttTVpsS0VHVXNYS1JHWGo0LWw2d0dONDFSUFhDbU85VGVDZzVjbUlmQlE?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-08-21T17:54:39+08:00",
+     "description": "颱風沙德爾路徑突然大發散！台灣也在範圍內關鍵時間點曝光| 生活  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "沙德爾颱風會靠近台灣嗎？氣象粉專曝：下週一是關鍵| 生活",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MUGhuWEhLdkRCUlpoamNJUk0tSms0XzFCbS1DaGVabXM4a3VSVnZzck5YSW01WDE1eEpyUGFZT3lTNEpUdTJFU1d2czRBYk9xeEpWZ3BjdUYyY1E?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-08-21T17:34:00+08:00",
+     "description": "沙德爾颱風會靠近台灣嗎？氣象粉專曝：下週一是關鍵| 生活  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -4473,6 +4579,130 @@
    ]
   },
   {
+   "id": "a466e07f8c3b",
+   "title": "快訊》台南豪雨「台鐵軌道淹水」釀延誤 急調整列車",
+   "outlet_count": 5,
+   "outlets": [
+    "chinatimes",
+    "ettoday",
+    "ltn",
+    "mirror",
+    "nownews"
+   ],
+   "article_count": 6,
+   "first_seen": "2026-08-22T07:31:01+08:00",
+   "last_updated": "2026-08-22T16:56:19+08:00",
+   "tags": [
+    "降速行駛",
+    "台鐵",
+    "台南"
+   ],
+   "articles": [
+    {
+     "title": "台南雨勢趨緩　台鐵：永康至保安間列車恢復常速行駛",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9sRWgySVFvSmVQcnBoaFNvT3N1VHRPVzlYNmV5eVZ0T1cyWDk0OHhvTTRsX2dTcHVoQ1YxUWtZcnAwVjVOUUNXcDYyX2dENGdpMWfSAVJBVV95cUxPbEVoMklRb0plUHJwaGhTb09zdVR0T1c5WDZleXlWdE9XMlg5NDh4b000bF9nU3B1aENWMVFrWXJwMFY1TlFDV3A2Ml9nRDRnaTFn?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-08-22T16:56:19+08:00",
+     "description": "台南雨勢趨緩　台鐵：永康至保安間列車恢復常速行駛  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "台南降下豪雨！多處傳出淹水災情、台鐵降速行駛",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5548341",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-22T10:32:00+08:00",
+     "description": "氣象署對台南、高雄、屏東、嘉義縣市、台中、南投等地發布豪大雨特報，其中台南市今（22日）清晨降下暴雨，導致永康區、仁德區等多處低窪地區淹水，台鐵台南站也因軌道積水降速行駛，供應台...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "豪雨淹過鐵軌！台鐵永康至保安水淹軌面　列車7時起降速行駛",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NR1hOQlJZa21NRmtzbkdHSEpVSHhGRGJSbHg1d01wbXc5dXFSYmJ2XzQ5b2gzNVZpbjBWWUlPOVhOTGhHd1JYOHdIbzE4aGt6R1HSAVJBVV95cUxNTUdYTkJSWWttTUZrc25HR0hKVUh4RkRiUmx4NXdNcG13OXVxUmJidl80OW9oMzVWaW4wVllJTzlYTkxoR3dSWDh3SG8xOGhrekdR?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-08-22T08:38:41+08:00",
+     "description": "豪雨淹過鐵軌！台鐵永康至保安水淹軌面　列車7時起降速行駛  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "豪雨轟炸南市！多區傳淹水災情　台鐵台南站軌道積水「降速行駛」",
+     "link": "https://www.mirrormedia.mg/story/20260822edi003",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-08-22T08:25:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "台鐵台南站軌道淹水　永康＝保安降速行駛「列車延誤」",
+     "link": "https://www.ettoday.net/news/20260822/3223642.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-08-22T07:47:00+08:00",
+     "description": "強西南風及低壓帶挾帶豐沛水氣，南部出現豪雨，台鐵台南站軌道淹水，永康到保安間一度不通中斷逾半小時，目前採降速行駛，列車將有延誤。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "快訊》台南豪雨「台鐵軌道淹水」釀延誤 急調整列車",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzTW5DMDBVejliR3g5c2kyYUdNdWpBejFKNjlCLVp0Z3Jqd2kxQUZrYmNEUVZNWUk1NVoyejgzQlF1TEd2aHduUFcwTV9EdGgwcFplNU9sM0hUMzFuMDJsdEZqR2xkVWpFeFM5T1BB?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-08-22T07:31:01+08:00",
+     "description": "快訊》台南豪雨「台鐵軌道淹水」釀延誤 急調整列車  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
    "id": "7d21821f0270",
    "title": "網紅Joeman豪宅遭質疑違規使用　新北市府將會勘",
    "outlet_count": 5,
@@ -4487,8 +4717,8 @@
    "first_seen": "2026-08-20T20:27:40+08:00",
    "last_updated": "2026-08-22T16:56:00+08:00",
    "tags": [
-    "違規",
     "豪宅",
+    "違規",
     "蕭伊"
    ],
    "claims": [
@@ -4657,6 +4887,207 @@
    ]
   },
   {
+   "id": "d578966d0755",
+   "title": "謝文雄新北土城當街砍殺妻子小姨子　國民法官參審判無期徒刑",
+   "outlet_count": 5,
+   "outlets": [
+    "cna",
+    "ebc",
+    "ltn",
+    "mirror",
+    "tvbs"
+   ],
+   "article_count": 11,
+   "first_seen": "2026-08-21T17:49:07+08:00",
+   "last_updated": "2026-08-22T16:30:08.182101+08:00",
+   "tags": [
+    "小姨子",
+    "無期徒刑",
+    "妻子"
+   ],
+   "articles": [
+    {
+     "title": "家暴男殺妻、小姨子逃死！ 家屬淚：法官說「非最嚴重之罪」",
+     "link": "https://news.ebc.net.tw/news/society/567563",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-08-22T16:30:08.182101+08:00",
+     "description": "新北土城謝文雄去年持刀殺害妻子及小姨子，一審遭判兩個無期徒刑。法院認定未達情節最嚴重之罪，死者父母難以接受，痛批判決並質疑司法制度。",
+     "category": "society",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "society",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "狠夫砍死妻子與小姨子判無期 雙親淚控：要全家死才算嚴重？",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yU2FEOFNOV2xwdG1ZSjRsMXltREozY1pYQVhTeWRzSHN3cEYyWER4bzZ6WUZlODZoeE1tUlJ3Mks0MVhDQVd0NVRKZjNVeFU?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-08-22T12:58:00+08:00",
+     "description": "狠夫砍死妻子與小姨子判無期 雙親淚控：要全家死才算嚴重？  TVBS新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "謝文雄殺妻子、小姨子判無期 新北院：不符最嚴重情節",
+     "link": "https://news.ebc.net.tw/news/society/567516",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-08-22T10:39:25.346062+08:00",
+     "description": "謝文雄在土城持刀殺害妻子及小姨子，新北地院21日判無期徒刑；法院認定不符憲判8最嚴重情節及高度再犯風險，無從判處死刑。",
+     "category": "society",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "society",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "家暴男狠殺老婆小姨子「遭判2無期」　為何不判死？法院點破關鍵：檢方未提足夠證明",
+     "link": "https://www.mirrormedia.mg/story/20260821edi094",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-08-22T07:30:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "砍死妻子、小姨子！土城男無期徒刑 新北地院曝「不判死關鍵」",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zV3BmcVNFTEJ0VUpnUVZjVXRkNms2ZG43cVBOc2hMRm1rTGtqZWZ0Y2taQ1BQbnhhQzByT1gwTmM2YzBXdm9aSW9fUlhvQms?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-08-21T22:04:00+08:00",
+     "description": "砍死妻子、小姨子！土城男無期徒刑 新北地院曝「不判死關鍵」  TVBS新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "謝文雄當街殺2人判無期　新北地院：不符合最嚴重要件無從判死",
+     "link": "https://www.cna.com.tw/news/asoc/202608210319.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-08-21T20:57:43+08:00",
+     "description": "（中央社記者曹亞沿新北21日電）謝文雄去年在土城當街砍殺妻子及小姨子致死，今天被判無期徒刑。新北地院說明，因無法證明謝文雄預謀連續殺人且有再犯高度危險，不符憲判8犯罪情節最嚴重要件，無從判決死刑。",
+     "author": "曹亞沿",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "曹亞沿",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/social"
+     }
+    },
+    {
+     "title": "土城家暴男當街砍死老婆小姨子！國民法官判「2個無期徒刑」　被害家屬悲喊：死得好冤枉",
+     "link": "https://www.mirrormedia.mg/story/20260821edi071",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-08-21T20:51:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "謝文雄當街砍殺妻子小姨子判無期　家屬淚喊上訴到底",
+     "link": "https://www.cna.com.tw/news/asoc/202608210288.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-08-21T19:03:35+08:00",
+     "description": "（中央社記者曹亞沿新北21日電）男子謝文雄去年在新北土城當街砍殺妻子及小姨子多刀致死，法院今天判處2個無期徒刑。死者家屬聽判後，難以接受未判死刑，痛哭失聲，呼喊會用生命上訴到底。",
+     "author": "曹亞沿",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "曹亞沿",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/social"
+     }
+    },
+    {
+     "title": "當街殺害妻子小姨子！ 土城家暴男判2個無期徒刑",
+     "link": "https://news.ebc.net.tw/news/society/567409",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-08-21T18:29:58.428000+08:00",
+     "description": "土城家暴男謝文雄去年無視保護令，持刀、鋁棒伏擊妻子與小姨子，造成2人身亡，新北地院國民法官密集審理後，今天判處謝男2個無期徒刑。",
+     "category": "society",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "society",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "謝文雄新北土城當街砍殺妻子小姨子　國民法官參審判無期徒刑",
+     "link": "https://www.cna.com.tw/news/asoc/202608210253.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-08-21T17:51:20+08:00",
+     "description": "（中央社記者曹亞沿新北21日電）謝文雄去年在新北土城當街砍殺妻子及小姨子多刀致死。新北地院國民法官連5天審理，今天依殺人罪判處無期徒刑，褫奪公權終身。",
+     "author": "曹亞沿",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "曹亞沿",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/social"
+     }
+    }
+   ]
+  },
+  {
    "id": "e16789e559e1",
    "title": "竹縣某國中生遭籃球框架壓傷不治　教育局啟動輔導",
    "outlet_count": 5,
@@ -4673,7 +5104,7 @@
    "tags": [
     "國中生遭",
     "籃球架",
-    "不治"
+    "架壓"
    ],
    "articles": [
     {
@@ -5154,270 +5585,6 @@
    ]
   },
   {
-   "id": "a466e07f8c3b",
-   "title": "快訊》台南豪雨「台鐵軌道淹水」釀延誤 急調整列車",
-   "outlet_count": 5,
-   "outlets": [
-    "chinatimes",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "nownews"
-   ],
-   "article_count": 5,
-   "first_seen": "2026-08-22T07:31:01+08:00",
-   "last_updated": "2026-08-22T10:32:00+08:00",
-   "tags": [
-    "降速行駛",
-    "鐵台南站軌道",
-    "台鐵"
-   ],
-   "articles": [
-    {
-     "title": "台南降下豪雨！多處傳出淹水災情、台鐵降速行駛",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5548341",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-22T10:32:00+08:00",
-     "description": "氣象署對台南、高雄、屏東、嘉義縣市、台中、南投等地發布豪大雨特報，其中台南市今（22日）清晨降下暴雨，導致永康區、仁德區等多處低窪地區淹水，台鐵台南站也因軌道積水降速行駛，供應台...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "豪雨淹過鐵軌！台鐵永康至保安水淹軌面　列車7時起降速行駛",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NR1hOQlJZa21NRmtzbkdHSEpVSHhGRGJSbHg1d01wbXc5dXFSYmJ2XzQ5b2gzNVZpbjBWWUlPOVhOTGhHd1JYOHdIbzE4aGt6R1HSAVJBVV95cUxNTUdYTkJSWWttTUZrc25HR0hKVUh4RkRiUmx4NXdNcG13OXVxUmJidl80OW9oMzVWaW4wVllJTzlYTkxoR3dSWDh3SG8xOGhrekdR?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-08-22T08:38:41+08:00",
-     "description": "豪雨淹過鐵軌！台鐵永康至保安水淹軌面　列車7時起降速行駛  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "豪雨轟炸南市！多區傳淹水災情　台鐵台南站軌道積水「降速行駛」",
-     "link": "https://www.mirrormedia.mg/story/20260822edi003",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-08-22T08:25:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "台鐵台南站軌道淹水　永康＝保安降速行駛「列車延誤」",
-     "link": "https://www.ettoday.net/news/20260822/3223642.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-08-22T07:47:00+08:00",
-     "description": "強西南風及低壓帶挾帶豐沛水氣，南部出現豪雨，台鐵台南站軌道淹水，永康到保安間一度不通中斷逾半小時，目前採降速行駛，列車將有延誤。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "快訊》台南豪雨「台鐵軌道淹水」釀延誤 急調整列車",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzTW5DMDBVejliR3g5c2kyYUdNdWpBejFKNjlCLVp0Z3Jqd2kxQUZrYmNEUVZNWUk1NVoyejgzQlF1TEd2aHduUFcwTV9EdGgwcFplNU9sM0hUMzFuMDJsdEZqR2xkVWpFeFM5T1BB?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-08-22T07:31:01+08:00",
-     "description": "快訊》台南豪雨「台鐵軌道淹水」釀延誤 急調整列車  中時新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
-   "id": "dd17f3bbcaf3",
-   "title": "外媒指哈利王子將搬回英國 暫不恢復王室職務",
-   "outlet_count": 5,
-   "outlets": [
-    "ettoday",
-    "ltn",
-    "mirror",
-    "nownews",
-    "pts"
-   ],
-   "article_count": 7,
-   "first_seen": "2026-08-20T10:50:00+08:00",
-   "last_updated": "2026-08-22T07:59:57+08:00",
-   "tags": [
-    "哈利王子",
-    "搬回英國",
-    "梅根"
-   ],
-   "claims": [
-    {
-     "type": "金額",
-     "agree": true,
-     "outlet_count": 2,
-     "values": [
-      {
-       "value": "954萬元",
-       "outlets": [
-        "今日新聞",
-        "自由時報"
-       ]
-      }
-     ]
-    }
-   ],
-   "articles": [
-    {
-     "title": "954萬英鎊法律費！哈利王子與多人官司敗訴　返英之際再添新帳單",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5SSGNqZjF3VkppVk9YQ1ZuQVNTMTNLNWVld3V5WkFHXzY1TWVzZTJSclBJd2t3d1dsaFJvanQ3RWJ5eFczZjl6aU5zR3bSAVJBVV95cUxPQ0p5Q0dZbEVVdzBtbzdxVWpITktKOFNEbGhHbWhmcDBwUVZFdmtHWHJzLThnR0VFUXRmS1pwM1ZXek1CbXZYQmk5cWhzbjRWUTJR?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-08-22T07:59:57+08:00",
-     "description": "954萬英鎊法律費！哈利王子與多人官司敗訴　返英之際再添新帳單  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "哈利梅根一家為何選擇此時搬回英國？安全疑慮是否已解決？",
-     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQ1hNNWRBWlptQzhYTXN5NXBXZE4zVlRpTEMzdVk5QTNXamliMG0wbkh6QWpfT2NPUmFpalZWSExCdHoxMnJ2dUQ4UElEVEZJUzdVS0x3cUVCUWw0ZWl0U19zSEJKSU1lZmwzNWFJb3lpUXN3VnpSLUV3ek45a2s4N2JLc3RlUUt5QW1EblBrWGdyYVkwWExsMXVFZkJpcmp4bEhrN0ZETE9Tdm1DSXRVMnNDLUdJRmlmV0xPekhLZGJNUmo5RENYYjhud2s5N05pNEhfZlY0S2NpeUlfZWdGLVBjVWVEWjR5?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-08-22T01:03:38+08:00",
-     "description": "哈利梅根一家為何選擇此時搬回英國？安全疑慮是否已解決？  newslens.nownews.com",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "搬回英國先付錢？哈利王子等7人告媒體敗訴 要付954萬英鎊訴訟費",
-     "link": "https://news.ltn.com.tw/news/world/breakingnews/5548190",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-22T00:10:20+08:00",
-     "description": "英國的1個法院21日裁定，控告媒體非法蒐集資訊與侵犯隱私但敗訴的英國哈利王子與另外6名名流，必須在1週內支付英國八卦報《每日郵報》（Daily Mail）的發行商「聯合報業公司...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "哈利「脫離王室6年」殺回英國！查爾斯前3天才知情　威廉氣炸了",
-     "link": "https://www.ettoday.net/news/20260821/3223014.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-08-21T07:59:00+08:00",
-     "description": "英國哈利王子（Prince Harry）與妻子梅根（Meghan Markle）拋出震撼彈，宣布在移居美國加州6年後，將舉家搬回英國。據悉，查爾斯國王直到消息曝光前3天才得知，但他相當樂見能與兒孫共度私人時光。然而，面對弟弟突如其來的回歸，威廉王子與王妃凱特至今保持沉默，專家直言威廉恐怕已經氣到腦充血。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "外媒指哈利王子將搬回英國 暫不恢復王室職務",
-     "link": "https://news.pts.org.tw/article/823392",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-08-20T21:12:05+08:00",
-     "description": "6年前遠走美國的英國哈利王子夫婦，這個月要帶著孩子搬回來了，這個消息連查爾斯國王都是幾天前才知道，也不會讓他們恢復王室職務。根據了解，哈利一家四口會住在倫敦郊區的私人住宅。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "哈利王子一家返英態度大轉彎！梅根曾拒兒女在英國上學　他1年前才喊「無法想像搬回去」",
-     "link": "https://www.mirrormedia.mg/story/20260820edi066",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-08-20T14:28:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "哈利王子、梅根一家四口將搬回英國！2大理由曝光　查爾斯三世3天前才知情",
-     "link": "https://www.mirrormedia.mg/story/20260820edi023",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-08-20T10:50:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    }
-   ]
-  },
-  {
    "id": "d0727861b283",
    "title": "閃兵案開庭　陳柏霖、坤達認罪求緩刑",
    "outlet_count": 5,
@@ -5577,6 +5744,115 @@
    ]
   },
   {
+   "id": "67323a3000dd",
+   "title": "神秘「王醫師」護航趙建銘？陳幸妤疑前夫小帳自導自演",
+   "outlet_count": 5,
+   "outlets": [
+    "ebc",
+    "ettoday",
+    "ltn",
+    "newtalk",
+    "tvbs"
+   ],
+   "article_count": 5,
+   "first_seen": "2026-08-20T12:31:25.758489+08:00",
+   "last_updated": "2026-08-21T16:02:41+08:00",
+   "tags": [
+    "陳幸妤",
+    "趙建銘",
+    "許芊芊"
+   ],
+   "articles": [
+    {
+     "title": "陳幸妤開轟趙建銘「噓」回應  兩性專家：別推兩個女人上戰場",
+     "link": "https://ent.ltn.com.tw/news/breakingnews/5547697",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-21T16:02:41+08:00",
+     "description": "前總統陳水扁愛女陳幸妤開撕前夫趙建銘，所有人都想知道前駙馬趙建銘怎麼說，20日他自越南返台後，拿出離婚協議書發給現場媒體，除強調「看第8條」外，未多作說明。另外，他不斷比...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "傳許芊芊要趙建銘送名牌包、付房子頭期款 陳幸妤這麼說...",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90ZkpGaVhwdmVSRHBxalhhaWx2dEF6NjhWLUttenUxU2pCdU5jTkVmckxHVEZSaTVoRFV1aXExM05Hcy1DNWcyVUR0ZlF2LV82eHNYS0NIcmxlekE?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-08-21T14:19:32+08:00",
+     "description": "傳許芊芊要趙建銘送名牌包、付房子頭期款 陳幸妤這麼說...  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "爆趙建銘背後藏鏡人「恐是許芊芊」？陳幸妤開撕回應",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PM2NEbnV3eUlIUUhJbXJMMjFrTm02MXNpM0ZxcUVmYnFwOHlwSGZNTHJEOE5rQ0VYalc1LUkwdFhycm5fS3NLSkVYN1BSVXBOVU13?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-08-21T10:59:00+08:00",
+     "description": "快訊／爆趙建銘背後藏鏡人「恐是許芊芊」？陳幸妤開撕回應  TVBS新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "陳幸妤開撕前夫趙建銘！　「八點檔惡女始祖」單身8年拋金句狂讚",
+     "link": "https://star.ettoday.net/news/3222872",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-08-20T19:19:00+08:00",
+     "description": "前第一千金陳幸妤近日勇敢開撕前夫趙建銘，連日攻佔新聞媒體版面。鏡頭前的她擺脫過往形象，取而代之的是率真、平靜地講述過往，展現出堅毅的女性力量，被外界封為「新時代女性典範」。女星潘儀君與黃婕菲今（20）日出席大愛電視電影《回音》記者會，談及女性議題，也有感而發。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "神秘「王醫師」護航趙建銘？陳幸妤疑前夫小帳自導自演",
+     "link": "https://news.ebc.net.tw/news/politics/567214",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-08-20T12:31:25.758489+08:00",
+     "description": "王醫師多次發文護航趙建銘，越南IP引發小帳疑雲，陳幸妤質疑身份，離婚內幕再成焦點。",
+     "category": "politics",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "politics",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    }
+   ]
+  },
+  {
    "id": "a47c86084c98",
    "title": "政院再拒副署法案 韓國瑜轟「大錯特錯」、盧秀燕批「帶頭毀憲亂政」",
    "outlet_count": 5,
@@ -5592,8 +5868,8 @@
    "last_updated": "2026-08-21T15:49:14+08:00",
    "tags": [
     "盧秀燕",
-    "缺一不可",
-    "重返執政"
+    "重返執政",
+    "缺一不可"
    ],
    "articles": [
     {
@@ -5934,7 +6210,7 @@
    ]
   },
   {
-   "id": "966fcc488fec",
+   "id": "f065453e471a",
    "title": "韓國瑜指武器化副署權　張惇涵：依憲法捍衛民主憲政",
    "outlet_count": 5,
    "outlets": [
@@ -5949,7 +6225,7 @@
    "last_updated": "2026-08-21T12:50:00+08:00",
    "tags": [
     "民主憲政",
-    "韓國瑜",
+    "武器化",
     "副署權"
    ],
    "articles": [
@@ -6022,24 +6298,6 @@
      }
     },
     {
-     "title": "不副署隔空交火》卓榮泰：防在野獨裁 須有不副署勇氣",
-     "link": "https://news.ltn.com.tw/news/politics/paper/1767458",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-21T05:30:00+08:00",
-     "description": "〔記者鍾麗華／台北報導〕行政院長卓榮泰近日為三讀法案「不副署」，與立法院長韓國瑜隔空開火，卓揆昨在行政院院會後記者會表示，如果法律案破壞國家財政紀律，難道政府要束手無策嗎？他也預告將針對明年度總預算案拜會韓國瑜，並強調，「禮之用，和為貴，知和而和，不以禮節之，亦不可行也」，大家要和氣、要合作，但不照…",
-     "author": "鍾麗華",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "鍾麗華",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
      "title": "不副署隔空交火》韓國瑜：副署權武器化 傷害民主憲政",
      "link": "https://news.ltn.com.tw/news/politics/paper/1767459",
      "source": "ltn",
@@ -6051,6 +6309,24 @@
       "schema_version": 1,
       "author": {
        "name": "劉宛琳",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "不副署隔空交火》卓榮泰：防在野獨裁 須有不副署勇氣",
+     "link": "https://news.ltn.com.tw/news/politics/paper/1767458",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-21T05:30:00+08:00",
+     "description": "〔記者鍾麗華／台北報導〕行政院長卓榮泰近日為三讀法案「不副署」，與立法院長韓國瑜隔空開火，卓揆昨在行政院院會後記者會表示，如果法律案破壞國家財政紀律，難道政府要束手無策嗎？他也預告將針對明年度總預算案拜會韓國瑜，並強調，「禮之用，和為貴，知和而和，不以禮節之，亦不可行也」，大家要和氣、要合作，但不照…",
+     "author": "鍾麗華",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "鍾麗華",
        "source": "description"
       },
       "acquisition": "rss",
@@ -6168,6 +6444,540 @@
    ]
   },
   {
+   "id": "2249070d2c21",
+   "title": "川普揚言對伊朗發動經濟戰　哪些德黑蘭貿易夥伴可能受波及？",
+   "outlet_count": 4,
+   "outlets": [
+    "cna",
+    "ettoday",
+    "ltn",
+    "newtalk"
+   ],
+   "article_count": 11,
+   "first_seen": "2026-08-20T22:22:00+08:00",
+   "last_updated": "2026-08-23T12:25:41+08:00",
+   "tags": [
+    "伊朗",
+    "川普",
+    "經濟"
+   ],
+   "articles": [
+    {
+     "title": "川普發動「經濟諾曼第登陸」圍剿伊朗！德黑蘭點名3波灣國家：被打到就別抱怨| 國際",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIMDY5V253elk5QzVyUVl0YjBpaWxFNEtxbGRUOGVSOFctS0RDRXNSSUlOdUk4emFCQllSNDhQOWRFX3ZWam9Nc0lpWURRWGx1WDU5a3l5c1pmUQ?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-08-23T12:25:41+08:00",
+     "description": "川普發動「經濟諾曼第登陸」圍剿伊朗！德黑蘭點名3波灣國家：被打到就別抱怨| 國際  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "加拿大控川普發動貿易戰　嗆對美報復性關稅",
+     "link": "https://www.ettoday.net/news/20260823/3224023.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-08-23T05:27:00+08:00",
+     "description": "加拿大總理卡尼（Mark Carney）宣布，在美加貿易談判破裂後，加拿大將對美國商品祭出報復性關稅，並直指美國總統川普已對加拿大發動貿易「戰爭」。美國新一輪50％關稅已正式生效，影響約200億美元（約新台幣6400億元）的加拿大輸美商品。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "指控川普發動貿易戰　加拿大揚言對美報復性關稅",
+     "link": "https://news.ltn.com.tw/news/world/breakingnews/5549062",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-23T02:00:03+08:00",
+     "description": "加拿大總理卡尼（Mark Carney）今天表示，在退出一項「糟糕協議」的貿易談判後，將對美國實施報復性關稅，並指控川普發動一場貿易戰。此舉將進一步加深這兩個長久盟邦之間的裂痕。\n\n美加昨天...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "指控川普發動貿易戰　加拿大揚言對美報復性關稅",
+     "link": "https://www.cna.com.tw/news/aopl/202608230003.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-08-23T01:48:52+08:00",
+     "description": "（中央社華盛頓／渥太華22日綜合外電報導）加拿大總理卡尼（Mark Carney）今天表示，在退出一項「糟糕協議」的貿易談判後，將對美國實施報復性關稅，並指控川普發動一場貿易戰。此舉將進一步加深這兩個長久盟邦之間的裂痕。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
+     }
+    },
+    {
+     "title": "伊朗總統：最好盡早結束這場戰爭",
+     "link": "https://www.ettoday.net/news/20260822/3223635.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-08-22T06:33:00+08:00",
+     "description": "文／中央社\n\n伊朗總統裴澤斯基安今天表示，是時候結束與美國長達數月的中東戰爭，因為德黑蘭看來比華盛頓處於更有利的位置。然而在伊朗宣稱處於有利位置之際，美國將加大制裁力道，進一步向伊朗施壓。 《詳全文...》",
+     "author": "中央社",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "中央社",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "美國極限經濟戰迫使伊朗屈服？ICG專家：恐強化伊朗立場",
+     "link": "https://news.ltn.com.tw/news/world/breakingnews/5548133",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-21T22:35:19+08:00",
+     "description": "美國總統川普與財政部長貝森特接連宣布，將對伊朗採取前所未見的極限經濟施壓，配合當前的海上軍事封鎖形成雙重打擊，迫使伊朗屈服。\n\n對於川普極限經濟戰的潛在成果，「民主防衛基金...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "稱德黑蘭占優勢！華府揚言發動「經濟D-Day」  伊朗總統：現在是時候結束戰爭",
+     "link": "https://news.ltn.com.tw/news/world/breakingnews/5548134",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-21T22:23:32+08:00",
+     "description": "在美國表示，將對伊朗進行強力經濟制裁後，伊朗總統裴澤斯基安（Masoud Pezeshkian）21日表示，現在是結束與美國持續數月的戰爭的時候，他認為，德黑蘭現在對華府占有優...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "川普揚言對伊朗發動經濟戰　哪些德黑蘭貿易夥伴可能受波及？",
+     "link": "https://www.cna.com.tw/news/aopl/202608210057.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-08-21T11:12:15+08:00",
+     "description": "（中央社巴黎20日綜合外電報導）近期美國與伊朗敵對行動時而升高、時而暫歇之際，美國總統川普揚言對伊朗發動「經濟戰」，並威脅所有與伊朗進行貿易的國家。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
+     }
+    },
+    {
+     "title": "川普不想再戰！經濟制裁伊朗「關鍵在中國」　專家：川普未必敢動",
+     "link": "https://www.ettoday.net/news/20260821/3223107.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-08-21T10:59:00+08:00",
+     "description": "美國總統川普近日揚言要對伊朗發動「經濟諾曼第登陸日（economic D-Day）」，誓言以歷史性措施癱瘓伊朗。但紐約時報分析，這波強硬言論背後其實傳遞出川普不願重啟軍事衝突的訊號。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "極限經濟戰 川普全面孤立伊朗",
+     "link": "https://news.ltn.com.tw/news/world/paper/1767452",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-21T05:30:00+08:00",
+     "description": "〔編譯林家宇／綜合報導〕美國總統川普廿日宣布，對伊朗發動規模史無前例的經濟戰行動，徹底切斷德黑蘭與國際的經貿往來。為達目標，警告對任何與伊朗從事商業往來的國家祭出重懲，號召所有盟友與美國並肩，一同孤立、擊敗伊朗威脅。\n\n號召盟友同步 擊敗伊朗威脅\n\n川普發文寫道向伊朗提供了甚於以往的協議契機…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    }
+   ]
+  },
+  {
+   "id": "0b73cb1d6f0f",
+   "title": "台灣女子涉向日本國寶「佛足石」潑油  時隔4個月再入境被逮",
+   "outlet_count": 4,
+   "outlets": [
+    "cna",
+    "ltn",
+    "mirror",
+    "tvbs"
+   ],
+   "article_count": 4,
+   "first_seen": "2026-08-23T08:14:26+08:00",
+   "last_updated": "2026-08-23T11:56:00+08:00",
+   "tags": [
+    "毀日本國寶",
+    "犯案理由超",
+    "佛足石"
+   ],
+   "articles": [
+    {
+     "title": "涉毀日本國寶「佛足石」39歲台女遭逮　犯案理由超瞎：會對感動的事物淋油",
+     "link": "https://www.mirrormedia.mg/story/20260823edi014",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-08-23T11:56:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "日本千年國寶遭破壞！39歲台女再入境「機場被逮」犯案理由超傻眼",
+     "link": "https://news.ltn.com.tw/news/world/breakingnews/5549171",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-23T10:27:59+08:00",
+     "description": "日本奈良市世界文化遺產「藥師寺」日前發生國寶遭潑灑油狀液體事件。奈良縣警方經過數月調查，終於在昨（22）日趁台灣籍嫌犯蔡姓女子再次入境日本抵達關西國際機場時將其拘捕，全案依涉嫌違...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "涉潑毀日本國寶「佛足石」遭逮！39歲台女二度入境遭警上銬",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZekF6Zng1aC02TmdNaUd6R1B4aHFNNFhMb3J4YmVaZjlJY3EyaUJFSFJlRjJrLUU3X0RhdlJXbEFZVFNLVFBOLXRCVWlDZzA?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-08-23T09:38:00+08:00",
+     "description": "涉潑毀日本國寶「佛足石」遭逮！39歲台女二度入境遭警上銬  TVBS新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "台灣女子涉向日本國寶「佛足石」潑油  時隔4個月再入境被逮",
+     "link": "https://www.cna.com.tw/news/asoc/202608230015.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-08-23T08:14:26+08:00",
+     "description": "（中央社記者戴雅真東京23日專電）日本奈良世界遺產藥師寺今年4月發生國寶「佛足石」遭潑灑不明液體事件。日本警方經過數月調查，鎖定一名39歲台灣女子涉嫌犯案，並於22日趁她再次入境日本時，在關西國際機場以涉嫌違反「文化財保護法」將她逮捕。",
+     "author": "戴雅真",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "戴雅真",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/social"
+     }
+    }
+   ]
+  },
+  {
+   "id": "a1c7eb6b246f",
+   "title": "2026年國旅補助9/1上路 申請方式、獎助內容一次看",
+   "outlet_count": 4,
+   "outlets": [
+    "ltn",
+    "pts",
+    "storm",
+    "udn"
+   ],
+   "article_count": 6,
+   "first_seen": "2026-08-20T13:05:54+08:00",
+   "last_updated": "2026-08-23T11:36:13+08:00",
+   "tags": [
+    "國旅補助",
+    "次看",
+    "一次"
+   ],
+   "articles": [
+    {
+     "title": "身分證尾數6、7今天可登記！ 國旅補助「最高折3700元」9月上路",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5549263",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-23T11:36:13+08:00",
+     "description": "為刺激平日國旅，觀光署投入33.3億元「觀光雙輪驅動方案」9月起陸續上路！其中最受矚目的平日住宿補助，本島住宿最高折2000元、離島住宿最高補助2500元，經費有限；而「生日券...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "今天身分證尾數6、7快登記！最新觀光署旅遊補助「9/1起每人領最高5200元」，5 筆錢金額如何申請一次看",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0tRHdORHZwRTBXaUJycmJTRW5YeE1FakI4ZGozNThsQWZWRkw4Q1ZuX2gwcF9wd0g0SHhrV1YzOUZ4b0psSnFmMExBb1FtZ21V?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-08-22T11:27:10+08:00",
+     "description": "今天身分證尾數6、7快登記！最新觀光署旅遊補助「9/1起每人領最高5200元」，5 筆錢金額如何申請一次看  風傳媒",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "70歲長輩快點領錢！政府發36000元交通補助「符合資格全台都能領」， 如何請領一文看",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9aU3pWRXllM3RyLVplMWJHNTZuRFlaMUNnTFhvM19BbWZNUllfc1RwUEZmXzBhdU5IOFRlbkQtVi1aLURlYnVDNkd3Wnh1aG5z?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-08-22T10:32:29+08:00",
+     "description": "70歲長輩快點領錢！政府發36000元交通補助「符合資格全台都能領」， 如何請領一文看  風傳媒",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "2026最新家電補助快申請！9/1每人發最高5000元「1地符合資格就入帳」， 如何請領一次看",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9idHhBSWFNNTVWbE1YSnpGcUNHSEllVDBBOHNNWGlRLWd5MnVOamgtVjVoRTNVUUwyZEJQRWZQeG5UeXFUQVlyWmNLdGJQdnN1?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-08-22T08:40:00+08:00",
+     "description": "2026最新家電補助快申請！9/1每人發最高5000元「1地符合資格就入帳」， 如何請領一次看  風傳媒",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "2026年國旅補助9/1上路 申請方式、獎助內容一次看",
+     "link": "https://news.pts.org.tw/article/823494",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-08-21T16:00:37+08:00",
+     "description": "2026年國旅補助將於9月1日上路，除提供平日住宿2晚合計最高2500元的獎助金外，每個月也會抽出1000名壽星發放1200元生日住宿金，並提供樂園點數與台鐵Taiwan PASS等優惠。本次國旅提供哪些補助內容？要如何查詢可申請補助的旅宿？",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "整理包／2026平日國旅補助申請方式、使用規則一次看 16大QA一次解惑",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sNHZ2Z0xnMXA1U0FTQ1RVd3M2S1Q3UnU1bHhDeHFtZWxXSzc5Z2trb0lJbFZIWjYydElxeFFrQzNlMjRvaDdMYmpuMVlSNGV40gFWQVVfeXFMTkM5clhZRjA0UGdCTGtGTW1OcDhPRDdZVS0yV2FNM1BFZHdlVmpCX0FReG8xN0FXaHNpZkNaQXRpNHdyYVJCSi1udVBqOW1yWjNVSWZSanc?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-08-20T13:05:54+08:00",
+     "description": "整理包／2026平日國旅補助申請方式、使用規則一次看 16大QA一次解惑  UDN",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
+   "id": "6645227ca782",
+   "title": "瓊斯盃》台灣藍保障四強賽制惹議！籃協澄清：7/30已通知日韓菲三國",
+   "outlet_count": 4,
+   "outlets": [
+    "ebc",
+    "ltn",
+    "nownews",
+    "udn"
+   ],
+   "article_count": 6,
+   "first_seen": "2026-08-21T19:47:40+08:00",
+   "last_updated": "2026-08-23T08:32:14.980273+08:00",
+   "tags": [
+    "瓊斯盃",
+    "中華藍",
+    "賽制"
+   ],
+   "articles": [
+    {
+     "title": "瓊斯盃／中華藍、白難敵強敵 「兄弟鬩牆」將在季軍賽上演",
+     "link": "https://news.ebc.net.tw/news/sport/567654",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-08-23T08:32:14.980273+08:00",
+     "description": "第45屆瓊斯盃國際籃球邀請賽今（22）進行準決賽，中華藍、白都在第三節遭對手甩開，中華藍禁區失守，中華白則是遭韓國原州DB新世代三分砲火無情轟炸。",
+     "category": "sport",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "sport",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "瓊斯盃／保底4強賽制爆爭議 中華藍主帥圖齊回應了",
+     "link": "https://news.ebc.net.tw/news/sport/567640",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-08-23T04:28:56.644159+08:00",
+     "description": "第45屆瓊斯盃22日進行4強賽，僅剩10人的中華藍以71比96不敵美國爾灣分校落入季軍戰，總教練圖齊賽後親自澄清未支持保送賽制。",
+     "category": "sport",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "sport",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "瓊斯盃／中華藍不敵美國無緣爭冠 圖奇強調無法評論賽制爭議",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0TklYaS1iR2NGeHkwdjRIT0ZXMTl2cV85Z0t6bkhmdkZfM2JNX2JTRmxsNTZrX0dWMjQ2Rzh5Qk5EMHpBS0t3NnVIdmRqTUFE0gFWQVVfeXFMUFpkd21qSUY3OC1WUUozSUxoWXdyallBaHpHNlZFZDE1TkZUcWQ4MDJJb2kzNEx5dGZicTBMbDRZVV9WellfY0k4eGJHM3JRUGhaQU94cmc?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-08-22T19:52:22+08:00",
+     "description": "瓊斯盃／中華藍不敵美國無緣爭冠 圖奇強調無法評論賽制爭議  UDN",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "瓊斯盃／中華藍保送4強惹議！籃協駁臨時改賽制：7/30已通知",
+     "link": "https://news.ebc.net.tw/news/sport/567477",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-08-21T20:31:16.853442+08:00",
+     "description": "本屆威廉瓊斯盃男子組賽事中，中華藍隊享有「保障四強」的特殊賽制在近日引發外界高度爭議與討論。",
+     "category": "sport",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "sport",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "瓊斯盃賽制羅生門！籃協再發聲明公布時間軸：7月底已通知日韓菲",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ON19pbFVpOGt5UVpxYklnbDJxTDhiTFdEcFJ0X0RhWXRQUlVKTVFNWmFleGRaRklfZ1hWVFNYQ1JWVjZ6TXhHaF9jQkvSAVJBVV95cUxNajZkUzYxTGF3ZENmWGxWM0NzdmRrMlpuRUZROFJUREY5NFJWN0dkNkstbGN1Snl2V2drSmJjMG1WN3R4M21DLUd6MlBtS0JycTN3?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-08-21T20:03:50+08:00",
+     "description": "瓊斯盃賽制羅生門！籃協再發聲明公布時間軸：7月底已通知日韓菲  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "瓊斯盃》台灣藍保障四強賽制惹議！籃協澄清：7/30已通知日韓菲三國",
+     "link": "https://sports.ltn.com.tw/news/breakingnews/5548031",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-21T19:47:40+08:00",
+     "description": "本屆瓊斯盃男子組因台灣藍隊保障四強的賽制引發爭議，中華民國籃球協會稍早再度發出聲明澄清，已在7月30日通知與台灣藍隊同組的日、韓、菲三國，告知本屆將採取此特殊賽制，並非網...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    }
+   ]
+  },
+  {
    "id": "2924aaf7eb48",
    "title": "高虹安曝好消息 新竹棒球場進入最後驗收階段！",
    "outlet_count": 4,
@@ -6183,7 +6993,7 @@
    "tags": [
     "新竹棒球場",
     "高虹安",
-    "曝好消息"
+    "驗收階段"
    ],
    "articles": [
     {
@@ -6522,9 +7332,9 @@
    "first_seen": "2026-08-22T09:59:13+08:00",
    "last_updated": "2026-08-22T16:25:00+08:00",
    "tags": [
-    "副院長饒穎奇",
-    "奇辭世享耆壽",
-    "慶鈴悲痛證實"
+    "院副院長饒穎",
+    "慶鈴悲痛證實",
+    "奇辭世享耆壽"
    ],
    "articles": [
     {
@@ -6785,8 +7595,8 @@
    "first_seen": "2026-08-21T21:22:00+08:00",
    "last_updated": "2026-08-22T08:32:19.998148+08:00",
    "tags": [
-    "趙建銘支持者",
-    "農曆七月不想",
+    "支持者想送花",
+    "曆七月不想沾",
     "台南花店霸氣"
    ],
    "articles": [
@@ -6969,7 +7779,7 @@
    "tags": [
     "美債殖利率",
     "台指期夜盤",
-    "道瓊"
+    "美股"
    ],
    "articles": [
     {
@@ -7378,7 +8188,7 @@
    "first_seen": "2026-08-21T01:14:09+08:00",
    "last_updated": "2026-08-21T18:29:58.428000+08:00",
    "tags": [
-    "史上最嚴厲制",
+    "上最嚴厲制裁",
     "將對伊朗祭",
     "財長促中國配"
    ],
@@ -7468,134 +8278,6 @@
       },
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
-     }
-    }
-   ]
-  },
-  {
-   "id": "1817f92fbb20",
-   "title": "嘉義縣員警涉偽造違規罰單　30萬元交保",
-   "outlet_count": 4,
-   "outlets": [
-    "cna",
-    "ltn",
-    "mirror",
-    "pts"
-   ],
-   "article_count": 5,
-   "first_seen": "2026-08-20T11:37:00+08:00",
-   "last_updated": "2026-08-21T17:15:15+08:00",
-   "tags": [
-    "員警涉偽造違",
-    "交保",
-    "三總"
-   ],
-   "claims": [
-    {
-     "type": "金額",
-     "agree": false,
-     "outlet_count": 3,
-     "values": [
-      {
-       "value": "10萬元",
-       "outlets": [
-        "公視新聞",
-        "鏡週刊"
-       ]
-      },
-      {
-       "value": "30萬元",
-       "outlets": [
-        "自由時報"
-       ]
-      }
-     ]
-    }
-   ],
-   "articles": [
-    {
-     "title": "嘉縣員警涉偽造違規罰單30萬元交保　警局：訝異",
-     "link": "https://www.cna.com.tw/news/asoc/202608210222.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-08-21T17:15:15+08:00",
-     "description": "（中央社記者黃國芳嘉義市21日電）嘉義縣朴子分局李姓警員疑為績效以親友名義開立不實罰單，涉偽造文書等罪嫌，嘉檢昨天指揮警調搜索傳喚，複訊後，諭知30萬元交保；警局表示，他辦案認真，對此感到訝異。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/social"
-     }
-    },
-    {
-     "title": "拚績效？嘉縣朴子派出所員警涉不實開單 30萬交保",
-     "link": "https://news.ltn.com.tw/news/society/breakingnews/5547550",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-21T14:24:34+08:00",
-     "description": "嘉義縣警察局朴子分局朴子派出所李姓警員疑以親友名義開立不實交通違規罰單，涉偽造文書等罪嫌，嘉義地檢署20日指揮警調搜索、傳喚，檢方複訊後，諭知李員以30萬元交保。\n\n檢警調...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "嘉義縣員警涉偽造違規罰單　30萬元交保",
-     "link": "https://www.cna.com.tw/news/asoc/202608210115.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-08-21T13:21:22+08:00",
-     "description": "（中央社記者黃國芳嘉義市21日電）嘉義縣朴子分局李姓警員疑為績效以親友名義開立不實罰單，涉偽造文書等罪嫌，嘉檢昨天指揮警調搜索、傳喚，複訊後，諭知李男新台幣30萬元交保，其他5人以5萬或10萬元交保。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/social"
-     }
-    },
-    {
-     "title": "三總2醫師擅改器捐病患死因 涉偽造文書各10萬元交保",
-     "link": "https://news.pts.org.tw/article/823278",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-08-20T15:16:17+08:00",
-     "description": "三軍總醫院爆發疑似器官移植違法案件。三總醫師去（2025）年處理一件器官移植案件時，明知器捐者「非病死」，卻未經檢察官同意，違法摘除器官進行移植，涉嫌偽造文書。士林地檢署昨（19）日約談醫師等7人到案，訊後2名醫師各10萬元交保，其餘請回；而這也是國內首起醫師因疑似涉嫌違法執行器官移植，遭到偵辦的案例。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "三總骨科名醫涉「器捐系統造假」！2醫10萬交保　傳涉器官買賣院方、檢方都發聲了",
-     "link": "https://www.mirrormedia.mg/story/20260820edi041",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-08-20T11:37:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
      }
     }
    ]
@@ -7738,6 +8420,112 @@
       },
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/rsscna/social"
+     }
+    }
+   ]
+  },
+  {
+   "id": "e9ae53861c6b",
+   "title": "許家印判無期徒刑 沒收家產! 恒大集團罰417.5億 恒大地產罰331億",
+   "outlet_count": 4,
+   "outlets": [
+    "mirror",
+    "newtalk",
+    "tvbs",
+    "udn"
+   ],
+   "article_count": 5,
+   "first_seen": "2026-08-20T12:50:25+08:00",
+   "last_updated": "2026-08-21T14:52:03+08:00",
+   "tags": [
+    "無期徒刑",
+    "許家印一審",
+    "恒大創辦人許"
+   ],
+   "articles": [
+    {
+     "title": "地產狂徒全劇終？中國「恒大暴雷案」許家印被判無期徒刑，房地產市場崩壞後遺症未解",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBROFg3eUJlckYxSGVqTHpSaUlNcEp6eXgyT3BRTlhZWGlLdGdLVnA3Z3ZUSjNpQURXWXFXWmxsQkpxVnNFeXpSQlp2OVJJRi1LdXhmWDAyUGpfemlPaGM0OG9qeUY0QdIBa0FVX3lxTE5jdEE5MnFqb09ZRTB3TjJuaEQ0TEFuTlNudldJVUxKbHpDenYtOU5GS3ljcjNHOWVYNzItSTdyNEUxbm51UG03bXg0aHMxRUdBSGg4am5RdVZ5ZndpRlpLb0hxbTlYbUxwVWZv?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-08-21T14:52:03+08:00",
+     "description": "地產狂徒全劇終？中國「恒大暴雷案」許家印被判無期徒刑，房地產市場崩壞後遺症未解  轉角國際udn Global",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "恒大創辦人許家印一審判決出爐！無期徒刑恒大罰158.2億人民幣",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ZdDhXX0lyRXV1aWdMTV9WdnpnU0ZsOHg2LXNhSE5rbFdsMndCMkdhbEpncE1wWmpxdDhOTi1wc0FmZlExODBXUEtlcTZRdw?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-08-21T00:05:00+08:00",
+     "description": "恒大創辦人許家印一審判決出爐！無期徒刑恒大罰158.2億人民幣  TVBS新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "恒大創辦人許家印一審判決出爐！無期徒刑恒大罰158.2億人民幣",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TWE9yZDB4VmlQTUN6SC10M0NNLVM2b3RnVG44TXdPNmNDVG1zRXQtUjNYVnhiSXEwWkRnem5JVVpIOGZrTERNNV83bFRwUlE?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-08-21T00:05:00+08:00",
+     "description": "恒大創辦人許家印一審判決出爐！無期徒刑恒大罰158.2億人民幣  TVBS新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "財務造假、違法吸金害慘市場！　恒大集團許家印一審遭判「無期徒刑」",
+     "link": "https://www.mirrormedia.mg/story/20260820edi027",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-08-20T12:52:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "許家印判無期徒刑 沒收家產! 恒大集團罰417.5億 恒大地產罰331億",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zZFhlQXljcE1UZFlVdmhzMXhzdTdCY1doTG9yTUVzLVRxbldDcWNOa1ZOTEh3eWpXSFNWR0xkNHVOeHhpUk1kYWV3c3R6Y1owQk9zUjRHVHkzMms?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-08-20T12:50:25+08:00",
+     "description": "許家印判無期徒刑 沒收家產! 恒大集團罰417.5億 恒大地產罰331億  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -7958,31 +8746,30 @@
    ]
   },
   {
-   "id": "2bba93f43e64",
-   "title": "九合一選舉若合併3公投　游盈隆：估開票至凌晨",
-   "outlet_count": 4,
+   "id": "7d9bea5c0416",
+   "title": "MLB／鄧愷威重返大聯盟純當後援 太空人教頭：球速回來了",
+   "outlet_count": 3,
    "outlets": [
-    "cna",
-    "ettoday",
+    "ltn",
     "mirror",
-    "pts"
+    "udn"
    ],
-   "article_count": 4,
-   "first_seen": "2026-08-20T12:05:00+08:00",
-   "last_updated": "2026-08-20T14:16:45+08:00",
+   "article_count": 3,
+   "first_seen": "2026-08-22T08:55:05+08:00",
+   "last_updated": "2026-08-23T11:28:57+08:00",
    "tags": [
-    "游盈隆",
-    "開票至凌晨",
-    "公投案"
+    "鄧愷威重返大",
+    "球速回來了",
+    "太空人"
    ],
    "articles": [
     {
-     "title": "游盈隆：3公投案若併入11/28大選 估須開票至隔日凌晨2時",
-     "link": "https://news.pts.org.tw/article/823287",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-08-20T14:16:45+08:00",
-     "description": "中選會今（20）日發布2026年地方公職人員選舉公告，投票日期為11月28日，選舉人數約1965萬人，共將於全台規劃1萬8244個投票所。至於立法院日前通過3項公投案，中選會主委游盈隆表示，將於8月28日進行審議，同時提醒若年底選舉夾帶3項公投案，預估須至凌晨1、2時才能完成開票。",
+     "title": "MLB》台灣強投鄧愷威還是沒上！太空人牛棚放火遭逆轉 龍頭快不保",
+     "link": "https://sports.ltn.com.tw/news/breakingnews/5549200",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-23T11:28:57+08:00",
+     "description": "太空人台灣強投鄧愷威昨天重返大聯盟，不過沒有登板，今天太空人持續在主場迎戰運動家，鄧愷威還是沒有上場，而太空人牛棚放火慘遭逆轉，終場3：4不敵運動家。\n\n\n鄧愷威本季開季從...…",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -7990,15 +8777,15 @@
        "source": "unknown"
       },
       "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
      }
     },
     {
-     "title": "中選會8/28審3公投案　游盈隆：若成案將開票至凌晨2時",
-     "link": "https://www.mirrormedia.mg/story/20260820edi052",
+     "title": "鄧愷威重返大聯盟！最新定位曝光　教練讚：球速回來了",
+     "link": "https://www.mirrormedia.mg/story/20260822edi025",
      "source": "mirror",
      "source_name": "鏡週刊",
-     "published": "2026-08-20T13:14:00+08:00",
+     "published": "2026-08-22T15:00:00+08:00",
      "description": "",
      "metadata": {
       "schema_version": 1,
@@ -8011,84 +8798,12 @@
      }
     },
     {
-     "title": "九合一選舉若合併3公投　游盈隆：估開票至凌晨",
-     "link": "https://www.cna.com.tw/news/aipl/202608200093.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-08-20T12:21:36+08:00",
-     "description": "（中央社記者吳書緯台北20日電）中央選舉委員會今天發布115年地方公職人員選舉公告；中選會主委游盈隆表示，九合一地方選舉合併公投案，「公投愈多，當然開票會開得比較晚」，若有2個公投案一定是開票過午夜，3個公投案大約是開票至凌晨1、2點。",
-     "author": "吳書緯",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "吳書緯",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
-     }
-    },
-    {
-     "title": "中選會828審3公投案　游盈隆估3案若都過恐開票到凌晨2點",
-     "link": "https://www.ettoday.net/news/20260820/3222548.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-08-20T12:05:00+08:00",
-     "description": "九合一大方選舉年底登場，在野黨上周在立法院通過「廢除非核家園」、「鞭刑」、「交通罰鍰專用」等3項公投案，盼藉此拉抬投票率。中選會主委游盈隆今召開「向人民報告」記者會，發布今年九合一選舉公告，針對公投案部分，游表示，預計將在28日召開委員會審查；他預估，若舉行3項公投，將開票至清晨1、2點。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    }
-   ]
-  },
-  {
-   "id": "0b73cb1d6f0f",
-   "title": "台灣女子涉向日本國寶「佛足石」潑油  時隔4個月再入境被逮",
-   "outlet_count": 3,
-   "outlets": [
-    "cna",
-    "ltn",
-    "tvbs"
-   ],
-   "article_count": 3,
-   "first_seen": "2026-08-23T08:14:26+08:00",
-   "last_updated": "2026-08-23T10:27:59+08:00",
-   "tags": [
-    "本國寶",
-    "佛足石",
-    "再入境"
-   ],
-   "articles": [
-    {
-     "title": "日本千年國寶遭破壞！39歲台女再入境「機場被逮」犯案理由超傻眼",
-     "link": "https://news.ltn.com.tw/news/world/breakingnews/5549171",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-23T10:27:59+08:00",
-     "description": "日本奈良市世界文化遺產「藥師寺」日前發生國寶遭潑灑油狀液體事件。奈良縣警方經過數月調查，終於在昨（22）日趁台灣籍嫌犯蔡姓女子再次入境日本抵達關西國際機場時將其拘捕，全案依涉嫌違...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "涉潑毀日本國寶「佛足石」遭逮！39歲台女二度入境遭警上銬",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZekF6Zng1aC02TmdNaUd6R1B4aHFNNFhMb3J4YmVaZjlJY3EyaUJFSFJlRjJrLUU3X0RhdlJXbEFZVFNLVFBOLXRCVWlDZzA?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-08-23T09:38:00+08:00",
-     "description": "涉潑毀日本國寶「佛足石」遭逮！39歲台女二度入境遭警上銬  TVBS新聞網",
+     "title": "MLB／鄧愷威重返大聯盟純當後援 太空人教頭：球速回來了",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkSjZfdUJzZTk1cUZaTDJKOURSN1VVRk1kOTE5YmVVTS04TVdtWWc1STZDaFlrUjNmTXRzckEwdkxFNWJTOVVqMk01blB4TnJa0gFWQVVfeXFMT2N3YkdQenZXMDNJbzZuVzJndGtjemZmY2d4RlotYUxSYXpld2dMY0stLTBBMVlla1pKczRkcXQxQXJOemdaZmxRSkt4LWg5YVdSVjh2Rnc?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-08-22T08:55:05+08:00",
+     "description": "MLB／鄧愷威重返大聯盟純當後援 太空人教頭：球速回來了  UDN",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -8096,25 +8811,7 @@
        "source": "unknown"
       },
       "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "台灣女子涉向日本國寶「佛足石」潑油  時隔4個月再入境被逮",
-     "link": "https://www.cna.com.tw/news/asoc/202608230015.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-08-23T08:14:26+08:00",
-     "description": "（中央社記者戴雅真東京23日專電）日本奈良世界遺產藥師寺今年4月發生國寶「佛足石」遭潑灑不明液體事件。日本警方經過數月調查，鎖定一名39歲台灣女子涉嫌犯案，並於22日趁她再次入境日本時，在關西國際機場以涉嫌違反「文化財保護法」將她逮捕。",
-     "author": "戴雅真",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "戴雅真",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/social"
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -8132,7 +8829,7 @@
    "first_seen": "2026-08-23T08:31:00+08:00",
    "last_updated": "2026-08-23T10:02:51+08:00",
    "tags": [
-    "嘉玲曬梁朝偉",
+    "曬梁朝偉副駕",
     "朝聖"
    ],
    "articles": [
@@ -8190,87 +8887,30 @@
    ]
   },
   {
-   "id": "6645227ca782",
-   "title": "瓊斯盃》台灣藍保障四強賽制惹議！籃協澄清：7/30已通知日韓菲三國",
+   "id": "27a928871a99",
+   "title": "技嘉 AI伺服器助攻",
    "outlet_count": 3,
    "outlets": [
-    "ebc",
-    "ltn",
-    "nownews"
+    "chinatimes",
+    "newtalk",
+    "tvbs"
    ],
-   "article_count": 5,
-   "first_seen": "2026-08-21T19:47:40+08:00",
-   "last_updated": "2026-08-23T08:32:14.980273+08:00",
+   "article_count": 3,
+   "first_seen": "2026-08-23T04:10:00+08:00",
+   "last_updated": "2026-08-23T06:43:30+08:00",
    "tags": [
-    "瓊斯盃",
-    "已通知日韓菲",
-    "中華藍"
+    "晶片價格飆高",
+    "伺服器明年將",
+    "輝達"
    ],
    "articles": [
     {
-     "title": "瓊斯盃／中華藍、白難敵強敵 「兄弟鬩牆」將在季軍賽上演",
-     "link": "https://news.ebc.net.tw/news/sport/567654",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-08-23T08:32:14.980273+08:00",
-     "description": "第45屆瓊斯盃國際籃球邀請賽今（22）進行準決賽，中華藍、白都在第三節遭對手甩開，中華藍禁區失守，中華白則是遭韓國原州DB新世代三分砲火無情轟炸。",
-     "category": "sport",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "sport",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "瓊斯盃／保底4強賽制爆爭議 中華藍主帥圖齊回應了",
-     "link": "https://news.ebc.net.tw/news/sport/567640",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-08-23T04:28:56.644159+08:00",
-     "description": "第45屆瓊斯盃22日進行4強賽，僅剩10人的中華藍以71比96不敵美國爾灣分校落入季軍戰，總教練圖齊賽後親自澄清未支持保送賽制。",
-     "category": "sport",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "sport",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "瓊斯盃／中華藍保送4強惹議！籃協駁臨時改賽制：7/30已通知",
-     "link": "https://news.ebc.net.tw/news/sport/567477",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-08-21T20:31:16.853442+08:00",
-     "description": "本屆威廉瓊斯盃男子組賽事中，中華藍隊享有「保障四強」的特殊賽制在近日引發外界高度爭議與討論。",
-     "category": "sport",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "sport",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "瓊斯盃賽制羅生門！籃協再發聲明公布時間軸：7月底已通知日韓菲",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ON19pbFVpOGt5UVpxYklnbDJxTDhiTFdEcFJ0X0RhWXRQUlVKTVFNWmFleGRaRklfZ1hWVFNYQ1JWVjZ6TXhHaF9jQkvSAVJBVV95cUxNajZkUzYxTGF3ZENmWGxWM0NzdmRrMlpuRUZROFJUREY5NFJWN0dkNkstbGN1Snl2V2drSmJjMG1WN3R4M21DLUd6MlBtS0JycTN3?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-08-21T20:03:50+08:00",
-     "description": "瓊斯盃賽制羅生門！籃協再發聲明公布時間軸：7月底已通知日韓菲  NOWnews今日新聞",
+     "title": "記憶體晶片價格飆高 輝達AI伺服器明年將漲逾15%",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Qa1JtLXJ2UmlHd3lvamw3SGtCSC1Da3d0U2dRaGNLOWxUaDVfV2JsUjcxeGdGQ1dObzVidUxLaHZMOWVRU2VaWEJZVE5mYXdQR08tUGVLVkpETG8?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-08-23T06:43:30+08:00",
+     "description": "記憶體晶片價格飆高 輝達AI伺服器明年將漲逾15%  Newtalk新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -8278,215 +8918,41 @@
        "source": "unknown"
       },
       "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
-     "title": "瓊斯盃》台灣藍保障四強賽制惹議！籃協澄清：7/30已通知日韓菲三國",
-     "link": "https://sports.ltn.com.tw/news/breakingnews/5548031",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-21T19:47:40+08:00",
-     "description": "本屆瓊斯盃男子組因台灣藍隊保障四強的賽制引發爭議，中華民國籃球協會稍早再度發出聲明澄清，已在7月30日通知與台灣藍隊同組的日、韓、菲三國，告知本屆將採取此特殊賽制，並非網...…",
+     "title": "記憶體晶片價格飆高 輝達AI伺服器明年將漲逾15%",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBkNWdSMTJiOHY5cDNZdFFfdXN6aVFJbU5jMlNtdjc5YWdDdHA3UWUxbEhJOTFPbzdGY2EzZ0NGWFl0ejN5LU9yQlN2eFdSdw?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-08-23T06:16:00+08:00",
+     "description": "記憶體晶片價格飆高 輝達AI伺服器明年將漲逾15%  TVBS新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
-    }
-   ]
-  },
-  {
-   "id": "2249070d2c21",
-   "title": "川普揚言對伊朗發動經濟戰　哪些德黑蘭貿易夥伴可能受波及？",
-   "outlet_count": 3,
-   "outlets": [
-    "cna",
-    "ettoday",
-    "ltn"
-   ],
-   "article_count": 10,
-   "first_seen": "2026-08-20T22:22:00+08:00",
-   "last_updated": "2026-08-23T05:27:00+08:00",
-   "tags": [
-    "伊朗",
-    "川普",
-    "經濟戰"
-   ],
-   "articles": [
+    },
     {
-     "title": "加拿大控川普發動貿易戰　嗆對美報復性關稅",
-     "link": "https://www.ettoday.net/news/20260823/3224023.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-08-23T05:27:00+08:00",
-     "description": "加拿大總理卡尼（Mark Carney）宣布，在美加貿易談判破裂後，加拿大將對美國商品祭出報復性關稅，並直指美國總統川普已對加拿大發動貿易「戰爭」。美國新一輪50％關稅已正式生效，影響約200億美元（約新台幣6400億元）的加拿大輸美商品。 《詳全文...》",
+     "title": "技嘉 AI伺服器助攻",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82TUlpWEJUbUw0QTFlcWhYNUxGVF9sZHZIVVJfTE44c1psRUpNRlJyNDJVb25GVlJsTWppRkpWQTdENmlDd2ZrckVFb0tyam84aFl2bGJhOEpiQ280Z053SHVpUVZrbW9lTkVn?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-08-23T04:10:00+08:00",
+     "description": "技嘉 AI伺服器助攻  中時新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "指控川普發動貿易戰　加拿大揚言對美報復性關稅",
-     "link": "https://news.ltn.com.tw/news/world/breakingnews/5549062",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-23T02:00:03+08:00",
-     "description": "加拿大總理卡尼（Mark Carney）今天表示，在退出一項「糟糕協議」的貿易談判後，將對美國實施報復性關稅，並指控川普發動一場貿易戰。此舉將進一步加深這兩個長久盟邦之間的裂痕。\n\n美加昨天...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "指控川普發動貿易戰　加拿大揚言對美報復性關稅",
-     "link": "https://www.cna.com.tw/news/aopl/202608230003.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-08-23T01:48:52+08:00",
-     "description": "（中央社華盛頓／渥太華22日綜合外電報導）加拿大總理卡尼（Mark Carney）今天表示，在退出一項「糟糕協議」的貿易談判後，將對美國實施報復性關稅，並指控川普發動一場貿易戰。此舉將進一步加深這兩個長久盟邦之間的裂痕。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
-     }
-    },
-    {
-     "title": "伊朗總統：最好盡早結束這場戰爭",
-     "link": "https://www.ettoday.net/news/20260822/3223635.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-08-22T06:33:00+08:00",
-     "description": "文／中央社\n\n伊朗總統裴澤斯基安今天表示，是時候結束與美國長達數月的中東戰爭，因為德黑蘭看來比華盛頓處於更有利的位置。然而在伊朗宣稱處於有利位置之際，美國將加大制裁力道，進一步向伊朗施壓。 《詳全文...》",
-     "author": "中央社",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "中央社",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "美國極限經濟戰迫使伊朗屈服？ICG專家：恐強化伊朗立場",
-     "link": "https://news.ltn.com.tw/news/world/breakingnews/5548133",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-21T22:35:19+08:00",
-     "description": "美國總統川普與財政部長貝森特接連宣布，將對伊朗採取前所未見的極限經濟施壓，配合當前的海上軍事封鎖形成雙重打擊，迫使伊朗屈服。\n\n對於川普極限經濟戰的潛在成果，「民主防衛基金...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "稱德黑蘭占優勢！華府揚言發動「經濟D-Day」  伊朗總統：現在是時候結束戰爭",
-     "link": "https://news.ltn.com.tw/news/world/breakingnews/5548134",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-21T22:23:32+08:00",
-     "description": "在美國表示，將對伊朗進行強力經濟制裁後，伊朗總統裴澤斯基安（Masoud Pezeshkian）21日表示，現在是結束與美國持續數月的戰爭的時候，他認為，德黑蘭現在對華府占有優...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "川普揚言對伊朗發動經濟戰　哪些德黑蘭貿易夥伴可能受波及？",
-     "link": "https://www.cna.com.tw/news/aopl/202608210057.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-08-21T11:12:15+08:00",
-     "description": "（中央社巴黎20日綜合外電報導）近期美國與伊朗敵對行動時而升高、時而暫歇之際，美國總統川普揚言對伊朗發動「經濟戰」，並威脅所有與伊朗進行貿易的國家。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
-     }
-    },
-    {
-     "title": "川普不想再戰！經濟制裁伊朗「關鍵在中國」　專家：川普未必敢動",
-     "link": "https://www.ettoday.net/news/20260821/3223107.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-08-21T10:59:00+08:00",
-     "description": "美國總統川普近日揚言要對伊朗發動「經濟諾曼第登陸日（economic D-Day）」，誓言以歷史性措施癱瘓伊朗。但紐約時報分析，這波強硬言論背後其實傳遞出川普不願重啟軍事衝突的訊號。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "極限經濟戰 川普全面孤立伊朗",
-     "link": "https://news.ltn.com.tw/news/world/paper/1767452",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-21T05:30:00+08:00",
-     "description": "〔編譯林家宇／綜合報導〕美國總統川普廿日宣布，對伊朗發動規模史無前例的經濟戰行動，徹底切斷德黑蘭與國際的經貿往來。為達目標，警告對任何與伊朗從事商業往來的國家祭出重懲，號召所有盟友與美國並肩，一同孤立、擊敗伊朗威脅。\n\n號召盟友同步 擊敗伊朗威脅\n\n川普發文寫道向伊朗提供了甚於以往的協議契機…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "嚴懲與伊朗經貿往來國家 川普經濟戰可能扯進中國",
-     "link": "https://news.ltn.com.tw/news/world/breakingnews/5546979",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-20T22:22:00+08:00",
-     "description": "美國總統川普20日宣布，對伊朗發動規模史無前例的經濟戰行動，徹底切斷德黑蘭與國際的經貿往來。為達目標，警告對任何與伊朗從事商業往來的國家祭出重懲。\n\n雖然川普在文中未點名伊...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -8592,421 +9058,6 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
-   "id": "e866538943d0",
-   "title": "沙德爾颱風路徑變了！吳德榮：逼近台灣機會變大　全台雨再灌5天",
-   "outlet_count": 3,
-   "outlets": [
-    "ebc",
-    "newtalk",
-    "nownews"
-   ],
-   "article_count": 11,
-   "first_seen": "2026-08-21T06:41:50+08:00",
-   "last_updated": "2026-08-23T00:29:17.745192+08:00",
-   "tags": [
-    "沙德爾颱風",
-    "路徑",
-    "近台灣"
-   ],
-   "articles": [
-    {
-     "title": "沙德爾颱風來勢洶洶 最靠近台灣時間點曝光",
-     "link": "https://news.ebc.net.tw/news/living/567651",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-08-23T00:29:17.745192+08:00",
-     "description": "中央氣象署於8月22日發布警報，因低壓帶與西南風增強，23日至25日清晨南部及東半部將出現紫爆等級豪雨，民眾需嚴防積淹水。",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "沙德爾颱風「這2天」靠近琉球！專家：是否靠近台灣明後天有結果| 生活",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85dVNyWWRCeW5sYVhtakZYT3kzbjJlMERDXzdTaUtRbGJLaVlIY0FSYnE3TE1PWVFQZms4YXNMTWhSQ1FudWJYMEpBaXVLRUhHT0o5OWNJN3N5RE0?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-08-22T11:20:18+08:00",
-     "description": "沙德爾颱風「這2天」靠近琉球！專家：是否靠近台灣明後天有結果| 生活  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "台灣「颱風假」關鍵數據上升！ 沙德爾2大路徑分析曝光",
-     "link": "https://news.ebc.net.tw/news/living/567522",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-08-22T10:39:25.346062+08:00",
-     "description": "中度颱風沙德爾，以每小時19公里速度，向西北進行，影響颱風假的關鍵數據，120小時「颱風暴風侵襲機率」也顯示，全台機率都不是0。",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "沙德爾晉升中颱！路徑分歧擴大 歐洲模式估「登陸花蓮」",
-     "link": "https://news.ebc.net.tw/news/living/567506",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-08-22T00:30:37.146940+08:00",
-     "description": "沙德爾21日晚間增強為中颱，最快週日挑戰強颱。各國模式路徑仍分歧，歐洲模式甚至預估可能登陸花蓮，下週五至週六恐最接近台灣。",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "沙德爾路徑「180度大發散」！月底恐逼近台灣 最新預測曝關鍵變數",
-     "link": "https://news.ebc.net.tw/news/living/567470",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-08-21T22:30:48.359639+08:00",
-     "description": "受到低壓帶及偏強西南風影響，台灣近期天氣持續不穩定，南部地區今（21日）整天都有陣雨或雷雨，局部地區24小時累積雨量已突破200毫米。",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "颱風沙德爾路徑突然大發散！台灣也在範圍內關鍵時間點曝光| 生活",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sZTFqVUwyblNScHRMaERwYkYyWC1kbERmbHg5a0tacWIzLU1qd3kxaEttTVpsS0VHVXNYS1JHWGo0LWw2d0dONDFSUFhDbU85VGVDZzVjbUlmQlE?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-08-21T17:54:39+08:00",
-     "description": "颱風沙德爾路徑突然大發散！台灣也在範圍內關鍵時間點曝光| 生活  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "沙德爾颱風會靠近台灣嗎？氣象粉專曝：下週一是關鍵| 生活",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MUGhuWEhLdkRCUlpoamNJUk0tSms0XzFCbS1DaGVabXM4a3VSVnZzck5YSW01WDE1eEpyUGFZT3lTNEpUdTJFU1d2czRBYk9xeEpWZ3BjdUYyY1E?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-08-21T17:34:00+08:00",
-     "description": "沙德爾颱風會靠近台灣嗎？氣象粉專曝：下週一是關鍵| 生活  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "吳德榮：下周二很關鍵！沙德爾颱風恐發海警　1路徑對台灣有危險",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wcW5Qc3g0QWlWaG9PeWpTdkc1amNkNUdvbHg3MDRPaVJFWTVmQUNrTUVzd1E4a0VySndYZFR6QXdfVHd4WnIwM1R2X2JPeUNLeEHSAVJBVV95cUxOcHFuUHN4NEFpVmhvT3lqU3ZHNWpjZDVHb2x4NzA0T2lSRVk1ZkFDa01Fc3dROGtFckp3WGRUekF3X1R3eFpyMDNUdl9iT3lDS3hB?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-08-21T11:57:15+08:00",
-     "description": "吳德榮：下周二很關鍵！沙德爾颱風恐發海警　1路徑對台灣有危險  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "沙德爾颱風「甩尾猛衝台灣」關鍵時間點曝 3路徑威脅超高",
-     "link": "https://news.ebc.net.tw/news/living/567360",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-08-21T10:44:44.552969+08:00",
-     "description": "氣象專家賈新興引用各種模式的路徑分析顯示，至少有3條路徑顯示，對台灣的威脅性非常高，沙德爾是否會對台灣造成明顯影響，就要觀察太平洋高壓西伸的時間點。",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "沙德爾颱風路徑預報有變化！歐洲模式預測極度近台賈新興指關鍵時間點| 生活",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04S1NLdEpDMUxCZ1pCb1R4aFpsamhFcDhIN1N1Ti1fWll0a2JqdVFPc2xWYjd2SHI4eC1QVzNMZTRibU4zMjltS1gzcHBaMjJKaFlIMXBMQU9mdEE?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-08-21T09:47:56+08:00",
-     "description": "沙德爾颱風路徑預報有變化！歐洲模式預測極度近台賈新興指關鍵時間點| 生活  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
-   "id": "3d63f86b0d3a",
-   "title": "北市成功橋下驚見男性浮屍...年約50歲　警消打撈中",
-   "outlet_count": 3,
-   "outlets": [
-    "ebc",
-    "ettoday",
-    "ltn"
-   ],
-   "article_count": 3,
-   "first_seen": "2026-08-22T18:23:00+08:00",
-   "last_updated": "2026-08-22T20:30:37.715144+08:00",
-   "tags": [
-    "成功橋下驚",
-    "警消打撈中",
-    "浮屍"
-   ],
-   "articles": [
-    {
-     "title": "南港成功橋下驚現浮屍 警消打撈中",
-     "link": "https://news.ebc.net.tw/news/society/567612",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-08-22T20:30:37.715144+08:00",
-     "description": "台北市南港成功橋下，今（22日）傍晚16時許有民眾通報發現浮屍，警消前往現場初判死者為50歲男性，詳細身分有待打撈上岸後釐清。",
-     "category": "society",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "society",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "北市成功橋下驚見浮屍 男載浮載沉警消趕抵打撈清查身分",
-     "link": "https://news.ltn.com.tw/news/society/breakingnews/5548922",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-22T20:10:29+08:00",
-     "description": "台北市區今（22日）下午有民眾行經台北市南港區成功橋時，赫然發現水面上有一具人形物體載浮載沉。警消接獲通報不敢大意，火速指派大批搜救人員與船艇趕赴現場打撈，初步檢視該具浮屍為年...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "北市成功橋下驚見男性浮屍...年約50歲　警消打撈中",
-     "link": "https://www.ettoday.net/news/20260822/3223942.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-08-22T18:23:00+08:00",
-     "description": "北市在22日下午5時許突然降下大雨，在6時許，於南港成功橋下發現一具浮屍，目前警消正前往打撈，初步研判為男性年約50歲，也將等打撈上岸後再行確認身份。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    }
-   ]
-  },
-  {
-   "id": "1427c46d8f7a",
-   "title": "趙翊廷向祖母解釋「媽媽不是惡意」 嘆3兄弟生活費比許芊芊薪水低",
-   "outlet_count": 3,
-   "outlets": [
-    "chinatimes",
-    "mirror",
-    "setn"
-   ],
-   "article_count": 3,
-   "first_seen": "2026-08-21T12:04:44+08:00",
-   "last_updated": "2026-08-22T13:23:00+08:00",
-   "tags": [
-    "活費比許芊芊",
-    "陳幸妤",
-    "兒子"
-   ],
-   "articles": [
-    {
-     "title": "許芊芊月薪恐達「這數字」！陳幸妤兒子控生活費不足　她憑對話細節反推",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1FdXJtdHZuRi13T21wbWJ4MHBKNmZSLXhDUUJjOHZGSjNnVlJWeUxKc2ttSnBvV1dFeXJJejdsbmRKeUdvR092WtIBTEFVX3lxTE5xLUQ3Z1FIUGhLVjN0TkVfcXJtRjZDenc1elp6a2NZOHhHcll4RU1CcjEwSmJWNF9zZThUOVdMYzdUQVQzQi1WcWpzNWE?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-08-22T13:23:00+08:00",
-     "description": "許芊芊月薪恐達「這數字」！陳幸妤兒子控生活費不足　她憑對話細節反推  三立新聞網SETN.com",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "1個月生活費比許芊芊薪水低！陳幸妤3兒子學霸背景曝光　他靠自學「成台灣之光」掀關注",
-     "link": "https://www.mirrormedia.mg/story/20260822edi010",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-08-22T10:27:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "趙翊廷向祖母解釋「媽媽不是惡意」 嘆3兄弟生活費比許芊芊薪水低",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GdEswcklXVFJ0ZUZuRW5GSjNtdEhRajdPNlB0WHJQMnQtUjRlbUZlSVhzVnRlVDZQeFdfMllycFdwYVkwRU1kZlR2MzYxSXlCSTNvdVZzUmZRT1BUMVhCckJqeGM0d1lTUEJKY1ZB?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-08-21T12:04:44+08:00",
-     "description": "趙翊廷向祖母解釋「媽媽不是惡意」 嘆3兄弟生活費比許芊芊薪水低  中時新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
-   "id": "1266b881c6be",
-   "title": "薪資談判陷僵局 現代汽車工會發動全天罷工",
-   "outlet_count": 3,
-   "outlets": [
-    "pts",
-    "storm",
-    "tvbs"
-   ],
-   "article_count": 3,
-   "first_seen": "2026-08-21T10:46:36+08:00",
-   "last_updated": "2026-08-21T21:04:32+08:00",
-   "tags": [
-    "現代汽車",
-    "全天罷工",
-    "工會"
-   ],
-   "articles": [
-    {
-     "title": "薪資談判陷僵局 現代汽車工會發動全天罷工",
-     "link": "https://news.pts.org.tw/article/823601",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-08-21T21:04:32+08:00",
-     "description": "南韓現在面臨的難題不只是北韓，還有經濟方面的危機。現代汽車工會因為薪資談判沒有達成共識，今（21）日宣布發動8小時全面罷工，參與員工將近4萬人。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "南韓現代汽車近10年來首次全天罷工！工會要求獎金增50%、延後退休年齡 | 中央社 | 新聞",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wVzdVanhuTUV3dEc0U0tCTWRORDZuMzRmZWdZaFJrQU1qenlHZUFJaTlpM200NzM3c3lRd0pGZXhzcTlNcjhyNmFrWi1rZw?oc=5",
-     "source": "storm",
-     "source_name": "風傳媒",
-     "published": "2026-08-21T18:30:42+08:00",
-     "description": "南韓現代汽車近10年來首次全天罷工！工會要求獎金增50%、延後退休年齡 | 中央社 | 新聞  風傳媒",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "現代汽車「後院失火」！工會10年來首度大罷工｜原音呈現LIVE",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MNEF1QW9fNk5EQ3dCdmw3akRzOFlGdGZXTGhVbF9USThzcjk3d2VDQy1QUDdkZ19IczE2T3pqQmV0TzhoYjMwMmdnaVpWZWwtR0FwbGxB?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-08-21T10:46:36+08:00",
-     "description": "現代汽車「後院失火」！工會10年來首度大罷工｜原音呈現LIVE  TVBS新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
