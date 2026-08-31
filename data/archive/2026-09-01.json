@@ -1,6 +1,6 @@
 {
  "date": "2026-09-01",
- "generated_at": "2026-09-01T02:33:27.221224+08:00",
+ "generated_at": "2026-09-01T04:27:42.610955+08:00",
  "events": [
   {
    "id": "91e9ca7c6acc",
@@ -220,7 +220,7 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 49,
+   "article_count": 50,
    "first_seen": "2026-08-29T05:34:00+08:00",
    "last_updated": "2026-08-31T22:04:00+08:00",
    "tags": [
@@ -1249,6 +1249,268 @@
    ]
   },
   {
+   "id": "a6301df5e9c5",
+   "title": "尼泊爾與中國邊境洪災失聯逾2400人　已尋獲586遺體",
+   "outlet_count": 10,
+   "outlets": [
+    "cna",
+    "ebc",
+    "ettoday",
+    "ltn",
+    "newtalk",
+    "nownews",
+    "pts",
+    "setn",
+    "tvbs",
+    "udn"
+   ],
+   "article_count": 38,
+   "first_seen": "2026-08-29T04:38:11+08:00",
+   "last_updated": "2026-09-01T02:32:00+08:00",
+   "tags": [
+    "尼泊爾",
+    "洪災"
+   ],
+   "claims": [
+    {
+     "type": "死亡人數",
+     "agree": false,
+     "outlet_count": 3,
+     "values": [
+      {
+       "value": "682",
+       "outlets": [
+        "三立新聞網"
+       ]
+      },
+      {
+       "value": "675",
+       "outlets": [
+        "公視新聞"
+       ]
+      },
+      {
+       "value": "939",
+       "outlets": [
+        "TVBS"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "金額",
+     "agree": false,
+     "outlet_count": 3,
+     "values": [
+      {
+       "value": "200萬元",
+       "outlets": [
+        "今日新聞"
+       ]
+      },
+      {
+       "value": "40億元",
+       "outlets": [
+        "中央社"
+       ]
+      },
+      {
+       "value": "12萬元",
+       "outlets": [
+        "自由時報"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "金額（美元）",
+     "agree": true,
+     "outlet_count": 2,
+     "values": [
+      {
+       "value": "50億美元",
+       "outlets": [
+        "中央社",
+        "公視新聞"
+       ]
+      }
+     ]
+    }
+   ],
+   "articles": [
+    {
+     "title": "尼泊爾洪災增至939死3925失蹤 逾2500棟建築毀壞",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wTTMtNldiWXYtaWI3RHlvVWJmZDdmS0taOTNSYkNISGJDUzNYRmFfcTk3TEpRNFN3Yk1PejlfaW4xeTg5SDY0QXJPTGVQczg?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-09-01T02:32:00+08:00",
+     "description": "尼泊爾洪災增至939死3925失蹤 逾2500棟建築毀壞  TVBS新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "尼泊爾洪災增至939死3925失蹤　逾2500棟建築毀壞",
+     "link": "https://news.ltn.com.tw/news/world/breakingnews/5558697",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-09-01T01:06:03+08:00",
+     "description": "尼泊爾國家減災管理局（NDRRMA）表示，8月26日發生的洪災已造成939死，3925人失蹤；而歐盟氣候監測機構數據指出，這場災難已導致2500多棟建築毀壞。\n\n法新社報導，尼泊爾與西藏邊境...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "尼泊爾洪災增至939死3925失蹤　逾2500棟建築毀壞",
+     "link": "https://www.cna.com.tw/news/aopl/202609010004.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-09-01T00:53:39+08:00",
+     "description": "（中央社加德滿都31日綜合外電報導）尼泊爾國家減災管理局（NDRRMA）表示，8月26日發生的洪災已造成939死，3925人失蹤；而歐盟氣候監測機構數據指出，這場災難已導致2500多棟建築毀壞。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
+     }
+    },
+    {
+     "title": "尼泊爾洪災失蹤暴增！總計919死、近4800人失蹤",
+     "link": "https://www.ettoday.net/news/20260831/3229052.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-08-31T19:16:00+08:00",
+     "description": "尼泊爾與中國邊境遭遇嚴重洪災，最新傷亡及失蹤人數持續攀升。尼泊爾當局表示，目前境內已有超過4200人下落不明，較一天前約2500人大幅增加；若加上中國方面統計，尼中兩側目前已累計919人死亡、4793人失蹤。救援人員正加緊搜尋倖存者，其中超過900名水力發電工程工人失聯，部分人員恐受困在隧道內。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "西藏尼泊爾土石流啟示- 天蠍浪子的咖啡杯",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LVmt1ZGhLc0FQdTBEbTA1WlpuVTFBOEJPRGVJM0xaNGQ2SkV5S0MzN181MWdBdmFCcXVUWEVyRk5udFJuY3NJbDdjM1BrN0xjS2RPelQxb3pidGNDVlE?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-08-31T18:33:23+08:00",
+     "description": "西藏尼泊爾土石流啟示- 天蠍浪子的咖啡杯  udn部落格",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "尼泊爾毀滅性洪災增至919死4793失蹤　總理：難以統計傷亡財損",
+     "link": "https://www.cna.com.tw/news/aopl/202608310122.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-08-31T13:53:42+08:00",
+     "description": "（中央社加德滿都31日綜合外電報導）尼泊爾總理夏哈（Balendra Shah）表示，尼泊爾正面臨一場「難以想像且令人心碎」的災難，當局正努力評估這場毀滅性洪災造成的整體災情。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
+     }
+    },
+    {
+     "title": "尼泊爾土石流扯出中國責任！戰狼高志凱登印度節目激辯主持人",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xUVhBN3dCVjQyVEhTR1Jxd3F1b0xnZ0ZfQlRBNUdmMk42LWR1WHNwTGxoX01mVFVTb3dlSjB1MkdTWjZveXNfcjkwaGtDcE82a2fSAVJBVV95cUxNcVFYQTd3QlY0MlRIU0dScXdxdW9MZ2dGX0JUQTVHZjJONi1kdVhzcExsaF9NZlRVU293ZUowdTJHU1o2b3lzX3I5MGhrQ3BPNmtn?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-08-31T11:32:50+08:00",
+     "description": "影／尼泊爾土石流扯出中國責任！戰狼高志凱登印度節目激辯主持人  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "吉隆土石流恐有二次災害　中國官方：發現8處高風險點",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBUcWhRTGt5WmxRRl82dVFiaXAwcGp4RFNRN3N0V2FsLTZWNVNqUWtKZTR0Z0FidDJaQTRHbVdDbjJLaWhZdk9rY9IBTEFVX3lxTE5lVXJXbnpfX1RRZ0tLZjFROF9NMDF2YzhOOWVIRXk2VE9oM2FyWWNDeWRMRDlITFNEa2NVX0lPMnEzYXNHTkJBWnNPcE8?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-08-30T22:42:00+08:00",
+     "description": "吉隆土石流恐有二次災害　中國官方：發現8處高風險點  三立新聞網SETN.com",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "尼泊爾警告洪水續升高  中國：吉隆土石流區8處地質高風險",
+     "link": "https://news.ltn.com.tw/news/world/breakingnews/5557472",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-30T21:44:35+08:00",
+     "description": "央視新聞今天報導，中國官方在西藏吉隆土石流災害區域發現60多處地質災害隱患點，初步判定其中8處為高風險點。\n\n尼泊爾喜馬拉雅冰川26日發生局部崩塌並引發災難性土石流，已致中國及尼泊爾境內...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "尼泊爾洪暴相關報導",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9NbjBKYm5KRTZiaUpYOUtvbVFlOVZ2Vm42VHI3X2trSUo5YnY0aHBJZnpIMXp4Z1dxcTV6eHFibWtJWG81NGdSTw?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-08-30T21:40:10+08:00",
+     "description": "尼泊爾洪暴相關報導  三立新聞網SETN.com",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
    "id": "129235ef0ca3",
    "title": "民眾南投泛舟3人受困　救援艇翻覆1消防員落水不治",
    "outlet_count": 10,
@@ -1868,261 +2130,6 @@
    ]
   },
   {
-   "id": "a6301df5e9c5",
-   "title": "尼泊爾與中國邊境洪災失聯逾2400人　已尋獲586遺體",
-   "outlet_count": 9,
-   "outlets": [
-    "cna",
-    "ebc",
-    "ettoday",
-    "ltn",
-    "newtalk",
-    "nownews",
-    "pts",
-    "setn",
-    "udn"
-   ],
-   "article_count": 37,
-   "first_seen": "2026-08-29T04:38:11+08:00",
-   "last_updated": "2026-09-01T01:06:03+08:00",
-   "tags": [
-    "尼泊爾",
-    "洪災"
-   ],
-   "claims": [
-    {
-     "type": "金額",
-     "agree": false,
-     "outlet_count": 3,
-     "values": [
-      {
-       "value": "200萬元",
-       "outlets": [
-        "今日新聞"
-       ]
-      },
-      {
-       "value": "40億元",
-       "outlets": [
-        "中央社"
-       ]
-      },
-      {
-       "value": "12萬元",
-       "outlets": [
-        "自由時報"
-       ]
-      }
-     ]
-    },
-    {
-     "type": "死亡人數",
-     "agree": false,
-     "outlet_count": 2,
-     "values": [
-      {
-       "value": "682",
-       "outlets": [
-        "三立新聞網"
-       ]
-      },
-      {
-       "value": "675",
-       "outlets": [
-        "公視新聞"
-       ]
-      }
-     ]
-    },
-    {
-     "type": "金額（美元）",
-     "agree": true,
-     "outlet_count": 2,
-     "values": [
-      {
-       "value": "50億美元",
-       "outlets": [
-        "中央社",
-        "公視新聞"
-       ]
-      }
-     ]
-    }
-   ],
-   "articles": [
-    {
-     "title": "尼泊爾洪災增至939死3925失蹤　逾2500棟建築毀壞",
-     "link": "https://news.ltn.com.tw/news/world/breakingnews/5558697",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-09-01T01:06:03+08:00",
-     "description": "尼泊爾國家減災管理局（NDRRMA）表示，8月26日發生的洪災已造成939死，3925人失蹤；而歐盟氣候監測機構數據指出，這場災難已導致2500多棟建築毀壞。\n\n法新社報導，尼泊爾與西藏邊境...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "尼泊爾洪災增至939死3925失蹤　逾2500棟建築毀壞",
-     "link": "https://www.cna.com.tw/news/aopl/202609010004.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-09-01T00:53:39+08:00",
-     "description": "（中央社加德滿都31日綜合外電報導）尼泊爾國家減災管理局（NDRRMA）表示，8月26日發生的洪災已造成939死，3925人失蹤；而歐盟氣候監測機構數據指出，這場災難已導致2500多棟建築毀壞。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
-     }
-    },
-    {
-     "title": "尼泊爾洪災失蹤暴增！總計919死、近4800人失蹤",
-     "link": "https://www.ettoday.net/news/20260831/3229052.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-08-31T19:16:00+08:00",
-     "description": "尼泊爾與中國邊境遭遇嚴重洪災，最新傷亡及失蹤人數持續攀升。尼泊爾當局表示，目前境內已有超過4200人下落不明，較一天前約2500人大幅增加；若加上中國方面統計，尼中兩側目前已累計919人死亡、4793人失蹤。救援人員正加緊搜尋倖存者，其中超過900名水力發電工程工人失聯，部分人員恐受困在隧道內。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "西藏尼泊爾土石流啟示- 天蠍浪子的咖啡杯",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LVmt1ZGhLc0FQdTBEbTA1WlpuVTFBOEJPRGVJM0xaNGQ2SkV5S0MzN181MWdBdmFCcXVUWEVyRk5udFJuY3NJbDdjM1BrN0xjS2RPelQxb3pidGNDVlE?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-08-31T18:33:23+08:00",
-     "description": "西藏尼泊爾土石流啟示- 天蠍浪子的咖啡杯  udn部落格",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "尼泊爾毀滅性洪災增至919死4793失蹤　總理：難以統計傷亡財損",
-     "link": "https://www.cna.com.tw/news/aopl/202608310122.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-08-31T13:53:42+08:00",
-     "description": "（中央社加德滿都31日綜合外電報導）尼泊爾總理夏哈（Balendra Shah）表示，尼泊爾正面臨一場「難以想像且令人心碎」的災難，當局正努力評估這場毀滅性洪災造成的整體災情。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
-     }
-    },
-    {
-     "title": "尼泊爾土石流扯出中國責任！戰狼高志凱登印度節目激辯主持人",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xUVhBN3dCVjQyVEhTR1Jxd3F1b0xnZ0ZfQlRBNUdmMk42LWR1WHNwTGxoX01mVFVTb3dlSjB1MkdTWjZveXNfcjkwaGtDcE82a2fSAVJBVV95cUxNcVFYQTd3QlY0MlRIU0dScXdxdW9MZ2dGX0JUQTVHZjJONi1kdVhzcExsaF9NZlRVU293ZUowdTJHU1o2b3lzX3I5MGhrQ3BPNmtn?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-08-31T11:32:50+08:00",
-     "description": "影／尼泊爾土石流扯出中國責任！戰狼高志凱登印度節目激辯主持人  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "吉隆土石流恐有二次災害　中國官方：發現8處高風險點",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBUcWhRTGt5WmxRRl82dVFiaXAwcGp4RFNRN3N0V2FsLTZWNVNqUWtKZTR0Z0FidDJaQTRHbVdDbjJLaWhZdk9rY9IBTEFVX3lxTE5lVXJXbnpfX1RRZ0tLZjFROF9NMDF2YzhOOWVIRXk2VE9oM2FyWWNDeWRMRDlITFNEa2NVX0lPMnEzYXNHTkJBWnNPcE8?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-08-30T22:42:00+08:00",
-     "description": "吉隆土石流恐有二次災害　中國官方：發現8處高風險點  三立新聞網SETN.com",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "尼泊爾警告洪水續升高  中國：吉隆土石流區8處地質高風險",
-     "link": "https://news.ltn.com.tw/news/world/breakingnews/5557472",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-30T21:44:35+08:00",
-     "description": "央視新聞今天報導，中國官方在西藏吉隆土石流災害區域發現60多處地質災害隱患點，初步判定其中8處為高風險點。\n\n尼泊爾喜馬拉雅冰川26日發生局部崩塌並引發災難性土石流，已致中國及尼泊爾境內...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "尼泊爾洪暴相關報導",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9NbjBKYm5KRTZiaUpYOUtvbVFlOVZ2Vm42VHI3X2trSUo5YnY0aHBJZnpIMXp4Z1dxcTV6eHFibWtJWG81NGdSTw?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-08-30T21:40:10+08:00",
-     "description": "尼泊爾洪暴相關報導  三立新聞網SETN.com",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "中尼邊境洪災百死千失聯！唐綺陽示警：上天傳達訊息須認真看待| 國際",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5OFd1NFRiR1BhWUxfenJ3YVBUamQ5UGxUTld4RHVHZVJpM2ZQaTlDVlF0NWdGUEJiNm5adGJQZmt6eGFZYjBKcVdNZ1hFYUY4TEY1X05PTXdQTjA?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-08-30T17:04:56+08:00",
-     "description": "中尼邊境洪災百死千失聯！唐綺陽示警：上天傳達訊息須認真看待| 國際  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
    "id": "b531a283bfb9",
    "title": "才考上建中！蔣萬安大兒子將出國讀書　擔任美加交換生1年「燦笑照曝光」",
    "outlet_count": 9,
@@ -2730,8 +2737,8 @@
    "first_seen": "2026-08-31T04:47:00+08:00",
    "last_updated": "2026-08-31T20:29:54+08:00",
    "tags": [
-    "朗火箭發射器",
-    "以來首度動武",
+    "個月以來首度",
+    "伊朗火箭發射",
     "荷莫茲海峽"
    ],
    "articles": [
@@ -3502,203 +3509,7 @@
    ]
   },
   {
-   "id": "e1316dbcb035",
-   "title": "快訊》2縣市雷雨強襲！氣象署急示警慎防積淹致災| 生活",
-   "outlet_count": 7,
-   "outlets": [
-    "ebc",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "newtalk",
-    "nownews",
-    "udn"
-   ],
-   "article_count": 60,
-   "first_seen": "2026-08-29T03:36:01+08:00",
-   "last_updated": "2026-09-01T01:36:01+08:00",
-   "tags": [
-    "氣象署",
-    "縣市雷雨",
-    "生活"
-   ],
-   "articles": [
-    {
-     "title": "快訊》2縣市雷雨猛爆！氣象署急示警嚴防致災雷擊| 生活",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jNDdfVUZsMVBPeGZRUEhrLVhmM09HRzJBZzhKOHM4Q1IwOC1KZUNtdFVfN1JFMWJBbjllaGt1TVZWN1FWUU94RTkybXM1amJIbGdUWGpHMVV2R0E?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-09-01T01:36:01+08:00",
-     "description": "快訊》2縣市雷雨猛爆！氣象署急示警嚴防致災雷擊| 生活  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "快訊》1縣市雷雨強襲！氣象署急示警嚴防致災| 生活",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tcFBjbHJjSFJORjJVelJEVUdWYUZHbGRMclRRNnhTM1FBejRjNVV0bk00QlFtazBjRXdxRnp5UUl0M1JKSXAtWmhoR2J3M0xnRXFuS1Ezd0U0aE0?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-09-01T00:48:01+08:00",
-     "description": "快訊》1縣市雷雨強襲！氣象署急示警嚴防致災| 生活  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "快訊》2縣市雷雨狂炸！氣象署急示警防瞬間致災| 生活",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94QU51dWY2c1VnZEw1S3ZxdXNYMFdMRExlSTllc3FoQldpS2xpSG9ocHhzd2tEODgtREdVbjkxZXc2QkxjQVRWVnBhdVhpZ01pdkc2UWNFSXZBWms?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-08-31T20:48:01+08:00",
-     "description": "快訊》2縣市雷雨狂炸！氣象署急示警防瞬間致災| 生活  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "快訊》1縣市熱爆！氣象署急示警：當心熱傷害恐中暑| 生活",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Wb1E3NWdlU1RZbXhyTENCdWlGZUxKUWw3U0VvbkJOVzdteTZ0YjJSTWx0NXFMTDE5a1ZGeFVyT1VMbGNwRThuZ29JZUZ4Ym1KUXdGaHVfbTVnRXc?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-08-31T14:36:01+08:00",
-     "description": "快訊》1縣市熱爆！氣象署急示警：當心熱傷害恐中暑| 生活  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "快訊》出門帶傘！4縣市降雨特報氣象署：防雷擊積淹| 生活",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92aW9qaGtIZ2dUc3RjSUs3WkhzMDZVSjAzTFdsWnYwQmpsck42cDZnalBGZW8wOTZzNF8wSDNkWXpmMWlPcndmb3VOV3pJTnpHOG1LZ01tbmxTaTA?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-08-31T10:12:02+08:00",
-     "description": "快訊》出門帶傘！4縣市降雨特報氣象署：防雷擊積淹| 生活  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "快訊》1縣市雷雨狂炸！氣象署急示警慎防雷擊積淹| 生活",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52Rmx5U3pSRmNsU2V6ZXoydmFXVDRPZlZuNGtULUd6X0NVSWNfaWs3ajJMUUNfSzFDNDc4TmdjcU40dzdidGN2c3B1UGROU05iamhucFBacnNPLVU?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-08-31T09:48:01+08:00",
-     "description": "快訊》1縣市雷雨狂炸！氣象署急示警慎防雷擊積淹| 生活  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "大雷雨轟台東　持續1小時",
-     "link": "https://www.ettoday.net/news/20260831/3228593.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-08-31T09:42:00+08:00",
-     "description": "中央氣象署今（31日）上午9時33分針對屏東縣發布大雷雨即時訊息，持續時間至上午10時33分，有短延時強降雨發生，並伴隨較強陣風，請慎防低窪地區積水、低能見度。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "上班注意！大雷雨即刻開炸 示警範圍曝光",
-     "link": "https://news.ebc.net.tw/news/living/568921",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-08-31T09:07:01.042787+08:00",
-     "description": "中央氣象署於31日07時18分針對台東縣發布大雷雨即時訊息，持續時間至07時51分；有致災性短延時強降雨、短延時強降雨發生，並伴隨較強陣風。",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "雨彈轟台灣！今4縣市發布特報　中南部、台東防豪雨",
-     "link": "https://www.mirrormedia.mg/story/20260831edi010",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-08-31T08:03:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "快訊》1縣市雷雨猛灌！氣象署示警慎防雷擊積水| 生活",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WM2dWcWhCU2Y4dzh3QndkLWl2bmVqRUhwRnhVYy1jY1VOdEhZX3ZWRElWY1dVNkFycDdueWhIOW9mZnV4VzBUdE5SZ1BLMzN3ZWxlLWgtNk9fSWc?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-08-31T07:36:01+08:00",
-     "description": "快訊》1縣市雷雨猛灌！氣象署示警慎防雷擊積水| 生活  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
-   "id": "81e64df52ce5",
+   "id": "bf4c79f42bcc",
    "title": "115年度自購、修繕住宅貸款利息補貼　9/1起受理申請",
    "outlet_count": 7,
    "outlets": [
@@ -3710,8 +3521,8 @@
     "nownews",
     "udn"
    ],
-   "article_count": 29,
-   "first_seen": "2026-08-29T03:59:16+08:00",
+   "article_count": 27,
+   "first_seen": "2026-08-29T06:56:30+08:00",
    "last_updated": "2026-09-01T01:05:35+08:00",
    "tags": [],
    "articles": [
@@ -3876,7 +3687,7 @@
      "source": "udn",
      "source_name": "聯合新聞網",
      "published": "2026-08-31T11:27:38+08:00",
-     "description": "2026年九月12星座運勢| 搜尋標籤  udn 女子漾",
+     "description": "2026年九月12星座運勢| 搜尋標籤  woman.udn.com",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -3902,9 +3713,9 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 111,
+   "article_count": 114,
    "first_seen": "2026-08-29T08:31:33+08:00",
-   "last_updated": "2026-08-31T23:18:19+08:00",
+   "last_updated": "2026-09-01T00:08:00+08:00",
    "tags": [
     "新聞網"
    ],
@@ -3936,6 +3747,23 @@
     }
    ],
    "articles": [
+    {
+     "title": "三重「開山刀男」坐賓士當街攔女騎士　遭羈押禁見",
+     "link": "https://www.ettoday.net/news/20260901/3229116.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-09-01T00:08:00+08:00",
+     "description": "新北市三重區30日下午發生持刀恐嚇事件，38歲官姓男子疑因感情糾紛，由36歲黃姓男子開著黑色賓士出門找人，途中疑誤認一名女騎士，竟持開山刀上前攔車，警方隨後在三溫暖店將人逮捕、移送。檢方訊後認定官男涉犯恐嚇等罪，且有逃亡及反覆實施之虞聲押禁見，法院今（31日）晚裁准羈押。\n\n 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
     {
      "title": "搜救犬Wilson墜樓身亡 消防局亮證明駁虐｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBINWxsNjlUNWdiX1BHdXRZZnB0cVRDY2NzaUhRMkRyNVltOVp5RTd0NTRjSVdaOUxMTzJSWVd0Yk4zdmJ3a2FuVWUxMGNCbm0wczc1dGFR?oc=5",
@@ -4070,23 +3898,6 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "周子瑜傳被中國拉攏！文化部長李遠首回應 急喊藝人「注意統戰」",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TNFZCTlU4ZVhrMFpJbEJNLWpvamNhUlhDbXQ0U0M4RElMRm1GZzhCS1A5bFVDYnZmeVpTZndxR1IwZmZGVDJPV01iYzhDdkZTdnp1N3NFT1owd19kM1lpU3BqNV9TSzUzMTRpckZpdjJWMk3SAV9BVV95cUxPeElCdG16SzB6elZNcjY4cGxieDE3emVpWGpTX3k1Z3ZReG1ibFhESXhBRXk2Y3V3dEhtUld3M01DZk9HZjZxLURnRUFYaVRJMnE0ZFBxcVRFQVRJNDQyMA?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-08-31T18:46:50+08:00",
-     "description": "周子瑜傳被中國拉攏！文化部長李遠首回應 急喊藝人「注意統戰」  噓！星聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
@@ -4339,8 +4150,8 @@
    "first_seen": "2026-08-30T11:05:16+08:00",
    "last_updated": "2026-08-31T22:29:05+08:00",
    "tags": [
-    "李四川",
     "侯友宜",
+    "李四川",
     "蘇巧慧"
    ],
    "articles": [
@@ -5555,12 +5366,12 @@
      }
     },
     {
-     "title": "北捷開筆電遭疑是共碟　男：「2戰區光合系統」是理財課代號",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZRUFtdUUzWE9PQmdoU1hBYWJEMmY5VW84QWNPZTlrU25Tb3dXS21ycnA5VmwxZ2JCVldzdEh1cGJzOVE1NExQYVBReXUxV0tn0gFWQVVfeXFMTVJSLXZDdkw0RlY0M0Y2TDdNeHFDVkRhSkI4Y2ZsQmx5NllaZ0tGUjZoY2hST1IyVHd0NUVoRW5SOHQxT2VpSFRHaHNzUEhsUEQ2U2tBZnc?oc=5",
+     "title": "北捷開筆電遭疑是共諜 男錯愕：「2戰區光合系統」是理財課代號",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IRjJUaEl6VWZTSG8wVUI5WDVEaXd0Mnlfcl9BX24tRDFvX3ZDa1kzNUprX2NMdUU1bHQ5ZlE1SWJIZWRKdXNRbVhBLUVVNHdK0gFWQVVfeXFMTWRlQzA3T1kwRjBXM0hHWFRTYWdGbUQydWp3QnkzUlBrZE5BaDZIMWFtWU9UamV0bl8xcy1BaUhobUl0dEVTM091dzNTZFdHX05icHB0cVE?oc=5",
      "source": "udn",
      "source_name": "聯合新聞網",
      "published": "2026-08-30T17:53:32+08:00",
-     "description": "北捷開筆電遭疑是共碟　男：「2戰區光合系統」是理財課代號  UDN",
+     "description": "北捷開筆電遭疑是共諜 男錯愕：「2戰區光合系統」是理財課代號  UDN",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -5589,12 +5400,12 @@
      }
     },
     {
-     "title": "北捷開筆電遭疑是共諜 男錯愕：「2戰區光合系統」是理財課代號",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IRjJUaEl6VWZTSG8wVUI5WDVEaXd0Mnlfcl9BX24tRDFvX3ZDa1kzNUprX2NMdUU1bHQ5ZlE1SWJIZWRKdXNRbVhBLUVVNHdK0gFWQVVfeXFMTWRlQzA3T1kwRjBXM0hHWFRTYWdGbUQydWp3QnkzUlBrZE5BaDZIMWFtWU9UamV0bl8xcy1BaUhobUl0dEVTM091dzNTZFdHX05icHB0cVE?oc=5",
+     "title": "北捷開筆電遭疑是共碟　男：「2戰區光合系統」是理財課代號",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZRUFtdUUzWE9PQmdoU1hBYWJEMmY5VW84QWNPZTlrU25Tb3dXS21ycnA5VmwxZ2JCVldzdEh1cGJzOVE1NExQYVBReXUxV0tn0gFWQVVfeXFMTVJSLXZDdkw0RlY0M0Y2TDdNeHFDVkRhSkI4Y2ZsQmx5NllaZ0tGUjZoY2hST1IyVHd0NUVoRW5SOHQxT2VpSFRHaHNzUEhsUEQ2U2tBZnc?oc=5",
      "source": "udn",
      "source_name": "聯合新聞網",
      "published": "2026-08-30T17:53:32+08:00",
-     "description": "北捷開筆電遭疑是共諜 男錯愕：「2戰區光合系統」是理財課代號  UDN",
+     "description": "北捷開筆電遭疑是共碟　男：「2戰區光合系統」是理財課代號  UDN",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -5835,6 +5646,201 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
+   "id": "5eb802322daa",
+   "title": "快訊》1縣市雷雨狂炸！氣象署急示警防致災| 生活",
+   "outlet_count": 6,
+   "outlets": [
+    "ebc",
+    "ettoday",
+    "ltn",
+    "mirror",
+    "newtalk",
+    "udn"
+   ],
+   "article_count": 59,
+   "first_seen": "2026-08-29T07:24:01+08:00",
+   "last_updated": "2026-09-01T04:12:01+08:00",
+   "tags": [
+    "氣象署",
+    "縣市雷雨",
+    "生活"
+   ],
+   "articles": [
+    {
+     "title": "快訊》3縣市大雷雨狂炸！氣象署示警嚴防積淹雷擊| 生活",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ELVFjMl9nYW5UQUtVYThSYVJ0bzVQaDdXS3FmNDg1eTJfUk56aEdab2taRHYyc3BMakN1ZW1kTmZRTTR5M29iaDVub0hlejVDNUtRRlJLY0doM3M?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-09-01T04:12:01+08:00",
+     "description": "快訊》3縣市大雷雨狂炸！氣象署示警嚴防積淹雷擊| 生活  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "快訊》2縣市雷雨猛爆！氣象署急示警嚴防致災雷擊 | 生活",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jNDdfVUZsMVBPeGZRUEhrLVhmM09HRzJBZzhKOHM4Q1IwOC1KZUNtdFVfN1JFMWJBbjllaGt1TVZWN1FWUU94RTkybXM1amJIbGdUWGpHMVV2R0E?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-09-01T01:36:01+08:00",
+     "description": "快訊》2縣市雷雨猛爆！氣象署急示警嚴防致災雷擊 | 生活  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "快訊》1縣市雷雨強襲！氣象署急示警嚴防致災 | 生活",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tcFBjbHJjSFJORjJVelJEVUdWYUZHbGRMclRRNnhTM1FBejRjNVV0bk00QlFtazBjRXdxRnp5UUl0M1JKSXAtWmhoR2J3M0xnRXFuS1Ezd0U0aE0?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-09-01T00:48:01+08:00",
+     "description": "快訊》1縣市雷雨強襲！氣象署急示警嚴防致災 | 生活  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "快訊》2縣市雷雨狂炸！氣象署急示警防瞬間致災| 生活",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94QU51dWY2c1VnZEw1S3ZxdXNYMFdMRExlSTllc3FoQldpS2xpSG9ocHhzd2tEODgtREdVbjkxZXc2QkxjQVRWVnBhdVhpZ01pdkc2UWNFSXZBWms?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-08-31T20:48:01+08:00",
+     "description": "快訊》2縣市雷雨狂炸！氣象署急示警防瞬間致災| 生活  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "快訊》1縣市熱爆！氣象署急示警：當心熱傷害恐中暑| 生活",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Wb1E3NWdlU1RZbXhyTENCdWlGZUxKUWw3U0VvbkJOVzdteTZ0YjJSTWx0NXFMTDE5a1ZGeFVyT1VMbGNwRThuZ29JZUZ4Ym1KUXdGaHVfbTVnRXc?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-08-31T14:36:01+08:00",
+     "description": "快訊》1縣市熱爆！氣象署急示警：當心熱傷害恐中暑| 生活  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "快訊》出門帶傘！4縣市降雨特報氣象署：防雷擊積淹| 生活",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92aW9qaGtIZ2dUc3RjSUs3WkhzMDZVSjAzTFdsWnYwQmpsck42cDZnalBGZW8wOTZzNF8wSDNkWXpmMWlPcndmb3VOV3pJTnpHOG1LZ01tbmxTaTA?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-08-31T10:12:02+08:00",
+     "description": "快訊》出門帶傘！4縣市降雨特報氣象署：防雷擊積淹| 生活  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "快訊》1縣市雷雨狂炸！氣象署急示警慎防雷擊積淹| 生活",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52Rmx5U3pSRmNsU2V6ZXoydmFXVDRPZlZuNGtULUd6X0NVSWNfaWs3ajJMUUNfSzFDNDc4TmdjcU40dzdidGN2c3B1UGROU05iamhucFBacnNPLVU?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-08-31T09:48:01+08:00",
+     "description": "快訊》1縣市雷雨狂炸！氣象署急示警慎防雷擊積淹| 生活  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "大雷雨轟台東　持續1小時",
+     "link": "https://www.ettoday.net/news/20260831/3228593.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-08-31T09:42:00+08:00",
+     "description": "中央氣象署今（31日）上午9時33分針對屏東縣發布大雷雨即時訊息，持續時間至上午10時33分，有短延時強降雨發生，並伴隨較強陣風，請慎防低窪地區積水、低能見度。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "上班注意！大雷雨即刻開炸 示警範圍曝光",
+     "link": "https://news.ebc.net.tw/news/living/568921",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-08-31T09:07:01.042787+08:00",
+     "description": "中央氣象署於31日07時18分針對台東縣發布大雷雨即時訊息，持續時間至07時51分；有致災性短延時強降雨、短延時強降雨發生，並伴隨較強陣風。",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "雨彈轟台灣！今4縣市發布特報　中南部、台東防豪雨",
+     "link": "https://www.mirrormedia.mg/story/20260831edi010",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-08-31T08:03:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
      }
     }
    ]
@@ -6231,7 +6237,7 @@
    "tags": [
     "大巨蛋美食街",
     "鋼筷",
-    "濺血"
+    "送醫"
    ],
    "articles": [
     {
@@ -6893,7 +6899,7 @@
    "tags": [
     "曉陽地下道",
     "彰化",
-    "民生"
+    "封閉"
    ],
    "articles": [
     {
@@ -7096,7 +7102,7 @@
     },
     {
      "title": "昔反送中挺港警！陳曉東大巨蛋開球遭抵制　台鋼雄鷹急取消回應",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LbEhQY0dPQ3k3MTZXWl84M096NFgxdHQ2em5tTUViR0NqdUhuRVFHdzJUUXQ4d0VSYzV6N3JRbEhZUFRRUWRZN0Y5cnBjTlVSeWfSAVJBVV95cUxOS2xIUGNHT0N5NzE2V1pfODNPejRYMXR0NnpubU1FYkdDanVIbkVRR3cyVFF0OHdFUmM1ejdyUWxIWVBUUVFkWTdGOXJwY05VUnln?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5xR3FMaVpaREhNWmVCOUkwNVlUbjlhUTEtYVU3MTMydE9mQjRmQlNGZm5wTThNWnJ2VnBkT0tIdUdmcGUxQllJVnBpd1PSAVJBVV95cUxOS2xIUGNHT0N5NzE2V1pfODNPejRYMXR0NnpubU1FYkdDanVIbkVRR3cyVFF0OHdFUmM1ejdyUWxIWVBUUVFkWTdGOXJwY05VUnln?oc=5",
      "source": "nownews",
      "source_name": "今日新聞",
      "published": "2026-08-29T18:18:02+08:00",
@@ -7113,7 +7119,7 @@
     },
     {
      "title": "昔反送中挺港警！陳曉東大巨蛋開球遭抵制　台鋼雄鷹急取消回應",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5xR3FMaVpaREhNWmVCOUkwNVlUbjlhUTEtYVU3MTMydE9mQjRmQlNGZm5wTThNWnJ2VnBkT0tIdUdmcGUxQllJVnBpd1PSAVJBVV95cUxOS2xIUGNHT0N5NzE2V1pfODNPejRYMXR0NnpubU1FYkdDanVIbkVRR3cyVFF0OHdFUmM1ejdyUWxIWVBUUVFkWTdGOXJwY05VUnln?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LbEhQY0dPQ3k3MTZXWl84M096NFgxdHQ2em5tTUViR0NqdUhuRVFHdzJUUXQ4d0VSYzV6N3JRbEhZUFRRUWRZN0Y5cnBjTlVSeWfSAVJBVV95cUxOS2xIUGNHT0N5NzE2V1pfODNPejRYMXR0NnpubU1FYkdDanVIbkVRR3cyVFF0OHdFUmM1ejdyUWxIWVBUUVFkWTdGOXJwY05VUnln?oc=5",
      "source": "nownews",
      "source_name": "今日新聞",
      "published": "2026-08-29T18:18:02+08:00",
@@ -7372,7 +7378,7 @@
     "newtalk",
     "nownews"
    ],
-   "article_count": 11,
+   "article_count": 12,
    "first_seen": "2026-08-29T08:49:14+08:00",
    "last_updated": "2026-08-31T23:21:00+08:00",
    "tags": [
@@ -7447,6 +7453,23 @@
       },
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "左右開弓！麻將最大黨郭璽搶頭香登記選北市長 批蔣萬安背離經國路線、攻沈伯洋「沒有經驗」",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5bjVDOTZXMko4aEl6QXdDdkNzenQ1V1NVOGZvVkR4bTk2QjMwaWRTLW1ha1ZiUEVxU2VoX01qNHNWcU9YVGFUdURDcWxqcmtBQ2p3NXFhTXBwaWM?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-08-31T14:59:05+08:00",
+     "description": "左右開弓！麻將最大黨郭璽搶頭香登記選北市長 批蔣萬安背離經國路線、攻沈伯洋「沒有經驗」  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
@@ -7532,23 +7555,6 @@
       },
       "acquisition": "rss",
       "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "蔣萬安被問吸菸區反嗆去監督高雄　沈伯洋：蔣可能想選高雄議員",
-     "link": "https://www.ettoday.net/news/20260829/3227745.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-08-29T10:45:00+08:00",
-     "description": "台北市長蔣萬安昨在市議會備詢，面對北市議員洪婉臻質疑吸菸區裝了又拆、浪費公帑，蔣萬安態度強硬「問A答B」，要求議員同樣標準檢視高雄。對此，民進黨台北市長參選人沈伯洋今（29日）受訪時回應，昨天蔣萬安可能累了，質詢的時候可能眼睛有點糊，把對方看成陳其邁。另一個可能，蔣萬安可能想選高雄市議員。\n\n 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
      }
     }
    ]
@@ -8858,7 +8864,7 @@
    "last_updated": "2026-08-30T16:30:49.232803+08:00",
    "tags": [
     "金岳瀑布溯溪",
-    "男子尋獲已明",
+    "獲已明顯死亡",
     "卡石縫"
    ],
    "articles": [
@@ -9078,6 +9084,95 @@
    ]
   },
   {
+   "id": "dd6077444900",
+   "title": "川普力挺建造AI資料中心　稱中國樂見全美抵制運動",
+   "outlet_count": 4,
+   "outlets": [
+    "cna",
+    "ltn",
+    "tvbs",
+    "udn"
+   ],
+   "article_count": 4,
+   "first_seen": "2026-09-01T00:51:54+08:00",
+   "last_updated": "2026-09-01T03:26:00+08:00",
+   "tags": [
+    "川普力挺建造",
+    "見全美抵制運",
+    "資料中心"
+   ],
+   "articles": [
+    {
+     "title": "川普力挺建造AI資料中心 稱中國樂見全美抵制運動",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkeTU3ZENPVzBPSE1HUEZuZlJ4WGJiMlRlRHoycW82UHdOVzdPV1BYVFE3WjZuekJoZWxnSkpTRjZWNFprZ09ZX2xYQXltLTQ?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-09-01T03:26:00+08:00",
+     "description": "川普力挺建造AI資料中心 稱中國樂見全美抵制運動  TVBS新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "川普力挺建造AI資料中心　稱中國樂見全美抵制運動",
+     "link": "https://news.ltn.com.tw/news/world/breakingnews/5558711",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-09-01T03:12:03+08:00",
+     "description": "美國總統川普今天發文，抨擊反對人工智慧（AI）資料中心的人士，還說AI領域主要競爭對手中國對於全美各地日益高漲的抵制資料中心運動「再高興不過了」。\n\n法新社報導，川普（Donald Trum...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "川普力挺建造AI資料中心　稱中國樂見全美抵制運動",
+     "link": "https://www.cna.com.tw/news/aopl/202609010006.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-09-01T03:05:45+08:00",
+     "description": "（中央社華盛頓31日綜合外電報導）美國總統川普今天發文，抨擊反對人工智慧（AI）資料中心的人士，還說AI領域主要競爭對手中國對於全美各地日益高漲的抵制資料中心運動「再高興不過了」。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
+     }
+    },
+    {
+     "title": "AI 資料中心大舉導入燃氣發電 定期檢修藏著更大商機",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2ZHJKVEZZaE40blk1a0I4U0c3SUhKWVZPMkZxdDB6TzhmbEdvMGppNk1PZE54M3dneDNPUk1JOTRBWkJRXzVTZzZIV01KN0xZZ2hGOEkwWVdad9IBX0FVX3lxTE9veWhWc25ya3poSnFqTlBWbjhBUUFHZlJwQjRjV1BQUzdoSkdJTXNCREJidDR2blJlRi1lZXZsRVN1c1BQVEJaSk8xaTlJQTZHY2ZveWE2MVZzcFFqdjVR?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-09-01T00:51:54+08:00",
+     "description": "AI 資料中心大舉導入燃氣發電 定期檢修藏著更大商機  經濟日報",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
    "id": "724e2cb6f230",
    "title": "反洗錢 娛樂關鍵字",
    "outlet_count": 4,
@@ -9087,20 +9182,20 @@
     "nownews",
     "setn"
    ],
-   "article_count": 153,
+   "article_count": 170,
    "first_seen": "2026-08-29T05:28:43+08:00",
-   "last_updated": "2026-09-01T01:29:32+08:00",
+   "last_updated": "2026-09-01T02:06:03+08:00",
    "tags": [
     "娛樂關鍵字"
    ],
    "articles": [
     {
-     "title": "世代代溝 娛樂關鍵字",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1WVXRpYTZfQ1VMcVh0Nlc4OWp6RFlSQlp5dFZvUEJLUEZOck1na1IxZktlZVNxTmRiSW5sZnRHUnQxRjdoYzcwQw?oc=5",
+     "title": "所得定性 娛樂關鍵字",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1hTm5jZVVza0J6T0kwN0tyVWIyNHVfOHZaZ2dXMnV3aWpiZGRzWDNmVGpaQWswM2NPUTk5Y3VzNUlQUWZweVh4Mg?oc=5",
      "source": "setn",
      "source_name": "三立新聞網",
-     "published": "2026-09-01T01:29:32+08:00",
-     "description": "世代代溝 娛樂關鍵字  三立娛樂星聞",
+     "published": "2026-09-01T02:06:03+08:00",
+     "description": "所得定性 娛樂關鍵字  三立娛樂星聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -9112,12 +9207,12 @@
      }
     },
     {
-     "title": "歐光榮 娛樂關鍵字",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9tS3JvWkFBYk53aGVSLWxzYmJfNzhoR3FmdUF0TnZYTV9BSURFVWhEQmJ6eTc4bHZBNkg1elpERWlIeEF4Vzk2cw?oc=5",
+     "title": "肌肉身 娛樂關鍵字",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBNMmxQTHpMUnJzbjdPQjhtUlFXbWFHdzVEdE8zUjgzdHZlaWtvV2s0S25EMjFhaFduTkRpNVdwakJJOUdEWlRVbA?oc=5",
      "source": "setn",
      "source_name": "三立新聞網",
-     "published": "2026-08-31T23:33:53+08:00",
-     "description": "歐光榮 娛樂關鍵字  三立娛樂星聞",
+     "published": "2026-09-01T02:03:54+08:00",
+     "description": "肌肉身 娛樂關鍵字  三立娛樂星聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -9129,12 +9224,12 @@
      }
     },
     {
-     "title": "網路流行語 娛樂關鍵字",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE83RlFKSjJ4c2J1ZllFZDFRRkhrc1Y1UHJDTjI3OW9oUVRWeUxiYUs3MWtYVDdzQVZKdzc3Wl9zZmYtamwtU3pVQQ?oc=5",
+     "title": "踢屁股 娛樂關鍵字",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBsdVV5MnJKQ0hNMVdJMzUwaHlvc0RCUFlOZU5FT3FKelBiLXl0RG56UFd3dVFHdFRIelZvNFo4SmJod1c4MTlRcQ?oc=5",
      "source": "setn",
      "source_name": "三立新聞網",
-     "published": "2026-08-31T22:57:13+08:00",
-     "description": "網路流行語 娛樂關鍵字  三立娛樂星聞",
+     "published": "2026-09-01T02:03:54+08:00",
+     "description": "踢屁股 娛樂關鍵字  三立娛樂星聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -9146,12 +9241,12 @@
      }
     },
     {
-     "title": "灑鹽 娛樂關鍵字",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5DaXk1VzR4VUVnVVFnZHBVMUxOMzMwRDMxRzVVd2I2cGhaUnhpNFFuNjhPcWk1RWVsTmVMUXY0VHpORnczUmY3cQ?oc=5",
+     "title": "軟木塞 娛樂關鍵字",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBDWkNLNjNOSGFNUVN6TmIxOGJFenktWFdDeEJkc3pnRkpOUkNoSE1WTFlCc1BPN1o5Z2JmcG5Fal9PNHNyX2tYUA?oc=5",
      "source": "setn",
      "source_name": "三立新聞網",
-     "published": "2026-08-31T22:43:22+08:00",
-     "description": "灑鹽 娛樂關鍵字  三立娛樂星聞",
+     "published": "2026-09-01T02:03:54+08:00",
+     "description": "軟木塞 娛樂關鍵字  三立娛樂星聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -9163,12 +9258,12 @@
      }
     },
     {
-     "title": "班淑傳奇 娛樂關鍵字",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1UdHc0ZzNrY1VHczdjX2lDalRYVDNETnM2aU5iVHFnd2Rwd2ZCUmNQMjFhaS1Mb1l1SWtJd3JWeXBSaTVBMEV3Sg?oc=5",
+     "title": "澳洲打工 娛樂關鍵字",
+     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE51UzRQSjEwSVpuWXozczFNS2Z5S1BSUHE3VzRSZU9STHBlREIyV0RDVHMxeVN4cXF2Y25ub0ZBclRpREZKeVhF?oc=5",
      "source": "setn",
      "source_name": "三立新聞網",
-     "published": "2026-08-31T22:08:28+08:00",
-     "description": "班淑傳奇 娛樂關鍵字  三立娛樂星聞",
+     "published": "2026-09-01T02:03:53+08:00",
+     "description": "澳洲打工 娛樂關鍵字  三立娛樂星聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -9180,12 +9275,12 @@
      }
     },
     {
-     "title": "安恩智 娛樂關鍵字",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1FWHJFaHRvSy0wVlgtcGp0ajgzR1djQVlNNDJHWGFVUk9FMVpKWTAxR1JSMjctQm40YTF6dHdjTmMzZHM1Q1NUUQ?oc=5",
+     "title": "筋肉愛 娛樂關鍵字",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5NYmFxc3hBaUF1enJTc0FfNnVVZGk5bTF4S0Y4NjAtblpyc2loVmlwNkZoZ2thTEZQNS1JU093NzJQS25WRWc3Yg?oc=5",
      "source": "setn",
      "source_name": "三立新聞網",
-     "published": "2026-08-31T20:46:41+08:00",
-     "description": "安恩智 娛樂關鍵字  三立娛樂星聞",
+     "published": "2026-09-01T02:03:53+08:00",
+     "description": "筋肉愛 娛樂關鍵字  三立娛樂星聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -9197,29 +9292,12 @@
      }
     },
     {
-     "title": "最強星二代Kōki光希來台！ Lulu中英日三語全開　現場教這句中文藏私心",
-     "link": "https://star.ettoday.net/news/3229076",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-08-31T20:36:00+08:00",
-     "description": "三立都會台《完全娛樂》日前邀請有「最強星二代」之稱的日本女星Kōki光希接受專訪。此次Kōki光希擔任星宇航空 STARLUX AIRSORAYAMA 藝術機形象大使，時隔多年再度來台，更首度與台灣本土品牌展開合作。為了與國際巨星交流，主持人Lulu（黃路梓茵）特別勤練英文、日文，採中、英、日三語進行訪問，展現語言實力，兩人一來一往也碰撞出不少有趣火花。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "陳可軒 娛樂關鍵字",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1kdmFXdTZ2R1M3SHNhS0lWVy1NY24wNzZuRjFGUU52YmhmdHFBWEVHQTNqUGVZYVJlRUFuWHItX0x3TTVVQW44Ug?oc=5",
+     "title": "揍肚子 娛樂關鍵字",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ZZFZZaHhFOHVOdXBvWVhja3hPbWJPU1dncmxDOHBIZE16R3dQdFVsR1ppS3RZaHRJS1BVX0lPaDJNWVdKcHdqZA?oc=5",
      "source": "setn",
      "source_name": "三立新聞網",
-     "published": "2026-08-31T19:27:37+08:00",
-     "description": "陳可軒 娛樂關鍵字  三立娛樂星聞",
+     "published": "2026-09-01T02:03:53+08:00",
+     "description": "揍肚子 娛樂關鍵字  三立娛樂星聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -9231,12 +9309,12 @@
      }
     },
     {
-     "title": "貨運股 娛樂關鍵字",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9sTFZHVGNrTnBQUUdZZi1PWlg1TmtTSHhWY0JaT3RLS0YzbGJLbFU0c1VVMUZBZXBxZVhIalcxUDlERHVDc0puag?oc=5",
+     "title": "魏君如 娛樂關鍵字",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBNZGhLYzZTT19PR2d0VFVCTVJHUEF6eTNEaFQtcTM3RElWZVZiaDVHcmRtLXNtMUJ6bFl5WVdaSG9tM0JnX29jRw?oc=5",
      "source": "setn",
      "source_name": "三立新聞網",
-     "published": "2026-08-31T19:06:23+08:00",
-     "description": "貨運股 娛樂關鍵字  三立娛樂星聞",
+     "published": "2026-09-01T02:03:53+08:00",
+     "description": "魏君如 娛樂關鍵字  三立娛樂星聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -9248,12 +9326,29 @@
      }
     },
     {
-     "title": "初代廣告 娛樂關鍵字",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBjbzdHZVd3LWVlcVNDOWZJTmM3dE1lYXgzRXFsdXFuYlBVemxDT1BoT3Nmc0NtdDFWYTFWcDBMcDlCWVdDRUdBNQ?oc=5",
+     "title": "律師郭柏鴻 娛樂關鍵字",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5pN1FSTjJKWk5JWTBvVkNqYUROWUxCQTVsREtXdXlwTGZCOGY2cDV1ekpoNWxLQUI3LS1tNDBpU2lVNEhQaHAxeQ?oc=5",
      "source": "setn",
      "source_name": "三立新聞網",
-     "published": "2026-08-31T19:05:59+08:00",
-     "description": "初代廣告 娛樂關鍵字  三立娛樂星聞",
+     "published": "2026-09-01T02:03:52+08:00",
+     "description": "律師郭柏鴻 娛樂關鍵字  三立娛樂星聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "愛在無盡夏 娛樂關鍵字",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9kMHJVVDlpQV9RYlpRZy1aSEpEbUxoYXJkWWZ4eTJhSkxqb3JIV3lTZzdreHZOLXBFNEQ4LUh0VGE3dDBIRWVmYw?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-09-01T01:56:24+08:00",
+     "description": "愛在無盡夏 娛樂關鍵字  三立娛樂星聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -9282,7 +9377,7 @@
    "tags": [
     "美伊再交火",
     "方將予以反擊",
-    "美國續戰不符"
+    "與美國續戰不"
    ],
    "articles": [
     {
@@ -9424,7 +9519,7 @@
    "tags": [
     "伊勢神宮",
     "商店街陷火海",
-    "棟建築物狂燒"
+    "多棟建築物狂"
    ],
    "articles": [
     {
@@ -9727,6 +9822,147 @@
    ]
   },
   {
+   "id": "cca86faf58c9",
+   "title": "梅西宣布從阿根廷國家隊退役　一封信催淚告別",
+   "outlet_count": 3,
+   "outlets": [
+    "ebc",
+    "ettoday",
+    "ltn"
+   ],
+   "article_count": 7,
+   "first_seen": "2026-08-31T23:31:00+08:00",
+   "last_updated": "2026-09-01T03:36:03+08:00",
+   "tags": [
+    "阿根廷國家隊",
+    "梅西宣布",
+    "告別"
+   ],
+   "articles": [
+    {
+     "title": "梅西退出國際賽場　曾率阿根廷贏世界盃、兩奪美洲盃",
+     "link": "https://sports.ltn.com.tw/news/breakingnews/5558713",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-09-01T03:36:03+08:00",
+     "description": "阿根廷足球巨星梅西（Lionel Messi）今天在社群媒體發文表示將退出阿根廷國家隊，而他才剛在今年7月帶領阿根廷連續第2屆闖入世界盃決賽。\n\n法新社報導，現年39歲的梅西曾率阿根廷於20...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "梅西寫下催淚告別信！宣布從阿根廷國家隊「正式退役」",
+     "link": "https://news.ebc.net.tw/news/sport/569104",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-09-01T00:29:01.537482+08:00",
+     "description": "阿根廷足球巨星梅西（Lionel Messi）8月31日稍早，突然透過社群平台發表長文、手寫信，正式宣布退出阿根廷國家隊，結束超過20年的國家隊生涯。",
+     "category": "sport",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "sport",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "梅西宣布退出阿根廷國家隊　催淚信感性告別藍白軍團",
+     "link": "https://sports.ltn.com.tw/news/breakingnews/5558692",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-09-01T00:18:03+08:00",
+     "description": "阿根廷足球巨星梅西（Lionel Messi）今天在社群媒體Instagram發文感性表示，他將退出阿根廷國家隊。這項決定令他感到痛苦，如今告別的時刻已經到來。\n\n梅西現年39歲，曾率阿根廷...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "球王梅西宣布退出國家隊　阿根廷男足發聲：愛你直到生命盡頭",
+     "link": "https://sports.ettoday.net/news/3229118",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-09-01T00:10:00+08:00",
+     "description": "世界足壇的「一個時代」在今日正式宣告落幕！阿根廷球王梅西（Lionel Messi）於台灣時間31日透過個人社群平台Instagram投下震撼彈，正式宣布將從阿根廷國家隊退役。隨著這位當代最偉大球星的轉身離去，阿根廷足協也隨即發文致敬，感性告白：「永恆的感謝，萊奧（Leo）。我們會愛你直到生命的盡頭。」 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "足球》震撼！梅西正式從阿根廷國家隊退役 今年世界盃成最後一舞",
+     "link": "https://sports.ltn.com.tw/news/breakingnews/5558687",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-09-01T00:01:37+08:00",
+     "description": "阿根廷足球巨星梅西（Lionel Messi）今天宣布，正式從阿根廷國家隊退役，而今年世界盃足球賽也成為他國家隊生涯最後一舞。\n\n\n39歲的梅西今年率領阿根廷國家隊在世...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "球王梅西宣布國家隊退役　南美足聯感性致敬：永恆的感謝",
+     "link": "https://sports.ettoday.net/news/3229115",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-08-31T23:52:00+08:00",
+     "description": "世界足壇在今日迎來感傷震撼彈！阿根廷傳奇球王梅西（Lionel Messi）正式對外宣布，將從阿根廷國家隊正式退役，結束這段長達21年、充滿榮耀與淚水的藍白軍團傳奇生涯。消息一出，南美足聯（CONMEBOL）隨即發布致敬海報，並寫下感性告白：「永恆的感謝，萊奧（Leo）！」 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "梅西宣布從阿根廷國家隊退役　一封信催淚告別",
+     "link": "https://sports.ettoday.net/news/3229111",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-08-31T23:31:00+08:00",
+     "description": "阿根廷足球巨星梅西（Lionel Messi）8月31日宣布，他經過深思熟慮後，決定從國家隊退役，這個決定讓他心如刀絞，但他覺得現在是他退役的時候了，感謝所有人這20年來給予他的愛與支持。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    }
+   ]
+  },
+  {
    "id": "50e0a33f6df6",
    "title": "聯結車屏東枋山失控撞電桿　嘉和地區停電2人輕傷",
    "outlet_count": 3,
@@ -9740,7 +9976,7 @@
    "last_updated": "2026-09-01T00:30:04+08:00",
    "tags": [
     "聯結車屏東枋",
-    "山失控撞電桿",
+    "枋山失控撞電",
     "嘉和地區停電"
    ],
    "claims": [
@@ -9815,185 +10051,6 @@
    ]
   },
   {
-   "id": "cca86faf58c9",
-   "title": "梅西宣布從阿根廷國家隊退役　一封信催淚告別",
-   "outlet_count": 3,
-   "outlets": [
-    "ebc",
-    "ettoday",
-    "ltn"
-   ],
-   "article_count": 4,
-   "first_seen": "2026-08-31T23:31:00+08:00",
-   "last_updated": "2026-09-01T00:29:01.537482+08:00",
-   "tags": [
-    "阿根廷國家隊",
-    "催淚告別",
-    "梅西宣布"
-   ],
-   "articles": [
-    {
-     "title": "梅西寫下催淚告別信！宣布從阿根廷國家隊「正式退役」",
-     "link": "https://news.ebc.net.tw/news/sport/569104",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-09-01T00:29:01.537482+08:00",
-     "description": "阿根廷足球巨星梅西（Lionel Messi）8月31日稍早，突然透過社群平台發表長文、手寫信，正式宣布退出阿根廷國家隊，結束超過20年的國家隊生涯。",
-     "category": "sport",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "sport",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "梅西宣布退出阿根廷國家隊　催淚信感性告別藍白軍團",
-     "link": "https://sports.ltn.com.tw/news/breakingnews/5558692",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-09-01T00:18:03+08:00",
-     "description": "阿根廷足球巨星梅西（Lionel Messi）今天在社群媒體Instagram發文感性表示，他將退出阿根廷國家隊。這項決定令他感到痛苦，如今告別的時刻已經到來。\n\n梅西現年39歲，曾率阿根廷...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "足球》震撼！梅西正式從阿根廷國家隊退役 今年世界盃成最後一舞",
-     "link": "https://sports.ltn.com.tw/news/breakingnews/5558687",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-09-01T00:01:37+08:00",
-     "description": "阿根廷足球巨星梅西（Lionel Messi）今天宣布，正式從阿根廷國家隊退役，而今年世界盃足球賽也成為他國家隊生涯最後一舞。\n\n\n39歲的梅西今年率領阿根廷國家隊在世...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "梅西宣布從阿根廷國家隊退役　一封信催淚告別",
-     "link": "https://sports.ettoday.net/news/3229111",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-08-31T23:31:00+08:00",
-     "description": "阿根廷足球巨星梅西（Lionel Messi）8月31日宣布，他經過深思熟慮後，決定從國家隊退役，這個決定讓他心如刀絞，但他覺得現在是他退役的時候了，感謝所有人這20年來給予他的愛與支持。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    }
-   ]
-  },
-  {
-   "id": "ab9a46edc317",
-   "title": "太平洋島國論壇峰會登場　MIT電動巴士接送各國代表",
-   "outlet_count": 3,
-   "outlets": [
-    "cna",
-    "ettoday",
-    "pts"
-   ],
-   "article_count": 4,
-   "first_seen": "2026-08-31T14:47:50+08:00",
-   "last_updated": "2026-08-31T23:13:27+08:00",
-   "tags": [
-    "平洋島國論壇",
-    "峰會登場",
-    "電動巴士"
-   ],
-   "articles": [
-    {
-     "title": "帛琉辦太平洋島國論壇峰會　盼就反對中國射彈達共識",
-     "link": "https://www.cna.com.tw/news/aopl/202608310335.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-08-31T23:13:27+08:00",
-     "description": "（中央社帛琉科羅31日綜合外電報導）日經亞洲今天報導，帛琉總統惠恕仁昨天表示，太平洋各國若無法在本週由帛琉主辦的年度區域領袖會議上，就反對中國近期試射飛彈一事達成共識，將「令人遺憾」。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
-     }
-    },
-    {
-     "title": "太平洋島國論壇領袖峰會登場 18成員國中5領袖缺席",
-     "link": "https://news.pts.org.tw/article/824952",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-08-31T21:02:47+08:00",
-     "description": "第55屆「太平洋島國論壇」領袖峰會31日在我國友邦「帛琉」登場，這次峰會，18個成員國中，至少有5位成員國領袖缺席，也讓紐西蘭外交部長表態相當失望。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "啟動氫能倡議、MIT電動巴士正式交車　林佳龍見證台帛綠能合作",
-     "link": "https://www.ettoday.net/news/20260831/3229007.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-08-31T19:36:00+08:00",
-     "description": "外交部長林佳龍30日與帛琉總統惠恕仁（Surangel S. Whipps, Jr.）、兼任衛生部長的副總統歐宜樓（Raynold Oilouch），以及帛琉政府團隊會晤，並共同參觀太陽能發電與儲能系統、啟動氫能倡議合作及見證4輛MIT電動巴士正式交車。林佳龍表示，這是他第五次來到帛琉，每次回來都更能感受到台帛關係像家人一樣親近，這幾天從「榮邦特展」順利開幕，到各項合作陸續展開，很高興看到台帛一起",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "太平洋島國論壇峰會登場　MIT電動巴士接送各國代表",
-     "link": "https://www.cna.com.tw/news/aipl/202608310154.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-08-31T14:47:50+08:00",
-     "description": "（中央社記者楊堯茹台北31日電）外交部長林佳龍出訪友邦帛琉，與帛琉總統惠恕仁等政要會晤，並啟動氫能倡議合作及見證4輛MIT電動巴士正式交車，也與惠恕仁一同體驗試乘。4輛MIT電動巴士將協助接送參與太平洋島國論壇峰會的領袖、代表，峰會後也會繼續服務帛琉居民與旅客。",
-     "author": "楊堯茹",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "楊堯茹",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
-     }
-    }
-   ]
-  },
-  {
    "id": "ef5fdc325e19",
    "title": "重磅！輝達投資聯發科35億美元深化雙方合作| 全球財經| 全球",
    "outlet_count": 3,
@@ -10002,15 +10059,32 @@
     "nownews",
     "udn"
    ],
-   "article_count": 4,
+   "article_count": 5,
    "first_seen": "2026-08-31T20:53:56+08:00",
-   "last_updated": "2026-08-31T22:28:00+08:00",
+   "last_updated": "2026-08-31T23:38:10+08:00",
    "tags": [
     "投資聯發科",
     "輝達",
     "合作"
    ],
    "articles": [
+    {
+     "title": "輝達千億投資聯發科！黃仁勳否認循環融資 強調十年期戰略合作",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56cmFzN2d1MXVEeVVUMlQ0SFRUUzJwWjlUd2pTNVlnWDhVMUtyaWdYVkJfSG1rNTg5YjliV1lJeE9QbTVESFZDbTRSNkZzVmVScWt3Ny1CaFB3d9IBX0FVX3lxTE1MMVY1SHNwcTVCS0RzSDNqZEpza2ROYUJNa1NMN1plbmhmdzJyREV6ZktEamQ2bnRKMC1lc2tuR3BubnpnWUlCcktCOEdBenZ0TEZuWnU3bDdtOVpFYVk4?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-08-31T23:38:10+08:00",
+     "description": "輝達千億投資聯發科！黃仁勳否認循環融資 強調十年期戰略合作  經濟日報",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
     {
      "title": "輝達砸35億美元投資聯發科　黃仁勳揭十年合作藍圖",
      "link": "https://finance.ettoday.net/news/3229099",
