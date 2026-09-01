@@ -1,6 +1,6 @@
 {
  "date": "2026-09-02",
- "generated_at": "2026-09-02T00:46:52.451477+08:00",
+ "generated_at": "2026-09-02T02:33:39.109948+08:00",
  "events": [
   {
    "id": "a5aa71dab840",
@@ -21,12 +21,11 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 88,
+   "article_count": 91,
    "first_seen": "2026-08-30T12:32:00+08:00",
    "last_updated": "2026-09-02T00:46:52.451477+08:00",
    "tags": [
-    "沙德爾",
-    "雨特報"
+    "沙德爾"
    ],
    "articles": [
     {
@@ -46,6 +45,23 @@
       "acquisition": "scraper",
       "category": "living",
       "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "沙德爾重生「豪大雨換邊」明一片橘紅　風向變了全台有雨",
+     "link": "https://www.ettoday.net/news/20260901/3229788.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-09-01T23:45:00+08:00",
+     "description": "中央氣象署表示，今天（1日）上午沙德爾復活，這兩天朝東北往台灣西南部海域接近，之後偏北朝中國登陸後再減弱，預計2、3日（周三、四）較接近台灣海峽南部，其外圍環流及低壓帶影響，將為東部、南部帶來豪大雨。氣象專家分析，未來2天大雨熱點換邊，因風向轉為偏東南風，雨區轉向東半部一帶橘紅一片。\n\n 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
      }
     },
     {
@@ -184,23 +200,6 @@
       },
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "沙德爾颱風海警機率低 全台有雨「這地」豪雨狂炸下到發紫",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5559722",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-09-01T18:26:05+08:00",
-     "description": "沙德爾颱風復活後，受其外圍環流影響，全台雨綿綿。中央氣象署預報，沙德爾颱風明（2日）後兩天相對較接近台灣西南部海域，海警發布機率低，但受颱風外圍環流影響，全台有雨，明天台東留意...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
      }
     }
    ]
@@ -631,8 +630,8 @@
    ]
   },
   {
-   "id": "f0b532d1661b",
-   "title": "尼泊爾洪災682死近3000人失蹤　外長警告氣候變遷威脅加劇",
+   "id": "15d58af03a3b",
+   "title": "尼泊爾洪災第5天　691死近3000人失蹤、洪水威脅未除",
    "outlet_count": 12,
    "outlets": [
     "cna",
@@ -648,25 +647,19 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 132,
-   "first_seen": "2026-08-30T01:16:01+08:00",
+   "article_count": 25,
+   "first_seen": "2026-08-30T06:03:00+08:00",
    "last_updated": "2026-09-02T00:46:52.451477+08:00",
    "tags": [
-    "新聞網"
+    "尼泊爾洪災",
+    "失蹤"
    ],
    "claims": [
     {
      "type": "死亡人數",
      "agree": false,
-     "outlet_count": 6,
+     "outlet_count": 7,
      "values": [
-      {
-       "value": "682",
-       "outlets": [
-        "三立新聞網",
-        "新頭殼"
-       ]
-      },
       {
        "value": "600",
        "outlets": [
@@ -686,9 +679,27 @@
        ]
       },
       {
+       "value": "919",
+       "outlets": [
+        "ETtoday"
+       ]
+      },
+      {
+       "value": "939",
+       "outlets": [
+        "TVBS"
+       ]
+      },
+      {
        "value": "950",
        "outlets": [
         "聯合新聞網"
+       ]
+      },
+      {
+       "value": "955",
+       "outlets": [
+        "公視新聞"
        ]
       }
      ]
@@ -696,12 +707,13 @@
     {
      "type": "金額",
      "agree": false,
-     "outlet_count": 2,
+     "outlet_count": 3,
      "values": [
       {
        "value": "10萬元",
        "outlets": [
-        "中央社"
+        "中央社",
+        "自由時報"
        ]
       },
       {
@@ -731,6 +743,250 @@
       "acquisition": "scraper",
       "category": "world",
       "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "尼泊爾洪災釀千死 全球3100條躍動冰川恐成致命危機",
+     "link": "https://news.ltn.com.tw/news/world/breakingnews/5559920",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-09-01T22:13:58+08:00",
+     "description": "尼泊爾與中國西藏交界地帶爆發致命山洪，至今已造成兩國逾千人喪命，專家推測原因是冰河崩塌形成堰塞湖後潰決。科學家警告，全球有超過3100條「躍動冰川」，可能引發洪水與雪崩。亞洲更是有近10萬條...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "尼泊爾洪災釀千死　全球3100條躍動冰川恐成致命危機",
+     "link": "https://www.cna.com.tw/news/aopl/202609010362.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-09-01T21:23:37+08:00",
+     "description": "（中央社倫敦1日綜合外電報導）尼泊爾與中國西藏交界地帶爆發致命山洪，至今已造成兩國逾千人喪命，專家推測原因是冰河崩塌形成堰塞湖後潰決。科學家警告，全球有超過3100條「躍動冰川」，可能引發洪水與雪崩。亞洲更是有近10萬條冰川正在急速融化中。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
+     }
+    },
+    {
+     "title": "尼泊爾洪災拆散無數家庭　毛小孩廢墟徘徊等待奇蹟[影]",
+     "link": "https://www.cna.com.tw/news/aopl/202609010309.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-09-01T18:49:42+08:00",
+     "description": "（中央社記者李晉緯新德里1日專電）尼泊爾致命洪災奪走上千條人命，無數家庭因此破碎，來自災區的影片顯示，許多毛小孩在早已面目全非的房屋附近徘徊，試圖迎接主人歸來，畫面令人痛心。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
+     }
+    },
+    {
+     "title": "逾950死4400失聯！ 跟時間賽跑 隧道爆破搜救",
+     "link": "https://news.ebc.net.tw/news/world/569178",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-09-01T14:44:51.558611+08:00",
+     "description": "尼泊爾中國邊境爆發毀滅性山洪，至少950人死亡、4400人失蹤，逾900名工人受困水力發電廠隧道，軍方爆破通道持續搶救。",
+     "category": "world",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "world",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "尼泊爾洪災逾500人仍受困隧道 國際團隊炸開通道加速搜救",
+     "link": "https://news.pts.org.tw/article/824964",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-09-01T13:59:52+08:00",
+     "description": "西藏與尼泊爾邊境26日發生的土石流暴發已經將近1週，根據BBC報導，兩邊目前已有955人死亡、將近4500人失蹤，其中592人是外國人。不過尼泊爾當局昨（31）日表示，受災的各水力發電廠中，還有900多名員工被列為失蹤，其中約500人受困在隧道內生死未卜，來自多國的救援人員正透過爆破等方式加快搜救。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "尼泊爾洪災增至939死3925失蹤 逾2500棟建築毀壞",
+     "link": "https://news.ebc.net.tw/news/world/569112",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-09-01T09:13:15.060426+08:00",
+     "description": "尼泊爾國家減災管理局（NDRRMA）表示，8月26日發生的洪災已造成939死，3925人失蹤；而歐盟氣候監測機構數據指出，這場災難已導致2500多棟建築毀壞。",
+     "category": "world",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "world",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "尼泊爾洪災逾950死、4400人失蹤！家屬將希望寄託手機最後訊號",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KUUdWenhNQzR4OHMwOTIxcWlFRU04MG84SzJCOE1WR2xzOG45WnNacTM1U1FFc25ycjUxRElLOENRRjRZbjR0TG9UQ1pHVk1vbmJB0gFYQVVfeXFMTXhuSUlRMFJQMGx2UHNhREVJMko5V2JGSXlDV1BwTThWbzVMYmVXSlBnSnRYSHphdkpkVEtJN2JHRzhENUIwT0VkajJndE83RUd1cDdHWGJrSg?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-09-01T07:54:36+08:00",
+     "description": "尼泊爾洪災逾950死、4400人失蹤！家屬將希望寄託手機最後訊號  udn.com",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "尼泊爾洪災增至939死3925失蹤 逾2500棟建築毀壞",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wTTMtNldiWXYtaWI3RHlvVWJmZDdmS0taOTNSYkNISGJDUzNYRmFfcTk3TEpRNFN3Yk1PejlfaW4xeTg5SDY0QXJPTGVQczg?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-09-01T02:32:00+08:00",
+     "description": "尼泊爾洪災增至939死3925失蹤 逾2500棟建築毀壞  TVBS新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "尼泊爾洪災增至939死3925失蹤　逾2500棟建築毀壞",
+     "link": "https://news.ltn.com.tw/news/world/breakingnews/5558697",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-09-01T01:06:03+08:00",
+     "description": "尼泊爾國家減災管理局（NDRRMA）表示，8月26日發生的洪災已造成939死，3925人失蹤；而歐盟氣候監測機構數據指出，這場災難已導致2500多棟建築毀壞。\n\n法新社報導，尼泊爾與西藏邊境...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    }
+   ]
+  },
+  {
+   "id": "c172de06feb0",
+   "title": "115年度自購、修繕住宅貸款利息補貼　9/1起受理申請",
+   "outlet_count": 11,
+   "outlets": [
+    "chinatimes",
+    "cna",
+    "ebc",
+    "ettoday",
+    "ltn",
+    "newtalk",
+    "nownews",
+    "pts",
+    "setn",
+    "tvbs",
+    "udn"
+   ],
+   "article_count": 152,
+   "first_seen": "2026-08-30T07:00:00+08:00",
+   "last_updated": "2026-09-02T00:01:50+08:00",
+   "tags": [
+    "新聞網"
+   ],
+   "claims": [
+    {
+     "type": "死亡人數",
+     "agree": false,
+     "outlet_count": 3,
+     "values": [
+      {
+       "value": "682",
+       "outlets": [
+        "東森新聞"
+       ]
+      },
+      {
+       "value": "750",
+       "outlets": [
+        "公視新聞"
+       ]
+      },
+      {
+       "value": "903",
+       "outlets": [
+        "ETtoday"
+       ]
+      }
+     ]
+    }
+   ],
+   "articles": [
+    {
+     "title": "新聞分類總覽 - 2026-09-02",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBkVVJ5MTZvODFMdGI4SS04R1FyWEVVYjFsVG1rWERMSGZxeHZBblJHaUs1N0lyQm9XMTlTR2ZHUGpyN1RWSnpiVlo1YkszWG1VSHB5bzRBWQ?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-09-02T00:01:50+08:00",
+     "description": "新聞分類總覽 - 2026-09-02  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "（2026/09/02）12星座日運勢／雙子投資獲利！處女座被愛情滋潤",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12TGR1anZRV0RGLVZwNGhDV1lBTXllLW1wMTlDTElzRjN6LVBCUnFRV083SkVPeWdON0VmWlk0dzFxc1N0allEa2NjdGE1WlBFVlHSAVJBVV95cUxNdkxkdWp2UVdERi1WcDRoQ1dZQU15ZS1tcDE5Q0xJc0Yzei1QQlJxUVdPN0pFT3lnTjdFZlpZNHcxcXNTdGpZRGtjY3RhNVpQRVZR?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-09-02T00:00:00+08:00",
+     "description": "（2026/09/02）12星座日運勢／雙子投資獲利！處女座被愛情滋潤  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
@@ -770,20 +1026,20 @@
      }
     },
     {
-     "title": "尼泊爾洪災釀千死 全球3100條躍動冰川恐成致命危機",
-     "link": "https://news.ltn.com.tw/news/world/breakingnews/5559920",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-09-01T22:13:58+08:00",
-     "description": "尼泊爾與中國西藏交界地帶爆發致命山洪，至今已造成兩國逾千人喪命，專家推測原因是冰河崩塌形成堰塞湖後潰決。科學家警告，全球有超過3100條「躍動冰川」，可能引發洪水與雪崩。亞洲更是有近10萬條...…",
+     "title": "高雄一個月下光整年雨量破紀錄恐怖災情曝雨彈升級!15縣市豪大雨【鄭明典解析】20260901",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6TVRiQWtOYjdBMWVaTlpRZ1Z3ZHVoUG1qUFczRjVDQndTekJESGRsWEdlQ09aSUEzWUlka3NvS1J5cFE2bUNNcjlvSlJqMlRFXzMxcWNR?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-09-01T22:05:41+08:00",
+     "description": "高雄一個月下光整年雨量破紀錄恐怖災情曝雨彈升級!15縣市豪大雨【鄭明典解析】20260901  TVBS新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
@@ -801,23 +1057,6 @@
       },
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "尼泊爾洪災釀千死　全球3100條躍動冰川恐成致命危機",
-     "link": "https://www.cna.com.tw/news/aopl/202609010362.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-09-01T21:23:37+08:00",
-     "description": "（中央社倫敦1日綜合外電報導）尼泊爾與中國西藏交界地帶爆發致命山洪，至今已造成兩國逾千人喪命，專家推測原因是冰河崩塌形成堰塞湖後潰決。科學家警告，全球有超過3100條「躍動冰川」，可能引發洪水與雪崩。亞洲更是有近10萬條冰川正在急速融化中。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
      }
     },
     {
@@ -840,12 +1079,12 @@
      }
     },
     {
-     "title": "尼泊爾洪災搜救行動持續 總理籲國際正視氣候正義問題",
-     "link": "https://news.pts.org.tw/article/825062",
+     "title": "美國邀俄財長出席G20 引歐洲官員不滿",
+     "link": "https://news.pts.org.tw/article/825059",
      "source": "pts",
      "source_name": "公視新聞",
-     "published": "2026-09-01T20:37:09+08:00",
-     "description": "喜馬拉雅山區洪災進入第7日，尼泊爾災區滿目瘡痍，搜救行動仍在持續，而在臨時安置中心，災民的生活也相當艱困，其中女性災民連基本衛生用品和隱私，而在中國西藏一側由官方救援力量主導，救援進度與災情資訊相對封閉。尼泊爾總理夏哈（Balendra Shah）則提出警告，這場災難再次凸顯氣候變遷下，喜馬拉雅地區面臨的風險，呼籲國際社會採取行動。",
+     "published": "2026-09-01T20:36:23+08:00",
+     "description": "20國集團「G20」財務部長與央行總裁會議，8月31日在美國北卡羅萊納州舉行，這次會議，美國邀請俄國財長參加會議，引發了歐洲官員的不滿，這也是俄烏戰爭爆發後，歐洲與俄羅斯代表在G20會議中第一次同時出席，而美國財政部拒絕某些特定媒體採訪，也引發了新聞自由的爭議。",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -1093,205 +1332,6 @@
    ]
   },
   {
-   "id": "ff652bb3bfa7",
-   "title": "蘇巧慧9/2率隊登記　李四川：接棒打贏選戰",
-   "outlet_count": 10,
-   "outlets": [
-    "cna",
-    "ebc",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "newtalk",
-    "nownews",
-    "setn",
-    "tvbs",
-    "udn"
-   ],
-   "article_count": 20,
-   "first_seen": "2026-08-30T11:05:16+08:00",
-   "last_updated": "2026-09-01T20:47:19+08:00",
-   "tags": [
-    "李四川",
-    "蘇巧慧",
-    "侯友宜"
-   ],
-   "articles": [
-    {
-     "title": "李四川5亮點發展觀光　蘇巧慧打造動物友善城市",
-     "link": "https://www.cna.com.tw/news/aipl/202609010354.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-09-01T20:47:19+08:00",
-     "description": "（中央社記者王鴻國新北1日電）新北市長選舉增溫，李四川今天提出搭纜車上山城等5大亮點的觀光政見，盼發展29區特色旅遊；蘇巧慧成立「愛護寵物產業後援會」並提願景，希望打造新北成為動物友善城市。",
-     "author": "王鴻國",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "王鴻國",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
-     }
-    },
-    {
-     "title": "蘇巧慧9/2、李四川9/4登記　兩黨動員展現團結",
-     "link": "https://www.cna.com.tw/news/aipl/202609010283.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-09-01T17:59:47+08:00",
-     "description": "（中央社記者王鴻國新北1日電）新北市長選舉增溫，藍綠參選登記成重要戰場，民進黨參選人蘇巧慧2日將前往新北市選委會登記、國民黨參選人李四川4日登記，雙方都將動員議員及議員參選人到場，展現母雞和小雞的團結氣勢。",
-     "author": "王鴻國",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "王鴻國",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
-     }
-    },
-    {
-     "title": "新北民調麻花捲！超車李四川0.5％　蘇巧慧回應了",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GLWR2U1U5azBGTktkYU53em9DZzRjd01fQU5HRGtUcWhRS20tNjJFUF9RUkVMckJhNmk2SzdLbW4yV2ZkN2R3MTktRkNIZGdqbFHSAVJBVV95cUxORi1kdlNVOWswRk5LZGFOd3pvQ2c0Y3dNX0FOR0RrVHFoUUttLTYyRVBfUVJFTHJCYTZpNks3S21uMldmZDdkdzE5LUZDSGRnamxR?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-09-01T14:49:42+08:00",
-     "description": "新北民調麻花捲！超車李四川0.5％　蘇巧慧回應了  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "信民民調／新北激戰！蘇巧慧35.2%微幅領先李四川　勝選關鍵在「他們」",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA3dzBSS2RuU0poMllaeTE1bWtGUmI0bE5Wa0p4REFRNUlkTHlONklRd2JZd04wdThFYXFzWmNOUmRpVTM4UnR1UdIBTEFVX3lxTE1HRVduWGl1OTNFUi01WHhWNndPVTRhTjJsTElZQlRsczFVNnA3cE5vUk1SSXl6YUNneTh3Q2kxU2plR3BJZmJMMDVBS2I?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-09-01T13:51:00+08:00",
-     "description": "信民民調／新北激戰！蘇巧慧35.2%微幅領先李四川　勝選關鍵在「他們」  三立新聞網SETN.com",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "又有民調落後蘇巧慧李四川：結合不同黨派好友一定會打贏| 政治",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Wa091OGQ3cmNWQ3p2Y3JJbVg5Y0R4eFhRNmxFTmotNjAyMFg5UTd5dTZtQzNnWHZ2dnFfV0s1dDBGXzdqY2JLOHVZOHFHLXNPcWtudVBlTjNyTmc?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-09-01T13:32:42+08:00",
-     "description": "又有民調落後蘇巧慧李四川：結合不同黨派好友一定會打贏| 政治  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "最新民調領先李四川　蘇巧慧競辦：謹慎參考、不嘲諷對手",
-     "link": "https://www.ettoday.net/news/20260901/3229447.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-09-01T13:23:00+08:00",
-     "description": "信民協會今（1日）公布由民調專家戴立安設計的新北市長選情民調結果。在擔任新北市長適合度上，43.8%民眾認為民進黨參選人蘇巧慧很適合、40.6%民眾認為國民黨參選人李四川很適合；而在投票支持度上，35.2%會投給蘇、34.7%會投給李，蘇領先李0.5個百分點。對此，蘇巧慧競選辦公室發言人劉芳宇回應，團隊從不因民調贏嘲諷對手、民調落後批評民調機構，團隊對各家民調一向都是謹慎參考。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "與蘇巧慧民調麻花捲？李四川態度依舊 藍議員提盲點",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FYzhKMW5lY2tTWF8yRTJaVk8zN2theHRnSHpWTlIxQ3poZnJaUFFnTUZZZVktWnplalJoNnItaGlvb2RYQnR4aWFnWDBSSWdUZlFv0gFYQVVfeXFMUFdCQXNwVi1wRXFpNUp1eFlFTEZyc0ozeV9QcHdTa0JFZGgwZVJwY2Q3TWpwTDVhRHJQT1Y5bjBlTUl0OG5sbFBMb0JYTmJocFI0TGd1dzFJRg?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-09-01T12:49:08+08:00",
-     "description": "與蘇巧慧民調麻花捲？李四川態度依舊 藍議員提盲點  UDN",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "李四川指蘇巧慧對侯友宜先批後捧 態度180度大轉彎",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5559069",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-09-01T12:19:55+08:00",
-     "description": "國民黨新北市長參選人李四川1日舉行觀光政策說明會，被媒體問到對手蘇巧慧過去批評市長侯友宜施政沒有亮點，侯友宜昨在議會回應「社會自有公評」；不過蘇巧慧近期又打出「尊侯」策略，對於...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "蘇巧慧選前批侯、選舉尊侯　李四川：問她才會知道為何180度轉變",
-     "link": "https://www.ettoday.net/news/20260901/3229348.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-09-01T11:35:00+08:00",
-     "description": "民進黨新北市長參選人蘇巧慧近來頻打「尊侯」牌，但藍營則揭蘇屢抹黑侯、批侯施政沒亮點，蘇昨又說，10年中央和侯友宜領導的新北市府團隊一起努力下，新北確實建設有成長、進步非常多，又被解讀也要「尊朱」。對此，國民黨新北市長參選人李四川今（1日）說，蘇巧慧180度的轉變，可能也要只有問她才知道為什麼要這樣。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "信民民調／蘇巧慧、李四川激戰　選舉關鍵在蔡英文、侯友宜人氣PK",
-     "link": "https://www.ettoday.net/news/20260901/3229313.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-09-01T11:08:00+08:00",
-     "description": "信民協會今（1日）公布新北市長選情民調結果。在擔任新北市長適合度上，43.8%民眾認為民進黨參選人蘇巧慧很適合、40.6%民眾認為國民黨參選人李四川很適合；而在投票支持度上，35.2%會投給蘇、34.7%會投給李，蘇領先李0.5個百分點。民調專家戴立安指出，民調顯示，民進黨台北市長參選人沈伯洋對蘇選情無幫助；蔣萬安的外溢效應也不是關鍵。這次新北市長選舉，除了是蘇與李的實力比拚，也是前總統蔡英文和新",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    }
-   ]
-  },
-  {
    "id": "129235ef0ca3",
    "title": "民眾南投泛舟3人受困　救援艇翻覆1消防員落水不治",
    "outlet_count": 10,
@@ -1307,15 +1347,32 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 25,
+   "article_count": 26,
    "first_seen": "2026-08-31T16:18:37+08:00",
-   "last_updated": "2026-09-01T19:23:00+08:00",
+   "last_updated": "2026-09-02T01:53:00+08:00",
    "tags": [
-    "南投勇消",
+    "南投",
     "殉職",
     "泛舟"
    ],
    "articles": [
+    {
+     "title": "勇消伍程嶸救人殉職　母痛哭要泛舟客「到靈前」：有人因你們犧牲",
+     "link": "https://www.ettoday.net/news/20260902/3229802.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-09-02T01:53:00+08:00",
+     "description": "南投縣消防員伍程嶸救援殉職案，遺體1日上午完成相驗，消防同仁向伍承嶸敬禮，哽咽喊出「程嶸，任務結束了，回家了」，一旁伍母也悲痛喊著「回家了…」檢方相驗確認，伍程嶸為生前意外落水，因窒息導致呼吸衰竭死亡。悲痛萬分的伍母與內政部長劉世芳、縣長許淑華會面時，數度落淚希望泛舟客親自到兒子靈前看一看，他是為了救他們的命而犧牲。\n\n 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
     {
      "title": "濁水溪泛舟受困3天！2遊客沙洲寫下「行動電源」求物資",
      "link": "https://www.ettoday.net/news/20260901/3229731.htm",
@@ -1474,14 +1531,128 @@
       "acquisition": "rss",
       "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
      }
+    }
+   ]
+  },
+  {
+   "id": "ff652bb3bfa7",
+   "title": "蘇巧慧9/2率隊登記　李四川：接棒打贏選戰",
+   "outlet_count": 10,
+   "outlets": [
+    "cna",
+    "ebc",
+    "ettoday",
+    "ltn",
+    "mirror",
+    "newtalk",
+    "nownews",
+    "setn",
+    "tvbs",
+    "udn"
+   ],
+   "article_count": 20,
+   "first_seen": "2026-08-30T11:05:16+08:00",
+   "last_updated": "2026-09-01T20:47:19+08:00",
+   "tags": [
+    "李四川",
+    "蘇巧慧",
+    "侯友宜"
+   ],
+   "articles": [
+    {
+     "title": "李四川5亮點發展觀光　蘇巧慧打造動物友善城市",
+     "link": "https://www.cna.com.tw/news/aipl/202609010354.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-09-01T20:47:19+08:00",
+     "description": "（中央社記者王鴻國新北1日電）新北市長選舉增溫，李四川今天提出搭纜車上山城等5大亮點的觀光政見，盼發展29區特色旅遊；蘇巧慧成立「愛護寵物產業後援會」並提願景，希望打造新北成為動物友善城市。",
+     "author": "王鴻國",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "王鴻國",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
+     }
     },
     {
-     "title": "救泛舟受困5人！南投勇消殉職「明年就要退休」3孩最小才5歲　老母妻兒獲噩耗崩潰",
-     "link": "https://www.mirrormedia.mg/story/20260901edi002",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-09-01T07:05:00+08:00",
-     "description": "",
+     "title": "蘇巧慧9/2、李四川9/4登記　兩黨動員展現團結",
+     "link": "https://www.cna.com.tw/news/aipl/202609010283.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-09-01T17:59:47+08:00",
+     "description": "（中央社記者王鴻國新北1日電）新北市長選舉增溫，藍綠參選登記成重要戰場，民進黨參選人蘇巧慧2日將前往新北市選委會登記、國民黨參選人李四川4日登記，雙方都將動員議員及議員參選人到場，展現母雞和小雞的團結氣勢。",
+     "author": "王鴻國",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "王鴻國",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
+     }
+    },
+    {
+     "title": "新北民調麻花捲！超車李四川0.5％　蘇巧慧回應了",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GLWR2U1U5azBGTktkYU53em9DZzRjd01fQU5HRGtUcWhRS20tNjJFUF9RUkVMckJhNmk2SzdLbW4yV2ZkN2R3MTktRkNIZGdqbFHSAVJBVV95cUxORi1kdlNVOWswRk5LZGFOd3pvQ2c0Y3dNX0FOR0RrVHFoUUttLTYyRVBfUVJFTHJCYTZpNks3S21uMldmZDdkdzE5LUZDSGRnamxR?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-09-01T14:49:42+08:00",
+     "description": "新北民調麻花捲！超車李四川0.5％　蘇巧慧回應了  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "信民民調／新北激戰！蘇巧慧35.2%微幅領先李四川　勝選關鍵在「他們」",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA3dzBSS2RuU0poMllaeTE1bWtGUmI0bE5Wa0p4REFRNUlkTHlONklRd2JZd04wdThFYXFzWmNOUmRpVTM4UnR1UdIBTEFVX3lxTE1HRVduWGl1OTNFUi01WHhWNndPVTRhTjJsTElZQlRsczFVNnA3cE5vUk1SSXl6YUNneTh3Q2kxU2plR3BJZmJMMDVBS2I?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-09-01T13:51:00+08:00",
+     "description": "信民民調／新北激戰！蘇巧慧35.2%微幅領先李四川　勝選關鍵在「他們」  setn.com",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "又有民調落後蘇巧慧李四川：結合不同黨派好友一定會打贏| 政治",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Wa091OGQ3cmNWQ3p2Y3JJbVg5Y0R4eFhRNmxFTmotNjAyMFg5UTd5dTZtQzNnWHZ2dnFfV0s1dDBGXzdqY2JLOHVZOHFHLXNPcWtudVBlTjNyTmc?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-09-01T13:32:42+08:00",
+     "description": "又有民調落後蘇巧慧李四川：結合不同黨派好友一定會打贏| 政治  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "最新民調領先李四川　蘇巧慧競辦：謹慎參考、不嘲諷對手",
+     "link": "https://www.ettoday.net/news/20260901/3229447.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-09-01T13:23:00+08:00",
+     "description": "信民協會今（1日）公布由民調專家戴立安設計的新北市長選情民調結果。在擔任新北市長適合度上，43.8%民眾認為民進黨參選人蘇巧慧很適合、40.6%民眾認為國民黨參選人李四川很適合；而在投票支持度上，35.2%會投給蘇、34.7%會投給李，蘇領先李0.5個百分點。對此，蘇巧慧競選辦公室發言人劉芳宇回應，團隊從不因民調贏嘲諷對手、民調落後批評民調機構，團隊對各家民調一向都是謹慎參考。 《詳全文...》",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -1489,7 +1660,75 @@
        "source": "unknown"
       },
       "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "與蘇巧慧民調麻花捲？李四川態度依舊 藍議員提盲點",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FYzhKMW5lY2tTWF8yRTJaVk8zN2theHRnSHpWTlIxQ3poZnJaUFFnTUZZZVktWnplalJoNnItaGlvb2RYQnR4aWFnWDBSSWdUZlFv0gFYQVVfeXFMUFdCQXNwVi1wRXFpNUp1eFlFTEZyc0ozeV9QcHdTa0JFZGgwZVJwY2Q3TWpwTDVhRHJQT1Y5bjBlTUl0OG5sbFBMb0JYTmJocFI0TGd1dzFJRg?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-09-01T12:49:08+08:00",
+     "description": "與蘇巧慧民調麻花捲？李四川態度依舊 藍議員提盲點  UDN",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "李四川指蘇巧慧對侯友宜先批後捧 態度180度大轉彎",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5559069",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-09-01T12:19:55+08:00",
+     "description": "國民黨新北市長參選人李四川1日舉行觀光政策說明會，被媒體問到對手蘇巧慧過去批評市長侯友宜施政沒有亮點，侯友宜昨在議會回應「社會自有公評」；不過蘇巧慧近期又打出「尊侯」策略，對於...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "蘇巧慧選前批侯、選舉尊侯　李四川：問她才會知道為何180度轉變",
+     "link": "https://www.ettoday.net/news/20260901/3229348.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-09-01T11:35:00+08:00",
+     "description": "民進黨新北市長參選人蘇巧慧近來頻打「尊侯」牌，但藍營則揭蘇屢抹黑侯、批侯施政沒亮點，蘇昨又說，10年中央和侯友宜領導的新北市府團隊一起努力下，新北確實建設有成長、進步非常多，又被解讀也要「尊朱」。對此，國民黨新北市長參選人李四川今（1日）說，蘇巧慧180度的轉變，可能也要只有問她才知道為什麼要這樣。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "信民民調／蘇巧慧、李四川激戰　選舉關鍵在蔡英文、侯友宜人氣PK",
+     "link": "https://www.ettoday.net/news/20260901/3229313.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-09-01T11:08:00+08:00",
+     "description": "信民協會今（1日）公布新北市長選情民調結果。在擔任新北市長適合度上，43.8%民眾認為民進黨參選人蘇巧慧很適合、40.6%民眾認為國民黨參選人李四川很適合；而在投票支持度上，35.2%會投給蘇、34.7%會投給李，蘇領先李0.5個百分點。民調專家戴立安指出，民調顯示，民進黨台北市長參選人沈伯洋對蘇選情無幫助；蔣萬安的外溢效應也不是關鍵。這次新北市長選舉，除了是蘇與李的實力比拚，也是前總統蔡英文和新",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
      }
     }
    ]
@@ -1687,198 +1926,6 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
-   "id": "030e57d5ffc2",
-   "title": "115年度自購、修繕住宅貸款利息補貼　9/1起受理申請",
-   "outlet_count": 9,
-   "outlets": [
-    "chinatimes",
-    "cna",
-    "ettoday",
-    "ltn",
-    "newtalk",
-    "nownews",
-    "pts",
-    "tvbs",
-    "udn"
-   ],
-   "article_count": 51,
-   "first_seen": "2026-08-30T00:56:07+08:00",
-   "last_updated": "2026-09-02T00:01:50+08:00",
-   "tags": [],
-   "articles": [
-    {
-     "title": "新聞分類總覽 - 2026-09-02",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBkVVJ5MTZvODFMdGI4SS04R1FyWEVVYjFsVG1rWERMSGZxeHZBblJHaUs1N0lyQm9XMTlTR2ZHUGpyN1RWSnpiVlo1YkszWG1VSHB5bzRBWQ?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-09-02T00:01:50+08:00",
-     "description": "新聞分類總覽 - 2026-09-02  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "高雄一個月下光整年雨量破紀錄恐怖災情曝雨彈升級!15縣市豪大雨【鄭明典解析】20260901",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6TVRiQWtOYjdBMWVaTlpRZ1Z3ZHVoUG1qUFczRjVDQndTekJESGRsWEdlQ09aSUEzWUlka3NvS1J5cFE2bUNNcjlvSlJqMlRFXzMxcWNR?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-09-01T22:05:41+08:00",
-     "description": "高雄一個月下光整年雨量破紀錄恐怖災情曝雨彈升級!15縣市豪大雨【鄭明典解析】20260901  TVBS新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "美國邀俄財長出席G20 引歐洲官員不滿",
-     "link": "https://news.pts.org.tw/article/825059",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-09-01T20:36:23+08:00",
-     "description": "20國集團「G20」財務部長與央行總裁會議，8月31日在美國北卡羅萊納州舉行，這次會議，美國邀請俄國財長參加會議，引發了歐洲官員的不滿，這也是俄烏戰爭爆發後，歐洲與俄羅斯代表在G20會議中第一次同時出席，而美國財政部拒絕某些特定媒體採訪，也引發了新聞自由的爭議。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "【0901 十點不一樣LIVE】衛星空照曝光！西藏吉隆口岸慘變廢墟 沙德爾「復活」路徑神鬼莫測",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Ec2JUVldxTGFOQl9Tb3poRnE0N1hUQ21FMXRJcnljWU9PTGRUbGU0VkxkZ2Y0cVZmcWNDLUk0WmRqOHd2YzlfdEY1dERKZmNqSHBUTXdR?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-09-01T19:37:09+08:00",
-     "description": "【0901 十點不一樣LIVE】衛星空照曝光！西藏吉隆口岸慘變廢墟 沙德爾「復活」路徑神鬼莫測  TVBS新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "天氣/ 沙德爾颱風外圍 台東山區晚起防豪雨 ｜氣象主播 吳軒彤｜TVBS氣象站｜TVBS新聞20260901 @TVBSNEWS01",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96VGFaOVhQbVdOSXlEWS0ybkdNRU00M3FPUm5CUDdpaDEzaDR2NGZSc1IxeVJFdmVreTFxaUFLUkZqMDFWTGRfZXJXOEdaUFhBSGE2WVl3?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-09-01T17:31:38+08:00",
-     "description": "天氣/ 沙德爾颱風外圍 台東山區晚起防豪雨 ｜氣象主播 吳軒彤｜TVBS氣象站｜TVBS新聞20260901 @TVBSNEWS01  TVBS新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "天氣/ 沙德爾颱風外圍 台東山區晚起防豪雨 ｜氣象主播 吳軒彤｜TVBS氣象站｜TVBS新聞20260901 @TVBSNEWS01",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcE9IX0NURjdmMWZESG8wZ1FNX1ZEbDBrbjFacWxxdGlvaDlWS2xJT0k5VEZpandieHBJZnN5Zi04LTV3aGJsMkh4cEJZTmhXSEJOeVdYcnhtdkZmQ2RrZjhYQkd4VkoxMlpqdFFtX0F1Z2NpOVFfX1FUaTZSOW5uVkMtdEdkR3Jyd1o2dERLUnA?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-09-01T17:31:38+08:00",
-     "description": "天氣/ 沙德爾颱風外圍 台東山區晚起防豪雨 ｜氣象主播 吳軒彤｜TVBS氣象站｜TVBS新聞20260901 @TVBSNEWS01  TVBS新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "20260901 美國大峽谷- 大狗狂想曲",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81TlFGZFRlR1Q2cnRQZmp0YmdrZEYwbVR4aXZwYzl4NDdRVEpBaldrRnVCUDhtTzFjV0k4MFljbzcxQjE3eWF5UWZ0LWpyT1BibkE?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-09-01T16:54:38+08:00",
-     "description": "20260901 美國大峽谷- 大狗狂想曲  udn部落格",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "天氣/ 沙德爾復活 海警機率低 科羅旺遠洋北上｜氣象主播 吳軒彤｜午間氣象｜TVBS新聞20260901 @TVBSNEWS01",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02MUZGRHpsbm1EQlBObzZTVlJwa2dLQ1VuQVNjRnVSdzBoV3FXeDZ3Zmw2a2NZa1FUSjh0UGYtYkhZUFpKc2VtZEFmcUZuak5RNHREVXR3?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-09-01T14:56:51+08:00",
-     "description": "天氣/ 沙德爾復活 海警機率低 科羅旺遠洋北上｜氣象主播 吳軒彤｜午間氣象｜TVBS新聞20260901 @TVBSNEWS01  TVBS新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "USB 2.0 | 搜尋標籤",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBsS1RzNEE0VmJkNTZKZUZFODBBUXA1YkFWSHpfeFlVeW0tVFdDR1Y0ZzIzbjZEb3p0b3ZyWTNObkd5aVR0ZWd3b25lLXlKRGxm?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-09-01T13:14:47+08:00",
-     "description": "USB 2.0 | 搜尋標籤  udn科技玩家",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "天氣/沙德爾最快今復活! 中南部+東部豪雨連炸到週四紫爆區域一次看｜氣象主播簡雅婷｜早安氣象｜TVBS新聞 20260901 @TVBSNEWS01 │ TVBS新聞網",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DX1NRQVd5Vk5acWFpMjFVakNaWDdpdWZqTjJzQmN0RTluSDA2LVlQVEpWbC0yc0p0Ylg3ZjBTSU9qbmZ3ZmRYMXlZdnZjZUl4OXhpRlh3?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-09-01T08:42:30+08:00",
-     "description": "天氣/沙德爾最快今復活! 中南部+東部豪雨連炸到週四紫爆區域一次看｜氣象主播簡雅婷｜早安氣象｜TVBS新聞 20260901 @TVBSNEWS01 │ TVBS新聞網  TVBS新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -3281,9 +3328,9 @@
    "first_seen": "2026-08-31T11:21:06+08:00",
    "last_updated": "2026-09-01T05:30:00+08:00",
    "tags": [
-    "衛福部副研究",
+    "福部副研究員",
     "共諜",
-    "求刑"
+    "馬德"
    ],
    "articles": [
     {
@@ -3477,7 +3524,7 @@
    "first_seen": "2026-08-31T04:47:00+08:00",
    "last_updated": "2026-08-31T20:29:54+08:00",
    "tags": [
-    "個月以來首度",
+    "一個月以來首",
     "伊朗火箭發射",
     "荷莫茲海峽"
    ],
@@ -3652,6 +3699,198 @@
       },
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    }
+   ]
+  },
+  {
+   "id": "0cb51c89f991",
+   "title": "共諜？北車驚見男子啟動「2戰區光合系統」　林楚茵：國安單位應調查",
+   "outlet_count": 7,
+   "outlets": [
+    "chinatimes",
+    "ettoday",
+    "mirror",
+    "setn",
+    "storm",
+    "tvbs",
+    "udn"
+   ],
+   "article_count": 89,
+   "first_seen": "2026-08-30T14:09:00+08:00",
+   "last_updated": "2026-09-02T01:00:57+08:00",
+   "tags": [
+    "相關報導"
+   ],
+   "articles": [
+    {
+     "title": "中國疆域相關報導",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5mY2NxUUFVVFBtbTdzN1BMQjk1V2pDanRLN0lGNTZEUWZQZ0JRQndYQU9Ba3QtZ0E3UFM1UkJ2UmZSYWdZTzZFQw?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-09-02T01:00:57+08:00",
+     "description": "中國疆域相關報導  setn.com",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "手工丸子相關報導",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBScXVha2sxbF9nMlg3QUJ6UjgybV8zTnhidHNoUEFGYkFUaGIxOG5KbGhMd2dCVjdFSm9kMU1kRlRlV2tQT2lhSjBOVXg?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-09-02T00:37:21+08:00",
+     "description": "手工丸子相關報導  setn.com",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "發展夥伴相關報導",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1FbTg1ZmNyYmJlQ2tfNFJTWGFxZU1mR2F4RGc1Y3pvcC1URC1yUHhpckJSMnRvdG1TbWxqbGNSTmR5TFVoTHUxLQ?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-09-01T23:36:03+08:00",
+     "description": "發展夥伴相關報導  setn.com",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "政治解決相關報導",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5rYkR3cVF3aUNPWmFlOXI0R29Wb0tOYkJOamo2elZBRUQ3N1o4TDRGMmR2T08tYXUtVmVGUlhwaTAtZ3NiUDlZNA?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-09-01T23:14:20+08:00",
+     "description": "政治解決相關報導  setn.com",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "華映相關報導",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9qckN3a0VrcVNCcWJ3eTZaRnRwbEZadm14dzF2d3FqQmg4aXNqSzAwendfbVJtbEVSaW90MmxDUTVHRk5RQ1JtTkhhT0JlUQ?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-09-01T22:58:37+08:00",
+     "description": "華映相關報導  setn.com",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "養身之道相關報導",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE14bTF2cDBWRi1XMU9uN1BuOC13Y0cydFlPNHdlXzVhbXdYZHdCNnlSTlpZOTdYSkFfVk54TUJGOTdKc2UtMER3Mw?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-09-01T22:34:46+08:00",
+     "description": "養身之道相關報導  setn.com",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "女外交官相關報導",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB6QkczTHFuOEJhTVAtS0dVTjdfSFRPUnBVSk4wcXg5SlE4cGY0MnNfdlU1ZGwxQk5vSDlrSF95NUhTcTFNTDNTNDh2TG9VQQ?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-09-01T22:20:31+08:00",
+     "description": "女外交官相關報導  三立新聞網SETN.com",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "返老還童相關報導",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9aSDJJN29jRmlVVDRmWmw2ZzBRQkJVSzZFNmVicWxkMWgxUy1FaG5vV2Jxc1gxUzFkdEJTem9oUEtMLTBpRDBHM1Z3?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-09-01T22:16:01+08:00",
+     "description": "返老還童相關報導  setn.com",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "合夥契約相關報導",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1maV9sLVdJM0E2MC1qTGJRc3N3eXRYVTdWTmprR3U3Yk9sSzVtQVJFVUU4U2dGY1l1Zkl1amxlZDdWb3dBMUVRUg?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-09-01T21:25:11+08:00",
+     "description": "合夥契約相關報導  setn.com",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "營建企業相關報導",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBQSnVkdDgxcU1uWVlIUDNIa0k4S19EVmhEZ3JnZVhTZ201MVpaTktxYldlX2dPVWFLekFIVFR4YkpPZXNlR252Wg?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-09-01T21:22:37+08:00",
+     "description": "營建企業相關報導  setn.com",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -3846,198 +4085,6 @@
       },
       "acquisition": "rss",
       "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    }
-   ]
-  },
-  {
-   "id": "0cb51c89f991",
-   "title": "共諜？北車驚見男子啟動「2戰區光合系統」　林楚茵：國安單位應調查",
-   "outlet_count": 7,
-   "outlets": [
-    "chinatimes",
-    "ettoday",
-    "mirror",
-    "setn",
-    "storm",
-    "tvbs",
-    "udn"
-   ],
-   "article_count": 71,
-   "first_seen": "2026-08-30T14:09:00+08:00",
-   "last_updated": "2026-09-01T22:20:31+08:00",
-   "tags": [
-    "相關報導"
-   ],
-   "articles": [
-    {
-     "title": "女外交官相關報導",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB6QkczTHFuOEJhTVAtS0dVTjdfSFRPUnBVSk4wcXg5SlE4cGY0MnNfdlU1ZGwxQk5vSDlrSF95NUhTcTFNTDNTNDh2TG9VQQ?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-09-01T22:20:31+08:00",
-     "description": "女外交官相關報導  三立新聞網SETN.com",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "營建企業相關報導",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBQSnVkdDgxcU1uWVlIUDNIa0k4S19EVmhEZ3JnZVhTZ201MVpaTktxYldlX2dPVWFLekFIVFR4YkpPZXNlR252Wg?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-09-01T21:22:37+08:00",
-     "description": "營建企業相關報導  三立新聞網SETN.com",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "賀川滋子相關報導",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pcUpBak1OdDF1TmZCcGNFTVNHY0h5dURFaWtHdU9mQ1ZHRUVQcktMeVNwc0xhcWU1VVFYVGJuSm40OWlmdVRUTQ?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-09-01T21:09:25+08:00",
-     "description": "賀川滋子相關報導  三立新聞網SETN.com",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "諾伊達相關報導",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1wRk9JWWl5UnBmZUp1dllMbzR6bW1DMjgtSmpZVk9OaHpfUUxKRVlhQlliQUVDVDdJXy1VaUJKbWhjQTZGWHVuaA?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-09-01T21:02:15+08:00",
-     "description": "諾伊達相關報導  三立新聞網SETN.com",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "住宅產業相關報導",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE41U21fR0oyWU5FSEQ3bEVRUDFvb1V2bXF3SDRKWkRFdWNZT05wdUhzWXQ4c2hBODVGb2VQdHp1ZHdQaHFlcld2aA?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-09-01T21:00:35+08:00",
-     "description": "住宅產業相關報導  三立新聞網SETN.com",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "隱形失業相關報導",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1TTkIzZFlkWlZpdVkycFVjYlZEM1J3aVVmZVk1N1V4cHh3TlNuVWxrYU1ad25XSXBNcGRITVk3Q3ZkOThITWRXMw?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-09-01T20:45:08+08:00",
-     "description": "隱形失業相關報導  三立新聞網SETN.com",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "瑪拉梅普爾斯相關報導",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBBNzdHc2dyUE1nakNGQ1FraThWVmF2bEFpai12YVE5QlBKM3pnMU4zeFYtUEd5bzktWGx1cVdGRnpVa2l4N2VKUA?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-09-01T20:38:40+08:00",
-     "description": "瑪拉梅普爾斯相關報導  三立新聞網SETN.com",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "對話跡象相關報導",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VdVV3VnRJZENLdS01Um1CanRYZklsUjRnMzlEeVlRakFEWWFfVzU2TzFRY0prRGp2NXExVzV5cTkyRlE3NDFUeQ?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-09-01T20:04:17+08:00",
-     "description": "對話跡象相關報導  三立新聞網SETN.com",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "低薪壓力相關報導",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBScEJzRXpKZThQNVFHM01lMUxZallfQWQ2Z3FncnBmblJCYjNEdVAtSEtJc2htNGVsZW5GeURMMG1aaFhCRWo0Sg?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-09-01T19:19:12+08:00",
-     "description": "低薪壓力相關報導  三立新聞網SETN.com",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "美麗相關報導",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9XMDZVMUhDVmdyRkhMdHVDR3cyQ0NIbnRmYjBobjB2bFN5Vnc4R0hFb1BrZGVhdERnVDVWbmNEcDBuTGFGeHV3RHlFa3M?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-09-01T19:07:49+08:00",
-     "description": "美麗相關報導  三立新聞網SETN.com",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -4428,6 +4475,187 @@
       },
       "acquisition": "rss",
       "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    }
+   ]
+  },
+  {
+   "id": "2904ebd8a32d",
+   "title": "大巨蛋美食街搶位爆鬥毆 兩男「筷子插頭」濺血送醫",
+   "outlet_count": 7,
+   "outlets": [
+    "ebc",
+    "ettoday",
+    "mirror",
+    "newtalk",
+    "setn",
+    "tvbs",
+    "udn"
+   ],
+   "article_count": 9,
+   "first_seen": "2026-08-31T06:54:00+08:00",
+   "last_updated": "2026-09-01T14:15:00+08:00",
+   "tags": [
+    "大巨蛋美食街",
+    "鋼筷",
+    "筷子"
+   ],
+   "articles": [
+    {
+     "title": "大巨蛋美食街搶位拿不鏽鋼筷爆頭　筷子男身分遭起底黑史曝光網友出征",
+     "link": "https://www.mirrormedia.mg/story/20260901web001",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-09-01T14:15:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "大巨蛋美食街爆全武行 男持鋼筷戳臉！身分遭起底",
+     "link": "https://news.ebc.net.tw/news/society/569072",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-08-31T22:30:31.877435+08:00",
+     "description": "台北市大巨蛋百貨才剛開幕，沒想到美食街卻傳出激烈衝突。兩名男子30日晚間疑因公共座位使用問題爆發口角，從爭執一路升級到拉扯、推擠，最後甚至演變成互毆。",
+     "category": "society",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "society",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "居服員遭木椅猛砸！鼻骨骨折又腦震盪 長照第一線職安危機浮現大巨蛋美食街爆鬥毆！佔位口角竟拿筷子打臉 男子滿臉濺血送醫",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lanNablhxWUtrTUpGeGJPalBtRmdPSE0wdi1IYTl0eTl4NXZ3cm1uVXE0bGV3aXY0TXpsandndXZFdTBJamJtZndySmRWUjJ2OEhDWlJ3?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-08-31T19:14:18+08:00",
+     "description": "居服員遭木椅猛砸！鼻骨骨折又腦震盪 長照第一線職安危機浮現大巨蛋美食街爆鬥毆！佔位口角竟拿筷子打臉 男子滿臉濺血送醫  TVBS新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "大巨蛋美食街搶座位互毆 男遭筷子「戳臉」滿地血",
+     "link": "https://news.ebc.net.tw/news/society/568955",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-08-31T18:29:17.985143+08:00",
+     "description": "台北大巨蛋百貨美食街爆發衝突，兩名民眾疑因搶公共座位，從拉扯、推擠演變成互毆，其中一人更持筷子攻擊，造成雙方擦挫傷。",
+     "category": "society",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "society",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "大巨蛋美食街流血鬥毆！不鏽鋼筷狠插頭 警揭糾紛原因 | 社會",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oWE84Tkk2MjJRd0RwV1Q0VFVHamlRYUs1WDJKLXp1Tms1eS1UNVk4M1NxQlhFenZqbEtUbTJ3YU94VjFGN0Q5UERmVlhIb05xemwydzZuZmRfdms?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-08-31T11:28:37+08:00",
+     "description": "大巨蛋美食街流血鬥毆！不鏽鋼筷狠插頭 警揭糾紛原因 | 社會  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "大巨蛋美食街爆衝突…鋼筷插人濺血　「包包占位」可以嗎？律師這麼說",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE05enNqejY4UTR3UzZqdU5FLUVWZFhKT1hMbEJhZ29ydWtIY2RpNjItdTR1c2FZTTRmNTFvY09aM1Ryd21XbkRwdmdR0gFMQVVfeXFMUFRfc0RKY3dOeENNTGYtTl9FUWlhMEhHSHpsY0tyNDkxY2JNMXZZVnk1S0JwWk9VR3J6U3ROb2FmMndLcS00eG1EZFIwcQ?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-08-31T10:45:40+08:00",
+     "description": "大巨蛋美食街爆衝突…鋼筷插人濺血　「包包占位」可以嗎？律師這麼說  三立娛樂星聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "大巨蛋美食街為搶位！他拿鐵筷「猛插對方頭部」濺血送醫　網驚：跟殺人沒兩樣",
+     "link": "https://www.mirrormedia.mg/story/20260831edi004",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-08-31T09:45:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "大巨蛋美食街爆衝突！2大叔爭位鋼筷+拳頭互毆　雙雙掛彩送醫",
+     "link": "https://www.ettoday.net/news/20260831/3228569.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-08-31T09:38:00+08:00",
+     "description": "30日晚間8時43分許，台北市大巨蛋百貨商場美食街發生肢體衝突事件，羅男（56歲）先將隨身物品放在用餐區空座椅後離開購買餐點，返回時發現遭王男（56歲）使用該座位，雙方進而發生口角，過程中王男手持美食街的鋼筷，起身攻擊對方，雙方爆發肢體衝突。警方獲報到場將兩人隔離，雙方均有擦挫傷並分別送醫，全案後續將依涉嫌傷害罪嫌調查偵辦。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "大巨蛋美食街搶位爆鬥毆 兩男「筷子插頭」濺血送醫",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByTlN0bm1lZHkwN3dZTlRyRXgtbF9Ba09hamZmM2poMDBWQk5IODBreDMtUC1pNE5sdVR4eUpuc3VwMHBEb21pbGx4cGt2SzUw0gFWQVVfeXFMTi1KZ3hFRDZMakN0bmp5aldpVHlsVGQ0bHRScmFrV0tUYXV3WFNIcFVVTjI0QjdYa3puOURQZjFXM2IzZDFYdmdWYlE0Q2xnMVlUcTg3Q0E?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-08-31T06:54:00+08:00",
+     "description": "大巨蛋美食街搶位爆鬥毆 兩男「筷子插頭」濺血送醫  UDN",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -4861,8 +5089,8 @@
    "last_updated": "2026-08-31T17:22:16+08:00",
    "tags": [
     "加入歐盟談判",
-    "重啟",
-    "冰島"
+    "冰島",
+    "重啟"
    ],
    "articles": [
     {
@@ -5415,6 +5643,171 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
+   "id": "0f5841bcb248",
+   "title": "排碳最少卻扛最重代價　尼泊爾洪災揭氣候不公傷口",
+   "outlet_count": 6,
+   "outlets": [
+    "cna",
+    "ettoday",
+    "ltn",
+    "newtalk",
+    "pts",
+    "setn"
+   ],
+   "article_count": 7,
+   "first_seen": "2026-08-30T05:47:00+08:00",
+   "last_updated": "2026-09-01T20:37:09+08:00",
+   "tags": [
+    "尼泊爾",
+    "洪災",
+    "國際"
+   ],
+   "claims": [
+    {
+     "type": "死亡人數",
+     "agree": false,
+     "outlet_count": 4,
+     "values": [
+      {
+       "value": "682",
+       "outlets": [
+        "ETtoday",
+        "三立新聞網",
+        "新頭殼"
+       ]
+      },
+      {
+       "value": "987",
+       "outlets": [
+        "中央社"
+       ]
+      }
+     ]
+    }
+   ],
+   "articles": [
+    {
+     "title": "尼泊爾洪災搜救行動持續 總理籲國際正視氣候正義問題",
+     "link": "https://news.pts.org.tw/article/825062",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-09-01T20:37:09+08:00",
+     "description": "喜馬拉雅山區洪災進入第7日，尼泊爾災區滿目瘡痍，搜救行動仍在持續，而在臨時安置中心，災民的生活也相當艱困，其中女性災民連基本衛生用品和隱私，而在中國西藏一側由官方救援力量主導，救援進度與災情資訊相對封閉。尼泊爾總理夏哈（Balendra Shah）則提出警告，這場災難再次凸顯氣候變遷下，喜馬拉雅地區面臨的風險，呼籲國際社會採取行動。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "邊境洪災釀逾千死　尼泊爾總理籲國際正視氣候災害",
+     "link": "https://www.cna.com.tw/news/aopl/202609010184.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-09-01T15:26:14+08:00",
+     "description": "（中央社加德滿都1日綜合外電報導）中國與尼泊爾邊境發生嚴重洪災，尼泊爾當局今天表示，尼泊爾境內至少987人死亡，使這場災難的死亡人數突破1000人。尼泊爾總理呼籲國際社會採取行動，正視氣候災害。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
+     }
+    },
+    {
+     "title": "排碳最少卻扛最重代價　尼泊爾洪災揭氣候不公傷口",
+     "link": "https://www.cna.com.tw/news/aopl/202609010103.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-09-01T12:31:18+08:00",
+     "description": "（中央社加德滿都31日綜合外電報導）中國與尼泊爾邊境日前發生洪災土石流釀嚴重死傷。人為氣候變遷加速冰川融化，讓貧困且排碳量極少的尼泊爾，在氣候發言權與所承受全球暖化慘痛代價之間不成比例。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
+     }
+    },
+    {
+     "title": "喜馬拉雅致命洪災沒完！舊湖剛縮小 衛星驚見「12萬㎡更大湖泊」",
+     "link": "https://news.ltn.com.tw/news/world/breakingnews/5556938",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-30T11:43:34+08:00",
+     "description": "喜馬拉雅山區冰川崩塌引發致命洪災後，搜救工作原以為危機稍微緩解，最新衛星影像卻發現新的警訊：原先堵塞河道形成的堰塞湖面積雖明顯縮小，但崩塌點下方又出現另一座面積超過12萬平方公...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "尼泊爾末日洪災682死！中國公布災難原因27處建築被夷為平地| 國際",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9UVVp5VlZ4V0xZZWJOcEd3NXZmU0Fibkk0c2ExQUllWVV0N3V4NW1JMENWX0g1bkFibXpoZk14RjlLTWx4Y3RiaA?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-08-30T09:09:00+08:00",
+     "description": "尼泊爾末日洪災682死！中國公布災難原因27處建築被夷為平地| 國際  三立新聞網SETN.com",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "尼泊爾洪災釀682死外長警告氣候變遷威脅加劇| 國際",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NU3lYUVVLV2w4VC12S2tPWGZ2N2FiNV95ZmtrRTY2MnJEVEkxWVJQbEFSaUp5bXB3QVpGYjR3bWx5dWN0QWdnOC0zNXNsQl9SUm5pVWdjTGVUYTA?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-08-30T06:57:16+08:00",
+     "description": "尼泊爾洪災釀682死外長警告氣候變遷威脅加劇| 國際  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "外長警告喜馬拉雅山區災害風險加劇！　尼泊爾致命洪災682死",
+     "link": "https://www.ettoday.net/news/20260830/3228078.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-08-30T05:47:00+08:00",
+     "description": "尼泊爾與中國西藏邊界26日發生致命洪災，目前已造成682人死亡、近3000人失蹤。尼泊爾外交部長坎乃爾（Shisir Khanal）29日警告，氣候變遷正加劇喜馬拉雅山區災害風險，呼籲國際社會共同保護當地生態系。\n 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
      }
     }
    ]
@@ -6266,168 +6659,6 @@
    ]
   },
   {
-   "id": "2904ebd8a32d",
-   "title": "大巨蛋美食街搶位爆鬥毆 兩男「筷子插頭」濺血送醫",
-   "outlet_count": 6,
-   "outlets": [
-    "ebc",
-    "ettoday",
-    "mirror",
-    "newtalk",
-    "setn",
-    "udn"
-   ],
-   "article_count": 8,
-   "first_seen": "2026-08-31T06:54:00+08:00",
-   "last_updated": "2026-09-01T14:15:00+08:00",
-   "tags": [
-    "大巨蛋美食街",
-    "鋼筷"
-   ],
-   "articles": [
-    {
-     "title": "大巨蛋美食街搶位拿不鏽鋼筷爆頭　筷子男身分遭起底黑史曝光網友出征",
-     "link": "https://www.mirrormedia.mg/story/20260901web001",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-09-01T14:15:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "大巨蛋美食街爆全武行 男持鋼筷戳臉！身分遭起底",
-     "link": "https://news.ebc.net.tw/news/society/569072",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-08-31T22:30:31.877435+08:00",
-     "description": "台北市大巨蛋百貨才剛開幕，沒想到美食街卻傳出激烈衝突。兩名男子30日晚間疑因公共座位使用問題爆發口角，從爭執一路升級到拉扯、推擠，最後甚至演變成互毆。",
-     "category": "society",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "society",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "大巨蛋美食街搶座位互毆 男遭筷子「戳臉」滿地血",
-     "link": "https://news.ebc.net.tw/news/society/568955",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-08-31T18:29:17.985143+08:00",
-     "description": "台北大巨蛋百貨美食街爆發衝突，兩名民眾疑因搶公共座位，從拉扯、推擠演變成互毆，其中一人更持筷子攻擊，造成雙方擦挫傷。",
-     "category": "society",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "society",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "大巨蛋美食街流血鬥毆！不鏽鋼筷狠插頭 警揭糾紛原因 | 社會",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oWE84Tkk2MjJRd0RwV1Q0VFVHamlRYUs1WDJKLXp1Tms1eS1UNVk4M1NxQlhFenZqbEtUbTJ3YU94VjFGN0Q5UERmVlhIb05xemwydzZuZmRfdms?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-08-31T11:28:37+08:00",
-     "description": "大巨蛋美食街流血鬥毆！不鏽鋼筷狠插頭 警揭糾紛原因 | 社會  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "大巨蛋美食街爆衝突…鋼筷插人濺血　「包包占位」可以嗎？律師這麼說",
-     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE05enNqejY4UTR3UzZqdU5FLUVWZFhKT1hMbEJhZ29ydWtIY2RpNjItdTR1c2FZTTRmNTFvY09aM1Ryd21XbkRwdmdR0gFMQVVfeXFMUFRfc0RKY3dOeENNTGYtTl9FUWlhMEhHSHpsY0tyNDkxY2JNMXZZVnk1S0JwWk9VR3J6U3ROb2FmMndLcS00eG1EZFIwcQ?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-08-31T10:45:40+08:00",
-     "description": "大巨蛋美食街爆衝突…鋼筷插人濺血　「包包占位」可以嗎？律師這麼說  三立娛樂星聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "大巨蛋美食街為搶位！他拿鐵筷「猛插對方頭部」濺血送醫　網驚：跟殺人沒兩樣",
-     "link": "https://www.mirrormedia.mg/story/20260831edi004",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-08-31T09:45:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "大巨蛋美食街爆衝突！2大叔爭位鋼筷+拳頭互毆　雙雙掛彩送醫",
-     "link": "https://www.ettoday.net/news/20260831/3228569.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-08-31T09:38:00+08:00",
-     "description": "30日晚間8時43分許，台北市大巨蛋百貨商場美食街發生肢體衝突事件，羅男（56歲）先將隨身物品放在用餐區空座椅後離開購買餐點，返回時發現遭王男（56歲）使用該座位，雙方進而發生口角，過程中王男手持美食街的鋼筷，起身攻擊對方，雙方爆發肢體衝突。警方獲報到場將兩人隔離，雙方均有擦挫傷並分別送醫，全案後續將依涉嫌傷害罪嫌調查偵辦。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "大巨蛋美食街搶位爆鬥毆 兩男「筷子插頭」濺血送醫",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByTlN0bm1lZHkwN3dZTlRyRXgtbF9Ba09hamZmM2poMDBWQk5IODBreDMtUC1pNE5sdVR4eUpuc3VwMHBEb21pbGx4cGt2SzUw0gFWQVVfeXFMTi1KZ3hFRDZMakN0bmp5aldpVHlsVGQ0bHRScmFrV0tUYXV3WFNIcFVVTjI0QjdYa3puOURQZjFXM2IzZDFYdmdWYlE0Q2xnMVlUcTg3Q0E?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-08-31T06:54:00+08:00",
-     "description": "大巨蛋美食街搶位爆鬥毆 兩男「筷子插頭」濺血送醫  UDN",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
    "id": "5d75ef43c7f6",
    "title": "輝達入股點火 聯發科開盤直鎖漲停",
    "outlet_count": 6,
@@ -6783,7 +7014,7 @@
    ]
   },
   {
-   "id": "1ba9c101f89e",
+   "id": "efd383dc49d5",
    "title": "「周氏蝦捲」遭倒上百隻活蟑螂 店家今自主停業持續清消",
    "outlet_count": 6,
    "outlets": [
@@ -6794,8 +7025,8 @@
     "newtalk",
     "pts"
    ],
-   "article_count": 10,
-   "first_seen": "2026-08-30T01:23:00+08:00",
+   "article_count": 8,
+   "first_seen": "2026-08-30T13:15:21+08:00",
    "last_updated": "2026-08-31T21:47:22+08:00",
    "tags": [
     "周氏蝦捲",
@@ -6959,40 +7190,6 @@
       "acquisition": "rss",
       "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
      }
-    },
-    {
-     "title": "堪比恐怖攻擊！安平老店周氏蝦捲遭潑「整袋活蟑螂」顧客急逃竄　警曝歹徒特徵全力追查",
-     "link": "https://www.mirrormedia.mg/story/20260830edi008",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-08-30T08:01:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "周氏蝦捲遭「潑上百隻蟑螂」嚇壞全場！警方回應了",
-     "link": "https://www.ettoday.net/news/20260830/3228073.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-08-30T01:23:00+08:00",
-     "description": "台南知名餐飲「周氏蝦捲」安平老店29日中午遭人惡意潑灑上百隻活蟑螂。台南市警察局第四分局29日證實，一名身穿雨衣的男子於中午12時30分許，提著滿裝活蟑螂的塑膠袋衝入店內，朝櫃檯狂甩後逃逸。警方獲報已成立專案小組，目前已掌握關鍵線索並鎖定涉案犯嫌，正全力追緝到案，同時嚴正呼籲民眾遇有糾紛應循合法途徑解決，切勿觸法。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
     }
    ]
   },
@@ -7014,7 +7211,7 @@
    "tags": [
     "曉陽地下道",
     "彰化",
-    "封閉"
+    "民生"
    ],
    "articles": [
     {
@@ -7120,6 +7317,199 @@
       },
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    }
+   ]
+  },
+  {
+   "id": "6795ffbae564",
+   "title": "九合一選舉登記首日　連江縣長王忠銘完成登記",
+   "outlet_count": 5,
+   "outlets": [
+    "cna",
+    "ettoday",
+    "ltn",
+    "pts",
+    "udn"
+   ],
+   "article_count": 12,
+   "first_seen": "2026-08-31T10:26:35+08:00",
+   "last_updated": "2026-09-01T23:39:00+08:00",
+   "tags": [
+    "登記",
+    "九合一",
+    "議員"
+   ],
+   "articles": [
+    {
+     "title": "九合一桃園選戰登記第2天　張善政委託登記14人登記參選市議員",
+     "link": "https://www.ettoday.net/news/20260901/3229785.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-09-01T23:39:00+08:00",
+     "description": "2026九合一大選候選人登記進入第2天，桃園市選舉委員會1日表示，現任桃園市長張善政委請競選總部主委黃敏恭及立委涂權吉代表辦理市長參選登記；市議員部分則有14人完成登記。民進黨方面，正國會「學長」、立委王義川則陪同7名子弟兵現身選委會，領表或完成登記，展現團隊作戰氣勢。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "九合一登記參選第2日 竹北藍白合仍未定案",
+     "link": "https://news.pts.org.tw/article/825067",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-09-01T20:46:56+08:00",
+     "description": "九合一選舉登記參選的第2日，藍白在宜蘭縣、台南市展現合作氣勢，不過對於竹北市長是否藍白合還是沒有定案。國民黨前立委林為洲透露，雙方傾向共推民眾黨邱臣遠、新竹縣長則是支持國民黨徐欣瑩，不過民眾黨主席黃國昌今（1）日表示，經詢問國民黨主席鄭麗文、藍營說林為洲說法不是真的，顯示竹北藍白合持續卡關中。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "地方選舉登記兩天 嘉義市2人選市長12人選議員",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5559810",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-09-01T19:40:02+08:00",
+     "description": "年底地方選舉本週進行登記，今天為第二天，嘉義市已有2人登記參選市長，昨天為黃宏成台灣阿成世界偉人財神總統，今天為前台北藝術大學校長陳愷璜，還有12人登記選市議員。\n\n陳愷璜...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "新北綠議員參選人運動裝造勢登記　藍白邀立委黨主席",
+     "link": "https://www.cna.com.tw/news/aipl/202609010312.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-09-01T18:57:49+08:00",
+     "description": "（中央社記者曹亞沿1日電）九合一選舉登記第2天，民進黨5位議員參選人換上運動裝「衝刺」登記，副秘書長何博文現身力挺子弟兵。國民黨參選人邀立委加持，民眾黨前後任主席柯文哲、黃國昌也替白營小雞拉抬聲勢。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
+     }
+    },
+    {
+     "title": "九合一選舉登記第2日　連江縣5人參選議員",
+     "link": "https://www.cna.com.tw/news/aloc/202609010308.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-09-01T18:47:40+08:00",
+     "description": "（中央社記者潘欣彤連江縣1日電）今天為九合一地方選舉登記第2日，根據連江縣選舉委員會統計，今天縣長無人登記，議員5人登記，皆為第一選區（南竿鄉）。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/local"
+     }
+    },
+    {
+     "title": "2026桃園市議員登記首日15人完成登記　黃婉如拚11連霸",
+     "link": "https://www.ettoday.net/news/20260831/3229094.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-08-31T22:25:00+08:00",
+     "description": "2026九合一大選，8月31日起迄9月4日受理候選人登記。桃園市選舉委員會表示，首日共有15名市議員候選人完成登記；尋求11連霸的市議員黃婉如，以為民服務跑第一信念，拔頭籌辦理登記。國民黨現任市議員詹江村因「武陵高中事件」，信守承諾未領取國民黨政黨推薦書，改以「無黨籍」登記。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "嘉義縣選戰登記起跑 首日2人選鄉鎮長、8人搶議員",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5558636",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-31T22:20:04+08:00",
+     "description": "地方選舉登記今天起跑，嘉義縣選舉委員會統計，今天（8月31日）共有2人登記參選鄉鎮市長，民進黨劉雅文登記參選溪口鄉長，民進黨葉孟龍登記參選新港鄉長，還有8人登記參選縣議員。\n...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "屏東公職登記首日 蔣月惠搶頭香 議員與鄉鎮長共24人完成",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5558594",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-08-31T21:15:19+08:00",
+     "description": "地方公職人員選舉今（31）日起受理候選人登記至9月4日，屏縣選委會統計，首日縣議員、鄉鎮長各有12人登記，村里長168人登記、鄉鎮市民代表77人登記。\n\n問鼎連任的無黨籍縣...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "新北九合一選舉登記首日　10人完成議員參選登記",
+     "link": "https://www.cna.com.tw/news/aipl/202608310306.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-08-31T21:14:20+08:00",
+     "description": "（中央社記者王鴻國新北31日電）新北市選委會今天進行九合一選舉參選登記，多政黨及派系參選人進行聯合造勢，氣氛熱烈，首日10人完成議員參選登記。",
+     "author": "王鴻國",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "王鴻國",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/local"
+     }
+    },
+    {
+     "title": "九合一選舉開放登記　苗縣首日113人完成",
+     "link": "https://www.cna.com.tw/news/aipl/202608310294.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-08-31T20:28:51+08:00",
+     "description": "（中央社記者管瑞平苗栗縣31日電）2026九合一選舉今天起開放登記，苗栗縣首日包括縣議員、鄉鎮市長、鄉鎮市民代表及村里長部分共有113人完成登記。縣長部分，國民黨鍾東錦、民進黨陳品安皆已擬定登記時間。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/local"
      }
     }
    ]
@@ -7317,199 +7707,6 @@
    ]
   },
   {
-   "id": "6795ffbae564",
-   "title": "九合一選舉登記首日　連江縣長王忠銘完成登記",
-   "outlet_count": 5,
-   "outlets": [
-    "cna",
-    "ettoday",
-    "ltn",
-    "pts",
-    "udn"
-   ],
-   "article_count": 11,
-   "first_seen": "2026-08-31T10:26:35+08:00",
-   "last_updated": "2026-09-01T20:46:56+08:00",
-   "tags": [
-    "登記",
-    "九合一",
-    "議員"
-   ],
-   "articles": [
-    {
-     "title": "九合一登記參選第2日 竹北藍白合仍未定案",
-     "link": "https://news.pts.org.tw/article/825067",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-09-01T20:46:56+08:00",
-     "description": "九合一選舉登記參選的第2日，藍白在宜蘭縣、台南市展現合作氣勢，不過對於竹北市長是否藍白合還是沒有定案。國民黨前立委林為洲透露，雙方傾向共推民眾黨邱臣遠、新竹縣長則是支持國民黨徐欣瑩，不過民眾黨主席黃國昌今（1）日表示，經詢問國民黨主席鄭麗文、藍營說林為洲說法不是真的，顯示竹北藍白合持續卡關中。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "地方選舉登記兩天 嘉義市2人選市長12人選議員",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5559810",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-09-01T19:40:02+08:00",
-     "description": "年底地方選舉本週進行登記，今天為第二天，嘉義市已有2人登記參選市長，昨天為黃宏成台灣阿成世界偉人財神總統，今天為前台北藝術大學校長陳愷璜，還有12人登記選市議員。\n\n陳愷璜...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "新北綠議員參選人運動裝造勢登記　藍白邀立委黨主席",
-     "link": "https://www.cna.com.tw/news/aipl/202609010312.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-09-01T18:57:49+08:00",
-     "description": "（中央社記者曹亞沿1日電）九合一選舉登記第2天，民進黨5位議員參選人換上運動裝「衝刺」登記，副秘書長何博文現身力挺子弟兵。國民黨參選人邀立委加持，民眾黨前後任主席柯文哲、黃國昌也替白營小雞拉抬聲勢。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
-     }
-    },
-    {
-     "title": "九合一選舉登記第2日　連江縣5人參選議員",
-     "link": "https://www.cna.com.tw/news/aloc/202609010308.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-09-01T18:47:40+08:00",
-     "description": "（中央社記者潘欣彤連江縣1日電）今天為九合一地方選舉登記第2日，根據連江縣選舉委員會統計，今天縣長無人登記，議員5人登記，皆為第一選區（南竿鄉）。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/local"
-     }
-    },
-    {
-     "title": "2026桃園市議員登記首日15人完成登記　黃婉如拚11連霸",
-     "link": "https://www.ettoday.net/news/20260831/3229094.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-08-31T22:25:00+08:00",
-     "description": "2026九合一大選，8月31日起迄9月4日受理候選人登記。桃園市選舉委員會表示，首日共有15名市議員候選人完成登記；尋求11連霸的市議員黃婉如，以為民服務跑第一信念，拔頭籌辦理登記。國民黨現任市議員詹江村因「武陵高中事件」，信守承諾未領取國民黨政黨推薦書，改以「無黨籍」登記。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "嘉義縣選戰登記起跑 首日2人選鄉鎮長、8人搶議員",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5558636",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-31T22:20:04+08:00",
-     "description": "地方選舉登記今天起跑，嘉義縣選舉委員會統計，今天（8月31日）共有2人登記參選鄉鎮市長，民進黨劉雅文登記參選溪口鄉長，民進黨葉孟龍登記參選新港鄉長，還有8人登記參選縣議員。\n...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "屏東公職登記首日 蔣月惠搶頭香 議員與鄉鎮長共24人完成",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5558594",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-08-31T21:15:19+08:00",
-     "description": "地方公職人員選舉今（31）日起受理候選人登記至9月4日，屏縣選委會統計，首日縣議員、鄉鎮長各有12人登記，村里長168人登記、鄉鎮市民代表77人登記。\n\n問鼎連任的無黨籍縣...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "新北九合一選舉登記首日　10人完成議員參選登記",
-     "link": "https://www.cna.com.tw/news/aipl/202608310306.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-08-31T21:14:20+08:00",
-     "description": "（中央社記者王鴻國新北31日電）新北市選委會今天進行九合一選舉參選登記，多政黨及派系參選人進行聯合造勢，氣氛熱烈，首日10人完成議員參選登記。",
-     "author": "王鴻國",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "王鴻國",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/local"
-     }
-    },
-    {
-     "title": "九合一選舉開放登記　苗縣首日113人完成",
-     "link": "https://www.cna.com.tw/news/aipl/202608310294.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-08-31T20:28:51+08:00",
-     "description": "（中央社記者管瑞平苗栗縣31日電）2026九合一選舉今天起開放登記，苗栗縣首日包括縣議員、鄉鎮市長、鄉鎮市民代表及村里長部分共有113人完成登記。縣長部分，國民黨鍾東錦、民進黨陳品安皆已擬定登記時間。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/local"
-     }
-    },
-    {
-     "title": "九合一選舉登記首日　連江縣長王忠銘完成登記",
-     "link": "https://www.cna.com.tw/news/aipl/202608310259.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-08-31T18:42:36+08:00",
-     "description": "（中央社記者潘欣彤連江縣31日電）今天是九合一選舉登記首日，爭取連任的國民黨籍連江縣長王忠銘上午在妻子陳順娥陪同下，完成縣長選舉登記。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
-     }
-    }
-   ]
-  },
-  {
    "id": "8456cf11a81d",
    "title": "西藏吉隆土石流災害已致16人遇難、546人失聯",
    "outlet_count": 5,
@@ -7685,7 +7882,7 @@
    "tags": [
     "聯發科",
     "魏鑫陽",
-    "美元"
+    "財經"
    ],
    "claims": [
     {
@@ -8042,9 +8239,9 @@
    "first_seen": "2026-09-01T00:51:54+08:00",
    "last_updated": "2026-09-01T08:27:49+08:00",
    "tags": [
-    "稱中國樂見全",
+    "樂見全美抵制",
     "川普力挺建造",
-    "全美抵制運動"
+    "資料中心"
    ],
    "articles": [
     {
@@ -9212,7 +9409,7 @@
     },
     {
      "title": "東京迪士尼傳火警！9台消防車趕赴現場　起火細節調查中",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BcnhNV0tqZW9OQ2ZnbEpOY0VLS05pYV9MUXBfQVVIeFctd1dscExUUjB5dTZFa3FUdEcyZnVBNXQ0Y1RXN1BrbDNIbWdfdjBHdlHSAVJBVV95cUxPQXJ4TVdLamVvTkNmZ2xKTmNFS0tOaWFfTFFwX0FVSHhXLXdXbHBMVFIweXU2RWtxVHRHMmZ1QTV0NGNUVzdQa2wzSG1nX3YwR3ZR?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBCUGR6SUNqN2dSRUxPZ09tUHN0NkF2Yl84RlVRNWpkOXI1QllkakNFT1llb3NXVFV1cFo1N1lHbmF2S2doME03ZzZ3TknSAVJBVV95cUxPQXJ4TVdLamVvTkNmZ2xKTmNFS0tOaWFfTFFwX0FVSHhXLXdXbHBMVFIweXU2RWtxVHRHMmZ1QTV0NGNUVzdQa2wzSG1nX3YwR3ZR?oc=5",
      "source": "nownews",
      "source_name": "今日新聞",
      "published": "2026-08-30T17:53:00+08:00",
@@ -9229,7 +9426,7 @@
     },
     {
      "title": "東京迪士尼傳火警！9台消防車趕赴現場　起火細節調查中",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBCUGR6SUNqN2dSRUxPZ09tUHN0NkF2Yl84RlVRNWpkOXI1QllkakNFT1llb3NXVFV1cFo1N1lHbmF2S2doME03ZzZ3TknSAVJBVV95cUxPQXJ4TVdLamVvTkNmZ2xKTmNFS0tOaWFfTFFwX0FVSHhXLXdXbHBMVFIweXU2RWtxVHRHMmZ1QTV0NGNUVzdQa2wzSG1nX3YwR3ZR?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BcnhNV0tqZW9OQ2ZnbEpOY0VLS05pYV9MUXBfQVVIeFctd1dscExUUjB5dTZFa3FUdEcyZnVBNXQ0Y1RXN1BrbDNIbWdfdjBHdlHSAVJBVV95cUxPQXJ4TVdLamVvTkNmZ2xKTmNFS0tOaWFfTFFwX0FVSHhXLXdXbHBMVFIweXU2RWtxVHRHMmZ1QTV0NGNUVzdQa2wzSG1nX3YwR3ZR?oc=5",
      "source": "nownews",
      "source_name": "今日新聞",
      "published": "2026-08-30T17:53:00+08:00",
@@ -9406,7 +9603,7 @@
    "last_updated": "2026-08-30T16:30:49.232803+08:00",
    "tags": [
     "金岳瀑布溯溪",
-    "獲已明顯死亡",
+    "尋獲已明顯死",
     "卡石縫"
    ],
    "articles": [
@@ -9496,6 +9693,97 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
+   "id": "33cc67ff54b0",
+   "title": "航空燃油漲！國籍航空客運燃油附加費連2個月調漲　長程變2673元",
+   "outlet_count": 4,
+   "outlets": [
+    "chinatimes",
+    "ebc",
+    "mirror",
+    "nownews"
+   ],
+   "article_count": 4,
+   "first_seen": "2026-09-01T11:28:17+08:00",
+   "last_updated": "2026-09-02T02:33:39.109948+08:00",
+   "tags": [
+    "燃油附加費",
+    "出國機票又",
+    "國籍航空"
+   ],
+   "articles": [
+    {
+     "title": "要買要快！出國機票又要漲價了 7日起燃油附加費調漲",
+     "link": "https://news.ebc.net.tw/news/living/569154",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-09-02T02:33:39.109948+08:00",
+     "description": "航空燃油價格上漲，國籍航空7日起調高國際航線燃油附加費，短程升至32.5美元、長程84.5美元，民航局要求業者充分揭露資訊。",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "出國票價又要漲了！華航、長榮航、星宇國際線燃油附加費9月7日起調漲8.33％",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONnp4bDVUVTdjNDNNYTF1Wnc2bXUwd2NBdlBwblB6Vkl1UkotbzFhQV93RlB2QUxOV19NTjlIaU5OeTZvc2dmb3ZSWFBpUDdIM1RPaS1QcXVDbEZ2eW9lVEhWSldkei1saVBBVmlpbVVZUVFJbHFhQjY4Q1R3S0M5ajNCRUlTLWN0TWV4elNfUnQ5UlFlUFR0Zi1vY1hhSUNkTy11eTdHVlhabEZoYlJUbEpVcnAwM2FYdFAyX25VbzRJX0M0Wm9IUUFseHlmeVFraVE?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-09-01T14:27:50+08:00",
+     "description": "出國票價又要漲了！華航、長榮航、星宇國際線燃油附加費9月7日起調漲8.33％  旺得富理財網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "出國機票又變貴了！國籍航空燃油附加費9/7調漲　最新價格曝光",
+     "link": "https://www.mirrormedia.mg/story/20260901edi058",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-09-01T12:21:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "航空燃油漲！國籍航空客運燃油附加費連2個月調漲　長程變2673元",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12ekt2ZUFmVlgxQ0JOVnJfbVR1aG9yMndtZy14cXJQVkRXbFpwblUweFlCV0FsanBGemppcXUyWlgxNFZEUXF1OUt2TVZpdTB4aHfSAVJBVV95cUxNdnpLdmVBZlZYMUNCTlZyX21UdWhvcjJ3bWcteHFyUFZEV2xacG5VMHhZQldBbGpwRnpqaXF1MlpYMTRWRFFxdTlLdk1WaXUweGh3?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-09-01T11:28:17+08:00",
+     "description": "航空燃油漲！國籍航空客運燃油附加費連2個月調漲　長程變2673元  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -9620,9 +9908,9 @@
    "first_seen": "2026-09-01T19:29:00+08:00",
    "last_updated": "2026-09-01T21:00:03+08:00",
    "tags": [
-    "北宜公路",
     "落石坍方",
-    "車道受阻搶通"
+    "北宜公路",
+    "道受阻搶通中"
    ],
    "articles": [
     {
@@ -9706,13 +9994,13 @@
     "newtalk",
     "nownews"
    ],
-   "article_count": 7,
+   "article_count": 8,
    "first_seen": "2026-08-30T10:16:20+08:00",
    "last_updated": "2026-09-01T18:35:18+08:00",
    "tags": [
     "登記參選",
-    "藍白合",
-    "李四川"
+    "李四川",
+    "藍白合"
    ],
    "articles": [
     {
@@ -9764,6 +10052,23 @@
       },
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "會陪李四川去登記新北市長嗎？ 侯友宜有最新回應| 政治",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PTC1MQTBkWDFzSUhrZTJnMU03cVduVFBXMDNKbWJQWkp0LXZKQlFPTjJTNXJXQUc4eGc0cHZqVkY3SFVMVERkc0pyN0dHal9IY0NoYjRsaUVocTg?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-09-01T16:31:36+08:00",
+     "description": "會陪李四川去登記新北市長嗎？ 侯友宜有最新回應| 政治  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
@@ -10077,239 +10382,6 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
-   "id": "d85e4cb86ae8",
-   "title": "尼泊爾毀滅性洪災增至919死4793失蹤　總理：難以統計傷亡財損",
-   "outlet_count": 4,
-   "outlets": [
-    "cna",
-    "ebc",
-    "ltn",
-    "tvbs"
-   ],
-   "article_count": 5,
-   "first_seen": "2026-08-31T13:53:42+08:00",
-   "last_updated": "2026-09-01T09:13:15.060426+08:00",
-   "tags": [
-    "泊爾洪災增至",
-    "棟建築毀壞",
-    "失蹤"
-   ],
-   "claims": [
-    {
-     "type": "死亡人數",
-     "agree": true,
-     "outlet_count": 3,
-     "values": [
-      {
-       "value": "939",
-       "outlets": [
-        "TVBS",
-        "東森新聞",
-        "自由時報"
-       ]
-      }
-     ]
-    }
-   ],
-   "articles": [
-    {
-     "title": "尼泊爾洪災增至939死3925失蹤 逾2500棟建築毀壞",
-     "link": "https://news.ebc.net.tw/news/world/569112",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-09-01T09:13:15.060426+08:00",
-     "description": "尼泊爾國家減災管理局（NDRRMA）表示，8月26日發生的洪災已造成939死，3925人失蹤；而歐盟氣候監測機構數據指出，這場災難已導致2500多棟建築毀壞。",
-     "category": "world",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "world",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "尼泊爾洪災增至939死3925失蹤 逾2500棟建築毀壞",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wTTMtNldiWXYtaWI3RHlvVWJmZDdmS0taOTNSYkNISGJDUzNYRmFfcTk3TEpRNFN3Yk1PejlfaW4xeTg5SDY0QXJPTGVQczg?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-09-01T02:32:00+08:00",
-     "description": "尼泊爾洪災增至939死3925失蹤 逾2500棟建築毀壞  TVBS新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "尼泊爾洪災增至939死3925失蹤　逾2500棟建築毀壞",
-     "link": "https://news.ltn.com.tw/news/world/breakingnews/5558697",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-09-01T01:06:03+08:00",
-     "description": "尼泊爾國家減災管理局（NDRRMA）表示，8月26日發生的洪災已造成939死，3925人失蹤；而歐盟氣候監測機構數據指出，這場災難已導致2500多棟建築毀壞。\n\n法新社報導，尼泊爾與西藏邊境...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "尼泊爾洪災增至939死3925失蹤　逾2500棟建築毀壞",
-     "link": "https://www.cna.com.tw/news/aopl/202609010004.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-09-01T00:53:39+08:00",
-     "description": "（中央社加德滿都31日綜合外電報導）尼泊爾國家減災管理局（NDRRMA）表示，8月26日發生的洪災已造成939死，3925人失蹤；而歐盟氣候監測機構數據指出，這場災難已導致2500多棟建築毀壞。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
-     }
-    },
-    {
-     "title": "尼泊爾毀滅性洪災增至919死4793失蹤　總理：難以統計傷亡財損",
-     "link": "https://www.cna.com.tw/news/aopl/202608310122.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-08-31T13:53:42+08:00",
-     "description": "（中央社加德滿都31日綜合外電報導）尼泊爾總理夏哈（Balendra Shah）表示，尼泊爾正面臨一場「難以想像且令人心碎」的災難，當局正努力評估這場毀滅性洪災造成的整體災情。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
-     }
-    }
-   ]
-  },
-  {
-   "id": "c209b341c93f",
-   "title": "赴中風險升高！國人失聯、遭留置或疑被關押426人 一週再增7例",
-   "outlet_count": 4,
-   "outlets": [
-    "ebc",
-    "mirror",
-    "newtalk",
-    "setn"
-   ],
-   "article_count": 5,
-   "first_seen": "2026-08-30T08:13:17+08:00",
-   "last_updated": "2026-08-30T14:38:46.675857+08:00",
-   "tags": [
-    "台灣人赴中",
-    "一週再增",
-    "失聯"
-   ],
-   "articles": [
-    {
-     "title": "台灣人赴中「426人失聯」 陸委會示警中國新規：進得去出不來",
-     "link": "https://news.ebc.net.tw/news/politics/568841",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-08-30T14:38:46.675857+08:00",
-     "description": "陸委會「國人赴陸港澳安全動態週報」最新統計顯示，截至8月27日，國人赴中國大陸失聯、遭留置盤查或疑遭限制人身自由者累計426人，較上週增加7人。",
-     "category": "politics",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "politics",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "赴中港澳真的安全嗎？中國新規九月上路 台灣人失聯關押單週再增7人",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FczlkTzZMVDlqS2FRTGpZY1R1Z3JvZ0lhZ1hNdzVEQWgxbGlmLWZzc2x1Qk9ELXZ3a0w5cExIamV1MjJydmRNMDVxQUhiUXV1MmpSNkNXSEkxY2s?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-08-30T14:26:56+08:00",
-     "description": "赴中港澳真的安全嗎？中國新規九月上路 台灣人失聯關押單週再增7人  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "一週再增7人！426名台灣人赴中國失聯、被關押陸委會說話了| 政治",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1nSVJHa1h0a3c4UXFRT0VZTlMxcVdIMmtSSHprVTBZcG14V18wRHp4a3QtNHhlYnhCX1VnaUdJZlFyUkpfdVQ3Yg?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-08-30T11:39:00+08:00",
-     "description": "一週再增7人！426名台灣人赴中國失聯、被關押陸委會說話了| 政治  三立新聞網SETN.com",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "一週再增7人！426名台灣人赴中失聯或遭關押　陸委會緊急提醒",
-     "link": "https://www.mirrormedia.mg/story/20260830edi002",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-08-30T10:29:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "赴中風險升高！國人失聯、遭留置或疑被關押426人 一週再增7例",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqRjJXYU1faWc5TFcxLXRKMmJPQ2NkODZyTlNFY2FMMGhRTUVqTzFsWF82Nm1DUUlXNGg5c3oxZzRMZXFLLVotRVhrR2lSVF81TkNjSWdhT2pZWGM?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-08-30T08:13:17+08:00",
-     "description": "赴中風險升高！國人失聯、遭留置或疑被關押426人 一週再增7例  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
