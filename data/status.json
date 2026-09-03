@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-03T22:30:25.473537+08:00",
+ "generated_at": "2026-09-04T00:29:43.539919+08:00",
  "sources": [
   {
    "id": "cna",
    "name": "中央社",
    "ok": true,
-   "count": 79,
+   "count": 78,
    "via_fallback": false,
    "errors": []
   },
@@ -20,9 +20,9 @@
   {
    "id": "udn",
    "name": "聯合新聞網",
-   "ok": false,
-   "count": 0,
-   "via_fallback": false,
+   "ok": true,
+   "count": 93,
+   "via_fallback": true,
    "errors": []
   },
   {
@@ -37,7 +37,7 @@
    "id": "chinatimes",
    "name": "中時新聞網",
    "ok": true,
-   "count": 100,
+   "count": 99,
    "via_fallback": true,
    "errors": []
   },
@@ -52,24 +52,24 @@
   {
    "id": "tvbs",
    "name": "TVBS",
-   "ok": false,
-   "count": 0,
-   "via_fallback": false,
+   "ok": true,
+   "count": 100,
+   "via_fallback": true,
    "errors": []
   },
   {
    "id": "setn",
    "name": "三立新聞網",
-   "ok": false,
-   "count": 0,
-   "via_fallback": false,
+   "ok": true,
+   "count": 97,
+   "via_fallback": true,
    "errors": []
   },
   {
    "id": "ebc",
    "name": "東森新聞",
    "ok": true,
-   "count": 8,
+   "count": 12,
    "via_fallback": false,
    "errors": []
   },
@@ -77,7 +77,7 @@
    "id": "mirror",
    "name": "鏡週刊",
    "ok": true,
-   "count": 134,
+   "count": 133,
    "via_fallback": false,
    "errors": []
   },
@@ -85,32 +85,32 @@
    "id": "twreporter",
    "name": "報導者",
    "ok": true,
-   "count": 2,
+   "count": 1,
    "via_fallback": false,
    "errors": []
   },
   {
    "id": "storm",
    "name": "風傳媒",
-   "ok": false,
-   "count": 0,
-   "via_fallback": false,
+   "ok": true,
+   "count": 99,
+   "via_fallback": true,
    "errors": []
   },
   {
    "id": "newtalk",
    "name": "新頭殼",
-   "ok": false,
-   "count": 0,
-   "via_fallback": false,
+   "ok": true,
+   "count": 100,
+   "via_fallback": true,
    "errors": []
   },
   {
    "id": "nownews",
    "name": "今日新聞",
-   "ok": false,
-   "count": 0,
-   "via_fallback": false,
+   "ok": true,
+   "count": 100,
+   "via_fallback": true,
    "errors": []
   }
  ]
