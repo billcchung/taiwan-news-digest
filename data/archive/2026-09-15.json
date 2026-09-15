@@ -1,6 +1,6 @@
 {
  "date": "2026-09-15",
- "generated_at": "2026-09-15T09:03:20.968229+08:00",
+ "generated_at": "2026-09-15T10:37:38.663270+08:00",
  "events": [
   {
    "id": "0f74b418b537",
@@ -20,11 +20,27 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 129,
+   "article_count": 128,
    "first_seen": "2026-09-12T12:20:16+08:00",
    "last_updated": "2026-09-15T08:50:17+08:00",
    "tags": [
     "新聞網"
+   ],
+   "claims": [
+    {
+     "type": "死亡人數",
+     "agree": true,
+     "outlet_count": 2,
+     "values": [
+      {
+       "value": "6",
+       "outlets": [
+        "TVBS",
+        "公視新聞"
+       ]
+      }
+     ]
+    }
    ],
    "articles": [
     {
@@ -42,6 +58,23 @@
       },
       "acquisition": "rss",
       "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "天氣/ 準颱風「杜鵑」將走「拋物線」威脅日本! 北東防大雨｜氣象主播謝宜倫｜早安氣象｜TVBS新聞 20260915",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VaHhmczg2dm1ld1F0UXhDbmdGa3lqUkdTd2pTQ3FibXVPQ3UtUjRxX29NTVU2Tzh6Rko3NjQ5UnhTVHljcTRnSDVXVFBSMElSVnpVd0dR?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-09-15T08:45:44+08:00",
+     "description": "天氣/ 準颱風「杜鵑」將走「拋物線」威脅日本! 北東防大雨｜氣象主播謝宜倫｜早安氣象｜TVBS新聞 20260915  TVBS新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
@@ -80,7 +113,7 @@
     },
     {
      "title": "機車自燃「杯水車薪」騎士急拿水壺滅火｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQemp2OW1OM3ZGV3JOSjAwU0VVTTI0MHR0NlBvYzBzLXJFSHdUdWdra0VHQjk5bWNEempTSGJ0eTQwQVgtdERaTHI2Ym0xMC1sT1VhS181eDlvaFIwQ2ZvUkR6Z0R3VVlrWER1YXpCUXdNdlg3WmRBQ3pfZnd3d3RWaHFhTnpkZndqN0I5bS1JMi0?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UY1l0eXhsc2pFVmltLWZXZkR2NklRQmM3NHFmTG5EVWV4M2hqcDdfX3F4TjV0WTliU3lfeGV0NFRteXowUm1YNU5zRm1UUmtOQ0lyT2N3?oc=5",
      "source": "tvbs",
      "source_name": "TVBS",
      "published": "2026-09-14T23:11:13+08:00",
@@ -97,7 +130,7 @@
     },
     {
      "title": "機車自燃「杯水車薪」騎士急拿水壺滅火｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UY1l0eXhsc2pFVmltLWZXZkR2NklRQmM3NHFmTG5EVWV4M2hqcDdfX3F4TjV0WTliU3lfeGV0NFRteXowUm1YNU5zRm1UUmtOQ0lyT2N3?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQemp2OW1OM3ZGV3JOSjAwU0VVTTI0MHR0NlBvYzBzLXJFSHdUdWdra0VHQjk5bWNEempTSGJ0eTQwQVgtdERaTHI2Ym0xMC1sT1VhS181eDlvaFIwQ2ZvUkR6Z0R3VVlrWER1YXpCUXdNdlg3WmRBQ3pfZnd3d3RWaHFhTnpkZndqN0I5bS1JMi0?oc=5",
      "source": "tvbs",
      "source_name": "TVBS",
      "published": "2026-09-14T23:11:13+08:00",
@@ -147,46 +180,29 @@
      }
     },
     {
+     "title": "印尼渡輪爪哇海翻覆意外 已知6死129人失聯",
+     "link": "https://news.pts.org.tw/article/827053",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-09-14T20:53:24+08:00",
+     "description": "東南亞再度發生船難，印尼一艘渡輪在週日（13日）凌晨遭遇風浪，船身被打翻沉沒。船上的200多人當中，不到一半獲救，目前至少已經有6人確定死亡，多達129人下落不明，搜救行動還在持續進行。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
      "title": "61歲男帶120萬返鄉上山採牛樟「人間蒸發」 弟懸賞30萬尋人:恐遭不測｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZY1ZUdzlPaDUzV09uejV2bHZyZGprc05KdW9UbVVoS1I4YWpSNzZoSmdLOWkwX0V2d0hiVEJfQkRQODRWdXpGVWZ2VFQ5N00wZkJucHhB?oc=5",
      "source": "tvbs",
      "source_name": "TVBS",
      "published": "2026-09-14T19:11:05+08:00",
      "description": "61歲男帶120萬返鄉上山採牛樟「人間蒸發」 弟懸賞30萬尋人:恐遭不測｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網  TVBS新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "快篩「陽」尿檢陰性不起訴 控遭扣牌難領回｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MRlVUV0NhYS1pV3Yya3dWQzBiS3JPSlRnQmgyM09hTTRoNXdieV9fbVpWcGk3LXZFbFNxUmIwX2xuOEVpSkVrcGpWa214U1ktRWhDVy1B?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-09-14T19:07:49+08:00",
-     "description": "快篩「陽」尿檢陰性不起訴 控遭扣牌難領回｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網  TVBS新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "天氣/準颱風杜鵑週末逼近日本基北宜今晚雨大 明擴及桃｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QRHlBalk0NEZlZnJ6cWFPWlpkRF9NN0hDRXhTLWFSSXRCdFpScEh6cWJmVkloZjBteTR0TVQ2X3lyVWhya0FkVE1LVUZLMzNmYlF2aGd3?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-09-14T19:06:09+08:00",
-     "description": "天氣/準颱風杜鵑週末逼近日本基北宜今晚雨大 明擴及桃｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網  TVBS新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -400,6 +416,208 @@
    ]
   },
   {
+   "id": "186b979055ae",
+   "title": "推崇蕭美琴為爭取民主榜樣　歐洲議會副議長盼訪台延續合作【專訪】",
+   "outlet_count": 10,
+   "outlets": [
+    "chinatimes",
+    "cna",
+    "ebc",
+    "ettoday",
+    "ltn",
+    "mirror",
+    "newtalk",
+    "pts",
+    "setn",
+    "storm"
+   ],
+   "article_count": 28,
+   "first_seen": "2026-09-12T13:12:48+08:00",
+   "last_updated": "2026-09-15T09:37:38+08:00",
+   "tags": [
+    "蕭美琴",
+    "義大利",
+    "訪義"
+   ],
+   "articles": [
+    {
+     "title": "蕭副總統義大利演說　謝志偉：疑似中國人員盯場情蒐",
+     "link": "https://www.cna.com.tw/news/aipl/202609150034.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-09-15T09:37:38+08:00",
+     "description": "（中央社台北15日電）副總統蕭美琴結束義大利行程返台，駐歐盟代表謝志偉透露，蕭副總統演講當天，一位亞洲面孔女子提前3小時到會場低著頭滑手機，自稱是下一場的清潔工，但維安人員強調活動絕未配置清潔工，看來「世界都在看台灣，中國也派了人來看」。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
+     }
+    },
+    {
+     "title": "蕭副總統訪義　法國議員挺：台灣有自己的領袖訪歐無可爭論",
+     "link": "https://www.cna.com.tw/news/aipl/202609150019.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-09-15T08:12:05+08:00",
+     "description": "（中央社記者曾依璇巴黎14日專電）副總統蕭美琴日前應邀赴義大利發表演說。法國國民議會議員馬蒂諾表示，台灣人有自己的領袖，訪歐無可爭論；議員聖珀也說，歐盟國家應與民主政體團結一致，並承擔這個選擇。",
+     "author": "曾依璇",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "曾依璇",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
+     }
+    },
+    {
+     "title": "蕭副總統訪義　美國務院：台灣和各國關係帶來益處",
+     "link": "https://www.ettoday.net/news/20260915/3237472.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-09-15T05:59:00+08:00",
+     "description": "副總統蕭美琴日前應邀出席在義大利舉行的「文托泰內歐洲自由與民主論壇」，一年內兩度訪歐。美國國務院於美東時間14日回覆中央社記者提問表示，台灣和世界各國的關係，「為那些國家的公民帶來重大益處，包括歐洲在內」。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "出席義大利論壇返國 蕭美琴：處境再難 台灣勇敢與世界同行",
+     "link": "https://news.ltn.com.tw/news/politics/paper/1770673",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-09-15T05:30:00+08:00",
+     "description": "〔記者陳昀／台北報導〕副總統蕭美琴出訪義大利參加「文托泰內歐洲自由與民主論壇」，昨天清晨返抵國門。她表示，此行最大的意義在於，讓台灣的聲音在深具歷史意義的地方被更多人聽見，她也想傳達一個堅定的訊息——即使處境再艱難，台灣都將繼續勇敢與世界同行。 \n\n文托泰內宣言 歐盟啟蒙地\n\n蕭美琴表示，她…",
+     "author": "陳昀",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "陳昀",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "蕭美琴出訪義大利》賴：走向世界是台灣天賦權利",
+     "link": "https://news.ltn.com.tw/news/politics/paper/1770739",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-09-15T05:30:00+08:00",
+     "description": "〔記者陳昀、黃靖媗／台北報導〕副總統蕭美琴低調出訪義大利，出席第二屆「文托泰內歐洲自由與民主論壇」，昨天清晨完成任務返抵國門。總統賴清德隨後發聲力挺，強調台灣是世界的一員，走向世界、和世界交朋友，本來就是台灣人民不可剝奪的天賦權利，「我們有權，也會持續爭取國際交流合作的機會，讓世界看見台灣」。\n\n…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "與世界同行 蕭美琴：台灣聲音不應消失",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1nVHVQU0pIMzBCZlFLajdKUHFQdEU0UUo3VWtCQXdLNk54MURBWlhvWW5uZEM1V2J5dTdtTnI2VU9qRGtYcERFeFc1bWlQMWw5RjRENkdEaTR2NGNOc2xhUkd4a0RFUUtuWHJ3?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-09-15T04:10:00+08:00",
+     "description": "與世界同行 蕭美琴：台灣聲音不應消失  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "蕭副總統訪義大利　美國務院：台灣和各國關係帶來益處",
+     "link": "https://www.cna.com.tw/news/aipl/202609150007.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-09-15T02:39:29+08:00",
+     "description": "（中央社台北15日電）副總統蕭美琴日前應邀出席在義大利舉行的「文托泰內歐洲自由與民主論壇」，一年內兩度訪歐。美國國務院於美東時間14日回覆中央社記者提問表示，台灣和世界各國的關係，「為那些國家的公民帶來重大益處，包括歐洲在內」。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
+     }
+    },
+    {
+     "title": "歐洲議會副議長轉貼賴總統發文：堅定站在自由民主一方",
+     "link": "https://news.ebc.net.tw/news/politics/571281",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-09-14T22:31:29.425848+08:00",
+     "description": "賴清德今感謝歐洲議會副議長皮齊耶諾邀蕭美琴出席文托泰內論壇，皮齊耶諾強調歐洲議會堅定支持自由民主，台歐合作持續深化。",
+     "category": "politics",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "politics",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "轉貼賴清德貼文　歐洲議會副議長皮齊耶諾：很榮幸能接待蕭美琴副總統",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBDQ21hcTZCelRwU3dIT2NMU2l4a1k2Ym54Y3hFakd6ZGtZa1l0NDh5Y01HRXZpV2hLZktvdXJoenNjT09ndTNjLdIBTEFVX3lxTFBhaFc2UnQtUUcyX2JmVWlRWkVrdWVaVDJCSlhMZ1MtWHc1R0JpN3dwRGFjNU5JUGhqdW9TMlBjOU4xYk1HVzBObzBtMjM?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-09-14T21:35:00+08:00",
+     "description": "轉貼賴清德貼文　歐洲議會副議長皮齊耶諾：很榮幸能接待蕭美琴副總統  setn.com",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "歐洲議會副議長轉貼賴總統發文　強調堅定站在自由民主一方",
+     "link": "https://www.cna.com.tw/news/aipl/202609140265.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-09-14T20:39:07+08:00",
+     "description": "（中央社記者陳韻聿倫敦14日專電）總統賴清德今天在社群媒體X貼文，感謝歐洲議會副議長皮齊耶諾邀請副總統蕭美琴出席「文托泰內歐洲自由與民主論壇」。皮齊耶諾隨後轉貼賴總統貼文，並表示歐洲議會永遠必須「堅定站在自由與民主的一方」。",
+     "author": "陳韻聿",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "陳韻聿",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
+     }
+    }
+   ]
+  },
+  {
    "id": "0c88ead464b6",
    "title": "竹北藍白合破局　柯文哲籲慎防外溢效應",
    "outlet_count": 10,
@@ -584,6 +802,204 @@
      "source_name": "中時新聞網",
      "published": "2026-09-13T21:34:29+08:00",
      "description": "鍾東錦競選總部成立 鄭麗文、柯文哲都到場力挺  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
+   "id": "e0aa1a36a6ea",
+   "title": "北市藍白合首場造勢　蔣萬安再強調共同目標藍白席次最大化",
+   "outlet_count": 9,
+   "outlets": [
+    "chinatimes",
+    "cna",
+    "ebc",
+    "ettoday",
+    "ltn",
+    "mirror",
+    "newtalk",
+    "nownews",
+    "storm"
+   ],
+   "article_count": 23,
+   "first_seen": "2026-09-12T10:41:08+08:00",
+   "last_updated": "2026-09-15T10:26:42+08:00",
+   "tags": [
+    "在野大聯盟",
+    "盧秀燕"
+   ],
+   "articles": [
+    {
+     "title": "盧秀燕喊組「在野大聯盟」 陳培瑜點名藍營5大咖：搶的都是2028",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tRWdIT2VVZ3cyTGlVR2c5U3VTSXo3OUxYTWhYSFN5MDhMaHVpaFdxcTdmVGZpMmtFWVhuQTM1UlJjaXVRYXZYdlN6dGI3NE9UbTZndk9ZbjdidkE?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-09-15T10:26:42+08:00",
+     "description": "盧秀燕喊組「在野大聯盟」 陳培瑜點名藍營5大咖：搶的都是2028  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "搶攻嘉義縣銀髮票！在野大聯盟吳品叡推「敬老三好」",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5574063",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-09-15T08:46:39+08:00",
+     "description": "年底地方選舉選情火熱，「在野大聯盟」無黨籍嘉義縣長參選人、朴子市長吳品叡今天宣布推出「敬老三好」政策，照顧長者福利，以「好健康」、「好出門」及「好好吃」，從健康、交通到飲食，回...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "盧提在野大聯盟 引爆藍小雞危機感",
+     "link": "https://news.ltn.com.tw/news/politics/paper/1770726",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-09-15T05:30:00+08:00",
+     "description": "黨內大咖為他黨參選人站台 基層要求黨中央處理\n〔記者蘇金鳳、何玉華／綜合報導〕年底大選進入倒數七十四天，國民黨台中市長盧秀燕提出「在野大聯盟」，台北市長蔣萬安也表示認同，兩人及國民黨台南市長參選人謝龍介近日分別為民眾黨及無黨籍議員參選人站台，引發藍營小雞不滿及危機感，要求黨中央處理；在「竹北藍白分…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "盧秀燕再談「在野大聯盟」喊別讓綠營一黨「超級大」",
+     "link": "https://news.ebc.net.tw/news/politics/571263",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-09-15T00:29:18.583538+08:00",
+     "description": "藍白在竹北市選舉合作破局，國民黨立委李彥秀表示，藍營內參顯示目前未見明顯外溢效應，認為藍白仍處「破而不裂」，盧秀燕則喊在野大聯盟。",
+     "category": "politics",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "politics",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "盧秀燕喊反一黨獨大 黃守達列數據反擊：國會、議會國民黨都獨大",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5573939",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-09-14T22:53:34+08:00",
+     "description": "台中市長盧秀燕連兩天喊組「在野大聯盟」，以反民進黨一黨獨大，民進黨台中市議員黃守達指出，立法院是國民黨52席對上民進黨51席、地方首長國民黨14席民進黨5席、台中市議會國民黨3...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "盧秀燕拋「在野大聯盟」　林俊憲分析「打臉鄭麗文」：必須說薑還是老的辣…",
+     "link": "https://www.mirrormedia.mg/story/20260914edi080",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-09-14T17:22:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "兩度喊組「在野大聯盟」　盧秀燕：不能讓民進黨一黨獨大",
+     "link": "https://www.mirrormedia.mg/story/20260914edi051",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-09-14T13:50:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "再提組在野大聯盟！盧秀燕批「政府腐敗」：別讓民進黨一黨超級大",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qSXc0S0Z4YnhwX1FINlJVYXNGWGZEaFRkb1JnU0lHZ2VsYmpUaEU5X0ZMSjJnSUVfOWZDUXY5SE9PdmMtOWx1blhsMWdXdFZneXA4S1Fwa3M1VHZIeGVrVGxvampCQkpNcVo0dlVJcVJLbDVGUVE?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-09-14T12:26:08+08:00",
+     "description": "再提組在野大聯盟！盧秀燕批「政府腐敗」：別讓民進黨一黨超級大  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "盧秀燕盼催生在野大聯盟  籲團結合作讓台灣更好",
+     "link": "https://www.cna.com.tw/news/aipl/202609140077.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-09-14T12:03:16+08:00",
+     "description": "（中央社記者趙麗妍台中14日電）台中市長盧秀燕催生在野大聯盟，她今天表示，台灣最值得珍惜的價值就是民主、自由、清廉。在野必須聯合為國為民發聲，各黨競爭，大家團結合作讓台灣更好。",
+     "author": "趙麗妍",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "趙麗妍",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
+     }
+    },
+    {
+     "title": "盧秀燕拋「在野大聯盟」 蔣萬安表態認同：北市拚藍白席次最大化",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDV2NXSmxXUXVrVm1ERDJOa05lWEhibndqU1M3T0VwY3JIeVJtbmZaZzdzak5ZbEFNYlJvWTFvQlBHRFFOMUpHclFVWmZ1TmkwQXFyV3NiLVJqSTJpZC1zYXoxV0dBeTdwV1dMLTZn?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-09-14T11:59:56+08:00",
+     "description": "盧秀燕拋「在野大聯盟」 蔣萬安表態認同：北市拚藍白席次最大化  中時新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -799,404 +1215,6 @@
    ]
   },
   {
-   "id": "186b979055ae",
-   "title": "推崇蕭美琴為爭取民主榜樣　歐洲議會副議長盼訪台延續合作【專訪】",
-   "outlet_count": 9,
-   "outlets": [
-    "chinatimes",
-    "cna",
-    "ebc",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "pts",
-    "setn",
-    "storm"
-   ],
-   "article_count": 25,
-   "first_seen": "2026-09-12T13:12:48+08:00",
-   "last_updated": "2026-09-15T05:59:00+08:00",
-   "tags": [
-    "蕭美琴",
-    "義大利",
-    "訪義"
-   ],
-   "articles": [
-    {
-     "title": "蕭副總統訪義　美國務院：台灣和各國關係帶來益處",
-     "link": "https://www.ettoday.net/news/20260915/3237472.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-09-15T05:59:00+08:00",
-     "description": "副總統蕭美琴日前應邀出席在義大利舉行的「文托泰內歐洲自由與民主論壇」，一年內兩度訪歐。美國國務院於美東時間14日回覆中央社記者提問表示，台灣和世界各國的關係，「為那些國家的公民帶來重大益處，包括歐洲在內」。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "蕭美琴出訪義大利》賴：走向世界是台灣天賦權利",
-     "link": "https://news.ltn.com.tw/news/politics/paper/1770739",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-09-15T05:30:00+08:00",
-     "description": "〔記者陳昀、黃靖媗／台北報導〕副總統蕭美琴低調出訪義大利，出席第二屆「文托泰內歐洲自由與民主論壇」，昨天清晨完成任務返抵國門。總統賴清德隨後發聲力挺，強調台灣是世界的一員，走向世界、和世界交朋友，本來就是台灣人民不可剝奪的天賦權利，「我們有權，也會持續爭取國際交流合作的機會，讓世界看見台灣」。\n\n…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "出席義大利論壇返國 蕭美琴：處境再難 台灣勇敢與世界同行",
-     "link": "https://news.ltn.com.tw/news/politics/paper/1770673",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-09-15T05:30:00+08:00",
-     "description": "〔記者陳昀／台北報導〕副總統蕭美琴出訪義大利參加「文托泰內歐洲自由與民主論壇」，昨天清晨返抵國門。她表示，此行最大的意義在於，讓台灣的聲音在深具歷史意義的地方被更多人聽見，她也想傳達一個堅定的訊息——即使處境再艱難，台灣都將繼續勇敢與世界同行。 \n\n文托泰內宣言 歐盟啟蒙地\n\n蕭美琴表示，她…",
-     "author": "陳昀",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "陳昀",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "與世界同行 蕭美琴：台灣聲音不應消失",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1nVHVQU0pIMzBCZlFLajdKUHFQdEU0UUo3VWtCQXdLNk54MURBWlhvWW5uZEM1V2J5dTdtTnI2VU9qRGtYcERFeFc1bWlQMWw5RjRENkdEaTR2NGNOc2xhUkd4a0RFUUtuWHJ3?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-09-15T04:10:00+08:00",
-     "description": "與世界同行 蕭美琴：台灣聲音不應消失  中時新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "蕭副總統訪義大利　美國務院：台灣和各國關係帶來益處",
-     "link": "https://www.cna.com.tw/news/aipl/202609150007.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-09-15T02:39:29+08:00",
-     "description": "（中央社台北15日電）副總統蕭美琴日前應邀出席在義大利舉行的「文托泰內歐洲自由與民主論壇」，一年內兩度訪歐。美國國務院於美東時間14日回覆中央社記者提問表示，台灣和世界各國的關係，「為那些國家的公民帶來重大益處，包括歐洲在內」。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
-     }
-    },
-    {
-     "title": "歐洲議會副議長轉貼賴總統發文：堅定站在自由民主一方",
-     "link": "https://news.ebc.net.tw/news/politics/571281",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-09-14T22:31:29.425848+08:00",
-     "description": "賴清德今感謝歐洲議會副議長皮齊耶諾邀蕭美琴出席文托泰內論壇，皮齊耶諾強調歐洲議會堅定支持自由民主，台歐合作持續深化。",
-     "category": "politics",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "politics",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "轉貼賴清德貼文　歐洲議會副議長皮齊耶諾：很榮幸能接待蕭美琴副總統",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBDQ21hcTZCelRwU3dIT2NMU2l4a1k2Ym54Y3hFakd6ZGtZa1l0NDh5Y01HRXZpV2hLZktvdXJoenNjT09ndTNjLdIBTEFVX3lxTFBhaFc2UnQtUUcyX2JmVWlRWkVrdWVaVDJCSlhMZ1MtWHc1R0JpN3dwRGFjNU5JUGhqdW9TMlBjOU4xYk1HVzBObzBtMjM?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-09-14T21:35:00+08:00",
-     "description": "轉貼賴清德貼文　歐洲議會副議長皮齊耶諾：很榮幸能接待蕭美琴副總統  三立新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "歐洲議會副議長轉貼賴總統發文　強調堅定站在自由民主一方",
-     "link": "https://www.cna.com.tw/news/aipl/202609140265.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-09-14T20:39:07+08:00",
-     "description": "（中央社記者陳韻聿倫敦14日專電）總統賴清德今天在社群媒體X貼文，感謝歐洲議會副議長皮齊耶諾邀請副總統蕭美琴出席「文托泰內歐洲自由與民主論壇」。皮齊耶諾隨後轉貼賴總統貼文，並表示歐洲議會永遠必須「堅定站在自由與民主的一方」。",
-     "author": "陳韻聿",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "陳韻聿",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
-     }
-    },
-    {
-     "title": "歐洲議會副議長親自標註＆回覆賴清德　「很高興能迎接蕭美琴」",
-     "link": "https://www.ettoday.net/news/20260914/3237390.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-09-14T19:55:00+08:00",
-     "description": "副總統蕭美琴近日在歐洲議會副議長皮齊耶諾（Pina Picierno）、歐洲議會義大利辦公室主任柯拉札（Carlo Corazza）共同邀請下，低調前往義大利訪問，並於今天（14日）清晨返抵國門。總統賴清德透過社群平台分享此事，皮齊耶諾也轉貼賴清德的PO文，並且親自回覆道，「很高興能在文托特內迎接蕭美琴副總統」。\n\n 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "副總統訪義　涉外人士：共同價值成挺進歐洲政治社會基礎",
-     "link": "https://www.cna.com.tw/news/aopl/202609140130.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-09-14T14:46:13+08:00",
-     "description": "（中央社記者王揚宇台北14日電）副總統蕭美琴結束義大利行程返台。涉外人士今天說，副總統在論壇的發言，將台灣從威權走向民主的歷程，與歐洲經驗連結，雖然台灣與歐洲相隔遙遠，仍能透過民主、人權、法治與和平等價值建立政治連結，成為台灣進入歐洲政治社會的重要基礎。",
-     "author": "王揚宇",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "王揚宇",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
-     }
-    }
-   ]
-  },
-  {
-   "id": "67eda0c15217",
-   "title": "北市藍白合首場造勢　蔣萬安再強調共同目標藍白席次最大化",
-   "outlet_count": 8,
-   "outlets": [
-    "chinatimes",
-    "cna",
-    "ebc",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "nownews",
-    "storm"
-   ],
-   "article_count": 23,
-   "first_seen": "2026-09-12T10:24:13+08:00",
-   "last_updated": "2026-09-15T08:46:39+08:00",
-   "tags": [
-    "在野大聯盟",
-    "盧秀燕"
-   ],
-   "articles": [
-    {
-     "title": "搶攻嘉義縣銀髮票！在野大聯盟吳品叡推「敬老三好」",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5574063",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-09-15T08:46:39+08:00",
-     "description": "年底地方選舉選情火熱，「在野大聯盟」無黨籍嘉義縣長參選人、朴子市長吳品叡今天宣布推出「敬老三好」政策，照顧長者福利，以「好健康」、「好出門」及「好好吃」，從健康、交通到飲食，回...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "盧提在野大聯盟 引爆藍小雞危機感",
-     "link": "https://news.ltn.com.tw/news/politics/paper/1770726",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-09-15T05:30:00+08:00",
-     "description": "黨內大咖為他黨參選人站台 基層要求黨中央處理\n〔記者蘇金鳳、何玉華／綜合報導〕年底大選進入倒數七十四天，國民黨台中市長盧秀燕提出「在野大聯盟」，台北市長蔣萬安也表示認同，兩人及國民黨台南市長參選人謝龍介近日分別為民眾黨及無黨籍議員參選人站台，引發藍營小雞不滿及危機感，要求黨中央處理；在「竹北藍白分…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "盧秀燕再談「在野大聯盟」喊別讓綠營一黨「超級大」",
-     "link": "https://news.ebc.net.tw/news/politics/571263",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-09-15T00:29:18.583538+08:00",
-     "description": "藍白在竹北市選舉合作破局，國民黨立委李彥秀表示，藍營內參顯示目前未見明顯外溢效應，認為藍白仍處「破而不裂」，盧秀燕則喊在野大聯盟。",
-     "category": "politics",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "politics",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "盧秀燕喊反一黨獨大 黃守達列數據反擊：國會、議會國民黨都獨大",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5573939",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-09-14T22:53:34+08:00",
-     "description": "台中市長盧秀燕連兩天喊組「在野大聯盟」，以反民進黨一黨獨大，民進黨台中市議員黃守達指出，立法院是國民黨52席對上民進黨51席、地方首長國民黨14席民進黨5席、台中市議會國民黨3...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "盧秀燕拋「在野大聯盟」　林俊憲分析「打臉鄭麗文」：必須說薑還是老的辣…",
-     "link": "https://www.mirrormedia.mg/story/20260914edi080",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-09-14T17:22:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "兩度喊組「在野大聯盟」　盧秀燕：不能讓民進黨一黨獨大",
-     "link": "https://www.mirrormedia.mg/story/20260914edi051",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-09-14T13:50:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "再提組在野大聯盟！盧秀燕批「政府腐敗」：別讓民進黨一黨超級大",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qSXc0S0Z4YnhwX1FINlJVYXNGWGZEaFRkb1JnU0lHZ2VsYmpUaEU5X0ZMSjJnSUVfOWZDUXY5SE9PdmMtOWx1blhsMWdXdFZneXA4S1Fwa3M1VHZIeGVrVGxvampCQkpNcVo0dlVJcVJLbDVGUVE?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-09-14T12:26:08+08:00",
-     "description": "再提組在野大聯盟！盧秀燕批「政府腐敗」：別讓民進黨一黨超級大  中時新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "盧秀燕盼催生在野大聯盟  籲團結合作讓台灣更好",
-     "link": "https://www.cna.com.tw/news/aipl/202609140077.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-09-14T12:03:16+08:00",
-     "description": "（中央社記者趙麗妍台中14日電）台中市長盧秀燕催生在野大聯盟，她今天表示，台灣最值得珍惜的價值就是民主、自由、清廉。在野必須聯合為國為民發聲，各黨競爭，大家團結合作讓台灣更好。",
-     "author": "趙麗妍",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "趙麗妍",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
-     }
-    },
-    {
-     "title": "盧秀燕拋「在野大聯盟」 蔣萬安表態認同：北市拚藍白席次最大化",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDV2NXSmxXUXVrVm1ERDJOa05lWEhibndqU1M3T0VwY3JIeVJtbmZaZzdzak5ZbEFNYlJvWTFvQlBHRFFOMUpHclFVWmZ1TmkwQXFyV3NiLVJqSTJpZC1zYXoxV0dBeTdwV1dMLTZn?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-09-14T11:59:56+08:00",
-     "description": "盧秀燕拋「在野大聯盟」 蔣萬安表態認同：北市拚藍白席次最大化  中時新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "檸檬送出去了！盧秀燕再喊在野大聯盟　警告綠超級大「就會腐敗」",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfRGphQkREdUtVRjdqRG1oSkdLYm1IZU5PbmRocW44djN1N3ZMY1Z0Z016NUpuX081cGVJMmhPeWpkQk1ObmljNjg3eU1JSXVYclHSAVJBVV95cUxQX0RqYUJERHVLVUY3akRtaEpHS2JtSGVOT25kaHFuOHYzdTd2TGNWdGdNejVKbl9PNXBlSTJoT3lqZEJNTm5pYzY4N3lNSUl1WHJR?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-09-14T10:49:01+08:00",
-     "description": "檸檬送出去了！盧秀燕再喊在野大聯盟　警告綠超級大「就會腐敗」  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
    "id": "066b855b79bf",
    "title": "iPhone 18 Pro今起預購！價格、出貨日、信用卡分期、舊換新一覽",
    "outlet_count": 8,
@@ -1210,13 +1228,81 @@
     "storm",
     "udn"
    ],
-   "article_count": 113,
+   "article_count": 135,
    "first_seen": "2026-09-12T11:10:20+08:00",
-   "last_updated": "2026-09-15T06:16:00+08:00",
+   "last_updated": "2026-09-15T09:07:00+08:00",
    "tags": [
     "相關報導"
    ],
    "articles": [
+    {
+     "title": "女友快生日！他想買iPhone Duo當驚喜　網見1關鍵全搖頭：你在挖坑",
+     "link": "https://www.ettoday.net/news/20260915/3237317.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-09-15T09:07:00+08:00",
+     "description": "一名男網友發文表示，他與女友認識兩個月，因為蘋果正好出新款摺疊機，加上對方對新機心動，所以他便打算買來當作生日禮物。不過，身旁男性友人紛紛勸阻，警告交往初期就送昂貴大禮，未來送禮恐面臨極大壓力，讓他陷入兩難。貼文曝光後，引起討論。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "iPhone Duo還有加大版！蘋果傳拚iPhone Duo Max、iPhone Duo SE成摺疊機主流",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GOHVpdzRuUlppaWJxQm9ySFBZSlBWYU1hOTB2Q3gwWHhQcDR0c3U1T2RPOEdRNWRDNmtCakNTRTRxaU9xcExqbVVCTXZpT1N2RWkwTHRGelJJcXZuZUk00gFfQVVfeXFMTUY4dWl3NG5SWmlpYnFCb3JIUFlKUFZhTWE5MHZDeDBYeFBwNHRzdTVPZE84R1E1ZEM2a0JqQ1NFNHFpT3FwTGptVUJNdmlPU3ZFaTBMdEZ6Uklxdm5lSTQ?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-09-15T09:00:01+08:00",
+     "description": "iPhone Duo還有加大版！蘋果傳拚iPhone Duo Max、iPhone Duo SE成摺疊機主流  udn科技玩家",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "升級iOS 27看不到Siri AI？台灣這樣開啟　不是每款iPhone都支援",
+     "link": "https://3c.ltn.com.tw/news/67591",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-09-15T08:30:00+08:00",
+     "description": "蘋果今（15日）正式向 iPhone 用戶推送 iOS 27，其中一大主打就是 Siri AI，不僅能進行更自然的對話互動，還能理解使用者的個人情境、跨 App 執行操作，並具備螢幕內容感知能力…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "舊iPhone不用退場！蘋果正式推送iOS 27　十大主打功能一次看",
+     "link": "https://3c.ltn.com.tw/news/67588",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-09-15T08:02:00+08:00",
+     "description": "蘋果今(15日)正式向iPhone用戶推送iOS 27，今年有一個對舊機用戶很友善的消息，就是所有支援iOS 26的機型，都能繼續升級iOS 27，沒有任何一款舊機被淘汰。以下整理 iOS 27十大重點功能。…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
     {
      "title": "預購iPhone 18 Pro盜刷破億元　香港1209人收簡訊才知道",
      "link": "https://www.ettoday.net/news/20260915/3237473.htm",
@@ -1240,7 +1326,7 @@
      "source": "setn",
      "source_name": "三立新聞網",
      "published": "2026-09-15T04:17:54+08:00",
-     "description": "拼經濟相關報導  三立新聞",
+     "description": "拼經濟相關報導  setn.com",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -1269,6 +1355,40 @@
      }
     },
     {
+     "title": "iPhone 不必綁定 Siri！傳蘋果開放 Claude、ChatGPT 全面替代",
+     "link": "https://www.ettoday.net/news/20260914/3237432.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-09-14T22:08:00+08:00",
+     "description": "總認為 Siri 不夠聰明？根據蘋果最新程式碼透露，未來 iPhone 與 Mac 用戶或許能直接改用 Claude 或 ChatGPT 等模型取代，將 AI 助手的選擇權交給使用者。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "變大變便宜？傳蘋果摺疊機 iPhone Duo 或加碼 Max、平價 SE 版",
+     "link": "https://www.ettoday.net/news/20260914/3237407.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-09-14T20:53:00+08:00",
+     "description": "蘋果正式發表首款摺疊手機 iPhone Duo，引發市場高度關注。據傳蘋果有意進一步拓展 iPhone Duo 系列陣容，未來可能推出大螢幕的 Max，或是主打親民價格的 SE 與 mini 款式。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
      "title": "便利貼相關報導",
      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5HY3VkaDV2aHY5N0l5RWdFakhQYlF4VE92VFgyeU03STd2TkQ0bFhrelVqbVkwYkh1NzRsTkZyOHhRTkN2ck04eFowNk4?oc=5",
      "source": "setn",
@@ -1284,14 +1404,39 @@
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
-    },
+    }
+   ]
+  },
+  {
+   "id": "ad1c952f95bb",
+   "title": "球星激戰小A辣5／挨轟「射後不理」的小波特是誰？　已賺進85億身價超驚人",
+   "outlet_count": 8,
+   "outlets": [
+    "chinatimes",
+    "ebc",
+    "ettoday",
+    "ltn",
+    "mirror",
+    "newtalk",
+    "nownews",
+    "tvbs"
+   ],
+   "article_count": 17,
+   "first_seen": "2026-09-14T06:28:54+08:00",
+   "last_updated": "2026-09-15T07:12:36+08:00",
+   "tags": [
+    "小波特",
+    "球星",
+    "激戰"
+   ],
+   "articles": [
     {
-     "title": "北京觀察》iPhone 18 Pro大陸開賣秒殺：黃牛笑、果粉哭，一場精心設計的飢餓行銷 | 田暢 | 新聞",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE85RkZhR0dCZWtVNjJod2Rja3d0NU0tRmR0M3BTdjIxTW9WdmZDVzZTMEtqMVpZUG1KUFRDRXptZUhfalNEQURnRmx4UVI0UQ?oc=5",
-     "source": "storm",
-     "source_name": "風傳媒",
-     "published": "2026-09-14T19:46:17+08:00",
-     "description": "北京觀察》iPhone 18 Pro大陸開賣秒殺：黃牛笑、果粉哭，一場精心設計的飢餓行銷 | 田暢 | 新聞  風傳媒",
+     "title": "小波特射後不理！小A辣昔為男友變性　6年情斷只因媽媽想抱孫",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IelZQRVMzMFQwZ0FPbmVBOXJyWkVJeFZoU2xvdVVSTjFFZzdtWFBZYzQwNGI0d2JVTXhuRU8yTWRIU1lQQVJDakRPdDZyc2pqSkHSAVJBVV95cUxOSHpWUEVTMzBUMGdBT25lQTlyclpFSXhWaFNsb3VVUk4xRWc3bVhQWWM0MDRiNHdiVU14bkVPMk1kSFNZUEFSQ2pET3Q2cnNqakpB?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-09-15T07:12:36+08:00",
+     "description": "小波特射後不理！小A辣昔為男友變性　6年情斷只因媽媽想抱孫  NOWnews今日新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -1299,16 +1444,154 @@
        "source": "unknown"
       },
       "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
-     "title": "iPhone 18 Pro 全系列調漲地標網通舊換新回收價優越搶攻3C市場商機- 其他",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lVjIxZmlOR25ONUlOcHFKRENIR0lpZXdHWHhzaWRJSGtoZWtCS3RreERlT1psVldSRUlJZ1NuMVBkc0V3Y3Qxd2tuNVM2dUtMdnJSTl9XWnZodFVaM0UtQ2lHZkwyQTgzb1E?oc=5",
+     "title": "球星激戰小A辣／小波特約砲「射後不理」！小A辣氣到比中指　號召網友：請幫我tag他",
+     "link": "https://www.mirrormedia.mg/story/20260914edi043",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-09-14T13:56:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "小波特約砲巨蟒太粗魯「感覺快被用壞了」！小A辣喊爛透了　網盤點愛愛後6大NG行為曝光",
+     "link": "https://www.mirrormedia.mg/story/20260914edi042",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-09-14T12:37:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "NBA球星小波特飯店幽會小A辣「稱她主動倒貼」？本人曝內幕氣喊：爛透了| 娛樂",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vWGkwaldrcEpqb3FhQlRNYnl4M3VhNnp2dkF3UVIzQmo0ZDZHbzZYVHZfaUZhbEI2UU1KYlJpUVhLWTg1ejc1a1JzLTVYRjlwSVl0SHBKNTlHVXc?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-09-14T11:03:52+08:00",
+     "description": "NBA球星小波特飯店幽會小A辣「稱她主動倒貼」？本人曝內幕氣喊：爛透了| 娛樂  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "小波特是誰？28歲已擁85億台幣身家　被小A辣控粗魯：我快壞掉",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MSEtqMjY4dmF4RVRjNzV4VlhoY0M1RktUN25vOFJtLTNfZUtxOEt3VFJNT004bVdGZlpJMGplMEdoY0RaTDFxZlZNdUhUd3lYN1HSAVJBVV95cUxPTEhLajI2OHZheEVUYzc1eFZYaGNDNUZLVDdubzhSbS0zX2VLcThLd1RSTU9NOG1XRmZaSTBqZTBHaGNEWkwxcWZWTXVIVHd5WDdR?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-09-14T10:21:20+08:00",
+     "description": "小波特是誰？28歲已擁85億台幣身家　被小A辣控粗魯：我快壞掉  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "小波特是誰？28歲已擁85億台幣身家　被小A辣控粗魯：我快壞掉",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ieUdTVnJQTHFYVHQtY2VSTHNfZW1sYWZuSkNLT0hFWWtWbEJaTWpYRHVsZDhnOXFUQlM1dW1DUmwzZUUxMHJNT3YxVVXSAVJBVV95cUxPTEhLajI2OHZheEVUYzc1eFZYaGNDNUZLVDdubzhSbS0zX2VLcThLd1RSTU9NOG1XRmZaSTBqZTBHaGNEWkwxcWZWTXVIVHd5WDdR?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-09-14T10:21:20+08:00",
+     "description": "小波特是誰？28歲已擁85億台幣身家　被小A辣控粗魯：我快壞掉  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "小A辣激戰NBA小波特！撞斷牙齒「痛到快用壞」 氣炸爆約X內幕",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qbnBGWklhZHF3MmRQdzVacEJZOG8tUXl4Wml5QmxTZFFmMjBYS3ViM2xiZlBYbl9JZVJxNUplZEI5N203TnFjNW15UUxWV1BPSWkyZ2FUSXFRdUpsMlVLYzZLWkk?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-09-14T09:31:00+08:00",
+     "description": "小A辣激戰NBA小波特！撞斷牙齒「痛到快用壞」 氣炸爆約X內幕  TVBS新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "激戰NBA球星被當倒貼！小A辣怒秀私訊：是他主動",
+     "link": "https://news.ebc.net.tw/news/sport/571117",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-09-14T09:07:41.516502+08:00",
+     "description": "美國職籃NBA球星小波特（Michael Porter Jr.）多年前訪台期間，曾遭讀者直擊在下榻飯店夜會跨性別網紅小A辣，兩人在樓梯口同框的畫面一度躍上國際新",
+     "category": "sport",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "sport",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "爆小波特約按摩變激戰  小A辣：痛到流血快被用壞",
+     "link": "https://ent.ltn.com.tw/news/breakingnews/5572989",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-09-14T08:54:48+08:00",
+     "description": "〔娛樂頻道／綜合報導〕NBA布魯克林籃網王牌前鋒小波特（Michael Porter Jr.，簡稱MPJ）2023年訪台曾傳出與網紅小A辣密會，事隔多年，他首度在Podcast節目還原真相，大方...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "NBA球星小波特激烈床戰稱她主動倒貼？小A辣曬對話截圖打臉- 娛樂",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1acG9rVU5jaVpCQVIzRzJyVnluUTNDT3NybFJ5aEtHSFdLaWg4Tml5WUFiMXBrRnBOc3B5OGU5WXNkU2ZXcVFQa0NiNU1FcUprU05kY0VfdGZmVGJyMDEzbFMyblBaSUlFZ3N5d3dR?oc=5",
      "source": "chinatimes",
      "source_name": "中時新聞網",
-     "published": "2026-09-14T18:42:23+08:00",
-     "description": "iPhone 18 Pro 全系列調漲地標網通舊換新回收價優越搶攻3C市場商機- 其他  旺得富理財網",
+     "published": "2026-09-14T08:33:07+08:00",
+     "description": "NBA球星小波特激烈床戰稱她主動倒貼？小A辣曬對話截圖打臉- 娛樂  中時新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -1317,74 +1600,6 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "廢棄棚相關報導",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5vZUhZc1U1WWJMb2FheFBrNndLdmk1SUtYZHFMNFRTRjVISHJ3cHROcnh2NTFHcktBMFo5Qlg4aFBuTkxEUlpwMw?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-09-14T15:40:04+08:00",
-     "description": "廢棄棚相關報導  三立新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "旗艦級新品相關報導",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB0YjhYX0JDdWtYY1dfSEF1UGpFM0wtQjRjUHF0SHNRR08tcmZWVkloY25uMmtlT3gwMkRFWV9nZDZmSUpsekZBSQ?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-09-14T15:20:20+08:00",
-     "description": "旗艦級新品相關報導  三立新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "婚禮出包相關報導",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE84bHllTmhXNi05dnN2Qy0tbjNFaEpjeUE1Y2I4eF8xdFo3c0gydVl5MGx4Mk02OGR5amJpSmNWcHM3cWhHZ0U0ZA?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-09-14T14:43:43+08:00",
-     "description": "婚禮出包相關報導  三立新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "美杜莎專車相關報導",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5peHFicU80MG9IbDYzUFhXYzFCU2hEYnh4LW9PWk9jUjRQTE10Z2dOeHRCM3JsZVgxa1hpN1ExSWZZYlVkQXR6Zw?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-09-14T13:20:56+08:00",
-     "description": "美杜莎專車相關報導  三立新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -1728,7 +1943,7 @@
     },
     {
      "title": "IVE台北開唱小巨蛋驚見「CHINESE TAIPEI」 北捷遊憩：廣告下架重審| 政治",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aYWhLRjdhNVEzdWpFU0ZyNm5uRXBiM1pPaG93VnhJNXh1VW9BOGlud3BEdHA2SnhUUUZRYXh2TGZ5TkNHRklaMWJHc3JkV29OZlNtTy1KQ1Y0dw?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94MFc2NDh6b3hFcUhpSUxhYjQ0T3ZiVTBoVTh5SkxwcVFQMnRGTUhVaTRMWXViUnVnaWJ3OEEyeDNmOVFPRDd1c0lpcWgxeWRHYi16d2ZaT1dDR2c?oc=5",
      "source": "newtalk",
      "source_name": "新頭殼",
      "published": "2026-09-13T22:10:37+08:00",
@@ -1745,7 +1960,7 @@
     },
     {
      "title": "IVE台北開唱小巨蛋驚見「CHINESE TAIPEI」 北捷遊憩：廣告下架重審| 政治",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94MFc2NDh6b3hFcUhpSUxhYjQ0T3ZiVTBoVTh5SkxwcVFQMnRGTUhVaTRMWXViUnVnaWJ3OEEyeDNmOVFPRDd1c0lpcWgxeWRHYi16d2ZaT1dDR2c?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aYWhLRjdhNVEzdWpFU0ZyNm5uRXBiM1pPaG93VnhJNXh1VW9BOGlud3BEdHA2SnhUUUZRYXh2TGZ5TkNHRklaMWJHc3JkV29OZlNtTy1KQ1Y0dw?oc=5",
      "source": "newtalk",
      "source_name": "新頭殼",
      "published": "2026-09-13T22:10:37+08:00",
@@ -1993,13 +2208,13 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 16,
+   "article_count": 11,
    "first_seen": "2026-09-13T12:03:00+08:00",
    "last_updated": "2026-09-14T17:37:47+08:00",
    "tags": [
     "失禁",
     "奪冠",
-    "選手"
+    "北京"
    ],
    "articles": [
     {
@@ -2020,12 +2235,12 @@
      }
     },
     {
-     "title": "HYROX北京站「屎味」被官方聞到！央視譴責：損害選手健康權益",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zZ0R5dk4zVXBzSmFYYUFscEsycVFKRzEtbWlNQmdZbHprdGRWZ3dlaTVWR2d4OUFJZ0dZT0NsOUpXMDQ5M3dqNnVsejlaVzgxVkHSAVJBVV95cUxPM2dEeXZOM1Vwc0phWGFBbHBLMnFRSkcxLW1pTUJnWWx6a3RkVmd3ZWk1VkdneDlBSWdHWU9DbDlKVzA0OTN3ajZ1bHo5Wlc4MVZB?oc=5",
+     "title": "北京HYROX才鬧失禁風波！吳建豪隔天參戰　粉絲全擔心：沒踩到吧",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00bmNoWUZqM0hxMzc1TU5WdUVsUmpTanF5aU9veXAxTjdPYTJSQ2JrcFZ0Q2NhcXgwZTdObk9QbmlObV95ejRMdjNPT1gxckZDRlHSAVJBVV95cUxNNG5jaFlGajNIcTM3NU1OVnVFbFJqU2pxeWlPb3lwMU43T2EyUkNia3BWdENjYXF4MGU3Tm5PUG5pTm1feXo0THYzT09YMXJGQ0ZR?oc=5",
      "source": "nownews",
      "source_name": "今日新聞",
-     "published": "2026-09-14T16:54:42+08:00",
-     "description": "HYROX北京站「屎味」被官方聞到！央視譴責：損害選手健康權益  NOWnews今日新聞",
+     "published": "2026-09-14T15:25:18+08:00",
+     "description": "北京HYROX才鬧失禁風波！吳建豪隔天參戰　粉絲全擔心：沒踩到吧  NOWnews今日新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -2034,23 +2249,6 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "力挺失禁女選手！HYROX官方：威脅言論「永久禁賽」",
-     "link": "https://www.ettoday.net/news/20260914/3237106.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-09-14T13:22:00+08:00",
-     "description": "HYROX北京站日前發生澳洲女選手Joanna Wietrzyk比賽途中失禁，身上沾有排泄物仍持續使用共用器材，最終完賽奪冠的爭議。HYROX官方14日發表公開聲明，坦言賽事發生了「未曾預料的情況」，但也強調「不滿絕不應該指向選手本人」，更透露已有針對選手的暴力威脅，宣布將永久禁止相關人士參加HYROX所有賽事。\n 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
      }
     },
     {
@@ -2094,23 +2292,6 @@
      "source_name": "新頭殼",
      "published": "2026-09-14T10:38:52+08:00",
      "description": "澳洲HYROX失禁女將「炸屎」奪冠！對手打滑紛閃避賽前曾喝北京豆汁| 國際  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "澳洲女選手HYROX北京賽事失禁！她「屎」到冠軍後高調發聲主辦單位被罵翻| 國際",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TT3VaeFNnOC12bmRkNW5tRVZqeExnV2wydnp2RjRUWW1wT1p0VldjZG1kTlRDa0hjcEJSeW1HakloTzFEbmJyQWg5Wl9pREc5WHdJNTJkMnZkX0E?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-09-14T09:37:08+08:00",
-     "description": "澳洲女選手HYROX北京賽事失禁！她「屎」到冠軍後高調發聲主辦單位被罵翻| 國際  Newtalk新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -2171,6 +2352,40 @@
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
      }
+    },
+    {
+     "title": "HYROX失禁奪冠為何有爭議？選手質疑規則雙標：禁止吐痰卻能拉屎",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE13ZE5uU3dKcUZXZzF4TUE0RmcxTGZwX1BqNlptUHRFVW1KeEpsVWZEdkMzeXRDSFVJUmphRUFGR2FvNXlRd1U2dWVPUW_SAVJBVV95cUxNdExGNkhlMmtUNExQV0xqQXp3V0hKcVUwYlkwdnNhalRVVHEyU0VXclVRbFdZemNXVG5wbEtrbzZaTnFONjRxalBmR05fRUttOUtR?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-09-13T20:45:35+08:00",
+     "description": "HYROX失禁奪冠為何有爭議？選手質疑規則雙標：禁止吐痰卻能拉屎  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "失禁硬撐到奪冠！HYROX女選手腿上都是便便 對手氣炸PO照",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuQlQ5VWEyOEdLRkwwUk1CMEk5LTJZRG9aYVZnREtERHA3SmZHTXI1Qm5YMG0zSjF5UkRDektSMUZOZThmZWlxVW9qNzNZT25r?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-09-13T20:25:22+08:00",
+     "description": "失禁硬撐到奪冠！HYROX女選手腿上都是便便 對手氣炸PO照  UDN",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
     }
    ]
   },
@@ -2188,7 +2403,7 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 12,
+   "article_count": 13,
    "first_seen": "2026-09-14T06:28:57+08:00",
    "last_updated": "2026-09-14T16:47:00+08:00",
    "tags": [
@@ -2371,139 +2586,12 @@
      }
     },
     {
-     "title": "瘦瘦針偷賣疑雲／公家名義買780支瘦瘦針剩5支　台南衛生所長捲圖利爭議",
-     "link": "https://www.mirrormedia.mg/story/20260911inv002",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-09-14T06:28:59+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    }
-   ]
-  },
-  {
-   "id": "ad1c952f95bb",
-   "title": "球星激戰小A辣5／挨轟「射後不理」的小波特是誰？　已賺進85億身價超驚人",
-   "outlet_count": 8,
-   "outlets": [
-    "chinatimes",
-    "ebc",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "newtalk",
-    "nownews",
-    "tvbs"
-   ],
-   "article_count": 16,
-   "first_seen": "2026-09-14T06:28:54+08:00",
-   "last_updated": "2026-09-14T13:56:00+08:00",
-   "tags": [
-    "小波特",
-    "球星",
-    "激戰"
-   ],
-   "articles": [
-    {
-     "title": "球星激戰小A辣／小波特約砲「射後不理」！小A辣氣到比中指　號召網友：請幫我tag他",
-     "link": "https://www.mirrormedia.mg/story/20260914edi043",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-09-14T13:56:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "小波特約砲巨蟒太粗魯「感覺快被用壞了」！小A辣喊爛透了　網盤點愛愛後6大NG行為曝光",
-     "link": "https://www.mirrormedia.mg/story/20260914edi042",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-09-14T12:37:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "NBA球星小波特飯店幽會小A辣「稱她主動倒貼」？本人曝內幕氣喊：爛透了| 娛樂",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vWGkwaldrcEpqb3FhQlRNYnl4M3VhNnp2dkF3UVIzQmo0ZDZHbzZYVHZfaUZhbEI2UU1KYlJpUVhLWTg1ejc1a1JzLTVYRjlwSVl0SHBKNTlHVXc?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-09-14T11:03:52+08:00",
-     "description": "NBA球星小波特飯店幽會小A辣「稱她主動倒貼」？本人曝內幕氣喊：爛透了| 娛樂  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "小波特是誰？28歲已擁85億台幣身家　被小A辣控粗魯：我快壞掉",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MSEtqMjY4dmF4RVRjNzV4VlhoY0M1RktUN25vOFJtLTNfZUtxOEt3VFJNT004bVdGZlpJMGplMEdoY0RaTDFxZlZNdUhUd3lYN1HSAVJBVV95cUxPTEhLajI2OHZheEVUYzc1eFZYaGNDNUZLVDdubzhSbS0zX2VLcThLd1RSTU9NOG1XRmZaSTBqZTBHaGNEWkwxcWZWTXVIVHd5WDdR?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-09-14T10:21:20+08:00",
-     "description": "小波特是誰？28歲已擁85億台幣身家　被小A辣控粗魯：我快壞掉  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "小波特是誰？28歲已擁85億台幣身家　被小A辣控粗魯：我快壞掉",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ieUdTVnJQTHFYVHQtY2VSTHNfZW1sYWZuSkNLT0hFWWtWbEJaTWpYRHVsZDhnOXFUQlM1dW1DUmwzZUUxMHJNT3YxVVXSAVJBVV95cUxPTEhLajI2OHZheEVUYzc1eFZYaGNDNUZLVDdubzhSbS0zX2VLcThLd1RSTU9NOG1XRmZaSTBqZTBHaGNEWkwxcWZWTXVIVHd5WDdR?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-09-14T10:21:20+08:00",
-     "description": "小波特是誰？28歲已擁85億台幣身家　被小A辣控粗魯：我快壞掉  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "小A辣激戰NBA小波特！撞斷牙齒「痛到快用壞」 氣炸爆約X內幕",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qbnBGWklhZHF3MmRQdzVacEJZOG8tUXl4Wml5QmxTZFFmMjBYS3ViM2xiZlBYbl9JZVJxNUplZEI5N203TnFjNW15UUxWV1BPSWkyZ2FUSXFRdUpsMlVLYzZLWkk?oc=5",
+     "title": "台南衛生所長冒名採購800瘦瘦針！稱賣給親友團 流向全不明",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAxQVdhMHR2UFFJeU1xNzU5TGhpUmxkUnZDSF81UjFhaHBJX2FEWm9YSi1SU3R1T21ZbUZLX2FpVGVqSU56Unh1N3JqTkVnMTg?oc=5",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-09-14T09:31:00+08:00",
-     "description": "小A辣激戰NBA小波特！撞斷牙齒「痛到快用壞」 氣炸爆約X內幕  TVBS新聞網",
+     "published": "2026-09-14T11:48:00+08:00",
+     "description": "台南衛生所長冒名採購800瘦瘦針！稱賣給親友團 流向全不明  TVBS新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -2513,109 +2601,72 @@
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
-    },
-    {
-     "title": "激戰NBA球星被當倒貼！小A辣怒秀私訊：是他主動",
-     "link": "https://news.ebc.net.tw/news/sport/571117",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-09-14T09:07:41.516502+08:00",
-     "description": "美國職籃NBA球星小波特（Michael Porter Jr.）多年前訪台期間，曾遭讀者直擊在下榻飯店夜會跨性別網紅小A辣，兩人在樓梯口同框的畫面一度躍上國際新",
-     "category": "sport",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "sport",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "爆小波特約按摩變激戰  小A辣：痛到流血快被用壞",
-     "link": "https://ent.ltn.com.tw/news/breakingnews/5572989",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-09-14T08:54:48+08:00",
-     "description": "〔娛樂頻道／綜合報導〕NBA布魯克林籃網王牌前鋒小波特（Michael Porter Jr.，簡稱MPJ）2023年訪台曾傳出與網紅小A辣密會，事隔多年，他首度在Podcast節目還原真相，大方...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "NBA球星小波特激烈床戰稱她主動倒貼？小A辣曬對話截圖打臉- 娛樂",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1acG9rVU5jaVpCQVIzRzJyVnluUTNDT3NybFJ5aEtHSFdLaWg4Tml5WUFiMXBrRnBOc3B5OGU5WXNkU2ZXcVFQa0NiNU1FcUprU05kY0VfdGZmVGJyMDEzbFMyblBaSUlFZ3N5d3dR?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-09-14T08:33:07+08:00",
-     "description": "NBA球星小波特激烈床戰稱她主動倒貼？小A辣曬對話截圖打臉- 娛樂  中時新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "NBA球星小波特開房約砲 小A辣抖內幕：是他揪的",
-     "link": "https://ent.ltn.com.tw/news/breakingnews/5573002",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-09-14T08:27:24+08:00",
-     "description": "〔娛樂頻道／綜合報導〕網紅小A辣2020年進行性別重置手術，從男兒身變身真女人，更參加選美為台灣爭光，13日才罕見對外表示：「我的人生，我自己定義，我的女性身份，也不需要任何陌生人批准。」沒想到...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
     }
    ]
   },
   {
-   "id": "2fb476419068",
-   "title": "沈伯洋上王偉忠專訪遭炎上 趙少康爆：邀蔣萬安好幾次都沒答應",
-   "outlet_count": 8,
+   "id": "ba669019093d",
+   "title": "共同社：北京威脅華府　若批准新對台軍售將取消習川會",
+   "outlet_count": 7,
    "outlets": [
-    "chinatimes",
+    "cna",
+    "ebc",
     "ettoday",
     "ltn",
-    "mirror",
     "newtalk",
-    "nownews",
-    "storm",
-    "tvbs"
+    "pts",
+    "storm"
    ],
-   "article_count": 12,
-   "first_seen": "2026-09-12T09:46:00+08:00",
-   "last_updated": "2026-09-13T18:07:42+08:00",
+   "article_count": 9,
+   "first_seen": "2026-09-12T17:15:00+08:00",
+   "last_updated": "2026-09-15T10:33:57+08:00",
    "tags": [
-    "蔣萬安",
-    "沈伯洋",
-    "王偉忠專訪"
+    "對台軍售",
+    "川習會",
+    "將取消"
    ],
    "articles": [
     {
-     "title": "王偉忠專訪沈伯洋引爆流量矢板明夫盛讚:：走出舒適圈| 政治",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xSi1WbzU5alA2VjVFYUpuMmdXSFdwbFM3Sk5zSG9aOW1JN0NKSFpnYzJVOHZtVHk1NVBXS1FyN2psM1pXTXJXQXdtMmNrRGdMaXg2VnFjQ2hfVUE?oc=5",
+     "title": "傳中方要求美國不得在川習會前對台軍售 林佳龍：中國是在認知作戰",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5574183",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-09-15T10:33:57+08:00",
+     "description": "中國國家主席習近平預計於9月24日訪美會晤美國總統川普，傳出中國要求美方不得在川習會前通過第2批對台軍售。對此，外交部長林佳龍今（15）日表示，中方此舉是在進行認知作戰，在川習...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "日媒揭中國提川習會前提 禁美會談前批准對台新軍售",
+     "link": "https://news.pts.org.tw/article/826837",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-09-13T13:04:49+08:00",
+     "description": "繼今（2026）年5月川習會後，中國國家主席習近平預定這個月訪美，與美國總統川普（Donald Trump）再度會談。不過日媒共同社報導，中國向美國表示，如果會談前美方批准任何新的對台軍售，將取消川習會。學者分析，雖然短期我方無法獲得軍售，但長期來說，在兩岸軍力差距下，美方還是會同意軍售。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "中方放話了？美若再軍售台灣恐取消川習會| 國際",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13dTZTZlJRT1NFX0VLTkN1RzIyZGg5SmZKaXRwUHNrSW5QS2FYRUF6cjI0MFNHMFNoLW96d2JVUDRxTUdSWTZ3clZqSEh4SHVDTUk2elZrQUZ6UW8?oc=5",
      "source": "newtalk",
      "source_name": "新頭殼",
-     "published": "2026-09-13T18:07:42+08:00",
-     "description": "王偉忠專訪沈伯洋引爆流量矢板明夫盛讚:：走出舒適圈| 政治  Newtalk新聞",
+     "published": "2026-09-13T11:18:21+08:00",
+     "description": "中方放話了？美若再軍售台灣恐取消川習會| 國際  Newtalk新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -2627,12 +2678,48 @@
      }
     },
     {
-     "title": "王偉忠專訪沈伯洋破百萬點閱！　競總預告「還有驚喜合體」",
-     "link": "https://www.ettoday.net/news/20260913/3236472.htm",
+     "title": "川習會前中國出招 若批准「對台軍售」恐取消訪美",
+     "link": "https://news.ebc.net.tw/news/world/571012",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-09-13T10:36:08.126808+08:00",
+     "description": "川習會倒數！中國國家主席習近平將在9月24號前往美國，和美國總統川普面對面會談。然而根據日媒報導，現在傳出多名美中關係的消息人士透露，中國向美方明確表示，如果美",
+     "category": "world",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "world",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "美若月底前 批准新的對台軍售案 中國威脅華府 將取消川習會",
+     "link": "https://news.ltn.com.tw/news/world/paper/1770414",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-09-13T05:30:00+08:00",
+     "description": "〔國際新聞中心／綜合報導〕根據日本共同社十二日報導，多名熟悉中美關係的消息人士透露，中國已向美國傳達，若華府在本月底美中元首會晤前批准任何新的對台軍售案，中方有意取消原訂舉行的兩國領導人會晤。\n\n川普24日舉辦國宴 接待習近平\n\n美國總統川普似乎急於在十一月期中選舉前展現外交成果，因此高度重…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "中國施壓美國　若批准對台軍售「將取消川習會」",
+     "link": "https://www.ettoday.net/news/20260912/3236398.htm",
      "source": "ettoday",
      "source_name": "ETtoday",
-     "published": "2026-09-13T09:44:00+08:00",
-     "description": "民進黨台北市長參選人、立委沈伯洋接受中廣流行網主持人王偉忠專訪，10日節目播出後引發熱烈討論。沈伯洋競總表示，截至12日上線短短兩天，觀看次數已突破百萬、留言近萬則，不僅登上中廣節目點閱冠軍，一舉超越原本蔡康永專訪的96萬，更大幅超過蔣萬安3年前接受王偉忠專訪的24萬觀看成績，展現驚人擴散力。沈伯洋競總發言人蔡一愷更預告，接下來還有「驚喜合體」。 《詳全文...》",
+     "published": "2026-09-12T23:52:00+08:00",
+     "description": "日媒指出，多名熟悉美中關係人士表示，中國當局已告知美國，希望華府在川習會前，不要通過新的對台軍售案，否則習近平可能取消原定訪美行程。由於美國總統川普希望在11月期中選舉前展現外交成果，美中雙方目前仍持續進行最後協調。 《詳全文...》",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -2644,46 +2731,12 @@
      }
     },
     {
-     "title": "王偉忠訪沈伯洋點閱破百萬 蔣萬安「一句話」回應尚未接受邀訪原因 | 蕭宥宸 | 新聞",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9tQVRrTkVsNklBQjlPc0FDTkQ4MnZ1MGxiWS1vN2JXbkhQZHIxNDI0d1RfZ2NUaW81R01Na2NJc1V0ejV4cWJPZnZEZFBmZw?oc=5",
-     "source": "storm",
-     "source_name": "風傳媒",
-     "published": "2026-09-12T23:31:30+08:00",
-     "description": "王偉忠訪沈伯洋點閱破百萬 蔣萬安「一句話」回應尚未接受邀訪原因 | 蕭宥宸 | 新聞  風傳媒",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "王偉忠節目曾邀訪多次都沒答應？蔣萬安回應曝原因- 政治",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1wQmdiTDhybVVXb2NYRWFaN1JBV1ByaDVha1FwMVZQQXU1TUR6V0tnYXRfUkVBdDh2dnZNTXZ0MUtqRVczemM5Y21QdXdJbXJqMGpnT0MzanIxTk9FWmxuMVVjX1NvTDRFTDRydjl3?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-09-12T21:36:49+08:00",
-     "description": "王偉忠節目曾邀訪多次都沒答應？蔣萬安回應曝原因- 政治  中時新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "破百萬點閱！王偉忠專訪沈伯洋登中廣節目冠軍 競總預告有「驚喜合體」",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTVUF6UnJRcU1LRFhTMFVZVG83TWNUNDdzRTMwaUhoVG80U0tyUnBjd2Vabkd0NnJ5QjZzLW9TYlNhUldQS0N3OFk4SzRqREt1XzdNZzFwWERSbk0?oc=5",
+     "title": "共同社：北京威脅華府若批准新對台軍售將取消習川會| 國際",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ndFczel9zZ09SMlk5QWNZOXNqaGtJUHl1Q3JqUUhlb0Q4RDlKdFJKak1raV82bXVwd0c4anNRbldLXzVfQk0tWURCLTBnMkN2TUZNM1lKQlA1clU?oc=5",
      "source": "newtalk",
      "source_name": "新頭殼",
-     "published": "2026-09-12T20:40:27+08:00",
-     "description": "破百萬點閱！王偉忠專訪沈伯洋登中廣節目冠軍 競總預告有「驚喜合體」  Newtalk新聞",
+     "published": "2026-09-12T22:46:31+08:00",
+     "description": "共同社：北京威脅華府若批准新對台軍售將取消習川會| 國際  Newtalk新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -2695,29 +2748,12 @@
      }
     },
     {
-     "title": "趙少康爆多次邀蔣萬安被拒　沈伯洋：不希望「不回應」成品牌",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Vc3JVUE5PYjhkUTVQRTdiOWo5S2FxV016czhQZUF3ZS1kVWZpZy00VFMtLWJ0bWo1ZHRBaUxWZ2p6d1FHRXpjNnFoTjhPcmY1cGfSAVJBVV95cUxOVXNyVVBOT2I4ZFE1UEU3YjlqOUthcVdNenM4UGVBd2UtZFVmaWctNFRTLS1idG1qNWR0QWlMVmdqendRR0V6YzZxaE44T3JmNXBn?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-09-12T16:23:44+08:00",
-     "description": "趙少康爆多次邀蔣萬安被拒　沈伯洋：不希望「不回應」成品牌  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "王偉忠專訪沈伯洋爆紅！趙少康曝《中廣》邀不到蔣萬安  本尊回應了",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5571735",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-09-12T16:15:28+08:00",
-     "description": "民進黨台北市長參選人沈伯洋近日接受中廣流行網主持人王偉忠專訪，被解讀走入異溫層，兩方互動也讓流量飆升。王偉忠在節目中還要沈傳話台北市長蔣萬安，「偉忠哥找你上節目，你記得要來」。...…",
+     "title": "共同社：北京威脅華府　若批准新對台軍售將取消習川會",
+     "link": "https://www.cna.com.tw/news/aopl/202609120211.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-09-12T22:03:07+08:00",
+     "description": "（中央社東京12日綜合外電報導）日本共同社報導，多位熟悉美中關係的消息人士今天透露，中國已經告知美國，如果華府於兩國元首會談之前批准任何新的對台灣軍售案，北京有意取消原定本月稍晚舉行的領袖會談。",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -2725,33 +2761,16 @@
        "source": "unknown"
       },
       "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
      }
     },
     {
-     "title": "王偉忠遭藍營炎上「只訪問沈伯洋」　趙少康：中廣多次邀訪蔣萬安都未同意",
-     "link": "https://www.mirrormedia.mg/story/20260912edi004",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-09-12T12:12:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "趙少康爆「多次邀訪都不回」　蔣萬安曝原因：工作很忙碌",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ReU9jVzVDS196NUVIemNmaXg1SFNfZ0czOTI5ODNUaEQyX0pweDNVV0xudHFwdWg0U2ZvZ0dyeFN4dDg5U0ZVN0xIMW9qTWVnVUHSAVJBVV95cUxNUXlPY1c1Q0tfejVFSHpjZml4NUhTX2dHMzkyOTgzVGhEMl9KcHgzVVdMbnRxcHVoNFNmb2dHcnhTeHQ4OVNGVTdMSDFvak1lZ1VB?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-09-12T11:50:21+08:00",
-     "description": "趙少康爆「多次邀訪都不回」　蔣萬安曝原因：工作很忙碌  NOWnews今日新聞",
+     "title": "川習會倒數！北京警告美國：如川普批准新對台軍售案，將取消元首峰會 | 國際中心 | 新聞",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE05TzFGYzhpVFRycWVKLXFJcmJTVENhSW5GbWtwZ1BFZ29ielRWSGx6THhSUG1TR1JpMUpmWjF6dzctZ0RTTkRrMjZNXzBCZw?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-09-12T17:15:00+08:00",
+     "description": "川習會倒數！北京警告美國：如川普批准新對台軍售案，將取消元首峰會 | 國際中心 | 新聞  風傳媒",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -2759,24 +2778,7 @@
        "source": "unknown"
       },
       "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "趙少康爆「多次邀訪都不回」　蔣萬安曝原因：工作很忙碌",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE85cVNTbV9SdEtIQ3QzZzhGUXJnWGpvU294ZFlEa3FEN2JoXzhGaDU2NVB4QkpCMU13X2FIM0dEcU9nSVNubWk2VjN0VVLSAVJBVV95cUxNUXlPY1c1Q0tfejVFSHpjZml4NUhTX2dHMzkyOTgzVGhEMl9KcHgzVVdMbnRxcHVoNFNmb2dHcnhTeHQ4OVNGVTdMSDFvak1lZ1VB?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-09-12T11:50:21+08:00",
-     "description": "趙少康爆「多次邀訪都不回」　蔣萬安曝原因：工作很忙碌  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -2804,12 +2806,12 @@
    ],
    "articles": [
     {
-     "title": "自由日日shoot》乾冰凍腿截肢也敢做 異常理賠露餡",
-     "link": "https://news.ltn.com.tw/news/society/paper/1770752",
+     "title": "自由日日shoot》保險員、護理師、法律人跨界聯手 假摔假車禍 詐保2200萬",
+     "link": "https://news.ltn.com.tw/news/society/paper/1770751",
      "source": "ltn",
      "source_name": "自由時報",
      "published": "2026-09-15T05:30:00+08:00",
-     "description": "〔記者劉詠韻／台北報導〕詐保案例層出不窮，手法更是千奇百怪，有人以乾冰凍傷雙腿致截肢，也有人找「槍手」冒名住院，甚至組團赴柬埔寨購買假診斷證明。不過，這些精心設計的騙局，往往因投保時間、就醫地點及理賠頻率出現異常，遭保險公司發現異常，再由檢警調查識破。\n\n第一起案例中，廖建富與高中同學張瀚共謀以…",
+     "description": "10人專業詐保團起訴\n〔記者劉詠韻／台北報導〕台北地檢署偵破一起由專業人士組成的詐保集團，卅八歲男子林祐葦與卅九歲妻子洪玉雯網羅護理師、保險業務員及具醫材、法律背景的親友共十人，自二〇二二年起製造假車禍與自殘事故，密集向十二家保險公司投保，並多次以假摔等方式製造受傷事故，申請理賠，成功詐領高達二二…",
      "author": "劉詠韻",
      "metadata": {
       "schema_version": 1,
@@ -2822,12 +2824,12 @@
      }
     },
     {
-     "title": "自由日日shoot》保險員、護理師、法律人跨界聯手 假摔假車禍 詐保2200萬",
-     "link": "https://news.ltn.com.tw/news/society/paper/1770751",
+     "title": "自由日日shoot》乾冰凍腿截肢也敢做 異常理賠露餡",
+     "link": "https://news.ltn.com.tw/news/society/paper/1770752",
      "source": "ltn",
      "source_name": "自由時報",
      "published": "2026-09-15T05:30:00+08:00",
-     "description": "10人專業詐保團起訴\n〔記者劉詠韻／台北報導〕台北地檢署偵破一起由專業人士組成的詐保集團，卅八歲男子林祐葦與卅九歲妻子洪玉雯網羅護理師、保險業務員及具醫材、法律背景的親友共十人，自二〇二二年起製造假車禍與自殘事故，密集向十二家保險公司投保，並多次以假摔等方式製造受傷事故，申請理賠，成功詐領高達二二…",
+     "description": "〔記者劉詠韻／台北報導〕詐保案例層出不窮，手法更是千奇百怪，有人以乾冰凍傷雙腿致截肢，也有人找「槍手」冒名住院，甚至組團赴柬埔寨購買假診斷證明。不過，這些精心設計的騙局，往往因投保時間、就醫地點及理賠頻率出現異常，遭保險公司發現異常，再由檢警調查識破。\n\n第一起案例中，廖建富與高中同學張瀚共謀以…",
      "author": "劉詠韻",
      "metadata": {
       "schema_version": 1,
@@ -2997,7 +2999,7 @@
    "last_updated": "2026-09-15T00:29:18.583538+08:00",
    "tags": [
     "澤倫斯基",
-    "俄羅斯柴油設",
+    "羅斯柴油設施",
     "川普"
    ],
    "articles": [
@@ -3190,13 +3192,13 @@
     "pts",
     "tvbs"
    ],
-   "article_count": 13,
+   "article_count": 17,
    "first_seen": "2026-09-13T10:39:38+08:00",
    "last_updated": "2026-09-14T14:41:19+08:00",
    "tags": [
     "槍制伏",
-    "男持刀",
-    "隨機"
+    "隨機",
+    "男持刀"
    ],
    "claims": [
     {
@@ -3255,6 +3257,23 @@
      }
     },
     {
+     "title": "彎過頭了! 跑車逆向撞休旅車 1家5口送醫｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xS1dDTXh3M0FxeHVCdkE1Z0VibERuVVlKendTbjIteDRZMDZwTzh3Z1pXdzVNMXIxTDUtbWhFTWV3U1FvUWZsMlh2UVBkaFdETGdxNEVn?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-09-13T18:42:10+08:00",
+     "description": "彎過頭了! 跑車逆向撞休旅車 1家5口送醫｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網  TVBS新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
      "title": "男持刀傷2人還逼近員警　喝令無效遭警開槍制止",
      "link": "https://www.mirrormedia.mg/story/20260913-172soc-182701",
      "source": "mirror",
@@ -3269,6 +3288,40 @@
       },
       "acquisition": "rss",
       "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "街頭隨機砍人! 男持水果刀傷2婦 警電擊再開槍｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQTZ6RnhqUlZaYWMxRXBsWWR6T3hsRmF0eHo5UHBwQ2wzRnRlN252Sm9XZk14aDQ2R0NOaXQ5cWpETVZQeXFuR214NFpCV1hhOHRtUkdTU0VlLUtKTFJNVjU2V2k2SUd5Z1RuLUpEODBpUVY0S1IxN0RMNVNQRGxqSXNZZ3VGRXBPUEsycHlOcVQ?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-09-13T18:12:16+08:00",
+     "description": "街頭隨機砍人! 男持水果刀傷2婦 警電擊再開槍｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網  news.tvbs.com.tw",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "街頭隨機砍人! 男持水果刀傷2婦 警電擊再開槍｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jQmJ5NVZ5N1plZWFrMDJtMWc2c2k4cDZLal9ERFUyMXRnRTdDai1Ka0RMM2VrU2NSbW1SUFZWUjR4WjJhTVExc25wWm1nejByWVlGUXJR?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-09-13T18:12:16+08:00",
+     "description": "街頭隨機砍人! 男持水果刀傷2婦 警電擊再開槍｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網  TVBS新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
@@ -3338,14 +3391,38 @@
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
-    },
+    }
+   ]
+  },
+  {
+   "id": "46e189022799",
+   "title": "沈伯洋專訪破81萬碾壓蔣萬安趙少康爆：約多次他不來| 政治",
+   "outlet_count": 7,
+   "outlets": [
+    "chinatimes",
+    "ettoday",
+    "ltn",
+    "mirror",
+    "newtalk",
+    "nownews",
+    "storm"
+   ],
+   "article_count": 11,
+   "first_seen": "2026-09-12T11:03:31+08:00",
+   "last_updated": "2026-09-13T18:07:42+08:00",
+   "tags": [
+    "蔣萬安",
+    "沈伯洋",
+    "王偉忠"
+   ],
+   "articles": [
     {
-     "title": "台南男持刀隨機傷2路人遭警開槍制伏| 社會",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UNjNMZGRHc0NaTXJwUUNJQmNyem5XTVc4eFM4cms4a09Ia3N5aElfVWtRMTV4S1ZNdEJYX3hqTUl2WE9QMWFwUXJlQk9NR3BMMC1GdHJLcnVVbkk?oc=5",
+     "title": "王偉忠專訪沈伯洋引爆流量矢板明夫盛讚:：走出舒適圈| 政治",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xSi1WbzU5alA2VjVFYUpuMmdXSFdwbFM3Sk5zSG9aOW1JN0NKSFpnYzJVOHZtVHk1NVBXS1FyN2psM1pXTXJXQXdtMmNrRGdMaXg2VnFjQ2hfVUE?oc=5",
      "source": "newtalk",
      "source_name": "新頭殼",
-     "published": "2026-09-13T11:50:02+08:00",
-     "description": "台南男持刀隨機傷2路人遭警開槍制伏| 社會  Newtalk新聞",
+     "published": "2026-09-13T18:07:42+08:00",
+     "description": "王偉忠專訪沈伯洋引爆流量矢板明夫盛讚:：走出舒適圈| 政治  Newtalk新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -3357,12 +3434,29 @@
      }
     },
     {
-     "title": "六旬男持刀隨機劃傷2女 台南警開槍制伏3人送醫",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LVEN3UTRiNy1HNzE4RGhneGZDcG1YRXlUbFlYUGpSYXZSX2lKdGZ1dExBNS1jZ3ZkOUJTR19wSmdSdlJONTVVRUtscXg4OTZfaVd6czJB?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-09-13T11:26:41+08:00",
-     "description": "六旬男持刀隨機劃傷2女 台南警開槍制伏3人送醫  TVBS新聞網",
+     "title": "王偉忠專訪沈伯洋破百萬點閱！　競總預告「還有驚喜合體」",
+     "link": "https://www.ettoday.net/news/20260913/3236472.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-09-13T09:44:00+08:00",
+     "description": "民進黨台北市長參選人、立委沈伯洋接受中廣流行網主持人王偉忠專訪，10日節目播出後引發熱烈討論。沈伯洋競總表示，截至12日上線短短兩天，觀看次數已突破百萬、留言近萬則，不僅登上中廣節目點閱冠軍，一舉超越原本蔡康永專訪的96萬，更大幅超過蔣萬安3年前接受王偉忠專訪的24萬觀看成績，展現驚人擴散力。沈伯洋競總發言人蔡一愷更預告，接下來還有「驚喜合體」。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "王偉忠訪沈伯洋點閱破百萬 蔣萬安「一句話」回應尚未接受邀訪原因 | 蕭宥宸 | 新聞",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9tQVRrTkVsNklBQjlPc0FDTkQ4MnZ1MGxiWS1vN2JXbkhQZHIxNDI0d1RfZ2NUaW81R01Na2NJc1V0ejV4cWJPZnZEZFBmZw?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-09-12T23:31:30+08:00",
+     "description": "王偉忠訪沈伯洋點閱破百萬 蔣萬安「一句話」回應尚未接受邀訪原因 | 蕭宥宸 | 新聞  風傳媒",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -3370,58 +3464,372 @@
        "source": "unknown"
       },
       "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
-     "title": "台南男持刀隨機傷2路人　遭警開槍制伏",
-     "link": "https://www.cna.com.tw/news/asoc/202609130039.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-09-13T11:13:02+08:00",
-     "description": "（中央社記者楊思瑞台南13日電）台南市麻豆區1名男子今天上午持水果刀在道路旁隨機攻擊路人，導致2名年約70歲女性受傷，其中1人送醫，員警到場開槍擊中男子腿部壓制送醫，制伏過程中2名員警受輕傷。",
-     "author": "楊思瑞",
+     "title": "王偉忠節目曾邀訪多次都沒答應？蔣萬安回應曝原因- 政治",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1wQmdiTDhybVVXb2NYRWFaN1JBV1ByaDVha1FwMVZQQXU1TUR6V0tnYXRfUkVBdDh2dnZNTXZ0MUtqRVczemM5Y21QdXdJbXJqMGpnT0MzanIxTk9FWmxuMVVjX1NvTDRFTDRydjl3?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-09-12T21:36:49+08:00",
+     "description": "王偉忠節目曾邀訪多次都沒答應？蔣萬安回應曝原因- 政治  中時新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
-       "name": "楊思瑞",
-       "source": "description"
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "破百萬點閱！王偉忠專訪沈伯洋登中廣節目冠軍 競總預告有「驚喜合體」",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTVUF6UnJRcU1LRFhTMFVZVG83TWNUNDdzRTMwaUhoVG80U0tyUnBjd2Vabkd0NnJ5QjZzLW9TYlNhUldQS0N3OFk4SzRqREt1XzdNZzFwWERSbk0?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-09-12T20:40:27+08:00",
+     "description": "破百萬點閱！王偉忠專訪沈伯洋登中廣節目冠軍 競總預告有「驚喜合體」  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "趙少康爆多次邀蔣萬安被拒　沈伯洋：不希望「不回應」成品牌",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Vc3JVUE5PYjhkUTVQRTdiOWo5S2FxV016czhQZUF3ZS1kVWZpZy00VFMtLWJ0bWo1ZHRBaUxWZ2p6d1FHRXpjNnFoTjhPcmY1cGfSAVJBVV95cUxOVXNyVVBOT2I4ZFE1UEU3YjlqOUthcVdNenM4UGVBd2UtZFVmaWctNFRTLS1idG1qNWR0QWlMVmdqendRR0V6YzZxaE44T3JmNXBn?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-09-12T16:23:44+08:00",
+     "description": "趙少康爆多次邀蔣萬安被拒　沈伯洋：不希望「不回應」成品牌  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "王偉忠專訪沈伯洋爆紅！趙少康曝《中廣》邀不到蔣萬安  本尊回應了",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5571735",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-09-12T16:15:28+08:00",
+     "description": "民進黨台北市長參選人沈伯洋近日接受中廣流行網主持人王偉忠專訪，被解讀走入異溫層，兩方互動也讓流量飆升。王偉忠在節目中還要沈傳話台北市長蔣萬安，「偉忠哥找你上節目，你記得要來」。...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
       },
       "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/social"
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "王偉忠遭藍營炎上「只訪問沈伯洋」　趙少康：中廣多次邀訪蔣萬安都未同意",
+     "link": "https://www.mirrormedia.mg/story/20260912edi004",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-09-12T12:12:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "趙少康爆「多次邀訪都不回」　蔣萬安曝原因：工作很忙碌",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE85cVNTbV9SdEtIQ3QzZzhGUXJnWGpvU294ZFlEa3FEN2JoXzhGaDU2NVB4QkpCMU13X2FIM0dEcU9nSVNubWk2VjN0VVLSAVJBVV95cUxNUXlPY1c1Q0tfejVFSHpjZml4NUhTX2dHMzkyOTgzVGhEMl9KcHgzVVdMbnRxcHVoNFNmb2dHcnhTeHQ4OVNGVTdMSDFvak1lZ1VB?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-09-12T11:50:21+08:00",
+     "description": "趙少康爆「多次邀訪都不回」　蔣萬安曝原因：工作很忙碌  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "趙少康爆「多次邀訪都不回」　蔣萬安曝原因：工作很忙碌",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ReU9jVzVDS196NUVIemNmaXg1SFNfZ0czOTI5ODNUaEQyX0pweDNVV0xudHFwdWg0U2ZvZ0dyeFN4dDg5U0ZVN0xIMW9qTWVnVUHSAVJBVV95cUxNUXlPY1c1Q0tfejVFSHpjZml4NUhTX2dHMzkyOTgzVGhEMl9KcHgzVVdMbnRxcHVoNFNmb2dHcnhTeHQ4OVNGVTdMSDFvak1lZ1VB?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-09-12T11:50:21+08:00",
+     "description": "趙少康爆「多次邀訪都不回」　蔣萬安曝原因：工作很忙碌  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
   },
   {
-   "id": "ba669019093d",
-   "title": "共同社：北京威脅華府　若批准新對台軍售將取消習川會",
-   "outlet_count": 7,
+   "id": "96605a0befde",
+   "title": "好市多熟食區10月起「點餐前先掃會員卡」　全台1門市除外",
+   "outlet_count": 6,
    "outlets": [
-    "cna",
     "ebc",
     "ettoday",
     "ltn",
-    "newtalk",
-    "pts",
+    "mirror",
+    "nownews",
     "storm"
    ],
-   "article_count": 8,
-   "first_seen": "2026-09-12T17:15:00+08:00",
-   "last_updated": "2026-09-13T13:04:49+08:00",
+   "article_count": 9,
+   "first_seen": "2026-09-14T09:25:00+08:00",
+   "last_updated": "2026-09-15T10:14:00+08:00",
    "tags": [
-    "對台軍售",
-    "川習會",
-    "將取消"
+    "好市多熟食區",
+    "掃會員卡",
+    "點餐"
    ],
    "articles": [
     {
-     "title": "日媒揭中國提川習會前提 禁美會談前批准對台新軍售",
-     "link": "https://news.pts.org.tw/article/826837",
+     "title": "好市多熟食區全面掃會員卡！　全台唯一特例「台中南屯店」免掃內幕曝光",
+     "link": "https://www.mirrormedia.mg/story/20260915edi011",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-09-15T10:14:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "熟食部也要掃卡！好市多新規「禁非會員」10/1上路",
+     "link": "https://news.ebc.net.tw/news/living/571244",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-09-14T20:40:34.455282+08:00",
+     "description": "美式賣場熟食部10月1日起將全面實施會員制，購買熱狗、披薩等餐點前須先掃會員卡，不少會員認為可減少排隊及亂象。不過台中南屯店因市府合約成為全台唯一例外。",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "好市多熟食區改規則！10/1起購餐先掃會員卡　這間門市不受影響",
+     "link": "https://www.mirrormedia.mg/story/20260914edi032",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-09-14T12:09:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "非會員占位惹怨！好市多餐飲部10月起掃會員卡才能點餐",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5573254",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-09-14T11:58:12+08:00",
+     "description": "美式賣場好市多（Costco）台中兩家分店，即日起張貼公告稱自10月1日起，會員購買西式餐飲部餐點前，須先掃描會員卡或會員條碼，才能點餐消費，據指出，新制源自眾多「非會員」佔據...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "非會員不能買牛肉捲囉  好市多祭新制 餐飲區10月起點餐需先掃會員卡",
+     "link": "https://ec.ltn.com.tw/article/breakingnews/5573244",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-09-14T11:49:02+08:00",
+     "description": "好市多（Costco）賣場餐飲區午餐時段常常大排長龍，好市多今天在官網公告，自10月1日起，購買西式餐飲的披薩、牛肉捲等餐點前，須先掃描會員卡或會員條碼，才能進行消費，但...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "好市多重大宣布！熟食區10/1起「沒掃會員卡不能買」",
+     "link": "https://news.ebc.net.tw/news/living/571142",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-09-14T10:41:13.799387+08:00",
+     "description": "美式賣場好市多（Costco）宣布，自10月1日起，民眾至西式餐飲部購買熱狗、披薩等餐點前，必須先掃描實體會員卡或手機條碼完成身分驗證，才能點餐結帳。",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "好市多熟食區10月起「點餐要會員卡」！1門市例外　眾讚終於等到",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBPVUJjZmZsUDRlR3JHd084MFdHV3BldHBFLVJnOHVzbTdyOVRBbFVUZFV5T1BCemxyVGd0UkJZclZiTUZJdU84OUhZYXXSAVJBVV95cUxOOTJONnNQRkVZSENDQlRkWDctRFN1RHhwdDI3YWpfWjNwRl92bnBlWGtBZ1FLYjBQbWp4R2ZUbjdUbTBITVE2ZTc3MGRtTGhPRHpB?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-09-14T10:18:23+08:00",
+     "description": "好市多熟食區10月起「點餐要會員卡」！1門市例外　眾讚終於等到  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "非會員不能買了？好市多熟食區10月起「點餐先掃會員卡」 全台1門市例外 | 張庭維 | 新聞",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE81Q2g5b2xxUlQzb2lIOC1sTXlYMHpDRnpta0tsY0Y3UkRyMEtZUDJGZDU4Z3gydnVJV0dvUGFqZXZjR0NqNUVvRVFoUFFrZw?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-09-14T09:47:52+08:00",
+     "description": "非會員不能買了？好市多熟食區10月起「點餐先掃會員卡」 全台1門市例外 | 張庭維 | 新聞  風傳媒",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "好市多熟食區10月起「點餐前先掃會員卡」　全台1門市除外",
+     "link": "https://www.ettoday.net/news/20260914/3236895.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-09-14T09:25:00+08:00",
+     "description": "美式賣場好市多（Costco）熟食區將有新規定，今（14）日好市多在官網公告，10月1日起，會員購買西式餐飲部（熟食區）餐點前，須先掃描會員卡或會員條碼才能消費，不過台中南屯店不適用。消息曝光後，不少會員表示支持，認為可望減少非會員購餐情況，尖峰時段排隊人潮也有機會縮短。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    }
+   ]
+  },
+  {
+   "id": "a1f03e67ce5d",
+   "title": "中國入境新規9/15施行 陸委會示警5類民眾需留意風險",
+   "outlet_count": 6,
+   "outlets": [
+    "ebc",
+    "mirror",
+    "newtalk",
+    "pts",
+    "setn",
+    "storm"
+   ],
+   "article_count": 14,
+   "first_seen": "2026-09-14T09:09:13+08:00",
+   "last_updated": "2026-09-15T09:59:26+08:00",
+   "tags": [
+    "國出入境新規",
+    "陸委會",
+    "中國"
+   ],
+   "articles": [
+    {
+     "title": "9/15上午新聞快報！杜鵑颱風最快今生成、中國出入境新規今起施行、費半收跌5.86% | 江勳紘 | 風生活",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE44bEtnbldXaHd3TG9Vam1MQzRfZWlHR3FtQlJhY0ZGRzhWZVBybG9mbkFWeDdDMHAyaEs1ZlRIWkhicXBqUTlEN3JzV2J0SmZl?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-09-15T09:59:26+08:00",
+     "description": "9/15上午新聞快報！杜鵑颱風最快今生成、中國出入境新規今起施行、費半收跌5.86% | 江勳紘 | 風生活  風傳媒",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "圖解》中國出入境新規上路，「5類人」赴陸有去無回？陸委會竟然「不升級」旅遊警示燈號，背後原因曝光| 楊騰凱 | 新聞",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE05V3VzR0xZVmg2dHR0N3BjRlhseFJUaHR0OVhxQ1J2ZlQxck8zSWVCVThtNjdoWHB0RGNRUXNraTVxZU5FMzBQbzNlZENJUQ?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-09-15T09:46:02+08:00",
+     "description": "圖解》中國出入境新規上路，「5類人」赴陸有去無回？陸委會竟然「不升級」旅遊警示燈號，背後原因曝光| 楊騰凱 | 新聞  風傳媒",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "中國明將實施出入境新規 陸委會：近年明顯強化維穩力道",
+     "link": "https://news.pts.org.tw/article/827031",
      "source": "pts",
      "source_name": "公視新聞",
-     "published": "2026-09-13T13:04:49+08:00",
-     "description": "繼今（2026）年5月川習會後，中國國家主席習近平預定這個月訪美，與美國總統川普（Donald Trump）再度會談。不過日媒共同社報導，中國向美國表示，如果會談前美方批准任何新的對台軍售，將取消川習會。學者分析，雖然短期我方無法獲得軍售，但長期來說，在兩岸軍力差距下，美方還是會同意軍售。",
+     "published": "2026-09-14T20:51:03+08:00",
+     "description": "中國明（15）日起將施行「國務院關於出境入境管理的規定」，以維護國家安全為由，賦予執法人員極高的行政裁量權。陸委會提醒，包括曾發表政治言論者、公務人員、科技業與商界人士等5類民眾前往中國，要留意入出境與電子資料遭到檢查的風險。",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -3433,12 +3841,63 @@
      }
     },
     {
-     "title": "中方放話了？美若再軍售台灣恐取消川習會| 國際",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13dTZTZlJRT1NFX0VLTkN1RzIyZGg5SmZKaXRwUHNrSW5QS2FYRUF6cjI0MFNHMFNoLW96d2JVUDRxTUdSWTZ3clZqSEh4SHVDTUk2elZrQUZ6UW8?oc=5",
+     "title": "出入境新規",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUTWFjTmxUMjBKSjZadVU4eTBtNHh6VUlWMnBHUlFuV2VvNUxZR011V2RnMmsxSWEwVExMenRWT250LTZrMnQ4UGZkVlJHb21MWFdEeg?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-09-14T20:16:14+08:00",
+     "description": "出入境新規  三立新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "圖解》大陸出入境新規上路，當心有去無回！海基會提出新版「高風險族群」：3大自保手段曝光| 楊騰凱 | 新聞",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9SR3VndDMwalJPWFdNdFZrd1ZxUk9rZWlIUVhRbDMxaDQ2V3EtenJoeVgzR2NZcVhuUzVEaUJjaGRNNDFyM0JUQ1FVb3RCZw?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-09-14T19:58:34+08:00",
+     "description": "圖解》大陸出入境新規上路，當心有去無回！海基會提出新版「高風險族群」：3大自保手段曝光| 楊騰凱 | 新聞  風傳媒",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "懶人包／赴陸旅遊拿台胞證有危險？中國出入境新規9/15上路！「8大高風險族群」恐無法回台灣， 陸委會示警一次看",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Dd0w3WWZmU2g4ZWJwVGFvOG1DZWFiWUpUQlNnaFE3R3dwLWg1TmdUVDdmZktkbzRuM3lpSElJdmtjaHpFOGg1Q1BmeWxXTHNR?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-09-14T17:39:00+08:00",
+     "description": "懶人包／赴陸旅遊拿台胞證有危險？中國出入境新規9/15上路！「8大高風險族群」恐無法回台灣， 陸委會示警一次看  風傳媒",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "中國出入境新規明上路！旅行社也是情報機構學者：中共已建立台灣人的大數據庫| 政治",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Jc2Q2eUExMkZKd0VGRGx0RHhDblg5V1hfcndzSlRJOThoRkc3eUpfYWRyWUg3OUYzTVhhUnRUXzN1bkN5a1RGeXg3RC1iQ3dMMGhyZmQ5eU1jVEE?oc=5",
      "source": "newtalk",
      "source_name": "新頭殼",
-     "published": "2026-09-13T11:18:21+08:00",
-     "description": "中方放話了？美若再軍售台灣恐取消川習會| 國際  Newtalk新聞",
+     "published": "2026-09-14T16:29:36+08:00",
+     "description": "中國出入境新規明上路！旅行社也是情報機構學者：中共已建立台灣人的大數據庫| 政治  Newtalk新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -3450,12 +3909,12 @@
      }
     },
     {
-     "title": "川習會前中國出招 若批准「對台軍售」恐取消訪美",
-     "link": "https://news.ebc.net.tw/news/world/571012",
+     "title": "中國出入境新規明上路  陸委會示警「5類人」有風險",
+     "link": "https://news.ebc.net.tw/news/world/571203",
      "source": "ebc",
      "source_name": "東森新聞",
-     "published": "2026-09-13T10:36:08.126808+08:00",
-     "description": "川習會倒數！中國國家主席習近平將在9月24號前往美國，和美國總統川普面對面會談。然而根據日媒報導，現在傳出多名美中關係的消息人士透露，中國向美方明確表示，如果美",
+     "published": "2026-09-14T14:55:02.549085+08:00",
+     "description": "中國出入境新規明起上路，陸委會示警台商、台企幹部、半導體與高科技人才、公務員及特定宗教人士5類人，赴中恐面臨出入境風險。",
      "category": "world",
      "metadata": {
       "schema_version": 1,
@@ -3469,12 +3928,12 @@
      }
     },
     {
-     "title": "美若月底前 批准新的對台軍售案 中國威脅華府 將取消川習會",
-     "link": "https://news.ltn.com.tw/news/world/paper/1770414",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-09-13T05:30:00+08:00",
-     "description": "〔國際新聞中心／綜合報導〕根據日本共同社十二日報導，多名熟悉中美關係的消息人士透露，中國已向美國傳達，若華府在本月底美中元首會晤前批准任何新的對台軍售案，中方有意取消原訂舉行的兩國領導人會晤。\n\n川普24日舉辦國宴 接待習近平\n\n美國總統川普似乎急於在十一月期中選舉前展現外交成果，因此高度重…",
+     "title": "中國入境新規9/15施行 陸委會示警5類民眾需留意風險",
+     "link": "https://news.pts.org.tw/article/826946",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-09-14T14:08:24+08:00",
+     "description": "中國15日將施行國務院關於出境入境管理的規定，以維護國家安全等理由，賦予執法人員極高的行政裁量權。陸委會副主委沈有忠提醒，包括曾發表政治言論者、公務人員、科技業與商界人士等等5類民眾前往中國要留意風險。",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -3482,16 +3941,16 @@
        "source": "unknown"
       },
       "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
      }
     },
     {
-     "title": "中國施壓美國　若批准對台軍售「將取消川習會」",
-     "link": "https://www.ettoday.net/news/20260912/3236398.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-09-12T23:52:00+08:00",
-     "description": "日媒指出，多名熟悉美中關係人士表示，中國當局已告知美國，希望華府在川習會前，不要通過新的對台軍售案，否則習近平可能取消原定訪美行程。由於美國總統川普希望在11月期中選舉前展現外交成果，美中雙方目前仍持續進行最後協調。 《詳全文...》",
+     "title": "寧可抓錯不漏放！中國出入境新規實施　陸委會點名5類人高風險「進去恐出不來」",
+     "link": "https://www.mirrormedia.mg/story/20260914edi052",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-09-14T13:51:00+08:00",
+     "description": "",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -3499,58 +3958,7 @@
        "source": "unknown"
       },
       "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "共同社：北京威脅華府若批准新對台軍售將取消習川會| 國際",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ndFczel9zZ09SMlk5QWNZOXNqaGtJUHl1Q3JqUUhlb0Q4RDlKdFJKak1raV82bXVwd0c4anNRbldLXzVfQk0tWURCLTBnMkN2TUZNM1lKQlA1clU?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-09-12T22:46:31+08:00",
-     "description": "共同社：北京威脅華府若批准新對台軍售將取消習川會| 國際  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "共同社：北京威脅華府　若批准新對台軍售將取消習川會",
-     "link": "https://www.cna.com.tw/news/aopl/202609120211.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-09-12T22:03:07+08:00",
-     "description": "（中央社東京12日綜合外電報導）日本共同社報導，多位熟悉美中關係的消息人士今天透露，中國已經告知美國，如果華府於兩國元首會談之前批准任何新的對台灣軍售案，北京有意取消原定本月稍晚舉行的領袖會談。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
-     }
-    },
-    {
-     "title": "川習會倒數！北京警告美國：如川普批准新對台軍售案，將取消元首峰會 | 國際中心 | 新聞",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE05TzFGYzhpVFRycWVKLXFJcmJTVENhSW5GbWtwZ1BFZ29ielRWSGx6THhSUG1TR1JpMUpmWjF6dzctZ0RTTkRrMjZNXzBCZw?oc=5",
-     "source": "storm",
-     "source_name": "風傳媒",
-     "published": "2026-09-12T17:15:00+08:00",
-     "description": "川習會倒數！北京警告美國：如川普批准新對台軍售案，將取消元首峰會 | 國際中心 | 新聞  風傳媒",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
      }
     }
    ]
@@ -3779,13 +4187,11 @@
     "pts",
     "tvbs"
    ],
-   "article_count": 12,
+   "article_count": 13,
    "first_seen": "2026-09-12T17:10:00+08:00",
    "last_updated": "2026-09-15T09:03:20.968229+08:00",
    "tags": [
-    "送醫搶救",
-    "公館站",
-    "少女"
+    "送醫搶救"
    ],
    "articles": [
     {
@@ -3805,6 +4211,23 @@
       "acquisition": "scraper",
       "category": "society",
       "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "花蓮社區大樓疑「烘碗機起火」！保全幫滅火吸入濃煙　搶救無效亡",
+     "link": "https://www.ettoday.net/news/20260915/3237520.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-09-15T08:47:00+08:00",
+     "description": "花蓮縣花蓮市一處社區大樓14日晚間發生火警！社區一名保全疑似在協助滅火時吸入大量濃煙，當場失去生命跡象，警消獲報趕抵現場，發現火勢已經控制，現場30多名住戶已自行逃生，隨後將保全送醫搶救，但人仍不幸宣告不治。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
      }
     },
     {
@@ -3943,216 +4366,6 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "才剛開學！屏東2國小生落海 1人無生命跡象",
-     "link": "https://news.ebc.net.tw/news/society/570958",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-09-12T18:25:19.939997+08:00",
-     "description": "國小四年級、一年級的男學生，今天下午前往東港鎮鎮海公園戲水，疑似不慎落水。小四男童被救起時已無生命跡象，緊急送醫搶救。",
-     "category": "society",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "society",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    }
-   ]
-  },
-  {
-   "id": "f019647279e1",
-   "title": "Motorola疑將推寬螢幕、左右開闔設計Razr折疊手機 正面迎戰iPhone Duo",
-   "outlet_count": 6,
-   "outlets": [
-    "chinatimes",
-    "ettoday",
-    "ltn",
-    "setn",
-    "storm",
-    "udn"
-   ],
-   "article_count": 18,
-   "first_seen": "2026-09-12T09:26:44+08:00",
-   "last_updated": "2026-09-15T08:30:00+08:00",
-   "tags": [
-    "蘋果"
-   ],
-   "articles": [
-    {
-     "title": "升級iOS 27看不到Siri AI？台灣這樣開啟　不是每款iPhone都支援",
-     "link": "https://3c.ltn.com.tw/news/67591",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-09-15T08:30:00+08:00",
-     "description": "蘋果今（15日）正式向 iPhone 用戶推送 iOS 27，其中一大主打就是 Siri AI，不僅能進行更自然的對話互動，還能理解使用者的個人情境、跨 App 執行操作，並具備螢幕內容感知能力…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "舊iPhone不用退場！蘋果正式推送iOS 27　十大主打功能一次看",
-     "link": "https://3c.ltn.com.tw/news/67588",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-09-15T08:02:00+08:00",
-     "description": "蘋果今(15日)正式向iPhone用戶推送iOS 27，今年有一個對舊機用戶很友善的消息，就是所有支援iOS 26的機型，都能繼續升級iOS 27，沒有任何一款舊機被淘汰。以下整理 iOS 27十大重點功能。…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "iPhone 不必綁定 Siri！傳蘋果開放 Claude、ChatGPT 全面替代",
-     "link": "https://www.ettoday.net/news/20260914/3237432.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-09-14T22:08:00+08:00",
-     "description": "總認為 Siri 不夠聰明？根據蘋果最新程式碼透露，未來 iPhone 與 Mac 用戶或許能直接改用 Claude 或 ChatGPT 等模型取代，將 AI 助手的選擇權交給使用者。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "變大變便宜？傳蘋果摺疊機 iPhone Duo 或加碼 Max、平價 SE 版",
-     "link": "https://www.ettoday.net/news/20260914/3237407.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-09-14T20:53:00+08:00",
-     "description": "蘋果正式發表首款摺疊手機 iPhone Duo，引發市場高度關注。據傳蘋果有意進一步拓展 iPhone Duo 系列陣容，未來可能推出大螢幕的 Max，或是主打親民價格的 SE 與 mini 款式。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "iPhone Duo摺痕幾乎看不到！蘋果執行長親揭關鍵技術",
-     "link": "https://www.ettoday.net/news/20260914/3237389.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-09-14T19:52:00+08:00",
-     "description": "蘋果首款摺疊手機iPhone Duo正式亮相，其中最受關注的焦點之一，就是螢幕中央摺痕幾乎不明顯。蘋果新任執行長特納斯（John Ternus）近日受訪透露，關鍵之一就是奈米紋理技術（nano-texture），當他第一次看到這項技術用在摺疊原型機上時，當場認定方向正確，直呼「對，就是這個，這就是我要的。」 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "蘋果摺疊機恐與平板互打 高層：iPad mini需求易被填補",
-     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeUR5SzI1ZTJGdUlkVy1CZEJtdHZOV0ZtS1RzOEl6em82NFhBVHdDeEl1QlVtcThoSEVkUlV0aVViUjZ2TU5CTnJzYWYwNGlQejh1bmZweERuWGI0ZGdCSUlnLUF0dHI2bFJ0QTdzYWxjSUY0aThNN3l2NmttWmg1MdIBX0FVX3lxTFBEQkk0YktmRnFUX185M2lndW1pLTgyVERIUDFWTGt2NXFOU3haWHpKdEg0WXpiaFNyVXR3WDJxbGN0WkJyNFhGWDlWS0IzZDZNSDZPWkhxNFo5VEJnMzlv?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-09-14T14:29:02+08:00",
-     "description": "蘋果摺疊機恐與平板互打 高層：iPad mini需求易被填補  udn科技玩家",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "iPhone Duo摺疊機撞到iPad功能？蘋果高層：用戶會找到自然的使用模式",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DYTZmWE9ubW9lRzZhN2ZhbUpyMFVrU2NPNlVFcEJjVXcxVXRwSkRJSnBhNXJlN05hQXBLZVctODR3U1VadUtTTzhYcXpGSzdhaDRHdlNnNldPOUgxVnYw0gFfQVVfeXFMTkNhNmZYT25tb2VHNmE3ZmFtSnIwVWtTY082VUVwQmNVdzFVdHBKRElKcGE1cmU3TmFBcEtlVy04NHdTVVp1S1NPOFhxekZLN2FoNEd2U2c2V085SDFWdjA?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-09-14T09:31:40+08:00",
-     "description": "iPhone Duo摺疊機撞到iPad功能？蘋果高層：用戶會找到自然的使用模式  udn科技玩家",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "iPhone Duo摺疊機「超車安卓」被捧過頭？網曝蘋果最大王牌：用戶難離開",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44OHVib05zZElxQ3lpcVQ0cFdzVGdBTGVHT1hpT3JWMkZEajJPWERycVNmaU5lV1ZqVUdpWEc4c0cxM0tjVTViNW03VnR6SktmbkF3S3N5Yk5DcHBYaDNR0gFfQVVfeXFMTjg4dWJvTnNkSXFDeWlxVDRwV3NUZ0FMZUdPWGlPclYyRkRqMk9YRHJxU2ZpTmVXVmpVR2lYRzhzRzEzS2NVNWI1bTdWdHpKS2ZuQXdLc3liTkNwcFhoM1E?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-09-14T08:31:46+08:00",
-     "description": "iPhone Duo摺疊機「超車安卓」被捧過頭？網曝蘋果最大王牌：用戶難離開  udn科技玩家",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "打破疊機厚度物理限制！傳蘋果將以Apple Intelligence運算技術 將Face ID導入iPhone Duo後繼機種",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JOFVxOXN4a05acWpjYXVYUTBuQzV3TXFDUktab0xjSEpDVkc0VVh6R196czhSRDV6V1RSRlhfX01vaUJmQXJ0NUhpVm1mSHRIVDhRbHhYMnViZGhqaU5v0gFfQVVfeXFMTkk4VXE5c3hrTlpxamNhdVhRMG5DNXdNcUNSS1pvTGNISkNWRzRVWHpHX3pzOFJENXpXVFJGWF9fTW9pQmZBcnQ1SGlWbWZIdEhUOFFseFgydWJkaGppTm8?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-09-14T08:27:22+08:00",
-     "description": "打破疊機厚度物理限制！傳蘋果將以Apple Intelligence運算技術 將Face ID導入iPhone Duo後繼機種  udn科技玩家",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "iPhone Duo左撇子相關報導",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5IcXhGMC00cERJYVhiUkhmTEJzT0tkRTc5Um9PSFgxS09ZXzQwMFg2TkZDVnk5LWNRSzJsa1VXM0JnRlJGOU53Ug?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-09-13T22:59:43+08:00",
-     "description": "iPhone Duo左撇子相關報導  三立新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -4303,364 +4516,6 @@
    ]
   },
   {
-   "id": "a1f03e67ce5d",
-   "title": "中國入境新規9/15施行 陸委會示警5類民眾需留意風險",
-   "outlet_count": 6,
-   "outlets": [
-    "ebc",
-    "mirror",
-    "newtalk",
-    "pts",
-    "setn",
-    "storm"
-   ],
-   "article_count": 12,
-   "first_seen": "2026-09-14T09:09:13+08:00",
-   "last_updated": "2026-09-14T20:51:03+08:00",
-   "tags": [
-    "出入境新規",
-    "陸委會",
-    "中國"
-   ],
-   "articles": [
-    {
-     "title": "中國明將實施出入境新規 陸委會：近年明顯強化維穩力道",
-     "link": "https://news.pts.org.tw/article/827031",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-09-14T20:51:03+08:00",
-     "description": "中國明（15）日起將施行「國務院關於出境入境管理的規定」，以維護國家安全為由，賦予執法人員極高的行政裁量權。陸委會提醒，包括曾發表政治言論者、公務人員、科技業與商界人士等5類民眾前往中國，要留意入出境與電子資料遭到檢查的風險。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "出入境新規",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUTWFjTmxUMjBKSjZadVU4eTBtNHh6VUlWMnBHUlFuV2VvNUxZR011V2RnMmsxSWEwVExMenRWT250LTZrMnQ4UGZkVlJHb21MWFdEeg?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-09-14T20:16:14+08:00",
-     "description": "出入境新規  三立新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "圖解》大陸出入境新規上路，當心有去無回！海基會提出新版「高風險族群」：3大自保手段曝光| 楊騰凱 | 新聞",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9SR3VndDMwalJPWFdNdFZrd1ZxUk9rZWlIUVhRbDMxaDQ2V3EtenJoeVgzR2NZcVhuUzVEaUJjaGRNNDFyM0JUQ1FVb3RCZw?oc=5",
-     "source": "storm",
-     "source_name": "風傳媒",
-     "published": "2026-09-14T19:58:34+08:00",
-     "description": "圖解》大陸出入境新規上路，當心有去無回！海基會提出新版「高風險族群」：3大自保手段曝光| 楊騰凱 | 新聞  風傳媒",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "懶人包／赴陸旅遊拿台胞證有危險？中國出入境新規9/15上路！「8大高風險族群」恐無法回台灣， 陸委會示警一次看",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Dd0w3WWZmU2g4ZWJwVGFvOG1DZWFiWUpUQlNnaFE3R3dwLWg1TmdUVDdmZktkbzRuM3lpSElJdmtjaHpFOGg1Q1BmeWxXTHNR?oc=5",
-     "source": "storm",
-     "source_name": "風傳媒",
-     "published": "2026-09-14T17:39:00+08:00",
-     "description": "懶人包／赴陸旅遊拿台胞證有危險？中國出入境新規9/15上路！「8大高風險族群」恐無法回台灣， 陸委會示警一次看  風傳媒",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "中國出入境新規明上路！旅行社也是情報機構學者：中共已建立台灣人的大數據庫| 政治",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Jc2Q2eUExMkZKd0VGRGx0RHhDblg5V1hfcndzSlRJOThoRkc3eUpfYWRyWUg3OUYzTVhhUnRUXzN1bkN5a1RGeXg3RC1iQ3dMMGhyZmQ5eU1jVEE?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-09-14T16:29:36+08:00",
-     "description": "中國出入境新規明上路！旅行社也是情報機構學者：中共已建立台灣人的大數據庫| 政治  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "中國出入境新規明上路  陸委會示警「5類人」有風險",
-     "link": "https://news.ebc.net.tw/news/world/571203",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-09-14T14:55:02.549085+08:00",
-     "description": "中國出入境新規明起上路，陸委會示警台商、台企幹部、半導體與高科技人才、公務員及特定宗教人士5類人，赴中恐面臨出入境風險。",
-     "category": "world",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "world",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "中國入境新規9/15施行 陸委會示警5類民眾需留意風險",
-     "link": "https://news.pts.org.tw/article/826946",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-09-14T14:08:24+08:00",
-     "description": "中國15日將施行國務院關於出境入境管理的規定，以維護國家安全等理由，賦予執法人員極高的行政裁量權。陸委會副主委沈有忠提醒，包括曾發表政治言論者、公務人員、科技業與商界人士等等5類民眾前往中國要留意風險。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "寧可抓錯不漏放！中國出入境新規實施　陸委會點名5類人高風險「進去恐出不來」",
-     "link": "https://www.mirrormedia.mg/story/20260914edi052",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-09-14T13:51:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "中國明實施出入境管理新規！海基會揭4風險陸委會：基層官員寧可抓錯再放| 政治",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QNU5FbWM4cml3LVcxTVBnY1ZGT2NLdzhETi1xUFhkdVUwRm9xeTZGd1BBOFRuZTBTeE1teGZQM3hBR2dLeU92cDRHSUt2NXBJSEppYjZFMHp4bjA?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-09-14T13:16:26+08:00",
-     "description": "中國明實施出入境管理新規！海基會揭4風險陸委會：基層官員寧可抓錯再放| 政治  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "中國出入境新規明天9/15上路！現在去大陸到底危不危險？海基會曝：「這1物」 千萬不要帶",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5UNDZnR3lIbGRYLThHNF8wWWNzTzBmSkZpZkV0ek9GX2F1d1NuZXc1NUFMTFdKVktUZ1ZCRTdRYWNxQkJBYzVtQXJCSlNTMmEy?oc=5",
-     "source": "storm",
-     "source_name": "風傳媒",
-     "published": "2026-09-14T11:52:49+08:00",
-     "description": "中國出入境新規明天9/15上路！現在去大陸到底危不危險？海基會曝：「這1物」 千萬不要帶  風傳媒",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
-   "id": "96605a0befde",
-   "title": "好市多熟食區10月起「點餐前先掃會員卡」　全台1門市除外",
-   "outlet_count": 6,
-   "outlets": [
-    "ebc",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "nownews",
-    "storm"
-   ],
-   "article_count": 8,
-   "first_seen": "2026-09-14T09:25:00+08:00",
-   "last_updated": "2026-09-14T20:40:34.455282+08:00",
-   "tags": [
-    "好市多熟食區",
-    "掃會員卡",
-    "點餐"
-   ],
-   "articles": [
-    {
-     "title": "熟食部也要掃卡！好市多新規「禁非會員」10/1上路",
-     "link": "https://news.ebc.net.tw/news/living/571244",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-09-14T20:40:34.455282+08:00",
-     "description": "美式賣場熟食部10月1日起將全面實施會員制，購買熱狗、披薩等餐點前須先掃會員卡，不少會員認為可減少排隊及亂象。不過台中南屯店因市府合約成為全台唯一例外。",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "好市多熟食區改規則！10/1起購餐先掃會員卡　這間門市不受影響",
-     "link": "https://www.mirrormedia.mg/story/20260914edi032",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-09-14T12:09:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "非會員占位惹怨！好市多餐飲部10月起掃會員卡才能點餐",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5573254",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-09-14T11:58:12+08:00",
-     "description": "美式賣場好市多（Costco）台中兩家分店，即日起張貼公告稱自10月1日起，會員購買西式餐飲部餐點前，須先掃描會員卡或會員條碼，才能點餐消費，據指出，新制源自眾多「非會員」佔據...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "非會員不能買牛肉捲囉  好市多祭新制 餐飲區10月起點餐需先掃會員卡",
-     "link": "https://ec.ltn.com.tw/article/breakingnews/5573244",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-09-14T11:49:02+08:00",
-     "description": "好市多（Costco）賣場餐飲區午餐時段常常大排長龍，好市多今天在官網公告，自10月1日起，購買西式餐飲的披薩、牛肉捲等餐點前，須先掃描會員卡或會員條碼，才能進行消費，但...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "好市多重大宣布！熟食區10/1起「沒掃會員卡不能買」",
-     "link": "https://news.ebc.net.tw/news/living/571142",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-09-14T10:41:13.799387+08:00",
-     "description": "美式賣場好市多（Costco）宣布，自10月1日起，民眾至西式餐飲部購買熱狗、披薩等餐點前，必須先掃描實體會員卡或手機條碼完成身分驗證，才能點餐結帳。",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "好市多熟食區10月起「點餐要會員卡」！1門市例外　眾讚終於等到",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBPVUJjZmZsUDRlR3JHd084MFdHV3BldHBFLVJnOHVzbTdyOVRBbFVUZFV5T1BCemxyVGd0UkJZclZiTUZJdU84OUhZYXXSAVJBVV95cUxOOTJONnNQRkVZSENDQlRkWDctRFN1RHhwdDI3YWpfWjNwRl92bnBlWGtBZ1FLYjBQbWp4R2ZUbjdUbTBITVE2ZTc3MGRtTGhPRHpB?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-09-14T10:18:23+08:00",
-     "description": "好市多熟食區10月起「點餐要會員卡」！1門市例外　眾讚終於等到  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "非會員不能買了？好市多熟食區10月起「點餐先掃會員卡」 全台1門市例外 | 張庭維 | 新聞",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE81Q2g5b2xxUlQzb2lIOC1sTXlYMHpDRnpta0tsY0Y3UkRyMEtZUDJGZDU4Z3gydnVJV0dvUGFqZXZjR0NqNUVvRVFoUFFrZw?oc=5",
-     "source": "storm",
-     "source_name": "風傳媒",
-     "published": "2026-09-14T09:47:52+08:00",
-     "description": "非會員不能買了？好市多熟食區10月起「點餐先掃會員卡」 全台1門市例外 | 張庭維 | 新聞  風傳媒",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "好市多熟食區10月起「點餐前先掃會員卡」　全台1門市除外",
-     "link": "https://www.ettoday.net/news/20260914/3236895.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-09-14T09:25:00+08:00",
-     "description": "美式賣場好市多（Costco）熟食區將有新規定，今（14）日好市多在官網公告，10月1日起，會員購買西式餐飲部（熟食區）餐點前，須先掃描會員卡或會員條碼才能消費，不過台中南屯店不適用。消息曝光後，不少會員表示支持，認為可望減少非會員購餐情況，尖峰時段排隊人潮也有機會縮短。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    }
-   ]
-  },
-  {
    "id": "5cc8a6811f4d",
    "title": "花蓮首推高中生就學費用補助　每學期1萬元估7千人受惠",
    "outlet_count": 6,
@@ -4805,8 +4660,8 @@
    ]
   },
   {
-   "id": "d27ef6b27afc",
-   "title": "女疑遭殺害棄屍台北陽明山　警逮涉重嫌男友",
+   "id": "a37e956f76a0",
+   "title": "感情糾紛涉勒斃女友棄屍陽明山　警逮男友送辦",
    "outlet_count": 6,
    "outlets": [
     "cna",
@@ -4816,8 +4671,8 @@
     "mirror",
     "newtalk"
    ],
-   "article_count": 23,
-   "first_seen": "2026-09-12T09:57:00+08:00",
+   "article_count": 20,
+   "first_seen": "2026-09-12T11:06:55+08:00",
    "last_updated": "2026-09-13T19:49:00+08:00",
    "tags": [
     "棄屍陽明山",
@@ -5020,7 +4875,7 @@
    "first_seen": "2026-09-12T19:04:00+08:00",
    "last_updated": "2026-09-12T20:15:03+08:00",
    "tags": [
-    "阿宏師火雞肉",
+    "宏師火雞肉飯",
     "及時疏散人員",
     "嘉義"
    ],
@@ -5130,32 +4985,32 @@
    ]
   },
   {
-   "id": "0908e2153ac8",
-   "title": "空軍MQ-9B無人機首批抵台　花蓮基地完成首飛",
+   "id": "13d7bdf45d5b",
+   "title": "桃猿投手莊昕諺遭強襲球直擊臉部倒地　擔架抬出場緊急送醫",
    "outlet_count": 5,
    "outlets": [
-    "chinatimes",
-    "cna",
+    "ebc",
+    "ettoday",
     "ltn",
-    "newtalk",
-    "pts"
+    "mirror",
+    "udn"
    ],
-   "article_count": 5,
-   "first_seen": "2026-09-14T11:14:25+08:00",
-   "last_updated": "2026-09-15T05:30:00+08:00",
+   "article_count": 10,
+   "first_seen": "2026-09-14T21:23:00+08:00",
+   "last_updated": "2026-09-15T10:17:12+08:00",
    "tags": [
-    "無人機",
-    "花蓮",
-    "首升空"
+    "莊昕諺",
+    "強襲球",
+    "報平安"
    ],
    "articles": [
     {
-     "title": "MQ-9B無人機 台灣首升空 我高空監偵能量大幅提升",
-     "link": "https://news.ltn.com.tw/news/politics/paper/1770672",
+     "title": "中職》莊昕諺遭強襲球打中恐脫離戰線  王博玄發聲：感到非常抱歉與自責",
+     "link": "https://sports.ltn.com.tw/news/breakingnews/5574141",
      "source": "ltn",
      "source_name": "自由時報",
-     "published": "2026-09-15T05:30:00+08:00",
-     "description": "〔記者游太郎、涂鉅旻／綜合報導〕我國向美國購買的四架MQ-9B海上衛士型無人機，其中兩架六月份海運抵台並經陸運至空軍花蓮基地，近三個月經原廠及空軍組裝、測試及檢整後，昨天上午八時許首度升空，國軍高空監偵能量將獲得大幅提升。\n\n空軍自民國一一一年執行至一一八年編列新台幣二一七億元預算，對美軍購四架…",
+     "published": "2026-09-15T10:17:12+08:00",
+     "description": "樂天桃猿投手莊昕諺昨天不慎被台鋼雄鷹打者王博玄的強襲球直擊臉部，當下倒地不起，最終出動擔架緊急送醫。王博玄今天凌晨透過社群媒體IG限時動態發聲，希望莊昕諺可以早日康復，儘快...…",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -5167,12 +5022,12 @@
      }
     },
     {
-     "title": "向美採購MQ-9B無人機 今花蓮空軍基地首升空測試",
-     "link": "https://news.pts.org.tw/article/827018",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-09-14T19:35:06+08:00",
-     "description": "空軍向美方採購的MQ-9B無人機，6月運抵台灣後，今（14）日上午被拍到首度在花蓮基地升空，進行飛行測試。專家分析，MQ-9B具有長滯空跟全時段監偵能力，未來可望跟國產騰雲無人機形成高低配戰力。另外根據日本共同社報導，中方要求美方在9月下旬川習會前，不得新批准任何對台軍售案，否則中國國家主席習近平可能取消訪美；美國總統川普強調兩人關係很好，不擔心中國取消峰會。",
+     "title": "強襲球直擊莊昕諺臉部　王博玄社群發聲：非常抱歉與自責",
+     "link": "https://sports.ettoday.net/news/3237516",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-09-15T08:42:00+08:00",
+     "description": "台鋼雄鷹14日對樂天桃猿之戰，8局下王博玄擊出強勁平飛球，意外直擊投手莊昕諺臉部，莊昕諺當場倒地並緊急送醫，後續王博玄與小編共同經營的社群帳號發出限時動態，透露王博玄對這起意外感到非常抱歉與自責，希望莊昕諺早日康復。 《詳全文...》",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -5180,83 +5035,9 @@
        "source": "unknown"
       },
       "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
      }
     },
-    {
-     "title": "台灣MQ-9B花蓮首飛東部監偵機隊啟動測試| 政治",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81ZXZ5ZXlxNHFqT2l3OXNDb3pLSjFjQ0VsSzMtaGFYODdmT09pczFXMXlnRUJUN2F4SGtjc1FieEg5Smd0VUJQWEhFeFZnYnJseFpvelJIWWFqdkE?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-09-14T13:10:10+08:00",
-     "description": "台灣MQ-9B花蓮首飛東部監偵機隊啟動測試| 政治  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "MQ-9B無人機今早花蓮首度試飛 有望提升海域監偵量能",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBna1BVYXBQUklVNzlzVXdVOGhnajRHYjFPbmhZaW9wR0RCTWNqaUZTTUFnaXBkUHFrMVIzd01lbURITHpTdGZYalpYdkVMY0hlMFVMd3ZuODQ3c0wzQ09xQkR2YlNIWjJxSXVzY1R3?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-09-14T13:09:17+08:00",
-     "description": "MQ-9B無人機今早花蓮首度試飛 有望提升海域監偵量能  中時新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "空軍MQ-9B無人機首批抵台　花蓮基地完成首飛",
-     "link": "https://www.cna.com.tw/news/aipl/202609140053.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-09-14T11:14:25+08:00",
-     "description": "（中央社記者游凱翔台北14日電）空軍對美採購的MQ-9B無人機首批2架已運抵台灣，知情人士今天表示，經原廠與軍方組裝測試後，上午首度在空軍花蓮基地升空執行飛行測試，盼藉其長滯空與全時段監偵能力，強化台海周邊海空動態掌握。",
-     "author": "游凱翔",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "游凱翔",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
-     }
-    }
-   ]
-  },
-  {
-   "id": "13d7bdf45d5b",
-   "title": "桃猿投手莊昕諺遭強襲球直擊臉部倒地　擔架抬出場緊急送醫",
-   "outlet_count": 5,
-   "outlets": [
-    "ebc",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "udn"
-   ],
-   "article_count": 8,
-   "first_seen": "2026-09-14T21:23:00+08:00",
-   "last_updated": "2026-09-15T00:29:18.583538+08:00",
-   "tags": [
-    "強襲球",
-    "莊昕諺",
-    "報平安"
-   ],
-   "articles": [
     {
      "title": "中職／強襲球直擊臉部倒地！莊昕諺送醫報平安：沒事的",
      "link": "https://news.ebc.net.tw/news/sport/571282",
@@ -5398,6 +5179,130 @@
    ]
   },
   {
+   "id": "9daa6acb64b2",
+   "title": "Ozone黃文廷捲感情風波首發聲！向4年女友道歉 宣布暫停演藝工作",
+   "outlet_count": 5,
+   "outlets": [
+    "ettoday",
+    "mirror",
+    "newtalk",
+    "nownews",
+    "tvbs"
+   ],
+   "article_count": 6,
+   "first_seen": "2026-09-14T21:36:00+08:00",
+   "last_updated": "2026-09-15T09:55:16+08:00",
+   "tags": [
+    "暫停演藝",
+    "文廷",
+    "女演員"
+   ],
+   "articles": [
+    {
+     "title": "Ozone黃文廷認劈腿女演員「傷害4年女友」！曬手寫信宣布：暫停演藝活動| 娛樂",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tVXM4UmdxNzhnTUV2RWh6Y2tPQ3QtUndUNjkwZlRxRm5ZdHlPTFNqN1B4Wk5Dc1p1SjNzd25kMW9yc2k1QjBQVVgteC1JUXhjYVJGSkpyNUkyODA?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-09-15T09:55:16+08:00",
+     "description": "Ozone黃文廷認劈腿女演員「傷害4年女友」！曬手寫信宣布：暫停演藝活動| 娛樂  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "Ozone文廷遭爆「雙劈」內幕！才離開同劇女演員住處　回家照睡4年女友旁",
+     "link": "https://www.mirrormedia.mg/story/20260914-189ent-230112",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-09-14T23:01:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "Ozone文廷被爆「秘戀4年又劈腿」　發聲認傷女友、宣布停工",
+     "link": "https://www.mirrormedia.mg/story/20260914-189ent-223939",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-09-14T22:39:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "Ozone文廷爆劈腿同劇女演員！首發聲道歉　宣布即日起停工反省",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtVFljOHdsaGZIXzZFbWQ2bnlzekRBUkZkTkI1TVhaRjRlWTMwcGpXekphQjdfWmc4RFNsSENpQlBGQXhUb2NXVWNhSVgwemZ6X2fSAVJBVV95cUxQLVRZYzh3bGhmSF82RW1kNm55c3pEQVJGZE5CNU1YWkY0ZVkzMHBqV3pKYUI3X1pnOERTbEhDaUJQRkF4VG9jV1VjYUlYMHpmel9n?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-09-14T21:45:45+08:00",
+     "description": "Ozone文廷爆劈腿同劇女演員！首發聲道歉　宣布即日起停工反省  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "遭控交往4年劈腿！　Ozone黃文廷道歉了「宣布暫停演藝工作」",
+     "link": "https://star.ettoday.net/news/3237422",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-09-14T21:43:00+08:00",
+     "description": "Ozone成員黃文廷近日捲入感情風波，遭交往4年的女友發文控訴，指他開始踏入拍片工作後，與同劇女演員有「超越界線的親密行為」，引發外界議論，沉默多日後，黃文廷今（14日）晚間透過社群曬出親筆聲明，首度正面回應事件，除了向女方、公司、團員及粉絲道歉，更宣布即日起暫停其他演藝工作。\n 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "Ozone黃文廷捲感情風波首發聲！向4年女友道歉 宣布暫停演藝工作",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lT2dCSmlGYjZEVGZETGlScjJ4b0dZOWo0eTRnQ28yekhkY2hyZmdkal9MLW9tOHNmM0hnZ3hyaDA2MkFPUEJ0N1R3LVRCVkdxNHUxMDJ2dUk0dE1YRHJtbmJB?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-09-14T21:36:00+08:00",
+     "description": "快訊／Ozone黃文廷捲感情風波首發聲！向4年女友道歉 宣布暫停演藝工作  TVBS新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
    "id": "f6468fcb6fff",
    "title": "E級女優倉木華驚傳輕生！遭牛郎男友家暴、榨乾　「粉絲是最後容身之處」疑生前心碎聲明曝光",
    "outlet_count": 5,
@@ -5408,15 +5313,32 @@
     "nownews",
     "tvbs"
    ],
-   "article_count": 8,
+   "article_count": 9,
    "first_seen": "2026-09-13T11:10:00+08:00",
-   "last_updated": "2026-09-14T21:50:00+08:00",
+   "last_updated": "2026-09-15T09:20:00+08:00",
    "tags": [
     "倉木華",
     "牛郎男友",
     "女優"
    ],
    "articles": [
+    {
+     "title": "AV女優倉木華身亡還被酸！大咖前輩震怒發聲　爆遭男友開車拖行毀容",
+     "link": "https://star.ettoday.net/news/3237535",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-09-15T09:20:00+08:00",
+     "description": "日本AV女優倉木華驚傳身亡，得年25歲，2024年出道後，憑藉亮眼外型迅速累積人氣，如今突然傳出噩耗，震撼粉絲與業界。據悉她生前看牛郎男友的戀愛關係不佳，長期遭受精神控制及金錢壓榨，對於外界酸言酸語，前女優濱崎真緒也於14日在社群平台發聲，呼籲網友謹言慎行。\n\n 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
     {
      "title": "AV女優倉木華25歲離世！　經紀公司證實死訊：生前遭受傷害及痛苦",
      "link": "https://www.mirrormedia.mg/story/20260914edi070",
@@ -5556,88 +5478,32 @@
    ]
   },
   {
-   "id": "03d7887994c5",
-   "title": "菲律賓渡輪失火35死54失蹤　調查聚焦貨艙爆炸",
+   "id": "fdf8d366f0aa",
+   "title": "科技業高層籲放緩發展腳步　川普斥AI威脅人類是騙局",
    "outlet_count": 5,
    "outlets": [
     "cna",
     "ebc",
     "ettoday",
-    "ltn",
-    "pts"
+    "storm",
+    "tvbs"
    ],
    "article_count": 7,
-   "first_seen": "2026-09-12T10:54:48+08:00",
-   "last_updated": "2026-09-14T20:53:24+08:00",
+   "first_seen": "2026-09-14T07:37:00+08:00",
+   "last_updated": "2026-09-15T09:03:20.968229+08:00",
    "tags": [
-    "菲律賓渡輪失",
-    "失聯",
-    "增至"
-   ],
-   "claims": [
-    {
-     "type": "死亡人數",
-     "agree": false,
-     "outlet_count": 3,
-     "values": [
-      {
-       "value": "76",
-       "outlets": [
-        "ETtoday",
-        "自由時報"
-       ]
-      },
-      {
-       "value": "6",
-       "outlets": [
-        "公視新聞"
-       ]
-      }
-     ]
-    }
+    "籲放緩發展",
+    "威脅人類",
+    "是騙局"
    ],
    "articles": [
     {
-     "title": "印尼渡輪爪哇海翻覆意外 已知6死129人失聯",
-     "link": "https://news.pts.org.tw/article/827053",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-09-14T20:53:24+08:00",
-     "description": "東南亞再度發生船難，印尼一艘渡輪在週日（13日）凌晨遭遇風浪，船身被打翻沉沒。船上的200多人當中，不到一半獲救，目前至少已經有6人確定死亡，多達129人下落不明，搜救行動還在持續進行。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "印尼渡輪沉沒至少6死　130人仍下落不明",
-     "link": "https://www.cna.com.tw/news/aopl/202609130159.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-09-13T18:34:26+08:00",
-     "description": "（中央社雅加達13日綜合外電報導）印尼搜救機構表示，一艘渡輪在爪哇海（Java Sea）沉沒，已有113人獲救，搜救人員今天持續尋找130名失蹤者，這起事故迄今造成6人喪生。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
-     }
-    },
-    {
-     "title": "殘骸內尋獲41具遺體！菲律賓客輪大火 罹難者暴增至76人",
-     "link": "https://news.ebc.net.tw/news/world/571031",
+     "title": "科技業高層籲放緩發展腳步 川普斥AI威脅人類是騙局",
+     "link": "https://news.ebc.net.tw/news/world/571291",
      "source": "ebc",
      "source_name": "東森新聞",
-     "published": "2026-09-13T14:32:39.263440+08:00",
-     "description": "菲律賓「MV June Aster」客輪日前航行途中發生嚴重火災，死傷人數持續攀升。菲律賓海岸防衛隊週六表示，搜救人員從燒毀的船體殘骸內再尋獲41具遺體，使死亡",
+     "published": "2026-09-15T09:03:20.968229+08:00",
+     "description": "在多名科技業高層呼籲放緩人工智慧（AI）技術的發展步伐後，美國總統川普今天將AI對人類構成威脅的疑慮斥為「騙局」。",
      "category": "world",
      "metadata": {
       "schema_version": 1,
@@ -5651,12 +5517,65 @@
      }
     },
     {
-     "title": "菲律賓渡輪大火「經濟艙找到40具焦屍」！累計76死　船長失蹤",
-     "link": "https://www.ettoday.net/news/20260913/3236463.htm",
+     "title": "科技巨擘籲放緩發展AI 美股收跌費半指數挫近6%",
+     "link": "https://news.ebc.net.tw/news/business/571290",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-09-15T09:03:20.968229+08:00",
+     "description": "美國數間人工智慧（AI）公司的高層近日以安全疑慮為由，呼籲業界放緩AI技術發展速度，這使華爾街股市主要指數今天收盤全部走低，其中費城半導體指數重挫將近6%。",
+     "category": "business",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "business",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "連線黃仁勳 川普:AI危險的論點是騙局",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wT1FqSHFHVEdLelhhVTExQ3p1RnRGZkZQMWFNSEdZY0ZTYlJMTjRfTUNfVlJrM1V6V3RIMml6VmRCLWh1RTZUOU1HTmJ2YU1tcTZzX2lB?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-09-15T08:47:20+08:00",
+     "description": "連線黃仁勳 川普:AI危險的論點是騙局  TVBS新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "「AI威脅論」全是假的？川普稱AI不需要更多監管，斥責安全擔憂是「騙局」 | 國際中心 | 新聞",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1iUkZxT1dTZGFjQjJfY2V2OThDYkM1RWhQNVI0RXBkNWVHUERhbTc5dzM2bW5pMnZYdzNpaUtDTUEyREk0WkxqcnBfQ1I4UQ?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-09-15T08:32:38+08:00",
+     "description": "「AI威脅論」全是假的？川普稱AI不需要更多監管，斥責安全擔憂是「騙局」 | 國際中心 | 新聞  風傳媒",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "川普轟科技巨頭：「AI威脅人類」須放慢發展是騙局",
+     "link": "https://www.ettoday.net/news/20260915/3237465.htm",
      "source": "ettoday",
      "source_name": "ETtoday",
-     "published": "2026-09-13T09:24:00+08:00",
-     "description": "菲律賓一艘從馬尼拉出發的渡輪「六月艾斯特號」（June Aster）9日深夜在海上爆發火災，死亡人數持續攀升。菲國當局12日宣布，救難人員在船艙內的經濟艙臥鋪區又發現41具焦黑遺體，累計罹難人數已升至76人，另有13名乘客下落依然不明。\n\n 《詳全文...》",
+     "published": "2026-09-15T05:30:00+08:00",
+     "description": "多名科技業高層、專業研究員近期接連示警AI可能對人類帶來重大風險，並呼籲放慢技術發展腳步，美國總統川普14日再度反駁這類論點，直斥AI可能接管世界甚至毀滅人類的說法是「騙局」，並反對加強監管AI。\n 《詳全文...》",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -5668,12 +5587,68 @@
      }
     },
     {
-     "title": "菲律賓渡輪失火增至76死 13人仍失聯",
-     "link": "https://news.ltn.com.tw/news/world/breakingnews/5572026",
+     "title": "科技業高層籲放緩發展腳步　川普斥AI威脅人類是騙局",
+     "link": "https://www.cna.com.tw/news/aopl/202609150008.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-09-15T02:58:32+08:00",
+     "description": "（中央社華盛頓14日綜合外電報導）在多名科技業高層呼籲放緩人工智慧（AI）技術的發展步伐後，美國總統川普今天將AI對人類構成威脅的疑慮斥為「騙局」。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
+     }
+    },
+    {
+     "title": "部分人士喊放慢AI發展腳步！川普轟「負面勢力」：誰贏得AI誰就贏",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VZHBta01SdXdRLW1nRGt2NGZXYVNrcFlEVnJCa0RmVklnM1RvcVNhT0tZN05JRDZfeDI3b0pBS2F0OTg4TlQ2VjlfdzlCbmc?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-09-14T07:37:00+08:00",
+     "description": "部分人士喊放慢AI發展腳步！川普轟「負面勢力」：誰贏得AI誰就贏  TVBS新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
+   "id": "0908e2153ac8",
+   "title": "空軍MQ-9B無人機首批抵台　花蓮基地完成首飛",
+   "outlet_count": 5,
+   "outlets": [
+    "chinatimes",
+    "cna",
+    "ltn",
+    "newtalk",
+    "pts"
+   ],
+   "article_count": 5,
+   "first_seen": "2026-09-14T11:14:25+08:00",
+   "last_updated": "2026-09-15T05:30:00+08:00",
+   "tags": [
+    "無人機",
+    "花蓮",
+    "首升空"
+   ],
+   "articles": [
+    {
+     "title": "MQ-9B無人機 台灣首升空 我高空監偵能量大幅提升",
+     "link": "https://news.ltn.com.tw/news/politics/paper/1770672",
      "source": "ltn",
      "source_name": "自由時報",
-     "published": "2026-09-12T22:31:14+08:00",
-     "description": "菲律賓渡輪失火事件，海岸防衛隊（PCG）持續在船艙內搜救，今晚公布最新傷亡數字表示，死亡人數已增至76人，尚有13人下落不明。\n\n渡輪「六月紫菀號」（MV June Aster）8日晚間...…",
+     "published": "2026-09-15T05:30:00+08:00",
+     "description": "〔記者游太郎、涂鉅旻／綜合報導〕我國向美國購買的四架MQ-9B海上衛士型無人機，其中兩架六月份海運抵台並經陸運至空軍花蓮基地，近三個月經原廠及空軍組裝、測試及檢整後，昨天上午八時許首度升空，國軍高空監偵能量將獲得大幅提升。\n\n空軍自民國一一一年執行至一一八年編列新台幣二一七億元預算，對美軍購四架…",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -5685,46 +5660,79 @@
      }
     },
     {
-     "title": "菲律賓渡輪失火增至76死　13人仍失聯",
-     "link": "https://www.cna.com.tw/news/aopl/202609120204.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-09-12T21:15:49+08:00",
-     "description": "（中央社記者林行健馬尼拉12日專電）菲律賓渡輪失火事件，海岸防衛隊（PCG）持續在船艙內搜救，今晚公布最新傷亡數字表示，死亡人數已增至76人，尚有13人下落不明。",
-     "author": "林行健",
+     "title": "向美採購MQ-9B無人機 今花蓮空軍基地首升空測試",
+     "link": "https://news.pts.org.tw/article/827018",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-09-14T19:35:06+08:00",
+     "description": "空軍向美方採購的MQ-9B無人機，6月運抵台灣後，今（14）日上午被拍到首度在花蓮基地升空，進行飛行測試。專家分析，MQ-9B具有長滯空跟全時段監偵能力，未來可望跟國產騰雲無人機形成高低配戰力。另外根據日本共同社報導，中方要求美方在9月下旬川習會前，不得新批准任何對台軍售案，否則中國國家主席習近平可能取消訪美；美國總統川普強調兩人關係很好，不擔心中國取消峰會。",
      "metadata": {
       "schema_version": 1,
       "author": {
-       "name": "林行健",
-       "source": "description"
+       "name": null,
+       "source": "unknown"
       },
       "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
      }
     },
     {
-     "title": "菲律賓渡輪失火35死54失蹤　調查聚焦貨艙爆炸",
-     "link": "https://www.cna.com.tw/news/aopl/202609120041.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-09-12T10:54:48+08:00",
-     "description": "（中央社記者林行健馬尼拉12日專電）一艘載有130多人的渡輪日前在菲律賓西部海域失火，菲律賓海岸防衛隊今天引述生還者說法指出，事發前貨艙傳出強烈爆炸聲，目前調查不排除恐怖攻擊、電動車起火等各種可能性。",
-     "author": "林行健",
+     "title": "台灣MQ-9B花蓮首飛東部監偵機隊啟動測試| 政治",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81ZXZ5ZXlxNHFqT2l3OXNDb3pLSjFjQ0VsSzMtaGFYODdmT09pczFXMXlnRUJUN2F4SGtjc1FieEg5Smd0VUJQWEhFeFZnYnJseFpvelJIWWFqdkE?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-09-14T13:10:10+08:00",
+     "description": "台灣MQ-9B花蓮首飛東部監偵機隊啟動測試| 政治  Newtalk新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
-       "name": "林行健",
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "MQ-9B無人機今早花蓮首度試飛 有望提升海域監偵量能",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBna1BVYXBQUklVNzlzVXdVOGhnajRHYjFPbmhZaW9wR0RCTWNqaUZTTUFnaXBkUHFrMVIzd01lbURITHpTdGZYalpYdkVMY0hlMFVMd3ZuODQ3c0wzQ09xQkR2YlNIWjJxSXVzY1R3?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-09-14T13:09:17+08:00",
+     "description": "MQ-9B無人機今早花蓮首度試飛 有望提升海域監偵量能  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "空軍MQ-9B無人機首批抵台　花蓮基地完成首飛",
+     "link": "https://www.cna.com.tw/news/aipl/202609140053.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-09-14T11:14:25+08:00",
+     "description": "（中央社記者游凱翔台北14日電）空軍對美採購的MQ-9B無人機首批2架已運抵台灣，知情人士今天表示，經原廠與軍方組裝測試後，上午首度在空軍花蓮基地升空執行飛行測試，盼藉其長滯空與全時段監偵能力，強化台海周邊海空動態掌握。",
+     "author": "游凱翔",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "游凱翔",
        "source": "description"
       },
       "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
+      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
      }
     }
    ]
   },
   {
-   "id": "2a9ee967840a",
-   "title": "快訊》03:21花蓮縣萬榮鄉發生規模4.7有感地震 最大震度花蓮縣萬榮、南投縣玉山4級",
+   "id": "125b17697c41",
+   "title": "03:21花蓮萬榮規模4.7「極淺層地震」　最大震度4級",
    "outlet_count": 5,
    "outlets": [
     "ebc",
@@ -5837,12 +5845,12 @@
      }
     },
     {
-     "title": "地震速報！ 09/14 06:44左右   東南海域發生有感地震",
-     "link": "https://news.ebc.net.tw/news/living/571109",
+     "title": "地牛翻身！6:44 臺東發生規模4.9地震",
+     "link": "https://news.ebc.net.tw/news/living/571110",
      "source": "ebc",
      "source_name": "東森新聞",
      "published": "2026-09-14T09:07:41.516502+08:00",
-     "description": "中央氣象署發布， 09/14 06:44左右 ， 東南海域發生有感地震 。預估震度 3 級以上地區： 臺東",
+     "description": "【地震快訊】 發震時間： 115年9月14日6時44分41秒 中央氣象署發布顯著有感地震最新消息，今(14)日6時44分，發生芮氏規模4.9有感地震，震央位置在",
      "category": "living",
      "metadata": {
       "schema_version": 1,
@@ -5856,12 +5864,12 @@
      }
     },
     {
-     "title": "地牛翻身！6:44 臺東發生規模4.9地震",
-     "link": "https://news.ebc.net.tw/news/living/571110",
+     "title": "地震速報！ 09/14 06:44左右   東南海域發生有感地震",
+     "link": "https://news.ebc.net.tw/news/living/571109",
      "source": "ebc",
      "source_name": "東森新聞",
      "published": "2026-09-14T09:07:41.516502+08:00",
-     "description": "【地震快訊】 發震時間： 115年9月14日6時44分41秒 中央氣象署發布顯著有感地震最新消息，今(14)日6時44分，發生芮氏規模4.9有感地震，震央位置在",
+     "description": "中央氣象署發布， 09/14 06:44左右 ， 東南海域發生有感地震 。預估震度 3 級以上地區： 臺東",
      "category": "living",
      "metadata": {
       "schema_version": 1,
@@ -6106,7 +6114,7 @@
      "source": "setn",
      "source_name": "三立新聞網",
      "published": "2026-09-14T10:02:00+08:00",
-     "description": "郭禮伯之子喊驗DNA後再現身「蔣家血緣之謎」發表會　蔣萬安反應曝光  三立新聞",
+     "description": "郭禮伯之子喊驗DNA後再現身「蔣家血緣之謎」發表會　蔣萬安反應曝光  setn.com",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -6135,8 +6143,8 @@
    "last_updated": "2026-09-14T17:38:22+08:00",
    "tags": [
     "蔣萬安",
-    "願交叉詰問辯",
-    "市長選戰辯論"
+    "交叉詰問辯論",
+    "市長選"
    ],
    "articles": [
     {
@@ -6222,6 +6230,130 @@
       },
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/rsscna/local"
+     }
+    }
+   ]
+  },
+  {
+   "id": "8da510653854",
+   "title": "澳洲女將賽中「當場失禁」排泄物害對手打滑　奪冠冷回：贏就是贏",
+   "outlet_count": 5,
+   "outlets": [
+    "ettoday",
+    "mirror",
+    "newtalk",
+    "nownews",
+    "tvbs"
+   ],
+   "article_count": 6,
+   "first_seen": "2026-09-13T13:19:00+08:00",
+   "last_updated": "2026-09-14T16:54:42+08:00",
+   "tags": [
+    "贏就是贏",
+    "澳洲女",
+    "失禁"
+   ],
+   "articles": [
+    {
+     "title": "HYROX北京站「屎味」被官方聞到！央視譴責：損害選手健康權益",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zZ0R5dk4zVXBzSmFYYUFscEsycVFKRzEtbWlNQmdZbHprdGRWZ3dlaTVWR2d4OUFJZ0dZT0NsOUpXMDQ5M3dqNnVsejlaVzgxVkHSAVJBVV95cUxPM2dEeXZOM1Vwc0phWGFBbHBLMnFRSkcxLW1pTUJnWWx6a3RkVmd3ZWk1VkdneDlBSWdHWU9DbDlKVzA0OTN3ajZ1bHo5Wlc4MVZB?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-09-14T16:54:42+08:00",
+     "description": "HYROX北京站「屎味」被官方聞到！央視譴責：損害選手健康權益  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "力挺失禁女選手！HYROX官方：威脅言論「永久禁賽」",
+     "link": "https://www.ettoday.net/news/20260914/3237106.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-09-14T13:22:00+08:00",
+     "description": "HYROX北京站日前發生澳洲女選手Joanna Wietrzyk比賽途中失禁，身上沾有排泄物仍持續使用共用器材，最終完賽奪冠的爭議。HYROX官方14日發表公開聲明，坦言賽事發生了「未曾預料的情況」，但也強調「不滿絕不應該指向選手本人」，更透露已有針對選手的暴力威脅，宣布將永久禁止相關人士參加HYROX所有賽事。\n 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "澳洲女選手HYROX北京賽事失禁！她「屎」到冠軍後高調發聲主辦單位被罵翻| 國際",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TT3VaeFNnOC12bmRkNW5tRVZqeExnV2wydnp2RjRUWW1wT1p0VldjZG1kTlRDa0hjcEJSeW1HakloTzFEbmJyQWg5Wl9pREc5WHdJNTJkMnZkX0E?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-09-14T09:37:08+08:00",
+     "description": "澳洲女選手HYROX北京賽事失禁！她「屎」到冠軍後高調發聲主辦單位被罵翻| 國際  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "澳洲女將HYROX賽中排泄！她「屎」到冠軍還害對手打滑：贏就是贏",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE50SHdtZkgyU2p4Y0pERGFvTVprQ1R4b1RUYnh1NTRnaFFoU1ZZR2VlT01tazluNXNDUEdoYkJKU1pheVE5ZENjU2VlUzbSAVJBVV95cUxObE1FWG1sWlRXWjRJTnFOaUI2VUlVOEJzcGFTSmhWdVNHb01GVGJVd0tXcU9ydFBSNjh6blhkMGhlUThrSzg1SnVBeXZnNElFaDdn?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-09-13T17:18:01+08:00",
+     "description": "澳洲女將HYROX賽中排泄！她「屎」到冠軍還害對手打滑：贏就是贏  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "澳女將賽中「大便失禁」仍奪冠！賽道器材遭污染 她躺床回：贏就是贏",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GdzBlUVJXWk9uUmRYbVMxV2ZCd2hoU1BYM0xuSjFFaVR0QzFxUTZ4aks5RjFKeXctWEh6eUw3YXFYU3VQcl94ak9pNkVrOUk?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-09-13T16:56:00+08:00",
+     "description": "澳女將賽中「大便失禁」仍奪冠！賽道器材遭污染 她躺床回：贏就是贏  TVBS新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "澳洲女將賽中「當場失禁」排泄物害對手打滑　奪冠冷回：贏就是贏",
+     "link": "https://www.mirrormedia.mg/story/20260913edi014",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-09-13T13:19:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
      }
     }
    ]
@@ -6418,7 +6550,7 @@
    "first_seen": "2026-09-12T13:06:23+08:00",
    "last_updated": "2026-09-14T12:33:44+08:00",
    "tags": [
-    "民進黨創黨元",
+    "進黨創黨元老",
     "江啟臣",
     "林豐喜"
    ],
@@ -6687,7 +6819,7 @@
    "tags": [
     "女兒小手",
     "茄子蛋主唱",
-    "黃奇斌愛妻生"
+    "唱黃奇斌愛妻"
    ],
    "articles": [
     {
@@ -7063,7 +7195,7 @@
    "first_seen": "2026-09-12T13:30:27+08:00",
    "last_updated": "2026-09-13T18:31:11.336898+08:00",
    "tags": [
-    "導體產業開拓",
+    "半導體產業開",
     "頒褒揚令",
     "黃崇仁"
    ],
@@ -7190,8 +7322,8 @@
    "last_updated": "2026-09-13T18:04:30+08:00",
    "tags": [
     "七堵長安街",
-    "街廢車場大火",
-    "竄天際消防搶"
+    "濃煙竄天際消",
+    "街廢車場大火"
    ],
    "articles": [
     {
@@ -7200,7 +7332,7 @@
      "source": "setn",
      "source_name": "三立新聞網",
      "published": "2026-09-13T18:04:30+08:00",
-     "description": "七堵長安街相關報導  三立新聞",
+     "description": "七堵長安街相關報導  setn.com",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -7285,114 +7417,6 @@
    ]
   },
   {
-   "id": "b53c4078cd73",
-   "title": "卓榮泰副署無人機條例　藍白籲儘快副署其餘三讀法案",
-   "outlet_count": 5,
-   "outlets": [
-    "chinatimes",
-    "cna",
-    "ettoday",
-    "nownews",
-    "pts"
-   ],
-   "article_count": 5,
-   "first_seen": "2026-09-12T10:32:00+08:00",
-   "last_updated": "2026-09-13T15:20:45+08:00",
-   "tags": [
-    "副署無人機條",
-    "條例",
-    "憲法"
-   ],
-   "articles": [
-    {
-     "title": "一週大事／蕭美琴赴義大利演說 卓揆副署無人機條例（2026.9.7-9.13）",
-     "link": "https://news.pts.org.tw/article/826841",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-09-13T15:20:45+08:00",
-     "description": "《公視新聞網》為您精選一週國內外大事，關注焦點包括：蕭美琴赴義大利演說、卓揆副署無人機條例、體操選手世錦賽資格遭放棄、人口連32個月負成長、台大公布就醫指引、911恐攻25週年、蘋果推首款摺疊機iPhone Duo。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "卓榮泰副署無人機條例　藍白籲儘快副署其餘三讀法案",
-     "link": "https://www.cna.com.tw/news/aipl/202609120143.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-09-12T17:15:35+08:00",
-     "description": "（中央社記者曾以寧台北12日電）行政院長卓榮泰昨天表示，已副署無人機條例。立法院民進黨團今天指出，國防需求急迫，藍白不要延宕年度預算。國民黨團表示，此為行政院長本來該遵守的憲政程序；民眾黨團呼籲，儘快副署其他8個已三讀的法案。",
-     "author": "曾以寧",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "曾以寧",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
-     }
-    },
-    {
-     "title": "民眾黨批《無人載具條例》副署標準：不能讓賴清德不開心",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOW85MmJneHVzcjllSWV1R1JSLVRvaE0tWkJ5eEVjNEd6ZHZpM29jaGFLUkkyMlQ2S1JoTDNzd0FqcXFzb1RLaU9TY2lReldDRDVKdm1veXdlb3c1TklCM0UyNUVsZmJwYnhHTW1sMVNVcEEtbnJEbTNzYmdGd2xfdTNtWm03NW1tTGxCNWdMMA?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-09-12T13:00:33+08:00",
-     "description": "民眾黨批《無人載具條例》副署標準：不能讓賴清德不開心  中時新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "藍批副署無人機條例「憲法自助餐」　民進黨反擊：政治操作",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uRm5UbHNXNmpIYkI2YTRsek9PZ3piUk03bHdzbnRNQlkzb0k0Wk5EdXJidjE2OFRZMTlJM2dpQ1NtN3pJLXhaSVlYQ0kzQjFjSVHSAVJBVV95cUxNbkZuVGxzVzZqSGJCNmE0bHpPT2d6YlJNN2x3c250TUJZM29JNFpORHVyYnYxNjhUWTE5STNnaUNTbTd6SS14WklZWENJM0IxY0lR?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-09-12T12:46:23+08:00",
-     "description": "藍批副署無人機條例「憲法自助餐」　民進黨反擊：政治操作  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "盼副署無人載具條例「非特例」　盧秀燕：行政院應該遵守憲法",
-     "link": "https://www.ettoday.net/news/20260912/3236088.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-09-12T10:32:00+08:00",
-     "description": "行政院秘書長張惇涵昨天宣布，院長卓榮泰已經副署立法院通過的「強化國防自主暨無人載具發展條例」。對此，台中市長盧秀燕今（12日）表示，根據憲法的規定，行政機關尤其是行政院，必須受到立法院的監督，希望行政院副署無人機的條例不是特例。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    }
-   ]
-  },
-  {
    "id": "6d003892d132",
    "title": "侯友宜正式公開「交棒」李四川：把新北交給比我更會做事的人",
    "outlet_count": 5,
@@ -7408,8 +7432,8 @@
    "last_updated": "2026-09-12T23:03:04+08:00",
    "tags": [
     "比我更會做事",
-    "李四川",
-    "侯友宜"
+    "侯友宜",
+    "李四川"
    ],
    "articles": [
     {
@@ -7500,69 +7524,82 @@
    ]
   },
   {
-   "id": "fdf8d366f0aa",
-   "title": "科技業高層籲放緩發展腳步　川普斥AI威脅人類是騙局",
+   "id": "0ee10a92f0eb",
+   "title": "死囚林旺仁病逝　待執行死刑犯降至34人",
    "outlet_count": 4,
    "outlets": [
     "cna",
-    "ebc",
     "ettoday",
+    "mirror",
     "tvbs"
    ],
-   "article_count": 5,
-   "first_seen": "2026-09-14T07:37:00+08:00",
-   "last_updated": "2026-09-15T09:03:20.968229+08:00",
+   "article_count": 4,
+   "first_seen": "2026-09-14T23:54:10+08:00",
+   "last_updated": "2026-09-15T07:47:00+08:00",
    "tags": [
-    "籲放緩發展",
-    "科技業高層籲",
-    "脅人類是騙局"
+    "死囚林旺仁",
+    "死刑犯",
+    "縱火奪"
+   ],
+   "claims": [
+    {
+     "type": "死亡人數",
+     "agree": true,
+     "outlet_count": 3,
+     "values": [
+      {
+       "value": "5",
+       "outlets": [
+        "ETtoday",
+        "中央社",
+        "鏡週刊"
+       ]
+      }
+     ]
+    }
    ],
    "articles": [
     {
-     "title": "科技巨擘籲放緩發展AI 美股收跌費半指數挫近6%",
-     "link": "https://news.ebc.net.tw/news/business/571290",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-09-15T09:03:20.968229+08:00",
-     "description": "美國數間人工智慧（AI）公司的高層近日以安全疑慮為由，呼籲業界放緩AI技術發展速度，這使華爾街股市主要指數今天收盤全部走低，其中費城半導體指數重挫將近6%。",
-     "category": "business",
+     "title": "死囚林旺仁癌末病逝 基隆卡拉OK縱火奪5命「關22年終未伏法」",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NdUxmYm9OM3lBakliaW90c1l4VXBrdUxJZmVUazFQRkZ0VTdyaUQ4ekdsVi02d1JpWm1lSXN0WW4tbEVZOTZiMGVoaDh3TE0?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-09-15T07:47:00+08:00",
+     "description": "死囚林旺仁癌末病逝 基隆卡拉OK縱火奪5命「關22年終未伏法」  TVBS新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "scraper",
-      "category": "business",
-      "feed_url": "https://news.ebc.net.tw/realtime"
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
-     "title": "科技業高層籲放緩發展腳步 川普斥AI威脅人類是騙局",
-     "link": "https://news.ebc.net.tw/news/world/571291",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-09-15T09:03:20.968229+08:00",
-     "description": "在多名科技業高層呼籲放緩人工智慧（AI）技術的發展步伐後，美國總統川普今天將AI對人類構成威脅的疑慮斥為「騙局」。",
-     "category": "world",
+     "title": "基隆KTV縱火釀5死！死囚林旺仁癌逝　全台死刑犯剩34人",
+     "link": "https://www.mirrormedia.mg/story/20260915edi001",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-09-15T06:49:00+08:00",
+     "description": "",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "scraper",
-      "category": "world",
-      "feed_url": "https://news.ebc.net.tw/realtime"
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
      }
     },
     {
-     "title": "川普轟科技巨頭：「AI威脅人類」須放慢發展是騙局",
-     "link": "https://www.ettoday.net/news/20260915/3237465.htm",
+     "title": "林旺仁病逝未等到槍決！2004年縱火奪5命　台灣死刑犯剩34人",
+     "link": "https://www.ettoday.net/news/20260915/3237455.htm",
      "source": "ettoday",
      "source_name": "ETtoday",
-     "published": "2026-09-15T05:30:00+08:00",
-     "description": "多名科技業高層、專業研究員近期接連示警AI可能對人類帶來重大風險，並呼籲放慢技術發展腳步，美國總統川普14日再度反駁這類論點，直斥AI可能接管世界甚至毀滅人類的說法是「騙局」，並反對加強監管AI。\n 《詳全文...》",
+     "published": "2026-09-15T00:58:00+08:00",
+     "description": "曾因縱火造成5人死亡、8人受傷而遭判死刑的林旺仁，14日在醫院病逝，終年66歲。矯正署官員深夜證實死訊，新北地方檢察署檢察官會同法醫相驗遺體後，已由家屬領回。林旺仁死刑定讞後遭關押超過22年，最終仍未等到執行；隨著他的死亡，目前待執行死刑犯人數降至34人。 《詳全文...》",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -7574,37 +7611,21 @@
      }
     },
     {
-     "title": "科技業高層籲放緩發展腳步　川普斥AI威脅人類是騙局",
-     "link": "https://www.cna.com.tw/news/aopl/202609150008.aspx",
+     "title": "死囚林旺仁病逝　待執行死刑犯降至34人",
+     "link": "https://www.cna.com.tw/news/asoc/202609140291.aspx",
      "source": "cna",
      "source_name": "中央社",
-     "published": "2026-09-15T02:58:32+08:00",
-     "description": "（中央社華盛頓14日綜合外電報導）在多名科技業高層呼籲放緩人工智慧（AI）技術的發展步伐後，美國總統川普今天將AI對人類構成威脅的疑慮斥為「騙局」。",
+     "published": "2026-09-14T23:54:10+08:00",
+     "description": "（中央社記者劉世怡台北14日電）死刑犯林旺仁因不滿妻子在卡拉OK店工作，縱火造成5人死亡，死刑定讞後羈押至今。媒體報導他今天病逝，矯正署官員深夜證實，待執行死刑犯人數降至34人。",
+     "author": "劉世怡",
      "metadata": {
       "schema_version": 1,
       "author": {
-       "name": null,
-       "source": "unknown"
+       "name": "劉世怡",
+       "source": "description"
       },
       "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
-     }
-    },
-    {
-     "title": "部分人士喊放慢AI發展腳步！川普轟「負面勢力」：誰贏得AI誰就贏",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VZHBta01SdXdRLW1nRGt2NGZXYVNrcFlEVnJCa0RmVklnM1RvcVNhT0tZN05JRDZfeDI3b0pBS2F0OTg4TlQ2VjlfdzlCbmc?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-09-14T07:37:00+08:00",
-     "description": "部分人士喊放慢AI發展腳步！川普轟「負面勢力」：誰贏得AI誰就贏  TVBS新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "feed_url": "https://feeds.feedburner.com/rsscna/social"
      }
     }
    ]
@@ -7997,112 +8018,6 @@
    ]
   },
   {
-   "id": "9daa6acb64b2",
-   "title": "Ozone黃文廷捲感情風波首發聲！向4年女友道歉 宣布暫停演藝工作",
-   "outlet_count": 4,
-   "outlets": [
-    "ettoday",
-    "mirror",
-    "nownews",
-    "tvbs"
-   ],
-   "article_count": 5,
-   "first_seen": "2026-09-14T21:36:00+08:00",
-   "last_updated": "2026-09-14T23:01:00+08:00",
-   "tags": [
-    "暫停演藝工作",
-    "同劇女演員",
-    "文廷"
-   ],
-   "articles": [
-    {
-     "title": "Ozone文廷遭爆「雙劈」內幕！才離開同劇女演員住處　回家照睡4年女友旁",
-     "link": "https://www.mirrormedia.mg/story/20260914-189ent-230112",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-09-14T23:01:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "Ozone文廷被爆「秘戀4年又劈腿」　發聲認傷女友、宣布停工",
-     "link": "https://www.mirrormedia.mg/story/20260914-189ent-223939",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-09-14T22:39:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "Ozone文廷爆劈腿同劇女演員！首發聲道歉　宣布即日起停工反省",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtVFljOHdsaGZIXzZFbWQ2bnlzekRBUkZkTkI1TVhaRjRlWTMwcGpXekphQjdfWmc4RFNsSENpQlBGQXhUb2NXVWNhSVgwemZ6X2fSAVJBVV95cUxQLVRZYzh3bGhmSF82RW1kNm55c3pEQVJGZE5CNU1YWkY0ZVkzMHBqV3pKYUI3X1pnOERTbEhDaUJQRkF4VG9jV1VjYUlYMHpmel9n?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-09-14T21:45:45+08:00",
-     "description": "Ozone文廷爆劈腿同劇女演員！首發聲道歉　宣布即日起停工反省  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "遭控交往4年劈腿！　Ozone黃文廷道歉了「宣布暫停演藝工作」",
-     "link": "https://star.ettoday.net/news/3237422",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-09-14T21:43:00+08:00",
-     "description": "Ozone成員黃文廷近日捲入感情風波，遭交往4年的女友發文控訴，指他開始踏入拍片工作後，與同劇女演員有「超越界線的親密行為」，引發外界議論，沉默多日後，黃文廷今（14日）晚間透過社群曬出親筆聲明，首度正面回應事件，除了向女方、公司、團員及粉絲道歉，更宣布即日起暫停其他演藝工作。\n 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "Ozone黃文廷捲感情風波首發聲！向4年女友道歉 宣布暫停演藝工作",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lT2dCSmlGYjZEVGZETGlScjJ4b0dZOWo0eTRnQ28yekhkY2hyZmdkal9MLW9tOHNmM0hnZ3hyaDA2MkFPUEJ0N1R3LVRCVkdxNHUxMDJ2dUk0dE1YRHJtbmJB?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-09-14T21:36:00+08:00",
-     "description": "快訊／Ozone黃文廷捲感情風波首發聲！向4年女友道歉 宣布暫停演藝工作  TVBS新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
    "id": "0791117ae322",
    "title": "市場預期聯準會將升息 台股失守46000點、成交量縮水",
    "outlet_count": 4,
@@ -8296,7 +8211,7 @@
     },
     {
      "title": "81億前鎮漁港問題連環爆 國民黨嗆監院：敢查陳其邁？",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jSUdwSmd4R2gwaE5lRHdnN3U4TDBpRkZaNFJkbXI4TTF2U2oyc2hsMk9HZW92Uk1fS3pXVjFoQlAtUTNCUVlVRXNKcmtzY1NsVjVlZ1N0SmlwUQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VSERFWllRR2xLVDU4RUVtYWdHaWs3Z1p2aDBhbHVEVjJvVXNaUUswNmtiUUlZSGQ2ZDVTYzZ3Q2ZDVlE1MGVQa2p0VDFadWdZNUhwVDhhMGN2a0k?oc=5",
      "source": "newtalk",
      "source_name": "新頭殼",
      "published": "2026-09-14T10:18:37+08:00",
@@ -8313,7 +8228,7 @@
     },
     {
      "title": "81億前鎮漁港問題連環爆 國民黨嗆監院：敢查陳其邁？",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VSERFWllRR2xLVDU4RUVtYWdHaWs3Z1p2aDBhbHVEVjJvVXNaUUswNmtiUUlZSGQ2ZDVTYzZ3Q2ZDVlE1MGVQa2p0VDFadWdZNUhwVDhhMGN2a0k?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jSUdwSmd4R2gwaE5lRHdnN3U4TDBpRkZaNFJkbXI4TTF2U2oyc2hsMk9HZW92Uk1fS3pXVjFoQlAtUTNCUVlVRXNKcmtzY1NsVjVlZ1N0SmlwUQ?oc=5",
      "source": "newtalk",
      "source_name": "新頭殼",
      "published": "2026-09-14T10:18:37+08:00",
@@ -8751,8 +8666,8 @@
    "first_seen": "2026-09-13T09:52:00+08:00",
    "last_updated": "2026-09-13T20:35:11.043970+08:00",
    "tags": [
-    "停等紅燈貨車",
     "重機疑追撞停",
+    "停等紅燈貨車",
     "傷重不治"
    ],
    "claims": [
@@ -8874,7 +8789,7 @@
    "last_updated": "2026-09-13T19:32:00+08:00",
    "tags": [
     "郭品辰聯合競",
-    "選服務處揭牌",
+    "競選服務處揭",
     "陳亭妃"
    ],
    "articles": [
@@ -8949,6 +8864,148 @@
    ]
   },
   {
+   "id": "03d7887994c5",
+   "title": "菲律賓渡輪失火35死54失蹤　調查聚焦貨艙爆炸",
+   "outlet_count": 4,
+   "outlets": [
+    "cna",
+    "ebc",
+    "ettoday",
+    "ltn"
+   ],
+   "article_count": 6,
+   "first_seen": "2026-09-12T10:54:48+08:00",
+   "last_updated": "2026-09-13T18:34:26+08:00",
+   "tags": [
+    "菲律賓渡輪失",
+    "增至"
+   ],
+   "claims": [
+    {
+     "type": "死亡人數",
+     "agree": true,
+     "outlet_count": 2,
+     "values": [
+      {
+       "value": "76",
+       "outlets": [
+        "ETtoday",
+        "自由時報"
+       ]
+      }
+     ]
+    }
+   ],
+   "articles": [
+    {
+     "title": "印尼渡輪沉沒至少6死　130人仍下落不明",
+     "link": "https://www.cna.com.tw/news/aopl/202609130159.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-09-13T18:34:26+08:00",
+     "description": "（中央社雅加達13日綜合外電報導）印尼搜救機構表示，一艘渡輪在爪哇海（Java Sea）沉沒，已有113人獲救，搜救人員今天持續尋找130名失蹤者，這起事故迄今造成6人喪生。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
+     }
+    },
+    {
+     "title": "殘骸內尋獲41具遺體！菲律賓客輪大火 罹難者暴增至76人",
+     "link": "https://news.ebc.net.tw/news/world/571031",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-09-13T14:32:39.263440+08:00",
+     "description": "菲律賓「MV June Aster」客輪日前航行途中發生嚴重火災，死傷人數持續攀升。菲律賓海岸防衛隊週六表示，搜救人員從燒毀的船體殘骸內再尋獲41具遺體，使死亡",
+     "category": "world",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "world",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "菲律賓渡輪大火「經濟艙找到40具焦屍」！累計76死　船長失蹤",
+     "link": "https://www.ettoday.net/news/20260913/3236463.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-09-13T09:24:00+08:00",
+     "description": "菲律賓一艘從馬尼拉出發的渡輪「六月艾斯特號」（June Aster）9日深夜在海上爆發火災，死亡人數持續攀升。菲國當局12日宣布，救難人員在船艙內的經濟艙臥鋪區又發現41具焦黑遺體，累計罹難人數已升至76人，另有13名乘客下落依然不明。\n\n 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "菲律賓渡輪失火增至76死 13人仍失聯",
+     "link": "https://news.ltn.com.tw/news/world/breakingnews/5572026",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-09-12T22:31:14+08:00",
+     "description": "菲律賓渡輪失火事件，海岸防衛隊（PCG）持續在船艙內搜救，今晚公布最新傷亡數字表示，死亡人數已增至76人，尚有13人下落不明。\n\n渡輪「六月紫菀號」（MV June Aster）8日晚間...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "菲律賓渡輪失火增至76死　13人仍失聯",
+     "link": "https://www.cna.com.tw/news/aopl/202609120204.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-09-12T21:15:49+08:00",
+     "description": "（中央社記者林行健馬尼拉12日專電）菲律賓渡輪失火事件，海岸防衛隊（PCG）持續在船艙內搜救，今晚公布最新傷亡數字表示，死亡人數已增至76人，尚有13人下落不明。",
+     "author": "林行健",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "林行健",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
+     }
+    },
+    {
+     "title": "菲律賓渡輪失火35死54失蹤　調查聚焦貨艙爆炸",
+     "link": "https://www.cna.com.tw/news/aopl/202609120041.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-09-12T10:54:48+08:00",
+     "description": "（中央社記者林行健馬尼拉12日專電）一艘載有130多人的渡輪日前在菲律賓西部海域失火，菲律賓海岸防衛隊今天引述生還者說法指出，事發前貨艙傳出強烈爆炸聲，目前調查不排除恐怖攻擊、電動車起火等各種可能性。",
+     "author": "林行健",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "林行健",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
+     }
+    }
+   ]
+  },
+  {
    "id": "b816e2980a31",
    "title": "智利養老院大火16名長者罹難　場所屢違規釀悲劇",
    "outlet_count": 4,
@@ -8963,7 +9020,7 @@
    "last_updated": "2026-09-13T15:35:38+08:00",
    "tags": [
     "智利養老院",
-    "屢違規釀悲劇",
+    "所屢違規釀悲",
     "長者罹難"
    ],
    "articles": [
@@ -9055,48 +9112,68 @@
    ]
   },
   {
-   "id": "16df91cd8a06",
-   "title": "爆料引薦支持者助選遭拒絕！秦慧珠：蔣萬安傳話「每天罵我還要找我吃飯」",
-   "outlet_count": 4,
+   "id": "9d11007c4129",
+   "title": "00981A第三次配息0.63元拍板9/15最後買進| 財經",
+   "outlet_count": 3,
    "outlets": [
-    "mirror",
-    "newtalk",
-    "nownews",
-    "tvbs"
+    "ebc",
+    "ltn",
+    "newtalk"
    ],
-   "article_count": 5,
-   "first_seen": "2026-09-12T09:57:47+08:00",
-   "last_updated": "2026-09-12T17:05:00+08:00",
+   "article_count": 4,
+   "first_seen": "2026-09-14T15:50:27+08:00",
+   "last_updated": "2026-09-15T10:37:38.663270+08:00",
    "tags": [
-    "每天罵我還",
-    "秦慧珠",
-    "蔣萬安"
+    "最後買進日",
+    "金融股",
+    "配息"
    ],
    "articles": [
     {
-     "title": "被爆拒餐敘還嗆秦慧珠「每天罵我還找我吃飯」 蔣萬安回應了",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NR2dEb0Z2YllkYUpFeFFOeGw4U0RWNEFXUG5sbE1YNDFGLUZiU0lqaENOSDdlNHZqTXg1dC1TZXBLcXltckRuRWx1eXJhSVUxOWRn?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-09-12T17:05:00+08:00",
-     "description": "被爆拒餐敘還嗆秦慧珠「每天罵我還找我吃飯」 蔣萬安回應了  TVBS新聞網",
+     "title": "AI股震盪 買盤轉向金融股！ 00998A等金融ETF引發熱議 9/16最後買進日倒數中",
+     "link": "https://news.ebc.net.tw/news/business/571323",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-09-15T10:37:38.663270+08:00",
+     "description": "「想問問大家現在是不是很流行分批布局金融股啊？」近日一篇發布在Dcard理財版的貼文引發熱烈討論，短短時間湧入超過3萬次曝光、多則留言。",
+     "category": "business",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "acquisition": "scraper",
+      "category": "business",
+      "feed_url": "https://news.ebc.net.tw/realtime"
      }
     },
     {
-     "title": "LINE不讀不回2個月！秦慧珠再爆拒見面　蔣萬安跳針：很常碰到",
-     "link": "https://www.mirrormedia.mg/story/20260912edi006",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-09-12T14:38:00+08:00",
-     "description": "",
+     "title": "00998A 配息0.424元、9/16最後買進日！盧燕俐分享定期定額全球金融股三年心得",
+     "link": "https://news.ebc.net.tw/news/business/571312",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-09-15T10:37:38.663270+08:00",
+     "description": "台股指數逼近歷史新高之際，財經作家盧燕俐分享自己的資產配置心法，她認為接下來AI仍是投資主旋律，AI科技股與相關ETF可持續作為核心資產，至於衛星配置，則可依個",
+     "category": "business",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "business",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "00919每股配1.1元破紀錄 今為最後買進日",
+     "link": "https://ec.ltn.com.tw/article/breakingnews/5574098",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-09-15T10:00:36+08:00",
+     "description": "〔財經頻道／綜合報導〕高股息ETF再掀除息話題，群益台灣精選高息ETF（00919）將於9月16日迎來除息，本季預估每股配息1.1元，創下新高。想參與本次配息的投資人，今（15日）為最後買進日，只要在...…",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -9104,50 +9181,16 @@
        "source": "unknown"
       },
       "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
      }
     },
     {
-     "title": "秦慧珠再爆料！牽線助選遭拒「每天罵我還找吃飯」　蔣萬安駁斥",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLNG5pdFdhNW5MWGU0ZjF4Y0F4YksyeHdsNWlUeXVrX3g0OVl6emdsS3Y5eW9lOFJBeXY4OHRVZ196aGxWOWl5RW93MXJpc21ueHfSAVJBVV95cUxQSzRuaXRXYTVuTFhlNGYxeGNBeGJLMnh3bDVpVHl1a194NDlZenpnbEt2OXlvZThSQXl2ODh0VWdfemhsVjlpeUVvdzFyaXNtbnh3?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-09-12T10:57:53+08:00",
-     "description": "秦慧珠再爆料！牽線助選遭拒「每天罵我還找吃飯」　蔣萬安駁斥  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "嗆秦慧珠「每天罵我還要找我去吃飯」？蔣萬安：我沒說過這樣的話| 政治",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fcXZxMVVvaGMxUVZDOU5TbTRiVWNEY0hJZFVYY1dCZXR5YVZWWkVYbjRCaEZDd29sNjh6Um5oZ2dIbExJaEFteFRub1hhNl9BdGFaTVZzOHZnMlk?oc=5",
+     "title": "00981A第三次配息0.63元拍板9/15最後買進| 財經",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RUnlCNVRBMURZeTRweTUzNUR2cmhSNmdvenNHT2lUUFgzWFU2TmVPcnVXSHJOWlVSQXpidWN3RU5xdFRFSmptWVdMaXFJMi1jVkdKazJXaE03eTA?oc=5",
      "source": "newtalk",
      "source_name": "新頭殼",
-     "published": "2026-09-12T10:27:16+08:00",
-     "description": "嗆秦慧珠「每天罵我還要找我去吃飯」？蔣萬安：我沒說過這樣的話| 政治  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "爆料引薦支持者助選遭拒絕！秦慧珠：蔣萬安傳話「每天罵我還要找我吃飯」",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01X2E2Y3NNdzhVMnFYSG1oRlM4aV9NVVhOekM5X0E5QmZDWWMxZXpOUzhMT0pVVlpZOS1waWhySnludDFTeUFaa0RiUTMzX2U1RTZRblVXenBsbk0?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-09-12T09:57:47+08:00",
-     "description": "爆料引薦支持者助選遭拒絕！秦慧珠：蔣萬安傳話「每天罵我還要找我吃飯」  Newtalk新聞",
+     "published": "2026-09-14T15:50:27+08:00",
+     "description": "00981A第三次配息0.63元拍板9/15最後買進| 財經  Newtalk新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -9161,81 +9204,49 @@
    ]
   },
   {
-   "id": "359358c3fa8a",
-   "title": "買房產拚事業／獨家！和徐若瑄當鄰居　五月天霸氣豪砸6億買房",
+   "id": "9cfe493f6c2f",
+   "title": "骨科權威鹹豬手3／骨科聖手享譽國際　遭爆性騷陳博光診所回應了",
    "outlet_count": 3,
    "outlets": [
+    "ebc",
     "ettoday",
-    "ltn",
     "mirror"
    ],
-   "article_count": 4,
-   "first_seen": "2026-09-15T06:28:59+08:00",
-   "last_updated": "2026-09-15T08:16:25+08:00",
+   "article_count": 5,
+   "first_seen": "2026-09-15T06:28:56+08:00",
+   "last_updated": "2026-09-15T10:37:38.663270+08:00",
    "tags": [
-    "南港第一豪宅",
-    "和徐若瑄當鄰",
-    "五月天"
-   ],
-   "claims": [
-    {
-     "type": "金額",
-     "agree": true,
-     "outlet_count": 3,
-     "values": [
-      {
-       "value": "6億元",
-       "outlets": [
-        "ETtoday",
-        "自由時報",
-        "鏡週刊"
-       ]
-      }
-     ]
-    }
+    "趙建銘老師",
+    "科權威鹹豬手",
+    "診所回應了"
    ],
    "articles": [
     {
-     "title": "傳豪砸6億買下南港第一豪宅  五月天與「她」為鄰",
-     "link": "https://ent.ltn.com.tw/news/breakingnews/5574043",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-09-15T08:16:25+08:00",
-     "description": "〔娛樂頻道／綜合報導〕房仲圈近期傳出天團五月天以「相信音樂」名義進軍房地產，豪砸近6億元買進在台北市號稱「南港第一豪宅」的「世界明珠」整層商辦，而「世界明珠」也有位知名住戶，就是藝人徐若瑄。\n\n...…",
+     "title": "曾醫治林志玲！趙建銘老師爆「熊抱襲胸」護理師 診所回應了",
+     "link": "https://news.ebc.net.tw/news/society/571318",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-09-15T10:37:38.663270+08:00",
+     "description": "曾治療第一名模林志玲、名列脊椎外科權威的台大名醫陳博光，遭週刊爆料在台北市自家診所內，多次對女護理師伸出鹹豬手。",
+     "category": "society",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+      "acquisition": "scraper",
+      "category": "society",
+      "feed_url": "https://news.ebc.net.tw/realtime"
      }
     },
     {
-     "title": "五月天傳豪砸6億  買下南港第一豪宅進軍房產界",
-     "link": "https://ent.ltn.com.tw/news/breakingnews/5574024",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-09-15T07:55:10+08:00",
-     "description": "〔娛樂頻道／綜合報導〕五月天阿信最近才出席蘋果新機發表會，與新任執行長特納斯（John Ternus）驚喜合影，更透露後續將有更緊密合作，房仲圈則傳出五月天所屬相信音樂豪砸新台幣6億元，買下南港...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "五月天爆豪砸6億「買南港第一豪宅」！和徐若瑄當鄰居  房仲圈揭內幕",
-     "link": "https://star.ettoday.net/news/3237485",
+     "title": "「趙建銘老師」爆性騷！林志玲曾是患者　診所回應了",
+     "link": "https://www.ettoday.net/news/20260915/3237498.htm",
      "source": "ettoday",
      "source_name": "ETtoday",
-     "published": "2026-09-15T07:15:00+08:00",
-     "description": "五月天阿信最近才出席蘋果新機發表會，與新任執行長特納斯（John Ternus）驚喜合影，更透露後續將有更緊密合作，而儼然已成為企業家的阿信與五月天，也是地產大亨；房仲圈傳出，他們旗下的相信音樂豪砸新台幣6億元，買下南港建案「世界明珠」整層商辦，而同建案鄰居則是徐若瑄。\n\n 《詳全文...》",
+     "published": "2026-09-15T07:45:00+08:00",
+     "description": "至於陳妻為何一再袒護屢勸不聽的陳博光？陳妻的友人Ｂ小姐說，陳妻是商場女強人，之前有過一段婚姻，離婚後因為身體不好，所以一直希望找個有能力照顧她健康的伴侶，還向神明許願，說要找一個醫生當老公，並承諾會跟對方白頭偕老，不久後就在高鐵上，跟喪妻多年的陳相識。 《詳全文...》",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -9247,8 +9258,8 @@
      }
     },
     {
-     "title": "買房產拚事業／獨家！和徐若瑄當鄰居　五月天霸氣豪砸6億買房",
-     "link": "https://www.mirrormedia.mg/story/20260914ent003",
+     "title": "骨科權威鹹豬手／曾是趙建銘老師、醫治林志玲　台大名醫陳博光遭爆性騷護理師",
+     "link": "https://www.mirrormedia.mg/story/20260914soc007",
      "source": "mirror",
      "source_name": "鏡週刊",
      "published": "2026-09-15T06:28:59+08:00",
@@ -9262,120 +9273,13 @@
       "acquisition": "rss",
       "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
      }
-    }
-   ]
-  },
-  {
-   "id": "179fb416f690",
-   "title": "台灣126萬低薪勞工 年薪不到39萬",
-   "outlet_count": 3,
-   "outlets": [
-    "chinatimes",
-    "ettoday",
-    "udn"
-   ],
-   "article_count": 3,
-   "first_seen": "2026-09-15T00:00:00+08:00",
-   "last_updated": "2026-09-15T08:10:47+08:00",
-   "tags": [
-    "低薪勞工",
-    "薪不到"
-   ],
-   "articles": [
-    {
-     "title": "《今日焦點新聞》126萬低薪族年薪不到39萬主計總處：整體成長趨勢- 上市櫃",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpVm1laEJ0YmI5TDh6dmdGVkV5d1dmck5NR1J1dWQwX0o0ZmxwOGtJOXBrN1IyWlVPUURIR2NZcE5obTJmRzM0cUV4aHpvVF9nQm04d21DZ0tjQkhDSTRUd3R5bThfWmc5ckE?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-09-15T08:10:47+08:00",
-     "description": "《今日焦點新聞》126萬低薪族年薪不到39萬主計總處：整體成長趨勢- 上市櫃  旺得富理財網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
     },
     {
-     "title": "台灣「低薪勞工」有126萬人　年薪低於1標準就算",
-     "link": "https://finance.ettoday.net/news/3237475",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-09-15T06:23:00+08:00",
-     "description": "台灣到底有多少低薪勞工引發各界關注。主計總處引述國際標準表示，若以2024年總薪資中位數計算，全年薪資低於39萬元屬於低薪，國內目前約有126萬名勞工落在此門檻之下。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "台灣126萬低薪勞工 年薪不到39萬",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kMEdmRUZaenNWV050MFVUdk4wQlN1MzBIVDE4b19KdE1XRURWOW9jUFZhVHRBVWsxWC1EYWk0ejJkYlFpcDBYaUk5SGpmUWhF?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-09-15T00:00:00+08:00",
-     "description": "台灣126萬低薪勞工 年薪不到39萬  UDN",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
-   "id": "0ee10a92f0eb",
-   "title": "死囚林旺仁病逝　待執行死刑犯降至34人",
-   "outlet_count": 3,
-   "outlets": [
-    "cna",
-    "ettoday",
-    "mirror"
-   ],
-   "article_count": 3,
-   "first_seen": "2026-09-14T23:54:10+08:00",
-   "last_updated": "2026-09-15T06:49:00+08:00",
-   "tags": [
-    "死囚林旺仁",
-    "死刑犯",
-    "縱火"
-   ],
-   "claims": [
-    {
-     "type": "死亡人數",
-     "agree": true,
-     "outlet_count": 3,
-     "values": [
-      {
-       "value": "5",
-       "outlets": [
-        "ETtoday",
-        "中央社",
-        "鏡週刊"
-       ]
-      }
-     ]
-    }
-   ],
-   "articles": [
-    {
-     "title": "基隆KTV縱火釀5死！死囚林旺仁癌逝　全台死刑犯剩34人",
-     "link": "https://www.mirrormedia.mg/story/20260915edi001",
+     "title": "骨科權威鹹豬手1／藉機熊抱、襲胸頻伸鹹豬手　趙建銘老師長年性騷靠妻擺平",
+     "link": "https://www.mirrormedia.mg/story/20260914soc008",
      "source": "mirror",
      "source_name": "鏡週刊",
-     "published": "2026-09-15T06:49:00+08:00",
+     "published": "2026-09-15T06:28:58+08:00",
      "description": "",
      "metadata": {
       "schema_version": 1,
@@ -9388,12 +9292,81 @@
      }
     },
     {
-     "title": "林旺仁病逝未等到槍決！2004年縱火奪5命　台灣死刑犯剩34人",
-     "link": "https://www.ettoday.net/news/20260915/3237455.htm",
+     "title": "骨科權威鹹豬手3／骨科聖手享譽國際　遭爆性騷陳博光診所回應了",
+     "link": "https://www.mirrormedia.mg/story/20260914soc010",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-09-15T06:28:56+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    }
+   ]
+  },
+  {
+   "id": "33a4ff81d1ad",
+   "title": "當造神者也開始害怕：Anthropic研究員悲觀請辭，「AI發展若不踩煞車，我們可能都會喪命」 | BBC News 中文 | 新聞",
+   "outlet_count": 3,
+   "outlets": [
+    "ettoday",
+    "ltn",
+    "storm"
+   ],
+   "article_count": 6,
+   "first_seen": "2026-09-13T15:40:28+08:00",
+   "last_updated": "2026-09-15T10:20:29+08:00",
+   "tags": [
+    "中文"
+   ],
+   "articles": [
+    {
+     "title": "星宇股份解約風波：107名應屆生「告洋狀」，揭示中國勞工維權現狀 | BBC News 中文 | 新聞",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1BUGJIS0NjYXhPVVdaOWhLVkxqaGM4QklLbnY5ek5INmFsR1pUOG9INjIwY1pfOUpBZjNSaHU0ZHBCR25hb0toSjktOG9Ddw?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-09-15T10:20:29+08:00",
+     "description": "星宇股份解約風波：107名應屆生「告洋狀」，揭示中國勞工維權現狀 | BBC News 中文 | 新聞  風傳媒",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "Anthropic聯合創辦人喊話！ 應立法對AI強制安裝「終止開關」",
+     "link": "https://news.ltn.com.tw/news/world/breakingnews/5574127",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-09-15T10:20:26+08:00",
+     "description": "Anthropic執行長阿莫戴喊話全球AI產業放緩開發、強化安全評估，xAI負責人馬斯克、OpenAI執行長奧特曼對此表態支持，引起國際關注，Anthropic聯合創辦人克拉克（...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "AI滅絕人類機率逾10%　Anthropic創辦人籲：強制設立「終止開關」",
+     "link": "https://www.ettoday.net/news/20260915/3237519.htm",
      "source": "ettoday",
      "source_name": "ETtoday",
-     "published": "2026-09-15T00:58:00+08:00",
-     "description": "曾因縱火造成5人死亡、8人受傷而遭判死刑的林旺仁，14日在醫院病逝，終年66歲。矯正署官員深夜證實死訊，新北地方檢察署檢察官會同法醫相驗遺體後，已由家屬領回。林旺仁死刑定讞後遭關押超過22年，最終仍未等到執行；隨著他的死亡，目前待執行死刑犯人數降至34人。 《詳全文...》",
+     "published": "2026-09-15T08:56:00+08:00",
+     "description": "全球最大AI公司之一的Anthropic共同創辦人克拉克（Jack Clark）向BBC透露，為了防止人工智慧（AI）軟體變得過於危險，企業可能必須被強制規定設立一個可由第三方驗證的「終止開關」（kill switch）。\n\n 《詳全文...》",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -9405,21 +9378,142 @@
      }
     },
     {
-     "title": "死囚林旺仁病逝　待執行死刑犯降至34人",
-     "link": "https://www.cna.com.tw/news/asoc/202609140291.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-09-14T23:54:10+08:00",
-     "description": "（中央社記者劉世怡台北14日電）死刑犯林旺仁因不滿妻子在卡拉OK店工作，縱火造成5人死亡，死刑定讞後羈押至今。媒體報導他今天病逝，矯正署官員深夜證實，待執行死刑犯人數降至34人。",
-     "author": "劉世怡",
+     "title": "「贏了就是贏了」？Hyrox北京賽選手失禁奪冠，引爆全球公衛與運動精神爭議| BBC News 中文 | 新聞",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBZaTBVcjAxRVJIUWN6dG5OUnBhdE5WRWJCX3ZlSC02M1Ata0dYT0lockJVejFXc2I2WUtUYVBRbkFTemNCRUlEMUVVZlo4UQ?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-09-14T17:10:15+08:00",
+     "description": "「贏了就是贏了」？Hyrox北京賽選手失禁奪冠，引爆全球公衛與運動精神爭議| BBC News 中文 | 新聞  風傳媒",
      "metadata": {
       "schema_version": 1,
       "author": {
-       "name": "劉世怡",
-       "source": "description"
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "911事件的真正代價：西方深陷「反恐」幻夢，錯失中俄崛起的致命二十年 | BBC News 中文 | 新聞",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBheFFQZV94RTZMaUZtd0Z3WTVoQ2daN2kzbW5CVHJLQzZhQXk1VFpaWWwzS0RQaDYzZGZsM0dSRW5YaENhcUd0aXVMTkM0Zw?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-09-14T11:59:59+08:00",
+     "description": "911事件的真正代價：西方深陷「反恐」幻夢，錯失中俄崛起的致命二十年 | BBC News 中文 | 新聞  風傳媒",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "當造神者也開始害怕：Anthropic研究員悲觀請辭，「AI發展若不踩煞車，我們可能都會喪命」 | BBC News 中文 | 新聞",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5McF9pVEI0aDBweHNOQnRHMm5iQlhvLXdLTjM1S2xjRXY5WUM3YXFUS2ljbmRDWHBja18yYVhiaFhqY3l2WVZ0RkxmZmhFUQ?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-09-13T15:40:28+08:00",
+     "description": "當造神者也開始害怕：Anthropic研究員悲觀請辭，「AI發展若不踩煞車，我們可能都會喪命」 | BBC News 中文 | 新聞  風傳媒",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
+   "id": "1cf2e23757f2",
+   "title": "AI三巨頭喊「慢慢來」 郭哲榮喻：學霸叫你別太用功，你信嗎？",
+   "outlet_count": 3,
+   "outlets": [
+    "ltn",
+    "newtalk",
+    "nownews"
+   ],
+   "article_count": 4,
+   "first_seen": "2026-09-14T12:54:35+08:00",
+   "last_updated": "2026-09-15T10:19:03+08:00",
+   "tags": [
+    "三巨頭喊",
+    "學霸叫你別",
+    "郭哲榮喻"
+   ],
+   "articles": [
+    {
+     "title": "焦點股》聯發科：美國AI三巨頭籲降速！股價腿軟",
+     "link": "https://ec.ltn.com.tw/article/breakingnews/5574174",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-09-15T10:19:03+08:00",
+     "description": "AI產業發展又起雜音，Anthropic執行長阿莫戴（Dario Amodei）呼籲全球AI產業放慢前沿模型開發，強化安全評估，xAI負責人馬斯克（Elon Musk）與...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
       },
       "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/social"
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "AI三巨頭喊降速不妙？法人看好基礎建設需求　焦點將重回獲利",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QQ2FibkZLNjMzRFN0dE85ZEpJNnBVSVJ5dFh3NExKRDRlVHFIeHB1RFE3T3hDdHNoNUloNWMyejF0MXhZaDN0Y0FCRUpIMkY5X1HSAVJBVV95cUxOUENhYm5GSzYzM0RTdHRPOWRKSTZwVUlSeXRYdzRMSkQ0ZVRxSHhwdURRN094Q3RzaDVJaDVjMnoxdDF4WWgzdGNBQkVKSDJGOV9R?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-09-14T19:22:34+08:00",
+     "description": "AI三巨頭喊降速不妙？法人看好基礎建設需求　焦點將重回獲利  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "AI三巨頭喊「慢慢來」 郭哲榮喻：學霸叫你別讀書，你信嗎？",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yY29UU2wtcU14YW05Y0NBaHVVS01lRTVBVlJFVDZKeUN4UGFkaVV6MXBzZmZVT3p5cEIzY0c2QVRGbXdKbGktVmhfNGdZcktoNEZiTGVwdTBHUQ?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-09-14T12:54:35+08:00",
+     "description": "AI三巨頭喊「慢慢來」 郭哲榮喻：學霸叫你別讀書，你信嗎？  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "AI三巨頭喊「慢慢來」 郭哲榮喻：學霸叫你別太用功，你信嗎？",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KS09lbEhqUnFYQk1oTDlPaTFxaXRxWHVIM3BfSzBJcUVEOWp0M0RReE5FVFVTQzBrS05Qd25jSU10NmpLcGRRaDhvX1lINl8yVDc5Y3dSQXBfMkU?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-09-14T12:54:35+08:00",
+     "description": "AI三巨頭喊「慢慢來」 郭哲榮喻：學霸叫你別太用功，你信嗎？  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
