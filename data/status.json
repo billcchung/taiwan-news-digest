@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-18T22:29:19.000221+08:00",
+ "generated_at": "2026-09-19T00:28:31.695630+08:00",
  "sources": [
   {
    "id": "cna",
    "name": "中央社",
    "ok": true,
-   "count": 78,
+   "count": 75,
    "via_fallback": false,
    "errors": []
   },
@@ -21,7 +21,7 @@
    "id": "udn",
    "name": "聯合新聞網",
    "ok": true,
-   "count": 88,
+   "count": 87,
    "via_fallback": true,
    "errors": []
   },
@@ -84,8 +84,8 @@
   {
    "id": "twreporter",
    "name": "報導者",
-   "ok": true,
-   "count": 7,
+   "ok": false,
+   "count": 0,
    "via_fallback": false,
    "errors": []
   },
@@ -93,7 +93,7 @@
    "id": "storm",
    "name": "風傳媒",
    "ok": true,
-   "count": 99,
+   "count": 100,
    "via_fallback": true,
    "errors": []
   },
