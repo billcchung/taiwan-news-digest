@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-21T09:07:12.779770+08:00",
+ "generated_at": "2026-09-21T10:41:09.667704+08:00",
  "sources": [
   {
    "id": "cna",
@@ -13,15 +13,17 @@
    "id": "pts",
    "name": "公視新聞",
    "ok": true,
-   "count": 25,
-   "via_fallback": false,
-   "errors": []
+   "count": 16,
+   "via_fallback": true,
+   "errors": [
+    "https://news.pts.org.tw/xml/newsfeed.xml: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+   ]
   },
   {
    "id": "udn",
    "name": "聯合新聞網",
    "ok": true,
-   "count": 98,
+   "count": 99,
    "via_fallback": true,
    "errors": []
   },
@@ -61,7 +63,7 @@
    "id": "setn",
    "name": "三立新聞網",
    "ok": true,
-   "count": 100,
+   "count": 99,
    "via_fallback": true,
    "errors": []
   },
@@ -69,7 +71,7 @@
    "id": "ebc",
    "name": "東森新聞",
    "ok": true,
-   "count": 15,
+   "count": 12,
    "via_fallback": false,
    "errors": []
   },
