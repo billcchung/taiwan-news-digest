@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-24T16:38:04.772771+08:00",
+ "generated_at": "2026-09-24T18:30:20.709425+08:00",
  "sources": [
   {
    "id": "cna",
    "name": "中央社",
    "ok": true,
-   "count": 78,
+   "count": 80,
    "via_fallback": false,
    "errors": []
   },
@@ -21,7 +21,7 @@
    "id": "udn",
    "name": "聯合新聞網",
    "ok": true,
-   "count": 96,
+   "count": 95,
    "via_fallback": true,
    "errors": []
   },
@@ -37,7 +37,7 @@
    "id": "chinatimes",
    "name": "中時新聞網",
    "ok": true,
-   "count": 99,
+   "count": 100,
    "via_fallback": true,
    "errors": []
   },
@@ -77,15 +77,15 @@
    "id": "mirror",
    "name": "鏡週刊",
    "ok": true,
-   "count": 144,
+   "count": 131,
    "via_fallback": false,
    "errors": []
   },
   {
    "id": "twreporter",
    "name": "報導者",
-   "ok": false,
-   "count": 0,
+   "ok": true,
+   "count": 1,
    "via_fallback": false,
    "errors": []
   },
@@ -109,7 +109,7 @@
    "id": "nownews",
    "name": "今日新聞",
    "ok": true,
-   "count": 98,
+   "count": 97,
    "via_fallback": true,
    "errors": []
   }
