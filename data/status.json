@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-27T14:44:17.643225+08:00",
+ "generated_at": "2026-09-27T16:35:11.821984+08:00",
  "sources": [
   {
    "id": "cna",
    "name": "中央社",
    "ok": true,
-   "count": 70,
+   "count": 72,
    "via_fallback": false,
    "errors": []
   },
@@ -69,17 +69,15 @@
    "id": "ebc",
    "name": "東森新聞",
    "ok": true,
-   "count": 99,
-   "via_fallback": true,
-   "errors": [
-    "scraper: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
-   ]
+   "count": 12,
+   "via_fallback": false,
+   "errors": []
   },
   {
    "id": "mirror",
    "name": "鏡週刊",
    "ok": true,
-   "count": 130,
+   "count": 140,
    "via_fallback": false,
    "errors": []
   },
@@ -111,7 +109,7 @@
    "id": "nownews",
    "name": "今日新聞",
    "ok": true,
-   "count": 99,
+   "count": 100,
    "via_fallback": true,
    "errors": []
   }
