@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-27T12:34:19.242671+08:00",
+ "generated_at": "2026-09-27T14:44:17.643225+08:00",
  "sources": [
   {
    "id": "cna",
    "name": "中央社",
    "ok": true,
-   "count": 65,
+   "count": 70,
    "via_fallback": false,
    "errors": []
   },
@@ -21,7 +21,7 @@
    "id": "udn",
    "name": "聯合新聞網",
    "ok": true,
-   "count": 99,
+   "count": 96,
    "via_fallback": true,
    "errors": []
   },
@@ -37,7 +37,7 @@
    "id": "chinatimes",
    "name": "中時新聞網",
    "ok": true,
-   "count": 100,
+   "count": 98,
    "via_fallback": true,
    "errors": []
   },
@@ -69,9 +69,11 @@
    "id": "ebc",
    "name": "東森新聞",
    "ok": true,
-   "count": 9,
-   "via_fallback": false,
-   "errors": []
+   "count": 99,
+   "via_fallback": true,
+   "errors": [
+    "scraper: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+   ]
   },
   {
    "id": "mirror",
@@ -93,7 +95,7 @@
    "id": "storm",
    "name": "風傳媒",
    "ok": true,
-   "count": 98,
+   "count": 97,
    "via_fallback": true,
    "errors": []
   },
