@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-29T20:45:07.630552+08:00",
+ "generated_at": "2026-09-29T22:32:44.031182+08:00",
  "sources": [
   {
    "id": "cna",
@@ -21,7 +21,7 @@
    "id": "udn",
    "name": "聯合新聞網",
    "ok": true,
-   "count": 95,
+   "count": 94,
    "via_fallback": true,
    "errors": []
   },
@@ -32,7 +32,7 @@
    "count": 100,
    "via_fallback": true,
    "errors": [
-    "https://news.ltn.com.tw/rss/all.xml: HTTPSConnectionPool(host='news.ltn.com.tw', port=443): Read timed out. (read timeout=30)"
+    "https://news.ltn.com.tw/rss/all.xml: 403 Client Error: Forbidden for url: https://news.ltn.com.tw/rss/all.xml"
    ]
   },
   {
@@ -71,7 +71,7 @@
    "id": "ebc",
    "name": "東森新聞",
    "ok": true,
-   "count": 9,
+   "count": 12,
    "via_fallback": false,
    "errors": []
   },
