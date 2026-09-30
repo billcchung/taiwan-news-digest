@@ -1,6 +1,6 @@
 {
  "date": "2026-09-30",
- "generated_at": "2026-09-30T10:44:13.496256+08:00",
+ "generated_at": "2026-09-30T12:36:42.204887+08:00",
  "events": [
   {
    "id": "5eb9a6a65d0c",
@@ -221,7 +221,7 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 53,
+   "article_count": 54,
    "first_seen": "2026-09-27T19:30:44+08:00",
    "last_updated": "2026-09-29T17:47:46+08:00",
    "tags": [
@@ -244,6 +244,23 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "神明甘蔗出自80多歲長者親手種植　林俊憲：蔣萬安根本不當一回事",
+     "link": "https://www.mirrormedia.mg/story/20260929edi053",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-09-29T15:52:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
      }
     },
     {
@@ -380,23 +397,6 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "獲贈甘蔗沒帶走惹議  蔣萬安連連喊「真拍謝」：是我疏忽",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5589258",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-09-29T11:54:55+08:00",
-     "description": "台北市長蔣萬安、民進黨籍台北市長參選人沈伯洋上週六（26日）均出席中山區中庄仔福德宮晚宴，廟方均送上甘蔗祝福；不料，甘蔗節的長短不同引發外界聯想，又爆出蔣萬安未將廟方送的甘蔗帶...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
      }
     }
    ]
@@ -605,50 +605,56 @@
    ]
   },
   {
-   "id": "27e69c232caf",
-   "title": "歐盟令開放搜尋資料與Android功能　Google上訴",
+   "id": "d4aa878797fe",
+   "title": "傅崐萁喊普發2萬　卓榮泰：債務絕對不能留給下一代",
    "outlet_count": 10,
    "outlets": [
     "chinatimes",
     "cna",
+    "ebc",
     "ettoday",
-    "ltn",
-    "mirror",
     "newtalk",
     "nownews",
     "pts",
+    "setn",
     "storm",
     "udn"
    ],
-   "article_count": 18,
-   "first_seen": "2026-09-27T10:56:50+08:00",
-   "last_updated": "2026-09-30T07:00:00+08:00",
-   "tags": [],
+   "article_count": 20,
+   "first_seen": "2026-09-29T09:19:28+08:00",
+   "last_updated": "2026-09-29T18:14:00+08:00",
+   "tags": [
+    "普發",
+    "卓榮泰",
+    "傅崐萁"
+   ],
+   "claims": [
+    {
+     "type": "金額",
+     "agree": true,
+     "outlet_count": 5,
+     "values": [
+      {
+       "value": "2萬元",
+       "outlets": [
+        "ETtoday",
+        "今日新聞",
+        "公視新聞",
+        "東森新聞",
+        "聯合新聞網"
+       ]
+      }
+     ]
+    }
+   ],
    "articles": [
     {
-     "title": "ASIC雙雄重挫逾7％能撿了？　聯發科、創意2大買點曝",
-     "link": "https://www.mirrormedia.mg/story/20260929-185mon-204811",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-09-30T07:00:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "是方攜手Google Cloud 迎戰海纜斷線風險",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zZVB3Y3lTc3FFVlRIaHNmbGtlMzlRcEN1M2tWM3ZuSTVPYUExSXZuZzQ0VUI1a1RmeUl6Yk9RU05HaVV2WGxFMGx0eklZMkl5ZGlUWmJoS0c?oc=5",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-09-29T19:25:00+08:00",
-     "description": "是方攜手Google Cloud 迎戰海纜斷線風險  自由時報",
+     "title": "全民普發1萬預算已編好「最快入帳日」瘋傳　財政部曝最大變數",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBJckpmLUszTTNPeTJYZHVUWmJObkttMlhIYnhGLUNuR1lwM240RFJlWkkxN1FiRVNibmZCNXM3cTVNNW9PRHNPV9IBTEFVX3lxTFBkQ2JxUVNtX2JUbGdoQW96Ykt2V0p5b0QyTEtKaXhwcWRyYjRDeUJrdlNCbVpvVUxHVURFTUtLM19oNEQ1YXpWVjdqSWE?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-09-29T18:14:00+08:00",
+     "description": "全民普發1萬預算已編好「最快入帳日」瘋傳　財政部曝最大變數  三立新聞網SETN.com",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -656,33 +662,35 @@
        "source": "unknown"
       },
       "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:ltn.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
-     "title": "歐盟令開放搜尋資料與Android功能　Google上訴",
-     "link": "https://www.cna.com.tw/news/aopl/202609290169.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-09-29T15:11:27+08:00",
-     "description": "（中央社布魯塞爾29日綜合外電報導）美國科技巨擘谷歌（Google）對歐洲聯盟兩項命令提出挑戰，歐盟要求Google協助OpenAI等人工智慧（AI）競爭對手取得相關服務，並讓搜尋引擎競爭對手取得搜尋資料。",
+     "title": "立院開議！藍拚今年普發2萬 預告明年再發錢",
+     "link": "https://news.ebc.net.tw/news/politics/573441",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-09-29T14:48:34.683848+08:00",
+     "description": "朝野焦點仍集中在普發現金議題，卓榮泰強調，不能把這一代的債務留給下一代；國民黨團總召傅崐萁則預告，明年若有超收，金額不會低於2萬元。",
+     "category": "politics",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
+      "acquisition": "scraper",
+      "category": "politics",
+      "feed_url": "https://news.ebc.net.tw/realtime"
      }
     },
     {
-     "title": "桃園民眾反映公車動態資訊不準 交通局承諾10/4完成系統升級",
-     "link": "https://news.pts.org.tw/article/829091",
+     "title": "藍營喊今年普發2萬 卓榮泰強調不債留子孫",
+     "link": "https://news.pts.org.tw/article/829107",
      "source": "pts",
      "source_name": "公視新聞",
-     "published": "2026-09-29T14:25:24+08:00",
-     "description": "桃園公車動態資訊系統8月底啟動升級，近期卻有民眾反映「幽靈公車」、到站時間不準等問題。交通局表示，新系統預計10月4日全面完成切換，到站資訊準確率可望提升至90%以上。",
+     "published": "2026-09-29T14:17:59+08:00",
+     "description": "立法院新會期今（29）日開議，先由行政院長卓榮泰進行施政報告，呼籲朝野應該依期限審議預算，讓憲政秩序回歸常軌。而被問及國民黨團總召傅崐萁表示，要提出「特別條例草案」，喊話今（2026）年就要「普發2萬」。卓榮泰回應，債務絕不能留給下一代。民眾黨團則認為稅收超徵，應該優先用於還債或提升老農、長者福利，和國民黨團出現不同調。",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -694,12 +702,48 @@
      }
     },
     {
-     "title": "使用無痕頁面就不留痕跡？　Google警告：這3類人正盯著你的上網紀錄",
-     "link": "https://www.mirrormedia.mg/story/20260929web001",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-09-29T13:16:00+08:00",
-     "description": "",
+     "title": "傅崐萁喊普發2萬 卓榮泰：債務絕對不能留給下一代",
+     "link": "https://news.ebc.net.tw/news/living/573425",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-09-29T12:35:55.777290+08:00",
+     "description": "國民黨立法院黨團總召傅崐萁日前表示，立法院新會期優先民生法案，是普發現金新台幣2萬元。行政院長卓榮泰今天說，這一代的債務，絕對不能留給下一代。",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "喊普發2萬現金！傅崐萁稱「不用舉債」：明年會再提案、每人可望超過2萬",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBQaXFaa0hMdUdabDdKVU05RGJiQ1M1RXQyRUpkMThmSG53ajBwam5DZVJEVXJnaEpLRzVPV0wweHhwZy1iZG96etIBTEFVX3lxTFBGT2VKVksxOHBUV1UxMW5lR185eTVjOERRXy1ZMGd2WXlBc204QklmeTVYYzA1dnJfazJkMEVYWFJDMlVrYURmVElHSXQ?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-09-29T12:30:00+08:00",
+     "description": "喊普發2萬現金！傅崐萁稱「不用舉債」：明年會再提案、每人可望超過2萬  三立新聞網SETN.com",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "藍提普發2萬　綠黨團：大總召傅崐萁又要取代卓院長？加碼沒完沒了",
+     "link": "https://www.ettoday.net/news/20260929/3245727.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-09-29T12:30:00+08:00",
+     "description": "國民黨立法院黨團今（29日）將「普發現金2萬元」列為新會期優先法案，民進黨團幹事長莊瑞雄強調，大幅增加支出依《預算法》須指明財源並與政院溝通，立院無法自行編列預算，《憲法》也明定立院審查預算時，不能做增加的決定。莊瑞雄批評，在野黨因選舉考量如即興之作喊加碼，加碼講久了以後都變成在許願，這樣不好，「傅崐萁大總召又要來取代行政院、取代卓院長」。 《詳全文...》",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -707,16 +751,34 @@
        "source": "unknown"
       },
       "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
      }
     },
     {
-     "title": "聯發科為何暴跌近7%？才喊目標價7300元就重挫，Google TPU「轉單危機」還會有未爆彈嗎？ | 下班經濟學 | 財經",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5sQ3NzMDU5R1dKNUtnLVFRMkVRSk92S2JkTkMzNHBRNmRMU0hxTlB6d3F5cktwZWZXMENTTzdxczRDVFZxeXJobWZFMVlBZw?oc=5",
+     "title": "普發現金國民黨加碼到2萬　綠：競相加碼會沒完沒了",
+     "link": "https://www.cna.com.tw/news/aipl/202609290097.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-09-29T12:10:50+08:00",
+     "description": "（中央社記者林敬殷台北29日電）總統賴清德日前宣布明年將普發現金新台幣1萬元，國民黨立法院黨團加碼到2萬元，列為立法院新會期優先法案。民進黨團幹事長莊瑞雄今天說，一個穩健、真正有能力帶領國家繼續向前的政黨，不應因一時興起就不斷喊加碼，如果政黨不斷競相加碼，這樣就沒完沒了。",
+     "author": "林敬殷",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "林敬殷",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
+     }
+    },
+    {
+     "title": "普發現金加碼到2萬元？卓榮泰冷回「債務不留下一代」 藍綠白立場一次看 | 鍾秉哲 | 新聞",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zYV9DVnkteXd3N2lJT0lGa0FOanRLVkJRc0VFcGktLUxRQVByVzQxMVQtZFZMLUhGdEoxdXZXazRRSzFrRkR3cERnVkpsZw?oc=5",
      "source": "storm",
      "source_name": "風傳媒",
-     "published": "2026-09-29T12:19:06+08:00",
-     "description": "聯發科為何暴跌近7%？才喊目標價7300元就重挫，Google TPU「轉單危機」還會有未爆彈嗎？ | 下班經濟學 | 財經  風傳媒",
+     "published": "2026-09-29T11:45:45+08:00",
+     "description": "普發現金加碼到2萬元？卓榮泰冷回「債務不留下一代」 藍綠白立場一次看 | 鍾秉哲 | 新聞  風傳媒",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -728,12 +790,12 @@
      }
     },
     {
-     "title": "《半導體》Google ASIC夢震盪！聯發科重挫近7%、5千關卡失守- 上市櫃",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SSEF0U0hxTC1oYm5UcGJIdlBvd3RlUE5iOFFzYlNPYi1YWUNIWlU2dEFaX0l5T1B2TXhKNXIwWDhneTdYbVZuZnowUUZna0w3MzluOEtxd0FYSmxOVkZnRWxXNF9heVJ4Unc?oc=5",
+     "title": "力推今年普發2萬 傅崐萁再拋震撼彈：明年「可能不低於2萬」",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB2UjUzZ2J6VXFhSnBOU3oxQ3lTRXBpcUdPaDBtRXJBdlY2RkhpRFY4bEV3T1ZZYW1hU01XX0dqYnJCTHpnZU4yOC1KWEFVWVlXRFBkYm9oNllLWERRX25wZVM4bEhPNGNEUGFuRFZB?oc=5",
      "source": "chinatimes",
      "source_name": "中時新聞網",
-     "published": "2026-09-29T11:22:31+08:00",
-     "description": "《半導體》Google ASIC夢震盪！聯發科重挫近7%、5千關卡失守- 上市櫃  旺得富理財網",
+     "published": "2026-09-29T11:27:09+08:00",
+     "description": "力推今年普發2萬 傅崐萁再拋震撼彈：明年「可能不低於2萬」  chinatimes.com",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -745,29 +807,12 @@
      }
     },
     {
-     "title": "瑞芳驚見「川普岩」！神似川普側臉掀朝聖潮　網狂喊：讓瑞芳再次偉大",
-     "link": "https://www.mirrormedia.mg/story/20260929edi031",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-09-29T10:59:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "瑞芳驚見「川普岩」！Google地圖地標掀朝聖潮民眾：讓瑞芳再次偉大| 生活",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByX3RTcklLVU1PbjBsM3hnSUlCN2sxTFZyWE55QmI3MWZKaG1xTGdJcWZTZ29mWTRkcmdranNnNDRaU0JiRXFpUTdXRHZ0UU82ZmRfUEw3a2pvc0U?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-09-29T10:22:33+08:00",
-     "description": "瑞芳驚見「川普岩」！Google地圖地標掀朝聖潮民眾：讓瑞芳再次偉大| 生活  Newtalk新聞",
+     "title": "普發2萬元今年發放！傅崐萁：明年普發金額再視經濟成長率決定",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBqZHpCT25vZHZTSjh4SVZiM3hMdlAySXpReTNMeHZvRmRmQjFKakwtN2FLZFUybU1yZXdXUzRRY09WeGRaTDFnTlJIRWhjZDdT0gFWQVVfeXFMT0xRUXNtUnJhYzVReHYxV043NkFxSloxeWJxMEdhU3ZHRWlqd1hJRzV1eWV2WjhwSjZPWUl2TFYwMHlkRUNOcktsaDhCM1BRWWNJOU5PT0E?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-09-29T11:13:09+08:00",
+     "description": "普發2萬元今年發放！傅崐萁：明年普發金額再視經濟成長率決定  UDN",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -775,24 +820,7 @@
        "source": "unknown"
       },
       "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "推出2年就退場！Google11月淘汰Gemini Gem　替代功能出爐",
-     "link": "https://3c.ltn.com.tw/news/67741",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-09-29T09:01:00+08:00",
-     "description": "Google又有一項服務準備走進歷史。過去不少Gemini用戶會利用Gem打造自己的專屬AI助手，不過Google已正式宣布，將從2026年11月17日開始淘汰「Gem」，未來全面改以「技能」替代…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -812,13 +840,30 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 138,
+   "article_count": 142,
    "first_seen": "2026-09-27T12:43:35+08:00",
-   "last_updated": "2026-09-30T08:42:51+08:00",
+   "last_updated": "2026-09-30T11:50:00+08:00",
    "tags": [
     "新聞網"
    ],
    "articles": [
+    {
+     "title": "女大生遭水泥車倒車輾斃！家屬南投奔台南認屍　校方安撫同學",
+     "link": "https://www.ettoday.net/news/20260930/3246355.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-09-30T11:50:00+08:00",
+     "description": "台南市仁德區保安路昨（29日）上午9時許發生死亡車禍，25歲湯姓男子駕駛水泥預拌車倒車時，與後方23歲吳姓女大生騎乘的機車發生碰撞，吳女倒地後遭輾壓，送醫搶救仍傷重不治，警方確認湯男酒測值為0，檢警完成相驗，詳細事故原因及責任仍待調查；校方派員協助家屬，並啟動急難救助及心理支援機制。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
     {
      "title": "天氣/ 只有熱還要更熱!高溫橙燈範圍再擴大6縣市連日達36度｜氣象主播謝宜倫｜早安氣象｜TVBS新聞 20260930 @TVBSNEWS01 │ TVBS新聞網",
      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Ma3daYVJWb3VVMVk2NjVZcTZVQVRfaEQzMXc4T0VLb2kyTmUxTm1Vdm1MeHJJaHRYclBQcThrUnhseXRBZ2J5SHlsZWhEUVg4d0V3RkR3?oc=5",
@@ -843,6 +888,23 @@
      "source_name": "TVBS",
      "published": "2026-09-30T08:33:54+08:00",
      "description": "颶風波洛二度登陸墨西哥 颳14級風.街道淹大水｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網  TVBS新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "疑北韓地雷炸傷南韓3官兵 金與正嗆自導自演｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZSWdJNTUyNU1fb081bGlGVDUtUnVpMkJoVkVnbGgwMlQ0Q09xdnpYNXlsdWFVSWRGcVZ4Y2Rra3F5RFpiWlZpV0RWMTVsMFR0UFZyVXRR?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-09-30T08:32:52+08:00",
+     "description": "疑北韓地雷炸傷南韓3官兵 金與正嗆自導自演｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網  TVBS新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -954,92 +1016,57 @@
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
      }
-    },
-    {
-     "title": "逼女童掛「汙辱」紙板遊街 父訊後遭聲押｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CQzhraTVVNkxpVm14VG9leG95SnFoR1JHVDY5X24wU2h2aklqcVM5NVZTU3N0djEyZGFqMThZZWxnSlNQRXZibm1DbHF0OEVYRGk1VER3?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-09-29T23:16:35+08:00",
-     "description": "逼女童掛「汙辱」紙板遊街 父訊後遭聲押｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網  TVBS新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "疑精神不濟開到對向 重新堤外道5車連撞｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CTk5nRmFNQ3NQSTVFRG1PNk1rQkszbGhqWGpKWUthSFFaVmphM3J3Mmo3a3lPMmg5Yk82dWpmQnNNVzlpVVF0aUNQTWhYZHlRWktWbkhR?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-09-29T23:12:44+08:00",
-     "description": "疑精神不濟開到對向 重新堤外道5車連撞｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網  TVBS新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
     }
    ]
   },
   {
-   "id": "d4aa878797fe",
-   "title": "傅崐萁喊普發2萬　卓榮泰：債務絕對不能留給下一代",
+   "id": "7f95a7a71148",
+   "title": "張啓楷造勢驚魂！國民黨嘉市主委「台上昏倒摔下」畫面曝",
    "outlet_count": 9,
    "outlets": [
     "chinatimes",
-    "cna",
     "ebc",
     "ettoday",
+    "ltn",
+    "mirror",
     "newtalk",
     "nownews",
-    "pts",
-    "setn",
-    "storm"
+    "storm",
+    "tvbs"
    ],
-   "article_count": 19,
-   "first_seen": "2026-09-29T09:19:28+08:00",
-   "last_updated": "2026-09-29T18:14:00+08:00",
+   "article_count": 13,
+   "first_seen": "2026-09-28T11:21:20+08:00",
+   "last_updated": "2026-09-30T11:39:00+08:00",
    "tags": [
-    "普發",
-    "卓榮泰",
-    "傅崐萁"
-   ],
-   "claims": [
-    {
-     "type": "金額",
-     "agree": true,
-     "outlet_count": 4,
-     "values": [
-      {
-       "value": "2萬元",
-       "outlets": [
-        "ETtoday",
-        "今日新聞",
-        "公視新聞",
-        "東森新聞"
-       ]
-      }
-     ]
-    }
+    "張啓楷",
+    "主委",
+    "摔下"
    ],
    "articles": [
     {
-     "title": "全民普發1萬預算已編好「最快入帳日」瘋傳　財政部曝最大變數",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBJckpmLUszTTNPeTJYZHVUWmJObkttMlhIYnhGLUNuR1lwM240RFJlWkkxN1FiRVNibmZCNXM3cTVNNW9PRHNPV9IBTEFVX3lxTFBkQ2JxUVNtX2JUbGdoQW96Ykt2V0p5b0QyTEtKaXhwcWRyYjRDeUJrdlNCbVpvVUxHVURFTUtLM19oNEQ1YXpWVjdqSWE?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-09-29T18:14:00+08:00",
-     "description": "全民普發1萬預算已編好「最快入帳日」瘋傳　財政部曝最大變數  三立新聞網SETN.com",
+     "title": "藍黨部主委蔡明顯昏倒摔下台傷勢照曝　左手骨折、臉部多處受傷",
+     "link": "https://www.ettoday.net/news/20260930/3246342.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-09-30T11:39:00+08:00",
+     "description": "藍白共推的民眾黨嘉義市長參選人張啓楷28日舉辦競總成立大會，國民黨嘉義縣、市黨部主委蔡明顯站台時，突從台上昏倒摔倒到台下，嚇壞眾人。對此，張啓楷今（30日）貼出蔡明顯最新傷勢照，照片可見臉部多處受傷、左手也有護具，張啓楷指出，主委表示左手持續疼痛，經檢查為左手骨折，研判是跌落時以手撐地所造成，並已接受手術，目前恢復穩定，身體狀況穩定，預計今天就能出院。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "張啓楷競選總部成立 藍白黨魁助陣站台｜LIVE",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WODI2OURnLWJSd25ScHA1bkR3NUNCbXlJOWlBUkFBUWVWbi1jZV9HOHRpSUFIUGpZTDNGQ2lwMEZDQUtyMy0tYzhESGd6eXdIa2gtNmxB?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-09-29T00:26:22+08:00",
+     "description": "張啓楷競選總部成立 藍白黨魁助陣站台｜LIVE  TVBS新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -1047,16 +1074,50 @@
        "source": "unknown"
       },
       "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
-     "title": "立院開議！藍拚今年普發2萬 預告明年再發錢",
-     "link": "https://news.ebc.net.tw/news/politics/573441",
+     "title": "張啓楷競選總部成立 國民黨嘉義市主委昏倒摔下舞台",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5588232",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-09-28T17:42:16+08:00",
+     "description": "上稿時間：11:07更新時間：17:42\n嘉義市長選情升溫，藍白共推的民眾黨嘉義市長參選人張啓楷今在嘉義市自由路舉辦競總成立大會，藍、白大咖站台力挺，然而上午氣溫飆破30...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "藍白大團結出意外！柯文哲、鄭麗文齊聚張啓楷競總國民黨主委昏厥摔落舞台嚇壞眾人| 張庭維 | 新聞",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5kRDk4aU5oMUtBNXlHbW5MTWQ1M01ONmlMajJRN3E3ZmVaYlNHS1lnRlZWQXdRakhfYk5NSXAzZE5zdDBaZm94aTEyR05LQQ?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-09-28T13:10:39+08:00",
+     "description": "藍白大團結出意外！柯文哲、鄭麗文齊聚張啓楷競總國民黨主委昏厥摔落舞台嚇壞眾人| 張庭維 | 新聞  storm.mg",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "藍白合造勢爆意外！藍營嘉市主委「突癱軟摔下舞台」急送醫",
+     "link": "https://news.ebc.net.tw/news/politics/573306",
      "source": "ebc",
      "source_name": "東森新聞",
-     "published": "2026-09-29T14:48:34.683848+08:00",
-     "description": "朝野焦點仍集中在普發現金議題，卓榮泰強調，不能把這一代的債務留給下一代；國民黨團總召傅崐萁則預告，明年若有超收，金額不會低於2萬元。",
+     "published": "2026-09-28T12:38:28.774685+08:00",
+     "description": "民眾黨張啓楷28日舉行嘉義市長競總成立大會，造勢期間國民黨嘉義市黨部主委蔡明顯疑因天熱體力不支突摔落舞台。救護車隨即將人送醫，其臉部擦傷、意識清醒無大礙。",
      "category": "politics",
      "metadata": {
       "schema_version": 1,
@@ -1070,48 +1131,12 @@
      }
     },
     {
-     "title": "藍營喊今年普發2萬 卓榮泰強調不債留子孫",
-     "link": "https://news.pts.org.tw/article/829107",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-09-29T14:17:59+08:00",
-     "description": "立法院新會期今（29）日開議，先由行政院長卓榮泰進行施政報告，呼籲朝野應該依期限審議預算，讓憲政秩序回歸常軌。而被問及國民黨團總召傅崐萁表示，要提出「特別條例草案」，喊話今（2026）年就要「普發2萬」。卓榮泰回應，債務絕不能留給下一代。民眾黨團則認為稅收超徵，應該優先用於還債或提升老農、長者福利，和國民黨團出現不同調。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "傅崐萁喊普發2萬 卓榮泰：債務絕對不能留給下一代",
-     "link": "https://news.ebc.net.tw/news/living/573425",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-09-29T12:35:55.777290+08:00",
-     "description": "國民黨立法院黨團總召傅崐萁日前表示，立法院新會期優先民生法案，是普發現金新台幣2萬元。行政院長卓榮泰今天說，這一代的債務，絕對不能留給下一代。",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "藍提普發2萬　綠黨團：大總召傅崐萁又要取代卓院長？加碼沒完沒了",
-     "link": "https://www.ettoday.net/news/20260929/3245727.htm",
+     "title": "藍黨部主委站台卻昏倒摔下台　張啓楷不捨：他目前意識穩定已送醫",
+     "link": "https://www.ettoday.net/news/20260928/3245167.htm",
      "source": "ettoday",
      "source_name": "ETtoday",
-     "published": "2026-09-29T12:30:00+08:00",
-     "description": "國民黨立法院黨團今（29日）將「普發現金2萬元」列為新會期優先法案，民進黨團幹事長莊瑞雄強調，大幅增加支出依《預算法》須指明財源並與政院溝通，立院無法自行編列預算，《憲法》也明定立院審查預算時，不能做增加的決定。莊瑞雄批評，在野黨因選舉考量如即興之作喊加碼，加碼講久了以後都變成在許願，這樣不好，「傅崐萁大總召又要來取代行政院、取代卓院長」。 《詳全文...》",
+     "published": "2026-09-28T11:54:00+08:00",
+     "description": "藍白共推的民眾黨嘉義市長參選人張啓楷競選總部今（28日）成立，然身兼張競總執行總幹事的國民黨嘉義市黨部主委蔡明顯昏倒摔下台。對此，張啓楷表示，蔡主委意識清楚、穩定，第一時間已送醫治療，對此意外痛心與不捨，謹此致上最深慰問，並對蔡主委連日以來勞心付出賣力輔選，表示由衷感謝、點滴感恩在心頭，並祝福蔡早日康復。 《詳全文...》",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -1123,64 +1148,12 @@
      }
     },
     {
-     "title": "喊普發2萬現金！傅崐萁稱「不用舉債」：明年會再提案、每人可望超過2萬",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBQaXFaa0hMdUdabDdKVU05RGJiQ1M1RXQyRUpkMThmSG53ajBwam5DZVJEVXJnaEpLRzVPV0wweHhwZy1iZG96etIBTEFVX3lxTFBGT2VKVksxOHBUV1UxMW5lR185eTVjOERRXy1ZMGd2WXlBc204QklmeTVYYzA1dnJfazJkMEVYWFJDMlVrYURmVElHSXQ?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-09-29T12:30:00+08:00",
-     "description": "喊普發2萬現金！傅崐萁稱「不用舉債」：明年會再提案、每人可望超過2萬  三立新聞網SETN.com",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "普發現金國民黨加碼到2萬　綠：競相加碼會沒完沒了",
-     "link": "https://www.cna.com.tw/news/aipl/202609290097.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-09-29T12:10:50+08:00",
-     "description": "（中央社記者林敬殷台北29日電）總統賴清德日前宣布明年將普發現金新台幣1萬元，國民黨立法院黨團加碼到2萬元，列為立法院新會期優先法案。民進黨團幹事長莊瑞雄今天說，一個穩健、真正有能力帶領國家繼續向前的政黨，不應因一時興起就不斷喊加碼，如果政黨不斷競相加碼，這樣就沒完沒了。",
-     "author": "林敬殷",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "林敬殷",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
-     }
-    },
-    {
-     "title": "普發現金加碼到2萬元？卓榮泰冷回「債務不留下一代」 藍綠白立場一次看 | 鍾秉哲 | 新聞",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zYV9DVnkteXd3N2lJT0lGa0FOanRLVkJRc0VFcGktLUxRQVByVzQxMVQtZFZMLUhGdEoxdXZXazRRSzFrRkR3cERnVkpsZw?oc=5",
-     "source": "storm",
-     "source_name": "風傳媒",
-     "published": "2026-09-29T11:45:45+08:00",
-     "description": "普發現金加碼到2萬元？卓榮泰冷回「債務不留下一代」 藍綠白立場一次看 | 鍾秉哲 | 新聞  風傳媒",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "力推今年普發2萬 傅崐萁再拋震撼彈：明年「可能不低於2萬」",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB2UjUzZ2J6VXFhSnBOU3oxQ3lTRXBpcUdPaDBtRXJBdlY2RkhpRFY4bEV3T1ZZYW1hU01XX0dqYnJCTHpnZU4yOC1KWEFVWVlXRFBkYm9oNllLWERRX25wZVM4bEhPNGNEUGFuRFZB?oc=5",
+     "title": "影》張啓楷競總成立突傳意外！藍主委摔下舞台臉部流血急送醫- 政治",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jX3JjbFpfYjZlRkVSWlV4MVF3TVQ3NDczN0tJcXRXNlJPNzEwS1Q0bGdyeDZWd1p6c29YLS03ZEJySV85NlpJT21HaklVaXllZXRFaFRIYUFmWmRlRjFPYzVFam10REctQ3BxbUJB?oc=5",
      "source": "chinatimes",
      "source_name": "中時新聞網",
-     "published": "2026-09-29T11:27:09+08:00",
-     "description": "力推今年普發2萬 傅崐萁再拋震撼彈：明年「可能不低於2萬」  中時新聞網",
+     "published": "2026-09-28T11:45:57+08:00",
+     "description": "影》張啓楷競總成立突傳意外！藍主委摔下舞台臉部流血急送醫- 政治  中時新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -1192,12 +1165,29 @@
      }
     },
     {
-     "title": "卓榮泰：政院遵循憲法、也請立法院依期限審畢預算| 政治",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLb1JwdTJCbVp2OFhGQ2xrelJtdEZkNVM3SFhKMVpFdWZlSlh4QUZDekdjcDRxSEpnMGlJYnVEVzdaYURTTXcxQ2JSaXppQzgySFRIOW5pQU8tR2M?oc=5",
+     "title": "影》張啓楷競總成立突傳意外！藍主委摔下舞台臉部流血急送醫- 政治",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORG92M3NUTDllandteWlWTDRySy1jT0N5Ync5UER1VmxKUTNJQ2xZSEVwUG5raU1qOGtBRm0tdHVKaVdCRHJkbXhvWGUtZjBfNklPYXNJWllPNGc0YmtSdTR5VEhQMTk4ZlRrdFRBblF6MXQ2cU1YYnVyOXhHQi1jOElXWjZENXhNNmhCaFEzbw?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-09-28T11:45:57+08:00",
+     "description": "影》張啓楷競總成立突傳意外！藍主委摔下舞台臉部流血急送醫- 政治  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "張啓楷競總成立突發意外！藍黨部主委昏倒跌落最新情況曝光| 政治",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxdl82SnZuSHlmOG55V3B3QzNfbFFBZkZwM3lndktYVm1OaUNxSW5hdDFDUnJ1VWFZWi1tazRLaGt5V2V2a0lXRGhJdTFnN2t1R2lsRGJRU05GcTA?oc=5",
      "source": "newtalk",
      "source_name": "新頭殼",
-     "published": "2026-09-29T11:01:14+08:00",
-     "description": "卓榮泰：政院遵循憲法、也請立法院依期限審畢預算| 政治  Newtalk新聞",
+     "published": "2026-09-28T11:45:30+08:00",
+     "description": "張啓楷競總成立突發意外！藍黨部主委昏倒跌落最新情況曝光| 政治  Newtalk新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -1206,6 +1196,23 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "熱暈？張啓楷嘉義市競總成立　藍黨部主委台上突昏倒嚇壞鄭麗文",
+     "link": "https://www.ettoday.net/news/20260928/3245159.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-09-28T11:41:00+08:00",
+     "description": "藍白共推的民眾黨嘉義市長參選人張啓楷今（28日）上午在自由路舉辦競總成立大會，疑因天氣太炎熱，國民黨嘉義縣、市黨部主委蔡明顯站台時，多次拿出手帕擦汗，臉色卻越來越差，最後眼睛一閉後往前傾倒，自台上昏倒摔倒到台下，嚇壞一旁的國民黨主席鄭麗文與正在致詞的嘉義市長黃敏惠。黃敏惠隨後表示，「太熱了！大家真的要多喝水，這就是我們最艱困的時刻。」 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
      }
     }
    ]
@@ -1407,7 +1414,7 @@
    ]
   },
   {
-   "id": "9f63c89fa4e0",
+   "id": "b1a0a9bdc4c0",
    "title": "在旗山說要吃屏東香蕉惹議　柯志恩競辦：遭擴大解讀",
    "outlet_count": 9,
    "outlets": [
@@ -1422,8 +1429,8 @@
     "udn"
    ],
    "article_count": 17,
-   "first_seen": "2026-09-27T10:49:00+08:00",
-   "last_updated": "2026-09-29T09:24:31+08:00",
+   "first_seen": "2026-09-27T15:33:08+08:00",
+   "last_updated": "2026-09-29T13:09:08+08:00",
    "tags": [
     "吃屏東香蕉",
     "柯志恩",
@@ -1431,12 +1438,29 @@
    ],
    "articles": [
     {
+     "title": "失言被阿扁酸「蕉柯輸」 柯志恩認：未來更謹慎發言| 政治",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBWHBuZDExOXFDOEM2TmR1MnJFczgwOWp4eUNQLTlNY0hILTFUTE5rdzhIQy1YUlVlYm1aMWhSWGxpbzA2YzJ3OGR1RUEtTnZtcFk1Mm5tYVdwRlE?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-09-29T13:09:08+08:00",
+     "description": "失言被阿扁酸「蕉柯輸」 柯志恩認：未來更謹慎發言| 政治  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
      "title": "遭扁諷「蕉柯輸」！柯志恩親解香蕉之亂：高屏本一家、操作太過",
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QeloyWUg1RXo1czZsbEFyYWlvQklOdjg5c19TVldWeEtuazEzb2tXWVJjdFpud2xkT3RZYVJ1Q3RxZUowVG0xeTBXU05mcjZ2bXl1WkNQeUVGUTVqcnlaOWtER0x1UDRIUXlLOEVn?oc=5",
      "source": "chinatimes",
      "source_name": "中時新聞網",
      "published": "2026-09-29T09:24:31+08:00",
-     "description": "遭扁諷「蕉柯輸」！柯志恩親解香蕉之亂：高屏本一家、操作太過  中時新聞網",
+     "description": "遭扁諷「蕉柯輸」！柯志恩親解香蕉之亂：高屏本一家、操作太過  chinatimes.com",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -1582,221 +1606,6 @@
       "acquisition": "rss",
       "feed_url": "https://news.ltn.com.tw/rss/all.xml"
      }
-    },
-    {
-     "title": "脫口喊「吃屏東香蕉」！柯志恩被扣不愛高雄　白喬茵不忍了開砲",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBGOVNRZW1Hd2RZUmZ0eEJVaE5JaFN6OVdMTTFMWHVLbm40MXNWa2RadmppNThPZkxpelUzNGl5LUZvblpTeDZVY3EyZjHSAVJBVV95cUxPWkYteVkzYmYycmF3S0JCNmFkRzAyT2d3eHUyUHY4WmY2X2Q0Z2JCRGVDblZOemhSWWstWEliT0RaNHhsYU5GUlMyZWhoc203RGtn?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-09-27T22:51:13+08:00",
-     "description": "脫口喊「吃屏東香蕉」！柯志恩被扣不愛高雄　白喬茵不忍了開砲  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
-   "id": "7f95a7a71148",
-   "title": "張啓楷造勢驚魂！國民黨嘉市主委「台上昏倒摔下」畫面曝",
-   "outlet_count": 9,
-   "outlets": [
-    "chinatimes",
-    "ebc",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "newtalk",
-    "nownews",
-    "storm",
-    "tvbs"
-   ],
-   "article_count": 12,
-   "first_seen": "2026-09-28T11:21:20+08:00",
-   "last_updated": "2026-09-29T00:26:22+08:00",
-   "tags": [
-    "張啓楷",
-    "主委",
-    "成立"
-   ],
-   "articles": [
-    {
-     "title": "張啓楷競選總部成立 藍白黨魁助陣站台｜LIVE",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WODI2OURnLWJSd25ScHA1bkR3NUNCbXlJOWlBUkFBUWVWbi1jZV9HOHRpSUFIUGpZTDNGQ2lwMEZDQUtyMy0tYzhESGd6eXdIa2gtNmxB?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-09-29T00:26:22+08:00",
-     "description": "張啓楷競選總部成立 藍白黨魁助陣站台｜LIVE  TVBS新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "張啓楷競選總部成立 國民黨嘉義市主委昏倒摔下舞台",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5588232",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-09-28T17:42:16+08:00",
-     "description": "上稿時間：11:07更新時間：17:42\n嘉義市長選情升溫，藍白共推的民眾黨嘉義市長參選人張啓楷今在嘉義市自由路舉辦競總成立大會，藍、白大咖站台力挺，然而上午氣溫飆破30...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "藍白大團結出意外！柯文哲、鄭麗文齊聚張啓楷競總國民黨主委昏厥摔落舞台嚇壞眾人| 張庭維 | 新聞",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5kRDk4aU5oMUtBNXlHbW5MTWQ1M01ONmlMajJRN3E3ZmVaYlNHS1lnRlZWQXdRakhfYk5NSXAzZE5zdDBaZm94aTEyR05LQQ?oc=5",
-     "source": "storm",
-     "source_name": "風傳媒",
-     "published": "2026-09-28T13:10:39+08:00",
-     "description": "藍白大團結出意外！柯文哲、鄭麗文齊聚張啓楷競總國民黨主委昏厥摔落舞台嚇壞眾人| 張庭維 | 新聞  storm.mg",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "藍白合造勢爆意外！藍營嘉市主委「突癱軟摔下舞台」急送醫",
-     "link": "https://news.ebc.net.tw/news/politics/573306",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-09-28T12:38:28.774685+08:00",
-     "description": "民眾黨張啓楷28日舉行嘉義市長競總成立大會，造勢期間國民黨嘉義市黨部主委蔡明顯疑因天熱體力不支突摔落舞台。救護車隨即將人送醫，其臉部擦傷、意識清醒無大礙。",
-     "category": "politics",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "politics",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "藍黨部主委站台卻昏倒摔下台　張啓楷不捨：他目前意識穩定已送醫",
-     "link": "https://www.ettoday.net/news/20260928/3245167.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-09-28T11:54:00+08:00",
-     "description": "藍白共推的民眾黨嘉義市長參選人張啓楷競選總部今（28日）成立，然身兼張競總執行總幹事的國民黨嘉義市黨部主委蔡明顯昏倒摔下台。對此，張啓楷表示，蔡主委意識清楚、穩定，第一時間已送醫治療，對此意外痛心與不捨，謹此致上最深慰問，並對蔡主委連日以來勞心付出賣力輔選，表示由衷感謝、點滴感恩在心頭，並祝福蔡早日康復。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "影》張啓楷競總成立突傳意外！藍主委摔下舞台臉部流血急送醫- 政治",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORG92M3NUTDllandteWlWTDRySy1jT0N5Ync5UER1VmxKUTNJQ2xZSEVwUG5raU1qOGtBRm0tdHVKaVdCRHJkbXhvWGUtZjBfNklPYXNJWllPNGc0YmtSdTR5VEhQMTk4ZlRrdFRBblF6MXQ2cU1YYnVyOXhHQi1jOElXWjZENXhNNmhCaFEzbw?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-09-28T11:45:57+08:00",
-     "description": "影》張啓楷競總成立突傳意外！藍主委摔下舞台臉部流血急送醫- 政治  中時新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "影》張啓楷競總成立突傳意外！藍主委摔下舞台臉部流血急送醫- 政治",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jX3JjbFpfYjZlRkVSWlV4MVF3TVQ3NDczN0tJcXRXNlJPNzEwS1Q0bGdyeDZWd1p6c29YLS03ZEJySV85NlpJT21HaklVaXllZXRFaFRIYUFmWmRlRjFPYzVFam10REctQ3BxbUJB?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-09-28T11:45:57+08:00",
-     "description": "影》張啓楷競總成立突傳意外！藍主委摔下舞台臉部流血急送醫- 政治  中時新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "張啓楷競總成立突發意外！藍黨部主委昏倒跌落最新情況曝光| 政治",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxdl82SnZuSHlmOG55V3B3QzNfbFFBZkZwM3lndktYVm1OaUNxSW5hdDFDUnJ1VWFZWi1tazRLaGt5V2V2a0lXRGhJdTFnN2t1R2lsRGJRU05GcTA?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-09-28T11:45:30+08:00",
-     "description": "張啓楷競總成立突發意外！藍黨部主委昏倒跌落最新情況曝光| 政治  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "熱暈？張啓楷嘉義市競總成立　藍黨部主委台上突昏倒嚇壞鄭麗文",
-     "link": "https://www.ettoday.net/news/20260928/3245159.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-09-28T11:41:00+08:00",
-     "description": "藍白共推的民眾黨嘉義市長參選人張啓楷今（28日）上午在自由路舉辦競總成立大會，疑因天氣太炎熱，國民黨嘉義縣、市黨部主委蔡明顯站台時，多次拿出手帕擦汗，臉色卻越來越差，最後眼睛一閉後往前傾倒，自台上昏倒摔倒到台下，嚇壞一旁的國民黨主席鄭麗文與正在致詞的嘉義市長黃敏惠。黃敏惠隨後表示，「太熱了！大家真的要多喝水，這就是我們最艱困的時刻。」 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "驚魂！藍白大咖齊聚張啓楷競總　國民黨主委昏厥摔落舞台「黃敏惠致詞嚇壞」",
-     "link": "https://www.mirrormedia.mg/story/20260928edi035",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-09-28T11:36:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
     }
    ]
   },
@@ -1814,15 +1623,34 @@
     "nownews",
     "pts"
    ],
-   "article_count": 21,
+   "article_count": 22,
    "first_seen": "2026-09-29T12:09:00+08:00",
-   "last_updated": "2026-09-30T08:18:00+08:00",
+   "last_updated": "2026-09-30T12:36:42.204887+08:00",
    "tags": [
     "遊街",
     "押禁見",
     "畜生"
    ],
    "articles": [
+    {
+     "title": "逼女掛「畜生」看板遊街！三重父遭收押 看守所首日吃好睡好",
+     "link": "https://news.ebc.net.tw/news/society/573559",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-09-30T12:36:42.204887+08:00",
+     "description": "新北44歲黃父涉嫌逼女兒掛「小偷、畜生」紙板遊街，遭法院裁定羈押禁見，昨夜送台北看守所，首晚飲食、睡眠正常，今早早餐吃饅頭配紅茶。",
+     "category": "society",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "society",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
     {
      "title": "惡父逼女童掛牌「畜生」赤腳遊街！　涉違反傷害等罪深夜遭羈押禁見",
      "link": "https://www.mirrormedia.mg/story/20260930edi004",
@@ -1980,221 +1808,6 @@
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/rsscna/social"
      }
-    },
-    {
-     "title": "三重女童掛「畜生牌」遊街　惡父違反保護令遭聲押禁見",
-     "link": "https://www.ettoday.net/news/20260929/3245966.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-09-29T20:47:00+08:00",
-     "description": "新北市三重區女童遭掛牌遊街案持續延燒！一名女童疑因拿了哥哥的公仔，44歲黃姓父親竟要她掛上寫有「小偷、畜生」等字樣的紙板遊街示眾，警方調查發現黃男涉嫌違反保護令，依法逮捕送辦。黃男今（29）日下午移送新北檢，檢方訊後向法院聲請羈押禁見。\n\n 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    }
-   ]
-  },
-  {
-   "id": "434ee9da73d0",
-   "title": "李宛庭摘亞運隊史首面銀牌 台灣克拉術進帳1銀1銅",
-   "outlet_count": 8,
-   "outlets": [
-    "chinatimes",
-    "ebc",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "newtalk",
-    "nownews",
-    "pts"
-   ],
-   "article_count": 33,
-   "first_seen": "2026-09-27T11:36:57+08:00",
-   "last_updated": "2026-09-29T22:05:03+08:00",
-   "tags": [
-    "亞運",
-    "克拉術"
-   ],
-   "articles": [
-    {
-     "title": "克拉術施劉俐伶鍍銀奪生涯首面亞運獎牌| 體育",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yMm5oU3hka2E5MWQ0Z0JTLV9hSkpxV3RHYk9vZ3FoeGl4Qjc4SnlIdHZhdzExV3MxNUtocThsUDJIZS1WMXJrSTI5ZjZILVZBRk03Rk1CM0x0cFU?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-09-29T22:05:03+08:00",
-     "description": "克拉術施劉俐伶鍍銀奪生涯首面亞運獎牌| 體育  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "陳念琴險勝北韓挺進金牌戰 亞運拳擊65公斤級確定奪牌",
-     "link": "https://news.pts.org.tw/article/829190",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-09-29T20:31:54+08:00",
-     "description": "台灣拳擊女王陳念琴，今（29）日在女子拳擊65公斤級4強賽，遭遇北韓好手黃孝順，陳念琴最終以3比2驚險勝出，挺進金牌戰，確定保底銀牌，寫下個人最佳，也締造連2屆亞運奪牌的傲人紀錄。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "施劉俐伶亞運不敵南韓奪銀 台灣克拉術第3面獎牌史上最佳",
-     "link": "https://news.pts.org.tw/article/829188",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-09-29T20:31:20+08:00",
-     "description": "亞運克拉術賽事，我國女子好手施劉俐伶，今（29）日在女子87公斤級金牌戰中，以0比5不敵韓國強敵，收下銀牌，但也改寫台灣在克拉術女子大級別參賽史上的最佳戰績。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "亞運》只練半年！柔道國手轉戰克拉術25歲施劉俐伶奪銀「情緒激動」創隊史最佳| 體育",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWcWNEenZZSGxScHNCTnJubkpPUlYyVlh6alFDdm9MbFJqcEhVcXd4cVM3RkhVZXBLdS1yNGh2c1pScXdfVURDWFFPNlVJSExzeUJZeHRRMUN2ZGM?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-09-29T18:40:24+08:00",
-     "description": "亞運》只練半年！柔道國手轉戰克拉術25歲施劉俐伶奪銀「情緒激動」創隊史最佳| 體育  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "亞運前線》從柔道退休當教練後改練克拉術 施劉俐伶圓了亞運奪牌夢",
-     "link": "https://sports.ltn.com.tw/news/breakingnews/5589798",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-09-29T17:57:15+08:00",
-     "description": "原本練柔道的施劉俐伶，因沒選上國手而在兩年前改當教練，但她改練克拉術一圓登上頒獎台的夢想，讓她十分感動，也為她之後比賽注入強心針。\n\n\n25歲的施劉俐伶曾在2018...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "亞運／陳念琴擊退北韓女將！勇闖金牌戰寫個人新猷",
-     "link": "https://news.ebc.net.tw/news/sport/573436",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-09-29T14:48:34.683848+08:00",
-     "description": "台灣女子拳擊在名古屋亞運賽場再傳震撼捷報！「台灣女拳王」陳念琴今於女子65公斤級四強準決賽披掛上陣，無懼對手頻繁勒脖糾纏，終場以3：2力挫北韓強敵黃孝順，強勢搶",
-     "category": "sport",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "sport",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "亞運／台灣獎牌再+1！施劉俐伶克拉術「銀」了",
-     "link": "https://news.ebc.net.tw/news/sport/573447",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-09-29T14:48:34.683848+08:00",
-     "description": "台灣克拉術代表隊再傳奪牌捷報！2026年愛知·名古屋亞運克拉術項目於今（29日）下午迎來女子87公斤以上級金牌戰，一路挺進決賽的台灣重量級好手施劉俐伶，在愛知縣",
-     "category": "sport",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "sport",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "施劉俐伶闖決賽不敵南韓 亞運克拉術台灣再添1銀",
-     "link": "https://news.pts.org.tw/article/829110",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-09-29T14:37:50+08:00",
-     "description": "台灣好手施劉俐伶在今（29）日登場的亞運女子克拉術87公斤級賽事中，一路過關斬將擊敗蒙古、伊朗好手挺進金牌戰，但決賽時施劉俐伶雖以0比5不敵南韓女將Kim Minyoung，但仍為台灣克拉術代表團再進帳1銀，也是本屆台灣選手奪下的第9面銀牌。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "亞運前線》施劉俐伶不敵南韓對手奪銀 克拉術本屆第3面獎牌到手",
-     "link": "https://sports.ltn.com.tw/news/breakingnews/5589456",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-09-29T14:20:01+08:00",
-     "description": "台灣女將施劉俐伶今天在名古屋亞運女子87公斤以上級賽事，一路過關斬將挺進金牌戰，但最終以0：5不敵南韓金敏永（KIM Minyoung音譯），仍進帳一面銀牌，台灣代...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "可惜了！施劉俐伶不敵韓國勁敵奪銀　仍為克拉術進帳獎牌",
-     "link": "https://sports.ettoday.net/news/3245805",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-09-29T14:16:00+08:00",
-     "description": "2026年愛知·名古屋亞運克拉術賽事今（29）日下午進行壓軸女子87公斤以上級金牌戰，一路過關斬將的台灣重量級女將施劉俐伶，在愛知縣立武道館面對韓國名將金敏英（KIM Minyoung，音譯），雙方展開激烈近身纏鬥，施劉俐伶奮戰全場，最終以0比5惜敗摘銀。雖然未能登頂，但這面銀牌已成功改寫台灣女子大級別在亞運克拉術的最佳戰績。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
     }
    ]
   },
@@ -2217,8 +1830,8 @@
    "last_updated": "2026-09-29T19:39:00+08:00",
    "tags": [
     "亞運",
-    "男子",
-    "接力"
+    "接力",
+    "男子"
    ],
    "articles": [
     {
@@ -2715,7 +2328,7 @@
      "source": "chinatimes",
      "source_name": "中時新聞網",
      "published": "2026-09-28T12:47:27+08:00",
-     "description": "蘇巧慧博士學歷爭議 李四川：民進黨不要雙標  中時新聞網",
+     "description": "蘇巧慧博士學歷爭議 李四川：民進黨不要雙標  chinatimes.com",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -3406,6 +3019,151 @@
    ]
   },
   {
+   "id": "dd62dadefe55",
+   "title": "林郁婷擊敗北韓元恩景  晉級亞運拳擊4強賽保底銅牌",
+   "outlet_count": 7,
+   "outlets": [
+    "chinatimes",
+    "ebc",
+    "ettoday",
+    "ltn",
+    "mirror",
+    "nownews",
+    "pts"
+   ],
+   "article_count": 7,
+   "first_seen": "2026-09-28T16:21:58+08:00",
+   "last_updated": "2026-09-28T18:33:26.443588+08:00",
+   "tags": [
+    "林郁婷",
+    "浴血奮戰",
+    "保底銅牌"
+   ],
+   "articles": [
+    {
+     "title": "亞運／林郁婷拳擊浴血奮戰 復仇北韓選手闖4強保底銅牌",
+     "link": "https://news.ebc.net.tw/news/sport/573355",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-09-28T18:33:26.443588+08:00",
+     "description": "名古屋亞運「台灣拳后」林郁婷今天在女子60公斤級8強賽浴血奮戰，終場以4比1擊敗北韓選手元恩景，如願上演「甜蜜復仇」，晉級4強、保底銅牌。",
+     "category": "sport",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "sport",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "亞運》要說我浴血奮戰！林郁婷闖進4強豪嗆就是放手一搏",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQOFpXc3lfUmg5UF9wcFZnMnNpbG1felFNSEdBY1dvd1I2MmtveXJnUzI0MXh4czh1eEJQaDhVanJjR2lnOF83LVhUWUpwOVA3c1dIdklkSmRWcHg0WUVTbFRKY2hRQ3dlbnYxYVJB?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-09-28T18:08:12+08:00",
+     "description": "亞運》要說我浴血奮戰！林郁婷闖進4強豪嗆就是放手一搏  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "林郁婷復仇保底銅牌！流血硬拚北韓強敵：我像玩具飛來飛去",
+     "link": "https://sports.ettoday.net/news/3245315",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-09-28T16:46:00+08:00",
+     "description": "2026愛知名古屋亞運拳擊女子60公斤級8強，中華隊「台灣拳后」林郁婷今（28日）以4比1擊敗北韓好手元恩景，成功報了今年亞錦賽落敗的一箭之仇，挺進4強、確定至少銅牌入袋。這場硬仗打得激烈，林郁婷鼻部傷口再度裂開流血，她賽後仍笑著自嘲，自己已經很努力扛住對手，「但我跟個玩具一樣飛來飛去。」\n 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "名古屋亞運／台灣拳后復仇成功！林郁婷浴血奮戰擊退北韓悍將　強勢朝第2金邁進",
+     "link": "https://www.mirrormedia.mg/story/20260928edi067",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-09-28T16:46:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "林郁婷擊敗北韓元恩景  晉級亞運拳擊4強賽保底銅牌",
+     "link": "https://news.pts.org.tw/article/828958",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-09-28T16:40:39+08:00",
+     "description": "拳擊好手林郁婷今（28）日在亞運女子60公斤級8強賽中，對上曾經打輸的北韓選手元恩景。中林郁婷以臂展優勢積極進攻，並在第3回合中成功擊中對手讓對方讀秒，最終以4比1取得勝利，晉級4強，確定保底銅牌，連3屆站上亞運頒獎台。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "亞運拳擊／林郁婷4：1復仇北韓晉級4強！連3屆奪牌　鼻梁被打出血",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1YXzI3V3FZX2UtZlk4MXp1X29rWVBRSjZHSlJyVnVLOENTRjFwWDZUSVZKem9hbnp0X3VmOHJXaG9UNHN5OFJDbUtEQWrSAVJBVV95cUxOVzlncXk2LW5FNENrTzhoRUxNdVBxVTVIQmdYckxzTWJJdkUxamJITEVGSU9tWFpfN182Rk05QjN1YkFqOXF4Y1FPRXZSZUJLTDF3?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-09-28T16:29:48+08:00",
+     "description": "亞運拳擊／林郁婷4：1復仇北韓晉級4強！連3屆奪牌　鼻梁被打出血  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "亞運前線》林郁婷浴血奮戰擊敗北韓女將闖4強 確定連兩屆奪牌",
+     "link": "https://sports.ltn.com.tw/news/breakingnews/5588580",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-09-28T16:21:58+08:00",
+     "description": "台灣拳后林郁婷今在名古屋亞運女子60公斤級8強登場，儘管臉上出現傷勢，她仍浴血奮戰，以4：1擊敗北韓女將元恩景，收下4強門票，連兩屆亞運奪牌，還報了上次落敗的一箭之...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    }
+   ]
+  },
+  {
    "id": "298db20872b3",
    "title": "台灣2度擊敗中國奪亞運棒球銅牌 林昱珉扛8局零失分",
    "outlet_count": 7,
@@ -3613,15 +3371,32 @@
     "nownews",
     "pts"
    ],
-   "article_count": 25,
+   "article_count": 26,
    "first_seen": "2026-09-27T20:36:00+08:00",
-   "last_updated": "2026-09-30T06:48:00+08:00",
+   "last_updated": "2026-09-30T11:47:00+08:00",
    "tags": [
     "傅兆玄",
     "亞運",
-    "田徑"
+    "跳高"
    ],
    "articles": [
+    {
+     "title": "柔道男神勢不可擋！楊勇緯「一本」勝闖進4強",
+     "link": "https://sports.ettoday.net/news/3246268",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-09-30T11:47:00+08:00",
+     "description": "2026愛知名古屋亞運柔道男子60公斤級今（30日）登場，上屆金牌、「柔道男神」楊勇緯首戰直接從16強出發，迎戰沙烏地阿拉伯選手ALSAIARI Abdulrahman Mussabbih O。楊勇緯展現招牌寢技，先以三角技壓制取得半勝，隨後持續掌握攻勢，最後在正規時間剩下1分05秒時再拿半勝，累積2次半勝形成一本，提前結束比賽，順利挺進8強，朝亞運2連霸再跨出一步。\n\n 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
     {
      "title": "楊勇緯衛冕戰今登場！林郁婷拚決賽　曾雅妮20年後再戰亞運",
      "link": "https://sports.ettoday.net/news/3246073",
@@ -3778,165 +3553,6 @@
       "category": "sport",
       "feed_url": "https://news.ebc.net.tw/realtime"
      }
-    },
-    {
-     "title": "亞運》傅兆玄跳高摘金寫紀錄 總統賴清德發賀電祝賀",
-     "link": "https://sports.ltn.com.tw/news/breakingnews/5588004",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-09-27T22:41:55+08:00",
-     "description": "傅兆玄今勇奪男子跳高金牌，為台灣拿下本屆亞運第3面金牌，總統賴清德得知捷報後拍發賀電祝賀選手的優異表現。\n\n\n傅兆玄在上屆杭州亞運拿下男子跳高第6名成績，本屆亞運再...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    }
-   ]
-  },
-  {
-   "id": "952b75923320",
-   "title": "戴立安民調／賴清德信任度、滿意度「都破5成」　且台北市最高",
-   "outlet_count": 6,
-   "outlets": [
-    "chinatimes",
-    "ettoday",
-    "newtalk",
-    "nownews",
-    "setn",
-    "storm"
-   ],
-   "article_count": 7,
-   "first_seen": "2026-09-29T09:38:00+08:00",
-   "last_updated": "2026-09-30T00:01:30+08:00",
-   "tags": [
-    "戴立安民調",
-    "賴清德",
-    "滿意度"
-   ],
-   "articles": [
-    {
-     "title": "戴立安民調「綠營北市支持度遠超雲嘉南」？名嘴吐真心話- 政治",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XME8xVGlqN005dmNIOW81eUozWFMwTTFXaERoTmY2bFV5RE01TXZpaVlaOEg3LVpKbVliX3dzNHUxN1VuZjcteXY3dmZiRDQ0MHgyNjBnRUJDUkpjWjB3b3Zydlg1ZWZPOXNoanBB?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-09-30T00:01:30+08:00",
-     "description": "戴立安民調「綠營北市支持度遠超雲嘉南」？名嘴吐真心話- 政治  中時新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "賴清德滿意度破5成、北市最高　沈伯洋：民意如流水、戒慎恐懼",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1aZUlUcGJNZ00xVjl5VWlad2hWU1k5YkpoZl84THZnVWpoRDBCLUx1ZFAzaGJnR0NZOTdvclhnSl81eFhXWXFNUTB6RS3SAVJBVV95cUxNcEwtNDZSZmN6aDh1TTduQ0ZKaWRoOXRpQ2ZRLXE3dDFmUW5vbkZ2djgzR2hscFFqcXpqS253UWIwM2tPQVpNcllTN3luTHo4R2hn?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-09-29T14:34:17+08:00",
-     "description": "賴清德滿意度破5成、北市最高　沈伯洋：民意如流水、戒慎恐懼  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "最新民調賴清德在台北獲57.5%滿意　作家分析為選戰帶來3重大效應",
-     "link": "https://www.ettoday.net/news/20260929/3245779.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-09-29T14:11:00+08:00",
-     "description": "民調權威專家戴立安今（29日）公布《2026年9月台灣民心調查》，調查結果顯示，總統賴清德執政表現滿意度51.4%，不滿意度41.1%。特別的是，台北市民部分對賴清德滿意度57.5%、不滿意是37.5％。對此，作家趙曉慧分析，「討厭民進黨」這張牌，在台北市長選戰裡恐怕沒那麼好用了。她指出，這對台北市長選戰帶來三個重大「板塊擠壓效應」，更釋出一個重磅訊號：台北市已經不再是民進黨的「天險」，這對沈伯洋",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "戴立安民調》台灣人最關注「這縣市」選情！賴清德最新滿意度、政黨好感度曝光 | 李瑋萱 | 新聞",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aejkweDloM0hRSjNnV1YyLVB3cHdZTDhCOTRIazA0d1pmZm1ndjV0UDNvOHRNRk9Nc0hVWDZiVjE0QWRZVFB6bDVtTllHUQ?oc=5",
-     "source": "storm",
-     "source_name": "風傳媒",
-     "published": "2026-09-29T11:28:09+08:00",
-     "description": "戴立安民調》台灣人最關注「這縣市」選情！賴清德最新滿意度、政黨好感度曝光 | 李瑋萱 | 新聞  風傳媒",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "戴立安民調》賴清德的施政滿意度和信任度均破5成最高都在台北市| 政治",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JZnNuUDZobHZrRlNBU2pPRy1ENzlkTWFocThsYkRSYmRBSzNRc3RsN1ZFNm9VTXA4SW9ReXVNZnpyQmdtQlR0cXZ2M01RWTdtXzZjYWtaM0dmSDg?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-09-29T11:21:55+08:00",
-     "description": "戴立安民調》賴清德的施政滿意度和信任度均破5成最高都在台北市| 政治  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "最新民調出爐！賴清德滿意度維持5成以上　信任度衝回高點",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1QblJ0bUQtVXFZcnFsTmFDWWV6a0R5MUp5U09oN1o1bU1KX1BhMEJpdVhNQUl3dUVfb21xZkZNVmJBQ2lYYzJxSkM5NXLSAVJBVV95cUxNM1VCbFE2RjlfeVNfOUt4blNleG1mRWJuMGRaTGlCMW0zUW9JbHpIT0p2T0NleDhjeDBsZW50bG1lVE9uWDdaYVNRM0h0bDUzZXVB?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-09-29T09:51:52+08:00",
-     "description": "最新民調出爐！賴清德滿意度維持5成以上　信任度衝回高點  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "戴立安民調／賴清德信任度、滿意度「都破5成」　且台北市最高",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE00YmtnekpjQ2owQ1hYSjluMkFxVUtXNXAyUDE2bDd1NmJGaEw4amFoM2Zwa09weV9UaFlZWXI2NE1oX2ljYUw3SNIBTEFVX3lxTE0zRWhJSTdPU0lLMDhqZjlRVEdINHRlUUwyN3J3T0RjZE9DY3FmWlpCUVVFUFk0OHZ0d3NBSWQ5ZWE2cmEtZ0VLUlctbEg?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-09-29T09:38:00+08:00",
-     "description": "戴立安民調／賴清德信任度、滿意度「都破5成」　且台北市最高  三立新聞網SETN.com",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
     }
    ]
   },
@@ -3952,15 +3568,33 @@
     "pts",
     "storm"
    ],
-   "article_count": 13,
+   "article_count": 14,
    "first_seen": "2026-09-29T14:32:57+08:00",
-   "last_updated": "2026-09-29T20:53:39+08:00",
+   "last_updated": "2026-09-30T10:35:47+08:00",
    "tags": [
-    "監委人事",
+    "監委人事案",
     "封殺",
-    "事案"
+    "藍白"
    ],
    "articles": [
+    {
+     "title": "監委人事案遭封殺　藍：總統府勿把責任推給國會",
+     "link": "https://www.cna.com.tw/news/aipl/202609300038.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-09-30T10:35:47+08:00",
+     "description": "（中央社記者劉冠廷台北30日電）監委人事案全遭立法院否決，總統府認為，將使攸關社會公義與人民權益的調查案件陷入停頓。國民黨團書記長許宇甄今天說，總統府不要倒果為因、把責任推給國會。立法院依法行使人事同意權，不是總統提誰，立法院就必須照單全收。",
+     "author": "劉冠廷",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "劉冠廷",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
+     }
+    },
     {
      "title": "立院投票表決監委人事同意權案 27名被提名人全數遭藍白封殺",
      "link": "https://news.pts.org.tw/article/829203",
@@ -4118,14 +3752,196 @@
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
+    }
+   ]
+  },
+  {
+   "id": "952b75923320",
+   "title": "戴立安民調／賴清德信任度、滿意度「都破5成」　且台北市最高",
+   "outlet_count": 6,
+   "outlets": [
+    "chinatimes",
+    "ettoday",
+    "newtalk",
+    "nownews",
+    "setn",
+    "storm"
+   ],
+   "article_count": 7,
+   "first_seen": "2026-09-29T09:38:00+08:00",
+   "last_updated": "2026-09-30T00:01:30+08:00",
+   "tags": [
+    "戴立安民調",
+    "賴清德",
+    "滿意度"
+   ],
+   "articles": [
+    {
+     "title": "戴立安民調「綠營北市支持度遠超雲嘉南」？名嘴吐真心話- 政治",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XME8xVGlqN005dmNIOW81eUozWFMwTTFXaERoTmY2bFV5RE01TXZpaVlaOEg3LVpKbVliX3dzNHUxN1VuZjcteXY3dmZiRDQ0MHgyNjBnRUJDUkpjWjB3b3Zydlg1ZWZPOXNoanBB?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-09-30T00:01:30+08:00",
+     "description": "戴立安民調「綠營北市支持度遠超雲嘉南」？名嘴吐真心話- 政治  chinatimes.com",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
     },
     {
-     "title": "藍白聯手投下不同意票 27名監委被提名人全數未過關",
-     "link": "https://news.pts.org.tw/article/829111",
+     "title": "賴清德滿意度破5成、北市最高　沈伯洋：民意如流水、戒慎恐懼",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1aZUlUcGJNZ00xVjl5VWlad2hWU1k5YkpoZl84THZnVWpoRDBCLUx1ZFAzaGJnR0NZOTdvclhnSl81eFhXWXFNUTB6RS3SAVJBVV95cUxNcEwtNDZSZmN6aDh1TTduQ0ZKaWRoOXRpQ2ZRLXE3dDFmUW5vbkZ2djgzR2hscFFqcXpqS253UWIwM2tPQVpNcllTN3luTHo4R2hn?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-09-29T14:34:17+08:00",
+     "description": "賴清德滿意度破5成、北市最高　沈伯洋：民意如流水、戒慎恐懼  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "最新民調賴清德在台北獲57.5%滿意　作家分析為選戰帶來3重大效應",
+     "link": "https://www.ettoday.net/news/20260929/3245779.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-09-29T14:11:00+08:00",
+     "description": "民調權威專家戴立安今（29日）公布《2026年9月台灣民心調查》，調查結果顯示，總統賴清德執政表現滿意度51.4%，不滿意度41.1%。特別的是，台北市民部分對賴清德滿意度57.5%、不滿意是37.5％。對此，作家趙曉慧分析，「討厭民進黨」這張牌，在台北市長選戰裡恐怕沒那麼好用了。她指出，這對台北市長選戰帶來三個重大「板塊擠壓效應」，更釋出一個重磅訊號：台北市已經不再是民進黨的「天險」，這對沈伯洋",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "戴立安民調》台灣人最關注「這縣市」選情！賴清德最新滿意度、政黨好感度曝光 | 李瑋萱 | 新聞",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aejkweDloM0hRSjNnV1YyLVB3cHdZTDhCOTRIazA0d1pmZm1ndjV0UDNvOHRNRk9Nc0hVWDZiVjE0QWRZVFB6bDVtTllHUQ?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-09-29T11:28:09+08:00",
+     "description": "戴立安民調》台灣人最關注「這縣市」選情！賴清德最新滿意度、政黨好感度曝光 | 李瑋萱 | 新聞  風傳媒",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "戴立安民調》賴清德的施政滿意度和信任度均破5成最高都在台北市| 政治",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JZnNuUDZobHZrRlNBU2pPRy1ENzlkTWFocThsYkRSYmRBSzNRc3RsN1ZFNm9VTXA4SW9ReXVNZnpyQmdtQlR0cXZ2M01RWTdtXzZjYWtaM0dmSDg?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-09-29T11:21:55+08:00",
+     "description": "戴立安民調》賴清德的施政滿意度和信任度均破5成最高都在台北市| 政治  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "最新民調出爐！賴清德滿意度維持5成以上　信任度衝回高點",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1QblJ0bUQtVXFZcnFsTmFDWWV6a0R5MUp5U09oN1o1bU1KX1BhMEJpdVhNQUl3dUVfb21xZkZNVmJBQ2lYYzJxSkM5NXLSAVJBVV95cUxNM1VCbFE2RjlfeVNfOUt4blNleG1mRWJuMGRaTGlCMW0zUW9JbHpIT0p2T0NleDhjeDBsZW50bG1lVE9uWDdaYVNRM0h0bDUzZXVB?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-09-29T09:51:52+08:00",
+     "description": "最新民調出爐！賴清德滿意度維持5成以上　信任度衝回高點  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "戴立安民調／賴清德信任度、滿意度「都破5成」　且台北市最高",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE00YmtnekpjQ2owQ1hYSjluMkFxVUtXNXAyUDE2bDd1NmJGaEw4amFoM2Zwa09weV9UaFlZWXI2NE1oX2ljYUw3SNIBTEFVX3lxTE0zRWhJSTdPU0lLMDhqZjlRVEdINHRlUUwyN3J3T0RjZE9DY3FmWlpCUVVFUFk0OHZ0d3NBSWQ5ZWE2cmEtZ0VLUlctbEg?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-09-29T09:38:00+08:00",
+     "description": "戴立安民調／賴清德信任度、滿意度「都破5成」　且台北市最高  三立新聞網SETN.com",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ddf8dc243ef8",
+   "title": "李宛庭摘亞運隊史首面銀牌 台灣克拉術進帳1銀1銅",
+   "outlet_count": 6,
+   "outlets": [
+    "ebc",
+    "ettoday",
+    "ltn",
+    "newtalk",
+    "nownews",
+    "pts"
+   ],
+   "article_count": 17,
+   "first_seen": "2026-09-27T13:15:05+08:00",
+   "last_updated": "2026-09-29T22:05:03+08:00",
+   "tags": [
+    "克拉術",
+    "施劉俐伶",
+    "亞運"
+   ],
+   "articles": [
+    {
+     "title": "克拉術施劉俐伶鍍銀奪生涯首面亞運獎牌| 體育",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yMm5oU3hka2E5MWQ0Z0JTLV9hSkpxV3RHYk9vZ3FoeGl4Qjc4SnlIdHZhdzExV3MxNUtocThsUDJIZS1WMXJrSTI5ZjZILVZBRk03Rk1CM0x0cFU?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-09-29T22:05:03+08:00",
+     "description": "克拉術施劉俐伶鍍銀奪生涯首面亞運獎牌| 體育  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "施劉俐伶亞運不敵南韓奪銀 台灣克拉術第3面獎牌史上最佳",
+     "link": "https://news.pts.org.tw/article/829188",
      "source": "pts",
      "source_name": "公視新聞",
-     "published": "2026-09-29T15:16:47+08:00",
-     "description": "立法院今（29）日表決第7屆監委人事案，在藍白立委聯手投下不同意票情況下，最終包含監察院長被提名人陳永興、副院長被提名人王榮璋在內，27名被提名人全數皆遭否決。",
+     "published": "2026-09-29T20:31:20+08:00",
+     "description": "亞運克拉術賽事，我國女子好手施劉俐伶，今（29）日在女子87公斤級金牌戰中，以0比5不敵韓國強敵，收下銀牌，但也改寫台灣在克拉術女子大級別參賽史上的最佳戰績。",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -4134,6 +3950,144 @@
       },
       "acquisition": "rss",
       "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "亞運》只練半年！柔道國手轉戰克拉術25歲施劉俐伶奪銀「情緒激動」創隊史最佳| 體育",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWcWNEenZZSGxScHNCTnJubkpPUlYyVlh6alFDdm9MbFJqcEhVcXd4cVM3RkhVZXBLdS1yNGh2c1pScXdfVURDWFFPNlVJSExzeUJZeHRRMUN2ZGM?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-09-29T18:40:24+08:00",
+     "description": "亞運》只練半年！柔道國手轉戰克拉術25歲施劉俐伶奪銀「情緒激動」創隊史最佳| 體育  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "亞運前線》從柔道退休當教練後改練克拉術 施劉俐伶圓了亞運奪牌夢",
+     "link": "https://sports.ltn.com.tw/news/breakingnews/5589798",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-09-29T17:57:15+08:00",
+     "description": "原本練柔道的施劉俐伶，因沒選上國手而在兩年前改當教練，但她改練克拉術一圓登上頒獎台的夢想，讓她十分感動，也為她之後比賽注入強心針。\n\n\n25歲的施劉俐伶曾在2018...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "亞運／台灣獎牌再+1！施劉俐伶克拉術「銀」了",
+     "link": "https://news.ebc.net.tw/news/sport/573447",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-09-29T14:48:34.683848+08:00",
+     "description": "台灣克拉術代表隊再傳奪牌捷報！2026年愛知·名古屋亞運克拉術項目於今（29日）下午迎來女子87公斤以上級金牌戰，一路挺進決賽的台灣重量級好手施劉俐伶，在愛知縣",
+     "category": "sport",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "sport",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "施劉俐伶闖決賽不敵南韓 亞運克拉術台灣再添1銀",
+     "link": "https://news.pts.org.tw/article/829110",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-09-29T14:37:50+08:00",
+     "description": "台灣好手施劉俐伶在今（29）日登場的亞運女子克拉術87公斤級賽事中，一路過關斬將擊敗蒙古、伊朗好手挺進金牌戰，但決賽時施劉俐伶雖以0比5不敵南韓女將Kim Minyoung，但仍為台灣克拉術代表團再進帳1銀，也是本屆台灣選手奪下的第9面銀牌。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "亞運前線》施劉俐伶不敵南韓對手奪銀 克拉術本屆第3面獎牌到手",
+     "link": "https://sports.ltn.com.tw/news/breakingnews/5589456",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-09-29T14:20:01+08:00",
+     "description": "台灣女將施劉俐伶今天在名古屋亞運女子87公斤以上級賽事，一路過關斬將挺進金牌戰，但最終以0：5不敵南韓金敏永（KIM Minyoung音譯），仍進帳一面銀牌，台灣代...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "可惜了！施劉俐伶不敵韓國勁敵奪銀　仍為克拉術進帳獎牌",
+     "link": "https://sports.ettoday.net/news/3245805",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-09-29T14:16:00+08:00",
+     "description": "2026年愛知·名古屋亞運克拉術賽事今（29）日下午進行壓軸女子87公斤以上級金牌戰，一路過關斬將的台灣重量級女將施劉俐伶，在愛知縣立武道館面對韓國名將金敏英（KIM Minyoung，音譯），雙方展開激烈近身纏鬥，施劉俐伶奮戰全場，最終以0比5惜敗摘銀。雖然未能登頂，但這面銀牌已成功改寫台灣女子大級別在亞運克拉術的最佳戰績。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "亞運前線》「終於換我笑了！」克拉術李宛庭摘銀創史上最佳 把獎牌獻給天上媽媽",
+     "link": "https://sports.ltn.com.tw/news/breakingnews/5587760",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-09-27T17:19:46+08:00",
+     "description": "台灣女將李宛庭今在名古屋亞運克拉術女子57公斤級金牌戰，以0：3不敵烏茲別克好手艾格諾娃（Ibodatkhon Agojonova）收下銀牌。儘管金牌戰帶著些許不服...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "原本亞運結束要退休　王品淳克拉術摘銅找回奮戰自信",
+     "link": "https://sports.ettoday.net/news/3244847",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-09-27T15:44:00+08:00",
+     "description": "026年第20屆愛知-名古屋亞運傳來捷報！克拉術女子57公斤級賽事，中華隊在4強戰上演精彩的「台灣內戰」年僅21歲的王品淳雖然遺憾落敗，仍為中華隊進帳一面銅牌。賽後王品淳感性表示，這面獎牌對她意義重大，更讓原本打算「打完就退休」的她，重新找回了繼續拚戰的自信。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
      }
     }
    ]
@@ -4154,7 +4108,7 @@
    "first_seen": "2026-09-28T16:56:00+08:00",
    "last_updated": "2026-09-29T11:23:00+08:00",
    "tags": [
-    "全車自由座嘉",
+    "自由座嘉義發",
     "高鐵",
     "速折返"
    ],
@@ -4281,7 +4235,7 @@
    "first_seen": "2026-09-28T22:32:49+08:00",
    "last_updated": "2026-09-29T10:27:41+08:00",
    "tags": [
-    "台灣保持穩定",
+    "要台灣保持穩",
     "美眾議長",
     "軍售"
    ],
@@ -4584,12 +4538,12 @@
      }
     },
     {
-     "title": "蔣萬安學歷修改扯游錫堃　水牛伯KO萬網讚爆！她嗆：恥度真讓人大開眼界",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5HSWJ4dkZKUXM2d19SdGhkcnBvdWgxMFZ0a1MyWDIxYlZUQTAyOG9wangzakg3VHhObGlVUnlDejNnN3JGcEFWUtIBTEFVX3lxTE9CQndIVzdaZnZrRHlQYlNqYjU5X3BrbjZTdTd5WGN3SHBLZXdxV0tUT1pLemZuRzFySWFYV0o3d3NTNEh2WElvekJqeFU?oc=5",
+     "title": "蔣萬安學歷修改扯游錫堃水牛伯KO萬網讚爆！她嗆：恥度真讓人大開眼界| 政治",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5HSWJ4dkZKUXM2d19SdGhkcnBvdWgxMFZ0a1MyWDIxYlZUQTAyOG9wangzakg3VHhObGlVUnlDejNnN3JGcEFWUg?oc=5",
      "source": "setn",
      "source_name": "三立新聞網",
      "published": "2026-09-28T05:25:00+08:00",
-     "description": "蔣萬安學歷修改扯游錫堃　水牛伯KO萬網讚爆！她嗆：恥度真讓人大開眼界  三立新聞網SETN.com",
+     "description": "蔣萬安學歷修改扯游錫堃水牛伯KO萬網讚爆！她嗆：恥度真讓人大開眼界| 政治  三立新聞網SETN.com",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -4601,12 +4555,12 @@
      }
     },
     {
-     "title": "蔣萬安學歷修改扯游錫堃水牛伯KO萬網讚爆！她嗆：恥度真讓人大開眼界| 政治",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5HSWJ4dkZKUXM2d19SdGhkcnBvdWgxMFZ0a1MyWDIxYlZUQTAyOG9wangzakg3VHhObGlVUnlDejNnN3JGcEFWUg?oc=5",
+     "title": "蔣萬安學歷修改扯游錫堃　水牛伯KO萬網讚爆！她嗆：恥度真讓人大開眼界",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5HSWJ4dkZKUXM2d19SdGhkcnBvdWgxMFZ0a1MyWDIxYlZUQTAyOG9wangzakg3VHhObGlVUnlDejNnN3JGcEFWUtIBTEFVX3lxTE9CQndIVzdaZnZrRHlQYlNqYjU5X3BrbjZTdTd5WGN3SHBLZXdxV0tUT1pLemZuRzFySWFYV0o3d3NTNEh2WElvekJqeFU?oc=5",
      "source": "setn",
      "source_name": "三立新聞網",
      "published": "2026-09-28T05:25:00+08:00",
-     "description": "蔣萬安學歷修改扯游錫堃水牛伯KO萬網讚爆！她嗆：恥度真讓人大開眼界| 政治  三立新聞網SETN.com",
+     "description": "蔣萬安學歷修改扯游錫堃　水牛伯KO萬網讚爆！她嗆：恥度真讓人大開眼界  三立新聞網SETN.com",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -4775,6 +4729,196 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
+   "id": "9948353b558d",
+   "title": "iPhone 18 Pro太香讓星粉動搖！想跳槽卻卡5功能　網一面倒勸別換",
+   "outlet_count": 5,
+   "outlets": [
+    "chinatimes",
+    "ebc",
+    "ettoday",
+    "ltn",
+    "nownews"
+   ],
+   "article_count": 14,
+   "first_seen": "2026-09-27T16:44:55+08:00",
+   "last_updated": "2026-09-30T09:49:09+08:00",
+   "tags": [],
+   "articles": [
+    {
+     "title": "《科技》拍照不是王牌、錄影超強！iPhone 18 Pro硬是衝上第二- 國際",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Gb1NtREg5QktiYW4xN19BZ0U4ZnRKUUw3ejZEVmEweUVjVVBQcHZRWHRwV0UxNkFnQjB0NmNkVnJCTjlIZ2FwRndNUnNPaWJISFdwMlVjVGRfMnlsY2lSdkRCVzY5aUJlVEE?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-09-30T09:49:09+08:00",
+     "description": "《科技》拍照不是王牌、錄影超強！iPhone 18 Pro硬是衝上第二- 國際  旺得富理財網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "4.2萬iPhone到手就拒繳！電信公司回查「一張紙」露餡　新北女慘了",
+     "link": "https://www.ettoday.net/news/20260930/3246127.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-09-30T08:23:00+08:00",
+     "description": "一張假帳單辦走iPhone！新北汐止洪姓女子到台灣大哥大門市申辦手機，讓業者誤認她是繳費信用良好的用戶，取得手機後再交給另名男子，換取2500元報酬。直到她只繳一期月租費便拒繳，業者清查資料，才發現帳單造假。士林地檢署偵結，依詐欺取財、行使偽造私文書等罪嫌將她起訴。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "iPhone Duo 助攻「大摺疊」手機成主流　小摺銷量慘摔 62%",
+     "link": "https://www.ettoday.net/news/20260929/3245554.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-09-29T19:35:00+08:00",
+     "description": "蘋果即將在 10 月正式開賣首款摺疊手機 iPhone Duo，不僅讓 Android 陣營如臨大敵，更可能改寫摺疊手機生態。根據研調機構 Counterpoint Research 最新報告指出，2026 上半年「小摺疊」已有明顯式微趨勢，預估未來市場將由書本式的「大摺疊」全面主導。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "蘋果更新又翻車？iPhone驚爆「全線大閃退」",
+     "link": "https://news.ebc.net.tw/news/living/573439",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-09-29T14:48:34.683848+08:00",
+     "description": "蘋果公司於今（29日）正式推播iOS 27.0.1系統更新，原意是為了解決iPhone 18 Pro系列上市後的諸多狀況，未料更新釋出後，全台大批果粉卻在網路上",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "iPhone 18 Pro 三大災情有解！蘋果釋出 iOS 27.0.1 更新",
+     "link": "https://www.ettoday.net/news/20260929/3245525.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-09-29T09:24:00+08:00",
+     "description": "蘋果 iPhone 18 Pro 系列上市之後，難免遇到不少災情，像是 Face ID 臉部辨識失敗，甚至有恐導致死機的觸控手勢。為此，蘋果今日正式釋出 iOS 27.0.1 版本，搶修三大災情。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "蘋果出手了！iPhone 18 Pro快更新　三大災情一次修掉",
+     "link": "https://3c.ltn.com.tw/news/67742",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-09-29T08:00:00+08:00",
+     "description": "iPhone 18 Pro系列用戶注意，蘋果今(29日)釋出iOS 27.0.1更新。雖然只是小版本更新，但一次修復3大問題，包括Face ID失敗後手機突然重啟、拍照出現異常色彩，以及螢幕突然無法操作。，建議用戶盡快更新…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "iPhone 18 Pro用一週才懂！外型沒換機感　相機、散熱越用越有感",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44RTdRd29GbUQ0WUZWV0pkMmF1dUItMGJDcXBsNTZpc0MwZ2Ixa2RoUkFrZ01vTTViVDdfM2lPcVVJeWladkxILW9iaEtDUGtpNnfSAVJBVV95cUxOOEU3UXdvRm1ENFlGVldKZDJhdXVCLTBiQ3FwbDU2aXNDMGdiMWtkaFJBa2dNb001YlQ3XzNpT3FVSXlpWnZMSC1vYmhLQ1BraTZ3?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-09-29T05:22:00+08:00",
+     "description": "iPhone 18 Pro用一週才懂！外型沒換機感　相機、散熱越用越有感  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "iPhone 18 摔成「曲面屏」竟還能用！網友勸：快送修檢查",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5588680",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-09-28T19:58:42+08:00",
+     "description": "一名女網友不慎摔車，手機也跟著受到猛烈撞擊。事後拿起來一看，整支手機外表明顯變形，從側面看呈現誇張弧度，但螢幕與各項功能居然都還能正常使用，讓她驚呼「iPhone 18真的可以買...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "買 iPhone Duo 不如多買一台 iPad？專家打臉：使用情境差很大",
+     "link": "https://www.ettoday.net/news/20260928/3245112.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-09-28T19:31:00+08:00",
+     "description": "蘋果首款摺疊手機 iPhone Duo 一發表，立刻吸引大量果粉關注。然而，其售價高達 74,900 元起，引來不少網友吐槽，直呼不如買「一台 iPhone 配一台 iPad」更划算。實際情況果真如此嗎？對此外媒《Engadget》分析，這兩種方案背後的使用情境截然不同。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "摔車「iPhone 18直接彎了」！她一滑驚呆　8萬人看傻：太扯了",
+     "link": "https://www.ettoday.net/news/20260928/3245310.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-09-28T16:56:00+08:00",
+     "description": "一名女網友不慎摔車，手機也跟著受到猛烈撞擊，事後拿起來一看，整支手機竟明顯「彎成弧形」，但螢幕與功能居然都還能正常使用，讓她驚呼「iPhone 18真的可以買，摔車彎了還能用！」貼文吸引超過8萬人按讚，網友全笑翻，「第一次看到自製曲線螢幕手機」、「再彎下去就可以變iPhone Duo了」。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
      }
     }
    ]
@@ -5070,6 +5214,149 @@
    ]
   },
   {
+   "id": "ce7e9e9a8253",
+   "title": "陳念琴完勝上屆銀牌晉4強 亞運拳擊台灣確定添1牌",
+   "outlet_count": 5,
+   "outlets": [
+    "chinatimes",
+    "ebc",
+    "mirror",
+    "nownews",
+    "pts"
+   ],
+   "article_count": 7,
+   "first_seen": "2026-09-27T16:22:24+08:00",
+   "last_updated": "2026-09-29T20:31:54+08:00",
+   "tags": [
+    "陳念琴",
+    "亞運拳擊",
+    "金牌戰"
+   ],
+   "articles": [
+    {
+     "title": "陳念琴險勝北韓挺進金牌戰 亞運拳擊65公斤級確定奪牌",
+     "link": "https://news.pts.org.tw/article/829190",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-09-29T20:31:54+08:00",
+     "description": "台灣拳擊女王陳念琴，今（29）日在女子拳擊65公斤級4強賽，遭遇北韓好手黃孝順，陳念琴最終以3比2驚險勝出，挺進金牌戰，確定保底銀牌，寫下個人最佳，也締造連2屆亞運奪牌的傲人紀錄。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "亞運／陳念琴擊退北韓女將！勇闖金牌戰寫個人新猷",
+     "link": "https://news.ebc.net.tw/news/sport/573436",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-09-29T14:48:34.683848+08:00",
+     "description": "台灣女子拳擊在名古屋亞運賽場再傳震撼捷報！「台灣女拳王」陳念琴今於女子65公斤級四強準決賽披掛上陣，無懼對手頻繁勒脖糾纏，終場以3：2力挫北韓強敵黃孝順，強勢搶",
+     "category": "sport",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "sport",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "名古屋亞運／無懼北韓強敵死纏！「抗癌女拳王」陳念琴激戰3回合險勝　勇闖金牌戰",
+     "link": "https://www.mirrormedia.mg/story/20260929edi047",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-09-29T13:30:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "陳念琴3比2險勝北韓強敵 挺進亞運拳擊65公斤級金牌戰",
+     "link": "https://news.pts.org.tw/article/829109",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-09-29T13:19:41+08:00",
+     "description": "名古屋亞運台灣好手今（29）日再傳捷報，「拳擊女王」陳念琴在女子65公斤4強賽碰上北韓選手黃孝順，陳念琴靠著第1回合主動進攻獲得評審一致青睞，第2回合雖被對手以4比1扳回一城，但在第3回合雙方激烈纏鬥後，最終陳念琴以3比2險勝黃孝順，順利搶下金牌戰門票，確定至少再為台灣添得1面銀牌。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "亞運拳擊／陳念琴挺進4強！擊敗泰國奧運銅牌　中華隊再進帳獎牌",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56ZDFmWktpekw5XzlNZDlaUVRJSFJvWlhIVVRfOG5jcWg0NzIta3UwaURydS1LSjMybjY5RTR5dlg0RlZVOVpmT3pYXzJPS2xNLXfSAVJBVV95cUxOemQxZlpLaXpMOV85TWQ5WlFUSUhSb1pYSFVUXzhuY3FoNDcyLWt1MGlEcnUtS0ozMm42OUU0eXZYNEZWVTlaZk96WF8yT0tsTS13?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-09-27T18:25:54+08:00",
+     "description": "亞運拳擊／陳念琴挺進4強！擊敗泰國奧運銅牌　中華隊再進帳獎牌  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "陳念琴完勝上屆銀牌晉4強 亞運拳擊台灣確定添1牌",
+     "link": "https://news.pts.org.tw/article/828849",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-09-27T17:24:20+08:00",
+     "description": "台灣拳擊好手陳念琴今（27）日在亞運女子65公斤級8強賽，以5比0完勝泰國對手、上屆亞運66公斤級銀牌得主素萬那彭，順利取得4強門票，也確定至少能獲得銅牌，將在29日力拚升級獎牌成色。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "亞運》陳念琴挺進4強 確保獎牌入袋",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbXZKYUdnaXBvR3lwdXRsaTBqNHJQYTRlOEJaWG12bS0xU3F5NVd5RHdsYnRXa1J4NG9YS0JPY3liblEwQVR5ZUFjVUl2WXNkcG1hRUo4NTZ3UlUtc0dhdWI4RHJZRXJQZ2RSektUcUJEdDNRbDduOGhMY0xMeDJmUHpNNlJHR0Z2WkRGTzd6QQ?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-09-27T16:22:24+08:00",
+     "description": "亞運》陳念琴挺進4強 確保獎牌入袋  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
    "id": "8e76ab03b721",
    "title": "我採購F-16V戰機首批2架未到 顧立雄：與美協調補償措施",
    "outlet_count": 5,
@@ -5129,7 +5416,7 @@
      "source": "chinatimes",
      "source_name": "中時新聞網",
      "published": "2026-09-29T09:35:31+08:00",
-     "description": "F-16V延遲交機 顧立雄：軍售沒有罰款 美方釋出補償善意  中時新聞網",
+     "description": "F-16V延遲交機 顧立雄：軍售沒有罰款 美方釋出補償善意  chinatimes.com",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -5192,8 +5479,8 @@
    "last_updated": "2026-09-29T18:04:33+08:00",
    "tags": [
     "發票",
-    "千萬",
-    "門市"
+    "門市",
+    "大獎"
    ],
    "claims": [
     {
@@ -5543,7 +5830,7 @@
      "source": "chinatimes",
      "source_name": "中時新聞網",
      "published": "2026-09-29T09:30:13+08:00",
-     "description": "亞運》金牌飛了！哈薩克競走女將「鞋款違規」遭取消資格- 體育  中時新聞網",
+     "description": "亞運》金牌飛了！哈薩克競走女將「鞋款違規」遭取消資格- 體育  chinatimes.com",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -5608,164 +5895,6 @@
    ]
   },
   {
-   "id": "ffd3a6583a85",
-   "title": "赴市民廣場野餐！沈伯洋狂嗑台中小吃　吃雞蛋糕也要加東泉辣椒",
-   "outlet_count": 5,
-   "outlets": [
-    "ltn",
-    "mirror",
-    "newtalk",
-    "nownews",
-    "storm"
-   ],
-   "article_count": 8,
-   "first_seen": "2026-09-27T11:52:07+08:00",
-   "last_updated": "2026-09-29T08:51:06+08:00",
-   "tags": [
-    "雞蛋糕",
-    "沈伯洋",
-    "東泉辣椒"
-   ],
-   "articles": [
-    {
-     "title": "沈伯洋競總成立   蔡其昌要帶東泉雞蛋糕祝賀？",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5589002",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-09-29T08:51:06+08:00",
-     "description": "台北市長參選人沈伯洋將於10月4日成立競選總部，立委蔡其昌在Theads上發文表示，考慮當天帶東泉辣椒醬跟雞蛋糕去招待台北的朋友們，台中市長參選人何欣純也贊聲「嚇嚇台北人，我覺...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "雞蛋糕狂淋辣椒醬掀模仿潮！台中名店喊推「沈伯洋限定」",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rN2VIRElKVG1MYUY1dHZydjJsOHYwOGNyUFhGQ0tqM2pGRVZickxaQUNudXNjcFNZRERveW1KQ3ZXUnlsMXY2Slg3Z0xGeW8xRzE1NmVWcW43bms?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-09-28T18:02:09+08:00",
-     "description": "雞蛋糕狂淋辣椒醬掀模仿潮！台中名店喊推「沈伯洋限定」  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "東泉辣椒醬淋雞蛋糕嚇壞同志！沈伯洋再出金句：台中就是「混亂中立」",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZNDZmOFNsSnd5TzlUbkgzby1Xa1IyWjRaam1xODlnXzZYUWF3aUM3VVlwaXo0VFh0LVAtdUFXdDRTcnAxT2ZPWHp5VFpnR0lyM0NxaUdfQTRZQlU?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-09-28T15:04:02+08:00",
-     "description": "東泉辣椒醬淋雞蛋糕嚇壞同志！沈伯洋再出金句：台中就是「混亂中立」  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "雞蛋糕加東泉辣椒醬引討論  其實台中還東泉拿鐵咖啡、爆米花",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5588476",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-09-28T14:47:44+08:00",
-     "description": "民進黨台北市長參選人沈伯洋昨南下與台中市長參選人何欣純合體，並大啖雞蛋糕加東泉辣椒醬，引發網友熱烈討論，不少政治人物也參戰，一派如立委蔡其昌鄭重聲明「無法接受」，但也有人則認為...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "沈伯洋淋辣椒掀雞蛋糕革命？店家：將出「沈伯洋限定」辣椒款",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5588419",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-09-28T14:46:20+08:00",
-     "description": "民進黨台北市長參選人沈伯洋27日將「洋流」帶到台中，與台中市長參選人何欣純合體走讀「洋流會欣潮」，兩人在市民廣場野餐時，沈伯洋在雞蛋糕塗上厚厚一大層「東泉辣椒醬」，一天以來，在...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "轟沈伯洋吃雞蛋糕加東泉辣醬「亂搞」 醫預言北市「洋流」結局：兩座大山擋在前頭 | 張庭維 | 新聞",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xYWhPVWNfMUJRdDJOR2JwMXBnTjFEc2tUbE5oWkNWVUlBTnVYUmhsYXNXeGxrWE5HWVBybnN1Qm9FN21SQnlfVzNzcWo0QQ?oc=5",
-     "source": "storm",
-     "source_name": "風傳媒",
-     "published": "2026-09-28T10:55:48+08:00",
-     "description": "轟沈伯洋吃雞蛋糕加東泉辣醬「亂搞」 醫預言北市「洋流」結局：兩座大山擋在前頭 | 張庭維 | 新聞  Storm.mg",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "沈伯洋拿雞蛋糕沾東泉辣椒醬讚「好吃！」　他曬「最魔幻的一刻」引熱議",
-     "link": "https://www.mirrormedia.mg/story/20260927edi026",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-09-27T19:19:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "赴市民廣場野餐！沈伯洋狂嗑台中小吃　吃雞蛋糕也要加東泉辣椒",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pU3RLa0VIdm1jTHlzc0xIUGFFaHRUeFhGNHZfcGJ5SndkUHZsQmpZWXo4V2t2LXRuQzFnM0JwTHJtVnAwVUJ2blF1Z3DSAVJBVV95cUxQbVdYRXpLYm54MVYxNnpYNEloX0Y5Z2VyMlBXZkFVNVQwSVJkQk5FOFVoem1ZTUxUaEhYQjZvZ1AyVHRvelZxa0FLV282dXJGbzhB?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-09-27T11:52:07+08:00",
-     "description": "赴市民廣場野餐！沈伯洋狂嗑台中小吃　吃雞蛋糕也要加東泉辣椒  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
    "id": "ef8b6213b144",
    "title": "外交部：摩洛哥9/21起恢復台灣護照申請觀光簽證【獨家】",
    "outlet_count": 5,
@@ -5781,8 +5910,8 @@
    "last_updated": "2026-09-28T20:54:46+08:00",
    "tags": [
     "觀光簽證",
-    "外交部",
-    "摩洛哥"
+    "摩洛哥",
+    "外交部"
    ],
    "articles": [
     {
@@ -6192,8 +6321,8 @@
    "last_updated": "2026-09-28T18:24:00+08:00",
    "tags": [
     "收假",
-    "車潮",
-    "國道"
+    "國道",
+    "車潮"
    ],
    "articles": [
     {
@@ -6496,97 +6625,48 @@
    ]
   },
   {
-   "id": "9948353b558d",
-   "title": "iPhone 18 Pro太香讓星粉動搖！想跳槽卻卡5功能　網一面倒勸別換",
+   "id": "e2a925cc1b9d",
+   "title": "他咒沈伯洋女兒「遇到小燈泡」遭撻伐　永豐金租賃急切割：涉事員工已自請離職",
    "outlet_count": 4,
    "outlets": [
-    "ebc",
-    "ettoday",
     "ltn",
+    "mirror",
+    "newtalk",
     "nownews"
    ],
-   "article_count": 13,
-   "first_seen": "2026-09-27T16:44:55+08:00",
-   "last_updated": "2026-09-30T08:23:00+08:00",
-   "tags": [],
+   "article_count": 5,
+   "first_seen": "2026-09-29T12:27:00+08:00",
+   "last_updated": "2026-09-30T11:45:23+08:00",
+   "tags": [
+    "遇到小燈泡",
+    "永豐金租賃",
+    "咒沈伯洋"
+   ],
    "articles": [
     {
-     "title": "4.2萬iPhone到手就拒繳！電信公司回查「一張紙」露餡　新北女慘了",
-     "link": "https://www.ettoday.net/news/20260930/3246127.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-09-30T08:23:00+08:00",
-     "description": "一張假帳單辦走iPhone！新北汐止洪姓女子到台灣大哥大門市申辦手機，讓業者誤認她是繳費信用良好的用戶，取得手機後再交給另名男子，換取2500元報酬。直到她只繳一期月租費便拒繳，業者清查資料，才發現帳單造假。士林地檢署偵結，依詐欺取財、行使偽造私文書等罪嫌將她起訴。 《詳全文...》",
+     "title": "太惡毒！男嗆沈伯洋女兒「遇到小燈泡」 律師揭恐嚇下場| 政治",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVRHJERWd1YXdlaUNzWDFwMG9NQTZ5MEo1cGRvSlZYa295blNFWjlCVHIwcDdzdlRVTGpXLVZLcnZwbVRfUUdwWnFfRWtKWm9jeXdkLTZKYjgzWlE?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-09-30T11:45:23+08:00",
+     "description": "太惡毒！男嗆沈伯洋女兒「遇到小燈泡」 律師揭恐嚇下場| 政治  Newtalk新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
-     "title": "iPhone Duo 助攻「大摺疊」手機成主流　小摺銷量慘摔 62%",
-     "link": "https://www.ettoday.net/news/20260929/3245554.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-09-29T19:35:00+08:00",
-     "description": "蘋果即將在 10 月正式開賣首款摺疊手機 iPhone Duo，不僅讓 Android 陣營如臨大敵，更可能改寫摺疊手機生態。根據研調機構 Counterpoint Research 最新報告指出，2026 上半年「小摺疊」已有明顯式微趨勢，預估未來市場將由書本式的「大摺疊」全面主導。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "蘋果更新又翻車？iPhone驚爆「全線大閃退」",
-     "link": "https://news.ebc.net.tw/news/living/573439",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-09-29T14:48:34.683848+08:00",
-     "description": "蘋果公司於今（29日）正式推播iOS 27.0.1系統更新，原意是為了解決iPhone 18 Pro系列上市後的諸多狀況，未料更新釋出後，全台大批果粉卻在網路上",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "iPhone 18 Pro 三大災情有解！蘋果釋出 iOS 27.0.1 更新",
-     "link": "https://www.ettoday.net/news/20260929/3245525.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-09-29T09:24:00+08:00",
-     "description": "蘋果 iPhone 18 Pro 系列上市之後，難免遇到不少災情，像是 Face ID 臉部辨識失敗，甚至有恐導致死機的觸控手勢。為此，蘋果今日正式釋出 iOS 27.0.1 版本，搶修三大災情。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "蘋果出手了！iPhone 18 Pro快更新　三大災情一次修掉",
-     "link": "https://3c.ltn.com.tw/news/67742",
+     "title": "永豐金租賃員工詛咒沈伯洋女兒！爆已婚還上網約砲 噁留：我會狗喝水",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5589977",
      "source": "ltn",
      "source_name": "自由時報",
-     "published": "2026-09-29T08:00:00+08:00",
-     "description": "iPhone 18 Pro系列用戶注意，蘋果今(29日)釋出iOS 27.0.1更新。雖然只是小版本更新，但一次修復3大問題，包括Face ID失敗後手機突然重啟、拍照出現異常色彩，以及螢幕突然無法操作。，建議用戶盡快更新…",
+     "published": "2026-09-29T23:45:52+08:00",
+     "description": "民進黨台北市長參選人沈伯洋近期聲勢驚人，民調緊追尋求連任的市長蔣萬安，近日一名林姓網友竟在社群拿10年前震驚社會的「小燈泡命案」，發布詛咒沈伯洋女兒人身安全的留言，引發輿論撻伐。...…",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -6598,12 +6678,12 @@
      }
     },
     {
-     "title": "iPhone 18 Pro用一週才懂！外型沒換機感　相機、散熱越用越有感",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44RTdRd29GbUQ0WUZWV0pkMmF1dUItMGJDcXBsNTZpc0MwZ2Ixa2RoUkFrZ01vTTViVDdfM2lPcVVJeWladkxILW9iaEtDUGtpNnfSAVJBVV95cUxOOEU3UXdvRm1ENFlGVldKZDJhdXVCLTBiQ3FwbDU2aXNDMGdiMWtkaFJBa2dNb001YlQ3XzNpT3FVSXlpWnZMSC1vYmhLQ1BraTZ3?oc=5",
+     "title": "咒沈伯洋6歲女兒「遇到小燈泡」惹議　永豐金租賃：當事人已離職",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xaG5hY3RhR0pPZ3VQcUZ2empOQWVVVFF0NnN1SmNMdjgzb1ZZUWthQ1JLS1V5bV9MdzFRVnc0eWF3WjJKWjQzRXZ0aFZnQ1MtWWfSAVJBVV95cUxPMWhuYWN0YUdKT2d1UHFGdnpqTkFlVVRRdDZzdUpjTHY4M29WWVFrYUNSS0tVeW1fTHcxUVZ3NHlhd1oySlo0M0V2dGhWZ0NTLVln?oc=5",
      "source": "nownews",
      "source_name": "今日新聞",
-     "published": "2026-09-29T05:22:00+08:00",
-     "description": "iPhone 18 Pro用一週才懂！外型沒換機感　相機、散熱越用越有感  NOWnews今日新聞",
+     "published": "2026-09-29T15:36:39+08:00",
+     "description": "咒沈伯洋6歲女兒「遇到小燈泡」惹議　永豐金租賃：當事人已離職  NOWnews今日新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -6615,63 +6695,100 @@
      }
     },
     {
-     "title": "iPhone 18 摔成「曲面屏」竟還能用！網友勸：快送修檢查",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5588680",
+     "title": "咒沈伯洋6歲女兒「遇到小燈泡」惹眾怒永豐金租賃發聲了| 生活",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40MHVoeVlpZXN6X0EyOUZqakVMWk05Z1NEMGRRU1JZZEtwVnhGMkpNbmZXYl9ncjhwSTA3ZG04X2xrVUZMYkI0cUpVX1pIY2NXYnFXTTl4VGlWbm8?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-09-29T14:55:41+08:00",
+     "description": "咒沈伯洋6歲女兒「遇到小燈泡」惹眾怒永豐金租賃發聲了| 生活  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "他咒沈伯洋女兒「遇到小燈泡」遭撻伐　永豐金租賃急切割：涉事員工已自請離職",
+     "link": "https://www.mirrormedia.mg/story/20260929edi044",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-09-29T12:27:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    }
+   ]
+  },
+  {
+   "id": "2a3abed74c42",
+   "title": "焦點股》聯發科：台積電神救援 化解Google TPU產能瓶頸",
+   "outlet_count": 4,
+   "outlets": [
+    "chinatimes",
+    "ltn",
+    "mirror",
+    "storm"
+   ],
+   "article_count": 6,
+   "first_seen": "2026-09-28T18:28:00+08:00",
+   "last_updated": "2026-09-30T11:39:28+08:00",
+   "tags": [
+    "聯發科",
+    "重挫"
+   ],
+   "articles": [
+    {
+     "title": "《科技》AI晶片變天！ASIC出貨首度超車GPU、Google市占狂追NVIDIA",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuUEZ6b3dSejUzNWgyMDMxc2lfSEhRVDN2UktpOUgtcHg5QnZYdEJzMEM1dUVIOS1rYjYtdUlxYmd1TktIN3dXRFVCbjIzeGZGSUw3YjQycmI0TURhQkRwdFRVTlFnOHA1OUE?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-09-30T11:39:28+08:00",
+     "description": "《科技》AI晶片變天！ASIC出貨首度超車GPU、Google市占狂追NVIDIA  旺得富理財網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "ASIC雙雄重挫逾7％能撿了？　聯發科、創意2大買點曝",
+     "link": "https://www.mirrormedia.mg/story/20260929-185mon-204811",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-09-30T07:00:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "是方攜手Google Cloud 迎戰海纜斷線風險",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zZVB3Y3lTc3FFVlRIaHNmbGtlMzlRcEN1M2tWM3ZuSTVPYUExSXZuZzQ0VUI1a1RmeUl6Yk9RU05HaVV2WGxFMGx0eklZMkl5ZGlUWmJoS0c?oc=5",
      "source": "ltn",
      "source_name": "自由時報",
-     "published": "2026-09-28T19:58:42+08:00",
-     "description": "一名女網友不慎摔車，手機也跟著受到猛烈撞擊。事後拿起來一看，整支手機外表明顯變形，從側面看呈現誇張弧度，但螢幕與各項功能居然都還能正常使用，讓她驚呼「iPhone 18真的可以買...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "買 iPhone Duo 不如多買一台 iPad？專家打臉：使用情境差很大",
-     "link": "https://www.ettoday.net/news/20260928/3245112.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-09-28T19:31:00+08:00",
-     "description": "蘋果首款摺疊手機 iPhone Duo 一發表，立刻吸引大量果粉關注。然而，其售價高達 74,900 元起，引來不少網友吐槽，直呼不如買「一台 iPhone 配一台 iPad」更划算。實際情況果真如此嗎？對此外媒《Engadget》分析，這兩種方案背後的使用情境截然不同。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "摔車「iPhone 18直接彎了」！她一滑驚呆　8萬人看傻：太扯了",
-     "link": "https://www.ettoday.net/news/20260928/3245310.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-09-28T16:56:00+08:00",
-     "description": "一名女網友不慎摔車，手機也跟著受到猛烈撞擊，事後拿起來一看，整支手機竟明顯「彎成弧形」，但螢幕與功能居然都還能正常使用，讓她驚呼「iPhone 18真的可以買，摔車彎了還能用！」貼文吸引超過8萬人按讚，網友全笑翻，「第一次看到自製曲線螢幕手機」、「再彎下去就可以變iPhone Duo了」。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "iPhone 16 Pro用2年「電池健康度100%」！他曝4招：充電少量多餐",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3VEtqVEV5cnFTdEg1SkJYdTNWTkhVZ1ZpR0RiVF9qVlRoTzlVVmZwOXo2UmJOSU1MSzF4Qm1feTY4YnlBaVo3YUNkU2gzU2RFWmfSAVJBVV95cUxQd1RLalRFeXJxU3RINUpCWHUzVk5IVWdWaUdEYlRfalZUaE85VVZmcDl6NlJiTklNTEsxeEJtX3k2OGJ5QWlaN2FDZFNoM1NkRVpn?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-09-28T12:00:25+08:00",
-     "description": "iPhone 16 Pro用2年「電池健康度100%」！他曝4招：充電少量多餐  NOWnews今日新聞",
+     "published": "2026-09-29T19:25:00+08:00",
+     "description": "是方攜手Google Cloud 迎戰海纜斷線風險  自由時報",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -6679,7 +6796,58 @@
        "source": "unknown"
       },
       "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "feed_url": "https://news.google.com/rss/search?q=site:ltn.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "聯發科為何暴跌近7%？才喊目標價7300元就重挫，Google TPU「轉單危機」還會有未爆彈嗎？ | 下班經濟學 | 財經",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5sQ3NzMDU5R1dKNUtnLVFRMkVRSk92S2JkTkMzNHBRNmRMU0hxTlB6d3F5cktwZWZXMENTTzdxczRDVFZxeXJobWZFMVlBZw?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-09-29T12:19:06+08:00",
+     "description": "聯發科為何暴跌近7%？才喊目標價7300元就重挫，Google TPU「轉單危機」還會有未爆彈嗎？ | 下班經濟學 | 財經  風傳媒",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "《半導體》Google ASIC夢震盪！聯發科重挫近7%、5千關卡失守- 上市櫃",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SSEF0U0hxTC1oYm5UcGJIdlBvd3RlUE5iOFFzYlNPYi1YWUNIWlU2dEFaX0l5T1B2TXhKNXIwWDhneTdYbVZuZnowUUZna0w3MzluOEtxd0FYSmxOVkZnRWxXNF9heVJ4Unc?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-09-29T11:22:31+08:00",
+     "description": "《半導體》Google ASIC夢震盪！聯發科重挫近7%、5千關卡失守- 上市櫃  旺得富理財網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "焦點股》聯發科：台積電神救援 化解Google TPU產能瓶頸",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UdkNaZGpZaXJUdGdkY2w5SHU4ZXJCOEQzblVkRVZGam95R0RQa3YwdDNKTmlBTDFLTFI5V1ltamVwNjlqY0pXdnNCamJiMUxzWFVuWGR5Z1I?oc=5",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-09-28T18:28:00+08:00",
+     "description": "焦點股》聯發科：台積電神救援 化解Google TPU產能瓶頸  自由時報",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:ltn.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -6694,13 +6862,13 @@
     "newtalk",
     "nownews"
    ],
-   "article_count": 8,
+   "article_count": 7,
    "first_seen": "2026-09-29T07:31:48+08:00",
    "last_updated": "2026-09-30T07:41:06+08:00",
    "tags": [
     "債殖利率",
-    "台積電",
-    "美股"
+    "美股",
+    "台積電"
    ],
    "articles": [
     {
@@ -6789,23 +6957,6 @@
      }
     },
     {
-     "title": "美伊談判卡關台股開低81點　台積電逆勢漲10元",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Hd1dWNHNzeHZEZndCS3NsSHljcjdBeEw4aFhKSG05dmJIMnhxSFJLVHFVbGlUVF82TGg4bjB2cUZLSUJ2T08zb0hpV1EwblBQZEHSAVJBVV95cUxNR3dXVjRzc3h2RGZ3QktzbEh5Y3I3QXhMOGhYSkhtOXZiSDJ4cUhSS1RxVWxpVFRfNkxoOG4wdnFGS0lCdk9PM29IaVdRMG5QUGRB?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-09-29T09:05:01+08:00",
-     "description": "美伊談判卡關台股開低81點　台積電逆勢漲10元  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
      "title": "油價及美債殖利率攀升！ 美股四大指數全收跌、台積電ADR漲0.5％",
      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Tek9XRmxjbG8wUnlBNVZjOGpTczlTYllJWWFROFBNdkFvWlZkeTlMaGpRdjl3QmNZdEZxVGJDUG8tMmRGQ1BzeWg0aE5laVIyVTNkb205NWlYTTg?oc=5",
      "source": "newtalk",
@@ -6857,7 +7008,7 @@
    "tags": [
     "台股",
     "失守",
-    "台達電"
+    "聯發科"
    ],
    "articles": [
     {
@@ -6948,97 +7099,8 @@
    ]
   },
   {
-   "id": "e2a925cc1b9d",
-   "title": "他咒沈伯洋女兒「遇到小燈泡」遭撻伐　永豐金租賃急切割：涉事員工已自請離職",
-   "outlet_count": 4,
-   "outlets": [
-    "ltn",
-    "mirror",
-    "newtalk",
-    "nownews"
-   ],
-   "article_count": 4,
-   "first_seen": "2026-09-29T12:27:00+08:00",
-   "last_updated": "2026-09-29T23:45:52+08:00",
-   "tags": [
-    "永豐金租賃",
-    "咒沈伯洋",
-    "遇到小燈泡"
-   ],
-   "articles": [
-    {
-     "title": "永豐金租賃員工詛咒沈伯洋女兒！爆已婚還上網約砲 噁留：我會狗喝水",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5589977",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-09-29T23:45:52+08:00",
-     "description": "民進黨台北市長參選人沈伯洋近期聲勢驚人，民調緊追尋求連任的市長蔣萬安，近日一名林姓網友竟在社群拿10年前震驚社會的「小燈泡命案」，發布詛咒沈伯洋女兒人身安全的留言，引發輿論撻伐。...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "咒沈伯洋6歲女兒「遇到小燈泡」惹議　永豐金租賃：當事人已離職",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xaG5hY3RhR0pPZ3VQcUZ2empOQWVVVFF0NnN1SmNMdjgzb1ZZUWthQ1JLS1V5bV9MdzFRVnc0eWF3WjJKWjQzRXZ0aFZnQ1MtWWfSAVJBVV95cUxPMWhuYWN0YUdKT2d1UHFGdnpqTkFlVVRRdDZzdUpjTHY4M29WWVFrYUNSS0tVeW1fTHcxUVZ3NHlhd1oySlo0M0V2dGhWZ0NTLVln?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-09-29T15:36:39+08:00",
-     "description": "咒沈伯洋6歲女兒「遇到小燈泡」惹議　永豐金租賃：當事人已離職  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "咒沈伯洋6歲女兒「遇到小燈泡」惹眾怒永豐金租賃發聲了| 生活",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40MHVoeVlpZXN6X0EyOUZqakVMWk05Z1NEMGRRU1JZZEtwVnhGMkpNbmZXYl9ncjhwSTA3ZG04X2xrVUZMYkI0cUpVX1pIY2NXYnFXTTl4VGlWbm8?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-09-29T14:55:41+08:00",
-     "description": "咒沈伯洋6歲女兒「遇到小燈泡」惹眾怒永豐金租賃發聲了| 生活  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "他咒沈伯洋女兒「遇到小燈泡」遭撻伐　永豐金租賃急切割：涉事員工已自請離職",
-     "link": "https://www.mirrormedia.mg/story/20260929edi044",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-09-29T12:27:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    }
-   ]
-  },
-  {
-   "id": "c832a6b7c9c7",
-   "title": "02:20台灣東部海域規模5「極淺層地震」　最大震度3級",
+   "id": "f5d273cef3e1",
+   "title": "02:20東部規模5「極淺層地震」　最大震度3級",
    "outlet_count": 4,
    "outlets": [
     "ebc",
@@ -7130,12 +7192,12 @@
      }
     },
     {
-     "title": "地牛翻身！2:20 花蓮發生規模5.0地震",
-     "link": "https://news.ebc.net.tw/news/living/573395",
+     "title": "地震速報！ 09/29 02:20左右   花蓮地區發生有感地震",
+     "link": "https://news.ebc.net.tw/news/living/573394",
      "source": "ebc",
      "source_name": "東森新聞",
      "published": "2026-09-29T06:28:39.463216+08:00",
-     "description": "【地震快訊】 發震時間： 115年9月29日2時20分45秒 中央氣象署發布顯著有感地震最新消息，今(29)日2時20分，發生芮氏規模5.0有感地震，震央位置在",
+     "description": "中央氣象署發布， 09/29 02:20左右 ， 花蓮地區發生有感地震 。預估震度 3 級以上地區： 花蓮",
      "category": "living",
      "metadata": {
       "schema_version": 1,
@@ -7149,12 +7211,12 @@
      }
     },
     {
-     "title": "地震速報！ 09/29 02:20左右   花蓮地區發生有感地震",
-     "link": "https://news.ebc.net.tw/news/living/573394",
+     "title": "地牛翻身！2:20 花蓮發生規模5.0地震",
+     "link": "https://news.ebc.net.tw/news/living/573395",
      "source": "ebc",
      "source_name": "東森新聞",
      "published": "2026-09-29T06:28:39.463216+08:00",
-     "description": "中央氣象署發布， 09/29 02:20左右 ， 花蓮地區發生有感地震 。預估震度 3 級以上地區： 花蓮",
+     "description": "【地震快訊】 發震時間： 115年9月29日2時20分45秒 中央氣象署發布顯著有感地震最新消息，今(29)日2時20分，發生芮氏規模5.0有感地震，震央位置在",
      "category": "living",
      "metadata": {
       "schema_version": 1,
@@ -7202,8 +7264,8 @@
      }
     },
     {
-     "title": "02:20東部規模5「極淺層地震」　最大震度3級",
-     "link": "https://www.ettoday.net/news/20260929/3245441.htm",
+     "title": "02:20台灣東部海域規模5「極淺層地震」　最大震度3級",
+     "link": "https://www.ettoday.net/news/20260929/3245442.htm",
      "source": "ettoday",
      "source_name": "ETtoday",
      "published": "2026-09-29T02:29:00+08:00",
@@ -7219,8 +7281,8 @@
      }
     },
     {
-     "title": "02:20台灣東部海域規模5「極淺層地震」　最大震度3級",
-     "link": "https://www.ettoday.net/news/20260929/3245442.htm",
+     "title": "02:20東部規模5「極淺層地震」　最大震度3級",
+     "link": "https://www.ettoday.net/news/20260929/3245441.htm",
      "source": "ettoday",
      "source_name": "ETtoday",
      "published": "2026-09-29T02:29:00+08:00",
@@ -7253,7 +7315,7 @@
    "tags": [
     "新時代最好的",
     "蘇巧慧",
-    "進黨新北黨部"
+    "民進黨新北黨"
    ],
    "articles": [
     {
@@ -7340,6 +7402,95 @@
       },
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/rsscna/local"
+     }
+    }
+   ]
+  },
+  {
+   "id": "d3baa8eec0ff",
+   "title": "歐盟令開放搜尋資料與Android功能　Google上訴",
+   "outlet_count": 4,
+   "outlets": [
+    "cna",
+    "ettoday",
+    "ltn",
+    "udn"
+   ],
+   "article_count": 4,
+   "first_seen": "2026-09-28T10:25:00+08:00",
+   "last_updated": "2026-09-29T15:11:27+08:00",
+   "tags": [
+    "功能",
+    "出爐",
+    "淘汰"
+   ],
+   "articles": [
+    {
+     "title": "歐盟令開放搜尋資料與Android功能　Google上訴",
+     "link": "https://www.cna.com.tw/news/aopl/202609290169.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-09-29T15:11:27+08:00",
+     "description": "（中央社布魯塞爾29日綜合外電報導）美國科技巨擘谷歌（Google）對歐洲聯盟兩項命令提出挑戰，歐盟要求Google協助OpenAI等人工智慧（AI）競爭對手取得相關服務，並讓搜尋引擎競爭對手取得搜尋資料。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
+     }
+    },
+    {
+     "title": "推出2年就退場！Google11月淘汰Gemini Gem　替代功能出爐",
+     "link": "https://3c.ltn.com.tw/news/67741",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-09-29T09:01:00+08:00",
+     "description": "Google又有一項服務準備走進歷史。過去不少Gemini用戶會利用Gem打造自己的專屬AI助手，不過Google已正式宣布，將從2026年11月17日開始淘汰「Gem」，未來全面改以「技能」替代…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "Google Photos大更新：全新「Redact」一鍵隱藏敏感資訊AI衣櫃與Gemini深度整合同步上線| 社群/APP/網紅",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4YW1iU3ZIczB5bTZtUlVXNHdQanNiNk5XcEYwQy1ieVgtN2pHZlI5Z3A5bUhVeF9naWxTY0MxN0NqblFReWNQZ3kwSXljQm5ienBEenpRQkxsQQ?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-09-29T07:35:56+08:00",
+     "description": "Google Photos大更新：全新「Redact」一鍵隱藏敏感資訊AI衣櫃與Gemini深度整合同步上線| 社群/APP/網紅  udn科技玩家",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "Google Gemini 確定 11 月起淘汰 Gem 功能！替代方案出爐",
+     "link": "https://ai.ettoday.net/news/3245102",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-09-28T10:25:00+08:00",
+     "description": "Google 稍早在 Gemini 網頁版正式發出通知，即將在 11 月 17 日起正式淘汰自訂 AI 機器人功能「Gem」，未來將全面改以「技能」替代。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
      }
     }
    ]
@@ -7435,6 +7586,95 @@
    ]
   },
   {
+   "id": "de6b9ecfaf41",
+   "title": "用 CarPlay 搭配 Google 地圖  幾個設定讓導航更順手",
+   "outlet_count": 4,
+   "outlets": [
+    "ettoday",
+    "ltn",
+    "mirror",
+    "newtalk"
+   ],
+   "article_count": 4,
+   "first_seen": "2026-09-28T16:25:00+08:00",
+   "last_updated": "2026-09-29T10:59:00+08:00",
+   "tags": [
+    "瑞芳再次偉大",
+    "川普岩",
+    "掀朝聖潮"
+   ],
+   "articles": [
+    {
+     "title": "瑞芳驚見「川普岩」！神似川普側臉掀朝聖潮　網狂喊：讓瑞芳再次偉大",
+     "link": "https://www.mirrormedia.mg/story/20260929edi031",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-09-29T10:59:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "瑞芳驚見「川普岩」！Google地圖地標掀朝聖潮民眾：讓瑞芳再次偉大| 生活",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByX3RTcklLVU1PbjBsM3hnSUlCN2sxTFZyWE55QmI3MWZKaG1xTGdJcWZTZ29mWTRkcmdranNnNDRaU0JiRXFpUTdXRHZ0UU82ZmRfUEw3a2pvc0U?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-09-29T10:22:33+08:00",
+     "description": "瑞芳驚見「川普岩」！Google地圖地標掀朝聖潮民眾：讓瑞芳再次偉大| 生活  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "Google地圖新景點「瑞芳川普岩」爆紅　網笑：5星能換10%關稅嗎",
+     "link": "https://www.ettoday.net/news/20260929/3245413.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-09-29T00:17:00+08:00",
+     "description": "新北市瑞芳東北角海岸近日出現另類「新景點」，有網友發現，當地一處海邊的岩石外型酷似美國總統川普側臉，還被人直接在Google地圖新增地標，取名「瑞芳川普岩」，更在評論區附上川普圖像，貼文一出立刻引發網友熱烈討論。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "用 CarPlay 搭配 Google 地圖  幾個設定讓導航更順手",
+     "link": "https://3c.ltn.com.tw/news/67738",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-09-28T16:25:00+08:00",
+     "description": "雖然 Apple 地圖經過多年更新後功能已逐漸完善，不少 iPhone 使用者仍習慣使用 Google 地圖，尤其在交通資訊、商家資料與操作習慣等方面各有所好。《Engadget》建議，想讓 Google 地圖直接在 Apple CarPlay 上使用，只要透過幾項設定，就能讓車內導航操作更加方便。 \n目前只有歐盟與日本等部分市場，受到當地法規影響，可在 iPhone「設定」中的「App」→「預設",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    }
+   ]
+  },
+  {
    "id": "f763e6450c2b",
    "title": "高鐵對號座爆一位兩賣？她上車愣：被補票搶走　員工急喬座位道歉",
    "outlet_count": 4,
@@ -7449,8 +7689,8 @@
    "last_updated": "2026-09-29T01:58:00+08:00",
    "tags": [
     "對號座爆一位",
-    "補票",
-    "高鐵"
+    "高鐵",
+    "補票"
    ],
    "articles": [
     {
@@ -7554,8 +7794,8 @@
    "first_seen": "2026-09-28T13:24:27+08:00",
    "last_updated": "2026-09-29T00:24:17+08:00",
    "tags": [
-    "蔣萬安",
     "盧秀燕",
+    "蔣萬安",
     "江啟臣"
    ],
    "articles": [
@@ -7647,7 +7887,7 @@
    "last_updated": "2026-09-28T23:59:03+08:00",
    "tags": [
     "小羊卡牌社",
-    "業者鄭男遭通",
+    "者鄭男遭通緝",
     "捲款跑路"
    ],
    "articles": [
@@ -8010,6 +8250,329 @@
    ]
   },
   {
+   "id": "7f56455a1655",
+   "title": "台師大女足抽血案　前教練周台英涉侵占、詐欺遭起訴",
+   "outlet_count": 3,
+   "outlets": [
+    "cna",
+    "ebc",
+    "ettoday"
+   ],
+   "article_count": 3,
+   "first_seen": "2026-09-30T09:48:28+08:00",
+   "last_updated": "2026-09-30T12:36:42.204887+08:00",
+   "tags": [
+    "周台英涉侵占",
+    "詐欺遭起訴",
+    "台師大"
+   ],
+   "articles": [
+    {
+     "title": "台師大前女足教練周台英 涉侵占、詐欺遭起訴",
+     "link": "https://news.ebc.net.tw/news/society/573547",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-09-30T12:36:42.204887+08:00",
+     "description": "台師大前女足教練周台英涉侵占受試費及詐領補助，北檢依侵占、詐欺罪起訴；強制罪及違反醫師法部分不起訴。",
+     "category": "society",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "society",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "周台英涉侵占詐欺被起訴　校方：配合檢調「返還費用給學生」",
+     "link": "https://www.ettoday.net/news/20260930/3246330.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-09-30T12:04:00+08:00",
+     "description": "台灣師範大學女子足球隊前教練周台英，遭控以學分威脅選手配合研究抽血，更又要求隊員回捐受測費用，今遭侵占、詐欺等罪嫌起訴。台師大表示，本案仍在司法程序中，已配合檢調要求提供相關資料，事發後針對過往學生受試費遭繳回作為隊費情形進行全面清查，校方已盡力先行籌措經費，返還受試費用予學生。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "台師大女足抽血案　前教練周台英涉侵占、詐欺遭起訴",
+     "link": "https://www.cna.com.tw/news/asoc/202609300029.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-09-30T09:48:28+08:00",
+     "description": "（中央社記者林長順台北30日電）台師大前女足教練周台英被控以學分威脅，要求選手配合研究抽血，受試費用則繳回球隊。台北地檢署今天偵查終結，依侵占、詐欺等罪嫌起訴周女。周台英被控強制罪、違反醫師法部分獲不起訴處分。",
+     "author": "林長順",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "林長順",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/social"
+     }
+    }
+   ]
+  },
+  {
+   "id": "4f926816607d",
+   "title": "基隆市議員曾紀嚴涉賄收押　兒代父出征…今遭檢方搜索帶走",
+   "outlet_count": 3,
+   "outlets": [
+    "ebc",
+    "ettoday",
+    "newtalk"
+   ],
+   "article_count": 3,
+   "first_seen": "2026-09-30T11:53:00+08:00",
+   "last_updated": "2026-09-30T12:36:42.204887+08:00",
+   "tags": [
+    "議員曾紀嚴涉",
+    "曾維祥遭",
+    "遭檢方"
+   ],
+   "articles": [
+    {
+     "title": "基隆議員曾紀嚴涉案遭押 兒代參選曾維祥遭檢方帶走",
+     "link": "https://news.ebc.net.tw/news/politics/573563",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-09-30T12:36:42.204887+08:00",
+     "description": "中國國民黨籍基隆市議員曾紀嚴因涉案遭羈押，兒子曾維祥則「代父出征」參選議員。 基隆地檢署今談曾維祥到案說明，以釐清相關案情。",
+     "category": "politics",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "politics",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "基隆議員曾紀嚴涉案遭押代父參選兒曾維祥遭約談| 社會",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoWGVsdURHS25iVEZ3Z09EWUttOUU4VVhNT0w5aDFDN3Y3WEYzM192ZjRXVDZuLXhnRUx5X3ZZN25LUWJVVGJyNkUzSTdNbzFSbkh0MFl2dS15bmM?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-09-30T12:20:02+08:00",
+     "description": "基隆議員曾紀嚴涉案遭押代父參選兒曾維祥遭約談| 社會  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "基隆市議員曾紀嚴涉賄收押　兒代父出征…今遭檢方搜索帶走",
+     "link": "https://www.ettoday.net/news/20260930/3246378.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-09-30T11:53:00+08:00",
+     "description": "基隆市議員曾紀嚴涉嫌綁標及收賄，今年7月遭到收押禁見，兒子曾維祥因此代父出征，競選仁愛區議員，今(30日)上午卻驚傳基隆地檢署兵分多路，前往曾維祥競選辦公室搜索，並帶回曾男與多位里民，至於詳細案情還有待後續釐清。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ef8bb50a9df4",
+   "title": "獨／藍白竹北撕破臉！鄭麗文下令：國民黨禁止幫邱臣遠站台",
+   "outlet_count": 3,
+   "outlets": [
+    "ettoday",
+    "mirror",
+    "nownews"
+   ],
+   "article_count": 5,
+   "first_seen": "2026-09-29T13:18:13+08:00",
+   "last_updated": "2026-09-30T11:46:00+08:00",
+   "tags": [
+    "幫邱臣遠站台",
+    "鄭麗文下令",
+    "國民黨"
+   ],
+   "articles": [
+    {
+     "title": "鄭麗文下令禁幫邱臣遠站台　徐巧芯爆料：徐欣瑩其實支持竹北開放",
+     "link": "https://www.ettoday.net/news/20260930/3246362.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-09-30T11:46:00+08:00",
+     "description": "國民黨、民眾黨在竹北市長選戰分裂。國民黨主席鄭麗文昨天在立法實務研討會下令，國民黨新竹縣長參選人徐欣瑩是黨團成員，要立委們支持，且竹北市長不可以幫民眾黨參選人邱臣遠站台。國民黨立委徐巧芯今（30日）爆料，徐欣瑩其實是支持竹北可以開放，甚至也曾親自溝通，或許黨主席有不同視角，不過主席說清楚比較好。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "鄭麗文禁藍委幫邱臣遠站台　黃國昌感謝：事情走到今天就各自努力",
+     "link": "https://www.ettoday.net/news/20260930/3246348.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-09-30T11:35:00+08:00",
+     "description": "國民黨主席鄭麗文昨在立法實務研討會中下令，要立委不能幫民眾黨提名的竹北市長參選人邱臣遠站台。對此，民眾黨主席黃國昌今（30日）到中和幫議員參選人陳怡君站台掃街時說，謝謝國民黨過去在立法院跟民眾黨一起並肩作戰的好朋友們，心意收到了，「現階段最重要的事情，就是自己按照自己的步伐好好努力」。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "藍白合破局再升溫！鄭麗文禁藍委挺邱臣遠　黃國昌：祝國民黨繼續有信心",
+     "link": "https://www.mirrormedia.mg/story/20260929edi065",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-09-29T19:31:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "白小雞慘了！鄭麗文下令不准全力挺：藍白合僅限縣市長",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SVm0zUEFHMnNMQnFuZ1lDSkFMQWVzZjRTRzFJc3V6NEg4UnM3dFhYa2o0SU1fc05XNUY2MmwxdFVnc1pXRDBUN0d0WFA1aEhlamfSAVJBVV95cUxOUlZtM1BBRzJzTEJxbmdZQ0pBTEFlc2Y0U0cxSXN1ejRIOFJzN3RYWGtqNElNX3NOVzVGNjJsMXRVZ3NaV0QwVDdHdFhQNWhIZWpn?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-09-29T13:40:42+08:00",
+     "description": "白小雞慘了！鄭麗文下令不准全力挺：藍白合僅限縣市長  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "獨／藍白竹北撕破臉！鄭麗文下令：國民黨禁止幫邱臣遠站台",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5pWDdrc1BfTGtLSlFJQWNMcXI2aUpiX1RRbDRNbUgxYngyYXBLeEVDUGJzR0FXZDF5OGNnbGhpOHRBNWlxUzVyeWQyQWHSAVJBVV95cUxOelpITHUtODZBVWdhN2ZudE5aMkNzNjZVeWN6UFlXWlFzcXVla09zQkIxVUVlUG9YV1l4Z2N1NTRuZkRoYS1DR1p3TEluNmJnLTd3?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-09-29T13:18:13+08:00",
+     "description": "獨／藍白竹北撕破臉！鄭麗文下令：國民黨禁止幫邱臣遠站台  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
+   "id": "f769a240a8a0",
+   "title": "交棒前傳噩耗！高雄10連霸里長「狄老大」辭世 里民不捨",
+   "outlet_count": 3,
+   "outlets": [
+    "chinatimes",
+    "mirror",
+    "tvbs"
+   ],
+   "article_count": 3,
+   "first_seen": "2026-09-29T16:21:00+08:00",
+   "last_updated": "2026-09-30T11:11:03+08:00",
+   "tags": [
+    "連霸里長",
+    "狄老大",
+    "議員不捨"
+   ],
+   "articles": [
+    {
+     "title": "高雄10連霸里長「狄老大」逝世 議員不捨哀悼：才剛大口吃生日蛋糕",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY3V3SlZ4dnlrQ3NxOHJ0ZzJINHNTSGdYYzAyZFVCUVhqLUllcEkyWGRNZWc4ZTlzQzRqVV9jakg4UEVjemhoVjdFWFZRZkpfbk1NU19zWWVXMUZ5d1loTVlWZHFwOEpoUkppTnpoSEttYUhtYld4WnJ2ZFhhbFYzY2lyNm5zVThRNzgyUkNZVQ?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-09-30T11:11:03+08:00",
+     "description": "高雄10連霸里長「狄老大」逝世 議員不捨哀悼：才剛大口吃生日蛋糕  chinatimes.com",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "才剛切完生日蛋糕…高雄10連霸里長「狄老大」過世　議員不捨喊：您沒有走，只是去消遙",
+     "link": "https://www.mirrormedia.mg/story/20260930edi006",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-09-30T09:55:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "交棒前傳噩耗！高雄10連霸里長「狄老大」辭世 里民不捨",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Hb2FvMTFEYjJyNzY1cy1zdGx2UmRhYndNVVRUOFkyR0RsaXRtdnQwRlFMT3c3ME1NbWpreU5jTWlrSFFvc1dBNFhlbXR1OFhVUEo0?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-09-29T16:21:00+08:00",
+     "description": "交棒前傳噩耗！高雄10連霸里長「狄老大」辭世 里民不捨  TVBS新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
    "id": "9a090aa439e9",
    "title": "拚到最後一發無緣奪金 楊昆弼亞運不定向飛靶摘銀",
    "outlet_count": 3,
@@ -8028,12 +8591,12 @@
    ],
    "articles": [
     {
-     "title": "亞運／射擊楊昆弼1分差遭逆轉 奪銀有點不甘心",
-     "link": "https://news.ebc.net.tw/news/sport/573516",
+     "title": "亞運／射擊楊昆弼不定向飛靶奪銀 拳擊陳念琴首闖金牌戰",
+     "link": "https://news.ebc.net.tw/news/sport/573515",
      "source": "ebc",
      "source_name": "東森新聞",
      "published": "2026-09-30T09:10:12.978906+08:00",
-     "description": "名古屋亞運射擊好手楊昆弼29日摘下男子不定向飛靶銀牌，可惜僅以1分之差遭逆轉錯失金牌，他表示有點不甘心，不過30日還有混雙賽事，希望獎牌成色更上層樓。",
+     "description": "名古屋亞運射擊男子不定向飛靶，台灣好手楊昆弼今天決賽以1分之差遭到逆轉拿到銀牌、暌違8年再登亞運頒獎台，而「拳擊女王」陳念琴則首闖亞運金牌戰。",
      "category": "sport",
      "metadata": {
       "schema_version": 1,
@@ -8047,12 +8610,12 @@
      }
     },
     {
-     "title": "亞運／射擊楊昆弼不定向飛靶奪銀 拳擊陳念琴首闖金牌戰",
-     "link": "https://news.ebc.net.tw/news/sport/573515",
+     "title": "亞運／射擊楊昆弼1分差遭逆轉 奪銀有點不甘心",
+     "link": "https://news.ebc.net.tw/news/sport/573516",
      "source": "ebc",
      "source_name": "東森新聞",
      "published": "2026-09-30T09:10:12.978906+08:00",
-     "description": "名古屋亞運射擊男子不定向飛靶，台灣好手楊昆弼今天決賽以1分之差遭到逆轉拿到銀牌、暌違8年再登亞運頒獎台，而「拳擊女王」陳念琴則首闖亞運金牌戰。",
+     "description": "名古屋亞運射擊好手楊昆弼29日摘下男子不定向飛靶銀牌，可惜僅以1分之差遭逆轉錯失金牌，他表示有點不甘心，不過30日還有混雙賽事，希望獎牌成色更上層樓。",
      "category": "sport",
      "metadata": {
       "schema_version": 1,
@@ -8131,7 +8694,7 @@
    "first_seen": "2026-09-30T04:51:32+08:00",
    "last_updated": "2026-09-30T09:10:12.978906+08:00",
    "tags": [
-    "作將損害美企",
+    "將損害美企利",
     "維持領先地位",
     "川普稱美中"
    ],
@@ -8192,669 +8755,63 @@
    ]
   },
   {
-   "id": "c33fc00fc98e",
-   "title": "OpenAI推出新中階AI模型　價格僅旗艦產品1/5",
+   "id": "68bf07b0a6bd",
+   "title": "客戶變股東！亞馬遜首次參與金像電私募",
    "outlet_count": 3,
    "outlets": [
-    "cna",
-    "ettoday",
-    "ltn"
-   ],
-   "article_count": 3,
-   "first_seen": "2026-09-30T04:50:30+08:00",
-   "last_updated": "2026-09-30T05:46:00+08:00",
-   "tags": [
-    "價格僅旗艦產",
-    "推出新中階",
-    "模型"
-   ],
-   "articles": [
-    {
-     "title": "OpenAI推出新中階AI模型　價格僅旗艦產品1/5",
-     "link": "https://ai.ettoday.net/news/3246108",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-09-30T05:46:00+08:00",
-     "description": "聊天機器人ChatGPT開發商OpenAI因安全疑慮取消次世代人工智慧（AI）模型GPT-6.1 Astra發表計畫後，今天推出一款新的中階AI模型，價格僅為其旗艦產品的1/5。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "OpenAI推出新中階AI模型 價格僅旗艦產品1/5",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fYzEyMEFhNnBoZ0U4MTJqZlpVR3owTmNBN2NTNGttWkxlcjByeHNlSnZLZkdBY3VNSGM5eVkxRVYzaWRrbkJpYlA1WXRTSTd6QU5hUVZ3dWo?oc=5",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-09-30T05:03:11+08:00",
-     "description": "OpenAI推出新中階AI模型 價格僅旗艦產品1/5  自由時報",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:ltn.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "OpenAI推出新中階AI模型　價格僅旗艦產品1/5",
-     "link": "https://www.cna.com.tw/news/aopl/202609300005.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-09-30T04:50:30+08:00",
-     "description": "（中央社舊金山29日綜合外電報導）聊天機器人ChatGPT開發商OpenAI因安全疑慮取消次世代人工智慧（AI）模型GPT-6.1 Astra發表計畫後，今天推出一款新的中階AI模型，價格僅為其旗艦產品的1/5。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
-     }
-    }
-   ]
-  },
-  {
-   "id": "fdd44627e595",
-   "title": "傳台積擬赴德州設第2園區 再蓋6座晶圓廠",
-   "outlet_count": 3,
-   "outlets": [
-    "ettoday",
+    "ltn",
     "mirror",
-    "udn"
-   ],
-   "article_count": 3,
-   "first_seen": "2026-09-29T00:26:56+08:00",
-   "last_updated": "2026-09-30T00:45:00+08:00",
-   "tags": [
-    "德州設第",
-    "晶圓廠",
-    "台積電"
-   ],
-   "articles": [
-    {
-     "title": "台積電傳將在德州設第2園區　國科會回應了：根留台灣政策不變",
-     "link": "https://finance.ettoday.net/news/3246090",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-09-30T00:45:00+08:00",
-     "description": "市場傳出台積電（2330）擬啟動美國第2園區建廠計畫，落腳德州達拉斯，甚至規劃興建6座先進晶圓廠。對此，國科會主委吳誠文29日回應，德州確實已有半導體產業基礎，可能成為台積電評估地點之一，不過是否赴德州投資，仍須由台積電董事會決定並對外宣布。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "再傳赴德州蓋六座先進晶圓廠 台積電未回應供應商這麼說",
-     "link": "https://www.mirrormedia.mg/story/20260929-176fin-115114",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-09-29T11:54:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "傳台積擬赴德州設第2園區 再蓋6座晶圓廠",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jamRXWjl4NHh3UFhpZjdaa09yMTZUWnVqUXNZWEpubkFXeUp6N0tXcmtYRW5xWU9YN2NodzVCXzRkeTJNSTRLQXlqNTJsOGtU0gFWQVVfeXFMTVVvQW13NlBPbVRjazZrWUJ5M0VvUDJsOTBWWW1RMUd6dEZ1aFZmTkJCYmY1VXdzel9tMEhtcUVIOXdCbTdlNzVGZFBYSUR5SnJDM1poemc?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-09-29T00:26:56+08:00",
-     "description": "傳台積擬赴德州設第2園區 再蓋6座晶圓廠  UDN",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
-   "id": "7706c27963d3",
-   "title": "教師節威力彩頭獎2億！9/28今彩539、3星彩、4星彩最新獎號一次對",
-   "outlet_count": 3,
-   "outlets": [
-    "ebc",
-    "ltn",
-    "nownews"
-   ],
-   "article_count": 6,
-   "first_seen": "2026-09-28T19:00:00+08:00",
-   "last_updated": "2026-09-30T00:35:11.292146+08:00",
-   "tags": [
-    "頭獎",
-    "今彩",
-    "中獎"
-   ],
-   "claims": [
-    {
-     "type": "金額",
-     "agree": true,
-     "outlet_count": 2,
-     "values": [
-      {
-       "value": "800萬元",
-       "outlets": [
-        "東森新聞",
-        "自由時報"
-       ]
-      }
-     ]
-    }
-   ],
-   "articles": [
-    {
-     "title": "財神爺發錢！今彩539「800萬頭獎」2注中獎",
-     "link": "https://news.ebc.net.tw/news/living/573504",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-09-30T00:35:11.292146+08:00",
-     "description": "今彩539第115236期開獎，中獎號碼13、28、06、26、17；派彩結果，頭獎2注中獎，每注獎金新台幣800萬元。",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "9/29大樂透貳獎在台中、高雄！百萬紅包送4組　中獎彩券行一次看",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZUHJUWUVnU0xnOWZmMnBGdXFDZDI5cTBuZDhpMk9QVkY3dEVZaVNjMFZLM1ctY3NfenBkTkJLVmNsTnFSTWtacEV6a2NnZDU0SFHSAVJBVV95cUxPWVByVFlFZ1NMZzlmZjJwRnVxQ2QyOXEwbmQ4aTJPUFZGN3RFWWlTYzBWSzNXLWNzX3pwZE5CS1ZjbE5xUk1rWnBFemtjZ2Q1NEhR?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-09-29T22:23:30+08:00",
-     "description": "9/29大樂透貳獎在台中、高雄！百萬紅包送4組　中獎彩券行一次看  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "9/29 今彩539頭獎開2注！800萬獎落花蓮、台北 中秋加碼開4組",
-     "link": "https://news.ltn.com.tw/news/society/breakingnews/5590046",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-09-29T22:17:33+08:00",
-     "description": "9月29日開獎的第115000236期今彩539頭獎開2注，由花蓮縣花蓮市國富里莊敬路48號1樓「鑫旺旺彩券行」及台北市士林區社子街19號1樓「宏億彩券行」開出。第1150000...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "大樂透9/29中秋加碼來了！「頭獎2億、百萬紅包51組」獎號一覽",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9BaTN3V21iOGZ1THZqdkJKRktBbTlaZENldE9JX243cWU2WGNCeXloME9sQ1kweEpfMkZpUjdrSUlzaG5jTHM3dEJ4REjSAVJBVV95cUxNRXl5Nmd5dDZCM3RTR3JGLVV2cXFoVlVyMVZ1TXhEUzZvVjd6NkdjaHpZaDVoX2RTcy1YMWh2dkRPQW1UaFZXWTlvV2hfZVAtRE1R?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-09-29T19:15:00+08:00",
-     "description": "大樂透9/29中秋加碼來了！「頭獎2億、百萬紅包51組」獎號一覽  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "9/28今彩539頭獎1注獨得！800萬獎落雲林縣　中獎彩券行出爐",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBpeVRUOTlqS3NJWTRldDlLc0lIY2JkOWU4RGdmOXdTb1YxcjNEYUFhZDQ3N201QlB2ckdIQ1dVZUZvQ09Fd2UwSk5jdFbSAVJBVV95cUxORXB6eEFlWEszZDZhNmJILVpoa2JHOTJsRGprV2FvZ0FuX21tSkhnTW8zLUttTmNCNEEzNkp6R0NTZnhRdFUxUmFmUTdTd253UTl3?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-09-28T22:19:33+08:00",
-     "description": "9/28今彩539頭獎1注獨得！800萬獎落雲林縣　中獎彩券行出爐  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "教師節威力彩頭獎2億！9/28今彩539、3星彩、4星彩最新獎號一次對",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1wZk80Wi1CdllLVHhoU0lrb2JmVEJtbVRyN0xSWThnS2FoRmZ0dnphRnJKRU03QXM5WDQyX0lpNGZWUXh2Wk9MWm40T0jSAVJBVV95cUxNRnJKdktmbWJyQWstRm9NQ1U3R3lIMjR6RUlQN3RwWmk3MXRBV1lPaDhLU0VGVUFIbWdZN3NVZ0I4N2hQZjd4bGNmcU05TG9NSjVn?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-09-28T19:00:00+08:00",
-     "description": "教師節威力彩頭獎2億！9/28今彩539、3星彩、4星彩最新獎號一次對  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
-   "id": "f4bdc79cbf92",
-   "title": "高鐵單日旅運創新高 自由座旅客站進商務車廂惹議",
-   "outlet_count": 3,
-   "outlets": [
-    "ltn",
-    "newtalk",
-    "nownews"
-   ],
-   "article_count": 5,
-   "first_seen": "2026-09-27T16:11:49+08:00",
-   "last_updated": "2026-09-29T23:40:27+08:00",
-   "tags": [
-    "自由座旅客",
-    "商務車廂",
-    "高鐵"
-   ],
-   "articles": [
-    {
-     "title": "自由座旅客擠進高鐵商務車廂 律師謝祐綸：可主張部分退費",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5590080",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-09-29T23:40:27+08:00",
-     "description": "中秋連假約有30名自由座旅客擠進高鐵商務車廂站立，高鐵並為此致歉。律師謝祐綸指出，若人潮影響商務車廂的乘車品質，乘客可從運送契約切入，討論向高鐵請求部分退費或補償。\n\n高鐵...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "高鐵中秋連假爆人潮！自由座旅客外溢商務艙惹議公司回應了| 生活",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OU0Fvei1PX1hfNnZkRkVnZXBONzlKdDIwR01vQmNUZ19naEthcXEteWpvS2xZZzBHczNSLUtHU0RlYW9Sb0NsZmJfZFFuZmlLT1ZKYXVTTEdTNjA?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-09-27T17:58:55+08:00",
-     "description": "高鐵中秋連假爆人潮！自由座旅客外溢商務艙惹議公司回應了| 生活  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "玄關塞爆擠到商務車廂  高鐵致歉、籲自由座旅客分流搭乘",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5587787",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-09-27T17:43:20+08:00",
-     "description": "中秋節4天連續假期出遊、返鄉人潮超多，但也發生商務車廂旅客抱怨，車廂內有自由座旅客站立狀況，高鐵公司致歉並表示，共有6班次、約30位自由座旅客因玄關已無空間，因此在商務車廂站立...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "中秋塞爆！30位自由座旅客闖入商務遭驅趕　高鐵今致歉將加強宣導",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tNWRPczYza3VGVUo5NUpQOE5zMmgxS1ZyN2tyNE1ja0N5MktZX1BLeWYyVkJZR1RiTFVqZm1XUllhNERlU1ZqZFItRjJvbVh3MmfSAVJBVV95cUxObTVkT3M2M2t1RlVKOTVKUDhOczJoMUtWcjdrcjRNY2tDeTJLWV9QS3lmMlZCWUdUYkxVamZtV1JZYTREZVNWamRSLUYyb21YdzJn?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-09-27T17:25:37+08:00",
-     "description": "中秋塞爆！30位自由座旅客闖入商務遭驅趕　高鐵今致歉將加強宣導  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "高鐵單日旅運創新高 自由座旅客站進商務車廂惹議",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5587500",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-09-27T16:11:49+08:00",
-     "description": "台灣高鐵單日旅運量創下歷史新高，但也引發爭議，有商務車廂旅客抱怨，自由座旅客站到商務車廂，要求自由座旅客應補票。事實上，高鐵有明文規定，商務車廂不可站立。\n\n今年中秋及教師節連續假期自9...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    }
-   ]
-  },
-  {
-   "id": "bdd40fba68ad",
-   "title": "我國科學園區今年上半年度營收再創新高 衝破3.54兆元",
-   "outlet_count": 3,
-   "outlets": [
-    "ltn",
-    "newtalk",
-    "nownews"
-   ],
-   "article_count": 3,
-   "first_seen": "2026-09-29T00:09:00+08:00",
-   "last_updated": "2026-09-29T17:55:28+08:00",
-   "tags": [
-    "科學園區",
-    "營收",
-    "半年"
-   ],
-   "claims": [
-    {
-     "type": "金額",
-     "agree": false,
-     "outlet_count": 3,
-     "values": [
-      {
-       "value": "3.54兆元",
-       "outlets": [
-        "新頭殼",
-        "自由時報"
-       ]
-      },
-      {
-       "value": "7.56兆元",
-       "outlets": [
-        "今日新聞"
-       ]
-      }
-     ]
-    }
-   ],
-   "articles": [
-    {
-     "title": "AI動能強勁科學園區上半年營收3.54兆元創同期新高| 財經",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIc0RhMGd5OU1aX003eVlxTUpoTDUyaHhNVEs5bVExaENGalItcUQ3QnhRaE9uVUhENl9wR18zUHVkMXllN20zRlFpemJ5YTZTZk1rcDJVeW1sdnc?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-09-29T17:55:28+08:00",
-     "description": "AI動能強勁科學園區上半年營收3.54兆元創同期新高| 財經  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "國科會看好科學園區全年營收上看7.56兆元　美光爭議全力協助",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBoc1Q2ZHNRdjFHZUNKc3dJdXlTaDBiSVVxZkR2NVNKSXh0NVpycWNyRktyX3FycHJCTFp3aUVNaGRWZWNzSkdMNFBZUm3SAVJBVV95cUxQMnZzN0RERTJOWGpYNnVreG1vVFZMMThQcnBhbHgyUURrdnZFWVRqLUExOS1wT3dLRE93Q2N0MndKSm1PM2JnRVlvQzJPV2puMHN3?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-09-29T16:44:53+08:00",
-     "description": "國科會看好科學園區全年營收上看7.56兆元　美光爭議全力協助  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "我國科學園區今年上半年度營收再創新高 衝破3.54兆元",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HNHhESERLendpTzZmaWtlUWhmaFB6UmZVbGQ1OE9adzlnaHotREdZRk5GZ3A4bG5HNUF4R1pfMzV2VlZ2VXhRVVhhY2Q0MWQ3cEFqWGZ0Y2Y?oc=5",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-09-29T00:09:00+08:00",
-     "description": "我國科學園區今年上半年度營收再創新高 衝破3.54兆元  自由時報",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:ltn.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
-   "id": "77aec87d7303",
-   "title": "黃金跌破4100美元只是開始？法興警告跌勢未完 關鍵支撐曝光",
-   "outlet_count": 3,
-   "outlets": [
-    "ltn",
-    "nownews",
-    "storm"
-   ],
-   "article_count": 3,
-   "first_seen": "2026-09-28T17:41:00+08:00",
-   "last_updated": "2026-09-29T17:53:41+08:00",
-   "tags": [
-    "黃金跌破",
-    "跌勢未完",
-    "法興警告"
-   ],
-   "articles": [
-    {
-     "title": "現貨黃金跌破4100美元，現在可以買了嗎？專家曝光「甜蜜區」：築底關鍵是這裡| 下班經濟學| 財經",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE13MGhDYWVNWUItWnpRWDRoaWJwVVFTUmpyUF9kTHg5UWcxbDBBQlNtR0tSX0pxSDE3SEFVOXZsNXhycXloal8zbUxoSTlXZw?oc=5",
-     "source": "storm",
-     "source_name": "風傳媒",
-     "published": "2026-09-29T17:53:41+08:00",
-     "description": "現貨黃金跌破4100美元，現在可以買了嗎？專家曝光「甜蜜區」：築底關鍵是這裡| 下班經濟學| 財經  Storm.mg",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "黃金暴跌4%創近2月新低！法興警告「跌勢未完」　關鍵防線曝光",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5pejdtenlNSTBJU25yTFBQZnBnN3dRN0Q5S05KczF4RFVqWEFiSXg5eWdSeTJaTkxVSzZ4ZHRPX3NqbmJoTVJhdGlUV3PSAVJBVV95cUxQaWpTRGpfeloxMWZnT1BzeW11SVo0YVB5dGgzNU10ZkhBQXZhWVJRVFFzM2VHV2JWcmlrek1kMXdveDZoSUNic2I1T3VSSlZmM3R3?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-09-29T09:57:04+08:00",
-     "description": "黃金暴跌4%創近2月新低！法興警告「跌勢未完」　關鍵防線曝光  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "黃金跌破4100美元只是開始？法興警告跌勢未完 關鍵支撐曝光",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Falk0SFFvay1IT3l3cHhtNnV4R2xWdDN6bjR1aFFzbE1QR0wxekxkRUx6MllJSlN6WmU4VWp6Wl9pVUppTldHWEhCVHpyVzlBU1FPUDRhRkU?oc=5",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-09-28T17:41:00+08:00",
-     "description": "黃金跌破4100美元只是開始？法興警告跌勢未完 關鍵支撐曝光  自由時報",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:ltn.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
-   "id": "940beea5a902",
-   "title": "外交部：對邦交國努力到最後　尼加拉瓜轉向中國才斷交",
-   "outlet_count": 3,
-   "outlets": [
-    "cna",
-    "ettoday",
-    "udn"
-   ],
-   "article_count": 3,
-   "first_seen": "2026-09-29T12:41:39+08:00",
-   "last_updated": "2026-09-29T14:30:59+08:00",
-   "tags": [
-    "尼加拉瓜",
-    "努力到最後",
-    "外交部"
-   ],
-   "articles": [
-    {
-     "title": "外交部：對邦交國努力到最後　尼加拉瓜轉向中國才斷交",
-     "link": "https://www.cna.com.tw/news/aipl/202609290156.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-09-29T14:30:59+08:00",
-     "description": "（中央社記者楊堯茹台北29日電）媒體報導，駐尼加拉瓜前大使吳進木遺作指蔡政府未致賀電給尼加拉瓜總統奧蒂嘉，才導致尼加拉瓜與台灣於2021年斷交。外交部今天表示，政府對所有邦交國一定是努力到最後。奧蒂嘉罔顧與台情誼、轉向中國，政府為維護國家尊嚴，才終止外交關係。",
-     "author": "楊堯茹",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "楊堯茹",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
-     }
-    },
-    {
-     "title": "前大使遺作曝「台灣主動放棄尼加拉瓜」　外交部駁：努力到最後一刻",
-     "link": "https://www.ettoday.net/news/20260929/3245816.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-09-29T14:22:00+08:00",
-     "description": "我國前駐尼加拉瓜大使吳進木遺作指控，台灣選擇與美國站在一起，主動放棄尼加拉瓜。對此，外交部副發言人陳怡君今（29日）強調，外交部對所有邦交國一定都是努力到最後一刻。針對吳進木的指控，以監察院調查結果為主。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "證實因轉向中國主動放棄邦交 外交部今批尼加拉瓜獨裁統治",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zWDNxMHVPbnZIUkpWQlY4MEtUbklUZlVoV1pJWW9HdjhubDdlSVMwU0FDRmJwUjJrX2hfN3lHOTl5M21LemhpUFRkVzFvQldU0gFWQVVfeXFMUHp6bWt5Q2JVMUJuN3doVnloZGplUTF6cGNaakQ1eUNjeDFka0ZOYktZSWdMX1VnVHN3c1FLMDRCYVB1Mk9JSDBfNTlBQk4tYVI2STdVNHc?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-09-29T12:41:39+08:00",
-     "description": "證實因轉向中國主動放棄邦交 外交部今批尼加拉瓜獨裁統治  UDN",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
-   "id": "b19588b973d5",
-   "title": "洋流到台中會欣潮沈伯洋合體何欣純人潮從審計新村擠爆到市民廣場| 選舉",
-   "outlet_count": 3,
-   "outlets": [
-    "ettoday",
-    "mirror",
-    "newtalk"
+    "tvbs"
    ],
    "article_count": 4,
-   "first_seen": "2026-09-27T11:19:07+08:00",
-   "last_updated": "2026-09-29T06:36:00+08:00",
+   "first_seen": "2026-09-29T03:34:00+08:00",
+   "last_updated": "2026-09-30T07:40:00+08:00",
    "tags": [
-    "合體何欣純",
-    "沈伯洋",
-    "台中"
+    "亞馬遜",
+    "金像電私募",
+    "股東"
    ],
    "articles": [
     {
-     "title": "沈伯洋「台中場地還沒借」就先被追殺　核心幹部揭內幕",
-     "link": "https://www.ettoday.net/news/20260929/3245465.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-09-29T06:36:00+08:00",
-     "description": "民進黨台北市長參選人沈伯洋掀起的「洋流」外溢效應發酵！他27日南下台中，與黨內台中市長參選人何欣純合體，沿路走讀審計新村，沿著勤美綠園道走到市民廣場，現場支持人潮擠爆，短短1公里路程，兩人走了近1小時才抵達。何欣純競辦核心幹部透露，10天前，沈伯洋赴台中即將合體何欣純的消息曝光後，當時連場地都還沒借到，競辦的電話就被打爆，甚至還有幹部被多年的綠營支持者追殺、逼問活動地點，讓幹部吃驚直呼：「根本不用",
+     "title": "PCB大廠發重訊！亞馬遜「砸近16億」私募入股 從客戶躍升股東",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhdHRlVzdWLXNXWUdPc2p2dkdvQ3NYVE9SU3QyTXNkNzJtNnhZNGdhNU5ac2lCMmY2VnJZYUpXcWxmNGo3ejFQRTFkejVTMkU?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-09-30T07:40:00+08:00",
+     "description": "PCB大廠發重訊！亞馬遜「砸近16億」私募入股 從客戶躍升股東  TVBS新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
-     "title": "洋流外溢發酵1／曝沈伯洋赴台中合體何欣純內幕　場地都還沒借到就被支持者追殺",
-     "link": "https://www.mirrormedia.mg/story/20260928-163inv-191548",
+     "title": "焦點股》金像電：亞馬遜私募價856元太低？下殺近5％",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MVklFSVNqUWpha2tVWWJQWDFVdGM5NmFleEotR2VTMHJRUnNaNmwwUUM1aS0xaHVEZFlqcjMzMGhCWGlWLXBSS3hFc3JEMEFHNm92M09zVXc?oc=5",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-09-29T20:01:00+08:00",
+     "description": "焦點股》金像電：亞馬遜私募價856元太低？下殺近5％  自由時報",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:ltn.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "金像電私募引進亞馬遜　認購價八五六元",
+     "link": "https://www.mirrormedia.mg/story/20260929-176fin-185338",
      "source": "mirror",
      "source_name": "鏡週刊",
-     "published": "2026-09-28T19:30:00+08:00",
+     "published": "2026-09-29T18:55:00+08:00",
      "description": "",
      "metadata": {
       "schema_version": 1,
@@ -8867,12 +8824,12 @@
      }
     },
     {
-     "title": "合體何欣純憶亡母淚灑台中沈伯洋：請大家幫我媽媽投欣純姐一票| 選舉",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3aHprOUx1bEFESUh0amF2d1lmdy1EdHMxbjhBdjlLWTZ3dnJjeU5DRl9iMXc0Zkl6VjNNMEVaS0pOdEdJcWN4NmpfTUwyUmQtaXlJM29wSmJtWlU?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-09-27T15:32:34+08:00",
-     "description": "合體何欣純憶亡母淚灑台中沈伯洋：請大家幫我媽媽投欣純姐一票| 選舉  Newtalk新聞",
+     "title": "客戶變股東！亞馬遜首次參與金像電私募",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1dDNoNnMzWlZsMUoyV1FHQVo5ZkpvS0hPU2VlbnNOQklmSF9Eb2dEQXFWdVZxdXh6bnRLSmNUMm9lUE1TNEpwelZSeUxQeXdpZVhQcGNyTFM?oc=5",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-09-29T03:34:00+08:00",
+     "description": "客戶變股東！亞馬遜首次參與金像電私募  自由時報",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -8880,24 +8837,7 @@
        "source": "unknown"
       },
       "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "洋流到台中會欣潮沈伯洋合體何欣純人潮從審計新村擠爆到市民廣場| 選舉",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJQm9uallQZEtkZmExQ2R6OFN0bG11N2xTWm4xQm1DTjVwcm1uOThJdGIwZUdyTElqSFlOZmt6cEJrM2owaU5LYzR1OEdYT0Mya08xcWJpa2dYVnc?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-09-27T11:19:07+08:00",
-     "description": "洋流到台中會欣潮沈伯洋合體何欣純人潮從審計新村擠爆到市民廣場| 選舉  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "feed_url": "https://news.google.com/rss/search?q=site:ltn.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
