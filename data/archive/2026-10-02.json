@@ -1,6 +1,6 @@
 {
  "date": "2026-10-02",
- "generated_at": "2026-10-02T02:38:30.722454+08:00",
+ "generated_at": "2026-10-02T04:34:00.529155+08:00",
  "events": [
   {
    "id": "3dd6d83dcf2d",
@@ -235,7 +235,7 @@
    ]
   },
   {
-   "id": "1cec973c6371",
+   "id": "7a454f2726cd",
    "title": "DMZ北韓地雷炸傷南韓軍人　聯合國軍認定違反停戰協定",
    "outlet_count": 12,
    "outlets": [
@@ -252,13 +252,39 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 174,
-   "first_seen": "2026-09-29T02:43:22+08:00",
-   "last_updated": "2026-10-02T01:24:00+08:00",
+   "article_count": 189,
+   "first_seen": "2026-09-29T06:28:39.463216+08:00",
+   "last_updated": "2026-10-02T02:45:03+08:00",
    "tags": [
     "新聞網"
    ],
    "claims": [
+    {
+     "type": "最大震度",
+     "agree": false,
+     "outlet_count": 4,
+     "values": [
+      {
+       "value": "2",
+       "outlets": [
+        "新頭殼",
+        "鏡週刊"
+       ]
+      },
+      {
+       "value": "3",
+       "outlets": [
+        "東森新聞"
+       ]
+      },
+      {
+       "value": "1",
+       "outlets": [
+        "中央社"
+       ]
+      }
+     ]
+    },
     {
      "type": "金額",
      "agree": false,
@@ -277,9 +303,42 @@
        ]
       }
      ]
+    },
+    {
+     "type": "地震規模",
+     "agree": true,
+     "outlet_count": 4,
+     "values": [
+      {
+       "value": "5.9",
+       "outlets": [
+        "TVBS",
+        "中央社",
+        "新頭殼",
+        "鏡週刊"
+       ]
+      }
+     ]
     }
    ],
    "articles": [
+    {
+     "title": "川普稱杜拜航空喋血事件疑和伊朗有關　若屬實將狠狠打擊",
+     "link": "https://news.ltn.com.tw/news/world/breakingnews/5592662",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-10-02T02:45:03+08:00",
+     "description": "美國總統川普今天被問及杜拜航空（flydubai）駕駛艙喋血事件時表示，根據他聽到的消息，這起事件與伊朗有關，「我們現在正在處理」。若證實德黑蘭確實涉入，川普揚言，「他們將遭受非常沉重的打擊...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
     {
      "title": "32歲弟離奇猝死3000萬遺產全轉他名下　堂哥PO「千鈔鋪床」照",
      "link": "https://www.ettoday.net/news/20261002/3247504.htm",
@@ -295,6 +354,23 @@
       },
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "試譯 王勃 山中 - kkuo0810的部落格",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0ekdzWGtYc3V4WGVrbnpaYTVPYWd6Q1NDeFRqbTBOdkZUb2JLRG5xNW5xSU1PZFpOQUNkbWRGenIzbk1abjZDT1VPUGhhdWxf?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-10-02T00:43:06+08:00",
+     "description": "試譯 王勃 山中 - kkuo0810的部落格  udn部落格",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
@@ -414,40 +490,6 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "2026.10.01 - vickych2006 的部落格",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1VR3F1WXFWb2lIMElrcm9sSTJIcFJQbGJ1Vm5NUFI2NUVyQWp1T3YwaWNTVndBZXc5SDlpUDFXWUJOcWVjS2JFMTBwQmNwWUFzODJUeg?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-10-01T21:20:04+08:00",
-     "description": "2026.10.01 - vickych2006 的部落格  udn部落格",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "指脫歐「弊多於利」 英相柏南拋重返歐盟構想",
-     "link": "https://news.pts.org.tw/article/829563",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-10-01T21:12:27+08:00",
-     "description": "在英國脫歐超過6年之後，新任首相柏南拋出震撼彈，坦言英國脫歐「弊多於利」，目前正在考慮重返歐盟的各種選項，包括再度舉辦公投。目前英國有5成以上民意贊成重新加入歐盟，法國和西班牙也立刻表示歡迎。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
      }
     }
    ]
@@ -1037,7 +1079,7 @@
      "source": "setn",
      "source_name": "三立新聞網",
      "published": "2026-10-01T10:10:00+08:00",
-     "description": "營養午餐又出包？民族國小9學生嘔吐　蔣萬安：醫生初判就是腸胃炎…  三立新聞",
+     "description": "營養午餐又出包？民族國小9學生嘔吐　蔣萬安：醫生初判就是腸胃炎…  三立新聞網SETN.com",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -1449,256 +1491,6 @@
       "acquisition": "scraper",
       "category": "society",
       "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    }
-   ]
-  },
-  {
-   "id": "87666e472174",
-   "title": "東部海域規模5.9地震　北捷未受影響正常營運",
-   "outlet_count": 9,
-   "outlets": [
-    "cna",
-    "ebc",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "newtalk",
-    "nownews",
-    "setn",
-    "tvbs"
-   ],
-   "article_count": 16,
-   "first_seen": "2026-09-29T02:41:30+08:00",
-   "last_updated": "2026-09-30T17:07:00+08:00",
-   "tags": [
-    "地震",
-    "規模",
-    "花蓮"
-   ],
-   "claims": [
-    {
-     "type": "地震規模",
-     "agree": false,
-     "outlet_count": 5,
-     "values": [
-      {
-       "value": "5.9",
-       "outlets": [
-        "TVBS",
-        "中央社",
-        "新頭殼",
-        "鏡週刊"
-       ]
-      },
-      {
-       "value": "5",
-       "outlets": [
-        "自由時報"
-       ]
-      }
-     ]
-    },
-    {
-     "type": "最大震度",
-     "agree": false,
-     "outlet_count": 5,
-     "values": [
-      {
-       "value": "3",
-       "outlets": [
-        "東森新聞",
-        "自由時報"
-       ]
-      },
-      {
-       "value": "2",
-       "outlets": [
-        "新頭殼",
-        "鏡週刊"
-       ]
-      },
-      {
-       "value": "1",
-       "outlets": [
-        "中央社"
-       ]
-      }
-     ]
-    }
-   ],
-   "articles": [
-    {
-     "title": "規模5.9地震「今年第2大」　專家：還有5.3顆原子彈能量待釋放",
-     "link": "https://www.ettoday.net/news/20260930/3246682.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-09-30T17:07:00+08:00",
-     "description": "花蓮外海今天下午發生芮氏規模5.9地震，宜花等5縣市最大震度達2級。地震專家郭鎧紋表示，5.9地震釋放約0.355顆原子彈能量，這是台灣今年第二大地震，而今年地震活動偏少，累計至今約2.7顆原子彈能量，台灣每年地震釋放能量平均值約8顆，剩下5.3顆若一次釋放，地震規模可達6.7。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "規模5.9地震「台日一起晃」 日本發布海嘯預報",
-     "link": "https://news.ebc.net.tw/news/world/573580",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-09-30T14:49:00.966009+08:00",
-     "description": "今（30）日13時整台灣東部海域發生規模5.9地震，震央位於台灣與日本沖繩與那島國之間，台、日兩國都有感，日本氣象廳更針對宮古島、八重山地方發布海嘯預報。",
-     "category": "world",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "world",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "花蓮外海5.9地震屬「獨立事件」　氣象署：3天內留意規模5餘震",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE83Sjhiek4zZ2psby1nU2l1UF9Ubnd4bUp4Znk2LU9FTFNCeHY5Q3JlMlU5eHp3RUl0RFAyWnIyTTAwcEtFSHhxOdIBTEFVX3lxTE56VEJ0bUJoYkFVeDlyMjI1ckJ1LVlSaFZYTlZ2bTB0NVVMTTJSLVhzdzFvQS05eHo4YnR1T1ZiMVVCMG1mZFBYRVIzZ3M?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-09-30T13:58:00+08:00",
-     "description": "花蓮外海5.9地震屬「獨立事件」　氣象署：3天內留意規模5餘震  三立新聞網SETN.com",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "當心餘震！規模5.9地震「台北市搖晃有感」　蔣萬安發聲了",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBMc2ZoQ01iU2ZGVFZNb0lkcUFSQ1hxU2ZHRGh5Q1RweEozbERPeG1ZUVVJeERBQlliTENvcUk1SmZZdDJKRU5iYdIBTEFVX3lxTFA4Tlg3ckE1MHBsYmxzdTN2NEh2N1F0aEpQRFdYNzc0NWZoOWJuSWtMbDRtV0FkbFE2cmxTS3FpejdwZVp5MEF5REpGbUg?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-09-30T13:53:00+08:00",
-     "description": "當心餘震！規模5.9地震「台北市搖晃有感」　蔣萬安發聲了  三立新聞網SETN.com",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "東部外海5.9地震「屬獨立事件」　氣象署：3天內防規模5餘震",
-     "link": "https://www.ettoday.net/news/20260930/3246448.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-09-30T13:20:00+08:00",
-     "description": "今天下午1時00分台灣東部海域發生芮氏規模5.9地震，中央氣象署地震測報中心主任吳健富表示，這起地震為獨立事件，主要成因是板塊碰撞在花蓮東部隱沒，造成東部有海盆、海溝仰擠，震央位於東南澳海盆東邊。他提醒，3天內還是要留意規模5餘震。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "台灣東部海域13:00地震！芮氏規模5.9　最大震度2級",
-     "link": "https://www.mirrormedia.mg/story/20260930edi019",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-09-30T13:20:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "花蓮外海規模5.9震 “極淺層”全台皆有感 地震預報中心最新說明｜LIVE",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xUU9SX1BqR01vLWJJUXZNN2NoZWRhVkhXODlLekcxeHM0THBQODVEazJtcEdlMG1uS0ROUThpUDRkYkg1SndhVVdMVmJHaURkRmgzbjVlQWxrY0JOWjJKQ3lQQS1tUUR5WDNzOGR1QmItRWZl?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-09-30T13:18:15+08:00",
-     "description": "花蓮外海規模5.9震 “極淺層”全台皆有感 地震預報中心最新說明｜LIVE  TVBS新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "東部海域規模5.9地震　北捷未受影響正常營運",
-     "link": "https://www.cna.com.tw/news/ahel/202609300112.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-09-30T13:16:25+08:00",
-     "description": "（中央社記者葉蓁芸台北30日電）根據中央氣象署最新資訊，今天下午1時台灣東部海域發生芮氏規模5.9地震，台北市地區最大震度1級。台北捷運公司表示，北捷系統未受影響，正常營運。",
-     "author": "葉蓁芸",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "葉蓁芸",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/local"
-     }
-    },
-    {
-     "title": "13:00花蓮外海規模5.9地震！和平震度2級　氣象署：3天內留意餘震",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5kZUpUdFk0b2FlWEtKVnNkVHktaW9GTHN2TmZWeGF0VTlxOHQxQ25fUlJuWjZVNVd0aHNjVEYzdnZnSEZiRXIxSml5WXDSAVJBVV95cUxNZllVQTd2NkZIcnBGOHFmNnVzd2RVWnpOYTRfdjBBWDEyWXFuQ2tYWW1OSXlBeFVHVHJQV1pKaFVJRGFncm83eldjdXNvbTNsX3JB?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-09-30T13:11:15+08:00",
-     "description": "13:00花蓮外海規模5.9地震！和平震度2級　氣象署：3天內留意餘震  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "快訊》13:00臺灣東部海域發生規模5.9有感地震 5縣市有感 最大震度2級",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSMWlmaDFmb0liWmRzT0dzMXdQWkJJUTg0TEUwUlg1T3Zhd1FseERFeWpNelJhM3FHUEZqVlFjcEp4NmRWYXRrREdxMXdEbEtYbmI4Qy12ZV9wNjg?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-09-30T13:08:16+08:00",
-     "description": "快訊》13:00臺灣東部海域發生規模5.9有感地震 5縣市有感 最大震度2級  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -2130,203 +1922,6 @@
    ]
   },
   {
-   "id": "101c3c0ceb28",
-   "title": "9/29天氣預報》今明熱飆36度！周四東北季風殺到　台北要下雨了",
-   "outlet_count": 7,
-   "outlets": [
-    "ebc",
-    "ettoday",
-    "ltn",
-    "nownews",
-    "setn",
-    "storm",
-    "tvbs"
-   ],
-   "article_count": 13,
-   "first_seen": "2026-09-29T04:18:00+08:00",
-   "last_updated": "2026-10-01T19:33:10+08:00",
-   "tags": [
-    "東北季風",
-    "天氣"
-   ],
-   "articles": [
-    {
-     "title": "清晨有感變天！2波東北季風接力雨神到 「彩霞」明增強成中颱",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5592441",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-10-01T19:33:10+08:00",
-     "description": "明天清晨起有感變天！中央氣象署預報，明起東北季風增強，清晨迎風面基隆北海岸就開始有雨，東北部明天也有大雨，下一波東北季風增強時間則是下週一（5日），降溫幅度更明顯。\n\n氣象...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "秋老虎要休息了！氣象署：週五起兩波東北季風接力　桃園以北有雨",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wR0phZXhVWjBYOWRTSXcxZ2puTjVYVDVSamNOUTNQVXROMkpBczJnQUVpYTNTTHY0WWRIOVNyYnlEaXJoWmFNdkZUUEZBV1phVWfSAVJBVV95cUxPcEdKYWV4VVowWDlkU0l3MWdqbk41WFQ1UmpjTlEzUFV0TjJKQXMyZ0FFaWEzU0x2NFlkSDlTcmJ5RGlyaFphTXZGVFBGQVdaYVVn?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-10-01T19:29:58+08:00",
-     "description": "秋老虎要休息了！氣象署：週五起兩波東北季風接力　桃園以北有雨  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "東北季風接力報到！金門未來一週日夜溫差大　10／3天氣才穩定",
-     "link": "https://www.ettoday.net/news/20261001/3247143.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-10-01T13:22:00+08:00",
-     "description": "隨著時間進入10月，東北季風逐漸增強，金門未來一週天氣將呈現「白天偏熱、夜間轉涼」型態，10月2日起風力增強並伴隨水氣，部分時段有零星短暫雨，民眾外出應留意天氣變化。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "國慶連假天氣出爐！氣象署：2波東北季風　北台灣下雨只剩20度",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16ZEhvT28xNWZ5RER0enRzdWQ1UjMwUU9pVHcyaENaRU9iS1VDUGtWTWZKcFlUaE04WjBETUdjdzRDMXlpOW1pWjNiUDlPNDF6MmfSAVJBVV95cUxNemRIb09vMTVmeUREdHp0c3VkNVIzMFFPaVR3MmhDWkVPYktVQ1BrVk1mSnBZVGhNOFowRE1HY3c0QzF5aTltaVozYlA5TzQxejJn?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-10-01T11:03:53+08:00",
-     "description": "國慶連假天氣出爐！氣象署：2波東北季風　北台灣下雨只剩20度  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "淑麗氣象／明起2波東北季風接力報到！入秋最強下探21度",
-     "link": "https://news.ebc.net.tw/news/living/573666",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-10-01T09:17:44.181983+08:00",
-     "description": "把握今日晴朗高溫，氣象署指出，今（1日）全台依舊受秋老虎籠罩，西半部局部高溫飆破36度，不過自明（2日）週五起，將有東北季風增強南下，北部及東半部隨即轉雨並降溫",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "明起連2波東北季風 北台灣降溫轉雨｜LIVE",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSV2RxT1hiRVVLSjNQMF9aMmtHMWs1SlFteVdRcENFSUE3NTRtWFlER1dQXzFsY1ZSYUFzSUU4OTNNWjdHNjNvNDV6SkdhNWxfUGJNd3lR?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-09-30T22:26:55+08:00",
-     "description": "明起連2波東北季風 北台灣降溫轉雨｜LIVE  TVBS新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "告別秋老虎！兩波東北季風接力「北部先轉雨」　下周一低溫探21度",
-     "link": "https://www.ettoday.net/news/20260930/3246799.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-09-30T21:59:00+08:00",
-     "description": "「秋老虎」還在發威，天氣卻即將迎來明顯轉折！中央氣象署表示，未來一周有兩波東北季風接力影響台灣，首波將於10月2日增強，桃園以北、東半部水氣增加並轉為有雨天氣；10月5日起第二波東北季風再增強，北台灣高溫將降至攝氏26至29度，宜蘭、北部低溫則下探約21至23度，天氣明顯轉涼。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "淑麗氣象／秋老虎準備回家！明晚起2波東北季風接力 天氣轉濕涼",
-     "link": "https://news.ebc.net.tw/news/living/573511",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-09-30T09:10:12.978906+08:00",
-     "description": "「秋老虎」出籠，這幾天都是陽光普照、烈日當空的好天氣，不過明日（10/1）晚間這頭秋老虎就要回家了，預計將迎來2波東北季風，天氣轉涼、水氣增加。",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "9/30天氣預報》明晚起「兩波東北季風」接力襲台　北台灣迎接雨勢",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA5SWhNbVh3QW8tam1TTDY0Yzc2Y0hZWWZ5RnFKaGJBUGxGc0xhN3Jfbk5pX2IyRkZpQjVkU0RBQ2poRTNZWW1xeEVlTlTSAVJBVV95cUxPeFRUdXZpT0xlYWdhaUNZYmVMcFI1UTJ4bUdPYnhrUFFILTFySlZsQmJTX2R2bnB1dlpXOHRCOVloNHhqTU90ejZwRGIxS2F1a3ZB?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-09-30T04:06:00+08:00",
-     "description": "9/30天氣預報》明晚起「兩波東北季風」接力襲台　北台灣迎接雨勢  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "週四東北季風殺到！2地被雨彈炸到下週　氣象署：熱帶擾動整合中",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4zT3BKaDZpT2xidXBrZFN3TVdBTnRacFo4QXVuMTdaVk1nTmo5RWxtY18xZ0k5bTZIZS1EQU5nSUd2YXgyOTRBOdIBTEFVX3lxTE1BaERjNFRsMHdMLW9IOFBoZENraTN3N1pQcmozbV9YeXg4M1ZZZW4tLUtQSlkweHFPa01HSE1vYy04UmFDaWk5RmFfMk4?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-09-29T17:59:00+08:00",
-     "description": "週四東北季風殺到！2地被雨彈炸到下週　氣象署：熱帶擾動整合中  三立新聞網SETN.com",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
    "id": "a2bfddc979d9",
    "title": "1分差射落勁敵南韓 台灣複合弓男團亞運銅牌入袋",
    "outlet_count": 7,
@@ -2349,12 +1944,12 @@
    ],
    "articles": [
     {
-     "title": "亞運／連退強敵闖金牌戰！射箭張正韋將強碰南韓名將",
-     "link": "https://news.ebc.net.tw/news/sport/573729",
+     "title": "亞運／台灣第1人！突破上屆第6名 張正韋射下複合弓銀牌",
+     "link": "https://news.ebc.net.tw/news/sport/573746",
      "source": "ebc",
      "source_name": "東森新聞",
      "published": "2026-10-01T14:50:06.468861+08:00",
-     "description": "亞運射箭複合弓男子個人賽今（1日）上演，台灣好手張正韋先於8強賽以1分險勝中國選手劉瑾一，隨後在4強準決賽再以精準箭法與沉穩心態，終場以1分之差氣走越南勁敵鄧公",
+     "description": "2026名古屋亞運複合弓男子個人對抗賽傳來振奮捷報！中華隊好手張正韋在今日賽事中發揮出色，一路過關斬將成功射進決賽，最終勇奪個人對抗賽銀牌，締造極為耀眼的亮眼戰",
      "category": "sport",
      "metadata": {
       "schema_version": 1,
@@ -2721,169 +2316,6 @@
    ]
   },
   {
-   "id": "47e30d07f6b0",
-   "title": "曾問習近平是否有意買美國武器？　川普：沒討論過",
-   "outlet_count": 7,
-   "outlets": [
-    "chinatimes",
-    "cna",
-    "ebc",
-    "ettoday",
-    "ltn",
-    "nownews",
-    "pts"
-   ],
-   "article_count": 8,
-   "first_seen": "2026-09-29T04:29:34+08:00",
-   "last_updated": "2026-09-29T20:00:11+08:00",
-   "tags": [
-    "買美國武器",
-    "問習近平",
-    "沒討論過"
-   ],
-   "articles": [
-    {
-     "title": "遭指曾問習近平買美武器意願 川普：從沒聽過這件事",
-     "link": "https://news.pts.org.tw/article/829206",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-09-29T20:00:11+08:00",
-     "description": "台灣緊盯美國對台軍售的進度，不過，在川習會後，美國駐中國大使龐德偉則透露，川普曾經問習近平有沒有興趣購買美國武器，引發議論，對於這說法，川普卻說從來沒聽說過，還接著又說，中國大概很想買。另一方面，美中經貿協議開始浮現具體內容，中國將調降多項美國農產品關稅，黃豆仍舊被排除在外。而中國也再度打出「貓熊外交」，2隻大貓熊已經抵達亞特蘭大。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "對台軍售仍未過！傳川普問習近平要不要買美製武器？外交部回應了",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE05QzE3QkhyN2FCQ2llekxraUVJVndOZlZ6SWJYbjdyeVRZVUl1Uy1TYmphVFU1Uy1qM3RyTXRWM2FRSUM2QjNCV0wzMUvSAVJBVV95cUxPNmhNVjhjY0dFMUpxZENuZ3hkYVZCRWVGWVRCdUhUNUo3MENPRDRrWFRVMTZtTzF6eUxnRWdVcDc4U2NUU0doeFhPTG5zc19uT2tR?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-09-29T15:03:56+08:00",
-     "description": "對台軍售仍未過！傳川普問習近平要不要買美製武器？外交部回應了  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "曾問習近平是否有意買美國武器？川普：沒討論過",
-     "link": "https://news.ebc.net.tw/news/world/573399",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-09-29T09:08:45.100439+08:00",
-     "description": "美國駐中國大使龐德偉昨天接受美媒訪問透露，總統川普曾詢問中國國家主席習近平「是否有意買些美國武器」。川普今天否認並說，從沒聽過這事，中國大概會想買，因為美國確實",
-     "category": "world",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "world",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "曾向習近平兜售美國武器？川普驚訝回應：是指台灣嗎？",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOHAwc1BTc1ctX3hpcjJ1Ukd6dTJpYTMwNEo0YThRTmxOczRpOVFFTG1QdmpWQzBGU25FVEdkaVlzRkUwS00yNHZIczQ1Z3JxeS1NUDF1ZG51Ym05NVlFVGVpNVJKd2dGamo0MWY2WkpUQWVWOVhUY2hXWE5Nd3NuWFN6M196V3lLVTF0SUI4TQ?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-09-29T08:47:46+08:00",
-     "description": "曾向習近平兜售美國武器？川普驚訝回應：是指台灣嗎？  中時新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "川普問習「要不要買美國武器」 旅美教授曝台灣真正警訊- 政治",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVVGRTSzFhR0lTZkkzMzNTdEloU09JNGdONnFyZWRBU082eVlyS0pEeXd1OGc4YS02WUw1QVJ4MEtua3JNSDFmVnc1VF9yd1VnQ0lJNGF6NTFKVkM3TmhWVEVONHNRbU9jYnpJYjln?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-09-29T08:32:08+08:00",
-     "description": "川普問習「要不要買美國武器」 旅美教授曝台灣真正警訊- 政治  中時新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "川普駁問習近平「想買美國武器嗎」：沒討論過",
-     "link": "https://www.ettoday.net/news/20260929/3245466.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-09-29T06:58:00+08:00",
-     "description": "美國駐中國大使龐德偉（David Perdue）日前透露，川普曾詢問中國國家主席習近平「是否願意買一些」美國武器；然而，川普28日否認曾有這段討論，表示中國或許會想購買，因為美國生產的軍事裝備更好，「但我們沒有討論過這件事」。白宮與國務院隨後也強調，美國沒有向中國出售武器的計畫。\n 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "曾問習近平是否有意買美國武器？　川普：沒討論過",
-     "link": "https://news.ltn.com.tw/news/world/breakingnews/5588949",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-09-29T04:36:03+08:00",
-     "description": "美國駐中國大使龐德偉昨天接受美媒訪問透露，總統川普曾詢問中國國家主席習近平「是否有意買些美國武器」。川普今天否認並說，從沒聽過這事，中國大概會想買，因為美國確實生產更好的軍事裝備，「但我們沒...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "曾問習近平是否有意買美國武器？　川普：沒討論過",
-     "link": "https://www.cna.com.tw/news/aopl/202609290009.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-09-29T04:29:34+08:00",
-     "description": "（中央社記者侯姿瑩華盛頓28日專電）美國駐中國大使龐德偉昨天接受美媒訪問透露，總統川普曾詢問中國國家主席習近平「是否有意買些美國武器」。川普今天否認並說，從沒聽過這事，中國大概會想買，因為美國確實生產更好的軍事裝備，「但我們沒討論過這事」。",
-     "author": "侯姿瑩",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "侯姿瑩",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
-     }
-    }
-   ]
-  },
-  {
    "id": "02a0a047f51a",
    "title": "杜拜航空駕駛艙喋血　兩機師均傷班機墜4千米平安轉降",
    "outlet_count": 6,
@@ -3073,7 +2505,7 @@
     "newtalk",
     "nownews"
    ],
-   "article_count": 14,
+   "article_count": 15,
    "first_seen": "2026-09-29T07:31:48+08:00",
    "last_updated": "2026-10-02T01:06:03+08:00",
    "tags": [
@@ -3136,6 +2568,23 @@
     {
      "title": "美國通膨降溫、潛在升息機率猶存！美股漲跌互見　道瓊收挫443點",
      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QSk5TWlFEOEtmX3JDWGk5VWZ0bkk1X1p2UGFobVpSUG0yX3VQN3ZTNGdKeUJEN245eGd2V3k0REpzVDRPTHR0SEF0Q2xMY0RfWHfSAVJBVV95cUxNUEpOU1pRRDhLZl9yQ1hpOVVmdG5JNV9adlBhaG1aUlBtMl91UDd2UzRnSnlCRDduOXhndld5NERKc1Q0T0x0dEhBdENsTGNEX1h3?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-10-01T05:59:07+08:00",
+     "description": "美國通膨降溫、潛在升息機率猶存！美股漲跌互見　道瓊收挫443點  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "美國通膨降溫、潛在升息機率猶存！美股漲跌互見　道瓊收挫443點",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAxb0RwZDUzTUJOeUl0YkVmQVV4ckVjS3pWUFVuZzAxRnlyRGNFS3ozQy1FZUUyai1zelp4eXg1QTJicGU3MU9XREZFdTbSAVJBVV95cUxNUEpOU1pRRDhLZl9yQ1hpOVVmdG5JNV9adlBhaG1aUlBtMl91UDd2UzRnSnlCRDduOXhndld5NERKc1Q0T0x0dEhBdENsTGNEX1h3?oc=5",
      "source": "nownews",
      "source_name": "今日新聞",
      "published": "2026-10-01T05:59:07+08:00",
@@ -3233,23 +2682,6 @@
       },
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "美股平盤震盪！費半強勢漲逾200點　美債殖利率和油價回落",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB2ZUp6RFhkeHdHZDZYYm9FaHJqVERlRVpKRTVoYWxMWEw5MXl6eEZfay1lN2FzQWlEanRVWHl2RTFHaWFkUno3RXVlMEjSAVJBVV95cUxPdlJ0eEpRdVFRTktIUUh2Qm1SeHRiQm5yeDVKWURHWFhoLTVFenB0MnZrZU1ma3ZfNzdaQUw0SmY2RVlienNUNWlOQXRlTVFwVTNR?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-09-29T21:58:16+08:00",
-     "description": "美股平盤震盪！費半強勢漲逾200點　美債殖利率和油價回落  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -3473,7 +2905,7 @@
      "source": "setn",
      "source_name": "三立新聞網",
      "published": "2026-10-01T12:46:13+08:00",
-     "description": "Gemini 4 Argon相關報導  三立新聞",
+     "description": "Gemini 4 Argon相關報導  三立新聞網SETN.com",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -3583,7 +3015,7 @@
     "setn",
     "udn"
    ],
-   "article_count": 10,
+   "article_count": 11,
    "first_seen": "2026-09-30T09:47:29+08:00",
    "last_updated": "2026-10-01T20:55:00+08:00",
    "tags": [],
@@ -3611,7 +3043,7 @@
      "source": "setn",
      "source_name": "三立新聞網",
      "published": "2026-10-01T18:45:58+08:00",
-     "description": "2028台灣總統大選相關報導  三立新聞",
+     "description": "2028台灣總統大選相關報導  三立新聞網SETN.com",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -3645,7 +3077,7 @@
      "source": "setn",
      "source_name": "三立新聞網",
      "published": "2026-10-01T15:16:52+08:00",
-     "description": "2026決勝九合一  三立新聞",
+     "description": "2026決勝九合一  三立新聞網SETN.com",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -3658,11 +3090,28 @@
     },
     {
      "title": "海景、親子推薦！台灣2026度假飯店TO 10",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcWhmeVJVWmFIaDlSM2FMS3p4S1JNZG5YWERUQ0lZZmRVdG9sY1lCSjFqY1VZbjdSb0pBNDMweXBqVmdrR2tGdTJKZjJNNlIwVlhxLVpHWnZRNGxnSjI5ZmxKMWZJSlFEcXFqZm5yeE1TR2FndTFUcVIyNmVVd1ktaTBwa9IBYkFVX3lxTFBHNDZ2Um44R2MyS1M5S1hVUVdJbEc1NW94UElyQVlRZG5xWVh2RGV1cl9aYmVncnBOS1hONUVhZUNlTC1zbXkxbTJrek9lV1FFbUx4SjBHYk5MUEgtME5GeGRn?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-10-01T15:03:09+08:00",
+     "description": "海景、親子推薦！台灣2026度假飯店TO 10  udn 女子漾",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "海景、親子推薦！台灣2026度假飯店TO 10",
      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZajhZRFFkaE14M0E4SEFnc1BKNFBRS2Mzdy1SaGRZcmRRcEhrd0VvS3NyMm1GNThXd2IxdlJFOFZDMUxhdUY5by10a1RtT1JySXc0UHowWWJTMUJz0gFiQVVfeXFMUEc0NnZSbjhHYzJLUzlLWFVRV0lsRzU1b3hQSXJBWVFkbnFZWHZEZXVyX1piZWdycE5LWE41RWFlQ2VMLXNteTFtMmt6T2VXUUVtTHhKMEdiTkxQSC0wTkZ4ZGc?oc=5",
      "source": "udn",
      "source_name": "聯合新聞網",
      "published": "2026-10-01T15:03:09+08:00",
-     "description": "海景、親子推薦！台灣2026度假飯店TO 10  woman.udn.com",
+     "description": "海景、親子推薦！台灣2026度假飯店TO 10  udn 女子漾",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -3713,7 +3162,7 @@
      "source": "udn",
      "source_name": "聯合新聞網",
      "published": "2026-10-01T09:50:31+08:00",
-     "description": "2026桃園  woman.udn.com",
+     "description": "2026桃園  udn 女子漾",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -3730,7 +3179,7 @@
      "source": "setn",
      "source_name": "三立新聞網",
      "published": "2026-09-30T16:03:36+08:00",
-     "description": "2026桃園客家音樂節相關報導  三立新聞",
+     "description": "2026桃園客家音樂節相關報導  三立新聞網SETN.com",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -3739,23 +3188,6 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "海景、親子推薦！台灣2026度假飯店TO 10",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wMWJzR1ZUZkZSS1p1YmpUV0lhbGVwNlpsWlpfb0tMZ2I5MzlvcENDQUdvMTJEcnVKYTNCR3hWRkQ1dDl4RW9TOFZ6MWFJd294WkFJM25Zam4tREpza0IxSWNRa04zVVZWSjdEQg?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-09-30T09:47:29+08:00",
-     "description": "海景、親子推薦！台灣2026度假飯店TO 10  觸mii",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -4638,6 +4070,150 @@
    ]
   },
   {
+   "id": "3272537e0595",
+   "title": "遭指曾問習近平買美武器意願 川普：從沒聽過這件事",
+   "outlet_count": 6,
+   "outlets": [
+    "chinatimes",
+    "ebc",
+    "ettoday",
+    "ltn",
+    "nownews",
+    "pts"
+   ],
+   "article_count": 7,
+   "first_seen": "2026-09-29T04:36:03+08:00",
+   "last_updated": "2026-09-29T20:00:11+08:00",
+   "tags": [
+    "買美國武器",
+    "問習近平",
+    "川普"
+   ],
+   "articles": [
+    {
+     "title": "遭指曾問習近平買美武器意願 川普：從沒聽過這件事",
+     "link": "https://news.pts.org.tw/article/829206",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-09-29T20:00:11+08:00",
+     "description": "台灣緊盯美國對台軍售的進度，不過，在川習會後，美國駐中國大使龐德偉則透露，川普曾經問習近平有沒有興趣購買美國武器，引發議論，對於這說法，川普卻說從來沒聽說過，還接著又說，中國大概很想買。另一方面，美中經貿協議開始浮現具體內容，中國將調降多項美國農產品關稅，黃豆仍舊被排除在外。而中國也再度打出「貓熊外交」，2隻大貓熊已經抵達亞特蘭大。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "對台軍售仍未過！傳川普問習近平要不要買美製武器？外交部回應了",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE05QzE3QkhyN2FCQ2llekxraUVJVndOZlZ6SWJYbjdyeVRZVUl1Uy1TYmphVFU1Uy1qM3RyTXRWM2FRSUM2QjNCV0wzMUvSAVJBVV95cUxPNmhNVjhjY0dFMUpxZENuZ3hkYVZCRWVGWVRCdUhUNUo3MENPRDRrWFRVMTZtTzF6eUxnRWdVcDc4U2NUU0doeFhPTG5zc19uT2tR?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-09-29T15:03:56+08:00",
+     "description": "對台軍售仍未過！傳川普問習近平要不要買美製武器？外交部回應了  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "曾問習近平是否有意買美國武器？川普：沒討論過",
+     "link": "https://news.ebc.net.tw/news/world/573399",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-09-29T09:08:45.100439+08:00",
+     "description": "美國駐中國大使龐德偉昨天接受美媒訪問透露，總統川普曾詢問中國國家主席習近平「是否有意買些美國武器」。川普今天否認並說，從沒聽過這事，中國大概會想買，因為美國確實",
+     "category": "world",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "world",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "曾向習近平兜售美國武器？川普驚訝回應：是指台灣嗎？",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOHAwc1BTc1ctX3hpcjJ1Ukd6dTJpYTMwNEo0YThRTmxOczRpOVFFTG1QdmpWQzBGU25FVEdkaVlzRkUwS00yNHZIczQ1Z3JxeS1NUDF1ZG51Ym05NVlFVGVpNVJKd2dGamo0MWY2WkpUQWVWOVhUY2hXWE5Nd3NuWFN6M196V3lLVTF0SUI4TQ?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-09-29T08:47:46+08:00",
+     "description": "曾向習近平兜售美國武器？川普驚訝回應：是指台灣嗎？  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "川普問習「要不要買美國武器」 旅美教授曝台灣真正警訊- 政治",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVVGRTSzFhR0lTZkkzMzNTdEloU09JNGdONnFyZWRBU082eVlyS0pEeXd1OGc4YS02WUw1QVJ4MEtua3JNSDFmVnc1VF9yd1VnQ0lJNGF6NTFKVkM3TmhWVEVONHNRbU9jYnpJYjln?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-09-29T08:32:08+08:00",
+     "description": "川普問習「要不要買美國武器」 旅美教授曝台灣真正警訊- 政治  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "川普駁問習近平「想買美國武器嗎」：沒討論過",
+     "link": "https://www.ettoday.net/news/20260929/3245466.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-09-29T06:58:00+08:00",
+     "description": "美國駐中國大使龐德偉（David Perdue）日前透露，川普曾詢問中國國家主席習近平「是否願意買一些」美國武器；然而，川普28日否認曾有這段討論，表示中國或許會想購買，因為美國生產的軍事裝備更好，「但我們沒有討論過這件事」。白宮與國務院隨後也強調，美國沒有向中國出售武器的計畫。\n 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "曾問習近平是否有意買美國武器？　川普：沒討論過",
+     "link": "https://news.ltn.com.tw/news/world/breakingnews/5588949",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-09-29T04:36:03+08:00",
+     "description": "美國駐中國大使龐德偉昨天接受美媒訪問透露，總統川普曾詢問中國國家主席習近平「是否有意買些美國武器」。川普今天否認並說，從沒聽過這事，中國大概會想買，因為美國確實生產更好的軍事裝備，「但我們沒...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    }
+   ]
+  },
+  {
    "id": "08a4e1cdbd2e",
    "title": "新北議員白珮茹涉詐助理費63萬　士檢起訴求刑8年半",
    "outlet_count": 6,
@@ -4653,7 +4229,7 @@
    "first_seen": "2026-09-29T10:11:33+08:00",
    "last_updated": "2026-09-29T12:35:55.777290+08:00",
    "tags": [
-    "員白珮茹涉詐",
+    "議員白珮茹涉",
     "助理費",
     "起訴求刑"
    ],
@@ -4984,7 +4560,7 @@
      "source": "setn",
      "source_name": "三立新聞網",
      "published": "2026-10-01T18:54:44+08:00",
-     "description": "第63屆金馬獎  三立新聞",
+     "description": "第63屆金馬獎  三立新聞網SETN.com",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -5069,7 +4645,7 @@
      "source": "setn",
      "source_name": "三立新聞網",
      "published": "2026-10-01T17:37:00+08:00",
-     "description": "金馬63／入圍名單不斷更新  三立新聞",
+     "description": "金馬63／入圍名單不斷更新  三立新聞網SETN.com",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -5275,8 +4851,8 @@
    "first_seen": "2026-10-01T10:00:00+08:00",
    "last_updated": "2026-10-01T19:36:00+08:00",
    "tags": [
-    "律師蔡鴻燊",
-    "獨居老人遺產",
+    "蔡鴻燊二審",
+    "詐獨居老人遺",
     "台版地面師"
    ],
    "articles": [
@@ -5364,6 +4940,185 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
+   "id": "50bd0e91e7c6",
+   "title": "9/30天氣預報》明晚起「兩波東北季風」接力襲台　北台灣迎接雨勢",
+   "outlet_count": 5,
+   "outlets": [
+    "ebc",
+    "ettoday",
+    "ltn",
+    "nownews",
+    "tvbs"
+   ],
+   "article_count": 9,
+   "first_seen": "2026-09-30T04:06:00+08:00",
+   "last_updated": "2026-10-01T19:33:10+08:00",
+   "tags": [
+    "波東北季風",
+    "天氣",
+    "氣象"
+   ],
+   "articles": [
+    {
+     "title": "清晨有感變天！2波東北季風接力雨神到 「彩霞」明增強成中颱",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5592441",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-10-01T19:33:10+08:00",
+     "description": "明天清晨起有感變天！中央氣象署預報，明起東北季風增強，清晨迎風面基隆北海岸就開始有雨，東北部明天也有大雨，下一波東北季風增強時間則是下週一（5日），降溫幅度更明顯。\n\n氣象...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "秋老虎要休息了！氣象署：週五起兩波東北季風接力　桃園以北有雨",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wR0phZXhVWjBYOWRTSXcxZ2puTjVYVDVSamNOUTNQVXROMkpBczJnQUVpYTNTTHY0WWRIOVNyYnlEaXJoWmFNdkZUUEZBV1phVWfSAVJBVV95cUxPcEdKYWV4VVowWDlkU0l3MWdqbk41WFQ1UmpjTlEzUFV0TjJKQXMyZ0FFaWEzU0x2NFlkSDlTcmJ5RGlyaFphTXZGVFBGQVdaYVVn?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-10-01T19:29:58+08:00",
+     "description": "秋老虎要休息了！氣象署：週五起兩波東北季風接力　桃園以北有雨  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "東北季風接力報到！金門未來一週日夜溫差大　10／3天氣才穩定",
+     "link": "https://www.ettoday.net/news/20261001/3247143.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-10-01T13:22:00+08:00",
+     "description": "隨著時間進入10月，東北季風逐漸增強，金門未來一週天氣將呈現「白天偏熱、夜間轉涼」型態，10月2日起風力增強並伴隨水氣，部分時段有零星短暫雨，民眾外出應留意天氣變化。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "國慶連假天氣出爐！氣象署：2波東北季風　北台灣下雨只剩20度",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16ZEhvT28xNWZ5RER0enRzdWQ1UjMwUU9pVHcyaENaRU9iS1VDUGtWTWZKcFlUaE04WjBETUdjdzRDMXlpOW1pWjNiUDlPNDF6MmfSAVJBVV95cUxNemRIb09vMTVmeUREdHp0c3VkNVIzMFFPaVR3MmhDWkVPYktVQ1BrVk1mSnBZVGhNOFowRE1HY3c0QzF5aTltaVozYlA5TzQxejJn?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-10-01T11:03:53+08:00",
+     "description": "國慶連假天氣出爐！氣象署：2波東北季風　北台灣下雨只剩20度  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "淑麗氣象／明起2波東北季風接力報到！入秋最強下探21度",
+     "link": "https://news.ebc.net.tw/news/living/573666",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-10-01T09:17:44.181983+08:00",
+     "description": "把握今日晴朗高溫，氣象署指出，今（1日）全台依舊受秋老虎籠罩，西半部局部高溫飆破36度，不過自明（2日）週五起，將有東北季風增強南下，北部及東半部隨即轉雨並降溫",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "明起連2波東北季風 北台灣降溫轉雨｜LIVE",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSV2RxT1hiRVVLSjNQMF9aMmtHMWs1SlFteVdRcENFSUE3NTRtWFlER1dQXzFsY1ZSYUFzSUU4OTNNWjdHNjNvNDV6SkdhNWxfUGJNd3lR?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-09-30T22:26:55+08:00",
+     "description": "明起連2波東北季風 北台灣降溫轉雨｜LIVE  TVBS新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "告別秋老虎！兩波東北季風接力「北部先轉雨」　下周一低溫探21度",
+     "link": "https://www.ettoday.net/news/20260930/3246799.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-09-30T21:59:00+08:00",
+     "description": "「秋老虎」還在發威，天氣卻即將迎來明顯轉折！中央氣象署表示，未來一周有兩波東北季風接力影響台灣，首波將於10月2日增強，桃園以北、東半部水氣增加並轉為有雨天氣；10月5日起第二波東北季風再增強，北台灣高溫將降至攝氏26至29度，宜蘭、北部低溫則下探約21至23度，天氣明顯轉涼。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "淑麗氣象／秋老虎準備回家！明晚起2波東北季風接力 天氣轉濕涼",
+     "link": "https://news.ebc.net.tw/news/living/573511",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-09-30T09:10:12.978906+08:00",
+     "description": "「秋老虎」出籠，這幾天都是陽光普照、烈日當空的好天氣，不過明日（10/1）晚間這頭秋老虎就要回家了，預計將迎來2波東北季風，天氣轉涼、水氣增加。",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "9/30天氣預報》明晚起「兩波東北季風」接力襲台　北台灣迎接雨勢",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA5SWhNbVh3QW8tam1TTDY0Yzc2Y0hZWWZ5RnFKaGJBUGxGc0xhN3Jfbk5pX2IyRkZpQjVkU0RBQ2poRTNZWW1xeEVlTlTSAVJBVV95cUxPeFRUdXZpT0xlYWdhaUNZYmVMcFI1UTJ4bUdPYnhrUFFILTFySlZsQmJTX2R2bnB1dlpXOHRCOVloNHhqTU90ejZwRGIxS2F1a3ZB?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-09-30T04:06:00+08:00",
+     "description": "9/30天氣預報》明晚起「兩波東北季風」接力襲台　北台灣迎接雨勢  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -5856,12 +5611,12 @@
    ],
    "articles": [
     {
-     "title": "亞運／台灣第1人！突破上屆第6名 張正韋射下複合弓銀牌",
-     "link": "https://news.ebc.net.tw/news/sport/573746",
+     "title": "亞運／連退強敵闖金牌戰！射箭張正韋將強碰南韓名將",
+     "link": "https://news.ebc.net.tw/news/sport/573729",
      "source": "ebc",
      "source_name": "東森新聞",
      "published": "2026-10-01T14:50:06.468861+08:00",
-     "description": "2026名古屋亞運複合弓男子個人對抗賽傳來振奮捷報！中華隊好手張正韋在今日賽事中發揮出色，一路過關斬將成功射進決賽，最終勇奪個人對抗賽銀牌，締造極為耀眼的亮眼戰",
+     "description": "亞運射箭複合弓男子個人賽今（1日）上演，台灣好手張正韋先於8強賽以1分險勝中國選手劉瑾一，隨後在4強準決賽再以精準箭法與沉穩心態，終場以1分之差氣走越南勁敵鄧公",
      "category": "sport",
      "metadata": {
       "schema_version": 1,
@@ -6296,8 +6051,8 @@
    ]
   },
   {
-   "id": "264ac04db1a2",
-   "title": "花27元影印中獎千萬元！7-ELEVEN 5家門市開出統一發票1000萬元大獎",
+   "id": "a6baa6b31386",
+   "title": "7-11花27元列印中1000萬！7、8月發票5張特別獎　幸運門市、明細",
    "outlet_count": 5,
    "outlets": [
     "ebc",
@@ -6306,13 +6061,13 @@
     "nownews",
     "storm"
    ],
-   "article_count": 9,
-   "first_seen": "2026-09-29T03:09:00+08:00",
+   "article_count": 8,
+   "first_seen": "2026-09-29T09:26:52+08:00",
    "last_updated": "2026-09-29T18:04:33+08:00",
    "tags": [
     "發票",
-    "開出",
-    "千萬"
+    "門市",
+    "幸運"
    ],
    "claims": [
     {
@@ -6469,23 +6224,6 @@
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
-    },
-    {
-     "title": "花27元影印中獎千萬元！7-ELEVEN 5家門市開出統一發票1000萬元大獎",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lOUpZVTctQ3Z1XzZaNmswNW42WU5ELWxtVHdIcWZmbFBkZVhXcURHRWlTTWk4T09wOTBsTkw5RzItOXVpQXFLQnk5Y1p2cG1ta05nT1NSa0M?oc=5",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-09-29T03:09:00+08:00",
-     "description": "花27元影印中獎千萬元！7-ELEVEN 5家門市開出統一發票1000萬元大獎  自由時報",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:ltn.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
     }
    ]
   },
@@ -6503,7 +6241,7 @@
    "first_seen": "2026-10-01T22:14:00+08:00",
    "last_updated": "2026-10-02T00:32:12.952018+08:00",
    "tags": [
-    "消防局長黃德",
+    "防局長黃德清",
     "享壽",
     "病逝"
    ],
@@ -7570,8 +7308,8 @@
    "last_updated": "2026-10-01T14:35:12+08:00",
    "tags": [
     "科技巨頭",
-    "川普",
-    "白宮"
+    "協議",
+    "川普"
    ],
    "articles": [
     {
@@ -8831,7 +8569,7 @@
      "source": "setn",
      "source_name": "三立新聞網",
      "published": "2026-09-30T18:47:00+08:00",
-     "description": "中職／桃猿最後6戰搶季後賽門票　曾總透露「若有必要」洋投會中繼登板  三立新聞",
+     "description": "中職／桃猿最後6戰搶季後賽門票　曾總透露「若有必要」洋投會中繼登板  三立新聞網SETN.com",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -8840,6 +8578,73 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
+   "id": "88468aa8667e",
+   "title": "日媒：日本商界領袖擬於2027年3月訪問北京",
+   "outlet_count": 3,
+   "outlets": [
+    "cna",
+    "newtalk",
+    "storm"
+   ],
+   "article_count": 3,
+   "first_seen": "2026-10-01T13:08:21+08:00",
+   "last_updated": "2026-10-01T21:23:16+08:00",
+   "tags": [],
+   "articles": [
+    {
+     "title": "2027春季",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ITDRnYXNfQ0ZGX2ZNQnk4LUtaSW82bTBhVmczcDNrME5ZT0t1US1LQWlLblROemppNDhvcm4zbmdGM3VCTXFRNFdTaE1wdmMzdkhSbg?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-10-01T21:23:16+08:00",
+     "description": "2027春季  風傳媒",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "日媒：日本商界領袖擬於2027年3月訪問北京",
+     "link": "https://www.cna.com.tw/news/aopl/202610010258.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-10-01T16:53:13+08:00",
+     "description": "（中央社東京1日綜合外電報導）日媒今天引述多名消息人士披露，日中經濟協會、經濟團體連合會（經團連）、日本商工會議所已開始協調於明年3月率團訪問中國，並尋求與北京高層會晤。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
+     }
+    },
+    {
+     "title": "政院拍板！財政部續推大宗物資延長降稅至2027年3月底",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85M05jaTFTZFhVYm41SjdpeDUtZDV4dUpqaXNSMjdNd0FJeEk5R0JhaHV1V0p6MlB5VW1fMlp3Z2xOajFwbkRpeEl3Qm00MFFacWtCaHFEVHllY1U?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-10-01T13:08:21+08:00",
+     "description": "政院拍板！財政部續推大宗物資延長降稅至2027年3月底  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -8857,8 +8662,8 @@
    "first_seen": "2026-10-01T18:16:00+08:00",
    "last_updated": "2026-10-01T20:44:50.793396+08:00",
    "tags": [
-    "摩斯漢堡爆個",
-    "個資外洩",
+    "堡爆個資外洩",
+    "摩斯漢堡",
     "平台遭駭"
    ],
    "articles": [
