@@ -13,7 +13,7 @@ permissions:
   id-token: write
 
 concurrency:
-  group: update-news
+  group: update-news-v2
   cancel-in-progress: false
 
 jobs:
