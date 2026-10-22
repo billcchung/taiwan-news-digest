@@ -1,9 +1,9 @@
 {
  "date": "2026-10-23",
- "generated_at": "2026-10-23T04:30:24.911167+08:00",
+ "generated_at": "2026-10-23T06:27:02.268316+08:00",
  "events": [
   {
-   "id": "10ff7e293357",
+   "id": "9c7642298413",
    "title": "颱風薔琵增強逼近　蔣萬安：估23日影響北市最顯著",
    "outlet_count": 13,
    "outlets": [
@@ -21,11 +21,12 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 251,
-   "first_seen": "2026-10-20T06:16:00+08:00",
-   "last_updated": "2026-10-23T04:10:00+08:00",
+   "article_count": 247,
+   "first_seen": "2026-10-20T07:50:40+08:00",
+   "last_updated": "2026-10-23T06:27:02.268316+08:00",
    "tags": [
-    "薔琵"
+    "薔琵",
+    "停班"
    ],
    "claims": [
     {
@@ -34,15 +35,15 @@
      "outlet_count": 2,
      "values": [
       {
-       "value": "11",
+       "value": "8",
        "outlets": [
-        "中央社"
+        "ETtoday"
        ]
       },
       {
-       "value": "15",
+       "value": "11",
        "outlets": [
-        "ETtoday"
+        "中央社"
        ]
       }
      ]
@@ -65,12 +66,13 @@
     {
      "type": "死亡人數",
      "agree": true,
-     "outlet_count": 2,
+     "outlet_count": 3,
      "values": [
       {
        "value": "1",
        "outlets": [
         "中央社",
+        "東森新聞",
         "鏡週刊"
        ]
       }
@@ -79,12 +81,13 @@
     {
      "type": "受傷人數",
      "agree": true,
-     "outlet_count": 2,
+     "outlet_count": 3,
      "values": [
       {
        "value": "42",
        "outlets": [
         "中央社",
+        "東森新聞",
         "鏡週刊"
        ]
       }
@@ -93,37 +96,91 @@
    ],
    "articles": [
     {
-     "title": "聯發科法說倒數雙外資送暖- 財經要聞- 工商時報",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xZXRuTGdtNVFLbHFzRkh0dXNKRWs1NkhFSk1XZ29HQjN6ckZjc3BFajFiU0R5YUFUQV90b3BxVTdPN3NuLXBUR2ZvRHlWemJWaEFFZ2lNV2IybGs2MGNCbk1YdmxrWHNQazhB?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-10-23T04:10:00+08:00",
-     "description": "聯發科法說倒數雙外資送暖- 財經要聞- 工商時報  中時新聞網",
+     "title": "颱風薔琵逼近 全台1死42傷",
+     "link": "https://news.ebc.net.tw/news/living/577045",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-10-23T06:27:02.268316+08:00",
+     "description": "中央災害應變中心昨天（22日）表示，颱風薔琵逼近，截至晚間7時30分，已造成全台1人死亡42人受傷，死亡個案為屏東縣琉球鄉美人洞下方沙灘有民眾遭海浪捲走身亡。",
+     "category": "living",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
      }
     },
     {
-     "title": "強颱薔琵來襲股匯今休市- 財經要聞- 工商時報",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqb3RsR0JlYlBDMFpSX3hkb3pVRS1sZ0x1QjlqclNZbnE5a1RSQ3lIUzJWdi16Qk9NZmh3ZHczYzhQSTc0MHUyWkZRWEJlZmJXd1RGdUgyWjhQSVFfUHVrQlkwTkVUMVFJVnp3?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-10-23T04:10:00+08:00",
-     "description": "強颱薔琵來襲股匯今休市- 財經要聞- 工商時報  中時新聞網",
+     "title": "薔琵仍不排除登陸　今明3地強風致災雨",
+     "link": "https://www.ettoday.net/news/20261023/3259529.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-10-23T06:16:00+08:00",
+     "description": "氣象專家吳德榮表示，受到薔琵颱風影響，今天（23日）清晨北部、東北部及東部已有明顯降雨，儘管薔琵正在持續減弱，但強度高、範圍大，北部、宜花及山區今明兩天需慎防強風及大量致災性降雨，直到明天（24日）下半天薔琵慢慢遠離，風雨才會減緩。不過，颱風季尚未結束，下周仍有颱風生成。 《詳全文...》",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "台東風大民怨灌爆 縣府近6點突宣布停班停課",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5615830",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-10-23T06:11:56+08:00",
+     "description": "台東縣政府今早將近6點突然通報：台東縣全縣今日（23）因受颱風影響停止上班、停止上課。\n\n受薔琵颱風影響，全台縣市昨天紛紛宣布今天停班停課，台東縣政府原本公告今天僅蘭嶼鄉與...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "颱風來勢洶洶 玉管處急撤118名山友避災",
+     "link": "https://news.ltn.com.tw/news/life/paper/1775658",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-10-23T05:30:00+08:00",
+     "description": "〔記者劉濱銓／南投報導〕薔琵颱風來勢洶洶，海、陸警齊發，玉山國家公園管理處宣布停止入園登山，昨排雲山莊急撤118名山友，前往攀登南二段的長程縱走隊11人也都緊急折返下山，其餘園區內的長程隊伍，玉管處已要求就近避災，並與山友保持聯繫，確保颱風期間人員安全。\n\n\n\n…",
+     "author": "劉濱銓",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "劉濱銓",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "薔琵颱風逼近 暴風圈罩全台 20縣市+蘭嶼、綠島停班課 台東、金門除外",
+     "link": "https://news.ltn.com.tw/news/life/paper/1775559",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-10-23T05:30:00+08:00",
+     "description": "〔記者吳亮儀、地方記者／連線報導〕薔琵颱風在昨天下午減弱為中度颱風，但七級風暴風半徑仍超過三百公里。中央氣象署提醒，薔琵颱風帶來強風豪雨，預計在今天上午到中午之間涵蓋台灣本島，最接近台灣的時候落在今天深夜到明天清晨，且尚未完全排除颱風中心登陸台灣的可能性，民眾要提高警覺。\n\n今起到明天上半天 風…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
      }
     },
     {
@@ -195,23 +252,6 @@
      }
     },
     {
-     "title": "薔琵暴風圈將觸陸現15級強風！　恐「剎車打轉」最強風雨來了",
-     "link": "https://www.ettoday.net/news/20261023/3259512.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-10-23T00:48:00+08:00",
-     "description": "中度颱風「薔琵」暴風圈已經逐漸進入台灣東半部海面及巴士海峽，對全台陸地構成威脅，中央氣象署持續發布陸上警報，薔琵逐漸接近，桃園以北及東半部降雨持續增加，預估今（23日）至明天（24日）清晨將是風雨最劇烈的時段，宜蘭山區慎防超大豪雨，新竹以北山區有局部大豪雨發生機率，各地也須留意強陣風及巨浪。\n\n 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
      "title": "颱風假+光復連假「變4天」！人潮擠爆車站搶返鄉",
      "link": "https://news.ebc.net.tw/news/living/577041",
      "source": "ebc",
@@ -228,40 +268,6 @@
       "acquisition": "scraper",
       "category": "living",
       "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "颱風薔琵強度再減弱　23日晚間至24日清晨降雨明顯",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5615798",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-10-23T00:39:03+08:00",
-     "description": "氣象署表示，颱風薔琵近中心最大風速從每秒45公尺減弱為43公尺，預計23日至24日清晨將是雨勢最為明顯的時候，要到25日整體雨勢才會緩和。\n\n根據中央氣象署觀測，颱風薔琵22日晚間11時的中...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "薔琵暴風圈進入東半部海面！中心離台不到400公里　雙北預估雨量上修",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8wN3d2ZGlQRl8yejUxa28wN2ZuNlJFNEREOWcyWmNEb1N3MWVvQWxMUGE1VUxZdVJtZ1psVlo0RERSNkdFV2IyVNIBTEFVX3lxTE1ibjZqQlFKdFRkM0Z3c1lMNEc3LUozT1Uwek1tSnN3T2Q0MFdmNWFSc1R1Rjl5akNTbDd1cjc0ZWotMGxrQmJPd1NxSG0?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-10-23T00:06:00+08:00",
-     "description": "薔琵暴風圈進入東半部海面！中心離台不到400公里　雙北預估雨量上修  三立新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -285,12 +291,10 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 225,
+   "article_count": 240,
    "first_seen": "2026-10-20T08:05:09+08:00",
-   "last_updated": "2026-10-23T00:35:00+08:00",
-   "tags": [
-    "新聞網"
-   ],
+   "last_updated": "2026-10-23T04:54:28+08:00",
+   "tags": [],
    "claims": [
     {
      "type": "金額",
@@ -308,6 +312,42 @@
     }
    ],
    "articles": [
+    {
+     "title": "颱風停班課百貨有開？台北101、京站休館　新光三越、SOGO營業包",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VOHhQQkduU0NOOEpfdHc1ejltTnhkbWRpaGFKa05lZTFPS19YQTMyMU5Ca0hmVG1JdWVCRHIwREVPYkRGVGZ3Y1lBeVZENnRqM1HSAVJBVV95cUxNVTh4UEJHblNDTjhKX3R3NXo5bU54ZG1kaWhhSmtOZWUxT0tfWEEzMjFOQmtIZlRtSXVlQkRyMERFT2JERlRmd2NZQXlWRDZ0ajNR?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-10-23T04:54:28+08:00",
+     "description": "颱風停班課百貨有開？台北101、京站休館　新光三越、SOGO營業包  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "薔琵颱風進逼！台北101停業一天  威秀影城明早8時公布",
+     "link": "https://news.ebc.net.tw/news/living/577040",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-10-23T00:41:52.146451+08:00",
+     "description": "氣象署於10月22日晚間對中度颱風薔琵發布陸上警戒，23日全台停班停課，台北101與京站等百貨暫停營業，多家影城則視風雨滾動調整。",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
     {
      "title": "別鐵齒！2026末班水逆撞薔琵 12星座「做對這事」旺到年底",
      "link": "https://ent.ltn.com.tw/news/breakingnews/5615735",
@@ -428,50 +468,12 @@
      }
     },
     {
-     "title": "河口湖命案死者「落軌逃死」赴日旅遊竟遇害",
-     "link": "https://news.ebc.net.tw/news/society/577029",
+     "title": "驚！嘉義市區陣風6級 椰子樹葉掉落砸雙載騎士",
+     "link": "https://news.ebc.net.tw/news/society/577034",
      "source": "ebc",
      "source_name": "東森新聞",
      "published": "2026-10-22T22:36:32.052416+08:00",
-     "description": "井雲蓉9月高鐵落軌奇蹟獲救，10月赴日旅遊竟遭殺害；友人悲痛澄清借貸與命案無關，盼外界勿過度揣測。",
-     "category": "society",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "society",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "河口湖命案27歲嫌犯起底！疑曾涉詐欺「害6人受騙匯款」",
-     "link": "https://news.ebc.net.tw/news/world/577039",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-10-22T22:36:32.052416+08:00",
-     "description": "日本山梨縣富士河口湖町19日發生台灣女遊客命案，38歲井姓女子跟團赴日旅遊，卻在飯店房間內遭發現身亡，頸部有明顯傷勢，同團27歲台籍女子楊閔涵遭當場逮捕。",
-     "category": "world",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "world",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "「台女命案」疑早認識？高大成：恐涉及下藥",
-     "link": "https://news.ebc.net.tw/news/society/577030",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-10-22T22:36:32.052416+08:00",
-     "description": "台女井雲蓉日本河口湖遇害，同團楊姓女子涉割頸命案；高大成推測預謀買刀與下藥可能性，警方持續調查疑點。",
+     "description": "薔琵颱風襲台，嘉義22日颳6級強風吹落大王椰子樹葉砸中雙載夫妻，機車失控自摔，兩人擦挫傷送醫。",
      "category": "society",
      "metadata": {
       "schema_version": 1,
@@ -505,13 +507,12 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 278,
+   "article_count": 283,
    "first_seen": "2026-10-20T10:05:57+08:00",
-   "last_updated": "2026-10-22T22:54:00+08:00",
+   "last_updated": "2026-10-23T00:48:00+08:00",
    "tags": [
     "蔣萬安",
-    "沈伯洋",
-    "民調"
+    "沈伯洋"
    ],
    "claims": [
     {
@@ -533,23 +534,26 @@
        ]
       }
      ]
-    },
-    {
-     "type": "風力級數",
-     "agree": true,
-     "outlet_count": 2,
-     "values": [
-      {
-       "value": "8",
-       "outlets": [
-        "ETtoday",
-        "中央社"
-       ]
-      }
-     ]
     }
    ],
    "articles": [
+    {
+     "title": "薔琵暴風圈將觸陸現15級強風！　恐「剎車打轉」最強風雨來了",
+     "link": "https://www.ettoday.net/news/20261023/3259512.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-10-23T00:48:00+08:00",
+     "description": "中度颱風「薔琵」暴風圈已經逐漸進入台灣東半部海面及巴士海峽，對全台陸地構成威脅，中央氣象署持續發布陸上警報，薔琵逐漸接近，桃園以北及東半部降雨持續增加，預估今（23日）至明天（24日）清晨將是風雨最劇烈的時段，宜蘭山區慎防超大豪雨，新竹以北山區有局部大豪雨發生機率，各地也須留意強陣風及巨浪。\n\n 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
     {
      "title": "沈伯洋險勝蔣萬安3.8%　尚毅夫揭「蔣、珊票源轉向」：墊高14%支持度",
      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9JRklCMjVNbmM2UnJjTTNKS0xNSnhJWmMyRU5NRWp2VXdpaDU3aVh3MTFzX1lwdl9qWU1hcDNVRWxqY0xmUUNnTdIBTEFVX3lxTE9GWUJEcEp6dmplMEgtYVd5b2N6cExzN2tJa0ktYnFVaTRpNTZxbUEzM1J0bmNONDFXVkhwaGZUeTZHdVRBXzdHaDdkLTU?oc=5",
@@ -702,32 +706,14 @@
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
-    },
-    {
-     "title": "薔琵颱風恐放2天颱風假？ 北市強風影響從明天上午到後天中午",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZNWw2X3R1MG54dkl4UkdfZEYwb1drV3oxc0stczJ1Qk9qVkVhamY5TlNRemY1bWRhc21JeG9JN3o5bktiR01jN1NMNWMwX0tEN1hJ0gFYQVVfeXFMT0p3WENPM0M3d3htR1dJVFFjWTFZYUZfSzRHZnN2bVREMS05REQzYVhNTlZsaEQ5enFVVU96QmJpUGN6WlVaTjE2U1dYM0lOYUFSc09GTTdSdA?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-10-22T20:55:21+08:00",
-     "description": "薔琵颱風恐放2天颱風假？ 北市強風影響從明天上午到後天中午  UDN",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
     }
    ]
   },
   {
-   "id": "38e17949cdd2",
-   "title": "颱風薔琵外圍環流影響空品　台東縣府成立應變小組",
+   "id": "41188de9d0b6",
+   "title": "台東農路拓寬涉圖利案　檢調收網機場帶走吳俊立",
    "outlet_count": 12,
    "outlets": [
-    "chinatimes",
     "cna",
     "ebc",
     "ettoday",
@@ -737,31 +723,31 @@
     "nownews",
     "pts",
     "setn",
+    "storm",
     "tvbs",
     "udn"
    ],
    "article_count": 34,
-   "first_seen": "2026-10-20T05:30:00+08:00",
-   "last_updated": "2026-10-23T00:41:52.146451+08:00",
+   "first_seen": "2026-10-20T09:36:32+08:00",
+   "last_updated": "2026-10-23T06:10:00+08:00",
    "tags": [
-    "薔琵"
+    "吳俊立",
+    "搜索"
    ],
    "claims": [
     {
-     "type": "風力級數",
-     "agree": false,
-     "outlet_count": 2,
+     "type": "金額",
+     "agree": true,
+     "outlet_count": 5,
      "values": [
       {
-       "value": "8",
+       "value": "500萬元",
        "outlets": [
-        "ETtoday"
-       ]
-      },
-      {
-       "value": "6",
-       "outlets": [
-        "東森新聞"
+        "ETtoday",
+        "今日新聞",
+        "公視新聞",
+        "自由時報",
+        "鏡週刊"
        ]
       }
      ]
@@ -769,50 +755,98 @@
    ],
    "articles": [
     {
-     "title": "薔琵颱風進逼！台北101停業一天  威秀影城明早8時公布",
-     "link": "https://news.ebc.net.tw/news/living/577040",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-10-23T00:41:52.146451+08:00",
-     "description": "氣象署於10月22日晚間對中度颱風薔琵發布陸上警戒，23日全台停班停課，台北101與京站等百貨暫停營業，多家影城則視風雨滾動調整。",
-     "category": "living",
+     "title": "台東前縣長500萬交保　藍委質疑黨政媒司法全出手：前所未聞",
+     "link": "https://www.ettoday.net/news/20261023/3259525.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-10-23T06:10:00+08:00",
+     "description": "由國民黨台東縣長參選人、台東縣議長吳秀華家族投資的台東東映渡假村農路開發案，爆出縣府官員圖利疑雲，吳秀華的胞兄、台東前縣長吳俊立21日以500萬元交保。國民黨台東立委黃建賓直言，「以前選舉本來就會互相攻擊，但通常不會由檢方發動，特別是這樣意圖使人不當選這種案例，這個真的是前所未聞。」 《詳全文...》",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
      }
     },
     {
-     "title": "驚！嘉義市區陣風6級 椰子樹葉掉落砸雙載騎士",
-     "link": "https://news.ebc.net.tw/news/society/577034",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-10-22T22:36:32.052416+08:00",
-     "description": "薔琵颱風襲台，嘉義22日颳6級強風吹落大王椰子樹葉砸中雙載夫妻，機車失控自摔，兩人擦挫傷送醫。",
-     "category": "society",
+     "title": "收賄光電業者 前鳳林鎮長8人聲押 疏通反對聲浪 蕭文龍涉收3千多萬",
+     "link": "https://news.ltn.com.tw/news/society/paper/1775561",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-10-23T05:30:00+08:00",
+     "description": "〔記者王錦義／花蓮報導〕曾任兩屆花蓮縣鳳林鎮長、今年再被國民黨提名參選鎮長的蕭文龍，涉嫌收受光電業者賄賂，同案包括花蓮縣政府一名技正也捲入。花蓮地檢署指揮台南市調查處、東機站等單位，前往鳳林鎮公所、縣府觀光處、地政處等處搜索，帶回卅四人訊問，懷疑蕭從業者處收受高達三千多萬元賄款，複訊後認為蕭文龍、花…",
+     "author": "王錦義",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "王錦義",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "疑涉光電收賄遭搜索！　花蓮縣府說話了",
+     "link": "https://www.ettoday.net/news/20261022/3259213.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-10-22T14:58:00+08:00",
+     "description": "有關21日媒體報導疑似台南光電業者於花蓮鳳林鎮光電場涉弊，花蓮縣政府遭台南市調查處調查一案。花蓮縣政府於事實查核後說明表示，花蓮縣境內第一型大型地面型光電僅一件於蔡碧仲代理縣長時核發縣市主管機關同意函，其餘皆未核准，嚴謹評估，為鄉親權益及環境保護把關。\n 《詳全文...》",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "scraper",
-      "category": "society",
-      "feed_url": "https://news.ebc.net.tw/realtime"
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
      }
     },
     {
-     "title": "強颱逼近\"風狂吹\" 椰子樹葉砸雙載騎士害摔薔琵颱爆襲台中 路樹連根倒塌 壓扁車尾",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pSWNiR3FGOGx5bjJqWl9ISUpGYjctQ1Z0SmhIUVpMM2poRUFwcFJpRktPMENXck5wSy1lbjBvcjlOVjJXRXFSYmNWRFdqYWNpXy0xdFlB?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-10-22T22:07:09+08:00",
-     "description": "強颱逼近\"風狂吹\" 椰子樹葉砸雙載騎士害摔薔琵颱爆襲台中 路樹連根倒塌 壓扁車尾  TVBS新聞網",
+     "title": "2019年花蓮鳳林光電案涉不法 前鎮長蕭文龍等8人遭聲押",
+     "link": "https://news.pts.org.tw/article/832457",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-10-22T14:52:06+08:00",
+     "description": "花蓮鳳林鎮7年前光電申請案遭檢舉涉嫌不法，花蓮檢調昨（21）日兵分多路前往縣府、鎮公所等處調閱相關資料，並帶回前鳳林鎮長蕭文龍、前花蓮縣農會總幹事官俊彥等34餘人，經漏夜訊問後，認為有8人涉案情節重大，向花蓮地方法院聲請羈押禁見。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "涉光電弊案　花蓮鳳林鎮前鎮長蕭文龍聲押",
+     "link": "https://www.cna.com.tw/news/asoc/202610220164.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-10-22T14:00:09+08:00",
+     "description": "（中央社記者張祈花蓮縣22日電）回鍋參選的國民黨籍花蓮縣鳳林鎮長參選人蕭文龍涉光電弊案，收受業者回饋金約新台幣4000萬元，遭檢調搜索，連同花蓮縣農會官姓前總幹事及業者等7人，今依違反貪污治罪條例等案聲押。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/social"
+     }
+    },
+    {
+     "title": "疑涉光電弊案花蓮縣府遭搜 檢向法院聲押8人",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TellUV1BOS3NBaE1rZ3ZZRms1a3lOU3J1dElyTW4yenBmMnE5WUM5WVZIQUp2MzJlWHdfdUFaUkJIMFRqT2tjeHl0M3JkZmNwcDYwa2JjbGk0ZVE?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-10-22T10:36:22+08:00",
+     "description": "疑涉光電弊案花蓮縣府遭搜 檢向法院聲押8人  Newtalk新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -820,15 +854,67 @@
        "source": "unknown"
       },
       "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
-     "title": "薔琵強風將台中路樹「連根拔起」砸毀轎車　4小時後恢復通行",
-     "link": "https://www.mirrormedia.mg/story/20261022-167inv-213404",
+     "title": "花蓮光電弊案延燒！鳳林鎮長參選人蕭文龍、藍營大老女婿上市公司老董被聲押 | 林益民 | 新聞",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5IMXNrSDFxUjlyT01yb0VVRXdVRDNIQUltT3hQRm5MX19scUJLSmY1UER4dmZMWlFkOGtoR0JwbVFuUVdRQmpkWjFGT04tdw?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-10-22T10:18:00+08:00",
+     "description": "花蓮光電弊案延燒！鳳林鎮長參選人蕭文龍、藍營大老女婿上市公司老董被聲押 | 林益民 | 新聞  風傳媒",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "渡假村涉農路拓寬弊案 吳俊立500萬交保境管 檢將抗告",
+     "link": "https://news.ltn.com.tw/news/politics/paper/1775451",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-10-22T05:30:00+08:00",
+     "description": "〔記者劉人瑋／台東報導〕台東地檢署偵辦縣議長吳秀華家族涉及農路拓寬弊案，核心人物吳秀華兄長、前縣長吳俊立前天被傳訊後，否認所有犯行，檢察官昨天凌晨當庭逮捕聲押，台東地方法院下午裁定五百萬元交保並限制出境出海、科技監控。吳俊立晚間戴電子腳鐐獲釋，檢方對此裁定表達不服，將提抗告。\n\n\n檢方調查，吳…",
+     "author": "劉人瑋",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "劉人瑋",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "花蓮縣府又被搜索 疑與光電案有關",
+     "link": "https://news.ltn.com.tw/news/society/paper/1775449",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-10-22T05:30:00+08:00",
+     "description": "〔記者王錦義、花孟璟／花蓮報導〕花蓮縣鳳林鎮七年多前的光電申請案遭檢舉涉嫌不法，花蓮地檢署昨指揮調查人員前往花蓮縣政府、鳳林鎮公所等地，持搜索票調閱資料，並約談國民黨籍前任鎮長蕭文龍到案，釐清案情。\n\n據了解，光電業者看中鳳林鎮日照與平坦土地，從二〇一九年起在鳳林陸續申請與整合大量光電案場，總開…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "前台東縣長吳俊立涉知本農路圖利案！500萬交保限制出境　檢方不服提抗告",
+     "link": "https://www.mirrormedia.mg/story/20261021edi069",
      "source": "mirror",
      "source_name": "鏡週刊",
-     "published": "2026-10-22T21:38:00+08:00",
+     "published": "2026-10-21T21:03:00+08:00",
      "description": "",
      "metadata": {
       "schema_version": 1,
@@ -838,111 +924,6 @@
       },
       "acquisition": "rss",
       "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "百貨放颱風假！台北101、京站明暫停營業　新光三越、微風明早公布",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBvTVdxdE5Zd2s4Y0NOSXRObGl5eHpOTmdZOVp1alV0VGJiME9jR1A2WkctZnljVFdmdEpUM1dQX1lJUEpsT09McNIBTEFVX3lxTE9Hck9zZkRhZ3FvTjNBYWt4cm1MV0hrMHZPUTZBOFhXeXFQQzdNRHRkN3d4NzlVTmdBZElyT19TTGlKSVh1Vm9zRW14aEg?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-10-22T21:35:00+08:00",
-     "description": "百貨放颱風假！台北101、京站明暫停營業　新光三越、微風明早公布  三立新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "颱風薔琵逼近 台中新光三越百貨旁樹倒砸2車",
-     "link": "https://news.ebc.net.tw/news/society/577018",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-10-22T20:42:44.479082+08:00",
-     "description": "受颱風薔琵強風影響，台中西屯22日傍晚發生路樹傾倒砸中2輛自小客車意外，警方到場處置，所幸無人受傷。",
-     "category": "society",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "society",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "薔琵減弱為中度颱風 陸上警戒擴大為19縣市",
-     "link": "https://news.pts.org.tw/article/832570",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-10-22T20:25:44+08:00",
-     "description": "薔琵颱風已經減弱為中度颱風，但還是不容小覷。氣象署傍晚將陸上警戒範圍擴大為台灣本島19縣市，暴風圈預估明（23）日上午籠罩全台，10級暴風半徑可能掃到宜蘭東北角。颱風中心最接近台灣的時間點，為明日深夜到後（24）日清晨，也不排除登陸。值得注意的是，明日颱風最接近台灣，北部山區和宜蘭地區須嚴防豪雨等級以上降雨。基隆市上午已啟動預防性防颱封閉管制措施，包括潮境公園、大武崙沙灘等地區，已拉起封鎖線，禁止",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "薔琵外圍環流發威中部掀強風 苗栗看板掉落民眾遭繩勒脖摔傷",
-     "link": "https://news.pts.org.tw/article/832565",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-10-22T20:24:29+08:00",
-     "description": "颱風外圍環流發威，中部地區強風不斷。苗栗大型選舉看板今（22）日早上不敵強風吹襲轟然倒塌，64歲民眾疑似遭固定繩索勾住脖子摔車受傷；台中梧棲也有騎士遭強風吹倒，連停在路旁的機車都難以倖免。彰化鹿港老街也有老舊磚牆疑似年久失修，難以承受強風吹襲，出現部分倒塌。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "颱風薔琵逼近　台中新光三越百貨旁樹倒砸2車",
-     "link": "https://www.cna.com.tw/news/asoc/202610220324.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-10-22T18:50:57+08:00",
-     "description": "（中央社記者郝雪卿台中22日電）颱風薔琵逼近，強風吹襲，鄰近台中新光三越百貨的西屯區惠來路二段與台灣大道三段口路樹今天傍晚傾倒路中，砸中2輛路過自小客車；警方表示，雖有車損，還好無人受傷。",
-     "author": "郝雪卿",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "郝雪卿",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/social"
-     }
-    },
-    {
-     "title": "薔琵颱風速度變慢！越晚降雨越明顯  明深夜最接近台灣",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5615420",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-10-22T18:24:51+08:00",
-     "description": "薔琵颱風在今天（22日）傍晚減弱為中度颱風，但七級風暴風圈半徑仍舊有320公里寬。中央氣象署提醒，今天晚上起越晚雨勢會越明顯，薔琵颱風最靠近台灣的時間，將落在明天（23日）深夜...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
      }
     }
    ]
@@ -965,9 +946,9 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 80,
+   "article_count": 84,
    "first_seen": "2026-10-21T12:05:45+08:00",
-   "last_updated": "2026-10-22T23:11:24+08:00",
+   "last_updated": "2026-10-23T06:03:50+08:00",
    "tags": [
     "黃逸豪",
     "跨境鎮壓"
@@ -992,6 +973,76 @@
     }
    ],
    "articles": [
+    {
+     "title": "相聲演員遭中國買凶攻擊 律師批傅崐萁：只會罵賴清德卻不敢譴責習近平",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5615825",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-10-23T06:03:50+08:00",
+     "description": "相聲演員黃逸豪去年以演出諷刺習近平，竟遭中國境內人士委託的犯罪集團買凶攻擊。黃逸豪近日發聲明自稱是花蓮子弟，呼籲立委傅崐萁推動立法，傅崐萁卻批評賴清德政府不要只發新聞稿，要求限期...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "黃逸豪遭跨境買凶衝撞　矢板明夫籲修法應做3件事",
+     "link": "https://www.ettoday.net/news/20261023/3259520.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-10-23T05:32:00+08:00",
+     "description": "相聲演員黃逸豪遭中國人士涉嫌出資策劃假車禍傷害，引發各界關注。日本資深媒體人矢板明夫也曾在今年7月於台中遭香港籍男子廖港發襲擊，他呼籲政府修法應該做到3件事，分別為追查境外資金與幕後組織、建立明確刑責並加重處罰、保障正常言論自由。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "國安局掌握跨境鎮壓名單 交警署掃蕩 關注是否受中共指使、資助",
+     "link": "https://news.ltn.com.tw/news/politics/paper/1775562",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-10-23T05:30:00+08:00",
+     "description": "〔記者黃靖媗／台北報導〕知名相聲與喜劇演員黃逸豪，因諷刺中國國家主席習近平，遭境外勢力試圖以製造假車禍方式傷害。國安局長蔡明彥昨表示，目前掌握的協力在地網絡多為黑道幫派，或與黑道相關的徵信社，國安局有掌握具體名單；除了目前落網的執行層面嫌犯外，國安局更關注背後是否有接受中共指使、資助的犯罪集團及網絡…",
+     "author": "黃靖媗",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "黃靖媗",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "反制跨境鎮壓 最高檢：嚴查速辦",
+     "link": "https://news.ltn.com.tw/news/politics/paper/1775579",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-10-23T05:30:00+08:00",
+     "description": "向上溯源幕後指揮者 向下瓦解協力組織 徹底刨除犯罪網絡\n〔記者吳昇儒／台北報導〕近年跨境鎮壓案件頻傳，我國境外敵對勢力透過暴力、恐嚇，甚至傷害等手段，對國人進行人身侵害與威脅，藉此恫嚇壓制不同聲音，戕害我國社會安定及民主根基。最高檢察署表示，針對該類型案件，檢察機關已於第一時間全力偵辦，積極溯源並…",
+     "author": "吳昇儒",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "吳昇儒",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
     {
      "title": "奉命「撞飛上引擎蓋、斷手腳住院」 黃逸豪遭跨境鎮壓4嫌收押1交保",
      "link": "https://news.ltn.com.tw/news/politics/breakingnews/5615769",
@@ -1094,295 +1145,6 @@
       },
       "acquisition": "rss",
       "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "昔遭開3槍　中共跨境鎮壓「首例是館長？」　梁文傑：不能說完全不合理",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE90cGRBU045NGZMWGwzQ2FaNk1fcndwQVB6cTZldzR6Tjk3cTI4QW9pX1dFU1Z0TlVYd2U1ZzdWOEtrU0pSaTluX9IBTEFVX3lxTE5WTUhoTjZUMnlaS2l1X29NeVFKUkRGMzRfYnduekpKcEdxWFBhOW9Yd3hMV0szN2ozUGRMVHBld2x4UGYzLXd4TmFPbTk?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-10-22T17:53:00+08:00",
-     "description": "昔遭開3槍　中共跨境鎮壓「首例是館長？」　梁文傑：不能說完全不合理  三立新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "中共跨境鎮壓　民進黨籲藍白支持修法補強國安",
-     "link": "https://www.cna.com.tw/news/aipl/202610220274.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-10-22T17:41:09+08:00",
-     "description": "（中央社記者王揚宇台北22日電）相聲演員黃逸豪日前遭車撞傷，背後涉中共跨境鎮壓。民進黨今天表示，中共跨國鎮壓不斷，希望藍白支持國安修法，補強國安防線。",
-     "author": "王揚宇",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "王揚宇",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
-     }
-    },
-    {
-     "title": "防跨境鎮壓政院專案保護參選人　沈伯洋盼修反滲透法",
-     "link": "https://www.cna.com.tw/news/aipl/202610220224.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-10-22T15:56:19+08:00",
-     "description": "（中央社記者劉建邦台北22日電）民進黨台北市長參選人沈伯洋今天被問及行政院對跨境鎮壓以專案保護參選人時說，對所有參選人維安是該升級，但人民也該被保護，先前就提配套如修反滲透法，希望立法院盡快討論。",
-     "author": "劉建邦",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "劉建邦",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
-     }
-    },
-    {
-     "title": "黃逸豪罵習近平遭買凶報復！詹凌瑀揭45萬跨境攻擊內幕",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5614842",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-10-22T14:34:47+08:00",
-     "description": "中共跨國鎮壓手段不斷升級，從跟監立委沈伯洋、攻擊媒體人矢板明夫，到出資買凶攻擊喜劇演員黃逸豪，已形成「境外發包、境內執行」的恐嚇模式。對此，媒體人詹凌瑀表示，一個相聲演員，在台北...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    }
-   ]
-  },
-  {
-   "id": "41188de9d0b6",
-   "title": "台東農路拓寬涉圖利案　檢調收網機場帶走吳俊立",
-   "outlet_count": 12,
-   "outlets": [
-    "cna",
-    "ebc",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "newtalk",
-    "nownews",
-    "pts",
-    "setn",
-    "storm",
-    "tvbs",
-    "udn"
-   ],
-   "article_count": 32,
-   "first_seen": "2026-10-20T09:36:32+08:00",
-   "last_updated": "2026-10-22T14:58:00+08:00",
-   "tags": [
-    "吳俊立",
-    "搜索",
-    "檢調"
-   ],
-   "claims": [
-    {
-     "type": "金額",
-     "agree": true,
-     "outlet_count": 5,
-     "values": [
-      {
-       "value": "500萬元",
-       "outlets": [
-        "ETtoday",
-        "今日新聞",
-        "公視新聞",
-        "自由時報",
-        "鏡週刊"
-       ]
-      }
-     ]
-    }
-   ],
-   "articles": [
-    {
-     "title": "疑涉光電收賄遭搜索！　花蓮縣府說話了",
-     "link": "https://www.ettoday.net/news/20261022/3259213.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-10-22T14:58:00+08:00",
-     "description": "有關21日媒體報導疑似台南光電業者於花蓮鳳林鎮光電場涉弊，花蓮縣政府遭台南市調查處調查一案。花蓮縣政府於事實查核後說明表示，花蓮縣境內第一型大型地面型光電僅一件於蔡碧仲代理縣長時核發縣市主管機關同意函，其餘皆未核准，嚴謹評估，為鄉親權益及環境保護把關。\n 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "2019年花蓮鳳林光電案涉不法 前鎮長蕭文龍等8人遭聲押",
-     "link": "https://news.pts.org.tw/article/832457",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-10-22T14:52:06+08:00",
-     "description": "花蓮鳳林鎮7年前光電申請案遭檢舉涉嫌不法，花蓮檢調昨（21）日兵分多路前往縣府、鎮公所等處調閱相關資料，並帶回前鳳林鎮長蕭文龍、前花蓮縣農會總幹事官俊彥等34餘人，經漏夜訊問後，認為有8人涉案情節重大，向花蓮地方法院聲請羈押禁見。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "涉光電弊案　花蓮鳳林鎮前鎮長蕭文龍聲押",
-     "link": "https://www.cna.com.tw/news/asoc/202610220164.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-10-22T14:00:09+08:00",
-     "description": "（中央社記者張祈花蓮縣22日電）回鍋參選的國民黨籍花蓮縣鳳林鎮長參選人蕭文龍涉光電弊案，收受業者回饋金約新台幣4000萬元，遭檢調搜索，連同花蓮縣農會官姓前總幹事及業者等7人，今依違反貪污治罪條例等案聲押。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/social"
-     }
-    },
-    {
-     "title": "疑涉光電弊案花蓮縣府遭搜 檢向法院聲押8人",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TellUV1BOS3NBaE1rZ3ZZRms1a3lOU3J1dElyTW4yenBmMnE5WUM5WVZIQUp2MzJlWHdfdUFaUkJIMFRqT2tjeHl0M3JkZmNwcDYwa2JjbGk0ZVE?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-10-22T10:36:22+08:00",
-     "description": "疑涉光電弊案花蓮縣府遭搜 檢向法院聲押8人  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "花蓮光電弊案延燒！鳳林鎮長參選人蕭文龍、藍營大老女婿上市公司老董被聲押 | 林益民 | 新聞",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5IMXNrSDFxUjlyT01yb0VVRXdVRDNIQUltT3hQRm5MX19scUJLSmY1UER4dmZMWlFkOGtoR0JwbVFuUVdRQmpkWjFGT04tdw?oc=5",
-     "source": "storm",
-     "source_name": "風傳媒",
-     "published": "2026-10-22T10:18:00+08:00",
-     "description": "花蓮光電弊案延燒！鳳林鎮長參選人蕭文龍、藍營大老女婿上市公司老董被聲押 | 林益民 | 新聞  風傳媒",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "花蓮縣府又被搜索 疑與光電案有關",
-     "link": "https://news.ltn.com.tw/news/society/paper/1775449",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-10-22T05:30:00+08:00",
-     "description": "〔記者王錦義、花孟璟／花蓮報導〕花蓮縣鳳林鎮七年多前的光電申請案遭檢舉涉嫌不法，花蓮地檢署昨指揮調查人員前往花蓮縣政府、鳳林鎮公所等地，持搜索票調閱資料，並約談國民黨籍前任鎮長蕭文龍到案，釐清案情。\n\n據了解，光電業者看中鳳林鎮日照與平坦土地，從二〇一九年起在鳳林陸續申請與整合大量光電案場，總開…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "渡假村涉農路拓寬弊案 吳俊立500萬交保境管 檢將抗告",
-     "link": "https://news.ltn.com.tw/news/politics/paper/1775451",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-10-22T05:30:00+08:00",
-     "description": "〔記者劉人瑋／台東報導〕台東地檢署偵辦縣議長吳秀華家族涉及農路拓寬弊案，核心人物吳秀華兄長、前縣長吳俊立前天被傳訊後，否認所有犯行，檢察官昨天凌晨當庭逮捕聲押，台東地方法院下午裁定五百萬元交保並限制出境出海、科技監控。吳俊立晚間戴電子腳鐐獲釋，檢方對此裁定表達不服，將提抗告。\n\n\n檢方調查，吳…",
-     "author": "劉人瑋",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "劉人瑋",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "前台東縣長吳俊立涉知本農路圖利案！500萬交保限制出境　檢方不服提抗告",
-     "link": "https://www.mirrormedia.mg/story/20261021edi069",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-10-21T21:03:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "檢方調查光電開發案件 花蓮觀光處、地政處遭搜索",
-     "link": "https://news.pts.org.tw/article/832379",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-10-21T20:20:18+08:00",
-     "description": "花蓮檢方今（21）日發動搜索，進入花蓮縣府觀光處、地政處、鳳林鎮公所等單位調閱相關卷宗，並約談前鳳林鎮長蕭文龍等人到案，要釐清是否有光電廠商申請開發過程涉及不法，檢方目前正積極保全證據調查中。而在台東，前台東縣長吳俊立因捲入土地開發農路圖利弊案，檢方向法院聲請羈押禁見。法院於今日下午裁定，吳俊立以500萬元交保、限制出境出海並實施科技監控。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "澎湖冒領發票案再拘1人　法院裁定10萬元交保",
-     "link": "https://www.cna.com.tw/news/asoc/202610210321.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-10-21T19:58:07+08:00",
-     "description": "（中央社澎湖縣21日電）澎湖地檢署偵辦冒領千萬元中獎發票案，今天擴大溯源再查獲一名鮑姓男子涉案，檢方依法送辦並向法院聲請羈押，法院認無羈押必要，裁定新台幣10萬元交保。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/social"
      }
     }
    ]
@@ -1664,12 +1426,12 @@
    ],
    "articles": [
     {
-     "title": "來不及反應！台積電工安釀4死 同事還原驚悚瞬間",
-     "link": "https://news.ebc.net.tw/news/society/576827",
+     "title": "疑螺栓彈性疲乏斷！ 台積電F22廠鋼梁墜落4死",
+     "link": "https://news.ebc.net.tw/news/society/576819",
      "source": "ebc",
      "source_name": "東森新聞",
      "published": "2026-10-21T18:31:50.962178+08:00",
-     "description": "台積電高雄廠發生重大工安意外釀4死，今日檢方相驗家屬悲慟認屍。目擊同事還原當時整座鋼構瞬間塌陷墜落，即便繫妥安全繩也無法倖免，全案已停工調查中。",
+     "description": "台積電高雄楠梓F22廠P4工程20日發生重大工安意外，4名工人隨鋼梁從3樓高處墜落身亡，疑與螺栓斷裂有關，相關工程已停工調查。",
      "category": "society",
      "metadata": {
       "schema_version": 1,
@@ -1683,12 +1445,12 @@
      }
     },
     {
-     "title": "疑螺栓彈性疲乏斷！ 台積電F22廠鋼梁墜落4死",
-     "link": "https://news.ebc.net.tw/news/society/576819",
+     "title": "來不及反應！台積電工安釀4死 同事還原驚悚瞬間",
+     "link": "https://news.ebc.net.tw/news/society/576827",
      "source": "ebc",
      "source_name": "東森新聞",
      "published": "2026-10-21T18:31:50.962178+08:00",
-     "description": "台積電高雄楠梓F22廠P4工程20日發生重大工安意外，4名工人隨鋼梁從3樓高處墜落身亡，疑與螺栓斷裂有關，相關工程已停工調查。",
+     "description": "台積電高雄廠發生重大工安意外釀4死，今日檢方相驗家屬悲慟認屍。目擊同事還原當時整座鋼構瞬間塌陷墜落，即便繫妥安全繩也無法倖免，全案已停工調查中。",
      "category": "society",
      "metadata": {
       "schema_version": 1,
@@ -1837,6 +1599,205 @@
       },
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/rsscna/local"
+     }
+    }
+   ]
+  },
+  {
+   "id": "341a946dc83f",
+   "title": "吳子嘉涉違反選罷法　檢方搜索台北辦公室及住處",
+   "outlet_count": 10,
+   "outlets": [
+    "chinatimes",
+    "cna",
+    "ebc",
+    "ettoday",
+    "ltn",
+    "mirror",
+    "newtalk",
+    "nownews",
+    "setn",
+    "udn"
+   ],
+   "article_count": 26,
+   "first_seen": "2026-10-22T14:09:29+08:00",
+   "last_updated": "2026-10-23T05:43:31+08:00",
+   "tags": [
+    "吳子嘉",
+    "搜索"
+   ],
+   "articles": [
+    {
+     "title": "吳子嘉、吳俊立遭搜索 鄭麗文不忍了",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5615817",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-10-23T05:43:31+08:00",
+     "description": "距離九合一大選剩 下37天，國民黨主席鄭麗文痛批，司法搜索接二連三，從台東吳俊立、花蓮縣政府，到昨天資深媒體人吳子嘉遭到搜索調查，短短幾天，司法行動密集涉及地方政治與選舉相關人...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "竹檢搜索約談吳子嘉 晚間請回",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxQUg0TnZaVThBNmhVNWF4NkcyZ04weDlIdGpoZEh0RlB4ZmZWb1lJN2Ytd2Z5RFdjRnFid3V1ZlFfU2JLNFBicGpyNklfVDc2R1VZZEVSVmhvbVVHbUZoWlQxT0RudXVpQ2NJ?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-10-23T04:10:00+08:00",
+     "description": "竹檢搜索約談吳子嘉 晚間請回  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "吳子嘉涉違選罷法遭搜索　鄭麗文表達嚴正抗議",
+     "link": "https://www.cna.com.tw/news/aipl/202610220417.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-10-22T21:40:17+08:00",
+     "description": "（中央社記者王承中台北22日電）美麗島電子報董事長吳子嘉涉嫌違反選罷法，今天其辦公室及住處遭檢調搜索。國民黨主席鄭麗文表示，她對吳子嘉的遭遇表達強烈憤怒與嚴正抗議，並堅定聲援吳子嘉捍衛言論自由與自身權益。",
+     "author": "王承中",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "王承中",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
+     }
+    },
+    {
+     "title": "竹檢偵辦意圖使人不當選等案　聲押彭男獲准後搜索吳子嘉",
+     "link": "https://www.cna.com.tw/news/asoc/202610220407.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-10-22T21:17:55+08:00",
+     "description": "（中央社記者郭宣彣新竹縣22日電）新竹地檢署偵辦選罷法意圖使人不當選等案，昨天執行搜索並聲押禁見彭姓被告獲准；檢警為向上溯源，今天搜索美麗島電子報董事長吳子嘉住處及公司，扣得相關證據。吳子嘉完成警詢筆錄後已離開，檢察官不排除擇日傳喚。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/social"
+     }
+    },
+    {
+     "title": "男發鄭朝方黑函遭羈押禁見！竹檢向上溯源搜索吳子嘉住處、公司",
+     "link": "https://www.ettoday.net/news/20261022/3259463.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-10-22T21:04:00+08:00",
+     "description": "近日新竹縣竹北地區出現針對民進黨新竹縣長參選人鄭朝方的文宣，其中彭姓文宣發放者被警方逮捕，由於彭涉嫌違反《選罷法》且罪嫌重大，竹檢複訊後聲押禁見獲准。竹檢向上溯源、追查其他共犯及保全證據，22日搜索美麗島電子報董事長吳子嘉的住處、公司，並已扣得相關證據，後續將持續釐清事實，依法偵辦。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "國民黨聲援吳子嘉涉違反選罷法被搜索　嗆司法淪民進黨打手",
+     "link": "https://www.ettoday.net/news/20261022/3259408.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-10-22T18:27:00+08:00",
+     "description": "因民進黨新竹縣長候選人鄭朝方陣營提告，指控《美麗島電子報》董事長吳子嘉散發黑函，涉及涉及誹謗且意圖使他不當選，新竹檢警今（22日）北上發動搜索，傳喚並約談吳子嘉。國民黨文傳會主委陳以信痛批，選舉將近，檢調接連對政治人物及媒體人發動搜索，究竟掌握什麼重大事證？為何非得採取搜索手段不可？司法應該維護公平正義，絕不能淪為任何政黨打擊異己的政治打手。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "吳子嘉遭約談、搜索 國民黨：如何不讓社會質疑司法中立？",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5feXFVU0cyVHh2c0pWV0xrS3FyNEJzUG5aUmZCREViOUhHWGppQ2MyWGJ5QVQzRXM2WnNrd3NjVVVzOUhnc2wxLU5TeHcyTk1GbjNsVHhqNXRzd2M?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-10-22T18:04:33+08:00",
+     "description": "吳子嘉遭約談、搜索 國民黨：如何不讓社會質疑司法中立？  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "吳子嘉遭搜索涉選罷法！律師揭檢調3大考量：50萬份傳單恐成關鍵| 政治",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QdnlfSjJDVXBPT2xHV2Z4eGhNclI3UVROQmowelVZWTdNbG5YQnZsUGhZVGw1clZHYnpGbU5qTFY1Wm9WVzFkNEhrTlI2eEJ0X2l0WUI2dS04YVk?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-10-22T17:05:34+08:00",
+     "description": "吳子嘉遭搜索涉選罷法！律師揭檢調3大考量：50萬份傳單恐成關鍵| 政治  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "吳子嘉住家、辦公室遭搜索！揚言絕食抗議：拒絕交保",
+     "link": "https://news.ebc.net.tw/news/politics/576987",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-10-22T16:39:24.965372+08:00",
+     "description": "美麗島電子報董事長吳子嘉住家及辦公室遭檢調搜索，疑與鄭朝方提告案有關。吳子嘉在官網發聲，控訴遭司法追殺，並表示今晚無法主持節目。",
+     "category": "politics",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "politics",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "與盧秀燕竹北開講前夕突遭搜索！吳子嘉批「司法追殺」絕食拒交保| 縣市長議員選戰| 要聞",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GaF9XbEJwdzVzUkJWdWIyemlKSUtiZ1cxeFRUd0Q2OGlLT3FteEJUTVlsYXRteUVtMDRXUjZOblpYaWw2VTFZWjRJa2tVSVBIQ1dF?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-10-22T16:24:17+08:00",
+     "description": "與盧秀燕竹北開講前夕突遭搜索！吳子嘉批「司法追殺」絕食拒交保| 縣市長議員選戰| 要聞  UDN",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -2834,203 +2795,6 @@
    ]
   },
   {
-   "id": "873ed7f72781",
-   "title": "政治獻金案同案2人認罪　柯文哲：這不是認罪是認輸",
-   "outlet_count": 10,
-   "outlets": [
-    "chinatimes",
-    "cna",
-    "ltn",
-    "mirror",
-    "newtalk",
-    "pts",
-    "setn",
-    "storm",
-    "tvbs",
-    "udn"
-   ],
-   "article_count": 16,
-   "first_seen": "2026-10-20T05:30:00+08:00",
-   "last_updated": "2026-10-21T23:10:00+08:00",
-   "tags": [
-    "不是認罪是認",
-    "柯文哲",
-    "李文宗"
-   ],
-   "articles": [
-    {
-     "title": "李文宗兄妹認罪！柯文哲親揭背後委屈：這不是認罪是認輸 | 蕭宥宸 | 新聞",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45ZUJocWtzUnZBZzF5VDZ4Z18yY3U0UmtFWmJkRGpVc2N6Wks0T2h6dWJvdk5qSDdMRW5kQTdBQUJjMUVJZ0FBS0JsSUJMQQ?oc=5",
-     "source": "storm",
-     "source_name": "風傳媒",
-     "published": "2026-10-21T23:10:00+08:00",
-     "description": "李文宗兄妹認罪！柯文哲親揭背後委屈：這不是認罪是認輸 | 蕭宥宸 | 新聞  風傳媒",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "李文宗、李文娟認罪！　柯文哲強調是「認輸」：我絕不投降、絕不屈服",
-     "link": "https://www.mirrormedia.mg/story/20261021edi064",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-10-21T21:58:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "稱李文宗、李文娟「不是認罪是認輸」　柯文哲：我絕不投降不屈服",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFByNnFCeEo3RFdIOFNCYXdYczY1MElmX25yZ2pUOG9ESlB0VUxlQmdiTVg5LWpWU2hiQ213YTYyQUtPemdGcE5lONIBTEFVX3lxTE1pLS1KclRITE14aDRrcG9zaW0tZUo1cGlzaEVnV1JiUFR3V1l5YW1kSDkyekFFbHJabGFCLVR3SXVGMm1lVmw3WkRaRUM?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-10-21T20:36:00+08:00",
-     "description": "稱李文宗、李文娟「不是認罪是認輸」　柯文哲：我絕不投降不屈服  三立新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "稱李文宗、李文娟「不是認罪是認輸」 柯文哲：我絕不投降不屈服| 政治",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFByNnFCeEo3RFdIOFNCYXdYczY1MElmX25yZ2pUOG9ESlB0VUxlQmdiTVg5LWpWU2hiQ213YTYyQUtPemdGcE5lOA?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-10-21T20:36:00+08:00",
-     "description": "稱李文宗、李文娟「不是認罪是認輸」 柯文哲：我絕不投降不屈服| 政治  三立新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "李文宗、李文娟改認罪柯文哲：不是認罪是認輸| Newtalk討論區",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xQkMtbFN2cXI3b002RUg3bHpJeWkwNHZkX1dpcGdVTUIycEdvdF9BdV9MX3JmNVNWclZfejB0M0pvT3BCUE1hTWJJYw?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-10-21T17:36:25+08:00",
-     "description": "李文宗、李文娟改認罪柯文哲：不是認罪是認輸| Newtalk討論區  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "李文宗、李文娟改認罪柯文哲：不是認罪是認輸| 政治",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tXy1neWFnU0t4YXZtalZfMmNaR1R5Vmo0aUo4NE9uY1JlaU9YWlVibmlsWFU2R1BFSnkwdUpZUktROUpESXNwaVUwd1FWdWJDNkRpYTJXNmprUjA?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-10-21T17:13:50+08:00",
-     "description": "李文宗、李文娟改認罪柯文哲：不是認罪是認輸| 政治  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "大帳房翻盤！李文宗、李文娟改口認罪柯文哲稱：這不是認罪是認輸| 政治",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8yb2ZKUnNKN19ld3hYM2tUd0FlTDRUMEthNnBQb19IelV6SFNSaUV2RlkwbmQyVUVaTE5GYXdkd1ZVQ2dvdlB2cg?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-10-21T16:36:00+08:00",
-     "description": "大帳房翻盤！李文宗、李文娟改口認罪柯文哲稱：這不是認罪是認輸| 政治  三立新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "李文宗兄妹二審開庭認罪 柯文哲：是認輸而非認罪",
-     "link": "https://news.pts.org.tw/article/832283",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-10-21T13:57:39+08:00",
-     "description": "前台北市長柯文哲因涉入京華城與政治獻金案，一審遭判17年後提起上訴。高等法院19日傳喚前柯辦主任李文宗以及前木可公司負責人李文娟開庭續審，兄妹倆都改口認罪。柯文哲今（21）日到花蓮輔選時也做出回應，感嘆他們因為自己被折磨，認為是認輸、不是認罪。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "京華城案李文宗兄妹認罪！柯文哲「是認輸、不是認罪」",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5613428",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-10-21T12:09:55+08:00",
-     "description": "京華城案李文宗、李文娟前天二審開庭時認罪，柯文哲今天早上參加黨籍花蓮市長、議員參選人總部成立時表示，「這不是認罪，這叫認輸」，柯文哲也舉當時任威京集團法務經理陳俊源認罪是「基於...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "政治獻金案同案2人認罪　柯文哲：這不是認罪是認輸",
-     "link": "https://www.cna.com.tw/news/aipl/202610210078.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-10-21T11:32:19+08:00",
-     "description": "（中央社記者張祈花蓮縣21日電）民眾黨創黨主席柯文哲政治獻金等案，同案被告李文宗與李文娟部分認罪。柯文哲今天回應，遭受司法折磨2年，「這不是認罪，是認輸」，喊話司法應保障弱勢者的公平正義。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
-     }
-    }
-   ]
-  },
-  {
    "id": "44cafb9c590c",
    "title": "蔣萬安稱做完任期　沈伯洋：第一時間被問就應該有明確答案",
    "outlet_count": 10,
@@ -3212,7 +2976,7 @@
     },
     {
      "title": "回應是否做好做滿 蔣萬安：一定會將四年任期做完",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BdlVMeDRnWDJuYjJCcGNtcXgySE9LOGVCVEk3N2UyZURZM3lnN1FhLTJJOGpsNGd2UFVORk5MNVlCZHJKZ3NSYWM0Q1pXNS1kdlg3eUJUc0TSAVhBVV95cUxNQXZVTHg0Z1gybmIyQnBjbXF4MkhPSzhlQlRJNzdlMmVEWTN5ZzdRYS0ySThqbDRndlBVTkZOTDVZQmRySmdzUmFjNENaVzUtZHZYN3lCVHNE?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lOG41cWJ1MmJGZ2NVaFFLQ21aQVlVa2lhUWhpVzE1cGh3WF9jMUpvZWMwRjVqVGhrd2dMcVI0M2VXcjdvU2VON2RhOEhzcU9id2Fz0gFYQVVfeXFMTUF2VUx4NGdYMm5iMkJwY21xeDJIT0s4ZUJUSTc3ZTJlRFkzeWc3UWEtMkk4amw0Z3ZQVU5GTkw1WUJkckpnc1JhYzRDWlc1LWR2WDd5QlRzRA?oc=5",
      "source": "udn",
      "source_name": "聯合新聞網",
      "published": "2026-10-21T10:12:58+08:00",
@@ -3225,204 +2989,6 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
-   "id": "341a946dc83f",
-   "title": "吳子嘉涉違反選罷法　檢方搜索台北辦公室及住處",
-   "outlet_count": 9,
-   "outlets": [
-    "chinatimes",
-    "cna",
-    "ebc",
-    "ettoday",
-    "mirror",
-    "newtalk",
-    "nownews",
-    "setn",
-    "udn"
-   ],
-   "article_count": 23,
-   "first_seen": "2026-10-22T14:09:29+08:00",
-   "last_updated": "2026-10-23T04:10:00+08:00",
-   "tags": [
-    "吳子嘉",
-    "搜索"
-   ],
-   "articles": [
-    {
-     "title": "竹檢搜索約談吳子嘉 晚間請回",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxQUg0TnZaVThBNmhVNWF4NkcyZ04weDlIdGpoZEh0RlB4ZmZWb1lJN2Ytd2Z5RFdjRnFid3V1ZlFfU2JLNFBicGpyNklfVDc2R1VZZEVSVmhvbVVHbUZoWlQxT0RudXVpQ2NJ?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-10-23T04:10:00+08:00",
-     "description": "竹檢搜索約談吳子嘉 晚間請回  中時新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "吳子嘉涉違選罷法遭搜索　鄭麗文表達嚴正抗議",
-     "link": "https://www.cna.com.tw/news/aipl/202610220417.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-10-22T21:40:17+08:00",
-     "description": "（中央社記者王承中台北22日電）美麗島電子報董事長吳子嘉涉嫌違反選罷法，今天其辦公室及住處遭檢調搜索。國民黨主席鄭麗文表示，她對吳子嘉的遭遇表達強烈憤怒與嚴正抗議，並堅定聲援吳子嘉捍衛言論自由與自身權益。",
-     "author": "王承中",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "王承中",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
-     }
-    },
-    {
-     "title": "竹檢偵辦意圖使人不當選等案　聲押彭男獲准後搜索吳子嘉",
-     "link": "https://www.cna.com.tw/news/asoc/202610220407.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-10-22T21:17:55+08:00",
-     "description": "（中央社記者郭宣彣新竹縣22日電）新竹地檢署偵辦選罷法意圖使人不當選等案，昨天執行搜索並聲押禁見彭姓被告獲准；檢警為向上溯源，今天搜索美麗島電子報董事長吳子嘉住處及公司，扣得相關證據。吳子嘉完成警詢筆錄後已離開，檢察官不排除擇日傳喚。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/social"
-     }
-    },
-    {
-     "title": "男發鄭朝方黑函遭羈押禁見！竹檢向上溯源搜索吳子嘉住處、公司",
-     "link": "https://www.ettoday.net/news/20261022/3259463.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-10-22T21:04:00+08:00",
-     "description": "近日新竹縣竹北地區出現針對民進黨新竹縣長參選人鄭朝方的文宣，其中彭姓文宣發放者被警方逮捕，由於彭涉嫌違反《選罷法》且罪嫌重大，竹檢複訊後聲押禁見獲准。竹檢向上溯源、追查其他共犯及保全證據，22日搜索美麗島電子報董事長吳子嘉的住處、公司，並已扣得相關證據，後續將持續釐清事實，依法偵辦。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "國民黨聲援吳子嘉涉違反選罷法被搜索　嗆司法淪民進黨打手",
-     "link": "https://www.ettoday.net/news/20261022/3259408.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-10-22T18:27:00+08:00",
-     "description": "因民進黨新竹縣長候選人鄭朝方陣營提告，指控《美麗島電子報》董事長吳子嘉散發黑函，涉及涉及誹謗且意圖使他不當選，新竹檢警今（22日）北上發動搜索，傳喚並約談吳子嘉。國民黨文傳會主委陳以信痛批，選舉將近，檢調接連對政治人物及媒體人發動搜索，究竟掌握什麼重大事證？為何非得採取搜索手段不可？司法應該維護公平正義，絕不能淪為任何政黨打擊異己的政治打手。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "吳子嘉遭約談、搜索 國民黨：如何不讓社會質疑司法中立？",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5feXFVU0cyVHh2c0pWV0xrS3FyNEJzUG5aUmZCREViOUhHWGppQ2MyWGJ5QVQzRXM2WnNrd3NjVVVzOUhnc2wxLU5TeHcyTk1GbjNsVHhqNXRzd2M?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-10-22T18:04:33+08:00",
-     "description": "吳子嘉遭約談、搜索 國民黨：如何不讓社會質疑司法中立？  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "吳子嘉住家、辦公室遭搜索！揚言絕食抗議：拒絕交保",
-     "link": "https://news.ebc.net.tw/news/politics/576987",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-10-22T16:39:24.965372+08:00",
-     "description": "美麗島電子報董事長吳子嘉住家及辦公室遭檢調搜索，疑與鄭朝方提告案有關。吳子嘉在官網發聲，控訴遭司法追殺，並表示今晚無法主持節目。",
-     "category": "politics",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "politics",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "與盧秀燕竹北開講前夕突遭搜索！吳子嘉批「司法追殺」絕食拒交保| 縣市長議員選戰| 要聞",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GaF9XbEJwdzVzUkJWdWIyemlKSUtiZ1cxeFRUd0Q2OGlLT3FteEJUTVlsYXRteUVtMDRXUjZOblpYaWw2VTFZWjRJa2tVSVBIQ1dF?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-10-22T16:24:17+08:00",
-     "description": "與盧秀燕竹北開講前夕突遭搜索！吳子嘉批「司法追殺」絕食拒交保| 縣市長議員選戰| 要聞  UDN",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "與盧秀燕竹北開講前夕突遭搜索！吳子嘉批「司法追殺」絕食拒交保",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GaF9XbEJwdzVzUkJWdWIyemlKSUtiZ1cxeFRUd0Q2OGlLT3FteEJUTVlsYXRteUVtMDRXUjZOblpYaWw2VTFZWjRJa2tVSVBIQ1dF0gFYQVVfeXFMTWpSakhRTkxLMHQ2VmVtWEowWFpVcWZyY0RoS3AzemFEYzI3MmloTWIwRE5wcmVna0tEbUJFWWVFajRBT0MweFZRSkJnNTdhbzFfWU1leFhKUQ?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-10-22T16:24:17+08:00",
-     "description": "與盧秀燕竹北開講前夕突遭搜索！吳子嘉批「司法追殺」絕食拒交保  UDN",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "吳子嘉遭檢搜索眾藍委聲援轟司法介選| 政治",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfcjg2eEpOZXBBdnlfek96azJ0TFM1SXdBNnlVYzkwY3VBTU1LMENhRGpWbzNrRTdTRkhFeFVMRUZzZldTRkIweEpaTnEwek5yVFBLeUhzbDhBRTQ?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-10-22T16:12:39+08:00",
-     "description": "吳子嘉遭檢搜索眾藍委聲援轟司法介選| 政治  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -3442,15 +3008,33 @@
     "setn",
     "tvbs"
    ],
-   "article_count": 32,
+   "article_count": 33,
    "first_seen": "2026-10-20T08:23:00+08:00",
-   "last_updated": "2026-10-22T19:05:16+08:00",
+   "last_updated": "2026-10-23T05:30:00+08:00",
    "tags": [
     "參選人",
     "交保",
     "賄選"
    ],
    "articles": [
+    {
+     "title": "涉現金綁樁 國民黨橫山鄉長收押",
+     "link": "https://news.ltn.com.tw/news/politics/paper/1775563",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-10-23T05:30:00+08:00",
+     "description": "〔記者黃美珠／新竹報導〕國民黨籍新竹縣橫山鄉長張志弘被控，在年底大選中，為支持特定的鄉長、鄉代等候選人順利當選，疑似利用公務車私用輔選，另用六千元到一萬元不等現金綁樁，廿一日檢調警包圍公所，對其辦公室和住處等多點進行搜索，以他涉嫌重大，且有滅證事實及逃亡、串證之虞，當庭逮捕後，漏夜向新竹地院聲請羈押…",
+     "author": "黃美珠",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "黃美珠",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
     {
      "title": "新北板橋里長涉發600元獎學金涉賄選　10萬元交保",
      "link": "https://www.cna.com.tw/news/asoc/202610220333.aspx",
@@ -3607,14 +3191,57 @@
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/rsscna/social"
      }
+    }
+   ]
+  },
+  {
+   "id": "eed43d85ea23",
+   "title": "政治獻金案同案2人認罪　柯文哲：這不是認罪是認輸",
+   "outlet_count": 9,
+   "outlets": [
+    "chinatimes",
+    "cna",
+    "ltn",
+    "mirror",
+    "newtalk",
+    "pts",
+    "setn",
+    "storm",
+    "udn"
+   ],
+   "article_count": 14,
+   "first_seen": "2026-10-20T08:25:24+08:00",
+   "last_updated": "2026-10-21T23:10:00+08:00",
+   "tags": [
+    "不是認罪是認",
+    "柯文哲",
+    "李文宗"
+   ],
+   "articles": [
+    {
+     "title": "李文宗兄妹認罪！柯文哲親揭背後委屈：這不是認罪是認輸 | 蕭宥宸 | 新聞",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45ZUJocWtzUnZBZzF5VDZ4Z18yY3U0UmtFWmJkRGpVc2N6Wks0T2h6dWJvdk5qSDdMRW5kQTdBQUJjMUVJZ0FBS0JsSUJMQQ?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-10-21T23:10:00+08:00",
+     "description": "李文宗兄妹認罪！柯文哲親揭背後委屈：這不是認罪是認輸 | 蕭宥宸 | 新聞  風傳媒",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
     },
     {
-     "title": "高雄議員參選人涉賄200萬交保「父兄收押」　不服裁定急提抗告",
-     "link": "https://www.ettoday.net/news/20261022/3259078.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-10-22T12:15:00+08:00",
-     "description": "無黨籍高雄市第三選區議員參選人、前高雄海洋局長張漢雄次子張騏晟捲入賄選案，檢調12日發動搜索，帶回張騏晟、大哥張鈞華（現任漁會總幹事）、以及父親張漢雄等父子3人，13日檢方對3人聲押禁見，橋院裁定張騏晟200萬元交保、父親和大哥准押。對此，橋頭地檢署和張漢雄、張鈞華雙方對於橋院的裁定均不服，雙雙提出抗告。 《詳全文...》",
+     "title": "李文宗、李文娟認罪！　柯文哲強調是「認輸」：我絕不投降、絕不屈服",
+     "link": "https://www.mirrormedia.mg/story/20261021edi064",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-10-21T21:58:00+08:00",
+     "description": "",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -3622,7 +3249,143 @@
        "source": "unknown"
       },
       "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "稱李文宗、李文娟「不是認罪是認輸」　柯文哲：我絕不投降不屈服",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFByNnFCeEo3RFdIOFNCYXdYczY1MElmX25yZ2pUOG9ESlB0VUxlQmdiTVg5LWpWU2hiQ213YTYyQUtPemdGcE5lONIBTEFVX3lxTE1pLS1KclRITE14aDRrcG9zaW0tZUo1cGlzaEVnV1JiUFR3V1l5YW1kSDkyekFFbHJabGFCLVR3SXVGMm1lVmw3WkRaRUM?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-10-21T20:36:00+08:00",
+     "description": "稱李文宗、李文娟「不是認罪是認輸」　柯文哲：我絕不投降不屈服  三立新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "稱李文宗、李文娟「不是認罪是認輸」 柯文哲：我絕不投降不屈服| 政治",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFByNnFCeEo3RFdIOFNCYXdYczY1MElmX25yZ2pUOG9ESlB0VUxlQmdiTVg5LWpWU2hiQ213YTYyQUtPemdGcE5lOA?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-10-21T20:36:00+08:00",
+     "description": "稱李文宗、李文娟「不是認罪是認輸」 柯文哲：我絕不投降不屈服| 政治  三立新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "李文宗、李文娟改認罪柯文哲：不是認罪是認輸| Newtalk討論區",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xQkMtbFN2cXI3b002RUg3bHpJeWkwNHZkX1dpcGdVTUIycEdvdF9BdV9MX3JmNVNWclZfejB0M0pvT3BCUE1hTWJJYw?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-10-21T17:36:25+08:00",
+     "description": "李文宗、李文娟改認罪柯文哲：不是認罪是認輸| Newtalk討論區  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "李文宗、李文娟改認罪柯文哲：不是認罪是認輸| 政治",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tXy1neWFnU0t4YXZtalZfMmNaR1R5Vmo0aUo4NE9uY1JlaU9YWlVibmlsWFU2R1BFSnkwdUpZUktROUpESXNwaVUwd1FWdWJDNkRpYTJXNmprUjA?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-10-21T17:13:50+08:00",
+     "description": "李文宗、李文娟改認罪柯文哲：不是認罪是認輸| 政治  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "大帳房翻盤！李文宗、李文娟改口認罪柯文哲稱：這不是認罪是認輸| 政治",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8yb2ZKUnNKN19ld3hYM2tUd0FlTDRUMEthNnBQb19IelV6SFNSaUV2RlkwbmQyVUVaTE5GYXdkd1ZVQ2dvdlB2cg?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-10-21T16:36:00+08:00",
+     "description": "大帳房翻盤！李文宗、李文娟改口認罪柯文哲稱：這不是認罪是認輸| 政治  三立新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "李文宗兄妹二審開庭認罪 柯文哲：是認輸而非認罪",
+     "link": "https://news.pts.org.tw/article/832283",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-10-21T13:57:39+08:00",
+     "description": "前台北市長柯文哲因涉入京華城與政治獻金案，一審遭判17年後提起上訴。高等法院19日傳喚前柯辦主任李文宗以及前木可公司負責人李文娟開庭續審，兄妹倆都改口認罪。柯文哲今（21）日到花蓮輔選時也做出回應，感嘆他們因為自己被折磨，認為是認輸、不是認罪。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "京華城案李文宗兄妹認罪！柯文哲「是認輸、不是認罪」",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5613428",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-10-21T12:09:55+08:00",
+     "description": "京華城案李文宗、李文娟前天二審開庭時認罪，柯文哲今天早上參加黨籍花蓮市長、議員參選人總部成立時表示，「這不是認罪，這叫認輸」，柯文哲也舉當時任威京集團法務經理陳俊源認罪是「基於...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "政治獻金案同案2人認罪　柯文哲：這不是認罪是認輸",
+     "link": "https://www.cna.com.tw/news/aipl/202610210078.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-10-21T11:32:19+08:00",
+     "description": "（中央社記者張祈花蓮縣21日電）民眾黨創黨主席柯文哲政治獻金等案，同案被告李文宗與李文娟部分認罪。柯文哲今天回應，遭受司法折磨2年，「這不是認罪，是認輸」，喊話司法應保障弱勢者的公平正義。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
      }
     }
    ]
@@ -3648,7 +3411,7 @@
    "tags": [
     "金正恩",
     "韓官",
-    "闢謠"
+    "官媒"
    ],
    "articles": [
     {
@@ -4394,7 +4157,7 @@
     },
     {
      "title": "Grab併foodpanda案遭否決！公平會曝4大理由",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBrMDluMVhXMzR4d19JMnNXTW1rWHZoNExTem1EbFZDY203UFZzTkh0ZjNnclpBTjIyN3ptQVRUTk5kN0VKRUZLYzFSZEPSAVJBVV95cUxPNUh6bGNOb1lNWGlLaTh6aEdodV95LVl4ZVd6OTV3XzdTazVkUXhNeW1URUJLZmFhbnN3NlkxSEUtLWVPbzl2QnZIOHBaRGFNckhn?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81SHpsY05vWU1YaUtpOHpoR2h1X3ktWXhlV3o5NXdfN1NrNWRReE15bVRFQktmYWFuc3c2WTFIRS0tZU9vOXZCdkg4cFpEYU1ySGfSAVJBVV95cUxPNUh6bGNOb1lNWGlLaTh6aEdodV95LVl4ZVd6OTV3XzdTazVkUXhNeW1URUJLZmFhbnN3NlkxSEUtLWVPbzl2QnZIOHBaRGFNckhn?oc=5",
      "source": "nownews",
      "source_name": "今日新聞",
      "published": "2026-10-21T17:51:09+08:00",
@@ -4411,7 +4174,7 @@
     },
     {
      "title": "Grab併foodpanda案遭否決！公平會曝4大理由",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81SHpsY05vWU1YaUtpOHpoR2h1X3ktWXhlV3o5NXdfN1NrNWRReE15bVRFQktmYWFuc3c2WTFIRS0tZU9vOXZCdkg4cFpEYU1ySGfSAVJBVV95cUxPNUh6bGNOb1lNWGlLaTh6aEdodV95LVl4ZVd6OTV3XzdTazVkUXhNeW1URUJLZmFhbnN3NlkxSEUtLWVPbzl2QnZIOHBaRGFNckhn?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBrMDluMVhXMzR4d19JMnNXTW1rWHZoNExTem1EbFZDY203UFZzTkh0ZjNnclpBTjIyN3ptQVRUTk5kN0VKRUZLYzFSZEPSAVJBVV95cUxPNUh6bGNOb1lNWGlLaTh6aEdodV95LVl4ZVd6OTV3XzdTazVkUXhNeW1URUJLZmFhbnN3NlkxSEUtLWVPbzl2QnZIOHBaRGFNckhn?oc=5",
      "source": "nownews",
      "source_name": "今日新聞",
      "published": "2026-10-21T17:51:09+08:00",
@@ -4458,6 +4221,203 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
+   "id": "34811e60cda0",
+   "title": "小琉球美人沙灘1男戲水失蹤　海巡搜救中",
+   "outlet_count": 8,
+   "outlets": [
+    "cna",
+    "ebc",
+    "ettoday",
+    "newtalk",
+    "pts",
+    "setn",
+    "tvbs",
+    "udn"
+   ],
+   "article_count": 10,
+   "first_seen": "2026-10-22T13:43:00+08:00",
+   "last_updated": "2026-10-22T20:42:44.479082+08:00",
+   "tags": [
+    "小琉球美人洞",
+    "薔琵",
+    "捲走"
+   ],
+   "articles": [
+    {
+     "title": "美人洞潛水意外！新北20歲男疑離岸流捲走 送醫不治",
+     "link": "https://news.ebc.net.tw/news/society/577014",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-10-22T20:42:44.479082+08:00",
+     "description": "新北20歲林姓男子22日在小琉球美人洞自由潛水，疑遭離岸流捲走失蹤，搜救人員下午尋獲時已無心跳送醫搶救。",
+     "category": "society",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "society",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "薔琵撲台前夕疑自潛遭海流捲走 小琉球遊客送醫不治",
+     "link": "https://news.pts.org.tw/article/832524",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-10-22T18:31:52+08:00",
+     "description": "薔琵颱風今（22）日發布陸上警報，不過屏東小琉球一名20歲遊客，上午疑似在從事自由潛水時，遭海中暗流帶離岸際，救援上岸時一度失去生命跡象，經CPR後轉送往東港安泰醫院搶救，但仍於下午5時許宣告不治。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "薔琵逼近！小琉球美人洞20歲男落海　救起送醫不治",
+     "link": "https://www.ettoday.net/news/20261022/3259411.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-10-22T18:30:00+08:00",
+     "description": "薔琵颱風逼近，屏東小琉球美人洞海域今（22）日下午傳出遊客落海意外！一名年約20歲的男遊客疑似遭大浪捲入海中，消防及海巡單位獲報後，立即派員趕赴現場展開搜救，現場海象不佳，也增加救援難度。經搜救人員全力搜尋，20歲林姓男子於下午1時55分成功脫困，但被救起時已失去呼吸心跳，情況危急，救援人員隨即將他送琉球衛生所搶救，仍於17：40宣告不治。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "薔琵颱風來襲前夕20歲男琉球美人洞沙灘戲水遭捲走 尋獲無呼吸心跳",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFWTJGaHNUdG5yaC1zMDV6Ni1CQXNkWmhNRVBKckYxXzBSQVY4MlZCU0NvQzV6aTNOWF9JQmRlV1h1Zjg2QnBsdnBFb3Q3TDkz0gFWQVVfeXFMTTVFZWYyeDREcDhZVDBESjhXbUFjN2NOSk96TG5UczZkSzBQT2JOSGNDeExZRFlkbEtrZmtfaEIxNnpDckJzZkdOY2VDNDFGVG11b3AyT3c?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-10-22T16:24:56+08:00",
+     "description": "薔琵颱風來襲前夕20歲男琉球美人洞沙灘戲水遭捲走 尋獲無呼吸心跳  UDN",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "薔琵強颱來襲！小琉球美人洞男子遭浪捲走失蹤海巡已找到人| 社會",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uWUJ2Y2c3WXpzaTJoWHZ4ajYwQWl3VXhtZUNLVTRsUk1yOU5PWXY3eXZZUlN1b25ZLUdiR3ZQRDVVbmo1bGlESEI1aWJLT3lCeFlpU3ZwQkppdjA?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-10-22T16:02:47+08:00",
+     "description": "薔琵強颱來襲！小琉球美人洞男子遭浪捲走失蹤海巡已找到人| 社會  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "小琉球美人洞「惡浪捲走1人」尋獲已OHCA！",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBqWmx1UWxKUGZBTFdUbFEyN1o5cDE5TEt2RmxFbUMzTU1FZnZMSDJjMU1TMFNmSFo5a3JCdjVRY3BjdTdWeGtRVtIBTEFVX3lxTE42ZGtYXzRoMVJwS0VWUW5MWlpoUjI0SGQ4eWtvT3BiM1Z2cGlDM25RZFlrdnlGbUUtMzUwQk13UG9mRHhiQnllUnJvSlE?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-10-22T15:16:00+08:00",
+     "description": "快訊／小琉球美人洞「惡浪捲走1人」尋獲已OHCA！  三立新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "薔琵逼近...小琉球美人洞20歲男落海　被救起無呼吸心跳",
+     "link": "https://www.ettoday.net/news/20261022/3259234.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-10-22T15:15:00+08:00",
+     "description": "薔琵颱風逼近，屏東小琉球美人洞海域今（22）日下午傳出遊客落海意外！一名年約20歲的男遊客疑似遭大浪捲入海中，消防及海巡單位獲報後，立即派員趕赴現場展開搜救，現場海象不佳，也增加救援難度。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "小琉球美人沙灘1男戲水失蹤　海巡搜救中",
+     "link": "https://www.cna.com.tw/news/asoc/202610220167.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-10-22T14:06:15+08:00",
+     "description": "（中央社記者黃郁菁屏東縣22日電）一名男性遊客今天近午時在小琉球美人沙灘戲水失蹤，疑遭離岸流捲出外海，岸上女性友人心急報案。警消與海巡人員獲報前往搜救，目前仍在搜救中。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/social"
+     }
+    },
+    {
+     "title": "薔琵襲台！「小琉球美人洞」20歲男落海無意識搶救中",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wTy1pQWZnZGhTWGR5aDUyUFV2NVZiYXhRSUVWWFpIYTJnWFY2SGZBejViMk5iZDU5T1BIbjhBbTVPNUlpLXBWdGQyMXNUQmc?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-10-22T13:43:00+08:00",
+     "description": "快訊／薔琵襲台！「小琉球美人洞」20歲男落海無意識搶救中  TVBS新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "薔琵襲台！「小琉球美人洞」20歲男子遭惡浪捲走失蹤",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBLMjZKbDVhclFuNm01NnBKMWEzeGlrNVJtc3VLbVhMUk4tZUJBTnFHVXN5dlpUdmdxckxPVkRhbW5PWjFoblpQUFk5RUhZZw?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-10-22T13:43:00+08:00",
+     "description": "快訊／薔琵襲台！「小琉球美人洞」20歲男子遭惡浪捲走失蹤  TVBS新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -4676,6 +4636,201 @@
       },
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    }
+   ]
+  },
+  {
+   "id": "7b48de4f0b00",
+   "title": "未與資方達成協議 美光桃園工會明罷工一天",
+   "outlet_count": 8,
+   "outlets": [
+    "chinatimes",
+    "ettoday",
+    "ltn",
+    "mirror",
+    "newtalk",
+    "pts",
+    "setn",
+    "storm"
+   ],
+   "article_count": 18,
+   "first_seen": "2026-10-20T20:09:06+08:00",
+   "last_updated": "2026-10-22T15:09:50+08:00",
+   "tags": [
+    "美光桃園",
+    "罷工",
+    "協商"
+   ],
+   "articles": [
+    {
+     "title": "美光罷工4》勞動部：應桃市府邀請參與美光勞資協商將持續協助溝通| 財經",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VU1VCakhsdWdKUTZSdENjX0tFZWZWZzVHcVUxNm01ZklmQk5SbUVNdW9qTUZZT1RlaEdiTGw2dEhqdW4zeE5QODZLT2M2eGpLZ1ByLUtST2RmaTg?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-10-22T15:09:50+08:00",
+     "description": "美光罷工4》勞動部：應桃市府邀請參與美光勞資協商將持續協助溝通| 財經  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "台灣美光爆勞資爭議   桃園、台中不同調？",
+     "link": "https://ec.ltn.com.tw/article/breakingnews/5615038",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-10-22T14:36:33+08:00",
+     "description": "台灣美光勞資協商爭議持續延燒，因進度不同調，台中工會昨與資方達成共識，桃園工會今（22）日舉行24小時罷工行動，但台中工會達成協議，引來部分基層不滿，於網路發起「緊急撤銷...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "美光勞資協商兩地不同調 台中簽協議、桃園發動罷工",
+     "link": "https://news.pts.org.tw/article/832461",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-10-22T13:39:06+08:00",
+     "description": "半導體記憶體大廠台灣美光勞資爭議出現重大進度，美光公司與台中工會正式簽署勞資協議，並撤回原定於22日舉辦的調解程序；然而與桃園工會的協商則宣告破局，桃園工會決定22日進行幹部罷工行動。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "台灣半導體業首場罷工！美光協商破局 11幹部廠前靜坐24小時",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhSHpiWWtaZDI4bVBTQllkNHdYeWl3MWFpUVpRcEdLYS1jb3RnUVNDamhnT3pjMDhHVlhYYzFKaV9jcF9iQXp6bFVPNUZWZVR6YjVlMGZsc0xUOXdkQ29DZE9kLWt2cF9DZ0NMRVdn?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-10-22T12:14:29+08:00",
+     "description": "台灣半導體業首場罷工！美光協商破局 11幹部廠前靜坐24小時  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "美光桃園工會幹部今罷工24小時　批台中協商遭排除",
+     "link": "https://www.mirrormedia.mg/story/20261022-180fin-112413",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-10-22T11:48:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "要求分潤等4大訴求未果 美光桃園工會11幹部展開24小時罷工",
+     "link": "https://ec.ltn.com.tw/article/breakingnews/5614555",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-10-22T10:19:01+08:00",
+     "description": "台灣美光晶圓科技公司企業工會（美光桃園工會）昨與公司在桃園市政府協商未果，11位工會幹部今天上午9點在公司門口進行24小時罷工行動，工會理事長林哲瑞表示，桃園工會與台中工...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "美光桃園今罷工　公司回應",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBnRDJrajJTeXJWZmRhVktqVUhQWE5qdlZ1Z1VPeFVNcVo4M0MzaWRpWDdKVU5zNXpPaGF1R1NUaEpCQjBDOVJxdG5wVWbSAUxBVV95cUxQZ0Qya2oyU3lyVmZkYVZLalVIUFhOanZWdWdVT3hVTXFaODNDM2lkaVg3SlVOczV6T2hhdUdTVGhKQkIwQzlScXRucFVm?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-10-22T09:16:00+08:00",
+     "description": "美光桃園今罷工　公司回應  三立新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "美光桃園今罷工　公司回應",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9BZmlPTjczZEpaeUpaUXk1bm11eW9CRm9rRVc1TUxTUFhaR0VRSTMycE83X2NmSFhLcTlSQkpZUFFDNDFpZjkyR9IBTEFVX3lxTFBnRDJrajJTeXJWZmRhVktqVUhQWE5qdlZ1Z1VPeFVNcVo4M0MzaWRpWDdKVU5zNXpPaGF1R1NUaEpCQjBDOVJxdG5wVWY?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-10-22T09:16:00+08:00",
+     "description": "美光桃園今罷工　公司回應  三立新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "美光桃園廠今早9點罷工！　分潤協商破局",
+     "link": "https://finance.ettoday.net/news/3258863",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-10-22T08:45:00+08:00",
+     "description": "記憶體製造大廠「美光」、台灣美光桃園工會21日與資方協商破局，宣布今天（22日）起9點啟動24小時罷工。訊息傳至 PTT 引發討論，投資者焦點聚焦晶片供應及股價走勢。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "台灣美光勞資協商兩地不同調！台中工會簽協議撤調解，桃園工會擬明日罷工 | 魏鑫陽 | 財經",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5oeDNGS2Y5VVZZOXU2MDNoT2RkR19pV09vVll3bWE4YnBiSXdYa2tCb3QzakxsckQ0aXFub0M3c3lod0swTWthV3dLbkRmZw?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-10-21T23:23:00+08:00",
+     "description": "台灣美光勞資協商兩地不同調！台中工會簽協議撤調解，桃園工會擬明日罷工 | 魏鑫陽 | 財經  風傳媒",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -5074,202 +5229,6 @@
    ]
   },
   {
-   "id": "d184afff7f47",
-   "title": "PHP資安漏洞影響全球7成網站 可能造成風險、原因一次看",
-   "outlet_count": 7,
-   "outlets": [
-    "ebc",
-    "ettoday",
-    "ltn",
-    "nownews",
-    "pts",
-    "setn",
-    "udn"
-   ],
-   "article_count": 14,
-   "first_seen": "2026-10-21T19:56:59+08:00",
-   "last_updated": "2026-10-23T04:00:06+08:00",
-   "tags": [
-    "漏洞",
-    "網站",
-    "重大"
-   ],
-   "articles": [
-    {
-     "title": "PHP爆漏洞多國網站急搶修　駭客嘗試攻擊數百萬次",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5615820",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-10-23T04:00:06+08:00",
-     "description": "支撐網際網路運作的程式語言PHP爆嚴重漏洞，全球企業與政府今天加緊腳步搶修，多國銀行、航空、鐵路與政府網站緊急暫停服務，駭客已嘗試攻擊達數百萬次。\n\n路透社報導，PHP與HTML、Pytho...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "「PHP」兩大安全漏洞 全台2.8萬網站受影響",
-     "link": "https://news.pts.org.tw/article/832559",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-10-22T20:43:38+08:00",
-     "description": "受到廣泛使用的程式語言「PHP」，支援全球大約7成網頁，現在卻被揭露有2項重大安全漏洞，駭客能夠透過漏洞，從遠端操控電腦伺服器。資安署盤點，全國超過2.8萬個對外服務網站都有用到PHP，政府單位大約佔200個，資安署提醒，如果無法及時採取緩解措施，建議先預防性下架網站。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "PHP重大漏洞！台灣逾2.8萬網站使用  資安署：無法修補應先下架",
-     "link": "https://ec.ltn.com.tw/article/breakingnews/5615603",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-10-22T20:22:25+08:00",
-     "description": "針對PHP程式語言出現資安漏洞，數位發展部資通安全署署長蔡福隆今（22）日表示，根據目前盤點，國內約有2萬8千多個對外服務網站使用PHP開發，其中政府機關約有200個網站...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "全球7成網站恐陷PHP資安漏洞！OpenAI推免費網站安全檢查工具",
-     "link": "https://3c.ltn.com.tw/news/68025",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-10-22T18:00:00+08:00",
-     "description": "全球廣泛使用的 PHP 程式語言爆出兩項嚴重安全漏洞，可能對全球網路造成重大衝擊，而 OpenAI 稍早公開免費開源的小工具「php2shell-checker」，輸入網址或在終端機跑一行指令，就能初步判斷該 PHP 版本有沒有在此次安全漏洞影響範圍。…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "全球逾7成網頁使用PHP語言 存2重大漏洞讓駭客可入侵主機",
-     "link": "https://news.pts.org.tw/article/832453",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-10-22T15:18:53+08:00",
-     "description": "受到廣泛使用的程式語言PHP，全球的網頁後端至少70%都是用它，包含國內的政府機關、學校以及企業在內，但現在爆出有2項重大安全漏洞，嚴重度評分達9.2分。駭客能夠透過漏洞攻擊網站，甚至進而入侵整台電腦主機伺服器，取得內部資訊。而開發團隊已經釋出修補漏洞的更新版本，我資安署也通知各機關和企業，盡快完成更新，並檢查是否有異常存取紀錄。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "PHP重大漏洞影響全球！台灣機關、企業、學校恐受害　資安署急示警",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9fMFNXUFFTRzNxUFhrRVF0ajU2bUpKOHM3Y2xtZzlNb3NxWDFfNWN0anUycGtZNkxIMkZWQWs0YjFLWkVSNWFNQtIBTEFVX3lxTFBUT2JNYWxKTUgwOG9ubFFXRnBqTGFrWWE0WlJFV3FoSkZwb0NtQjljOF9iM2QycE13UXNUOWhyMjBPX3NvU044MTVEUHA?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-10-22T15:15:00+08:00",
-     "description": "PHP重大漏洞影響全球！台灣機關、企業、學校恐受害　資安署急示警  三立新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "PHP資安漏洞影響全球7成網站 可能造成風險、原因一次看",
-     "link": "https://news.pts.org.tw/article/832470",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-10-22T14:47:42+08:00",
-     "description": "全球近7成網站使用的開發程式語言PHP，21日遭揭露存在2項重大安全漏洞，導致多國網站緊急預防性下架，PHP官方也釋出新版本呼籲用戶盡速更新。PHP是什麼？資安漏洞可能造成什麼問題？台灣網站目前有災情嗎？",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "日本娛樂網站大停擺！不只阿部寬官網掛了　STARTO、AKB48連不上",
-     "link": "https://star.ettoday.net/news/3259077",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-10-22T12:16:00+08:00",
-     "description": "全球廣泛使用的程式語言PHP爆出重大安全漏洞，日本企業緊急展開系統維護，影響更一路燒進娛樂圈，除了爆速聞名阿部寬官網，連大公司如松竹株式會社、娛樂經紀公司如STARTO、AKB48等網站陸續停擺，松本潤官網甚至直接出現「502 Bad Gateway ERROR」，一度無法瀏覽。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "PHP爆重大資安漏洞！2漏洞嚴重度達9.2分 今晚緊急更新",
-     "link": "https://news.ebc.net.tw/news/living/576872",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-10-22T08:59:34.953154+08:00",
-     "description": "知名開源伺服器端腳本語言PHP傳出重大資安警訊，PHP安全團隊於昨（20）日發布公告，預告將於台灣時間今（21）日晚間10時推出緊急安全更新，修補兩個嚴重漏洞。",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "歐洲部分政府網站緊急下線！PHP爆重大資安漏洞 資安署緊急示警",
-     "link": "https://ec.ltn.com.tw/article/breakingnews/5614403",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-10-22T08:01:48+08:00",
-     "description": "廣泛應用於網站建置的開源程式語言PHP，近日發現兩項嚴重安全漏洞，嚴重度評分均達9.2分，攻擊者可能在未經身分驗證的情況下，從外部執行任意程式碼，資安署呼籲使用PHP的政...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    }
-   ]
-  },
-  {
    "id": "53b279d9ec21",
    "title": "SpaceX飆漲10％提振AI股氣勢！美股開盤齊漲　那指勁揚近200點",
    "outlet_count": 7,
@@ -5282,15 +5241,31 @@
     "setn",
     "tvbs"
    ],
-   "article_count": 12,
+   "article_count": 13,
    "first_seen": "2026-10-21T22:00:28+08:00",
-   "last_updated": "2026-10-22T21:36:58+08:00",
+   "last_updated": "2026-10-23T05:47:30+08:00",
    "tags": [
     "財報提振",
-    "美股",
-    "收紅"
+    "美股"
    ],
    "articles": [
+    {
+     "title": "美股收盤》AI支出疑慮升！費半暴跌近7％ 台積電ADR重挫4.5％",
+     "link": "https://ec.ltn.com.tw/article/breakingnews/5615826",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-10-23T05:47:30+08:00",
+     "description": "由於市場對AI相關公司支出成本的擔憂加劇，且中東緊張油價上漲，週四美國股市漲跌互現，道瓊工業指數上漲11.89點、0.02%；那斯達克指數下跌2.6%，為自6月初以來最大單日跌幅...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
     {
      "title": "颱風假後慘了？ 台指期夜盤失守46K 費半重挫6％",
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5uTVRJMy1hV3JzYjQ4SHdkM0JLRG9xZnVSbm9lR3RBejBIeEJVY1QxMGZUZjZqbHdwUnFZZ1NQeU1GNC1TaGREcWpIeGltUVF6X3VlQ1FvZzAxOUNWLTJ0VGJmaGJQaFpMdUdDU0NR?oc=5",
@@ -5445,71 +5420,38 @@
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
-    },
-    {
-     "title": "SpaceX及超微財報提振信心　美股收紅",
-     "link": "https://ec.ltn.com.tw/article/breakingnews/5614377",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-10-22T04:36:03+08:00",
-     "description": "太空探索科技公司（SpaceX）及美超微（Super Micro Computer）公布季度財報，提振投資人對人工智慧（AI）相關股票的信心，美股主要指數今天收紅。\n\n道瓊工業指數揚升360...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
     }
    ]
   },
   {
-   "id": "d5b22c18cc26",
-   "title": "中職台灣大賽G3》中信兄弟vs味全龍　賽程時間、轉播、分析一次看",
+   "id": "d184afff7f47",
+   "title": "PHP資安漏洞影響全球7成網站 可能造成風險、原因一次看",
    "outlet_count": 7,
    "outlets": [
-    "chinatimes",
     "ebc",
     "ettoday",
     "ltn",
-    "mirror",
     "nownews",
-    "setn"
+    "pts",
+    "setn",
+    "udn"
    ],
-   "article_count": 57,
-   "first_seen": "2026-10-20T06:00:00+08:00",
-   "last_updated": "2026-10-22T20:46:12+08:00",
+   "article_count": 15,
+   "first_seen": "2026-10-21T19:56:59+08:00",
+   "last_updated": "2026-10-23T05:34:00+08:00",
    "tags": [
-    "台灣大賽",
-    "兄弟"
+    "漏洞",
+    "網站",
+    "重大"
    ],
    "articles": [
     {
-     "title": "台灣大賽因雨延賽有神奇巧合！史上僅3度發生　兄弟竟然全程參與",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE91RUN3UWpHT0o2UWlVdDBDdW9RNDlMLXVVYVBYeWFxX0FqNzd2MWJ0MlFIMW5sOXVXRm5JUjcyejF2a2VIa1BsSkZJS2rSAVJBVV95cUxPRk91dEFOdTc5dWVuTmoxX1dRX1YzeUpJMG5BMEpCRzhmbnpDQnVHV1oyQWktUXROM0tmQXZWQ2tQMEh1WUZxT2JSRUF6ekoxenln?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-10-22T20:46:12+08:00",
-     "description": "台灣大賽因雨延賽有神奇巧合！史上僅3度發生　兄弟竟然全程參與  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "台灣大賽史上首度因颱風延賽！G5順延24日　兄弟獲喘息空間",
-     "link": "https://sports.ettoday.net/news/3259412",
+     "title": "PHP爆漏洞多國網站搶修　駭客攻擊數百萬次",
+     "link": "https://www.ettoday.net/news/20261023/3259523.htm",
      "source": "ettoday",
      "source_name": "ETtoday",
-     "published": "2026-10-22T20:06:00+08:00",
-     "description": "強烈颱風薔琵來襲，2026年中華職棒台灣大賽賽程確定受到影響！配合台北市政府今（22日）晚間宣布明（23日）停止上班、停止上課，中職聯盟依原訂規劃，將23日晚間6點35分在台北大巨蛋舉行的總冠軍賽第5戰（G5），順延至24日（六）下午5點05分開打。這不僅是台灣大賽史上第3次因天候因素延賽，更是首度因颱風影響延期。 《詳全文...》",
+     "published": "2026-10-23T05:34:00+08:00",
+     "description": "網路關鍵程式語言PHP爆發潛伏多年的嚴重漏洞，全球企業與政府當局緊急搶修。多國金融機構、航空公司與政府網站被迫暫停服務，駭客更發動高達數百萬次攻擊嘗試。 《詳全文...》",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -5521,193 +5463,29 @@
      }
     },
     {
-     "title": "台灣大賽／G5拚續命　中信兄弟推奇兵伍立辰抗味全龍蔣銲",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1tdjBUTUVWalNxb19XblpoQjh4Wk9NaDIyYTdnNWdlMzBWSWhKWE9rZm9uZTRFalhCTElJR2xtUkI1dEhoMURqZ9IBTEFVX3lxTE10Zzk1RC1yODhjc3JQamxOM0FDbTRGRm84c2VHM0NPWmdNWW9ZdGJmdVpDMDJ4UzhpYXozNHVCd1pHVVlBUjZWLUlhQTQ?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-10-22T20:04:00+08:00",
-     "description": "台灣大賽／G5拚續命　中信兄弟推奇兵伍立辰抗味全龍蔣銲  三立新聞",
+     "title": "PHP爆漏洞多國網站急搶修　駭客嘗試攻擊數百萬次",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5615820",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-10-23T04:00:06+08:00",
+     "description": "支撐網際網路運作的程式語言PHP爆嚴重漏洞，全球企業與政府今天加緊腳步搶修，多國銀行、航空、鐵路與政府網站緊急暫停服務，駭客已嘗試攻擊達數百萬次。\n\n路透社報導，PHP與HTML、Pytho...…",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
      }
     },
     {
-     "title": "台灣大賽門票加開！味全龍球團公布資訊「開賣時間、區域」一次看",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE51dUd1elNUMnFYbU8yZEhPQ1oxN1V3R3F4dkhaVXUwMmgyTERmZEc2RXdhYjd6a19JS2FPV2N0OWtlTUI5aFE2LUxZUHDSAVJBVV95cUxQM1JfOWRhQmdYUzEyQnlDMmxoWGNEWTlodFlVNUxFb1o5a2s0dzhqZHI1akVObDVKV3UwUEJyTmZuYnBNN2RWRl8tZnhNOXRPeHZB?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-10-22T14:28:49+08:00",
-     "description": "台灣大賽門票加開！味全龍球團公布資訊「開賣時間、區域」一次看  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "台灣大賽門票加開！味全龍球團公布資訊「開賣時間、區域」一次看",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzUl85ZGFCZ1hTMTJCeUMybGhYY0RZOWh0WVU1TEVvWjlrazR3OGpkcjVqRU5sNUpXdTBQQnJOZm5icE03ZFZGXy1meE05dE94dkHSAVJBVV95cUxQM1JfOWRhQmdYUzEyQnlDMmxoWGNEWTlodFlVNUxFb1o5a2s0dzhqZHI1akVObDVKV3UwUEJyTmZuYnBNN2RWRl8tZnhNOXRPeHZB?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-10-22T14:28:49+08:00",
-     "description": "台灣大賽門票加開！味全龍球團公布資訊「開賣時間、區域」一次看  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "中職／詹子賢再見安打！兄弟擊退味全龍台灣大賽續命",
-     "link": "https://news.ebc.net.tw/news/sport/576906",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-10-22T10:39:39.963787+08:00",
-     "description": "中信兄弟21日在台北大巨蛋舉行的台灣大賽第四戰，靠詹子賢延長賽再見安打以5比4擊敗味全龍。另因進場贈品延遲發放，引發42件申訴。",
-     "category": "sport",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "sport",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "台灣大賽／假借沒洗面乳！詹子賢開導張士綸內幕超感人：心疼他整天摸頭",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1peHBPa1dkamdXZGVudkRrS1hDLXptMFRUWUp4X3pBUXhpU3luTTN4c3VpeDhBY2tCdHFMWDlneE9FWEc0TEtkbdIBTEFVX3lxTE8wWUhvdGJfaEVLcDlpNVRmNHNyQkpfWkVma0NISkhLSmNESjN2TmZrdXJkdWlCTnNiVHVDLS1qVllRRW9oSl9ObEJ5UmY?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-10-22T06:30:00+08:00",
-     "description": "台灣大賽／假借沒洗面乳！詹子賢開導張士綸內幕超感人：心疼他整天摸頭  三立新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "台灣大賽／假借沒洗面乳！詹子賢開導張士綸內幕超感人：心疼他整天摸頭| 運動",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1peHBPa1dkamdXZGVudkRrS1hDLXptMFRUWUp4X3pBUXhpU3luTTN4c3VpeDhBY2tCdHFMWDlneE9FWEc0TEtkbQ?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-10-22T06:30:00+08:00",
-     "description": "台灣大賽／假借沒洗面乳！詹子賢開導張士綸內幕超感人：心疼他整天摸頭| 運動  三立新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "台灣大賽／11支0「低頭落寞」遭撤換　張士綸成兄弟G4破蛋英雄回報平野",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBBWVdXRlN4RHR3UjNaVVNoejY4Z05mUTNGZlFZbWtsTjJZYk5icVZnQzdsVUFEeUR6anpwWDVUbHJlR2hHX3BjbdIBTEFVX3lxTE1tTU1ZOHBPZG5EckthSHBnOE9GbDh4WFJVRFJfT1lKakJPRnR4QVFmTWExSU1DQmthZWlhNTNZeDJhbDFkcC1zTjl6Y24?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-10-22T06:00:00+08:00",
-     "description": "台灣大賽／11支0「低頭落寞」遭撤換　張士綸成兄弟G4破蛋英雄回報平野  三立新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "台灣大賽／兄弟豪賭雙洋投續命！平野惠一曝後續佈局　承諾絕不操壞球員",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE42aEhzVkVOV2J4Tkx4dUl2Sk5zVWdxOG5vdS1tUHU2aWJ4WkdHMk13SktEQW9mWFJKZjdiWWxETFBJeUdOTVFyQtIBTEFVX3lxTE9RdXB0MWIweXZqUmxISXRiWHpfQXFsdWk2Y0lyWVFla2EwS0FUdmV3b0FEdG5kZE9BN1VDQ25reU92bkxtWjdxOEtsZmM?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-10-22T01:14:00+08:00",
-     "description": "台灣大賽／兄弟豪賭雙洋投續命！平野惠一曝後續佈局　承諾絕不操壞球員  三立新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
-   "id": "0925ce6b0ef2",
-   "title": "小琉球美人沙灘1男戲水失蹤　海巡搜救中",
-   "outlet_count": 7,
-   "outlets": [
-    "cna",
-    "ebc",
-    "ettoday",
-    "pts",
-    "setn",
-    "tvbs",
-    "udn"
-   ],
-   "article_count": 9,
-   "first_seen": "2026-10-22T13:43:00+08:00",
-   "last_updated": "2026-10-22T20:42:44.479082+08:00",
-   "tags": [
-    "小琉球美人洞",
-    "薔琵",
-    "捲走"
-   ],
-   "articles": [
-    {
-     "title": "美人洞潛水意外！新北20歲男疑離岸流捲走 送醫不治",
-     "link": "https://news.ebc.net.tw/news/society/577014",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-10-22T20:42:44.479082+08:00",
-     "description": "新北20歲林姓男子22日在小琉球美人洞自由潛水，疑遭離岸流捲走失蹤，搜救人員下午尋獲時已無心跳送醫搶救。",
-     "category": "society",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "society",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "薔琵撲台前夕疑自潛遭海流捲走 小琉球遊客送醫不治",
-     "link": "https://news.pts.org.tw/article/832524",
+     "title": "「PHP」兩大安全漏洞 全台2.8萬網站受影響",
+     "link": "https://news.pts.org.tw/article/832559",
      "source": "pts",
      "source_name": "公視新聞",
-     "published": "2026-10-22T18:31:52+08:00",
-     "description": "薔琵颱風今（22）日發布陸上警報，不過屏東小琉球一名20歲遊客，上午疑似在從事自由潛水時，遭海中暗流帶離岸際，救援上岸時一度失去生命跡象，經CPR後轉送往東港安泰醫院搶救，但仍於下午5時許宣告不治。",
+     "published": "2026-10-22T20:43:38+08:00",
+     "description": "受到廣泛使用的程式語言「PHP」，支援全球大約7成網頁，現在卻被揭露有2項重大安全漏洞，駭客能夠透過漏洞，從遠端操控電腦伺服器。資安署盤點，全國超過2.8萬個對外服務網站都有用到PHP，政府單位大約佔200個，資安署提醒，如果無法及時採取緩解措施，建議先預防性下架網站。",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -5719,12 +5497,12 @@
      }
     },
     {
-     "title": "薔琵逼近！小琉球美人洞20歲男落海　救起送醫不治",
-     "link": "https://www.ettoday.net/news/20261022/3259411.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-10-22T18:30:00+08:00",
-     "description": "薔琵颱風逼近，屏東小琉球美人洞海域今（22）日下午傳出遊客落海意外！一名年約20歲的男遊客疑似遭大浪捲入海中，消防及海巡單位獲報後，立即派員趕赴現場展開搜救，現場海象不佳，也增加救援難度。經搜救人員全力搜尋，20歲林姓男子於下午1時55分成功脫困，但被救起時已失去呼吸心跳，情況危急，救援人員隨即將他送琉球衛生所搶救，仍於17：40宣告不治。 《詳全文...》",
+     "title": "PHP重大漏洞！台灣逾2.8萬網站使用  資安署：無法修補應先下架",
+     "link": "https://ec.ltn.com.tw/article/breakingnews/5615603",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-10-22T20:22:25+08:00",
+     "description": "針對PHP程式語言出現資安漏洞，數位發展部資通安全署署長蔡福隆今（22）日表示，根據目前盤點，國內約有2萬8千多個對外服務網站使用PHP開發，其中政府機關約有200個網站...…",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -5732,33 +5510,50 @@
        "source": "unknown"
       },
       "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
      }
     },
     {
-     "title": "薔琵颱風來襲前夕20歲男琉球美人洞沙灘戲水遭捲走 尋獲無呼吸心跳",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFWTJGaHNUdG5yaC1zMDV6Ni1CQXNkWmhNRVBKckYxXzBSQVY4MlZCU0NvQzV6aTNOWF9JQmRlV1h1Zjg2QnBsdnBFb3Q3TDkz0gFWQVVfeXFMTTVFZWYyeDREcDhZVDBESjhXbUFjN2NOSk96TG5UczZkSzBQT2JOSGNDeExZRFlkbEtrZmtfaEIxNnpDckJzZkdOY2VDNDFGVG11b3AyT3c?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-10-22T16:24:56+08:00",
-     "description": "薔琵颱風來襲前夕20歲男琉球美人洞沙灘戲水遭捲走 尋獲無呼吸心跳  UDN",
+     "title": "全球7成網站恐陷PHP資安漏洞！OpenAI推免費網站安全檢查工具",
+     "link": "https://3c.ltn.com.tw/news/68025",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-10-22T18:00:00+08:00",
+     "description": "全球廣泛使用的 PHP 程式語言爆出兩項嚴重安全漏洞，可能對全球網路造成重大衝擊，而 OpenAI 稍早公開免費開源的小工具「php2shell-checker」，輸入網址或在終端機跑一行指令，就能初步判斷該 PHP 版本有沒有在此次安全漏洞影響範圍。…",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
      }
     },
     {
-     "title": "小琉球美人洞「惡浪捲走1人」尋獲已OHCA！",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBqWmx1UWxKUGZBTFdUbFEyN1o5cDE5TEt2RmxFbUMzTU1FZnZMSDJjMU1TMFNmSFo5a3JCdjVRY3BjdTdWeGtRVtIBTEFVX3lxTE42ZGtYXzRoMVJwS0VWUW5MWlpoUjI0SGQ4eWtvT3BiM1Z2cGlDM25RZFlrdnlGbUUtMzUwQk13UG9mRHhiQnllUnJvSlE?oc=5",
+     "title": "全球逾7成網頁使用PHP語言 存2重大漏洞讓駭客可入侵主機",
+     "link": "https://news.pts.org.tw/article/832453",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-10-22T15:18:53+08:00",
+     "description": "受到廣泛使用的程式語言PHP，全球的網頁後端至少70%都是用它，包含國內的政府機關、學校以及企業在內，但現在爆出有2項重大安全漏洞，嚴重度評分達9.2分。駭客能夠透過漏洞攻擊網站，甚至進而入侵整台電腦主機伺服器，取得內部資訊。而開發團隊已經釋出修補漏洞的更新版本，我資安署也通知各機關和企業，盡快完成更新，並檢查是否有異常存取紀錄。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "PHP重大漏洞影響全球！台灣機關、企業、學校恐受害　資安署急示警",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9fMFNXUFFTRzNxUFhrRVF0ajU2bUpKOHM3Y2xtZzlNb3NxWDFfNWN0anUycGtZNkxIMkZWQWs0YjFLWkVSNWFNQtIBTEFVX3lxTFBUT2JNYWxKTUgwOG9ubFFXRnBqTGFrWWE0WlJFV3FoSkZwb0NtQjljOF9iM2QycE13UXNUOWhyMjBPX3NvU044MTVEUHA?oc=5",
      "source": "setn",
      "source_name": "三立新聞網",
-     "published": "2026-10-22T15:16:00+08:00",
-     "description": "快訊／小琉球美人洞「惡浪捲走1人」尋獲已OHCA！  三立新聞",
+     "published": "2026-10-22T15:15:00+08:00",
+     "description": "PHP重大漏洞影響全球！台灣機關、企業、學校恐受害　資安署急示警  三立新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -5770,12 +5565,29 @@
      }
     },
     {
-     "title": "薔琵逼近...小琉球美人洞20歲男落海　被救起無呼吸心跳",
-     "link": "https://www.ettoday.net/news/20261022/3259234.htm",
+     "title": "PHP資安漏洞影響全球7成網站 可能造成風險、原因一次看",
+     "link": "https://news.pts.org.tw/article/832470",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-10-22T14:47:42+08:00",
+     "description": "全球近7成網站使用的開發程式語言PHP，21日遭揭露存在2項重大安全漏洞，導致多國網站緊急預防性下架，PHP官方也釋出新版本呼籲用戶盡速更新。PHP是什麼？資安漏洞可能造成什麼問題？台灣網站目前有災情嗎？",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "日本娛樂網站大停擺！不只阿部寬官網掛了　STARTO、AKB48連不上",
+     "link": "https://star.ettoday.net/news/3259077",
      "source": "ettoday",
      "source_name": "ETtoday",
-     "published": "2026-10-22T15:15:00+08:00",
-     "description": "薔琵颱風逼近，屏東小琉球美人洞海域今（22）日下午傳出遊客落海意外！一名年約20歲的男遊客疑似遭大浪捲入海中，消防及海巡單位獲報後，立即派員趕赴現場展開搜救，現場海象不佳，也增加救援難度。 《詳全文...》",
+     "published": "2026-10-22T12:16:00+08:00",
+     "description": "全球廣泛使用的程式語言PHP爆出重大安全漏洞，日本企業緊急展開系統維護，影響更一路燒進娛樂圈，除了爆速聞名阿部寬官網，連大公司如松竹株式會社、娛樂經紀公司如STARTO、AKB48等網站陸續停擺，松本潤官網甚至直接出現「502 Bad Gateway ERROR」，一度無法瀏覽。 《詳全文...》",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -5787,12 +5599,71 @@
      }
     },
     {
-     "title": "小琉球美人沙灘1男戲水失蹤　海巡搜救中",
-     "link": "https://www.cna.com.tw/news/asoc/202610220167.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-10-22T14:06:15+08:00",
-     "description": "（中央社記者黃郁菁屏東縣22日電）一名男性遊客今天近午時在小琉球美人沙灘戲水失蹤，疑遭離岸流捲出外海，岸上女性友人心急報案。警消與海巡人員獲報前往搜救，目前仍在搜救中。",
+     "title": "PHP爆重大資安漏洞！2漏洞嚴重度達9.2分 今晚緊急更新",
+     "link": "https://news.ebc.net.tw/news/living/576872",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-10-22T08:59:34.953154+08:00",
+     "description": "知名開源伺服器端腳本語言PHP傳出重大資安警訊，PHP安全團隊於昨（20）日發布公告，預告將於台灣時間今（21）日晚間10時推出緊急安全更新，修補兩個嚴重漏洞。",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    }
+   ]
+  },
+  {
+   "id": "7a27d680d860",
+   "title": "薔琵颱風周五離台灣最近周六提前離開 粉專：暴風圈恐籠罩北北基等5地",
+   "outlet_count": 7,
+   "outlets": [
+    "ettoday",
+    "ltn",
+    "nownews",
+    "setn",
+    "storm",
+    "tvbs",
+    "udn"
+   ],
+   "article_count": 21,
+   "first_seen": "2026-10-20T14:16:40+08:00",
+   "last_updated": "2026-10-23T00:06:00+08:00",
+   "tags": [
+    "暴風圈",
+    "薔琵"
+   ],
+   "articles": [
+    {
+     "title": "薔琵暴風圈進入東半部海面！中心離台不到400公里　雙北預估雨量上修",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8wN3d2ZGlQRl8yejUxa28wN2ZuNlJFNEREOWcyWmNEb1N3MWVvQWxMUGE1VUxZdVJtZ1psVlo0RERSNkdFV2IyVNIBTEFVX3lxTE1ibjZqQlFKdFRkM0Z3c1lMNEc3LUozT1Uwek1tSnN3T2Q0MFdmNWFSc1R1Rjl5akNTbDd1cjc0ZWotMGxrQmJPd1NxSG0?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-10-23T00:06:00+08:00",
+     "description": "薔琵暴風圈進入東半部海面！中心離台不到400公里　雙北預估雨量上修  三立新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "LIVE／薔琵暴風圈進入近海！北台灣雨量再上修　氣象署最新說明",
+     "link": "https://www.ettoday.net/news/20261022/3259505.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-10-22T23:35:00+08:00",
+     "description": "中央氣象署今天（22日）深夜11時30持續針對29號中度颱風「薔琵」發布海上陸上警報，薔琵中心距離台灣不到400公里，其暴風圈已經逐漸進入巴士海峽及台灣東半部海面，對全台陸地構成威脅，22縣市均納入陸警範圍，預估明天風雨最強，東北部山區上看「超大豪雨」等級以上降雨，全台並有明顯強風，基隆北海岸、宜蘭及中部沿海、綠島、蘭嶼、恆春陣風可達12級。 《詳全文...》",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -5800,16 +5671,16 @@
        "source": "unknown"
       },
       "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/social"
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
      }
     },
     {
-     "title": "薔琵襲台！「小琉球美人洞」20歲男子遭惡浪捲走失蹤",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBLMjZKbDVhclFuNm01NnBKMWEzeGlrNVJtc3VLbVhMUk4tZUJBTnFHVXN5dlpUdmdxckxPVkRhbW5PWjFoblpQUFk5RUhZZw?oc=5",
+     "title": "陸警範圍擴至台灣本島 暴風圈估週五凌晨觸陸｜LIVE",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4Q3NFZE9WZThfX2lQVWJZb2pFYTc4MmJtakhmSEV0YTV5MHFsX3VoQnF2d0ZLaW1TRmtoMmNzRElZbC1ZTnFQUDJaLXBlb2JjZHNXZTln?oc=5",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-10-22T13:43:00+08:00",
-     "description": "快訊／薔琵襲台！「小琉球美人洞」20歲男子遭惡浪捲走失蹤  TVBS新聞網",
+     "published": "2026-10-22T18:49:29+08:00",
+     "description": "陸警範圍擴至台灣本島 暴風圈估週五凌晨觸陸｜LIVE  TVBS新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -5821,12 +5692,12 @@
      }
     },
     {
-     "title": "薔琵襲台！「小琉球美人洞」20歲男落海無意識搶救中",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wTy1pQWZnZGhTWGR5aDUyUFV2NVZiYXhRSUVWWFpIYTJnWFY2SGZBejViMk5iZDU5T1BIbjhBbTVPNUlpLXBWdGQyMXNUQmc?oc=5",
+     "title": "陸警擴大7縣市警戒 暴風圈估明凌晨觸陸｜LIVE",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yR2lQOVFJbFk4anp3b2tZeWNkeHFPZTRjeXIyZERJMTBBcU9OUzhrSFY4aEd0cFd1QmlsR0ZVSEROejQ5S1lvZ3pnMHhWSEFGaDYtNXJ3?oc=5",
      "source": "tvbs",
      "source_name": "TVBS",
-     "published": "2026-10-22T13:43:00+08:00",
-     "description": "快訊／薔琵襲台！「小琉球美人洞」20歲男落海無意識搶救中  TVBS新聞網",
+     "published": "2026-10-22T16:21:28+08:00",
+     "description": "陸警擴大7縣市警戒 暴風圈估明凌晨觸陸｜LIVE  TVBS新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -5835,6 +5706,108 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "LIVE／薔琵影響拉長至2天　氣象署最新說明",
+     "link": "https://www.ettoday.net/news/20261022/3259155.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-10-22T14:30:00+08:00",
+     "description": "中央氣象署預報指出，強颱薔琵過去一段時間暴風半徑再擴大至320公里，暴風圈預計明天凌晨觸陸。氣象專家提醒，暴風圈範圍影響變大，幾乎籠罩全台，台灣受影響時間將拉長，解除海警的時間將會拖到周六的下半天。《ETtoday新聞雲》將直播氣象署記者會，供讀者掌握最新天氣資訊。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "薔琵暴風圈估明天凌晨觸陸　警戒範圍將涵蓋全台",
+     "link": "https://www.ettoday.net/news/20261022/3259047.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-10-22T11:55:00+08:00",
+     "description": "薔琵颱風持續接近，過去一段時間暴風半徑再擴大至320公里，中央氣象署表示，暴風圈預計明天凌晨觸陸，觸陸地點包括花東、宜蘭及恆春都有可能，未來全台都可能納入警戒範圍。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "薔琵颱風逼近宜蘭 暴風圈侵襲機率高達99％",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5614552",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-10-22T10:12:44+08:00",
+     "description": "薔琵颱風來勢洶洶，宜蘭縣今早8點召開第一次災害工作會議，縣政府委外進行專業氣象情資分析與風雨評估，強調暴風圈侵襲宜蘭機率高達99%，明後天為降雨高峰，山區雨量恐達600毫米，代...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "薔琵上午11:30陸警！賈新興曝可能登陸地點 明晨暴風圈觸陸恐籠罩全台",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83Y2dOY0xudTZzN1c0VHhDczAwWVg0R0cydHBkME9RaF8tMjgxMnVrTXFCM2hqcWJqX0E5cnBRZkszUEhOVlV1dVBwSWpRZWRKckpZ0gFYQVVfeXFMTkE2UFhyMXFtY1ItcGxKZjhzZGxzMEJKanFCWlJNcEp2dFZKU2ltT1J1cHZoblE3cTg2U1UwRWZrbUh0OHV1NV9YbnJjZExnbGlWWjVzbjFiaQ?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-10-22T09:56:57+08:00",
+     "description": "薔琵上午11:30陸警！賈新興曝可能登陸地點 明晨暴風圈觸陸恐籠罩全台  UDN",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "LIVE／薔琵暴風圈恐籠罩全台　氣象署最新說明",
+     "link": "https://www.ettoday.net/news/20261022/3258831.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-10-22T08:30:00+08:00",
+     "description": "強烈颱風薔琵進逼，氣象署預報指出，颱風路徑有略西修，暴風圈覆蓋台灣陸地範圍變大。氣象粉專也預警，薔琵暴風圈可能籠罩全台灣。《ETtoday新聞雲》將直播氣象署記者會，供讀者掌握最新颱風動態與天氣資訊。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "週五颱風假？薔琵最新暴風圈侵襲率狂升「3縣市飆99%最高」10地區破9成",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1kOU5xaGJVNUZzRlV4QWJ0NkZWUk5zTUxmOUwtTWxkZGlia2R5RmVET1pYNGFfbmsybXpyNDIyRXZiVGhaeERDMtIBTEFVX3lxTE9ZSlhQNzBIbmRWTG5ZdE5KM2ZoVlpKLUhBVFk2RVhmaEJsMENJUzR0QWRSY0lKaUt4dEk4Q0JnRkpJTU5jN3FzaWdkSU8?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-10-22T05:00:00+08:00",
+     "description": "週五颱風假？薔琵最新暴風圈侵襲率狂升「3縣市飆99%最高」10地區破9成  三立新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -6129,7 +6102,7 @@
     },
     {
      "title": "力積電Q3獲利回升！毛利率衝48%　EPS達1.38元",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hSjRKMV94SFNOeTRXUXVZZ0tHTkgzM19tZGpmbW1GaDQ4S21Xa0s5X2hzdkpNNlVCWXlXUVh0Y0Qtd0Z2QmotallCVmd2cGpMZlHSAVJBVV95cUxPYUo0SjFfeEhTTnk0V1F1WWdLR05IMzNfbWRqZm1tRmg0OEttV2tLOV9oc3ZKTTZVQll5V1FYdGNELXdGdkJqLWpZQlZndnBqTGZR?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE56a19RUXpEZ3F3UThROHJZd21MaGh6SDlxTDRPaU91blJ5ZjU5MGpvZWY3RmlWSmZpb3RnZW94YWk5dmVRRGlHbER5ekzSAVJBVV95cUxPYUo0SjFfeEhTTnk0V1F1WWdLR05IMzNfbWRqZm1tRmg0OEttV2tLOV9oc3ZKTTZVQll5V1FYdGNELXdGdkJqLWpZQlZndnBqTGZR?oc=5",
      "source": "nownews",
      "source_name": "今日新聞",
      "published": "2026-10-21T16:06:18+08:00",
@@ -6146,7 +6119,7 @@
     },
     {
      "title": "力積電Q3獲利回升！毛利率衝48%　EPS達1.38元",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE56a19RUXpEZ3F3UThROHJZd21MaGh6SDlxTDRPaU91blJ5ZjU5MGpvZWY3RmlWSmZpb3RnZW94YWk5dmVRRGlHbER5ekzSAVJBVV95cUxPYUo0SjFfeEhTTnk0V1F1WWdLR05IMzNfbWRqZm1tRmg0OEttV2tLOV9oc3ZKTTZVQll5V1FYdGNELXdGdkJqLWpZQlZndnBqTGZR?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hSjRKMV94SFNOeTRXUXVZZ0tHTkgzM19tZGpmbW1GaDQ4S21Xa0s5X2hzdkpNNlVCWXlXUVh0Y0Qtd0Z2QmotallCVmd2cGpMZlHSAVJBVV95cUxPYUo0SjFfeEhTTnk0V1F1WWdLR05IMzNfbWRqZm1tRmg0OEttV2tLOV9oc3ZKTTZVQll5V1FYdGNELXdGdkJqLWpZQlZndnBqTGZR?oc=5",
      "source": "nownews",
      "source_name": "今日新聞",
      "published": "2026-10-21T16:06:18+08:00",
@@ -6378,34 +6351,52 @@
    ]
   },
   {
-   "id": "7b48de4f0b00",
-   "title": "未與資方達成協議 美光桃園工會明罷工一天",
+   "id": "ee00df8c9cb1",
+   "title": "台灣大賽》味全龍G3不上場名單有玄機 黃暐傑、伍鐸皆入列",
    "outlet_count": 7,
    "outlets": [
     "chinatimes",
+    "ebc",
     "ettoday",
     "ltn",
     "mirror",
-    "newtalk",
-    "pts",
+    "nownews",
     "setn"
    ],
-   "article_count": 17,
-   "first_seen": "2026-10-20T20:09:06+08:00",
-   "last_updated": "2026-10-22T15:09:50+08:00",
+   "article_count": 41,
+   "first_seen": "2026-10-20T18:05:55+08:00",
+   "last_updated": "2026-10-22T10:39:39.963787+08:00",
    "tags": [
-    "美光桃園",
-    "罷工",
-    "協商"
+    "台灣大賽",
+    "兄弟"
    ],
    "articles": [
     {
-     "title": "美光罷工4》勞動部：應桃市府邀請參與美光勞資協商將持續協助溝通| 財經",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VU1VCakhsdWdKUTZSdENjX0tFZWZWZzVHcVUxNm01ZklmQk5SbUVNdW9qTUZZT1RlaEdiTGw2dEhqdW4zeE5QODZLT2M2eGpLZ1ByLUtST2RmaTg?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-10-22T15:09:50+08:00",
-     "description": "美光罷工4》勞動部：應桃市府邀請參與美光勞資協商將持續協助溝通| 財經  Newtalk新聞",
+     "title": "中職／詹子賢再見安打！兄弟擊退味全龍台灣大賽續命",
+     "link": "https://news.ebc.net.tw/news/sport/576906",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-10-22T10:39:39.963787+08:00",
+     "description": "中信兄弟21日在台北大巨蛋舉行的台灣大賽第四戰，靠詹子賢延長賽再見安打以5比4擊敗味全龍。另因進場贈品延遲發放，引發42件申訴。",
+     "category": "sport",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "sport",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "台灣大賽／假借沒洗面乳！詹子賢開導張士綸內幕超感人：心疼他整天摸頭| 運動",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1peHBPa1dkamdXZGVudkRrS1hDLXptMFRUWUp4X3pBUXhpU3luTTN4c3VpeDhBY2tCdHFMWDlneE9FWEc0TEtkbQ?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-10-22T06:30:00+08:00",
+     "description": "台灣大賽／假借沒洗面乳！詹子賢開導張士綸內幕超感人：心疼他整天摸頭| 運動  三立新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -6413,16 +6404,103 @@
        "source": "unknown"
       },
       "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
-     "title": "台灣美光爆勞資爭議   桃園、台中不同調？",
-     "link": "https://ec.ltn.com.tw/article/breakingnews/5615038",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-10-22T14:36:33+08:00",
-     "description": "台灣美光勞資協商爭議持續延燒，因進度不同調，台中工會昨與資方達成共識，桃園工會今（22）日舉行24小時罷工行動，但台中工會達成協議，引來部分基層不滿，於網路發起「緊急撤銷...…",
+     "title": "台灣大賽／假借沒洗面乳！詹子賢開導張士綸內幕超感人：心疼他整天摸頭",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1peHBPa1dkamdXZGVudkRrS1hDLXptMFRUWUp4X3pBUXhpU3luTTN4c3VpeDhBY2tCdHFMWDlneE9FWEc0TEtkbdIBTEFVX3lxTE8wWUhvdGJfaEVLcDlpNVRmNHNyQkpfWkVma0NISkhLSmNESjN2TmZrdXJkdWlCTnNiVHVDLS1qVllRRW9oSl9ObEJ5UmY?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-10-22T06:30:00+08:00",
+     "description": "台灣大賽／假借沒洗面乳！詹子賢開導張士綸內幕超感人：心疼他整天摸頭  三立新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "台灣大賽／11支0「低頭落寞」遭撤換　張士綸成兄弟G4破蛋英雄回報平野",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBBWVdXRlN4RHR3UjNaVVNoejY4Z05mUTNGZlFZbWtsTjJZYk5icVZnQzdsVUFEeUR6anpwWDVUbHJlR2hHX3BjbdIBTEFVX3lxTE1tTU1ZOHBPZG5EckthSHBnOE9GbDh4WFJVRFJfT1lKakJPRnR4QVFmTWExSU1DQmthZWlhNTNZeDJhbDFkcC1zTjl6Y24?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-10-22T06:00:00+08:00",
+     "description": "台灣大賽／11支0「低頭落寞」遭撤換　張士綸成兄弟G4破蛋英雄回報平野  三立新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "台灣大賽／兄弟豪賭雙洋投續命！平野惠一曝後續佈局　承諾絕不操壞球員",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE42aEhzVkVOV2J4Tkx4dUl2Sk5zVWdxOG5vdS1tUHU2aWJ4WkdHMk13SktEQW9mWFJKZjdiWWxETFBJeUdOTVFyQtIBTEFVX3lxTE9RdXB0MWIweXZqUmxISXRiWHpfQXFsdWk2Y0lyWVFla2EwS0FUdmV3b0FEdG5kZE9BN1VDQ25reU92bkxtWjdxOEtsZmM?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-10-22T01:14:00+08:00",
+     "description": "台灣大賽／兄弟豪賭雙洋投續命！平野惠一曝後續佈局　承諾絕不操壞球員  三立新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "張士綸台灣大賽敲首安破低潮！被平野惠一狠話點醒：低頭就換下場",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE80dWhldjhzcjl6VzBFaUZGU0IyU0N6bi1kMC10TmNiTGR2UXptbEsyai03XzlJejZOTFlhTkZwb3JGbGg0djVUek1WYk_SAVJBVV95cUxNYzk1MEw3VWlpdG5xcHczT3M5VTFFMGJ3UUtZWWJzSVlrSTRiUENQVG10bTh6aVUzQ3VpdU9DTy1kWlh6UC1aT0xvQnhveWl6SDZB?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-10-22T00:55:20+08:00",
+     "description": "張士綸台灣大賽敲首安破低潮！被平野惠一狠話點醒：低頭就換下場  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "中職／台灣大賽延長賽11局分勝負 詹子賢再見安助兄弟續命",
+     "link": "https://news.ebc.net.tw/news/sport/576870",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-10-22T00:32:20.290193+08:00",
+     "description": "中職總冠軍賽（台灣大賽）第4戰，中信兄弟背水一戰，洋投勝騎士、菲力士都後援登板，延長賽11局下，兄弟靠著詹子賢再見安以5比4擊敗味全龍，系列賽扳回1勝、延長戰線",
+     "category": "sport",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "sport",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "宋晟睿11局沒敲安自責！詹子賢再見安讓他秒變開心",
+     "link": "https://sports.ettoday.net/news/3258774",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-10-21T23:42:00+08:00",
+     "description": "中信兄弟21日在台灣大賽第4戰鏖戰11局，以5比4擊敗味全龍，成功延續戰線。宋晟睿6局下敲出關鍵2分打點安打，幫助球隊追平比數，但11局下再度站上打擊區，卻未能把握機會，讓他一度相當自責。所幸詹子賢隨後敲出再見安打，讓宋晟睿瞬間從懊惱轉為興奮，賽後他也透露，這是自己第一次經歷如此快速的情緒轉換。 《詳全文...》",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -6430,33 +6508,33 @@
        "source": "unknown"
       },
       "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
      }
     },
     {
-     "title": "美光勞資協商兩地不同調 台中簽協議、桃園發動罷工",
-     "link": "https://news.pts.org.tw/article/832461",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-10-22T13:39:06+08:00",
-     "description": "半導體記憶體大廠台灣美光勞資爭議出現重大進度，美光公司與台中工會正式簽署勞資協議，並撤回原定於22日舉辦的調解程序；然而與桃園工會的協商則宣告破局，桃園工會決定22日進行幹部罷工行動。",
+     "title": "台灣大賽／吃4.1局投到延長！勝騎士吐中3日心聲　讚呂彥青把握2次機會",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5FQVJwMXVlV09ITmNCZ25CTU5LRWtTM1NUenVIemp6Sjk1UTVMd2plLW0zQkx2WnRYNkFib3dlSnZlUzQ1TnZNcNIBTEFVX3lxTE44ZlNVaU5ueW1wLVl2dnlWekV5WmkwcWpMVG4wVlQ1d0dHa2V5TE8zUUpRSGNjMVBpaUZBczVlSkNRM1FOd0ppVEdfank?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-10-21T23:39:00+08:00",
+     "description": "台灣大賽／吃4.1局投到延長！勝騎士吐中3日心聲　讚呂彥青把握2次機會  三立新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
-     "title": "台灣半導體業首場罷工！美光協商破局 11幹部廠前靜坐24小時",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhSHpiWWtaZDI4bVBTQllkNHdYeWl3MWFpUVpRcEdLYS1jb3RnUVNDamhnT3pjMDhHVlhYYzFKaV9jcF9iQXp6bFVPNUZWZVR6YjVlMGZsc0xUOXdkQ29DZE9kLWt2cF9DZ0NMRVdn?oc=5",
+     "title": "台灣大賽》張士綸看哥哥挨砸好心痛 葉總：最後一球值得撲",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbGZLNkRzSUJPeW02M3VLYkhJd0FndzhmSDRTMndZcUlKVmoxX1N4ZXdJdXdxTGtWTXBwaWtoamZBQ1Z0anFzbDBCdlBBeVNzenpRa3k1dk9pcENBNUlWb2FqcHVHRzV4WXdYUVlBZGFXdVdSYzQxZ0ZpV2szLVg1My1Wb0FhblhXci0yVkJMVQ?oc=5",
      "source": "chinatimes",
      "source_name": "中時新聞網",
-     "published": "2026-10-22T12:14:29+08:00",
-     "description": "台灣半導體業首場罷工！美光協商破局 11幹部廠前靜坐24小時  中時新聞網",
+     "published": "2026-10-21T23:30:54+08:00",
+     "description": "台灣大賽》張士綸看哥哥挨砸好心痛 葉總：最後一球值得撲  中時新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -6465,108 +6543,6 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "美光桃園工會幹部今罷工24小時　批台中協商遭排除",
-     "link": "https://www.mirrormedia.mg/story/20261022-180fin-112413",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-10-22T11:48:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "要求分潤等4大訴求未果 美光桃園工會11幹部展開24小時罷工",
-     "link": "https://ec.ltn.com.tw/article/breakingnews/5614555",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-10-22T10:19:01+08:00",
-     "description": "台灣美光晶圓科技公司企業工會（美光桃園工會）昨與公司在桃園市政府協商未果，11位工會幹部今天上午9點在公司門口進行24小時罷工行動，工會理事長林哲瑞表示，桃園工會與台中工...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "美光桃園今罷工　公司回應",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBnRDJrajJTeXJWZmRhVktqVUhQWE5qdlZ1Z1VPeFVNcVo4M0MzaWRpWDdKVU5zNXpPaGF1R1NUaEpCQjBDOVJxdG5wVWbSAUxBVV95cUxQZ0Qya2oyU3lyVmZkYVZLalVIUFhOanZWdWdVT3hVTXFaODNDM2lkaVg3SlVOczV6T2hhdUdTVGhKQkIwQzlScXRucFVm?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-10-22T09:16:00+08:00",
-     "description": "美光桃園今罷工　公司回應  三立新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "美光桃園今罷工　公司回應",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9BZmlPTjczZEpaeUpaUXk1bm11eW9CRm9rRVc1TUxTUFhaR0VRSTMycE83X2NmSFhLcTlSQkpZUFFDNDFpZjkyR9IBTEFVX3lxTFBnRDJrajJTeXJWZmRhVktqVUhQWE5qdlZ1Z1VPeFVNcVo4M0MzaWRpWDdKVU5zNXpPaGF1R1NUaEpCQjBDOVJxdG5wVWY?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-10-22T09:16:00+08:00",
-     "description": "美光桃園今罷工　公司回應  三立新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "美光桃園廠今早9點罷工！　分潤協商破局",
-     "link": "https://finance.ettoday.net/news/3258863",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-10-22T08:45:00+08:00",
-     "description": "記憶體製造大廠「美光」、台灣美光桃園工會21日與資方協商破局，宣布今天（22日）起9點啟動24小時罷工。訊息傳至 PTT 引發討論，投資者焦點聚焦晶片供應及股價走勢。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "台灣美光桃園工會協商破局明罷工　公司喊話：盼與工會繼續協商",
-     "link": "https://finance.ettoday.net/news/3258769",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-10-21T23:18:00+08:00",
-     "description": "台灣美光桃園工會與台灣美光今日在桃園市政府進行協商，不過並沒有具體成果，工會也因此宣布將於22日罷工，對此台灣美光晚間聲明表示，對於本日與桃園工會之協商，雙方雖未能達成共識，公司仍期待與桃園工會持續溝通對話。\n\n 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
      }
     }
    ]
@@ -6590,7 +6566,7 @@
    "tags": [
     "川普宣布",
     "晶片",
-    "商務部長"
+    "台灣太遠"
    ],
    "claims": [
     {
@@ -6754,87 +6730,32 @@
    ]
   },
   {
-   "id": "ea20f29e583b",
-   "title": "巴黎里昂等地局部宵禁　法國不排除宣布緊急狀態",
-   "outlet_count": 7,
+   "id": "1d10ef49b916",
+   "title": "台股開低走低跌逾280點　台積電跌20元至2400元",
+   "outlet_count": 6,
    "outlets": [
-    "cna",
-    "ebc",
+    "chinatimes",
     "ettoday",
     "ltn",
-    "mirror",
-    "pts",
-    "tvbs"
+    "newtalk",
+    "nownews",
+    "udn"
    ],
-   "article_count": 7,
-   "first_seen": "2026-10-20T05:27:35+08:00",
-   "last_updated": "2026-10-20T20:49:21+08:00",
+   "article_count": 13,
+   "first_seen": "2026-10-20T09:09:22+08:00",
+   "last_updated": "2026-10-23T05:28:00+08:00",
    "tags": [
-    "宣布緊急狀態",
-    "等地局部宵禁",
-    "法國不排除宣"
+    "台積電",
+    "台股"
    ],
    "articles": [
     {
-     "title": "法國巴黎等城局部宵禁 政府不排除宣布緊急狀態",
-     "link": "https://news.pts.org.tw/article/832230",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-10-20T20:49:21+08:00",
-     "description": "法國的動亂餘波盪漾，為了避免再度上演暴力衝突，包括首都巴黎在內的多個城市，週一（19日）晚上局部宵禁，總理不排除進一步宣布緊急狀態，而民調跌落谷底的總統馬克宏仍然如期出訪中東國家，並沒有留在國內親自坐鎮，也可能再引發批評。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "巴黎里昂等地局部宵禁 法國不排除宣布緊急狀態",
-     "link": "https://news.ebc.net.tw/news/world/576599",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-10-20T09:00:45.866860+08:00",
-     "description": "法國上週末抗議物價高漲的示威活動演變成近年來最嚴重的街頭暴力衝突，有關當局今天宣布巴黎和里昂等城市局部宵禁，總理勒克努未排除宣布緊急狀態的可能性。",
-     "category": "world",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "world",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "法國抗爭「縱火搶劫」燒不停…巴黎等地局部宵禁　總理：不排除「進入緊急狀態」",
-     "link": "https://www.mirrormedia.mg/story/20261020edi003",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-10-20T07:29:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "巴黎里昂局部宵禁、羅浮宮閉館　法國只差一步宣布緊急狀態",
-     "link": "https://www.ettoday.net/news/20261020/3257541.htm",
+     "title": "AI支出疑慮血洗美股！費半收黑773點　台指期夜盤大跌580點",
+     "link": "https://finance.ettoday.net/news/3259522",
      "source": "ettoday",
      "source_name": "ETtoday",
-     "published": "2026-10-20T07:06:00+08:00",
-     "description": "法國上周末抗議物價高漲的示威活動，演變成近年最嚴重的街頭暴力衝突。當局20日宣布，巴黎、里昂等多座城市實施局部宵禁，總理勒克努（Sébastien Lecornu）也不排除宣布緊急狀態。這波動亂已造成至少3000家商店受損，損失高達數億歐元，知名景點羅浮宮也因學生抗議暫時閉館。\n 《詳全文...》",
+     "published": "2026-10-23T05:28:00+08:00",
+     "description": "AI人工智慧支出疑慮再起、國際油價升高，導致美股多收黑，那指終場下挫694點或-2.6%、6月以來最慘單日表現。台指期夜盤大跌580點或-1.25％、收45654點。 《詳全文...》",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -6846,29 +6767,12 @@
      }
     },
     {
-     "title": "巴黎里昂等地局部宵禁 法國不排除宣布緊急狀態",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jSDJEemd3TmVtNkJnY042WjROcDNfbHN5dXhQV2Y2amhWNE1TUGRGbkcyU29uZFd3VkxNUUxjc0xlVGxCRWtfZ2NmOXA0QzA?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-10-20T06:51:00+08:00",
-     "description": "巴黎里昂等地局部宵禁 法國不排除宣布緊急狀態  TVBS新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "巴黎里昂等地局部宵禁　法國不排除宣布緊急狀態",
-     "link": "https://news.ltn.com.tw/news/world/breakingnews/5611769",
+     "title": "4天後剉咧等？台積電ADR大暴跌 台指期夜盤一度狂殺500點",
+     "link": "https://ec.ltn.com.tw/article/breakingnews/5615779",
      "source": "ltn",
      "source_name": "自由時報",
-     "published": "2026-10-20T05:36:03+08:00",
-     "description": "法國上週末抗議物價高漲的示威活動演變成近年來最嚴重的街頭暴力衝突，有關當局今天宣布巴黎和里昂等城市局部宵禁，總理勒克努未排除宣布緊急狀態的可能性。\n\n法新社報導，巴黎遊客今天也感受到這波動盪...…",
+     "published": "2026-10-22T23:35:42+08:00",
+     "description": "〔財經頻道／綜合報導〕美國科技股殺聲隆隆，那斯達克及費城半導體遭血洗，AMD周四（22日）盤中大爆跌超過7%，台積電ADR重挫4%，輝達也急殺超過3%，台指期夜盤盤中一度翻紅仍不敵賣壓，大跌50...…",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -6880,20 +6784,139 @@
      }
     },
     {
-     "title": "巴黎里昂等地局部宵禁　法國不排除宣布緊急狀態",
-     "link": "https://www.cna.com.tw/news/aopl/202610200008.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-10-20T05:27:35+08:00",
-     "description": "（中央社巴黎19日綜合外電報導）法國上週末抗議物價高漲的示威活動演變成近年來最嚴重的街頭暴力衝突，有關當局今天宣布巴黎和里昂等城市局部宵禁，總理勒克努未排除宣布緊急狀態的可能性。",
+     "title": "台股開高走低收最低、下挫846點跌破季線 台積電收低35元",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WLXRVcTN5b1cxbzVnRll1ckY2Y0NRZ2ZFUFJiZW5TWmtYLWhtdDJwS2pJZjA1NncySVRMdG9pdmV1MnI2ZWQ3RXp4YVFEVUJa0gFWQVVfeXFMT0V6SUtxWndFN0ZjRG5xVVZ3akg5cnRFQ2N0ZmtxU0xyeFd0TzFwbmtPdjh2Rl9LTjRERG5MZUFWWWs1aVZvclFQeWd3bkVGR2UwcW9yYnc?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-10-22T13:58:34+08:00",
+     "description": "台股開高走低收最低、下挫846點跌破季線 台積電收低35元  UDN",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "台股開高走低！終場重挫846點失守季線　台積電跌35元",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpMXdXa2tTeXRWM0VjbXFUSzd1a29IMkdybVNVTF9CWG9iWXJHZ2haSTNaNFh0OFduZXVQS2k0eHRBeWE2NkJyZlphOG5nR3ltLWfSAVJBVV95cUxQaTF3V2trU3l0VjNFY21xVEs3dWtvSDJHcm1TVUxfQlhvYllyR2doWkkzWjRYdDhXbmV1UEtpNHh0QXlhNjZCcmZaYThuZ0d5bS1n?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-10-22T13:54:39+08:00",
+     "description": "台股開高走低！終場重挫846點失守季線　台積電跌35元  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "台積電漲15元至2435元！台股漲逾444點站上47300點",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkeDlNUTBkZTRZMXFod3F6X2kydzhFSU5CaHQwMlp0SEROay0xTmlXSGZQbUpjT3hGVHJpS2VlQWhWcVozR3prSUo1RWM3VHg2YUHSAVJBVV95cUxQZHg5TVEwZGU0WTFxaHdxel9pMnc4RUlOQmh0MDJadEhETmstMU5pV0hmUG1KY094RlRyaUtlZUFoVnFaM0d6a0lKNUVjN1R4NmFB?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-10-22T09:08:57+08:00",
+     "description": "台積電漲15元至2435元！台股漲逾444點站上47300點  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "台股強彈595點收復46800點！台積電漲15元",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50Z0RMZUJaVkpOeHIzSzFGaHlTN1M0QTdGZUR6RTdCVGhTTFFFbmtMT3poWEhuY3Q0eHA5UnphWE9OeFRmNWRONDVCYnp0VHJCWGfSAVJBVV95cUxOdGdETGVCWlZKTnhyM0sxRmh5UzdTNEE3RmVEekU3QlRoU0xRRW5rTE96aFhIbmN0NHhwOVJ6YVhPTnhUZjVkTjQ1QmJ6dFRyQlhn?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-10-21T14:12:51+08:00",
+     "description": "台股強彈595點收復46800點！台積電漲15元　  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "台指期盤中大漲逾600點衝上47,000點大關- 上市櫃",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42cG9Wd2hqaXdRb1dVMDdpaWN0WEpORDZwaDZDSDVVQWlZVE5HM0RaXzZQZ1RESmRmRHN6Zl9pODRORUFvdTRXemhYOXpMLUhQRHBCZDBld21XZng5eWg1WlA5UXFFYnI3aHc?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-10-21T14:07:23+08:00",
+     "description": "台指期盤中大漲逾600點衝上47,000點大關- 上市櫃  旺得富理財網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "台股強彈逾900點！收復47000點　台積電漲25元",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtVVN5MW1WLXd3dTNmZjhqeXU1YlVsUEVGYm1xa0R1dk5qN0tSSDVLYlo3bUw2RlNnZFZLWms4c213NXA0Ul9mNmF2LXozcWs3WlHSAVJBVV95cUxQLVVTeTFtVi13d3UzZmY4anl1NWJVbFBFRmJtcWtEdXZOajdLUkg1S2JaN21MNkZTZ2RWS1prOHNtdzVwNFJfZjZhdi16M3FrN1pR?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-10-21T10:56:27+08:00",
+     "description": "台股強彈逾900點！收復47000點　台積電漲25元  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "台股強彈逾786點！收復47K　台積電漲25元",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPTnRwb3dtNklUUUxDOFE1STE3aElsWXVpUzBkbVhRY0pQVGdMbU02QmxscDI3YjczRjlEbFE2dE1QOGNhTVNSSzVLT0xES0cxZHfSAVJBVV95cUxQT050cG93bTZJVFFMQzhRNUkxN2hJbFl1aVMwZG1YUWNKUFRnTG1NNkJsbHAyN2I3M0Y5RGxRNnRNUDhjYU1TUks1S09MREtHMWR3?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-10-21T09:07:45+08:00",
+     "description": "台股強彈逾786點！收復47K　台積電漲25元  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "財報利多抵銷AI投資疑慮！美股漲跌互見道瓊漲529點 台積電ADR漲1.16％",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHVEtKdTJGQmh1aFp0Qlo3TVYwV2lFMmlZMFR2djRWbWZqMjdieWJRRGwteU9PZHlCeE9tVFVHY3U1Qk9YVlZfSDN1ejhlOWRmSkdHdXJ0RTNIMHc?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-10-21T08:29:05+08:00",
+     "description": "財報利多抵銷AI投資疑慮！美股漲跌互見道瓊漲529點 台積電ADR漲1.16％  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -7054,198 +7077,6 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
-   "id": "1d10ef49b916",
-   "title": "台股開低走低跌逾280點　台積電跌20元至2400元",
-   "outlet_count": 6,
-   "outlets": [
-    "chinatimes",
-    "ettoday",
-    "ltn",
-    "newtalk",
-    "nownews",
-    "udn"
-   ],
-   "article_count": 12,
-   "first_seen": "2026-10-20T09:09:22+08:00",
-   "last_updated": "2026-10-22T23:35:42+08:00",
-   "tags": [
-    "台積電",
-    "台股"
-   ],
-   "articles": [
-    {
-     "title": "4天後剉咧等？台積電ADR大暴跌 台指期夜盤一度狂殺500點",
-     "link": "https://ec.ltn.com.tw/article/breakingnews/5615779",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-10-22T23:35:42+08:00",
-     "description": "〔財經頻道／綜合報導〕美國科技股殺聲隆隆，那斯達克及費城半導體遭血洗，AMD周四（22日）盤中大爆跌超過7%，台積電ADR重挫4%，輝達也急殺超過3%，台指期夜盤盤中一度翻紅仍不敵賣壓，大跌50...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "台股開高走低收最低、下挫846點跌破季線 台積電收低35元",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WLXRVcTN5b1cxbzVnRll1ckY2Y0NRZ2ZFUFJiZW5TWmtYLWhtdDJwS2pJZjA1NncySVRMdG9pdmV1MnI2ZWQ3RXp4YVFEVUJa0gFWQVVfeXFMT0V6SUtxWndFN0ZjRG5xVVZ3akg5cnRFQ2N0ZmtxU0xyeFd0TzFwbmtPdjh2Rl9LTjRERG5MZUFWWWs1aVZvclFQeWd3bkVGR2UwcW9yYnc?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-10-22T13:58:34+08:00",
-     "description": "台股開高走低收最低、下挫846點跌破季線 台積電收低35元  UDN",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "台股開高走低！終場重挫846點失守季線　台積電跌35元",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpMXdXa2tTeXRWM0VjbXFUSzd1a29IMkdybVNVTF9CWG9iWXJHZ2haSTNaNFh0OFduZXVQS2k0eHRBeWE2NkJyZlphOG5nR3ltLWfSAVJBVV95cUxQaTF3V2trU3l0VjNFY21xVEs3dWtvSDJHcm1TVUxfQlhvYllyR2doWkkzWjRYdDhXbmV1UEtpNHh0QXlhNjZCcmZaYThuZ0d5bS1n?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-10-22T13:54:39+08:00",
-     "description": "台股開高走低！終場重挫846點失守季線　台積電跌35元  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "台積電漲15元至2435元！台股漲逾444點站上47300點",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkeDlNUTBkZTRZMXFod3F6X2kydzhFSU5CaHQwMlp0SEROay0xTmlXSGZQbUpjT3hGVHJpS2VlQWhWcVozR3prSUo1RWM3VHg2YUHSAVJBVV95cUxQZHg5TVEwZGU0WTFxaHdxel9pMnc4RUlOQmh0MDJadEhETmstMU5pV0hmUG1KY094RlRyaUtlZUFoVnFaM0d6a0lKNUVjN1R4NmFB?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-10-22T09:08:57+08:00",
-     "description": "台積電漲15元至2435元！台股漲逾444點站上47300點  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "台股強彈595點收復46800點！台積電漲15元",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50Z0RMZUJaVkpOeHIzSzFGaHlTN1M0QTdGZUR6RTdCVGhTTFFFbmtMT3poWEhuY3Q0eHA5UnphWE9OeFRmNWRONDVCYnp0VHJCWGfSAVJBVV95cUxOdGdETGVCWlZKTnhyM0sxRmh5UzdTNEE3RmVEekU3QlRoU0xRRW5rTE96aFhIbmN0NHhwOVJ6YVhPTnhUZjVkTjQ1QmJ6dFRyQlhn?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-10-21T14:12:51+08:00",
-     "description": "台股強彈595點收復46800點！台積電漲15元　  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "台指期盤中大漲逾600點衝上47,000點大關- 上市櫃",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42cG9Wd2hqaXdRb1dVMDdpaWN0WEpORDZwaDZDSDVVQWlZVE5HM0RaXzZQZ1RESmRmRHN6Zl9pODRORUFvdTRXemhYOXpMLUhQRHBCZDBld21XZng5eWg1WlA5UXFFYnI3aHc?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-10-21T14:07:23+08:00",
-     "description": "台指期盤中大漲逾600點衝上47,000點大關- 上市櫃  旺得富理財網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "台股強彈逾900點！收復47000點　台積電漲25元",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtVVN5MW1WLXd3dTNmZjhqeXU1YlVsUEVGYm1xa0R1dk5qN0tSSDVLYlo3bUw2RlNnZFZLWms4c213NXA0Ul9mNmF2LXozcWs3WlHSAVJBVV95cUxQLVVTeTFtVi13d3UzZmY4anl1NWJVbFBFRmJtcWtEdXZOajdLUkg1S2JaN21MNkZTZ2RWS1prOHNtdzVwNFJfZjZhdi16M3FrN1pR?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-10-21T10:56:27+08:00",
-     "description": "台股強彈逾900點！收復47000點　台積電漲25元  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "台股強彈逾786點！收復47K　台積電漲25元",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPTnRwb3dtNklUUUxDOFE1STE3aElsWXVpUzBkbVhRY0pQVGdMbU02QmxscDI3YjczRjlEbFE2dE1QOGNhTVNSSzVLT0xES0cxZHfSAVJBVV95cUxQT050cG93bTZJVFFMQzhRNUkxN2hJbFl1aVMwZG1YUWNKUFRnTG1NNkJsbHAyN2I3M0Y5RGxRNnRNUDhjYU1TUks1S09MREtHMWR3?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-10-21T09:07:45+08:00",
-     "description": "台股強彈逾786點！收復47K　台積電漲25元  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "財報利多抵銷AI投資疑慮！美股漲跌互見道瓊漲529點 台積電ADR漲1.16％",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHVEtKdTJGQmh1aFp0Qlo3TVYwV2lFMmlZMFR2djRWbWZqMjdieWJRRGwteU9PZHlCeE9tVFVHY3U1Qk9YVlZfSDN1ejhlOWRmSkdHdXJ0RTNIMHc?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-10-21T08:29:05+08:00",
-     "description": "財報利多抵銷AI投資疑慮！美股漲跌互見道瓊漲529點 台積電ADR漲1.16％  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "財報抵銷AI泡沫疑慮！美股勁揚529點　台指期夜盤漲逾600點",
-     "link": "https://finance.ettoday.net/news/3258161",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-10-21T05:55:00+08:00",
-     "description": "受到企業財報利多、油價回落激勵，讓AI人工智慧疑慮降低，帶動道瓊大漲超過500點，台積電ADR（TSM）漲4.86美元或1.16％、收425.08美元。其他台股ADR部分，日月光ADR （ASXS）跌0.07%；聯電ADR（UMC）跌 2.04%；中華電信ADR（CHT）跌 0.08%。台指期夜盤大漲634點或1.37％、收46975點。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
      }
     }
    ]
@@ -7498,7 +7329,7 @@
     },
     {
      "title": "薔琵最新路徑再度西修 氣象粉專：登陸仍是選項 明午後有陸警機率",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBCYjF0LXI4b3o3dW1yWTZEdm1FbnlFcURZZ1NTVWI4QkN6czBrRlNUMjFlcTBLeVR1eEpoZ1h4WERkTjZhZ29DcjNmcTV2OXFB0gFWQVVfeXFMUEpkdGswUHhjZW50RnJpSDd5ejc0dGxIbXF6X1pzVFpwOVFQZHd1QjZWMzRfeEEtSzVoal9lSTFOeUpwSVZ1bURqOWM4aF9nbktfQ0lua3c?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpNWRWdEMya0lQZzBHZ3lBcXcwQnJXbTVHSVZLajZzMFNiVnRrakhMdHcwcW9maTVXWnhzZXhvMldnN2xxcUV4NU10LUlCR3VWQ0Zz0gFYQVVfeXFMTUJMS3BtRDktd05xcmlJRjhhYjBvLUU4WkFZOG9xWkRGS203aWtSdk5FNGZaNWVxd3VnRUZrbU51S2V2SEVmaXpRTmlOQUJBSWIyRWlrTHNjTQ?oc=5",
      "source": "udn",
      "source_name": "聯合新聞網",
      "published": "2026-10-21T22:36:05+08:00",
@@ -7515,7 +7346,7 @@
     },
     {
      "title": "薔琵最新路徑再度西修 氣象粉專：登陸仍是選項 明午後有陸警機率",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpNWRWdEMya0lQZzBHZ3lBcXcwQnJXbTVHSVZLajZzMFNiVnRrakhMdHcwcW9maTVXWnhzZXhvMldnN2xxcUV4NU10LUlCR3VWQ0Zz0gFYQVVfeXFMTUJMS3BtRDktd05xcmlJRjhhYjBvLUU4WkFZOG9xWkRGS203aWtSdk5FNGZaNWVxd3VnRUZrbU51S2V2SEVmaXpRTmlOQUJBSWIyRWlrTHNjTQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBCYjF0LXI4b3o3dW1yWTZEdm1FbnlFcURZZ1NTVWI4QkN6czBrRlNUMjFlcTBLeVR1eEpoZ1h4WERkTjZhZ29DcjNmcTV2OXFB0gFWQVVfeXFMUEpkdGswUHhjZW50RnJpSDd5ejc0dGxIbXF6X1pzVFpwOVFQZHd1QjZWMzRfeEEtSzVoal9lSTFOeUpwSVZ1bURqOWM4aF9nbktfQ0lua3c?oc=5",
      "source": "udn",
      "source_name": "聯合新聞網",
      "published": "2026-10-21T22:36:05+08:00",
@@ -7615,148 +7446,6 @@
       },
       "acquisition": "rss",
       "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    }
-   ]
-  },
-  {
-   "id": "268cfc038d2f",
-   "title": "川普願與習普會談非核化　烏外長：只會助長戰爭",
-   "outlet_count": 6,
-   "outlets": [
-    "cna",
-    "ettoday",
-    "ltn",
-    "pts",
-    "tvbs",
-    "udn"
-   ],
-   "article_count": 7,
-   "first_seen": "2026-10-20T05:57:00+08:00",
-   "last_updated": "2026-10-21T23:17:50+08:00",
-   "tags": [
-    "行三方峰會",
-    "願與習近平",
-    "川普"
-   ],
-   "articles": [
-    {
-     "title": "克宮：普丁、川普、習近平三方峰會正籌備中",
-     "link": "https://www.cna.com.tw/news/aopl/202610210365.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-10-21T23:17:50+08:00",
-     "description": "（中央社聖彼得堡21日綜合外電報導）克里姆林宮今天表示，俄羅斯總統普丁、美國總統川普和中國國家主席習近平的三方會談「正在籌備中」。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
-     }
-    },
-    {
-     "title": "白宮特使將赴俄見蒲亭 烏克蘭盼舉行三方峰會",
-     "link": "https://news.pts.org.tw/article/832249",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-10-21T08:25:29+08:00",
-     "description": "烏克蘭總統澤倫斯基（Volodymyr Zelenskyy）20日飛抵挪威，與美國白宮特使魏科夫（Steve Witkoff）及歐洲盟國領袖展開關鍵會談。澤倫斯基會後證實，美烏情資共享已經恢復，並公開呼籲應該舉行美俄烏3方峰會來結束戰爭，而美國總統川普（Donald Trump）則表示，烏克蘭自己必須真正想結束戰爭，與俄國達成協議。而魏科夫21日將轉往俄國會見俄國總統蒲亭（Vladimir Put",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "川普願與習近平、普廷3方會談 中方未公開表態",
-     "link": "https://news.ltn.com.tw/news/world/breakingnews/5612818",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-10-20T23:59:00+08:00",
-     "description": "俄羅斯總統普廷提議11月在深圳的亞太經濟合作會議（APEC）領導人峰會期間，與美中元首會面商討結束俄烏戰爭。川普表示願意參加，中國則未公開表態。華爾街日報報導，中國官員擔心3方會談涉及的地緣...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "川普願與習普會談非核化　烏外長：只會助長戰爭",
-     "link": "https://www.cna.com.tw/news/aopl/202610200093.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-10-20T11:45:43+08:00",
-     "description": "（中央社華盛頓19日綜合外電報導）美國總統川普表態願參加與中國國家主席習近平及俄羅斯總統普丁的3方會談，且會中可能觸及俄烏戰爭。烏克蘭外長怒批，俄中美領袖3方會談將助長普丁繼續打這場戰爭。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
-     }
-    },
-    {
-     "title": "川普願與普亭習近平舉行三方峰會！烏克蘭非重點 想改談這件事",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5JQ3NuZTk0UzdCZUNZbk9zZVdIanFkckhMNE1feXl1S1hnY3hvWThaMzJTQlAwdlBnZXUwTnEzZ2E3eVMxWnFuNnRPcFZQcTNS0gFWQVVfeXFMUDJocUZvZTRkMGlHY0YtMEUzcFRLYWhiRVVaOWdlcU93ZG5IWm5YM0FIaUIwYWtxbDlRazZxdzVucTR6U0h2Z19LUFBheWU5aDh0ZVdqY1E?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-10-20T07:28:34+08:00",
-     "description": "川普願與普亭習近平舉行三方峰會！烏克蘭非重點 想改談這件事  UDN",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "川普稱願與習近平普丁3方峰會 可能聚焦非核化",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kRm5LVk94ZGNlMkJjbUFKYk1PWjluU3k0Njdsc2phSjlDeXAzNDJVU3ZRZ2w3TnNPYnlGbE0wWEJoYmw0TlRrOTYta0xEQ2s?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-10-20T06:55:00+08:00",
-     "description": "川普稱願與習近平普丁3方峰會 可能聚焦非核化  TVBS新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "川普：願與習近平、普丁進行三方峰會",
-     "link": "https://www.ettoday.net/news/20261020/3257532.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-10-20T05:57:00+08:00",
-     "description": "美國總統川普19日表示，願意與中國國家主席習近平及俄羅斯總統普丁（Vladimir Putin）舉行三方會談，討論核武與非核化議題。俄羅斯克里姆林宮稍早透露，三國領袖可能於下個月在中國深圳舉行的亞太經濟合作會議（APEC）峰會場邊碰面。此外，川普再度批評烏克蘭總統澤倫斯基（Volodymyr Zelenskyy），認為應由其他人代表烏克蘭進行談判。\n 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
      }
     }
    ]
@@ -8171,9 +7860,9 @@
    "first_seen": "2026-10-22T04:57:33+08:00",
    "last_updated": "2026-10-22T20:57:04+08:00",
    "tags": [
-    "撤離波灣地區",
-    "館人員及家屬",
-    "美國擬下令撤"
+    "擬下令撤離波",
+    "使館人員及家",
+    "灣地區部分使"
    ],
    "articles": [
     {
@@ -8947,6 +8636,130 @@
    ]
   },
   {
+   "id": "766466256890",
+   "title": "川普願與習普會談非核化　烏外長：只會助長戰爭",
+   "outlet_count": 5,
+   "outlets": [
+    "cna",
+    "ltn",
+    "pts",
+    "tvbs",
+    "udn"
+   ],
+   "article_count": 6,
+   "first_seen": "2026-10-20T06:55:00+08:00",
+   "last_updated": "2026-10-21T23:17:50+08:00",
+   "tags": [
+    "川普願與",
+    "三方峰會",
+    "習近平"
+   ],
+   "articles": [
+    {
+     "title": "克宮：普丁、川普、習近平三方峰會正籌備中",
+     "link": "https://www.cna.com.tw/news/aopl/202610210365.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-10-21T23:17:50+08:00",
+     "description": "（中央社聖彼得堡21日綜合外電報導）克里姆林宮今天表示，俄羅斯總統普丁、美國總統川普和中國國家主席習近平的三方會談「正在籌備中」。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
+     }
+    },
+    {
+     "title": "白宮特使將赴俄見蒲亭 烏克蘭盼舉行三方峰會",
+     "link": "https://news.pts.org.tw/article/832249",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-10-21T08:25:29+08:00",
+     "description": "烏克蘭總統澤倫斯基（Volodymyr Zelenskyy）20日飛抵挪威，與美國白宮特使魏科夫（Steve Witkoff）及歐洲盟國領袖展開關鍵會談。澤倫斯基會後證實，美烏情資共享已經恢復，並公開呼籲應該舉行美俄烏3方峰會來結束戰爭，而美國總統川普（Donald Trump）則表示，烏克蘭自己必須真正想結束戰爭，與俄國達成協議。而魏科夫21日將轉往俄國會見俄國總統蒲亭（Vladimir Put",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "川普願與習近平、普廷3方會談 中方未公開表態",
+     "link": "https://news.ltn.com.tw/news/world/breakingnews/5612818",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-10-20T23:59:00+08:00",
+     "description": "俄羅斯總統普廷提議11月在深圳的亞太經濟合作會議（APEC）領導人峰會期間，與美中元首會面商討結束俄烏戰爭。川普表示願意參加，中國則未公開表態。華爾街日報報導，中國官員擔心3方會談涉及的地緣...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "川普願與習普會談非核化　烏外長：只會助長戰爭",
+     "link": "https://www.cna.com.tw/news/aopl/202610200093.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-10-20T11:45:43+08:00",
+     "description": "（中央社華盛頓19日綜合外電報導）美國總統川普表態願參加與中國國家主席習近平及俄羅斯總統普丁的3方會談，且會中可能觸及俄烏戰爭。烏克蘭外長怒批，俄中美領袖3方會談將助長普丁繼續打這場戰爭。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
+     }
+    },
+    {
+     "title": "川普願與普亭習近平舉行三方峰會！烏克蘭非重點 想改談這件事",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5JQ3NuZTk0UzdCZUNZbk9zZVdIanFkckhMNE1feXl1S1hnY3hvWThaMzJTQlAwdlBnZXUwTnEzZ2E3eVMxWnFuNnRPcFZQcTNS0gFWQVVfeXFMUDJocUZvZTRkMGlHY0YtMEUzcFRLYWhiRVVaOWdlcU93ZG5IWm5YM0FIaUIwYWtxbDlRazZxdzVucTR6U0h2Z19LUFBheWU5aDh0ZVdqY1E?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-10-20T07:28:34+08:00",
+     "description": "川普願與普亭習近平舉行三方峰會！烏克蘭非重點 想改談這件事  UDN",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "川普稱願與習近平普丁3方峰會 可能聚焦非核化",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kRm5LVk94ZGNlMkJjbUFKYk1PWjluU3k0Njdsc2phSjlDeXAzNDJVU3ZRZ2w3TnNPYnlGbE0wWEJoYmw0TlRrOTYta0xEQ2s?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-10-20T06:55:00+08:00",
+     "description": "川普稱願與習近平普丁3方峰會 可能聚焦非核化  TVBS新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
    "id": "4effa82552a3",
    "title": "蔣萬安登《新聞面對面》喊「拭目以待」　談破圈反酸：立場始終一致",
    "outlet_count": 5,
@@ -9351,7 +9164,7 @@
     },
     {
      "title": "10億買阿拉伯宮只是點心？創見束家狂砸逾45億　超狂房產地圖曝光",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9VUWo5VXlNVnhuamhweVJCVkJPSWNkejdqRnBLS0RCZF9hWHJUSm5aTzJFcVJpSzRFYzAzQWtQX1hELUt3NE50MVZrNHDSAVJBVV95cUxNQ2hKUjhQUHhQVENlMExXSXM0MVBybWdQMFFoV0JIYUFqSExGVzBjUG55eFJXODNaRFpVLUFCcFBzT0NveW5MbGhwOTNqaFRUcTFB?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DaEpSOFBQeFBUQ2UwTFdJczQxUHJtZ1AwUWhXQkhhQWpITEZXMGNQbnl4Ulc4M1pEWlUtQUJwUHNPQ295bkxsaHA5M2poVFRxMUHSAVJBVV95cUxNQ2hKUjhQUHhQVENlMExXSXM0MVBybWdQMFFoV0JIYUFqSExGVzBjUG55eFJXODNaRFpVLUFCcFBzT0NveW5MbGhwOTNqaFRUcTFB?oc=5",
      "source": "nownews",
      "source_name": "今日新聞",
      "published": "2026-10-21T10:23:10+08:00",
@@ -9368,7 +9181,7 @@
     },
     {
      "title": "10億買阿拉伯宮只是點心？創見束家狂砸逾45億　超狂房產地圖曝光",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DaEpSOFBQeFBUQ2UwTFdJczQxUHJtZ1AwUWhXQkhhQWpITEZXMGNQbnl4Ulc4M1pEWlUtQUJwUHNPQ295bkxsaHA5M2poVFRxMUHSAVJBVV95cUxNQ2hKUjhQUHhQVENlMExXSXM0MVBybWdQMFFoV0JIYUFqSExGVzBjUG55eFJXODNaRFpVLUFCcFBzT0NveW5MbGhwOTNqaFRUcTFB?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9VUWo5VXlNVnhuamhweVJCVkJPSWNkejdqRnBLS0RCZF9hWHJUSm5aTzJFcVJpSzRFYzAzQWtQX1hELUt3NE50MVZrNHDSAVJBVV95cUxNQ2hKUjhQUHhQVENlMExXSXM0MVBybWdQMFFoV0JIYUFqSExGVzBjUG55eFJXODNaRFpVLUFCcFBzT0NveW5MbGhwOTNqaFRUcTFB?oc=5",
      "source": "nownews",
      "source_name": "今日新聞",
      "published": "2026-10-21T10:23:10+08:00",
@@ -9451,6 +9264,115 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
+   "id": "006e1014552d",
+   "title": "法國巴黎等城局部宵禁 政府不排除宣布緊急狀態",
+   "outlet_count": 5,
+   "outlets": [
+    "ebc",
+    "ettoday",
+    "mirror",
+    "pts",
+    "tvbs"
+   ],
+   "article_count": 5,
+   "first_seen": "2026-10-20T06:51:00+08:00",
+   "last_updated": "2026-10-20T20:49:21+08:00",
+   "tags": [
+    "宣布緊急狀態",
+    "局部宵禁",
+    "法國不排除宣"
+   ],
+   "articles": [
+    {
+     "title": "法國巴黎等城局部宵禁 政府不排除宣布緊急狀態",
+     "link": "https://news.pts.org.tw/article/832230",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-10-20T20:49:21+08:00",
+     "description": "法國的動亂餘波盪漾，為了避免再度上演暴力衝突，包括首都巴黎在內的多個城市，週一（19日）晚上局部宵禁，總理不排除進一步宣布緊急狀態，而民調跌落谷底的總統馬克宏仍然如期出訪中東國家，並沒有留在國內親自坐鎮，也可能再引發批評。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "巴黎里昂等地局部宵禁 法國不排除宣布緊急狀態",
+     "link": "https://news.ebc.net.tw/news/world/576599",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-10-20T09:00:45.866860+08:00",
+     "description": "法國上週末抗議物價高漲的示威活動演變成近年來最嚴重的街頭暴力衝突，有關當局今天宣布巴黎和里昂等城市局部宵禁，總理勒克努未排除宣布緊急狀態的可能性。",
+     "category": "world",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "world",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "法國抗爭「縱火搶劫」燒不停…巴黎等地局部宵禁　總理：不排除「進入緊急狀態」",
+     "link": "https://www.mirrormedia.mg/story/20261020edi003",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-10-20T07:29:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "巴黎里昂局部宵禁、羅浮宮閉館　法國只差一步宣布緊急狀態",
+     "link": "https://www.ettoday.net/news/20261020/3257541.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-10-20T07:06:00+08:00",
+     "description": "法國上周末抗議物價高漲的示威活動，演變成近年最嚴重的街頭暴力衝突。當局20日宣布，巴黎、里昂等多座城市實施局部宵禁，總理勒克努（Sébastien Lecornu）也不排除宣布緊急狀態。這波動亂已造成至少3000家商店受損，損失高達數億歐元，知名景點羅浮宮也因學生抗議暫時閉館。\n 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "巴黎里昂等地局部宵禁 法國不排除宣布緊急狀態",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jSDJEemd3TmVtNkJnY042WjROcDNfbHN5dXhQV2Y2amhWNE1TUGRGbkcyU29uZFd3VkxNUUxjc0xlVGxCRWtfZ2NmOXA0QzA?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-10-20T06:51:00+08:00",
+     "description": "巴黎里昂等地局部宵禁 法國不排除宣布緊急狀態  TVBS新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -9560,6 +9482,197 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
+   "id": "d11656c55d7d",
+   "title": "中信兄弟0：6遭完封！台灣大賽苦吞3連敗　味全龍明戰拚總冠軍",
+   "outlet_count": 4,
+   "outlets": [
+    "ettoday",
+    "mirror",
+    "nownews",
+    "setn"
+   ],
+   "article_count": 10,
+   "first_seen": "2026-10-20T22:30:00+08:00",
+   "last_updated": "2026-10-22T20:46:12+08:00",
+   "tags": [
+    "台灣大賽",
+    "中信兄弟",
+    "味全龍"
+   ],
+   "articles": [
+    {
+     "title": "台灣大賽因雨延賽有神奇巧合！史上僅3度發生　兄弟竟然全程參與",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE91RUN3UWpHT0o2UWlVdDBDdW9RNDlMLXVVYVBYeWFxX0FqNzd2MWJ0MlFIMW5sOXVXRm5JUjcyejF2a2VIa1BsSkZJS2rSAVJBVV95cUxPRk91dEFOdTc5dWVuTmoxX1dRX1YzeUpJMG5BMEpCRzhmbnpDQnVHV1oyQWktUXROM0tmQXZWQ2tQMEh1WUZxT2JSRUF6ekoxenln?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-10-22T20:46:12+08:00",
+     "description": "台灣大賽因雨延賽有神奇巧合！史上僅3度發生　兄弟竟然全程參與  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "台灣大賽史上首度因颱風延賽！G5順延24日　兄弟獲喘息空間",
+     "link": "https://sports.ettoday.net/news/3259412",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-10-22T20:06:00+08:00",
+     "description": "強烈颱風薔琵來襲，2026年中華職棒台灣大賽賽程確定受到影響！配合台北市政府今（22日）晚間宣布明（23日）停止上班、停止上課，中職聯盟依原訂規劃，將23日晚間6點35分在台北大巨蛋舉行的總冠軍賽第5戰（G5），順延至24日（六）下午5點05分開打。這不僅是台灣大賽史上第3次因天候因素延賽，更是首度因颱風影響延期。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "台灣大賽／G5拚續命　中信兄弟推奇兵伍立辰抗味全龍蔣銲",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1tdjBUTUVWalNxb19XblpoQjh4Wk9NaDIyYTdnNWdlMzBWSWhKWE9rZm9uZTRFalhCTElJR2xtUkI1dEhoMURqZ9IBTEFVX3lxTE10Zzk1RC1yODhjc3JQamxOM0FDbTRGRm84c2VHM0NPWmdNWW9ZdGJmdVpDMDJ4UzhpYXozNHVCd1pHVVlBUjZWLUlhQTQ?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-10-22T20:04:00+08:00",
+     "description": "台灣大賽／G5拚續命　中信兄弟推奇兵伍立辰抗味全龍蔣銲  三立新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "台灣大賽門票加開！味全龍球團公布資訊「開賣時間、區域」一次看",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE51dUd1elNUMnFYbU8yZEhPQ1oxN1V3R3F4dkhaVXUwMmgyTERmZEc2RXdhYjd6a19JS2FPV2N0OWtlTUI5aFE2LUxZUHDSAVJBVV95cUxQM1JfOWRhQmdYUzEyQnlDMmxoWGNEWTlodFlVNUxFb1o5a2s0dzhqZHI1akVObDVKV3UwUEJyTmZuYnBNN2RWRl8tZnhNOXRPeHZB?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-10-22T14:28:49+08:00",
+     "description": "台灣大賽門票加開！味全龍球團公布資訊「開賣時間、區域」一次看  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "台灣大賽門票加開！味全龍球團公布資訊「開賣時間、區域」一次看",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzUl85ZGFCZ1hTMTJCeUMybGhYY0RZOWh0WVU1TEVvWjlrazR3OGpkcjVqRU5sNUpXdTBQQnJOZm5icE03ZFZGXy1meE05dE94dkHSAVJBVV95cUxQM1JfOWRhQmdYUzEyQnlDMmxoWGNEWTlodFlVNUxFb1o5a2s0dzhqZHI1akVObDVKV3UwUEJyTmZuYnBNN2RWRl8tZnhNOXRPeHZB?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-10-22T14:28:49+08:00",
+     "description": "台灣大賽門票加開！味全龍球團公布資訊「開賣時間、區域」一次看  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "台灣大賽G4 歷經四小時鏖戰　中信兄弟在11局延長賽以5:4 拿下精彩的第一勝",
+     "link": "https://www.mirrormedia.mg/story/20261021-158pol-201558",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-10-21T20:15:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "中職台灣大賽G4》中信兄弟vs味全龍　賽程時間、轉播、分析一次看",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03ZEN2U01WX0U3NGw4ZVpJbllIYWVWUUcxUVJ0MDc1RlRMakVLMWVzZzVlUEJsSWhhc1R1S2JhUGoxMG1pS0UzeGJmdVotUDUxZmfSAVJBVV95cUxNN2RDdlNNVl9FNzRsOGVaSW5ZSGFlVlFHMVFSdDA3NUZUTGpFSzFlc2c1ZVBCbEloYXNUdUtiYVBqMTBtaUtFM3hiZnVaLVA1MWZn?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-10-21T06:01:00+08:00",
+     "description": "中職台灣大賽G4》中信兄弟vs味全龍　賽程時間、轉播、分析一次看  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "味全龍3洋投台灣大賽21局失1分　防禦率0.43徹底凍結中信兄弟打線",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2X1ZJTGRYUWFnOVJ0TlBNcnFSLTAzTHJzeGVUaFRDdTRkdWIzWGE1ZnVFaHExU19UWkdpeXc0SDVFNW92ZkRmaGtNcTPSAVJBVV95cUxPZl9xeXJ4UkZxYmZvdXphQk1rOWJxa1NFWF92QnVPaUZXT0ZxTmNtNXY0Q2F0M0RBTkc1RUhNZXk1cndTUFh4NWFpMzgwaGJlc0x3?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-10-21T06:00:00+08:00",
+     "description": "味全龍3洋投台灣大賽21局失1分　防禦率0.43徹底凍結中信兄弟打線  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "味全台灣大賽打3場就聽牌！葉總坦言沒想過：中信兄弟整年都難纏",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5tenZsZ3oyekZfVEVvdmNVQWhmQ2JnZHNrWXRDdE5xcVVCaUNNSVZ2amtKdC1nemJudlFhY2lQVDRFcFhZUDVHdEdhalDSAVJBVV95cUxOMGxWT3pGWXVQSmFJVmpyd215aWdRa1pJTEJQeDB5UEpzaWNBM1pISkdHbGl1enJyVElFQlR1ZnAxSWV3cFpmZnZGSVVRVEk4cUtB?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-10-20T23:01:57+08:00",
+     "description": "味全台灣大賽打3場就聽牌！葉總坦言沒想過：中信兄弟整年都難纏  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "中信兄弟0：6遭完封！台灣大賽苦吞3連敗　味全龍明戰拚總冠軍",
+     "link": "https://www.mirrormedia.mg/story/20261020edi083",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-10-20T22:30:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
      }
     }
    ]
@@ -9681,15 +9794,32 @@
     "newtalk",
     "setn"
    ],
-   "article_count": 4,
+   "article_count": 5,
    "first_seen": "2026-10-22T10:20:20+08:00",
-   "last_updated": "2026-10-22T13:49:00+08:00",
+   "last_updated": "2026-10-22T15:15:00+08:00",
    "tags": [
     "全台颱風假一",
-    "不斷更",
+    "學下午到明天",
     "停班課"
    ],
    "articles": [
+    {
+     "title": "新竹4小學下午到明天停班課！全台颱風假一次看| 生活",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1CZUYxX1UxbWtqMG44VGxLanFJVU5RaXdzUXpEQTk1Z283MWVKM0JFN2NQRkYyRmM2Q0lVVDBEVUlINXY2Q3MxcA?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-10-22T15:15:00+08:00",
+     "description": "新竹4小學下午到明天停班課！全台颱風假一次看| 生活  三立新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
     {
      "title": "新竹4小學下午到明天停班課！全台颱風假一次看",
      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1CZUYxX1UxbWtqMG44VGxLanFJVU5RaXdzUXpEQTk1Z283MWVKM0JFN2NQRkYyRmM2Q0lVVDBEVUlINXY2Q3MxcNIBTEFVX3lxTE9yWlFBZUlIOVowUzQ5MWdHVC1uLUk0Zm9td1drUG05MGcwanZJTDFoektrZ3NvNjFDckpRYW4yMlAxMFRlbk9VTmJlM3E?oc=5",
@@ -10039,7 +10169,7 @@
    "tags": [
     "只剩半條命",
     "言蔣萬安有無",
-    "他是唯一共主"
+    "為他是唯一共"
    ],
    "articles": [
     {
@@ -10300,8 +10430,8 @@
    "first_seen": "2026-10-20T09:43:50+08:00",
    "last_updated": "2026-10-21T15:27:16+08:00",
    "tags": [
-    "蔣萬安",
     "盧秀燕",
+    "蔣萬安",
     "主委"
    ],
    "articles": [
@@ -10372,77 +10502,6 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
-   "id": "fbfb29118923",
-   "title": "川普：俄烏戰爭距終戰可能已到最近時刻",
-   "outlet_count": 3,
-   "outlets": [
-    "chinatimes",
-    "setn",
-    "tvbs"
-   ],
-   "article_count": 3,
-   "first_seen": "2026-10-22T05:03:00+08:00",
-   "last_updated": "2026-10-23T04:10:00+08:00",
-   "tags": [
-    "能已到最近時",
-    "俄烏戰爭距終",
-    "川普"
-   ],
-   "articles": [
-    {
-     "title": "美俄烏和談 川普稱離終戰最近的一次",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fMUgwTDdPRGRuMk44UmYyOFp5WmdLakE1dUtXa3lMQV9uRU1KR0dHQUozbjRHbHBNZjVwMlJ1ckJtem9xZmFUSXNlX1hfN2xYYWxnTjc4TjMxMXNPRjBXbnV4NUNjTlBBQ3FR?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-10-23T04:10:00+08:00",
-     "description": "美俄烏和談 川普稱離終戰最近的一次  中時新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "俄烏戰爭距終戰！川普發聲：可能已到最近時刻",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE04azRfRFNNVG53cDJlNVlfVEhQcFExa0ZoN3hQNklHWC1wSW01SnZwWjNDVWlEMExFa0pZRFN1M3M2dDZReGhsU9IBTEFVX3lxTE9qODNpY1Q3dWJCem9kcDdPYTlwZzIzcUlDTUI2Q1BuSC1qZ0JGNTR0dGE5b3BnZzVRWUg1Ykh3cUxfMGNDMk9DLVh0eXE?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-10-22T05:58:00+08:00",
-     "description": "俄烏戰爭距終戰！川普發聲：可能已到最近時刻  三立新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "川普：俄烏戰爭距終戰可能已到最近時刻",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Nc3JrbmpjYnhnMHRFT0h4X0RzSGwxa0RXekhWaUNwbVZFVFVvT2YzekNINVc2WFlGdUFma1V2UnpXVzNjUnRhMngybHZCdzQ?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-10-22T05:03:00+08:00",
-     "description": "川普：俄烏戰爭距終戰可能已到最近時刻  TVBS新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
