@@ -1,6 +1,6 @@
 {
  "date": "2026-10-23",
- "generated_at": "2026-10-23T02:35:14.861271+08:00",
+ "generated_at": "2026-10-23T04:30:24.911167+08:00",
  "events": [
   {
    "id": "10ff7e293357",
@@ -21,9 +21,9 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 246,
+   "article_count": 251,
    "first_seen": "2026-10-20T06:16:00+08:00",
-   "last_updated": "2026-10-23T01:28:00+08:00",
+   "last_updated": "2026-10-23T04:10:00+08:00",
    "tags": [
     "薔琵"
    ],
@@ -61,9 +61,88 @@
        ]
       }
      ]
+    },
+    {
+     "type": "死亡人數",
+     "agree": true,
+     "outlet_count": 2,
+     "values": [
+      {
+       "value": "1",
+       "outlets": [
+        "中央社",
+        "鏡週刊"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "受傷人數",
+     "agree": true,
+     "outlet_count": 2,
+     "values": [
+      {
+       "value": "42",
+       "outlets": [
+        "中央社",
+        "鏡週刊"
+       ]
+      }
+     ]
     }
    ],
    "articles": [
+    {
+     "title": "聯發科法說倒數雙外資送暖- 財經要聞- 工商時報",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xZXRuTGdtNVFLbHFzRkh0dXNKRWs1NkhFSk1XZ29HQjN6ckZjc3BFajFiU0R5YUFUQV90b3BxVTdPN3NuLXBUR2ZvRHlWemJWaEFFZ2lNV2IybGs2MGNCbk1YdmxrWHNQazhB?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-10-23T04:10:00+08:00",
+     "description": "聯發科法說倒數雙外資送暖- 財經要聞- 工商時報  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "強颱薔琵來襲股匯今休市- 財經要聞- 工商時報",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqb3RsR0JlYlBDMFpSX3hkb3pVRS1sZ0x1QjlqclNZbnE5a1RSQ3lIUzJWdi16Qk9NZmh3ZHczYzhQSTc0MHUyWkZRWEJlZmJXd1RGdUgyWjhQSVFfUHVrQlkwTkVUMVFJVnp3?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-10-23T04:10:00+08:00",
+     "description": "強颱薔琵來襲股匯今休市- 財經要聞- 工商時報  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "快訊》薔琵海陸警擴大！暴風圈狂灌宜花東嚴防強風豪雨| 生活",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OdUF1Wm8zVWxJLW5JYXd1czdNM2dJSkk3YVVfN3B3UUVocVczRlE3MHlCMFB5NlBNOExLOWVqZTJCem52VjBrc3MwUnhWU3dSd3hENGZpVXlxMUU?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-10-23T02:36:00+08:00",
+     "description": "快訊》薔琵海陸警擴大！暴風圈狂灌宜花東嚴防強風豪雨| 生活  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
     {
      "title": "本島僅1縣市沒放颱風假　薔琵暴風籠罩全台停班停課一覽",
      "link": "https://www.ettoday.net/news/20261023/3259516.htm",
@@ -152,25 +231,6 @@
      }
     },
     {
-     "title": "薔琵颱風進逼！台北101停業一天  威秀影城明早8時公布",
-     "link": "https://news.ebc.net.tw/news/living/577040",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-10-23T00:41:52.146451+08:00",
-     "description": "氣象署於10月22日晚間對中度颱風薔琵發布陸上警戒，23日全台停班停課，台北101與京站等百貨暫停營業，多家影城則視風雨滾動調整。",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
      "title": "颱風薔琵強度再減弱　23日晚間至24日清晨降雨明顯",
      "link": "https://news.ltn.com.tw/news/life/breakingnews/5615798",
      "source": "ltn",
@@ -203,45 +263,11 @@
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
-    },
-    {
-     "title": "10/23停班課捷運有開嗎？颱風高鐵、台鐵會停駛嗎？退票規定速看",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mZzdveFpuZEEzNGJXQkFKdDFBWTBLeE9rd2xmajRISGl3OG0tbGpaYlljREdndHhLVjRwbG1yaXFSNl80cHBWSHBsdVJ3Q2FfbVHSAVJBVV95cUxNZmc3b3habmRBMzRiV0JBSnQxQVkwS3hPa3dsZmo0SEhpdzhtLWxqWmJZY0RHZ3R4S1Y0cGxtcmlxUjZfNHBwVkhwbHVSd0NhX21R?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-10-23T00:03:59+08:00",
-     "description": "10/23停班課捷運有開嗎？颱風高鐵、台鐵會停駛嗎？退票規定速看  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "LIVE／薔琵暴風圈進入近海！北台灣雨量再上修　氣象署最新說明",
-     "link": "https://www.ettoday.net/news/20261022/3259505.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-10-22T23:35:00+08:00",
-     "description": "中央氣象署今天（22日）深夜11時30持續針對29號中度颱風「薔琵」發布海上陸上警報，薔琵中心距離台灣不到400公里，其暴風圈已經逐漸進入巴士海峽及台灣東半部海面，對全台陸地構成威脅，22縣市均納入陸警範圍，預估明天風雨最強，東北部山區上看「超大豪雨」等級以上降雨，全台並有明顯強風，基隆北海岸、宜蘭及中部沿海、綠島、蘭嶼、恆春陣風可達12級。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
     }
    ]
   },
   {
-   "id": "447d68058aac",
+   "id": "712d07a661de",
    "title": "澎湖冒領千萬中獎發票案　3涉案男子遭聲押",
    "outlet_count": 13,
    "outlets": [
@@ -259,8 +285,8 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 227,
-   "first_seen": "2026-10-20T02:39:03+08:00",
+   "article_count": 225,
+   "first_seen": "2026-10-20T08:05:09+08:00",
    "last_updated": "2026-10-23T00:35:00+08:00",
    "tags": [
     "新聞網"
@@ -479,7 +505,7 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 277,
+   "article_count": 278,
    "first_seen": "2026-10-20T10:05:57+08:00",
    "last_updated": "2026-10-22T22:54:00+08:00",
    "tags": [
@@ -697,6 +723,231 @@
    ]
   },
   {
+   "id": "38e17949cdd2",
+   "title": "颱風薔琵外圍環流影響空品　台東縣府成立應變小組",
+   "outlet_count": 12,
+   "outlets": [
+    "chinatimes",
+    "cna",
+    "ebc",
+    "ettoday",
+    "ltn",
+    "mirror",
+    "newtalk",
+    "nownews",
+    "pts",
+    "setn",
+    "tvbs",
+    "udn"
+   ],
+   "article_count": 34,
+   "first_seen": "2026-10-20T05:30:00+08:00",
+   "last_updated": "2026-10-23T00:41:52.146451+08:00",
+   "tags": [
+    "薔琵"
+   ],
+   "claims": [
+    {
+     "type": "風力級數",
+     "agree": false,
+     "outlet_count": 2,
+     "values": [
+      {
+       "value": "8",
+       "outlets": [
+        "ETtoday"
+       ]
+      },
+      {
+       "value": "6",
+       "outlets": [
+        "東森新聞"
+       ]
+      }
+     ]
+    }
+   ],
+   "articles": [
+    {
+     "title": "薔琵颱風進逼！台北101停業一天  威秀影城明早8時公布",
+     "link": "https://news.ebc.net.tw/news/living/577040",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-10-23T00:41:52.146451+08:00",
+     "description": "氣象署於10月22日晚間對中度颱風薔琵發布陸上警戒，23日全台停班停課，台北101與京站等百貨暫停營業，多家影城則視風雨滾動調整。",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "驚！嘉義市區陣風6級 椰子樹葉掉落砸雙載騎士",
+     "link": "https://news.ebc.net.tw/news/society/577034",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-10-22T22:36:32.052416+08:00",
+     "description": "薔琵颱風襲台，嘉義22日颳6級強風吹落大王椰子樹葉砸中雙載夫妻，機車失控自摔，兩人擦挫傷送醫。",
+     "category": "society",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "society",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "強颱逼近\"風狂吹\" 椰子樹葉砸雙載騎士害摔薔琵颱爆襲台中 路樹連根倒塌 壓扁車尾",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pSWNiR3FGOGx5bjJqWl9ISUpGYjctQ1Z0SmhIUVpMM2poRUFwcFJpRktPMENXck5wSy1lbjBvcjlOVjJXRXFSYmNWRFdqYWNpXy0xdFlB?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-10-22T22:07:09+08:00",
+     "description": "強颱逼近\"風狂吹\" 椰子樹葉砸雙載騎士害摔薔琵颱爆襲台中 路樹連根倒塌 壓扁車尾  TVBS新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "薔琵強風將台中路樹「連根拔起」砸毀轎車　4小時後恢復通行",
+     "link": "https://www.mirrormedia.mg/story/20261022-167inv-213404",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-10-22T21:38:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "百貨放颱風假！台北101、京站明暫停營業　新光三越、微風明早公布",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBvTVdxdE5Zd2s4Y0NOSXRObGl5eHpOTmdZOVp1alV0VGJiME9jR1A2WkctZnljVFdmdEpUM1dQX1lJUEpsT09McNIBTEFVX3lxTE9Hck9zZkRhZ3FvTjNBYWt4cm1MV0hrMHZPUTZBOFhXeXFQQzdNRHRkN3d4NzlVTmdBZElyT19TTGlKSVh1Vm9zRW14aEg?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-10-22T21:35:00+08:00",
+     "description": "百貨放颱風假！台北101、京站明暫停營業　新光三越、微風明早公布  三立新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "颱風薔琵逼近 台中新光三越百貨旁樹倒砸2車",
+     "link": "https://news.ebc.net.tw/news/society/577018",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-10-22T20:42:44.479082+08:00",
+     "description": "受颱風薔琵強風影響，台中西屯22日傍晚發生路樹傾倒砸中2輛自小客車意外，警方到場處置，所幸無人受傷。",
+     "category": "society",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "society",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "薔琵減弱為中度颱風 陸上警戒擴大為19縣市",
+     "link": "https://news.pts.org.tw/article/832570",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-10-22T20:25:44+08:00",
+     "description": "薔琵颱風已經減弱為中度颱風，但還是不容小覷。氣象署傍晚將陸上警戒範圍擴大為台灣本島19縣市，暴風圈預估明（23）日上午籠罩全台，10級暴風半徑可能掃到宜蘭東北角。颱風中心最接近台灣的時間點，為明日深夜到後（24）日清晨，也不排除登陸。值得注意的是，明日颱風最接近台灣，北部山區和宜蘭地區須嚴防豪雨等級以上降雨。基隆市上午已啟動預防性防颱封閉管制措施，包括潮境公園、大武崙沙灘等地區，已拉起封鎖線，禁止",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "薔琵外圍環流發威中部掀強風 苗栗看板掉落民眾遭繩勒脖摔傷",
+     "link": "https://news.pts.org.tw/article/832565",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-10-22T20:24:29+08:00",
+     "description": "颱風外圍環流發威，中部地區強風不斷。苗栗大型選舉看板今（22）日早上不敵強風吹襲轟然倒塌，64歲民眾疑似遭固定繩索勾住脖子摔車受傷；台中梧棲也有騎士遭強風吹倒，連停在路旁的機車都難以倖免。彰化鹿港老街也有老舊磚牆疑似年久失修，難以承受強風吹襲，出現部分倒塌。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "颱風薔琵逼近　台中新光三越百貨旁樹倒砸2車",
+     "link": "https://www.cna.com.tw/news/asoc/202610220324.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-10-22T18:50:57+08:00",
+     "description": "（中央社記者郝雪卿台中22日電）颱風薔琵逼近，強風吹襲，鄰近台中新光三越百貨的西屯區惠來路二段與台灣大道三段口路樹今天傍晚傾倒路中，砸中2輛路過自小客車；警方表示，雖有車損，還好無人受傷。",
+     "author": "郝雪卿",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "郝雪卿",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/social"
+     }
+    },
+    {
+     "title": "薔琵颱風速度變慢！越晚降雨越明顯  明深夜最接近台灣",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5615420",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-10-22T18:24:51+08:00",
+     "description": "薔琵颱風在今天（22日）傍晚減弱為中度颱風，但七級風暴風圈半徑仍舊有320公里寬。中央氣象署提醒，今天晚上起越晚雨勢會越明顯，薔琵颱風最靠近台灣的時間，將落在明天（23日）深夜...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    }
+   ]
+  },
+  {
    "id": "afb406934322",
    "title": "中共涉跨境鎮壓買凶攻擊喜劇演員黃逸豪　檢起訴5嫌建請重判",
    "outlet_count": 12,
@@ -714,7 +965,7 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 79,
+   "article_count": 80,
    "first_seen": "2026-10-21T12:05:45+08:00",
    "last_updated": "2026-10-22T23:11:24+08:00",
    "tags": [
@@ -812,6 +1063,23 @@
      }
     },
     {
+     "title": "黃逸豪「辱習」遭設局假車禍　梁文傑揭：警政署看臉書起疑展開專案調查",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5INTNrNXlvWjk2VWNQaXFlM3FfNGJHdHRZSU1rR25Gel9XVmRkTkhDVmw0Z2RTS0ZBeG5heHFiaXhPNUd4OUx5Z9IBTEFVX3lxTFAtMGZKYUV3cV9BZ1k4cE9md1h3Ull5b2MwNW1PT1ZsS21TcThsTjRmeVctLThUb05pZU9rSF9SSTFJWnJ1WGVaQVJCQXE?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-10-22T18:06:00+08:00",
+     "description": "黃逸豪「辱習」遭設局假車禍　梁文傑揭：警政署看臉書起疑展開專案調查  三立新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
      "title": "黃逸豪遭中共跨境鎮壓 陸委會：很快會提「反滲透法」修法",
      "link": "https://news.ltn.com.tw/news/politics/breakingnews/5615369",
      "source": "ltn",
@@ -896,246 +1164,6 @@
       },
       "acquisition": "rss",
       "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "中共跨境打壓！傅崐萁震怒罵賴清德 黃逸豪打臉：你做了啥？",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5614864",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-10-22T14:08:21+08:00",
-     "description": "相聲演員黃逸豪9月遭中國人士跨境買兇「假車禍」攻擊，震驚全台。黃逸豪昨日發布聲明，表示自己是花蓮子弟，呼籲立委傅崐萁推動立法，傅崐萁也發布聲明回應，譴責幕後使者暴力行為，同時也批...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    }
-   ]
-  },
-  {
-   "id": "38e17949cdd2",
-   "title": "颱風薔琵外圍環流影響空品　台東縣府成立應變小組",
-   "outlet_count": 12,
-   "outlets": [
-    "chinatimes",
-    "cna",
-    "ebc",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "newtalk",
-    "nownews",
-    "pts",
-    "setn",
-    "tvbs",
-    "udn"
-   ],
-   "article_count": 29,
-   "first_seen": "2026-10-20T05:30:00+08:00",
-   "last_updated": "2026-10-22T22:36:32.052416+08:00",
-   "tags": [
-    "薔琵"
-   ],
-   "claims": [
-    {
-     "type": "風力級數",
-     "agree": false,
-     "outlet_count": 2,
-     "values": [
-      {
-       "value": "8",
-       "outlets": [
-        "ETtoday"
-       ]
-      },
-      {
-       "value": "6",
-       "outlets": [
-        "東森新聞"
-       ]
-      }
-     ]
-    }
-   ],
-   "articles": [
-    {
-     "title": "驚！嘉義市區陣風6級 椰子樹葉掉落砸雙載騎士",
-     "link": "https://news.ebc.net.tw/news/society/577034",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-10-22T22:36:32.052416+08:00",
-     "description": "薔琵颱風襲台，嘉義22日颳6級強風吹落大王椰子樹葉砸中雙載夫妻，機車失控自摔，兩人擦挫傷送醫。",
-     "category": "society",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "society",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "強颱逼近\"風狂吹\" 椰子樹葉砸雙載騎士害摔薔琵颱爆襲台中 路樹連根倒塌 壓扁車尾",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pSWNiR3FGOGx5bjJqWl9ISUpGYjctQ1Z0SmhIUVpMM2poRUFwcFJpRktPMENXck5wSy1lbjBvcjlOVjJXRXFSYmNWRFdqYWNpXy0xdFlB?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-10-22T22:07:09+08:00",
-     "description": "強颱逼近\"風狂吹\" 椰子樹葉砸雙載騎士害摔薔琵颱爆襲台中 路樹連根倒塌 壓扁車尾  TVBS新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "薔琵強風將台中路樹「連根拔起」砸毀轎車　4小時後恢復通行",
-     "link": "https://www.mirrormedia.mg/story/20261022-167inv-213404",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-10-22T21:38:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "颱風薔琵逼近 台中新光三越百貨旁樹倒砸2車",
-     "link": "https://news.ebc.net.tw/news/society/577018",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-10-22T20:42:44.479082+08:00",
-     "description": "受颱風薔琵強風影響，台中西屯22日傍晚發生路樹傾倒砸中2輛自小客車意外，警方到場處置，所幸無人受傷。",
-     "category": "society",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "society",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "薔琵外圍環流發威中部掀強風 苗栗看板掉落民眾遭繩勒脖摔傷",
-     "link": "https://news.pts.org.tw/article/832565",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-10-22T20:24:29+08:00",
-     "description": "颱風外圍環流發威，中部地區強風不斷。苗栗大型選舉看板今（22）日早上不敵強風吹襲轟然倒塌，64歲民眾疑似遭固定繩索勾住脖子摔車受傷；台中梧棲也有騎士遭強風吹倒，連停在路旁的機車都難以倖免。彰化鹿港老街也有老舊磚牆疑似年久失修，難以承受強風吹襲，出現部分倒塌。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "颱風薔琵逼近　台中新光三越百貨旁樹倒砸2車",
-     "link": "https://www.cna.com.tw/news/asoc/202610220324.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-10-22T18:50:57+08:00",
-     "description": "（中央社記者郝雪卿台中22日電）颱風薔琵逼近，強風吹襲，鄰近台中新光三越百貨的西屯區惠來路二段與台灣大道三段口路樹今天傍晚傾倒路中，砸中2輛路過自小客車；警方表示，雖有車損，還好無人受傷。",
-     "author": "郝雪卿",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "郝雪卿",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/social"
-     }
-    },
-    {
-     "title": "薔琵颱風速度變慢！越晚降雨越明顯  明深夜最接近台灣",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5615420",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-10-22T18:24:51+08:00",
-     "description": "薔琵颱風在今天（22日）傍晚減弱為中度颱風，但七級風暴風圈半徑仍舊有320公里寬。中央氣象署提醒，今天晚上起越晚雨勢會越明顯，薔琵颱風最靠近台灣的時間，將落在明天（23日）深夜...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "薔琵強風狂掃！台中路樹「連根拔起」砸毀轎車尾　駕駛命大神閃過",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE15WXVad0p2WGhURk9OSGNiXzZCOXRZdzVaZ05uU3hXMjZWQ0NGQ0g0cTctS1RSLVN4Y3RrZXpRUFUzVG5CVEI0ONIBTEFVX3lxTE4wdkkxT2tQNkFZNWpqLVBSNy1Ndlg0Qkl5RmJnRThzMmZuMFVFdVdhN2NhQ2tvUUViZGkyYlRaMGdEcTI5NjJwZS1EVWo?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-10-22T18:13:00+08:00",
-     "description": "快訊／薔琵強風狂掃！台中路樹「連根拔起」砸毀轎車尾　駕駛命大神閃過  三立新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "薔琵強風襲台中！新光三越旁路樹連根拔砸中2車",
-     "link": "https://www.ettoday.net/news/20261022/3259389.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-10-22T18:01:00+08:00",
-     "description": "薔琵颱風逼近，台中市區下午過後出現強陣風，傍晚時新光三越中港店旁發生路樹疑遭強風連根拔起，砸中2輛路過車輛，幸好無人受傷，警方目前正在現場協助處理。\n 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "薔琵颱風外圍風力影響  澎湖多起路樹倒塌災情",
-     "link": "https://www.cna.com.tw/news/aloc/202610220215.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-10-22T15:40:00+08:00",
-     "description": "（中央社澎湖縣22日電）薔琵颱風外圍風力影響，澎湖島內傳出12起行道路樹倒塌等災情，警消等單位獲報迅即排除，以維護道路的通行，澎湖消防局將在下午4時完成二級災害應變中心開設。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/local"
      }
     }
    ]
@@ -1272,6 +1300,23 @@
      }
     },
     {
+     "title": "花蓮縣府又被搜索 疑與光電案有關",
+     "link": "https://news.ltn.com.tw/news/society/paper/1775449",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-10-22T05:30:00+08:00",
+     "description": "〔記者王錦義、花孟璟／花蓮報導〕花蓮縣鳳林鎮七年多前的光電申請案遭檢舉涉嫌不法，花蓮地檢署昨指揮調查人員前往花蓮縣政府、鳳林鎮公所等地，持搜索票調閱資料，並約談國民黨籍前任鎮長蕭文龍到案，釐清案情。\n\n據了解，光電業者看中鳳林鎮日照與平坦土地，從二〇一九年起在鳳林陸續申請與整合大量光電案場，總開…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
      "title": "渡假村涉農路拓寬弊案 吳俊立500萬交保境管 檢將抗告",
      "link": "https://news.ltn.com.tw/news/politics/paper/1775451",
      "source": "ltn",
@@ -1284,23 +1329,6 @@
       "author": {
        "name": "劉人瑋",
        "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "花蓮縣府又被搜索 疑與光電案有關",
-     "link": "https://news.ltn.com.tw/news/society/paper/1775449",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-10-22T05:30:00+08:00",
-     "description": "〔記者王錦義、花孟璟／花蓮報導〕花蓮縣鳳林鎮七年多前的光電申請案遭檢舉涉嫌不法，花蓮地檢署昨指揮調查人員前往花蓮縣政府、鳳林鎮公所等地，持搜索票調閱資料，並約談國民黨籍前任鎮長蕭文龍到案，釐清案情。\n\n據了解，光電業者看中鳳林鎮日照與平坦土地，從二〇一九年起在鳳林陸續申請與整合大量光電案場，總開…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
       },
       "acquisition": "rss",
       "feed_url": "https://news.ltn.com.tw/rss/all.xml"
@@ -1376,12 +1404,12 @@
     "storm",
     "udn"
    ],
-   "article_count": 24,
+   "article_count": 25,
    "first_seen": "2026-10-21T10:35:08+08:00",
    "last_updated": "2026-10-22T18:03:00+08:00",
    "tags": [
     "張凌赫",
-    "來台遭拒",
+    "來台",
     "陸委會"
    ],
    "articles": [
@@ -1400,6 +1428,23 @@
       },
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "在大陸講過「兩岸一家親」就回不了台灣？張凌赫來台遭否決引發疑惑，梁文傑親上火線回應| 楊騰凱 | 新聞",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBYa2tXZlJJN0tLT0V4ZG8xd29aRW42RE5zOTZfODJnZ0I5dEoxZnNkeWtWRE5UX29TSVJhQzZJOHdxOTZPYUUyeWhCc1BXQQ?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-10-22T16:56:00+08:00",
+     "description": "在大陸講過「兩岸一家親」就回不了台灣？張凌赫來台遭否決引發疑惑，梁文傑親上火線回應| 楊騰凱 | 新聞  風傳媒",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
@@ -1539,23 +1584,6 @@
       "category": "politics",
       "feed_url": "https://news.ebc.net.tw/realtime"
      }
-    },
-    {
-     "title": "張凌赫來台遭拒國台辦跳腳  吳崢：我10幾年前也被拒發港簽",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5613815",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-10-21T16:22:19+08:00",
-     "description": "中國演員張凌赫申請來台辦活動，遭陸委會拒絕核准；國台辦發言人張晗批評，民進黨應順應兩岸加強交流往來的共同願望、摒棄政治操弄。對此，民進黨發言人吳崢今（21日）表示，自己10幾年...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
     }
    ]
   },
@@ -1636,12 +1664,12 @@
    ],
    "articles": [
     {
-     "title": "疑螺栓彈性疲乏斷！ 台積電F22廠鋼梁墜落4死",
-     "link": "https://news.ebc.net.tw/news/society/576819",
+     "title": "來不及反應！台積電工安釀4死 同事還原驚悚瞬間",
+     "link": "https://news.ebc.net.tw/news/society/576827",
      "source": "ebc",
      "source_name": "東森新聞",
      "published": "2026-10-21T18:31:50.962178+08:00",
-     "description": "台積電高雄楠梓F22廠P4工程20日發生重大工安意外，4名工人隨鋼梁從3樓高處墜落身亡，疑與螺栓斷裂有關，相關工程已停工調查。",
+     "description": "台積電高雄廠發生重大工安意外釀4死，今日檢方相驗家屬悲慟認屍。目擊同事還原當時整座鋼構瞬間塌陷墜落，即便繫妥安全繩也無法倖免，全案已停工調查中。",
      "category": "society",
      "metadata": {
       "schema_version": 1,
@@ -1655,12 +1683,12 @@
      }
     },
     {
-     "title": "來不及反應！台積電工安釀4死 同事還原驚悚瞬間",
-     "link": "https://news.ebc.net.tw/news/society/576827",
+     "title": "疑螺栓彈性疲乏斷！ 台積電F22廠鋼梁墜落4死",
+     "link": "https://news.ebc.net.tw/news/society/576819",
      "source": "ebc",
      "source_name": "東森新聞",
      "published": "2026-10-21T18:31:50.962178+08:00",
-     "description": "台積電高雄廠發生重大工安意外釀4死，今日檢方相驗家屬悲慟認屍。目擊同事還原當時整座鋼構瞬間塌陷墜落，即便繫妥安全繩也無法倖免，全案已停工調查中。",
+     "description": "台積電高雄楠梓F22廠P4工程20日發生重大工安意外，4名工人隨鋼梁從3樓高處墜落身亡，疑與螺栓斷裂有關，相關工程已停工調查。",
      "category": "society",
      "metadata": {
       "schema_version": 1,
@@ -1829,7 +1857,7 @@
     "storm",
     "tvbs"
    ],
-   "article_count": 20,
+   "article_count": 21,
    "first_seen": "2026-10-22T09:36:56+08:00",
    "last_updated": "2026-10-22T23:21:00+08:00",
    "tags": [
@@ -1905,6 +1933,23 @@
       },
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "提股市脫鉤颱風假遭猛攻！沈伯洋反擊：蔣答不出開會次數喊遷松機就行？",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBqdHBsaElBeUNxT0RuMDNoem14akcya1V3NGt6azNVMW1nMWFENUVkcnVCdmdMdG1aTm5TQjNmTWxaVzg2Z0xadtIBTEFVX3lxTE9hbHp0akZsQ0xfbUxuc2ZoNGN1YjlfYzBlX1Q4ZGdieXc3RWszSkFULWxKcDFLVVM0WGU4bjdpUnJvNFluNzg4TkVSaEY?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-10-22T18:23:00+08:00",
+     "description": "提股市脫鉤颱風假遭猛攻！沈伯洋反擊：蔣答不出開會次數喊遷松機就行？  三立新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
@@ -1991,23 +2036,6 @@
       "acquisition": "rss",
       "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
      }
-    },
-    {
-     "title": "沈伯洋拋股市脫鉤停班課侯友宜、張善政這樣說| NOW政治",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9TWXY2NWdsVWJnNU8tQ1hWcWJIMnFFenFVcjN5VGEzMl95Tm8xVzdiTU8wd3RTSnZMTVRBbENFSXJfbWV4bVl0SWtjRQ?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-10-22T12:37:53+08:00",
-     "description": "沈伯洋拋股市脫鉤停班課侯友宜、張善政這樣說| NOW政治  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
     }
    ]
   },
@@ -2027,15 +2055,32 @@
     "storm",
     "tvbs"
    ],
-   "article_count": 38,
+   "article_count": 39,
    "first_seen": "2026-10-20T11:00:00+08:00",
-   "last_updated": "2026-10-22T22:36:32.052416+08:00",
+   "last_updated": "2026-10-22T22:45:58+08:00",
    "tags": [
     "薔琵",
     "颱風假",
     "強颱"
    ],
    "articles": [
+    {
+     "title": "放颱風假！高鐵台北站塞爆啟動人潮管制周五正常營運- 生活",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwdjgtWTRlTUNpNERiYnVKMjdlVFNxYzZHR1cyVHY3U1dQbTR2eDZOREJUS2xwcGZseERESkJSR0ZTNjMtbmVxR1JOWFRod1NsNm02VjFfdFY4bG84WUF2NVRMZnlBQ2lLMzZmbnJ3?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-10-22T22:45:58+08:00",
+     "description": "放颱風假！高鐵台北站塞爆啟動人潮管制周五正常營運- 生活  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
     {
      "title": "薔琵颱風假掀KTV訂位潮 這家官網直接癱瘓",
      "link": "https://news.ebc.net.tw/news/living/577036",
@@ -2194,23 +2239,6 @@
       "acquisition": "rss",
       "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
      }
-    },
-    {
-     "title": "明天全台放颱風假機率？　PTT一票喊100%「相信神秘的壓力」",
-     "link": "https://www.ettoday.net/news/20261022/3259034.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-10-22T12:10:00+08:00",
-     "description": "薔琵颱風持續逼近，明（23）日北台灣將迎來明顯風雨，是否放颱風假備受關注。有網友好奇「明天全台放假的機會有多高？」貼文曝光，不少人直接喊出「100%」，但也有人給出「0%」，直言要全台同步停班停課並不容易。更有網友把即將到來的選舉與地方首長決策聯想在一起，笑稱存在一股「神秘的壓力」。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
     }
    ]
   },
@@ -2230,7 +2258,7 @@
     "storm",
     "tvbs"
    ],
-   "article_count": 44,
+   "article_count": 45,
    "first_seen": "2026-10-20T18:03:44+08:00",
    "last_updated": "2026-10-22T22:12:50+08:00",
    "tags": [
@@ -2340,6 +2368,23 @@
      }
     },
     {
+     "title": "不斷更新／好市多、全聯、萬家福明天有開！　全台賣場一次看",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBTbFgtRm5PMFZ2WlRSRmktMjVSLXAtamdRYkhiS3ZHZDJFTnVlRGpLQ01VR1YtTDFUMFc0enJEbTItXzVkeTZMMNIBTEFVX3lxTFBLdkpLWmx5STJpWGRyczJ1SFg5aGhDY1VHVWdyN2UyU2dRcDYteTZLc1ZGbTB0VGRNLThXcmdFTkR2QTduVVdpdlNlZkM?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-10-22T20:25:00+08:00",
+     "description": "不斷更新／好市多、全聯、萬家福明天有開！　全台賣場一次看  三立新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
      "title": "颱風攪局台灣大賽！完整賽程出爐",
      "link": "https://sports.ettoday.net/news/3259457",
      "source": "ettoday",
@@ -2388,23 +2433,6 @@
       },
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "薔琵颱風來襲！竹山前山音樂祭、水里嬉遊季照辦",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5615367",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-10-22T20:01:21+08:00",
-     "description": "薔琵颱風來勢洶洶，週六日在南投縣竹山鎮公所登場的前山音樂祭，以及週六水里鄉車埕遊憩區的水里嬉遊季，主辦單位考量颱風對中部影響有限，2地活動照常舉辦，但若宣布停班課，將另行公告。...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
      }
     }
    ]
@@ -2825,7 +2853,7 @@
    "first_seen": "2026-10-20T05:30:00+08:00",
    "last_updated": "2026-10-21T23:10:00+08:00",
    "tags": [
-    "是認罪是認輸",
+    "不是認罪是認",
     "柯文哲",
     "李文宗"
    ],
@@ -2865,12 +2893,12 @@
      }
     },
     {
-     "title": "稱李文宗、李文娟「不是認罪是認輸」 柯文哲：我絕不投降不屈服| 政治",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFByNnFCeEo3RFdIOFNCYXdYczY1MElmX25yZ2pUOG9ESlB0VUxlQmdiTVg5LWpWU2hiQ213YTYyQUtPemdGcE5lOA?oc=5",
+     "title": "稱李文宗、李文娟「不是認罪是認輸」　柯文哲：我絕不投降不屈服",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFByNnFCeEo3RFdIOFNCYXdYczY1MElmX25yZ2pUOG9ESlB0VUxlQmdiTVg5LWpWU2hiQ213YTYyQUtPemdGcE5lONIBTEFVX3lxTE1pLS1KclRITE14aDRrcG9zaW0tZUo1cGlzaEVnV1JiUFR3V1l5YW1kSDkyekFFbHJabGFCLVR3SXVGMm1lVmw3WkRaRUM?oc=5",
      "source": "setn",
      "source_name": "三立新聞網",
      "published": "2026-10-21T20:36:00+08:00",
-     "description": "稱李文宗、李文娟「不是認罪是認輸」 柯文哲：我絕不投降不屈服| 政治  三立新聞",
+     "description": "稱李文宗、李文娟「不是認罪是認輸」　柯文哲：我絕不投降不屈服  三立新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -2882,12 +2910,12 @@
      }
     },
     {
-     "title": "稱李文宗、李文娟「不是認罪是認輸」　柯文哲：我絕不投降不屈服",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFByNnFCeEo3RFdIOFNCYXdYczY1MElmX25yZ2pUOG9ESlB0VUxlQmdiTVg5LWpWU2hiQ213YTYyQUtPemdGcE5lONIBTEFVX3lxTE1pLS1KclRITE14aDRrcG9zaW0tZUo1cGlzaEVnV1JiUFR3V1l5YW1kSDkyekFFbHJabGFCLVR3SXVGMm1lVmw3WkRaRUM?oc=5",
+     "title": "稱李文宗、李文娟「不是認罪是認輸」 柯文哲：我絕不投降不屈服| 政治",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFByNnFCeEo3RFdIOFNCYXdYczY1MElmX25yZ2pUOG9ESlB0VUxlQmdiTVg5LWpWU2hiQ213YTYyQUtPemdGcE5lOA?oc=5",
      "source": "setn",
      "source_name": "三立新聞網",
      "published": "2026-10-21T20:36:00+08:00",
-     "description": "稱李文宗、李文娟「不是認罪是認輸」　柯文哲：我絕不投降不屈服  三立新聞",
+     "description": "稱李文宗、李文娟「不是認罪是認輸」 柯文哲：我絕不投降不屈服| 政治  三立新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -3018,14 +3046,31 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 18,
+   "article_count": 20,
    "first_seen": "2026-10-20T12:00:32+08:00",
-   "last_updated": "2026-10-21T21:55:16+08:00",
+   "last_updated": "2026-10-21T22:39:57+08:00",
    "tags": [
     "蔣萬安",
     "做完"
    ],
    "articles": [
+    {
+     "title": "謝震武質疑蔣萬安回答跟問題不搭鄉民嗆：就是要找麻煩- 政治",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0ydUtORnRmQTlJcFo2YTcyY2VaTHFSSmJXMnVVc3RtaW5GZGgzeFAtaTRhbWpKY0JjMFQ1MUFDMmlrVFY2aUlkTjZFQnpQTHdQSVRtMjVOWlZ3b3ZQTXowcHpLbWxfRzNuUk5QZ3FR?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-10-21T22:39:57+08:00",
+     "description": "謝震武質疑蔣萬安回答跟問題不搭鄉民嗆：就是要找麻煩- 政治  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
     {
      "title": "認部分小草可能投沈伯洋 許甫、陳智菡揭原因 獻策蔣萬安",
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4LXpkNG4yemJQRDhqdHJpb3YtcFllVVRWNXJ3Nmt1UnVWT0FKMVpRT3lZTVdQTzlia2Jaby12S0JQODkwM01sZ3pMUnlHSmxVMEV1QU9tOXozLTJ3VjByRExGQWFOeVl5SVBIRDJB?oc=5",
@@ -3115,6 +3160,23 @@
      }
     },
     {
+     "title": "謝震武蔣萬安直播相關報導",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9HUGZ6aVVwWWl4THVmTlRReGxyZ1Z1enc5XzBPVnlKbFBQeXd6UGtsVm12TW1haEQ2VlgxX3JsU2luY3E2OVZmdA?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-10-21T15:29:13+08:00",
+     "description": "謝震武蔣萬安直播相關報導  三立新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
      "title": "終於表態2028！蔣萬安：連任一定把4年任期做好做完 | 戴祺修 | 新聞",
      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5kUTFsa2l2aGVHZENDckpkQm9hS2lIYU90NWhHQ3hxVV9xT1RLZHRDYjkzclFmZlp4X2E1WkZSLTVkZEtEVXprRS1fQ0lzUQ?oc=5",
      "source": "storm",
@@ -3146,40 +3208,6 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "回應是否做好做滿 蔣萬安：一定會將四年任期做完",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lOG41cWJ1MmJGZ2NVaFFLQ21aQVlVa2lhUWhpVzE1cGh3WF9jMUpvZWMwRjVqVGhrd2dMcVI0M2VXcjdvU2VON2RhOEhzcU9id2Fz0gFYQVVfeXFMTUF2VUx4NGdYMm5iMkJwY21xeDJIT0s4ZUJUSTc3ZTJlRFkzeWc3UWEtMkk4amw0Z3ZQVU5GTkw1WUJkckpnc1JhYzRDWlc1LWR2WDd5QlRzRA?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-10-21T10:12:58+08:00",
-     "description": "回應是否做好做滿 蔣萬安：一定會將四年任期做完  UDN",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "回應是否做好做滿 蔣萬安：一定會將四年任期做完",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NN3JPa3RoY1kzcVd2NjhRU2I1TnhBdkI5S1NhR2tVc0lOX0FjODd1TGt0emRnRDM4M1lvUkdIRjRrNFpYMHJSaUlIM200SkIxbl8yVEhB0gFWQVVfeXFMTk03ck9rdGhjWTNxV3Y2OFFTYjVOeEF2QjlLU2FHa1VzSU5fQWM4N3VMa3R6ZGdEMzgzWW9SR0hGNGs0WlgwclJpSUgzbTRKQjFuXzJUSEE?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-10-21T10:12:58+08:00",
-     "description": "回應是否做好做滿 蔣萬安：一定會將四年任期做完  UDN",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
@@ -3216,15 +3244,31 @@
     "setn",
     "udn"
    ],
-   "article_count": 21,
+   "article_count": 23,
    "first_seen": "2026-10-22T14:09:29+08:00",
-   "last_updated": "2026-10-22T21:40:17+08:00",
+   "last_updated": "2026-10-23T04:10:00+08:00",
    "tags": [
     "吳子嘉",
-    "搜索",
-    "辦公室"
+    "搜索"
    ],
    "articles": [
+    {
+     "title": "竹檢搜索約談吳子嘉 晚間請回",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxQUg0TnZaVThBNmhVNWF4NkcyZ04weDlIdGpoZEh0RlB4ZmZWb1lJN2Ytd2Z5RFdjRnFid3V1ZlFfU2JLNFBicGpyNklfVDc2R1VZZEVSVmhvbVVHbUZoWlQxT0RudXVpQ2NJ?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-10-23T04:10:00+08:00",
+     "description": "竹檢搜索約談吳子嘉 晚間請回  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
     {
      "title": "吳子嘉涉違選罷法遭搜索　鄭麗文表達嚴正抗議",
      "link": "https://www.cna.com.tw/news/aipl/202610220417.aspx",
@@ -3379,23 +3423,6 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "吳子嘉遭搜索喊司法迫害、打壓言論自由　揚言拒絕交保絕食抗議",
-     "link": "https://www.mirrormedia.mg/story/20261022edi073",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-10-22T15:54:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
      }
     }
    ]
@@ -4694,12 +4721,12 @@
      }
     },
     {
-     "title": "唐振剛閃兵遭判1年4個月、緩刑3年！經紀公司回應了 | 娛樂",
+     "title": "唐振剛閃兵遭判1年4個月、緩刑3年！經紀公司回應了| 娛樂",
      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92V244eFpFVnJiOEstMVctTzI4MWE4c1U2VUxaejg4WVVMYzc0aVNzVHFUWWJPcDI5cDJiZml1dzdMZnpzTF9oSXFHZUktRXVoNGNrSENUSXZzVzA?oc=5",
      "source": "newtalk",
      "source_name": "新頭殼",
      "published": "2026-10-21T10:07:40+08:00",
-     "description": "唐振剛閃兵遭判1年4個月、緩刑3年！經紀公司回應了 | 娛樂  Newtalk新聞",
+     "description": "唐振剛閃兵遭判1年4個月、緩刑3年！經紀公司回應了| 娛樂  Newtalk新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -5047,6 +5074,398 @@
    ]
   },
   {
+   "id": "d184afff7f47",
+   "title": "PHP資安漏洞影響全球7成網站 可能造成風險、原因一次看",
+   "outlet_count": 7,
+   "outlets": [
+    "ebc",
+    "ettoday",
+    "ltn",
+    "nownews",
+    "pts",
+    "setn",
+    "udn"
+   ],
+   "article_count": 14,
+   "first_seen": "2026-10-21T19:56:59+08:00",
+   "last_updated": "2026-10-23T04:00:06+08:00",
+   "tags": [
+    "漏洞",
+    "網站",
+    "重大"
+   ],
+   "articles": [
+    {
+     "title": "PHP爆漏洞多國網站急搶修　駭客嘗試攻擊數百萬次",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5615820",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-10-23T04:00:06+08:00",
+     "description": "支撐網際網路運作的程式語言PHP爆嚴重漏洞，全球企業與政府今天加緊腳步搶修，多國銀行、航空、鐵路與政府網站緊急暫停服務，駭客已嘗試攻擊達數百萬次。\n\n路透社報導，PHP與HTML、Pytho...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "「PHP」兩大安全漏洞 全台2.8萬網站受影響",
+     "link": "https://news.pts.org.tw/article/832559",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-10-22T20:43:38+08:00",
+     "description": "受到廣泛使用的程式語言「PHP」，支援全球大約7成網頁，現在卻被揭露有2項重大安全漏洞，駭客能夠透過漏洞，從遠端操控電腦伺服器。資安署盤點，全國超過2.8萬個對外服務網站都有用到PHP，政府單位大約佔200個，資安署提醒，如果無法及時採取緩解措施，建議先預防性下架網站。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "PHP重大漏洞！台灣逾2.8萬網站使用  資安署：無法修補應先下架",
+     "link": "https://ec.ltn.com.tw/article/breakingnews/5615603",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-10-22T20:22:25+08:00",
+     "description": "針對PHP程式語言出現資安漏洞，數位發展部資通安全署署長蔡福隆今（22）日表示，根據目前盤點，國內約有2萬8千多個對外服務網站使用PHP開發，其中政府機關約有200個網站...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "全球7成網站恐陷PHP資安漏洞！OpenAI推免費網站安全檢查工具",
+     "link": "https://3c.ltn.com.tw/news/68025",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-10-22T18:00:00+08:00",
+     "description": "全球廣泛使用的 PHP 程式語言爆出兩項嚴重安全漏洞，可能對全球網路造成重大衝擊，而 OpenAI 稍早公開免費開源的小工具「php2shell-checker」，輸入網址或在終端機跑一行指令，就能初步判斷該 PHP 版本有沒有在此次安全漏洞影響範圍。…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "全球逾7成網頁使用PHP語言 存2重大漏洞讓駭客可入侵主機",
+     "link": "https://news.pts.org.tw/article/832453",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-10-22T15:18:53+08:00",
+     "description": "受到廣泛使用的程式語言PHP，全球的網頁後端至少70%都是用它，包含國內的政府機關、學校以及企業在內，但現在爆出有2項重大安全漏洞，嚴重度評分達9.2分。駭客能夠透過漏洞攻擊網站，甚至進而入侵整台電腦主機伺服器，取得內部資訊。而開發團隊已經釋出修補漏洞的更新版本，我資安署也通知各機關和企業，盡快完成更新，並檢查是否有異常存取紀錄。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "PHP重大漏洞影響全球！台灣機關、企業、學校恐受害　資安署急示警",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9fMFNXUFFTRzNxUFhrRVF0ajU2bUpKOHM3Y2xtZzlNb3NxWDFfNWN0anUycGtZNkxIMkZWQWs0YjFLWkVSNWFNQtIBTEFVX3lxTFBUT2JNYWxKTUgwOG9ubFFXRnBqTGFrWWE0WlJFV3FoSkZwb0NtQjljOF9iM2QycE13UXNUOWhyMjBPX3NvU044MTVEUHA?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-10-22T15:15:00+08:00",
+     "description": "PHP重大漏洞影響全球！台灣機關、企業、學校恐受害　資安署急示警  三立新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "PHP資安漏洞影響全球7成網站 可能造成風險、原因一次看",
+     "link": "https://news.pts.org.tw/article/832470",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-10-22T14:47:42+08:00",
+     "description": "全球近7成網站使用的開發程式語言PHP，21日遭揭露存在2項重大安全漏洞，導致多國網站緊急預防性下架，PHP官方也釋出新版本呼籲用戶盡速更新。PHP是什麼？資安漏洞可能造成什麼問題？台灣網站目前有災情嗎？",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "日本娛樂網站大停擺！不只阿部寬官網掛了　STARTO、AKB48連不上",
+     "link": "https://star.ettoday.net/news/3259077",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-10-22T12:16:00+08:00",
+     "description": "全球廣泛使用的程式語言PHP爆出重大安全漏洞，日本企業緊急展開系統維護，影響更一路燒進娛樂圈，除了爆速聞名阿部寬官網，連大公司如松竹株式會社、娛樂經紀公司如STARTO、AKB48等網站陸續停擺，松本潤官網甚至直接出現「502 Bad Gateway ERROR」，一度無法瀏覽。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "PHP爆重大資安漏洞！2漏洞嚴重度達9.2分 今晚緊急更新",
+     "link": "https://news.ebc.net.tw/news/living/576872",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-10-22T08:59:34.953154+08:00",
+     "description": "知名開源伺服器端腳本語言PHP傳出重大資安警訊，PHP安全團隊於昨（20）日發布公告，預告將於台灣時間今（21）日晚間10時推出緊急安全更新，修補兩個嚴重漏洞。",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "歐洲部分政府網站緊急下線！PHP爆重大資安漏洞 資安署緊急示警",
+     "link": "https://ec.ltn.com.tw/article/breakingnews/5614403",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-10-22T08:01:48+08:00",
+     "description": "廣泛應用於網站建置的開源程式語言PHP，近日發現兩項嚴重安全漏洞，嚴重度評分均達9.2分，攻擊者可能在未經身分驗證的情況下，從外部執行任意程式碼，資安署呼籲使用PHP的政...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    }
+   ]
+  },
+  {
+   "id": "53b279d9ec21",
+   "title": "SpaceX飆漲10％提振AI股氣勢！美股開盤齊漲　那指勁揚近200點",
+   "outlet_count": 7,
+   "outlets": [
+    "chinatimes",
+    "ebc",
+    "ltn",
+    "newtalk",
+    "nownews",
+    "setn",
+    "tvbs"
+   ],
+   "article_count": 12,
+   "first_seen": "2026-10-21T22:00:28+08:00",
+   "last_updated": "2026-10-22T21:36:58+08:00",
+   "tags": [
+    "財報提振",
+    "美股",
+    "收紅"
+   ],
+   "articles": [
+    {
+     "title": "颱風假後慘了？ 台指期夜盤失守46K 費半重挫6％",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5uTVRJMy1hV3JzYjQ4SHdkM0JLRG9xZnVSbm9lR3RBejBIeEJVY1QxMGZUZjZqbHdwUnFZZ1NQeU1GNC1TaGREcWpIeGltUVF6X3VlQ1FvZzAxOUNWLTJ0VGJmaGJQaFpMdUdDU0NR?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-10-22T21:36:58+08:00",
+     "description": "颱風假後慘了？ 台指期夜盤失守46K 費半重挫6％  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "SpaceX財報利多算力概念股關鍵布局| 財經",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8weDdGWk9fMTBJY3pFXzNQZ3BhN2FidnhRZVZUTWNkYU4xY3VBRDR0SW5lYllPUm5VdFNPTURORXFScC1FclAzc1R2MWU2bXRVSWMzNXAySHpzMWs?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-10-22T17:14:43+08:00",
+     "description": "SpaceX財報利多算力概念股關鍵布局| 財經  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "專家看盤》SpaceX、輝達領軍走強！台股續彈 反彈指標股一次看 | 財經",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHUlIyTGVjTG5ZVTBKeE9Rc1kzVEFxbTJQR2N4ME5YYjhZZExrTHlZSHpyNVR4VFFQRm45U0ZsTi1wcDY0LXR6YnFDSllNYWhSNC1GdzZHaEgwcVk?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-10-22T10:04:27+08:00",
+     "description": "專家看盤》SpaceX、輝達領軍走強！台股續彈 反彈指標股一次看 | 財經  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "SpaceX財報提振信心！美股全收紅 台指期夜盤漲469點",
+     "link": "https://news.ebc.net.tw/news/business/576875",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-10-22T08:59:34.953154+08:00",
+     "description": "太空探索科技公司（SpaceX）及美超微（Super Micro Computer）公布季度財報，提振投資人對人工智慧（AI）相關股票的信心，美股主要指數今天收",
+     "category": "business",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "business",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "《盤前掃瞄-國外消息》美股收紅；SpaceX狂漲- 國際",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95MGU3dFd4N19sanRvMWwzX3U3OExIbVctTUhPYldzdjlheF9wV1RYSmpCNU1vcDVvMUJCZXZfY2tpNVpVNFY3Z21MOGlYR2R5UEhybVF3TzR5ZURWVmJHbnRRMGdjTkc3ZGc?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-10-22T08:29:25+08:00",
+     "description": "《盤前掃瞄-國外消息》美股收紅；SpaceX狂漲- 國際  旺得富理財網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "SpaceX及美超微財報提振市場信心！美股道瓊漲360點 台積電ADR漲1.6％ | 財經",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Oam1jQXp6Ymx4VThtemRsampVam05UFJ2aGRvTWYwVFB1alNLR1lUcVJ0V3RqcnR2TzdYcjNNaTk3Zkk3SWo1YkZBRUs2QnhjZjVWWTBJVGFWeEk?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-10-22T07:49:22+08:00",
+     "description": "SpaceX及美超微財報提振市場信心！美股道瓊漲360點 台積電ADR漲1.6％ | 財經  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "美股收盤》SpaceX財報提振！道瓊漲360點 台積電ADR勁揚1.6％",
+     "link": "https://ec.ltn.com.tw/article/breakingnews/5614381",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-10-22T05:56:13+08:00",
+     "description": "週三以科技股為主的那斯達克指數領漲華爾街股市，太空探索科技公司（SpaceX）及美超微（Super Micro Computer）公布季度財報，提振投資人對AI相關股票的信心。那...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "SpaceX繳亮眼獲利成績單！美股4大指數收紅　道瓊漲360點、那指漲278點",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5lTUswWUdJWHpKeGpMSk1BdUFMRHJqNnppMmlfV0RLUkRVdEpFcVpIYVFWT2RWSTRyTHpWLXdwckVvMDIyZGFLX9IBTEFVX3lxTE5jdURvY3B5ZzNwQjBfckx0czFNQ3JpSVBYQ05KREhFSGx5WVNPVTBlVHQ2SFM3VVZqZGNiMk9YTzFaRnYteHhvNDRJVUI?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-10-22T05:46:00+08:00",
+     "description": "SpaceX繳亮眼獲利成績單！美股4大指數收紅　道瓊漲360點、那指漲278點  三立新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "SpaceX及超微財報提振信心 美股收紅",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MVW1JQ2Y4QnhwUkF3R3VVcGtid3ZOUFUtVVpOUmlyNHhzT0FKeE9LTHYtZzZLS2R4bFB5c1RlWlM4RVNoOVY5OHJxZlRXdFk?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-10-22T05:06:00+08:00",
+     "description": "SpaceX及超微財報提振信心 美股收紅  TVBS新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "SpaceX及超微財報提振信心　美股收紅",
+     "link": "https://ec.ltn.com.tw/article/breakingnews/5614377",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-10-22T04:36:03+08:00",
+     "description": "太空探索科技公司（SpaceX）及美超微（Super Micro Computer）公布季度財報，提振投資人對人工智慧（AI）相關股票的信心，美股主要指數今天收紅。\n\n道瓊工業指數揚升360...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    }
+   ]
+  },
+  {
    "id": "d5b22c18cc26",
    "title": "中職台灣大賽G3》中信兄弟vs味全龍　賽程時間、轉播、分析一次看",
    "outlet_count": 7,
@@ -5172,12 +5591,12 @@
      }
     },
     {
-     "title": "台灣大賽／假借沒洗面乳！詹子賢開導張士綸內幕超感人：心疼他整天摸頭| 運動",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1peHBPa1dkamdXZGVudkRrS1hDLXptMFRUWUp4X3pBUXhpU3luTTN4c3VpeDhBY2tCdHFMWDlneE9FWEc0TEtkbQ?oc=5",
+     "title": "台灣大賽／假借沒洗面乳！詹子賢開導張士綸內幕超感人：心疼他整天摸頭",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1peHBPa1dkamdXZGVudkRrS1hDLXptMFRUWUp4X3pBUXhpU3luTTN4c3VpeDhBY2tCdHFMWDlneE9FWEc0TEtkbdIBTEFVX3lxTE8wWUhvdGJfaEVLcDlpNVRmNHNyQkpfWkVma0NISkhLSmNESjN2TmZrdXJkdWlCTnNiVHVDLS1qVllRRW9oSl9ObEJ5UmY?oc=5",
      "source": "setn",
      "source_name": "三立新聞網",
      "published": "2026-10-22T06:30:00+08:00",
-     "description": "台灣大賽／假借沒洗面乳！詹子賢開導張士綸內幕超感人：心疼他整天摸頭| 運動  三立新聞",
+     "description": "台灣大賽／假借沒洗面乳！詹子賢開導張士綸內幕超感人：心疼他整天摸頭  三立新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -5189,12 +5608,12 @@
      }
     },
     {
-     "title": "台灣大賽／假借沒洗面乳！詹子賢開導張士綸內幕超感人：心疼他整天摸頭",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1peHBPa1dkamdXZGVudkRrS1hDLXptMFRUWUp4X3pBUXhpU3luTTN4c3VpeDhBY2tCdHFMWDlneE9FWEc0TEtkbdIBTEFVX3lxTE8wWUhvdGJfaEVLcDlpNVRmNHNyQkpfWkVma0NISkhLSmNESjN2TmZrdXJkdWlCTnNiVHVDLS1qVllRRW9oSl9ObEJ5UmY?oc=5",
+     "title": "台灣大賽／假借沒洗面乳！詹子賢開導張士綸內幕超感人：心疼他整天摸頭| 運動",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1peHBPa1dkamdXZGVudkRrS1hDLXptMFRUWUp4X3pBUXhpU3luTTN4c3VpeDhBY2tCdHFMWDlneE9FWEc0TEtkbQ?oc=5",
      "source": "setn",
      "source_name": "三立新聞網",
      "published": "2026-10-22T06:30:00+08:00",
-     "description": "台灣大賽／假借沒洗面乳！詹子賢開導張士綸內幕超感人：心疼他整天摸頭  三立新聞",
+     "description": "台灣大賽／假借沒洗面乳！詹子賢開導張士綸內幕超感人：心疼他整天摸頭| 運動  三立新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -5242,7 +5661,7 @@
    ]
   },
   {
-   "id": "34811e60cda0",
+   "id": "0925ce6b0ef2",
    "title": "小琉球美人沙灘1男戲水失蹤　海巡搜救中",
    "outlet_count": 7,
    "outlets": [
@@ -5385,12 +5804,12 @@
      }
     },
     {
-     "title": "薔琵襲台！「小琉球美人洞」20歲男落海無意識搶救中",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wTy1pQWZnZGhTWGR5aDUyUFV2NVZiYXhRSUVWWFpIYTJnWFY2SGZBejViMk5iZDU5T1BIbjhBbTVPNUlpLXBWdGQyMXNUQmc?oc=5",
+     "title": "薔琵襲台！「小琉球美人洞」20歲男子遭惡浪捲走失蹤",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBLMjZKbDVhclFuNm01NnBKMWEzeGlrNVJtc3VLbVhMUk4tZUJBTnFHVXN5dlpUdmdxckxPVkRhbW5PWjFoblpQUFk5RUhZZw?oc=5",
      "source": "tvbs",
      "source_name": "TVBS",
      "published": "2026-10-22T13:43:00+08:00",
-     "description": "快訊／薔琵襲台！「小琉球美人洞」20歲男落海無意識搶救中  TVBS新聞網",
+     "description": "快訊／薔琵襲台！「小琉球美人洞」20歲男子遭惡浪捲走失蹤  TVBS新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -5402,12 +5821,12 @@
      }
     },
     {
-     "title": "薔琵襲台！「小琉球美人洞」20歲男子遭惡浪捲走失蹤",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBLMjZKbDVhclFuNm01NnBKMWEzeGlrNVJtc3VLbVhMUk4tZUJBTnFHVXN5dlpUdmdxckxPVkRhbW5PWjFoblpQUFk5RUhZZw?oc=5",
+     "title": "薔琵襲台！「小琉球美人洞」20歲男落海無意識搶救中",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wTy1pQWZnZGhTWGR5aDUyUFV2NVZiYXhRSUVWWFpIYTJnWFY2SGZBejViMk5iZDU5T1BIbjhBbTVPNUlpLXBWdGQyMXNUQmc?oc=5",
      "source": "tvbs",
      "source_name": "TVBS",
      "published": "2026-10-22T13:43:00+08:00",
-     "description": "快訊／薔琵襲台！「小琉球美人洞」20歲男子遭惡浪捲走失蹤  TVBS新聞網",
+     "description": "快訊／薔琵襲台！「小琉球美人洞」20歲男落海無意識搶救中  TVBS新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -5710,7 +6129,7 @@
     },
     {
      "title": "力積電Q3獲利回升！毛利率衝48%　EPS達1.38元",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE56a19RUXpEZ3F3UThROHJZd21MaGh6SDlxTDRPaU91blJ5ZjU5MGpvZWY3RmlWSmZpb3RnZW94YWk5dmVRRGlHbER5ekzSAVJBVV95cUxPYUo0SjFfeEhTTnk0V1F1WWdLR05IMzNfbWRqZm1tRmg0OEttV2tLOV9oc3ZKTTZVQll5V1FYdGNELXdGdkJqLWpZQlZndnBqTGZR?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hSjRKMV94SFNOeTRXUXVZZ0tHTkgzM19tZGpmbW1GaDQ4S21Xa0s5X2hzdkpNNlVCWXlXUVh0Y0Qtd0Z2QmotallCVmd2cGpMZlHSAVJBVV95cUxPYUo0SjFfeEhTTnk0V1F1WWdLR05IMzNfbWRqZm1tRmg0OEttV2tLOV9oc3ZKTTZVQll5V1FYdGNELXdGdkJqLWpZQlZndnBqTGZR?oc=5",
      "source": "nownews",
      "source_name": "今日新聞",
      "published": "2026-10-21T16:06:18+08:00",
@@ -5727,7 +6146,7 @@
     },
     {
      "title": "力積電Q3獲利回升！毛利率衝48%　EPS達1.38元",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hSjRKMV94SFNOeTRXUXVZZ0tHTkgzM19tZGpmbW1GaDQ4S21Xa0s5X2hzdkpNNlVCWXlXUVh0Y0Qtd0Z2QmotallCVmd2cGpMZlHSAVJBVV95cUxPYUo0SjFfeEhTTnk0V1F1WWdLR05IMzNfbWRqZm1tRmg0OEttV2tLOV9oc3ZKTTZVQll5V1FYdGNELXdGdkJqLWpZQlZndnBqTGZR?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE56a19RUXpEZ3F3UThROHJZd21MaGh6SDlxTDRPaU91blJ5ZjU5MGpvZWY3RmlWSmZpb3RnZW94YWk5dmVRRGlHbER5ekzSAVJBVV95cUxPYUo0SjFfeEhTTnk0V1F1WWdLR05IMzNfbWRqZm1tRmg0OEttV2tLOV9oc3ZKTTZVQll5V1FYdGNELXdGdkJqLWpZQlZndnBqTGZR?oc=5",
      "source": "nownews",
      "source_name": "今日新聞",
      "published": "2026-10-21T16:06:18+08:00",
@@ -5757,202 +6176,6 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
-   "id": "53b279d9ec21",
-   "title": "SpaceX飆漲10％提振AI股氣勢！美股開盤齊漲　那指勁揚近200點",
-   "outlet_count": 7,
-   "outlets": [
-    "chinatimes",
-    "ebc",
-    "ltn",
-    "newtalk",
-    "nownews",
-    "setn",
-    "tvbs"
-   ],
-   "article_count": 11,
-   "first_seen": "2026-10-21T22:00:28+08:00",
-   "last_updated": "2026-10-22T17:14:43+08:00",
-   "tags": [
-    "財報提振",
-    "美股",
-    "收紅"
-   ],
-   "articles": [
-    {
-     "title": "SpaceX財報利多算力概念股關鍵布局| 財經",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8weDdGWk9fMTBJY3pFXzNQZ3BhN2FidnhRZVZUTWNkYU4xY3VBRDR0SW5lYllPUm5VdFNPTURORXFScC1FclAzc1R2MWU2bXRVSWMzNXAySHpzMWs?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-10-22T17:14:43+08:00",
-     "description": "SpaceX財報利多算力概念股關鍵布局| 財經  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "專家看盤》SpaceX、輝達領軍走強！台股續彈 反彈指標股一次看 | 財經",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHUlIyTGVjTG5ZVTBKeE9Rc1kzVEFxbTJQR2N4ME5YYjhZZExrTHlZSHpyNVR4VFFQRm45U0ZsTi1wcDY0LXR6YnFDSllNYWhSNC1GdzZHaEgwcVk?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-10-22T10:04:27+08:00",
-     "description": "專家看盤》SpaceX、輝達領軍走強！台股續彈 反彈指標股一次看 | 財經  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "SpaceX財報提振信心！美股全收紅 台指期夜盤漲469點",
-     "link": "https://news.ebc.net.tw/news/business/576875",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-10-22T08:59:34.953154+08:00",
-     "description": "太空探索科技公司（SpaceX）及美超微（Super Micro Computer）公布季度財報，提振投資人對人工智慧（AI）相關股票的信心，美股主要指數今天收",
-     "category": "business",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "business",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "《盤前掃瞄-國外消息》美股收紅；SpaceX狂漲- 國際",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95MGU3dFd4N19sanRvMWwzX3U3OExIbVctTUhPYldzdjlheF9wV1RYSmpCNU1vcDVvMUJCZXZfY2tpNVpVNFY3Z21MOGlYR2R5UEhybVF3TzR5ZURWVmJHbnRRMGdjTkc3ZGc?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-10-22T08:29:25+08:00",
-     "description": "《盤前掃瞄-國外消息》美股收紅；SpaceX狂漲- 國際  旺得富理財網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "SpaceX及美超微財報提振市場信心！美股道瓊漲360點 台積電ADR漲1.6％ | 財經",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Oam1jQXp6Ymx4VThtemRsampVam05UFJ2aGRvTWYwVFB1alNLR1lUcVJ0V3RqcnR2TzdYcjNNaTk3Zkk3SWo1YkZBRUs2QnhjZjVWWTBJVGFWeEk?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-10-22T07:49:22+08:00",
-     "description": "SpaceX及美超微財報提振市場信心！美股道瓊漲360點 台積電ADR漲1.6％ | 財經  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "美股收盤》SpaceX財報提振！道瓊漲360點 台積電ADR勁揚1.6％",
-     "link": "https://ec.ltn.com.tw/article/breakingnews/5614381",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-10-22T05:56:13+08:00",
-     "description": "週三以科技股為主的那斯達克指數領漲華爾街股市，太空探索科技公司（SpaceX）及美超微（Super Micro Computer）公布季度財報，提振投資人對AI相關股票的信心。那...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "SpaceX繳亮眼獲利成績單！美股4大指數收紅　道瓊漲360點、那指漲278點",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5lTUswWUdJWHpKeGpMSk1BdUFMRHJqNnppMmlfV0RLUkRVdEpFcVpIYVFWT2RWSTRyTHpWLXdwckVvMDIyZGFLX9IBTEFVX3lxTE5jdURvY3B5ZzNwQjBfckx0czFNQ3JpSVBYQ05KREhFSGx5WVNPVTBlVHQ2SFM3VVZqZGNiMk9YTzFaRnYteHhvNDRJVUI?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-10-22T05:46:00+08:00",
-     "description": "SpaceX繳亮眼獲利成績單！美股4大指數收紅　道瓊漲360點、那指漲278點  三立新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "SpaceX及超微財報提振信心 美股收紅",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MVW1JQ2Y4QnhwUkF3R3VVcGtid3ZOUFUtVVpOUmlyNHhzT0FKeE9LTHYtZzZLS2R4bFB5c1RlWlM4RVNoOVY5OHJxZlRXdFk?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-10-22T05:06:00+08:00",
-     "description": "SpaceX及超微財報提振信心 美股收紅  TVBS新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "SpaceX及超微財報提振信心　美股收紅",
-     "link": "https://ec.ltn.com.tw/article/breakingnews/5614377",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-10-22T04:36:03+08:00",
-     "description": "太空探索科技公司（SpaceX）及美超微（Super Micro Computer）公布季度財報，提振投資人對人工智慧（AI）相關股票的信心，美股主要指數今天收紅。\n\n道瓊工業指數揚升360...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "SpaceX財報提振美股　歐股跟進收高",
-     "link": "https://ec.ltn.com.tw/article/breakingnews/5614356",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-10-22T00:30:03+08:00",
-     "description": "科技富豪馬斯克（Elon Musk）旗下太空探索科技公司（SpaceX）發布財報，上市後首度實現單季獲利，提振市場情緒，歐洲主要股市今天收高。\n\n倫敦FTSE 100指數上揚19.88點或0...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
      }
     }
    ]
@@ -6367,7 +6590,7 @@
    "tags": [
     "川普宣布",
     "晶片",
-    "台灣太遠"
+    "商務部長"
    ],
    "claims": [
     {
@@ -7028,135 +7251,31 @@
    ]
   },
   {
-   "id": "d184afff7f47",
-   "title": "PHP資安漏洞影響全球7成網站 可能造成風險、原因一次看",
+   "id": "3b029db8f21f",
+   "title": "iPhone Duo週五開賣遇颱風攪局？果粉哀號：第一次不想放假",
    "outlet_count": 6,
    "outlets": [
-    "ebc",
     "ettoday",
     "ltn",
+    "mirror",
     "nownews",
-    "pts",
-    "setn"
+    "setn",
+    "udn"
    ],
-   "article_count": 12,
-   "first_seen": "2026-10-21T19:56:59+08:00",
-   "last_updated": "2026-10-22T20:43:38+08:00",
+   "article_count": 19,
+   "first_seen": "2026-10-20T08:00:00+08:00",
+   "last_updated": "2026-10-22T20:59:00+08:00",
    "tags": [
-    "漏洞",
-    "網站",
-    "重大"
+    "蘋果"
    ],
    "articles": [
     {
-     "title": "「PHP」兩大安全漏洞 全台2.8萬網站受影響",
-     "link": "https://news.pts.org.tw/article/832559",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-10-22T20:43:38+08:00",
-     "description": "受到廣泛使用的程式語言「PHP」，支援全球大約7成網頁，現在卻被揭露有2項重大安全漏洞，駭客能夠透過漏洞，從遠端操控電腦伺服器。資安署盤點，全國超過2.8萬個對外服務網站都有用到PHP，政府單位大約佔200個，資安署提醒，如果無法及時採取緩解措施，建議先預防性下架網站。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "PHP重大漏洞！台灣逾2.8萬網站使用  資安署：無法修補應先下架",
-     "link": "https://ec.ltn.com.tw/article/breakingnews/5615603",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-10-22T20:22:25+08:00",
-     "description": "針對PHP程式語言出現資安漏洞，數位發展部資通安全署署長蔡福隆今（22）日表示，根據目前盤點，國內約有2萬8千多個對外服務網站使用PHP開發，其中政府機關約有200個網站...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "全球7成網站恐陷PHP資安漏洞！OpenAI推免費網站安全檢查工具",
-     "link": "https://3c.ltn.com.tw/news/68025",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-10-22T18:00:00+08:00",
-     "description": "全球廣泛使用的 PHP 程式語言爆出兩項嚴重安全漏洞，可能對全球網路造成重大衝擊，而 OpenAI 稍早公開免費開源的小工具「php2shell-checker」，輸入網址或在終端機跑一行指令，就能初步判斷該 PHP 版本有沒有在此次安全漏洞影響範圍。…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "全球逾7成網頁使用PHP語言 存2重大漏洞讓駭客可入侵主機",
-     "link": "https://news.pts.org.tw/article/832453",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-10-22T15:18:53+08:00",
-     "description": "受到廣泛使用的程式語言PHP，全球的網頁後端至少70%都是用它，包含國內的政府機關、學校以及企業在內，但現在爆出有2項重大安全漏洞，嚴重度評分達9.2分。駭客能夠透過漏洞攻擊網站，甚至進而入侵整台電腦主機伺服器，取得內部資訊。而開發團隊已經釋出修補漏洞的更新版本，我資安署也通知各機關和企業，盡快完成更新，並檢查是否有異常存取紀錄。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "PHP重大漏洞影響全球！台灣機關、企業、學校恐受害　資安署急示警",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9fMFNXUFFTRzNxUFhrRVF0ajU2bUpKOHM3Y2xtZzlNb3NxWDFfNWN0anUycGtZNkxIMkZWQWs0YjFLWkVSNWFNQtIBTEFVX3lxTFBUT2JNYWxKTUgwOG9ubFFXRnBqTGFrWWE0WlJFV3FoSkZwb0NtQjljOF9iM2QycE13UXNUOWhyMjBPX3NvU044MTVEUHA?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-10-22T15:15:00+08:00",
-     "description": "PHP重大漏洞影響全球！台灣機關、企業、學校恐受害　資安署急示警  三立新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "PHP資安漏洞影響全球7成網站 可能造成風險、原因一次看",
-     "link": "https://news.pts.org.tw/article/832470",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-10-22T14:47:42+08:00",
-     "description": "全球近7成網站使用的開發程式語言PHP，21日遭揭露存在2項重大安全漏洞，導致多國網站緊急預防性下架，PHP官方也釋出新版本呼籲用戶盡速更新。PHP是什麼？資安漏洞可能造成什麼問題？台灣網站目前有災情嗎？",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "日本娛樂網站大停擺！不只阿部寬官網掛了　STARTO、AKB48連不上",
-     "link": "https://star.ettoday.net/news/3259077",
+     "title": "iPhone Duo上市前外觀搶先開箱！無感摺痕？上手握感一次說",
+     "link": "https://www.ettoday.net/news/20261022/3259445.htm",
      "source": "ettoday",
      "source_name": "ETtoday",
-     "published": "2026-10-22T12:16:00+08:00",
-     "description": "全球廣泛使用的程式語言PHP爆出重大安全漏洞，日本企業緊急展開系統維護，影響更一路燒進娛樂圈，除了爆速聞名阿部寬官網，連大公司如松竹株式會社、娛樂經紀公司如STARTO、AKB48等網站陸續停擺，松本潤官網甚至直接出現「502 Bad Gateway ERROR」，一度無法瀏覽。 《詳全文...》",
+     "published": "2026-10-22T20:59:00+08:00",
+     "description": "蘋果年度重磅新品 iPhone Duo 23日即將上市，首支摺疊在發表會後詢問度就爆棚，台灣開放預約不到十分鐘秒殺、256G 現貨得等到一月才有機會取得。而《ETtoday科技雲》搶先取得 iPhone Duo 實機（夜空色），首篇將以外觀、第一次上手的手感進行開箱分享，現在就一起來看看這隻受到空前矚目的 iPhone Duo介紹吧！\n\n 《詳全文...》",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -7168,31 +7287,97 @@
      }
     },
     {
-     "title": "PHP爆重大資安漏洞！2漏洞嚴重度達9.2分 今晚緊急更新",
-     "link": "https://news.ebc.net.tw/news/living/576872",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-10-22T08:59:34.953154+08:00",
-     "description": "知名開源伺服器端腳本語言PHP傳出重大資安警訊，PHP安全團隊於昨（20）日發布公告，預告將於台灣時間今（21）日晚間10時推出緊急安全更新，修補兩個嚴重漏洞。",
-     "category": "living",
+     "title": "果粉快看！iPhone Duo首賣強碰薔琵颱風　蘋果祭彈性取貨",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5HVHYteTZxam1PZzRKYmpRbUxqRjJRYlJ4NzdOM0l6MUtpc1FiVDhNQkdXNUwyaW1JcXU0alhwMmRkT1l5NENCd9IBTEFVX3lxTE5JOTUtN0pRVzBzOXh3OWw3T3d6ZTBBZElaYjZFRXN1YVRjZmc1aktndnhJdU12RWFMNGMweTN2ZGJ1RFUySHFJNThRdEs?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-10-22T19:01:00+08:00",
+     "description": "果粉快看！iPhone Duo首賣強碰薔琵颱風　蘋果祭彈性取貨  三立新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
-     "title": "歐洲部分政府網站緊急下線！PHP爆重大資安漏洞 資安署緊急示警",
-     "link": "https://ec.ltn.com.tw/article/breakingnews/5614403",
+     "title": "明早 8 點開賣！兩大通路證實：iPhone Duo 還有現貨",
+     "link": "https://www.ettoday.net/news/20261022/3259381.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-10-22T17:52:00+08:00",
+     "description": "蘋果首款摺疊機 iPhone Duo 即將在明天（23 日）正式開賣，多數通路以及蘋果官方直營店都已經宣布開賣首日不提供現貨。不過連鎖通訊通路地標網通以及電商 PChome 24h購物皆預告，仍保留少量現貨供消費者搶購。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "iPhone Duo明10/23開賣碰停班停課怎辦？蘋果官方：注意電郵通知",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE40Y29xWVhKRkg3U2pETDhkZVBIYUhOMDN6d1BaeV96bmRNOXVPLU55TWc4d09zYjlIaldkUnJad2J3OGJsaHk3dTJ6NEjSAVJBVV95cUxQMUtFN3R5SExnQmE0VUlvamVsbGxHVFZoNDNiV3h3aml1Zk9mN2kyVXR1MlBaYk4tMGVLZmFydDVxLXBhN1h0Mk1VQ0tzbzRTdURn?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-10-22T14:27:58+08:00",
+     "description": "iPhone Duo明10/23開賣碰停班停課怎辦？蘋果官方：注意電郵通知  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "iPhone Duo有多耐用？狂摺萬次結果曝光 內螢幕竟藏1缺點",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CQkNkLWtuRHZNMXRxNTREd3RtS2N6WXl5Zzk1bG16UE1IY2tfa3hvQVg5aXZISS1rVjdNQ3RmVkR0dDNNNmIwaDdmQ05tNVhIdTB2MHRYdEdSakpvN2Fj0gFfQVVfeXFMTkJCQ2Qta25Edk0xdHE1NER3dG1LY3pZeXlnOTVsbXpQTUhja19reG9BWDlpdkhJLWtWN01DdGZWRHR0M002YjBoN2ZDTm01WEh1MHYwdFh0R1JqSm83YWM?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-10-22T14:27:53+08:00",
+     "description": "iPhone Duo有多耐用？狂摺萬次結果曝光 內螢幕竟藏1缺點  udn科技玩家",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "iPhone Duo 開賣日強碰薔琵颱風！蘋果：放颱風假將延後取貨",
+     "link": "https://www.ettoday.net/news/20261022/3259189.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-10-22T14:27:00+08:00",
+     "description": "蘋果 iPhone Duo 即將在明天正式開賣！沒想到恰好撞上「薔琵颱風」襲來，而北部週五的風雨預測已經達到停班停課標準，有很高機率會放颱風假，屆時果粉拿得到 iPhone Duo 嗎？蘋果官方表示，若遇到颱風假，將會順延取貨。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "蘋果iPhone Duo狂摺3.2萬次會壞嗎？實測結果出乎意料",
+     "link": "https://3c.ltn.com.tw/news/68021",
      "source": "ltn",
      "source_name": "自由時報",
-     "published": "2026-10-22T08:01:48+08:00",
-     "description": "廣泛應用於網站建置的開源程式語言PHP，近日發現兩項嚴重安全漏洞，嚴重度評分均達9.2分，攻擊者可能在未經身分驗證的情況下，從外部執行任意程式碼，資安署呼籲使用PHP的政...…",
+     "published": "2026-10-22T14:26:00+08:00",
+     "description": "蘋果首款摺疊手機iPhone Duo售價74,900元起，雖然吸引不少果粉搶購，但這麼貴的手機，每天摺來摺去，轉軸真的耐用嗎？這也是不少人心中的疑問。不過，蘋果並未像其他品牌一樣，公布iPhone Duo可承受的摺疊次數，如今則有國外實測出爐…",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -7204,12 +7389,46 @@
      }
     },
     {
-     "title": "PHP爆重大漏洞日本網站大停擺！　連「阿部寬官網」也掛了",
-     "link": "https://star.ettoday.net/news/3258815",
+     "title": "iPhone Duo摺了1萬次還能用嗎？實測揭曉耐用度與使用隱憂",
+     "link": "https://www.ettoday.net/news/20261022/3258945.htm",
      "source": "ettoday",
      "source_name": "ETtoday",
-     "published": "2026-10-22T06:54:00+08:00",
-     "description": "全球網站廣泛使用的程式語言PHP爆出2項重大安全漏洞，日本21日晚間掀起大規模緊急維護潮，銀行、鐵路、政府機關、購物及娛樂網站陸續暫停部分服務，就連以「網速再差都秒開」聞名的阿部寬超輕量官網也無法連線，讓日網驚呼「歷史性瞬間」。 《詳全文...》",
+     "published": "2026-10-22T10:14:00+08:00",
+     "description": "蘋果首款摺疊手機 iPhone Duo 經得起長時間反覆開合嗎？影視颶風的 Tim 在最新評測影片中，將 iPhone Duo 進行 1 萬次常溫摺疊，再追加 1,000 次、零下 20 度的低溫摺疊測試。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "三星尷尬了！蘋果iPhone Duo傳下週就能用Apple Pencil",
+     "link": "https://3c.ltn.com.tw/news/68010",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-10-22T10:07:00+08:00",
+     "description": "蘋果首款摺疊手機iPhone Duo將於本週五（23日）正式上市，售價74,900元起，雖然價格不便宜，仍吸引不少果粉搶購。現在又有好消息傳出，最快下週就能支援Apple Pencil，讓7.6吋大螢幕發揮更多用途…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "法國暴動洗劫蘋果商店！　笨賊打開iPhone「秒被鎖機+定位報警」",
+     "link": "https://www.ettoday.net/news/20261022/3258888.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-10-22T09:52:00+08:00",
+     "description": "法國爆發大規模抗議與暴動，抗議者甚至趁亂洗劫各大精品門市，連蘋果商店也慘遭闖入。里爾（Lille）的一間蘋果直營店就因此遭大量暴民闖入搶劫，然而，根據網路上一段瘋傳的影片顯示，一名竊賊將搶來的iPhone開機後，螢幕上直接跳出警訊指出，手機已遭遠端鎖死、停用並進行即時定位，甚至警告「警察已獲得通報」，讓搶匪當場變成全網笑柄。\n\n 《詳全文...》",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -7279,7 +7498,7 @@
     },
     {
      "title": "薔琵最新路徑再度西修 氣象粉專：登陸仍是選項 明午後有陸警機率",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpNWRWdEMya0lQZzBHZ3lBcXcwQnJXbTVHSVZLajZzMFNiVnRrakhMdHcwcW9maTVXWnhzZXhvMldnN2xxcUV4NU10LUlCR3VWQ0Zz0gFYQVVfeXFMTUJMS3BtRDktd05xcmlJRjhhYjBvLUU4WkFZOG9xWkRGS203aWtSdk5FNGZaNWVxd3VnRUZrbU51S2V2SEVmaXpRTmlOQUJBSWIyRWlrTHNjTQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBCYjF0LXI4b3o3dW1yWTZEdm1FbnlFcURZZ1NTVWI4QkN6czBrRlNUMjFlcTBLeVR1eEpoZ1h4WERkTjZhZ29DcjNmcTV2OXFB0gFWQVVfeXFMUEpkdGswUHhjZW50RnJpSDd5ejc0dGxIbXF6X1pzVFpwOVFQZHd1QjZWMzRfeEEtSzVoal9lSTFOeUpwSVZ1bURqOWM4aF9nbktfQ0lua3c?oc=5",
      "source": "udn",
      "source_name": "聯合新聞網",
      "published": "2026-10-21T22:36:05+08:00",
@@ -7296,7 +7515,7 @@
     },
     {
      "title": "薔琵最新路徑再度西修 氣象粉專：登陸仍是選項 明午後有陸警機率",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBCYjF0LXI4b3o3dW1yWTZEdm1FbnlFcURZZ1NTVWI4QkN6czBrRlNUMjFlcTBLeVR1eEpoZ1h4WERkTjZhZ29DcjNmcTV2OXFB0gFWQVVfeXFMUEpkdGswUHhjZW50RnJpSDd5ejc0dGxIbXF6X1pzVFpwOVFQZHd1QjZWMzRfeEEtSzVoal9lSTFOeUpwSVZ1bURqOWM4aF9nbktfQ0lua3c?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpNWRWdEMya0lQZzBHZ3lBcXcwQnJXbTVHSVZLajZzMFNiVnRrakhMdHcwcW9maTVXWnhzZXhvMldnN2xxcUV4NU10LUlCR3VWQ0Zz0gFYQVVfeXFMTUJMS3BtRDktd05xcmlJRjhhYjBvLUU4WkFZOG9xWkRGS203aWtSdk5FNGZaNWVxd3VnRUZrbU51S2V2SEVmaXpRTmlOQUJBSWIyRWlrTHNjTQ?oc=5",
      "source": "udn",
      "source_name": "聯合新聞網",
      "published": "2026-10-21T22:36:05+08:00",
@@ -7401,8 +7620,8 @@
    ]
   },
   {
-   "id": "cd588ed07f9c",
-   "title": "川普稱願與習近平普丁3方峰會　可能聚焦非核化",
+   "id": "268cfc038d2f",
+   "title": "川普願與習普會談非核化　烏外長：只會助長戰爭",
    "outlet_count": 6,
    "outlets": [
     "cna",
@@ -7412,12 +7631,12 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 9,
-   "first_seen": "2026-10-20T04:23:31+08:00",
+   "article_count": 7,
+   "first_seen": "2026-10-20T05:57:00+08:00",
    "last_updated": "2026-10-21T23:17:50+08:00",
    "tags": [
+    "行三方峰會",
     "願與習近平",
-    "方峰會",
     "川普"
    ],
    "articles": [
@@ -7538,40 +7757,6 @@
       },
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "川普稱願與習近平普丁3方峰會　可能聚焦非核化",
-     "link": "https://news.ltn.com.tw/news/world/breakingnews/5611767",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-10-20T04:30:04+08:00",
-     "description": "美國總統川普今天表示，他願意參加與中國國家主席習近平及俄羅斯總統普丁（Vladimir Putin）的3方會談，可能聚焦非核化議題。\n\n路透社報導，川普在白宮外告訴媒體：「我們可以在會中討論...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "川普稱願與習近平普丁3方峰會　可能聚焦非核化",
-     "link": "https://www.cna.com.tw/news/aopl/202610200007.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-10-20T04:23:31+08:00",
-     "description": "（中央社華盛頓19日綜合外電報導）美國總統川普今天表示，他願意參加與中國國家主席習近平及俄羅斯總統普丁（Vladimir Putin）的3方會談，可能聚焦非核化議題。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
      }
     }
    ]
@@ -7830,30 +8015,67 @@
    ]
   },
   {
-   "id": "3b029db8f21f",
-   "title": "iPhone Duo週五開賣遇颱風攪局？果粉哀號：第一次不想放假",
+   "id": "53a42c7d11d7",
+   "title": "西藏那曲規模7強震至少2傷　中國逾2年來最強地震",
    "outlet_count": 5,
    "outlets": [
+    "cna",
+    "ebc",
     "ettoday",
     "ltn",
-    "mirror",
-    "nownews",
-    "udn"
+    "setn"
    ],
-   "article_count": 18,
-   "first_seen": "2026-10-20T08:00:00+08:00",
-   "last_updated": "2026-10-22T20:59:00+08:00",
+   "article_count": 6,
+   "first_seen": "2026-10-22T22:54:00+08:00",
+   "last_updated": "2026-10-23T02:35:14.861271+08:00",
    "tags": [
-    "蘋果"
+    "西藏",
+    "強震",
+    "規模"
+   ],
+   "claims": [
+    {
+     "type": "受傷人數",
+     "agree": true,
+     "outlet_count": 2,
+     "values": [
+      {
+       "value": "2",
+       "outlets": [
+        "中央社",
+        "自由時報"
+       ]
+      }
+     ]
+    }
    ],
    "articles": [
     {
-     "title": "iPhone Duo上市前外觀搶先開箱！無感摺痕？上手握感一次說",
-     "link": "https://www.ettoday.net/news/20261022/3259445.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-10-22T20:59:00+08:00",
-     "description": "蘋果年度重磅新品 iPhone Duo 23日即將上市，首支摺疊在發表會後詢問度就爆棚，台灣開放預約不到十分鐘秒殺、256G 現貨得等到一月才有機會取得。而《ETtoday科技雲》搶先取得 iPhone Duo 實機（夜空色），首篇將以外觀、第一次上手的手感進行開箱分享，現在就一起來看看這隻受到空前矚目的 iPhone Duo介紹吧！\n\n 《詳全文...》",
+     "title": "西藏深夜規模7.0強震 傷亡人數不明",
+     "link": "https://news.ebc.net.tw/news/world/577043",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-10-23T02:35:14.861271+08:00",
+     "description": "中國西藏那曲市巴青縣於今（22）日晚間10點33分左右，發生規模7地震，據了解，當地海拔超過4500公尺，目前傷亡不明。",
+     "category": "world",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "world",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "西藏那曲規模7強震至少2傷　中國逾2年來最強地震",
+     "link": "https://news.ltn.com.tw/news/world/breakingnews/5615808",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-10-23T01:54:03+08:00",
+     "description": "中國地震台網中心表示，西藏北部那曲昨天晚間10時33分發生芮氏規模7.0地震，震源深度10公里，已知至少2人受傷，這是中國自2024年1月以來最強烈的地震。\n\n路透社報導，中國官媒指出，地方...…",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -7861,16 +8083,16 @@
        "source": "unknown"
       },
       "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
      }
     },
     {
-     "title": "明早 8 點開賣！兩大通路證實：iPhone Duo 還有現貨",
-     "link": "https://www.ettoday.net/news/20261022/3259381.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-10-22T17:52:00+08:00",
-     "description": "蘋果首款摺疊機 iPhone Duo 即將在明天（23 日）正式開賣，多數通路以及蘋果官方直營店都已經宣布開賣首日不提供現貨。不過連鎖通訊通路地標網通以及電商 PChome 24h購物皆預告，仍保留少量現貨供消費者搶購。 《詳全文...》",
+     "title": "西藏那曲規模7強震至少2傷　中國逾2年來最強地震",
+     "link": "https://www.cna.com.tw/news/aopl/202610230005.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-10-23T01:40:26+08:00",
+     "description": "（中央社北京23日綜合外電報導）中國地震台網中心表示，西藏北部那曲昨天晚間10時33分發生芮氏規模7.0地震，震源深度10公里，已知至少2人受傷，這是中國自2024年1月以來最強烈的地震。",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -7878,16 +8100,33 @@
        "source": "unknown"
       },
       "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
      }
     },
     {
-     "title": "iPhone Duo明10/23開賣碰停班停課怎辦？蘋果官方：注意電郵通知",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE40Y29xWVhKRkg3U2pETDhkZVBIYUhOMDN6d1BaeV96bmRNOXVPLU55TWc4d09zYjlIaldkUnJad2J3OGJsaHk3dTJ6NEjSAVJBVV95cUxQMUtFN3R5SExnQmE0VUlvamVsbGxHVFZoNDNiV3h3aml1Zk9mN2kyVXR1MlBaYk4tMGVLZmFydDVxLXBhN1h0Mk1VQ0tzbzRTdURn?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-10-22T14:27:58+08:00",
-     "description": "iPhone Duo明10/23開賣碰停班停課怎辦？蘋果官方：注意電郵通知  NOWnews今日新聞",
+     "title": "中國西藏巴青縣發生規模7地震 震源深度10公里",
+     "link": "https://news.ltn.com.tw/news/world/breakingnews/5615780",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-10-22T23:41:40+08:00",
+     "description": "根據中國地震台網的資訊，今天晚間10時33分，西藏那曲市巴青縣發生規模7地震，震源深度10公里。\n\n據中國地震台網資料，震央周邊200公里內近5年來發生3級以上地震共54次。…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "中國西藏發生規模7.0強震！深度僅10公里　傷亡未明",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9Zam1HME40d09pdFROSjVxTDJYMGd1aVZmbXU3ZWdBSDVsWjQwd1VXX0dTbDFyTUt0dU5faHpsZklpaTlpc095ZtIBTEFVX3lxTE1oV0NLZWVEUVp3dW5ESjNKQUliWFhJM2RveEozUHFROWRGUkhGM1RXdGRJUk1XRmczM0ZUa1JVbU83N2RLczIwaVNFMkE?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-10-22T23:12:00+08:00",
+     "description": "中國西藏發生規模7.0強震！深度僅10公里　傷亡未明  三立新聞",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -7895,33 +8134,16 @@
        "source": "unknown"
       },
       "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
-     "title": "iPhone Duo有多耐用？狂摺萬次結果曝光 內螢幕竟藏1缺點",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CQkNkLWtuRHZNMXRxNTREd3RtS2N6WXl5Zzk1bG16UE1IY2tfa3hvQVg5aXZISS1rVjdNQ3RmVkR0dDNNNmIwaDdmQ05tNVhIdTB2MHRYdEdSakpvN2Fj0gFfQVVfeXFMTkJCQ2Qta25Edk0xdHE1NER3dG1LY3pZeXlnOTVsbXpQTUhja19reG9BWDlpdkhJLWtWN01DdGZWRHR0M002YjBoN2ZDTm01WEh1MHYwdFh0R1JqSm83YWM?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-10-22T14:27:53+08:00",
-     "description": "iPhone Duo有多耐用？狂摺萬次結果曝光 內螢幕竟藏1缺點  udn科技玩家",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "iPhone Duo 開賣日強碰薔琵颱風！蘋果：放颱風假將延後取貨",
-     "link": "https://www.ettoday.net/news/20261022/3259189.htm",
+     "title": "西藏發生7.0強震　傷亡不明",
+     "link": "https://www.ettoday.net/news/20261022/3259491.htm",
      "source": "ettoday",
      "source_name": "ETtoday",
-     "published": "2026-10-22T14:27:00+08:00",
-     "description": "蘋果 iPhone Duo 即將在明天正式開賣！沒想到恰好撞上「薔琵颱風」襲來，而北部週五的風雨預測已經達到停班停課標準，有很高機率會放颱風假，屆時果粉拿得到 iPhone Duo 嗎？蘋果官方表示，若遇到颱風假，將會順延取貨。 《詳全文...》",
+     "published": "2026-10-22T22:54:00+08:00",
+     "description": "根據中國地震台網觀測，中國西藏自治區那曲市巴青縣22日10點33分發生7.0地震，震源深度10公里，屬於極淺層地震，是否有災情待進一步調查。 《詳全文...》",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -7930,91 +8152,6 @@
       },
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "蘋果iPhone Duo狂摺3.2萬次會壞嗎？實測結果出乎意料",
-     "link": "https://3c.ltn.com.tw/news/68021",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-10-22T14:26:00+08:00",
-     "description": "蘋果首款摺疊手機iPhone Duo售價74,900元起，雖然吸引不少果粉搶購，但這麼貴的手機，每天摺來摺去，轉軸真的耐用嗎？這也是不少人心中的疑問。不過，蘋果並未像其他品牌一樣，公布iPhone Duo可承受的摺疊次數，如今則有國外實測出爐…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "iPhone Duo摺了1萬次還能用嗎？實測揭曉耐用度與使用隱憂",
-     "link": "https://www.ettoday.net/news/20261022/3258945.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-10-22T10:14:00+08:00",
-     "description": "蘋果首款摺疊手機 iPhone Duo 經得起長時間反覆開合嗎？影視颶風的 Tim 在最新評測影片中，將 iPhone Duo 進行 1 萬次常溫摺疊，再追加 1,000 次、零下 20 度的低溫摺疊測試。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "三星尷尬了！蘋果iPhone Duo傳下週就能用Apple Pencil",
-     "link": "https://3c.ltn.com.tw/news/68010",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-10-22T10:07:00+08:00",
-     "description": "蘋果首款摺疊手機iPhone Duo將於本週五（23日）正式上市，售價74,900元起，雖然價格不便宜，仍吸引不少果粉搶購。現在又有好消息傳出，最快下週就能支援Apple Pencil，讓7.6吋大螢幕發揮更多用途…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "法國暴動洗劫蘋果商店！　笨賊打開iPhone「秒被鎖機+定位報警」",
-     "link": "https://www.ettoday.net/news/20261022/3258888.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-10-22T09:52:00+08:00",
-     "description": "法國爆發大規模抗議與暴動，抗議者甚至趁亂洗劫各大精品門市，連蘋果商店也慘遭闖入。里爾（Lille）的一間蘋果直營店就因此遭大量暴民闖入搶劫，然而，根據網路上一段瘋傳的影片顯示，一名竊賊將搶來的iPhone開機後，螢幕上直接跳出警訊指出，手機已遭遠端鎖死、停用並進行即時定位，甚至警告「警察已獲得通報」，讓搶匪當場變成全網笑柄。\n\n 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "Joeman開箱iPhone Duo驚呼摺痕太神！但也有這些缺點",
-     "link": "https://3c.ltn.com.tw/news/68015",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-10-22T08:15:00+08:00",
-     "description": "蘋果首款摺疊手機iPhone Duo將於本週五（23日）正式上市，售價74,900元起，儘管價格不親民，仍掀起果粉搶購熱潮。知名YouTuber Joeman也搶先開箱實測，對新機的摺痕設計讚不絕口，甚至直呼是目前看過摺痕表現最好的摺疊手機。不過，實際使用後也發現不少不足之處，提醒果粉入手前得先了解這些規格取捨。\n…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
      }
     }
    ]
@@ -8034,9 +8171,9 @@
    "first_seen": "2026-10-22T04:57:33+08:00",
    "last_updated": "2026-10-22T20:57:04+08:00",
    "tags": [
-    "美國擬下令撤",
+    "撤離波灣地區",
     "館人員及家屬",
-    "離波灣地區部"
+    "美國擬下令撤"
    ],
    "articles": [
     {
@@ -9214,7 +9351,7 @@
     },
     {
      "title": "10億買阿拉伯宮只是點心？創見束家狂砸逾45億　超狂房產地圖曝光",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DaEpSOFBQeFBUQ2UwTFdJczQxUHJtZ1AwUWhXQkhhQWpITEZXMGNQbnl4Ulc4M1pEWlUtQUJwUHNPQ295bkxsaHA5M2poVFRxMUHSAVJBVV95cUxNQ2hKUjhQUHhQVENlMExXSXM0MVBybWdQMFFoV0JIYUFqSExGVzBjUG55eFJXODNaRFpVLUFCcFBzT0NveW5MbGhwOTNqaFRUcTFB?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9VUWo5VXlNVnhuamhweVJCVkJPSWNkejdqRnBLS0RCZF9hWHJUSm5aTzJFcVJpSzRFYzAzQWtQX1hELUt3NE50MVZrNHDSAVJBVV95cUxNQ2hKUjhQUHhQVENlMExXSXM0MVBybWdQMFFoV0JIYUFqSExGVzBjUG55eFJXODNaRFpVLUFCcFBzT0NveW5MbGhwOTNqaFRUcTFB?oc=5",
      "source": "nownews",
      "source_name": "今日新聞",
      "published": "2026-10-21T10:23:10+08:00",
@@ -9231,7 +9368,7 @@
     },
     {
      "title": "10億買阿拉伯宮只是點心？創見束家狂砸逾45億　超狂房產地圖曝光",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9VUWo5VXlNVnhuamhweVJCVkJPSWNkejdqRnBLS0RCZF9hWHJUSm5aTzJFcVJpSzRFYzAzQWtQX1hELUt3NE50MVZrNHDSAVJBVV95cUxNQ2hKUjhQUHhQVENlMExXSXM0MVBybWdQMFFoV0JIYUFqSExGVzBjUG55eFJXODNaRFpVLUFCcFBzT0NveW5MbGhwOTNqaFRUcTFB?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DaEpSOFBQeFBUQ2UwTFdJczQxUHJtZ1AwUWhXQkhhQWpITEZXMGNQbnl4Ulc4M1pEWlUtQUJwUHNPQ295bkxsaHA5M2poVFRxMUHSAVJBVV95cUxNQ2hKUjhQUHhQVENlMExXSXM0MVBybWdQMFFoV0JIYUFqSExGVzBjUG55eFJXODNaRFpVLUFCcFBzT0NveW5MbGhwOTNqaFRUcTFB?oc=5",
      "source": "nownews",
      "source_name": "今日新聞",
      "published": "2026-10-21T10:23:10+08:00",
@@ -9334,7 +9471,7 @@
    "last_updated": "2026-10-20T20:41:47.632240+08:00",
    "tags": [
     "清大化學館",
-    "驗室驚傳爆炸",
+    "實驗室驚傳爆",
     "火警"
    ],
    "articles": [
@@ -9423,242 +9560,6 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
-   "id": "4b9f52173758",
-   "title": "俄軍空襲烏克蘭哈爾科夫州一座公園　釀6死含3孩童",
-   "outlet_count": 5,
-   "outlets": [
-    "cna",
-    "ebc",
-    "ettoday",
-    "ltn",
-    "tvbs"
-   ],
-   "article_count": 5,
-   "first_seen": "2026-10-20T04:22:29+08:00",
-   "last_updated": "2026-10-20T06:45:00+08:00",
-   "tags": [
-    "克蘭哈爾科夫",
-    "俄軍空襲烏克",
-    "夫州一座公園"
-   ],
-   "claims": [
-    {
-     "type": "死亡人數",
-     "agree": true,
-     "outlet_count": 5,
-     "values": [
-      {
-       "value": "6",
-       "outlets": [
-        "ETtoday",
-        "TVBS",
-        "中央社",
-        "東森新聞",
-        "自由時報"
-       ]
-      }
-     ]
-    }
-   ],
-   "articles": [
-    {
-     "title": "俄軍空襲烏克蘭哈爾科夫州一座公園 釀6死含3孩童",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE91OVJwekJmeUZMQm5kRlFuVEM4ZTd3UTlOZUtZZ2ZaN0E2dE9qWldGOHh6d0oxT05JazdNSGJCbkdHUzJiSHBuaGJVaHVXQ0k?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-10-20T06:45:00+08:00",
-     "description": "俄軍空襲烏克蘭哈爾科夫州一座公園 釀6死含3孩童  TVBS新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "無辜幼童慘死嬰兒車內！　俄無人機襲烏克蘭公園釀6平民亡",
-     "link": "https://www.ettoday.net/news/20261020/3257534.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-10-20T06:37:00+08:00",
-     "description": "俄烏戰火持續延燒，烏克蘭東北部哈爾科夫州（Kharkiv）20日遭俄羅斯無人機襲擊，一座村莊公園被擊中，造成至少6人死亡，其中包括3名孩童，另有10多人受傷。烏克蘭內政部長指出，事發當時有多個家庭帶著孩子在公園玩耍，突如其來的攻擊釀成重大傷亡。\n 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "俄軍空襲烏克蘭哈爾科夫州一座公園 釀6死含3孩童",
-     "link": "https://news.ebc.net.tw/news/world/576590",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-10-20T06:27:55.557403+08:00",
-     "description": "烏克蘭東北部哈爾科夫州（Kharkiv）州長席尼胡波夫表示，俄羅斯今天出動無人機，襲擊哈爾科夫州一座村莊的公園造成6人喪命，其中包括3名孩童。",
-     "category": "world",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "world",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "俄軍空襲烏克蘭哈爾科夫州一座公園　釀6死含3孩童",
-     "link": "https://news.ltn.com.tw/news/world/breakingnews/5611766",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-10-20T04:30:04+08:00",
-     "description": "俄烏戰火持續延燒之際，烏克蘭東北部哈爾科夫州（Kharkiv）州長席尼胡波夫表示，俄羅斯今天出動無人機，襲擊哈爾科夫州一座村莊的公園造成6人喪命，其中包括3名孩童。\n\n路透社報導，席尼胡波夫...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "俄軍空襲烏克蘭哈爾科夫州一座公園　釀6死含3孩童",
-     "link": "https://www.cna.com.tw/news/aopl/202610200006.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-10-20T04:22:29+08:00",
-     "description": "（中央社基輔19日綜合外電報導）俄烏戰火持續延燒之際，烏克蘭東北部哈爾科夫州（Kharkiv）州長席尼胡波夫表示，俄羅斯今天出動無人機，襲擊哈爾科夫州一座村莊的公園造成6人喪命，其中包括3名孩童。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
-     }
-    }
-   ]
-  },
-  {
-   "id": "53a42c7d11d7",
-   "title": "西藏發生7.0強震　傷亡不明",
-   "outlet_count": 4,
-   "outlets": [
-    "ebc",
-    "ettoday",
-    "ltn",
-    "setn"
-   ],
-   "article_count": 5,
-   "first_seen": "2026-10-22T22:54:00+08:00",
-   "last_updated": "2026-10-23T02:35:14.861271+08:00",
-   "tags": [
-    "西藏",
-    "發生規模",
-    "強震"
-   ],
-   "articles": [
-    {
-     "title": "西藏深夜規模7.0強震 傷亡人數不明",
-     "link": "https://news.ebc.net.tw/news/world/577043",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-10-23T02:35:14.861271+08:00",
-     "description": "中國西藏那曲市巴青縣於今（22）日晚間10點33分左右，發生規模7地震，據了解，當地海拔超過4500公尺，目前傷亡不明。",
-     "category": "world",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "world",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "西藏那曲規模7強震至少2傷　中國逾2年來最強地震",
-     "link": "https://news.ltn.com.tw/news/world/breakingnews/5615808",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-10-23T01:54:03+08:00",
-     "description": "中國地震台網中心表示，西藏北部那曲昨天晚間10時33分發生芮氏規模7.0地震，震源深度10公里，已知至少2人受傷，這是中國自2024年1月以來最強烈的地震。\n\n路透社報導，中國官媒指出，地方...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "中國西藏巴青縣發生規模7地震 震源深度10公里",
-     "link": "https://news.ltn.com.tw/news/world/breakingnews/5615780",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-10-22T23:41:40+08:00",
-     "description": "根據中國地震台網的資訊，今天晚間10時33分，西藏那曲市巴青縣發生規模7地震，震源深度10公里。\n\n據中國地震台網資料，震央周邊200公里內近5年來發生3級以上地震共54次。…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "中國西藏發生規模7.0強震！深度僅10公里　傷亡未明",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9Zam1HME40d09pdFROSjVxTDJYMGd1aVZmbXU3ZWdBSDVsWjQwd1VXX0dTbDFyTUt0dU5faHpsZklpaTlpc095ZtIBTEFVX3lxTE1oV0NLZWVEUVp3dW5ESjNKQUliWFhJM2RveEozUHFROWRGUkhGM1RXdGRJUk1XRmczM0ZUa1JVbU83N2RLczIwaVNFMkE?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-10-22T23:12:00+08:00",
-     "description": "中國西藏發生規模7.0強震！深度僅10公里　傷亡未明  三立新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "西藏發生7.0強震　傷亡不明",
-     "link": "https://www.ettoday.net/news/20261022/3259491.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-10-22T22:54:00+08:00",
-     "description": "根據中國地震台網觀測，中國西藏自治區那曲市巴青縣22日10點33分發生7.0地震，震源深度10公里，屬於極淺層地震，是否有災情待進一步調查。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
      }
     }
    ]
@@ -10138,7 +10039,7 @@
    "tags": [
     "只剩半條命",
     "言蔣萬安有無",
-    "還以為他是唯"
+    "他是唯一共主"
    ],
    "articles": [
     {
@@ -10399,8 +10300,8 @@
    "first_seen": "2026-10-20T09:43:50+08:00",
    "last_updated": "2026-10-21T15:27:16+08:00",
    "tags": [
-    "盧秀燕",
     "蔣萬安",
+    "盧秀燕",
     "主委"
    ],
    "articles": [
@@ -10471,6 +10372,77 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
+   "id": "fbfb29118923",
+   "title": "川普：俄烏戰爭距終戰可能已到最近時刻",
+   "outlet_count": 3,
+   "outlets": [
+    "chinatimes",
+    "setn",
+    "tvbs"
+   ],
+   "article_count": 3,
+   "first_seen": "2026-10-22T05:03:00+08:00",
+   "last_updated": "2026-10-23T04:10:00+08:00",
+   "tags": [
+    "能已到最近時",
+    "俄烏戰爭距終",
+    "川普"
+   ],
+   "articles": [
+    {
+     "title": "美俄烏和談 川普稱離終戰最近的一次",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fMUgwTDdPRGRuMk44UmYyOFp5WmdLakE1dUtXa3lMQV9uRU1KR0dHQUozbjRHbHBNZjVwMlJ1ckJtem9xZmFUSXNlX1hfN2xYYWxnTjc4TjMxMXNPRjBXbnV4NUNjTlBBQ3FR?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-10-23T04:10:00+08:00",
+     "description": "美俄烏和談 川普稱離終戰最近的一次  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "俄烏戰爭距終戰！川普發聲：可能已到最近時刻",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE04azRfRFNNVG53cDJlNVlfVEhQcFExa0ZoN3hQNklHWC1wSW01SnZwWjNDVWlEMExFa0pZRFN1M3M2dDZReGhsU9IBTEFVX3lxTE9qODNpY1Q3dWJCem9kcDdPYTlwZzIzcUlDTUI2Q1BuSC1qZ0JGNTR0dGE5b3BnZzVRWUg1Ykh3cUxfMGNDMk9DLVh0eXE?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-10-22T05:58:00+08:00",
+     "description": "俄烏戰爭距終戰！川普發聲：可能已到最近時刻  三立新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "川普：俄烏戰爭距終戰可能已到最近時刻",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Nc3JrbmpjYnhnMHRFT0h4X0RzSGwxa0RXekhWaUNwbVZFVFVvT2YzekNINVc2WFlGdUFma1V2UnpXVzNjUnRhMngybHZCdzQ?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-10-22T05:03:00+08:00",
+     "description": "川普：俄烏戰爭距終戰可能已到最近時刻  TVBS新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
