@@ -1,269 +1,9 @@
 {
  "date": "2026-10-25",
- "generated_at": "2026-10-25T00:29:35.895982+08:00",
+ "generated_at": "2026-10-25T02:32:32.515103+08:00",
  "events": [
   {
-   "id": "facd36e55ff1",
-   "title": "颱風薔琵逼近  中市府召開整備會議進入防颱模式",
-   "outlet_count": 13,
-   "outlets": [
-    "chinatimes",
-    "cna",
-    "ebc",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "newtalk",
-    "nownews",
-    "pts",
-    "setn",
-    "storm",
-    "tvbs",
-    "udn"
-   ],
-   "article_count": 249,
-   "first_seen": "2026-10-22T00:32:20.290193+08:00",
-   "last_updated": "2026-10-24T23:52:33+08:00",
-   "tags": [
-    "薔琵"
-   ],
-   "claims": [
-    {
-     "type": "風力級數",
-     "agree": false,
-     "outlet_count": 3,
-     "values": [
-      {
-       "value": "8",
-       "outlets": [
-        "中央社"
-       ]
-      },
-      {
-       "value": "15",
-       "outlets": [
-        "新頭殼"
-       ]
-      },
-      {
-       "value": "14",
-       "outlets": [
-        "鏡週刊"
-       ]
-      }
-     ]
-    },
-    {
-     "type": "受傷人數",
-     "agree": false,
-     "outlet_count": 2,
-     "values": [
-      {
-       "value": "12",
-       "outlets": [
-        "ETtoday"
-       ]
-      },
-      {
-       "value": "350",
-       "outlets": [
-        "自由時報"
-       ]
-      }
-     ]
-    },
-    {
-     "type": "金額",
-     "agree": true,
-     "outlet_count": 2,
-     "values": [
-      {
-       "value": "2萬元",
-       "outlets": [
-        "ETtoday",
-        "東森新聞"
-       ]
-      }
-     ]
-    }
-   ],
-   "articles": [
-    {
-     "title": "被薔琵颱風吹垮？恆春大樓陽台整組砸落 這「細節」更驚悚",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5617753",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-10-24T23:52:33+08:00",
-     "description": "薔琵颱風強風狂吹，屏東縣恆春鎮一棟大樓二樓陽台整個砸落路面，所幸當時沒人車行經。而斷面底端只有細細的鋼筋，附近居民擔心，接下來就是落山風季，就怕類似事情重演。\n\n薔琵颱風外...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "快訊》大雨猛灌！氣象署：3縣市防積水坍方 | 生活",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHcWJ3QjlqbndIc3pVa2JrMmhIU3FENzlOSV95dzRfSlRwTFhLMmJiLUYwSWZOajEzWFV6WkpiRUdJeTdOUmplWDg1Zno1M0JwZHNTQkVtbUY5Ync?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-10-24T22:39:22+08:00",
-     "description": "快訊》大雨猛灌！氣象署：3縣市防積水坍方 | 生活  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "「薔」風罕見！17級強陣風吹倒整排電線桿",
-     "link": "https://news.ebc.net.tw/news/living/577363",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-10-24T22:27:32.775194+08:00",
-     "description": "薔琵颱風侵襲宜蘭，五結與三星鄉多支電桿倒塌，曾停電戶數達2萬9133戶。專家分析，眼牆內強對流胞帶來罕見17級強陣風，通訊及交通號誌也受損。",
-     "category": "living",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "living",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "薔琵颱風台中通報逾1600災情 明加開定時定點收運垃圾",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5617688",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-10-24T21:44:05+08:00",
-     "description": "薔琵颱風帶來的強風在台中發威，兩日來通報逾1600件災情，包括路樹倒塌等，台中市連放兩天颱風假，23、24日停收垃圾，為協助民眾災後復原並紓解兩日停收家戶垃圾及廚餘累積情形，台...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "天氣》光復節仍有雨！開工日東北季風增強轉濕涼 北部探20度",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZ2FWWERjT21VSVZkdG5qaUM1OUF0YkpVUkdsQTJaNXdGcEhiTW9xTmtjcmVIYnJiTGItLXdzY01WZ0xYa0daU0JkVC1vQ0J0cnJONzRXS2VsMlVtMTdpalprd19HXzVFMHNfY0xWYjNkTDZkTWcyNnlBeUNNMnNQTkQ3aVVpT1U2cVBlTWpXZw?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-10-24T20:46:20+08:00",
-     "description": "天氣》光復節仍有雨！開工日東北季風增強轉濕涼 北部探20度  中時新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "薔琵颱風海警晚間8：30解除！北台灣仍防豪雨　下周二再轉涼",
-     "link": "https://www.ettoday.net/news/20261024/3260340.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-10-24T20:35:00+08:00",
-     "description": "輕度颱風薔琵持續遠離台灣，中央氣象署今（24日）晚間8時30分解除颱風警報。氣象署指出，根據最新資料，薔琵過去3小時強度減弱、暴風圈縮小，晚間8時中心位置在台北北北東方約360公里處，以每小時17至21公里的速度，向北北東轉東北移動，對台灣北部海面的威脅已解除，不過颱風外圍環流仍會影響台灣，北部及東北部仍須留意降雨。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "台中人明天可以丟垃圾了！10/25加開定時定點收運　查詢方式一覽",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lbWw1N2VvUGVyTDAxWE5uWVk1OFFQYmxHR1lJaWl5RS1QdEZ0OEI5TU5iYkRQcFlQa2YtVnFNb3lnUTIxVVM1eXFIX2hLMnR2N0HSAVJBVV95cUxNZW1sNTdlb1BlckwwMVhObllZNThRUGJsR0dZSWlpeUUtUHRGdDhCOU1OYmJEUHBZUGtmLVZxTW95Z1EyMVVTNXlxSF9oSzJ0djdB?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-10-24T20:03:19+08:00",
-     "description": "台中人明天可以丟垃圾了！10/25加開定時定點收運　查詢方式一覽  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "薔琵颱風外圍環流炸雨彈 北部8縣市慎防豪、大雨",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5617651",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-10-24T19:56:09+08:00",
-     "description": "薔琵颱風海上颱風警報預計今晚8點30分解除，但仍要慎防外圍環流帶來的雨勢。中央氣象署晚間發布豪、大雨特報提醒，今晚到明天，台北市、新北市、桃園市、新竹縣、苗栗縣山區有局部大雨或豪...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "薔琵暴風中心掠過南方澳 宜蘭一度超過2.8萬戶停電",
-     "link": "https://news.pts.org.tw/article/832813",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-10-24T19:53:13+08:00",
-     "description": "薔琵颱風暴風中心掠過宜蘭南方澳，昨（23）日入夜後到今日凌晨風強雨大，造成不少路樹倒塌，還有民宅屋頂整片被吹翻。就連電線桿也被吹得東倒西歪，造成宜蘭停電戶數一度達2.8萬戶；台電表示，受颱風影響，全國停電戶數曾超過34萬戶，目前已復電9成，力拼今晚全數復電。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "8縣市豪大雨特報！颱風外圍環流影響　最新警戒區曝",
-     "link": "https://www.ettoday.net/news/20261024/3260324.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-10-24T19:25:00+08:00",
-     "description": "中央氣象署19:25針對8縣市（更正）發布豪大雨特報，第29號颱風外圍環流影響，易有短延時強降雨，今(24日)晚至明(25)日台北市、新北市、桃園市、新竹縣、苗栗縣山區有局部大雨或豪雨，苗栗以北及宜蘭地區有局部大雨發生的機率，低窪地區請慎防積水，連日降雨，山區請慎防坍方、落石、土石流。\n\n 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    }
-   ]
-  },
-  {
-   "id": "2e949e8bd2aa",
+   "id": "f2743f8488fc",
    "title": "颱風薔琵襲台　蔣萬安：北市今晚至明晨風雨最劇",
    "outlet_count": 13,
    "outlets": [
@@ -281,8 +21,8 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 259,
-   "first_seen": "2026-10-22T01:26:00+08:00",
+   "article_count": 265,
+   "first_seen": "2026-10-22T08:28:13+08:00",
    "last_updated": "2026-10-24T23:50:36+08:00",
    "tags": [
     "新聞網",
@@ -317,6 +57,23 @@
      "source_name": "TVBS",
      "published": "2026-10-24T23:50:36+08:00",
      "description": "颱風薔琵狂掃沖繩! 陣風破紀錄石垣島逾1.2萬戶停電｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網  TVBS新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "川普返佛州站台勤跑鐵票州鞏固基本:出來投票我們就贏｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxVU1EeEJCQlNCak9aQmNUSl9ydlYtZ19XcDhDN2dENUdRNXRYVUx0cnNRVUV1Y0xnNjVuMDBIbG9za3ZFNGR4YV94X2djMlNLd2ZEMWpR?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-10-24T23:50:07+08:00",
+     "description": "川普返佛州站台勤跑鐵票州鞏固基本:出來投票我們就贏｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網  TVBS新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -464,23 +221,6 @@
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
-    },
-    {
-     "title": "天氣/海警解除在即 薔琵持續北上 風雨更緩｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qa214Y1dwemJuSE5yck8yNXNGTDVaWlVOLWFNUHZXX3VUazZSUzJ3Um9Tc1Z5ZkJZaXdzU25yR1I4ZUt4amJsVXZBZnZIekQ3bUVMaWpB?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-10-24T19:24:27+08:00",
-     "description": "天氣/海警解除在即 薔琵持續北上 風雨更緩｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網  TVBS新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
     }
    ]
   },
@@ -503,7 +243,7 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 182,
+   "article_count": 183,
    "first_seen": "2026-10-22T08:08:32+08:00",
    "last_updated": "2026-10-24T23:40:00+08:00",
    "tags": [
@@ -601,6 +341,23 @@
       },
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "颱風薔琵釀新竹逾萬戶停電台電搶修全數復電| 桃竹苗| 地方",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4zTDF6eE9EOVBGcHJidzNiaEtJMURqN3g4aEp3bFl0QU5qVHlhVHBxdEh4eW1fOERNaWtiZUZqcGpqeGxUeC1zVC12clBWVWkz?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-10-24T21:41:20+08:00",
+     "description": "颱風薔琵釀新竹逾萬戶停電台電搶修全數復電| 桃竹苗| 地方  UDN",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
@@ -740,30 +497,13 @@
       "category": "sport",
       "feed_url": "https://news.ebc.net.tw/realtime"
      }
-    },
-    {
-     "title": "薔琵走了！彰化最高逾2萬戶大停電  日夜搶修復電率已97％",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5617592",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-10-24T18:07:12+08:00",
-     "description": "薔琵颱風逐漸離開台灣，今天（24日）下午2點30分氣象署宣布解除陸上颱風警報，這次颱風從22日晚上到今天傍晚5點，彰化縣停電戶數累計最高有2萬285戶，經搶修已有9成7復電，僅...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
     }
    ]
   },
   {
-   "id": "b8e174045f9a",
-   "title": "颱風薔琵來襲　蔣萬安：晚間8時宣布23日是否停班課",
-   "outlet_count": 12,
+   "id": "77e54b79b388",
+   "title": "颱風薔琵逼近  中市府召開整備會議進入防颱模式",
+   "outlet_count": 13,
    "outlets": [
     "chinatimes",
     "cna",
@@ -775,10 +515,277 @@
     "nownews",
     "pts",
     "setn",
+    "storm",
     "tvbs",
     "udn"
    ],
-   "article_count": 169,
+   "article_count": 218,
+   "first_seen": "2026-10-22T05:00:00+08:00",
+   "last_updated": "2026-10-24T22:36:02+08:00",
+   "tags": [
+    "薔琵"
+   ],
+   "claims": [
+    {
+     "type": "風力級數",
+     "agree": false,
+     "outlet_count": 4,
+     "values": [
+      {
+       "value": "8",
+       "outlets": [
+        "中央社"
+       ]
+      },
+      {
+       "value": "15",
+       "outlets": [
+        "新頭殼"
+       ]
+      },
+      {
+       "value": "14",
+       "outlets": [
+        "鏡週刊"
+       ]
+      },
+      {
+       "value": "17",
+       "outlets": [
+        "東森新聞"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "受傷人數",
+     "agree": false,
+     "outlet_count": 2,
+     "values": [
+      {
+       "value": "12",
+       "outlets": [
+        "ETtoday"
+       ]
+      },
+      {
+       "value": "350",
+       "outlets": [
+        "自由時報"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "金額",
+     "agree": true,
+     "outlet_count": 2,
+     "values": [
+      {
+       "value": "2萬元",
+       "outlets": [
+        "ETtoday",
+        "東森新聞"
+       ]
+      }
+     ]
+    }
+   ],
+   "articles": [
+    {
+     "title": "快訊》大雨猛灌！氣象署：3縣市防積水坍方| 生活",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHcWJ3QjlqbndIc3pVa2JrMmhIU3FENzlOSV95dzRfSlRwTFhLMmJiLUYwSWZOajEzWFV6WkpiRUdJeTdOUmplWDg1Zno1M0JwZHNTQkVtbUY5Ync?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-10-24T22:36:02+08:00",
+     "description": "快訊》大雨猛灌！氣象署：3縣市防積水坍方| 生活  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "「薔」風罕見！17級強陣風吹倒整排電線桿",
+     "link": "https://news.ebc.net.tw/news/living/577363",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-10-24T22:27:32.775194+08:00",
+     "description": "薔琵颱風侵襲宜蘭，五結與三星鄉多支電桿倒塌，曾停電戶數達2萬9133戶。專家分析，眼牆內強對流胞帶來罕見17級強陣風，通訊及交通號誌也受損。",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "薔琵颱風台中通報逾1600災情 明加開定時定點收運垃圾",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5617688",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-10-24T21:44:05+08:00",
+     "description": "薔琵颱風帶來的強風在台中發威，兩日來通報逾1600件災情，包括路樹倒塌等，台中市連放兩天颱風假，23、24日停收垃圾，為協助民眾災後復原並紓解兩日停收家戶垃圾及廚餘累積情形，台...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "薔琵海警也解除了！北部山區今晚仍防豪雨 北部沿海浪高3至5米",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lRk41U21sODBFNm1wbHNJY1RLMWpHTWlHb29jNXowczg0aDFRWU5vR0pxT2VxdmhkOVdJdmNiXzhoemtfc1g3aG1mTXBLNGRTVEU1UEgxMDB2ZDg?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-10-24T20:53:03+08:00",
+     "description": "薔琵海警也解除了！北部山區今晚仍防豪雨 北部沿海浪高3至5米  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "天氣》光復節仍有雨！開工日東北季風增強轉濕涼 北部探20度",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZ2FWWERjT21VSVZkdG5qaUM1OUF0YkpVUkdsQTJaNXdGcEhiTW9xTmtjcmVIYnJiTGItLXdzY01WZ0xYa0daU0JkVC1vQ0J0cnJONzRXS2VsMlVtMTdpalprd19HXzVFMHNfY0xWYjNkTDZkTWcyNnlBeUNNMnNQTkQ3aVVpT1U2cVBlTWpXZw?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-10-24T20:46:20+08:00",
+     "description": "天氣》光復節仍有雨！開工日東北季風增強轉濕涼 北部探20度  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "薔琵颱風海警晚間8：30解除！北台灣仍防豪雨　下周二再轉涼",
+     "link": "https://www.ettoday.net/news/20261024/3260340.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-10-24T20:35:00+08:00",
+     "description": "輕度颱風薔琵持續遠離台灣，中央氣象署今（24日）晚間8時30分解除颱風警報。氣象署指出，根據最新資料，薔琵過去3小時強度減弱、暴風圈縮小，晚間8時中心位置在台北北北東方約360公里處，以每小時17至21公里的速度，向北北東轉東北移動，對台灣北部海面的威脅已解除，不過颱風外圍環流仍會影響台灣，北部及東北部仍須留意降雨。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "台中人明天可以丟垃圾了！10/25加開定時定點收運　查詢方式一覽",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lbWw1N2VvUGVyTDAxWE5uWVk1OFFQYmxHR1lJaWl5RS1QdEZ0OEI5TU5iYkRQcFlQa2YtVnFNb3lnUTIxVVM1eXFIX2hLMnR2N0HSAVJBVV95cUxNZW1sNTdlb1BlckwwMVhObllZNThRUGJsR0dZSWlpeUUtUHRGdDhCOU1OYmJEUHBZUGtmLVZxTW95Z1EyMVVTNXlxSF9oSzJ0djdB?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-10-24T20:03:19+08:00",
+     "description": "台中人明天可以丟垃圾了！10/25加開定時定點收運　查詢方式一覽  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "薔琵颱風外圍環流炸雨彈 北部8縣市慎防豪、大雨",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5617651",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-10-24T19:56:09+08:00",
+     "description": "薔琵颱風海上颱風警報預計今晚8點30分解除，但仍要慎防外圍環流帶來的雨勢。中央氣象署晚間發布豪、大雨特報提醒，今晚到明天，台北市、新北市、桃園市、新竹縣、苗栗縣山區有局部大雨或豪...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "薔琵暴風中心掠過南方澳 宜蘭一度超過2.8萬戶停電",
+     "link": "https://news.pts.org.tw/article/832813",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-10-24T19:53:13+08:00",
+     "description": "薔琵颱風暴風中心掠過宜蘭南方澳，昨（23）日入夜後到今日凌晨風強雨大，造成不少路樹倒塌，還有民宅屋頂整片被吹翻。就連電線桿也被吹得東倒西歪，造成宜蘭停電戶數一度達2.8萬戶；台電表示，受颱風影響，全國停電戶數曾超過34萬戶，目前已復電9成，力拼今晚全數復電。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "8縣市豪大雨特報！颱風外圍環流影響　最新警戒區曝",
+     "link": "https://www.ettoday.net/news/20261024/3260324.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-10-24T19:25:00+08:00",
+     "description": "中央氣象署19:25針對8縣市（更正）發布豪大雨特報，第29號颱風外圍環流影響，易有短延時強降雨，今(24日)晚至明(25)日台北市、新北市、桃園市、新竹縣、苗栗縣山區有局部大雨或豪雨，苗栗以北及宜蘭地區有局部大雨發生的機率，低窪地區請慎防積水，連日降雨，山區請慎防坍方、落石、土石流。\n\n 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    }
+   ]
+  },
+  {
+   "id": "b8e174045f9a",
+   "title": "颱風薔琵來襲　蔣萬安：晚間8時宣布23日是否停班課",
+   "outlet_count": 13,
+   "outlets": [
+    "chinatimes",
+    "cna",
+    "ebc",
+    "ettoday",
+    "ltn",
+    "mirror",
+    "newtalk",
+    "nownews",
+    "pts",
+    "setn",
+    "storm",
+    "tvbs",
+    "udn"
+   ],
+   "article_count": 179,
    "first_seen": "2026-10-22T07:17:37+08:00",
    "last_updated": "2026-10-24T21:32:45+08:00",
    "tags": [
@@ -998,6 +1005,23 @@
      }
     },
     {
+     "title": "薔琵重創雲林 張嘉郡赴多鄉鎮勘災 拼復電爭取全品項現金救助 | 夏和宣 | 地方新聞",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8xaXNPRnNIT0swdmRmVFBtTkFCTFpBVHZ5TmYwRUZ5azN2UVBFNExNcHFtSzlSUklOSEc5c2ktUVRtTVZaVU4yVGVJUUQ0dw?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-10-24T18:13:00+08:00",
+     "description": "薔琵重創雲林 張嘉郡赴多鄉鎮勘災 拼復電爭取全品項現金救助 | 夏和宣 | 地方新聞  風傳媒",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
      "title": "颱風薔琵侵襲　全台1死616傷",
      "link": "https://www.cna.com.tw/news/asoc/202610240170.aspx",
      "source": "cna",
@@ -1013,23 +1037,6 @@
       },
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/rsscna/social"
-     }
-    },
-    {
-     "title": "薔琵颱風全台1死616傷 災情突破9000件",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5617545",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-10-24T17:31:04+08:00",
-     "description": "薔琵颱風帶來強風豪雨，中央災害應變中心今天（24日）下午公布最新災情統計數據，截至下午4點40分，全台1人死亡、616人受傷；一般災情通報高達9027件，其中又以民生基礎設施災...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
      }
     }
    ]
@@ -1052,15 +1059,49 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 43,
+   "article_count": 45,
    "first_seen": "2026-10-22T09:36:56+08:00",
-   "last_updated": "2026-10-24T20:02:23+08:00",
+   "last_updated": "2026-10-25T00:24:32+08:00",
    "tags": [
     "沈伯洋",
     "颱風假",
     "脫鉤"
    ],
    "articles": [
+    {
+     "title": "蔣辦酸「市民大道切開南北縫合」出洋相 沈辦引學術研究祭回馬槍",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5617778",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-10-25T00:24:32+08:00",
+     "description": "民進黨籍台北市長候選人沈伯洋22日出席「看見縫隙：讓台北變好的無限可能 公共空間的再定義─從基礎設施、綠意到常民地景」論壇，提到「市民大道是真正意義上把南北切開的高架道路」，如...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "怎麼看颱風假脫鉤股市？最新網路投票一面倒- 政治",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1mTWhYMjRwblZtUWlqb0oxcUNxem1jR1NEUWREbkZMMGdwYnZqRjhna1RsVThLVzhDWWN5WTh4aDZLV2Q5S3hKd19TNHNXb2V6Wm1heGhiWnZqMmN0dFh6NDhPWG8ya1Z2eTZPVEpR?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-10-25T00:16:30+08:00",
+     "description": "怎麼看颱風假脫鉤股市？最新網路投票一面倒- 政治  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
     {
      "title": "時論廣場》人命第一 颱風假怎麼脫鉤（王鳳生）",
      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QUWhFX21PQ3F6OFo5X0tpUkwwd3hmNU5PMmJWT0FRNmZJeXNheF9MQklaV2RTMmtqTWRNMEZ5TmxiMHRGeFpsQWo4VGU5WGFDci1XZlFVQzlUcHptNG1pb2IzUGppQ0U?oc=5",
@@ -1148,7 +1189,7 @@
     },
     {
      "title": "颱風假脫鉤股市？ 你怎麼看",
-     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUldXRDM1NXhfT1Bsd29vckFjNkdsQS1PYmdkTzlWanZITlVrMEFFSnFQSjhHSzQxYjN4Vl9PX01EMkJrM3NBdDJ3TzQ3Z1EtX1ZyNXIxQ2NWdDdQMzR1ZkoyejBQRzRsazVrT1NuVEZJVUs2ajVWc1lNUWVEQzU1dy1uRQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BT212TWhvS0h2SHlzTHN6ZHpqWUhaLTJMMWVyc29xc3NwVGRyZjRUWW9qd2FXMTJTMUhNM3BmRzVOUFBhc3lUdjdrVzVqV19UYUNvNVN0cFplc1BDODJNR2JR?oc=5",
      "source": "chinatimes",
      "source_name": "中時新聞網",
      "published": "2026-10-24T12:37:42+08:00",
@@ -1165,7 +1206,7 @@
     },
     {
      "title": "颱風假脫鉤股市？ 你怎麼看",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BT212TWhvS0h2SHlzTHN6ZHpqWUhaLTJMMWVyc29xc3NwVGRyZjRUWW9qd2FXMTJTMUhNM3BmRzVOUFBhc3lUdjdrVzVqV19UYUNvNVN0cFplc1BDODJNR2JR?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUldXRDM1NXhfT1Bsd29vckFjNkdsQS1PYmdkTzlWanZITlVrMEFFSnFQSjhHSzQxYjN4Vl9PX01EMkJrM3NBdDJ3TzQ3Z1EtX1ZyNXIxQ2NWdDdQMzR1ZkoyejBQRzRsazVrT1NuVEZJVUs2ajVWc1lNUWVEQzU1dy1uRQ?oc=5",
      "source": "chinatimes",
      "source_name": "中時新聞網",
      "published": "2026-10-24T12:37:42+08:00",
@@ -1196,14 +1237,40 @@
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
      }
-    },
+    }
+   ]
+  },
+  {
+   "id": "86324e7737f8",
+   "title": "颱風薔琵逼近　台南市災害應變中心一級開設",
+   "outlet_count": 11,
+   "outlets": [
+    "chinatimes",
+    "cna",
+    "ebc",
+    "ettoday",
+    "ltn",
+    "mirror",
+    "newtalk",
+    "pts",
+    "storm",
+    "tvbs",
+    "udn"
+   ],
+   "article_count": 31,
+   "first_seen": "2026-10-22T11:30:00+08:00",
+   "last_updated": "2026-10-24T23:52:33+08:00",
+   "tags": [
+    "薔琵颱風"
+   ],
+   "articles": [
     {
-     "title": "沈伯洋提颱風假和股市脫勾 他嗆：台北死掉一個人誰負責？",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5616921",
+     "title": "被薔琵颱風吹垮？恆春大樓陽台整組砸落 這「細節」更驚悚",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5617753",
      "source": "ltn",
      "source_name": "自由時報",
-     "published": "2026-10-24T06:20:59+08:00",
-     "description": "薔琵颱風來襲，北市連續放假兩天，民進黨台北市長候選人沈伯洋22日表示，台北市身為金融重鎮，目前股市運作與颱風假並未脫鉤，未來是否針對金融機構訂定不同標準，值得進一步討論。對此，...…",
+     "published": "2026-10-24T23:52:33+08:00",
+     "description": "薔琵颱風強風狂吹，屏東縣恆春鎮一棟大樓二樓陽台整個砸落路面，所幸當時沒人車行經。而斷面底端只有細細的鋼筋，附近居民擔心，接下來就是落山風季，就怕類似事情重演。\n\n薔琵颱風外...…",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -1215,12 +1282,12 @@
      }
     },
     {
-     "title": "沈伯洋拋颱風假與股市脫鉤李四川喊話改革先講配套：不能只顧股市交易| 政治",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1yQThMbXpGSDZEYURXWVJ6QldZM3dCeFRYcldyM2hrTVh0SlZBSkdkbTNlaEdTOTNleHB6VW8yNmJ3Z3htRDhnSg?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-10-24T00:21:00+08:00",
-     "description": "沈伯洋拋颱風假與股市脫鉤李四川喊話改革先講配套：不能只顧股市交易| 政治  三立新聞",
+     "title": "因應颱風來襲！中油啟動防颱應變中心，全台油氣能源「多元調度機制」全面運作| 陳逸群 | 地方新聞",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ibFJyWG1DVHNhandEMndsdU9keWxHeXZ4dGVxQUJXa0p1RS0wbjU0VklKLTVyUmlrSEFLX0lQZDluWnJBUkh6SmFwRVQtQQ?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-10-24T18:15:00+08:00",
+     "description": "因應颱風來襲！中油啟動防颱應變中心，全台油氣能源「多元調度機制」全面運作| 陳逸群 | 地方新聞  風傳媒",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -1228,7 +1295,145 @@
        "source": "unknown"
       },
       "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "薔琵颱風雨中 八德停放小貨車突起火 民眾嚇壞急報案",
+     "link": "https://news.ltn.com.tw/news/society/breakingnews/5617399",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-10-24T16:21:24+08:00",
+     "description": "桃園市八德區中正北路、廣興二路口附近，一輛停在路旁的小貨車於下午1點20分左右突然起火燃燒，由於正值薔琵颱風來襲，現場雨勢不小、車內並沒有人，消防人員到場僅花了10分鐘就將火勢...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "因應薔琵颱風風雨！北部三井OUTLET、購物中心調整至今日下午1點營業",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CLTVyX2UxRTZkcV90aHc0R1JvTU1GdDVMMlZvdXpTaDRod2FWZVU2NEV5NGFGSWNiRmQwRFFfY19SU1B5RnNVNnhJR3NDSmI1Qy1BVmh6SVByblV4?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-10-24T12:10:55+08:00",
+     "description": "因應薔琵颱風風雨！北部三井OUTLET、購物中心調整至今日下午1點營業  UDN",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "八德福國北街臨時攤區遭薔琵颱風吹垮 波及路旁停放轎車",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5617065",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-10-24T09:59:00+08:00",
+     "description": "薔琵颱風來襲，昨晚入夜後風雨變大，桃園市八德區福國北街靠近陸光四村的一排以帳篷、鐵架搭設的臨時攤區被強風吹垮，波及路旁停車格停放的一輛白色轎車，好心的民眾將影片PO上threa...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "薔琵威力驚人！蔣萬安颱風夜返災害應變中心坐鎮幕僚感動曝這一幕- 政治",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13ZkZsZXlCeURxOGZscWx1eGh4d2ZxZUlVYVVJMk5hR0lYSUt2UjVxQTU2dzJCRFNFS0tkX3MxMWpSdy1CbzB3R2lfOHlYdWhrQUZsVTFlZGdDTHFZWTg5TXJvT0lnNlZ1cVdDcTZn?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-10-24T09:51:14+08:00",
+     "description": "薔琵威力驚人！蔣萬安颱風夜返災害應變中心坐鎮幕僚感動曝這一幕- 政治  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "薔琵颱風強風吹垮頂樓鐵柵欄 萬華警方緊急封鎖現場",
+     "link": "https://news.ltn.com.tw/news/society/breakingnews/5616914",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-10-24T00:23:50+08:00",
+     "description": "台北市萬華區西門町今日晚間發生大樓設置的大型鐵架柵欄因承受不住強風吹襲，整片掉落在西寧南路上，目前路面受阻，幸好當時並沒有人車經過，沒有造成人員傷亡。警方已拉起封鎖線，避免有人...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "LIVE／雙北市深夜國家警報！薔琵颱風眼將「觸陸」致災強風",
+     "link": "https://www.ettoday.net/news/20261023/3260002.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-10-23T23:34:00+08:00",
+     "description": "中央氣象署稍早觀測，中度颱風「薔琵」與台灣地形產生交互作用，出現往西偏折情況，移動速度緩慢，有打轉、逆時針畫圈的情況，暴風圈依舊籠罩台灣，今天（23日）深夜11時24分針對雙北市發布「強風告警」，颱風中心即將通過附近，將出現致災強陣風。\n\n 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "颱風薔琵風雨掃全台 賴清德視察災害應變中心｜LIVE",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16MDFnT1hnUWk2TTc3SV9QWjVVaVdraHJJVlE1ZHR3aFRtZkZKU2poYUlxblprcnNaWVNldi1OZVY1Vkw5MVVHMzEtanEzeFJHZFFveEhR?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-10-23T21:55:25+08:00",
+     "description": "颱風薔琵風雨掃全台 賴清德視察災害應變中心｜LIVE  TVBS新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "國家警報大響！氣象署發布強風+巨浪告警 範圍一次看",
+     "link": "https://news.ebc.net.tw/news/living/577192",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-10-23T20:40:26.631766+08:00",
+     "description": "薔琵颱風暴風圈籠罩全台，中央氣象署於今（23）日晚間18時12分針對3縣市發布颱風強風告警訊息，且在18時24分左右，針對8縣市部分區域發布巨浪告警。",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
      }
     }
    ]
@@ -1250,7 +1455,7 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 74,
+   "article_count": 75,
    "first_seen": "2026-10-22T10:02:50+08:00",
    "last_updated": "2026-10-24T20:28:00+08:00",
    "tags": [
@@ -1379,6 +1584,25 @@
      }
     },
     {
+     "title": "薔琵颱風來了 注意強風！3縣市亮紅燈",
+     "link": "https://news.ebc.net.tw/news/living/577228",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-10-24T06:28:06.361022+08:00",
+     "description": "受薔琵颱風及其外圍環流影響，氣象署針對多縣市發布強風特報。基隆、新北及宜蘭局部地區今晚至明日清晨可能出現14級以上陣風，發布紅燈警示嚴加防範。",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
      "title": "10/24停班課百貨營業異動！新光三越、SOGO、台北101下午2點開門",
      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1nV0dEam5ZMWQ4REtLam5TdFdUWTlVS1Y1QURoSmJRTFhXbll5dkNfeEROVUdPZERDS19ZUl9HMWUwRG1YV014Rkx4YkPSAVJBVV95cUxNTWxLRUc0cG1iTXBJWHRzenRVMzdFRTE2MTNyNXdablhHdkFER05YbUs4d09aS3RuZ21PRGJJekxFNFEyTnNNTklHczl3OVRpM1V3?oc=5",
      "source": "nownews",
@@ -1410,23 +1634,6 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "台中新光三越開第一槍　宣布周六10:30開門營業",
-     "link": "https://www.ettoday.net/news/20261023/3259999.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-10-23T23:10:00+08:00",
-     "description": "薔琵颱風威脅仍在，台中市政府宣布明(24)日停止上班上課，但全台百貨店王新光三越中港店搶中部百貨各家之先，稍早宣布，明天早上10點30分正常開門營業。台中其餘百貨尚未宣布。\n 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
      }
     }
    ]
@@ -1653,7 +1860,7 @@
    ]
   },
   {
-   "id": "57eb61e79c80",
+   "id": "341a946dc83f",
    "title": "吳子嘉涉違反選罷法　檢方搜索台北辦公室及住處",
    "outlet_count": 11,
    "outlets": [
@@ -1869,8 +2076,8 @@
    "first_seen": "2026-10-22T06:02:24+08:00",
    "last_updated": "2026-10-24T21:03:00+08:00",
    "tags": [
-    "沈伯洋",
     "蔣萬安",
+    "沈伯洋",
     "民調"
    ],
    "articles": [
@@ -2540,6 +2747,205 @@
    ]
   },
   {
+   "id": "00824decb5a9",
+   "title": "Toyz販毒入獄2年多　獲裁准假釋中保護管束",
+   "outlet_count": 10,
+   "outlets": [
+    "chinatimes",
+    "cna",
+    "ebc",
+    "ettoday",
+    "ltn",
+    "mirror",
+    "newtalk",
+    "nownews",
+    "setn",
+    "udn"
+   ],
+   "article_count": 15,
+   "first_seen": "2026-10-24T06:42:45+08:00",
+   "last_updated": "2026-10-24T16:32:06+08:00",
+   "tags": [
+    "假釋",
+    "獲准"
+   ],
+   "articles": [
+    {
+     "title": "網紅Toyz獲准假釋仍待出監 預估最快「這一天」重獲自由",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZzlNb2hVMGFieldmUXNwNzdsSmJyMUpUd2hUeGJsSVZ5TUtlR1JLLXpFTGlOX2RWVXJLWjJFMUVrWU5reUh3bUZJcVNpSmtKbi15RE1zam1uZnhRMUk5MTd3czE2amxCbkZaRTA4dWt3UmhLT1FBbFJzWFhsUmVDRVo5ZzlfQ0pFLXg2TGRibw?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-10-24T16:32:06+08:00",
+     "description": "網紅Toyz獲准假釋仍待出監 預估最快「這一天」重獲自由  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "網紅Toyz獲准假釋仍待出監 預估最快「這一天」重獲自由",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hcXZERTd2UkJOV3l1UmgzMjFTdy1XXzlRQXVFdi1Cel84YlVxZ0w4Vng3MWZIV1kwVGVZX3hWTy1fZ2F0aXQzOFNIai1XT1otU3NGdVVpYWU0N0FZZnR5eXRLTENZaGtvY0FKRGxn?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-10-24T16:32:06+08:00",
+     "description": "網紅Toyz獲准假釋仍待出監 預估最快「這一天」重獲自由  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "Toyz販毒入獄2年多　獲裁准假釋中保護管束",
+     "link": "https://www.cna.com.tw/news/asoc/202610240098.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-10-24T14:21:40+08:00",
+     "description": "（中央社記者蘇木春台中24日電）前電玩遊戲競技選手Toyz（劉偉健）為販毒案遭判4年2月定讞、入監執行2年多後，獲法務部矯正署核准假釋，台灣高等法院台中分院已裁准假釋中付保護管束，尚待後續行政程序。",
+     "author": "蘇木春",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "蘇木春",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/social"
+     }
+    },
+    {
+     "title": "Toyz 販毒服刑過半獲准假釋 娶篠崎泫成台灣女婿仍恐遭驅逐出境 | 網紅",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yenc0Wmk3R2NuMWZQemg5UHNrX1RzdlBTU0RiTFF4ZGZIRlB0bzBZQ3kzaHJKbzV1S19xNnJlb1M0ODNubVNydXZOdGJTTTFOTV9NNDdNZGpEalk?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-10-24T13:51:40+08:00",
+     "description": "Toyz 販毒服刑過半獲准假釋 娶篠崎泫成台灣女婿仍恐遭驅逐出境 | 網紅  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "Toyz販毒假釋獲准最快11月出獄 獄中娶篠崎泫能擋「驅逐出境」？",
+     "link": "https://news.ebc.net.tw/news/society/577250",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-10-24T12:32:12.504286+08:00",
+     "description": "前《英雄聯盟》世界冠軍Toyz（劉偉健）因販賣大麻菸彈遭判刑4年2個月，入獄服刑2年半後，法務部已於本月19日核准其假釋申請，最快11月即可重獲自由。",
+     "category": "society",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "society",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "Toyz假釋獲准要出來了！　娶篠崎泫能否免遭驅逐出境引熱議",
+     "link": "https://www.ettoday.net/news/20261024/3260147.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-10-24T11:35:00+08:00",
+     "description": "因涉及販售二級毒品大麻菸彈遭判處有期徒刑4年2個月定讞的《英雄聯盟》前世界冠軍Toyz（劉偉健），自2024年5月16日進入監獄服刑後，最新法律進展曝光！根據判決書，法務部週一（19日）發函核准劉偉健的假釋申請，目前全案處於假釋中付保護管束階段，詳細出獄日期則有待矯正機關進一步確認。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "Toyz假釋相關報導",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBZUWlHei1yaGRKd3JudzNlWDhNd1NhYThfYVdYM05CNjNUbFlKNUg4UjVtUTNHb0NpcVZIeTlLcU1OZU01bklDYg?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-10-24T11:34:22+08:00",
+     "description": "Toyz假釋相關報導  三立新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "Toyz申請假釋獲准！彰監證實：收到公文就放人　出獄恐遭驅逐出境？",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5XWjFtSVJrZDAzWGpNZGlKMXhKNXBBRXdDNVRfM3c2eGcyWWFvVkIzR0pmdUVpeHdPOHBWSk5aNlpqbzA2aG9HOdIBTEFVX3lxTFBMcTEySXJyeDdPblpieURnUC13WTV1cXY1TzdkMWczNGpCbkh3QmJVX0JCcFllNkExSkR4THJFeHV1cFZVY2R2MnJDa2I?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-10-24T10:42:00+08:00",
+     "description": "Toyz申請假釋獲准！彰監證實：收到公文就放人　出獄恐遭驅逐出境？  三立新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "Toyz假釋成功了！賣大麻煙彈服刑2年多 台中高分院裁准假釋保護管束",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5yWklWMHpCUDVJaHpncVhKTjJYZmFmWVNLWmMtWm5fbDRHWGQxZVZJb1NicW8xZy15RUgzcWNyNW41LUJKbjFMeW56WWo1NkpV0gFWQVVfeXFMT2kzWWNOSmFodHlZM25KZWxHcDFDZ05wOTQ4X2xCUDdCSnBGUjRnYm10a1Bid2VLbnhCclgxRTZIN01FbDZPbGRuYl9RTHpYYXVmaTRySUE?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-10-24T10:24:53+08:00",
+     "description": "Toyz假釋成功了！賣大麻煙彈服刑2年多 台中高分院裁准假釋保護管束  UDN",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "Toyz入獄2年遭爆假釋成功 恐遣返香港引網友熱議",
+     "link": "https://ent.ltn.com.tw/news/breakingnews/5617059",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-10-24T10:04:04+08:00",
+     "description": "〔娛樂頻道／綜合報導〕網紅「Toyz」劉偉健因販售大麻煙彈遭判刑4年2個月，目前仍在獄中服刑。入獄至今約2年，根據台灣高等檢察署最新裁定，Toyz已於10月19日申請假釋，並付保護管束，引發網友熱議。...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    }
+   ]
+  },
+  {
    "id": "c4ac64c03574",
    "title": "台灣遊客河口湖命案　女嫌：旅途中變熟、去房間想聊天",
    "outlet_count": 9,
@@ -2739,206 +3145,7 @@
    ]
   },
   {
-   "id": "0657da1e0c67",
-   "title": "高考社工師口試延期至26日　其餘類科25日照常舉行",
-   "outlet_count": 9,
-   "outlets": [
-    "chinatimes",
-    "cna",
-    "ebc",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "nownews",
-    "tvbs",
-    "udn"
-   ],
-   "article_count": 22,
-   "first_seen": "2026-10-22T00:35:00+08:00",
-   "last_updated": "2026-10-24T20:43:00+08:00",
-   "tags": [
-    "颱風攪局",
-    "薔琵",
-    "延期"
-   ],
-   "articles": [
-    {
-     "title": "薔琵颱風警報解除　奧萬大、合歡山10／25恢復開園",
-     "link": "https://www.ettoday.net/news/20261024/3260320.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-10-24T20:43:00+08:00",
-     "description": "薔琵颱風已解除陸上海上颱風警報，林業保育署南投分署宣布，原進行預警性休園的奧萬大、合歡山國家森林遊樂區，現場已立即進行環境清理及設施整備作業，預計10月25日上午8時起恢復開園。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "不只利特！吳宗憲確定缺席金鐘獎　颱風攪局撞新加坡演出「遺憾發聲」",
-     "link": "https://star.ettoday.net/news/3260330",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-10-24T19:37:00+08:00",
-     "description": "受到颱風薔琵影響，原訂23日舉行的第61屆金鐘獎節目類頒獎典禮，確定延期至明（25日）登場，戲劇類典禮也順延至26日，突如其來的變動打亂不少藝人的行程。其中，綜藝天王吳宗憲今年與陳漢典、Lulu（黃路梓茵）憑藉《綜藝大熱門》再度入圍「綜藝節目主持人獎」，原本有望與兩位搭檔一同角逐獎項，沒想到典禮臨時延期，恰好撞上他早已安排好的新加坡見面會活動，讓他不得不忍痛缺席。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "颱風攪局！桃園藝術巡演25日龍潭場確定延期",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MaXMydTBZMUY1WFY1LVhXY1lTam0xQUI2NGFRVEYybzA0S0M2ZmRxMUxvQ1NSbXNRTnJRUG95NUJLcEtMM3lxUFAxOFB4T1Fv0gFWQVVfeXFMTk9ya1JpU3RmamcwWjZmRXoxNXFEOXFXV0M4QVRqZ0pvNVdlQkNmbDJYZWV1ekdkRXRRMTlUQ1pwcVF5RE1RVDRmc196ZVVEdnJuamlISHc?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-10-24T10:04:41+08:00",
-     "description": "颱風攪局！桃園藝術巡演25日龍潭場確定延期  UDN",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "薔琵搗亂金鐘61雙典禮皆延期",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBINUNMVVJ4TlFFTWR2bnM5RUwwOTNzVFdURTBnRFhqcDJPVHBpSzZwWV94TThYbnlrQzBvUmZYT2dOQ0hfTUJEWTJHV2JHYmFrWEVJbmttdjc0eEZjc0VKYmlMd1ZoWHZHQkVJ?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-10-24T04:10:00+08:00",
-     "description": "薔琵搗亂金鐘61雙典禮皆延期  中時新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "路跑》受颱風攪局的長榮馬拉松10/25如期舉行嗎？ 官方發布聲明",
-     "link": "https://sports.ltn.com.tw/news/breakingnews/5616877",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-10-23T22:25:19+08:00",
-     "description": "2026長榮航空馬拉松將在10月25日於總統府前盛大開跑，將有約2.4萬人參戰，但因薔琵颱風影響，明天台北市依舊是停班停課，跑者親領物資受阻，也擔心場佈是否來得及因應週日...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "金鐘61受颱風薔琵影響延期　頒獎典禮異動時間曝光",
-     "link": "https://www.mirrormedia.mg/story/20261023edi027",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-10-23T21:20:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "高考社工師口試延期至26日　其餘類科25日照常舉行",
-     "link": "https://www.cna.com.tw/news/aipl/202610230261.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-10-23T21:19:53+08:00",
-     "description": "（中央社記者吳書緯台北23日電）因應颱風薔琵影響，考選部今天表示，原定24日舉行的高考三級公職社會工作師類科第二試口試，因台北市政府已宣布24日停止上班上課，依規定經考選部會同此項考試典試委員長決定，調整至26日舉行。其他原定25日舉行的其餘類科口試則照常舉行。",
-     "author": "吳書緯",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "吳書緯",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
-     }
-    },
-    {
-     "title": "金鐘獎延期…大咖頒獎人證實「抱憾缺席」　薔琵重創典禮！",
-     "link": "https://star.ettoday.net/news/3259975",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-10-23T20:42:00+08:00",
-     "description": "受到颱風薔琵影響，臺北市政府已連續2天停止上班、停止上課，原訂23日舉行的第61屆金鐘獎節目類頒獎典禮確定延至25日舉辦，而戲劇類頒獎典禮則是延到26日週一舉行，星光大道也已改至臺北流行音樂中心表演廳內舉辦，不開放一般民眾進場觀禮。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "中職／颱風攪局再延！台灣大賽G5改週日開打 新賽程曝光",
-     "link": "https://news.ebc.net.tw/news/sport/577203",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-10-23T20:40:26.631766+08:00",
-     "description": "2026台灣大賽賽程再度出現異動！官方今日發布最新延賽公告指出，受到颱風持續影響，總冠軍賽第5戰確定無法如期開打，該場賽事將順延至10月25日（週日）下午17點",
-     "category": "sport",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "sport",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "台灣大賽》薔琵來亂！G5順延至10/25再戰  G7場地未定",
-     "link": "https://sports.ltn.com.tw/news/breakingnews/5616784",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-10-23T20:31:43+08:00",
-     "description": "薔琵颱風侵襲台灣，今天晚上8點台北市宣布明天停班停課，原定明天下午5點05分在台北大巨蛋進行的台灣大賽G5，順延至後天下午5點05分原場地再戰，G6延至下禮拜一下午3點0...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    }
-   ]
-  },
-  {
-   "id": "0925ce6b0ef2",
+   "id": "34811e60cda0",
    "title": "小琉球美人沙灘1男戲水失蹤　海巡搜救中",
    "outlet_count": 9,
    "outlets": [
@@ -3138,400 +3345,8 @@
    ]
   },
   {
-   "id": "de7b418c2969",
-   "title": "颱風薔琵海警發布 最快今中午前後陸警",
-   "outlet_count": 9,
-   "outlets": [
-    "ebc",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "newtalk",
-    "nownews",
-    "pts",
-    "setn",
-    "udn"
-   ],
-   "article_count": 22,
-   "first_seen": "2026-10-22T00:32:20.290193+08:00",
-   "last_updated": "2026-10-24T19:52:39+08:00",
-   "tags": [
-    "薔琵"
-   ],
-   "articles": [
-    {
-     "title": "薔琵釀基隆逾300件災情 警衛亭、地下道磚牆被吹倒",
-     "link": "https://news.pts.org.tw/article/832812",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-10-24T19:52:39+08:00",
-     "description": "在東北角今（24）日早上同樣風浪強勁，船員考量海況，暫時不出港。而颱風也為基隆帶來災情，超過300件的通報，包含人行道磚牆倒塌、鐵皮屋被吹垮，甚至還有鐵皮掛在高壓電塔的纜線上，場面相當危險。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "因應薔琵颱風風雨！北部三井OUTLET、購物中心調整至今日下午1點營業",
-     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CLTVyX2UxRTZkcV90aHc0R1JvTU1GdDVMMlZvdXpTaDRod2FWZVU2NEV5NGFGSWNiRmQwRFFfY19SU1B5RnNVNnhJR3NDSmI1Qy1BVmh6SVByblV4?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-10-24T12:10:55+08:00",
-     "description": "因應薔琵颱風風雨！北部三井OUTLET、購物中心調整至今日下午1點營業  UDN",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "薔琵強風襲基隆！大德廟教壇倒塌砸車　城隍廟磚牆崩落",
-     "link": "https://www.ettoday.net/news/20261024/3260123.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-10-24T11:04:00+08:00",
-     "description": "薔琵颱風為基隆帶來強風豪雨，造成多處災情，除了路樹、燈桿受損，七堵區大德廟前教壇也不敵強風吹襲，整座傾倒並砸中一輛白色休旅車，所幸未造成人員傷亡。此外，忠一路護國城隍廟前人行地下道出口磚牆也發生倒塌。基隆市消防局統計，截至今天（24日）上午7時40分止，共受理336件災害報案，目前已處理129件，另有3532戶停電，相關單位持續進行災後搶修。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "薔琵驚人風雨侵襲！基隆城隍廟旁磚牆倒塌網驚：這次風超大| 社會",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oeEo3Y0hKTlNQam5PUXd4LVhkTTBLZTh6MTBsUFVPbUplT3FaMlJCRXZLY1d3SExQLVhtbXI2bnkwamlyZi1aRXc0eTgySzZpV3NlMkszY2NrSmM?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-10-24T10:37:43+08:00",
-     "description": "薔琵驚人風雨侵襲！基隆城隍廟旁磚牆倒塌網驚：這次風超大| 社會  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "薔琵來襲！城隍廟前磚牆「整片被吹倒」基隆在地人驚呼：風雨大到可怕",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9nRUtxN0J5RWhoN1c0Tm1VY0E5bTlKVFlNMGtZMnl2c1NZeVVJZWM3aDhOemVhcHZMcTdQanA0UG1DUzZ0SllqONIBTEFVX3lxTFBHVW8yRlh4M3RXSDdFTXUybHpiZVNEVzNUc3J0Z3NXVENGQy1kRS1UcGZyb1g4cEtUbzF3Vktrcy0xclJ1azNyZDN1TGw?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-10-24T07:33:00+08:00",
-     "description": "薔琵來襲！城隍廟前磚牆「整片被吹倒」基隆在地人驚呼：風雨大到可怕  三立新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "基隆發颱風強風告警　城隍廟前地下道磚牆「整片被吹倒」",
-     "link": "https://www.ettoday.net/news/20261024/3260004.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-10-24T01:22:00+08:00",
-     "description": "颱風「薔琵」的暴風圈依舊籠罩台灣，基隆市23日晚間吹起驚人強風，氣象署甚至發布颱風強風告警。基隆市忠一路護國城隍廟旁23日晚間發生人行地下道出入口磚牆倒塌，所幸未造成人員死傷，基隆警方及市府人員目前已趕到現場處理。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "薔琵颱風發威 基隆城隍廟旁地下道牆面倒塌",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5616891",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-10-23T23:12:45+08:00",
-     "description": "「薔琵」颱風今晚發飆，基隆海洋廣場對面忠一路護國城隍廟前人行地下道出口牆面，晚上9點多突然倒塌，磚塊散落一地，工務處和環保局人員e到場清理及安全處置。\n\n民進黨基隆市長童子...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "因應薔琵颱風！鹹酥雞嘉年華、壽山萌鬼派對活動順延",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4xTjAtTG55bDhtWlNmUnRWUHhpNEMzSFNrelVickJCU3pZSFp5YUFuR3F5cnJpYU9iSEZUU19KSC1hTkZoaWNZMTRnR3LSAVJBVV95cUxOV0xSdVFQN2ZXWTlHZHpPQnpWWDFOSDAybTBRWmVvRWl3eWFJcEpMNW91eVQyOGRORDJ2YkFpNEZGS0YtSzhWRUNiSlhxR2RvM3NB?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-10-23T21:29:51+08:00",
-     "description": "因應薔琵颱風！鹹酥雞嘉年華、壽山萌鬼派對活動順延  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "薔琵來襲 桃園各大百貨今先後宣布暫停營業",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lVDlDc21mZFpMaHF3TWtjekJFSTA4ZExSYUJRZXlUSVB5SUViSzQ1UmY1dkZsWkQ5X0NRV0htT0NnUHlzWFRaQVNMVXRhUWhU0gFWQVVfeXFMTm9tb1hnd0pMTk5RNGVtZUh6ZG0xZ1loT3RSMnI0alUzcHZSTWNqVThuLXJrS3lvLVZRVXU4dXpIdWtMWlp6S2F2QkstR1NJVlpWaHhTSkE?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-10-23T10:06:22+08:00",
-     "description": "薔琵來襲 桃園各大百貨今先後宣布暫停營業  UDN",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "薔琵來勢洶洶！麗寶、三井台中港OUTLET、豐原太平洋百貨今暫停營業",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5615901",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-10-23T08:49:30+08:00",
-     "description": "薔琵颱風襲台，台中市今（23）停班停課一天，山海線麗寶Outlet Mall、三井台中港OUTLET PARK及豐原太平洋百貨，今日（23）暫停營業一天。\n\n麗寶Outle...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    }
-   ]
-  },
-  {
-   "id": "00824decb5a9",
-   "title": "Toyz販毒入獄2年多　獲裁准假釋中保護管束",
-   "outlet_count": 9,
-   "outlets": [
-    "chinatimes",
-    "cna",
-    "ebc",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "newtalk",
-    "nownews",
-    "setn"
-   ],
-   "article_count": 14,
-   "first_seen": "2026-10-24T06:42:45+08:00",
-   "last_updated": "2026-10-24T16:32:06+08:00",
-   "tags": [
-    "假釋",
-    "獲准"
-   ],
-   "articles": [
-    {
-     "title": "網紅Toyz獲准假釋仍待出監 預估最快「這一天」重獲自由",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZzlNb2hVMGFieldmUXNwNzdsSmJyMUpUd2hUeGJsSVZ5TUtlR1JLLXpFTGlOX2RWVXJLWjJFMUVrWU5reUh3bUZJcVNpSmtKbi15RE1zam1uZnhRMUk5MTd3czE2amxCbkZaRTA4dWt3UmhLT1FBbFJzWFhsUmVDRVo5ZzlfQ0pFLXg2TGRibw?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-10-24T16:32:06+08:00",
-     "description": "網紅Toyz獲准假釋仍待出監 預估最快「這一天」重獲自由  中時新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "網紅Toyz獲准假釋仍待出監 預估最快「這一天」重獲自由",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hcXZERTd2UkJOV3l1UmgzMjFTdy1XXzlRQXVFdi1Cel84YlVxZ0w4Vng3MWZIV1kwVGVZX3hWTy1fZ2F0aXQzOFNIai1XT1otU3NGdVVpYWU0N0FZZnR5eXRLTENZaGtvY0FKRGxn?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-10-24T16:32:06+08:00",
-     "description": "網紅Toyz獲准假釋仍待出監 預估最快「這一天」重獲自由  中時新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "Toyz販毒入獄2年多　獲裁准假釋中保護管束",
-     "link": "https://www.cna.com.tw/news/asoc/202610240098.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-10-24T14:21:40+08:00",
-     "description": "（中央社記者蘇木春台中24日電）前電玩遊戲競技選手Toyz（劉偉健）為販毒案遭判4年2月定讞、入監執行2年多後，獲法務部矯正署核准假釋，台灣高等法院台中分院已裁准假釋中付保護管束，尚待後續行政程序。",
-     "author": "蘇木春",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "蘇木春",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/social"
-     }
-    },
-    {
-     "title": "Toyz 販毒服刑過半獲准假釋 娶篠崎泫成台灣女婿仍恐遭驅逐出境 | 網紅",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yenc0Wmk3R2NuMWZQemg5UHNrX1RzdlBTU0RiTFF4ZGZIRlB0bzBZQ3kzaHJKbzV1S19xNnJlb1M0ODNubVNydXZOdGJTTTFOTV9NNDdNZGpEalk?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-10-24T13:51:40+08:00",
-     "description": "Toyz 販毒服刑過半獲准假釋 娶篠崎泫成台灣女婿仍恐遭驅逐出境 | 網紅  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "Toyz販毒假釋獲准最快11月出獄 獄中娶篠崎泫能擋「驅逐出境」？",
-     "link": "https://news.ebc.net.tw/news/society/577250",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-10-24T12:32:12.504286+08:00",
-     "description": "前《英雄聯盟》世界冠軍Toyz（劉偉健）因販賣大麻菸彈遭判刑4年2個月，入獄服刑2年半後，法務部已於本月19日核准其假釋申請，最快11月即可重獲自由。",
-     "category": "society",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "society",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "Toyz假釋獲准要出來了！　娶篠崎泫能否免遭驅逐出境引熱議",
-     "link": "https://www.ettoday.net/news/20261024/3260147.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-10-24T11:35:00+08:00",
-     "description": "因涉及販售二級毒品大麻菸彈遭判處有期徒刑4年2個月定讞的《英雄聯盟》前世界冠軍Toyz（劉偉健），自2024年5月16日進入監獄服刑後，最新法律進展曝光！根據判決書，法務部週一（19日）發函核准劉偉健的假釋申請，目前全案處於假釋中付保護管束階段，詳細出獄日期則有待矯正機關進一步確認。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "Toyz假釋相關報導",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBZUWlHei1yaGRKd3JudzNlWDhNd1NhYThfYVdYM05CNjNUbFlKNUg4UjVtUTNHb0NpcVZIeTlLcU1OZU01bklDYg?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-10-24T11:34:22+08:00",
-     "description": "Toyz假釋相關報導  三立新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "Toyz申請假釋獲准！彰監證實：收到公文就放人　出獄恐遭驅逐出境？",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5XWjFtSVJrZDAzWGpNZGlKMXhKNXBBRXdDNVRfM3c2eGcyWWFvVkIzR0pmdUVpeHdPOHBWSk5aNlpqbzA2aG9HOdIBTEFVX3lxTFBMcTEySXJyeDdPblpieURnUC13WTV1cXY1TzdkMWczNGpCbkh3QmJVX0JCcFllNkExSkR4THJFeHV1cFZVY2R2MnJDa2I?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-10-24T10:42:00+08:00",
-     "description": "Toyz申請假釋獲准！彰監證實：收到公文就放人　出獄恐遭驅逐出境？  三立新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "Toyz入獄2年遭爆假釋成功 恐遣返香港引網友熱議",
-     "link": "https://ent.ltn.com.tw/news/breakingnews/5617059",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-10-24T10:04:04+08:00",
-     "description": "〔娛樂頻道／綜合報導〕網紅「Toyz」劉偉健因販售大麻煙彈遭判刑4年2個月，目前仍在獄中服刑。入獄至今約2年，根據台灣高等檢察署最新裁定，Toyz已於10月19日申請假釋，並付保護管束，引發網友熱議。...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "Toyz要出來了！假釋獲准付保護管束　娶篠崎泫能否免遭驅逐出境引熱議",
-     "link": "https://www.mirrormedia.mg/story/20261024edi012",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-10-24T09:57:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    }
-   ]
-  },
-  {
-   "id": "80520edfb0a5",
-   "title": "SpaceX財報提振美股　歐股跟進收高",
+   "id": "74dc3a6e6482",
+   "title": "SpaceX及超微財報提振信心　美股收紅",
    "outlet_count": 9,
    "outlets": [
     "chinatimes",
@@ -3544,12 +3359,12 @@
     "storm",
     "tvbs"
    ],
-   "article_count": 31,
-   "first_seen": "2026-10-22T00:30:03+08:00",
+   "article_count": 29,
+   "first_seen": "2026-10-22T04:36:03+08:00",
    "last_updated": "2026-10-24T10:44:00+08:00",
    "tags": [
-    "美股",
-    "台積電"
+    "台積電",
+    "美股"
    ],
    "claims": [
     {
@@ -4152,6 +3967,416 @@
    ]
   },
   {
+   "id": "c094832164ff",
+   "title": "高考社工師口試延期至26日　其餘類科25日照常舉行",
+   "outlet_count": 8,
+   "outlets": [
+    "chinatimes",
+    "cna",
+    "ettoday",
+    "ltn",
+    "mirror",
+    "nownews",
+    "tvbs",
+    "udn"
+   ],
+   "article_count": 18,
+   "first_seen": "2026-10-22T08:22:17+08:00",
+   "last_updated": "2026-10-24T20:43:00+08:00",
+   "tags": [
+    "颱風攪局",
+    "薔琵",
+    "延期"
+   ],
+   "articles": [
+    {
+     "title": "薔琵颱風警報解除　奧萬大、合歡山10／25恢復開園",
+     "link": "https://www.ettoday.net/news/20261024/3260320.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-10-24T20:43:00+08:00",
+     "description": "薔琵颱風已解除陸上海上颱風警報，林業保育署南投分署宣布，原進行預警性休園的奧萬大、合歡山國家森林遊樂區，現場已立即進行環境清理及設施整備作業，預計10月25日上午8時起恢復開園。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "不只利特！吳宗憲確定缺席金鐘獎　颱風攪局撞新加坡演出「遺憾發聲」",
+     "link": "https://star.ettoday.net/news/3260330",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-10-24T19:37:00+08:00",
+     "description": "受到颱風薔琵影響，原訂23日舉行的第61屆金鐘獎節目類頒獎典禮，確定延期至明（25日）登場，戲劇類典禮也順延至26日，突如其來的變動打亂不少藝人的行程。其中，綜藝天王吳宗憲今年與陳漢典、Lulu（黃路梓茵）憑藉《綜藝大熱門》再度入圍「綜藝節目主持人獎」，原本有望與兩位搭檔一同角逐獎項，沒想到典禮臨時延期，恰好撞上他早已安排好的新加坡見面會活動，讓他不得不忍痛缺席。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "颱風攪局！桃園藝術巡演25日龍潭場確定延期",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MaXMydTBZMUY1WFY1LVhXY1lTam0xQUI2NGFRVEYybzA0S0M2ZmRxMUxvQ1NSbXNRTnJRUG95NUJLcEtMM3lxUFAxOFB4T1Fv0gFWQVVfeXFMTk9ya1JpU3RmamcwWjZmRXoxNXFEOXFXV0M4QVRqZ0pvNVdlQkNmbDJYZWV1ekdkRXRRMTlUQ1pwcVF5RE1RVDRmc196ZVVEdnJuamlISHc?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-10-24T10:04:41+08:00",
+     "description": "颱風攪局！桃園藝術巡演25日龍潭場確定延期  UDN",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "薔琵搗亂金鐘61雙典禮皆延期",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBINUNMVVJ4TlFFTWR2bnM5RUwwOTNzVFdURTBnRFhqcDJPVHBpSzZwWV94TThYbnlrQzBvUmZYT2dOQ0hfTUJEWTJHV2JHYmFrWEVJbmttdjc0eEZjc0VKYmlMd1ZoWHZHQkVJ?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-10-24T04:10:00+08:00",
+     "description": "薔琵搗亂金鐘61雙典禮皆延期  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "路跑》受颱風攪局的長榮馬拉松10/25如期舉行嗎？ 官方發布聲明",
+     "link": "https://sports.ltn.com.tw/news/breakingnews/5616877",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-10-23T22:25:19+08:00",
+     "description": "2026長榮航空馬拉松將在10月25日於總統府前盛大開跑，將有約2.4萬人參戰，但因薔琵颱風影響，明天台北市依舊是停班停課，跑者親領物資受阻，也擔心場佈是否來得及因應週日...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "金鐘61受颱風薔琵影響延期　頒獎典禮異動時間曝光",
+     "link": "https://www.mirrormedia.mg/story/20261023edi027",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-10-23T21:20:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "高考社工師口試延期至26日　其餘類科25日照常舉行",
+     "link": "https://www.cna.com.tw/news/aipl/202610230261.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-10-23T21:19:53+08:00",
+     "description": "（中央社記者吳書緯台北23日電）因應颱風薔琵影響，考選部今天表示，原定24日舉行的高考三級公職社會工作師類科第二試口試，因台北市政府已宣布24日停止上班上課，依規定經考選部會同此項考試典試委員長決定，調整至26日舉行。其他原定25日舉行的其餘類科口試則照常舉行。",
+     "author": "吳書緯",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "吳書緯",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
+     }
+    },
+    {
+     "title": "金鐘獎延期…大咖頒獎人證實「抱憾缺席」　薔琵重創典禮！",
+     "link": "https://star.ettoday.net/news/3259975",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-10-23T20:42:00+08:00",
+     "description": "受到颱風薔琵影響，臺北市政府已連續2天停止上班、停止上課，原訂23日舉行的第61屆金鐘獎節目類頒獎典禮確定延至25日舉辦，而戲劇類頒獎典禮則是延到26日週一舉行，星光大道也已改至臺北流行音樂中心表演廳內舉辦，不開放一般民眾進場觀禮。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "台灣大賽》薔琵來亂！G5順延至10/25再戰  G7場地未定",
+     "link": "https://sports.ltn.com.tw/news/breakingnews/5616784",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-10-23T20:31:43+08:00",
+     "description": "薔琵颱風侵襲台灣，今天晚上8點台北市宣布明天停班停課，原定明天下午5點05分在台北大巨蛋進行的台灣大賽G5，順延至後天下午5點05分原場地再戰，G6延至下禮拜一下午3點0...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "薔琵攪局！高考三級公職社工師口試延至10/26",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5616773",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-10-23T20:24:08+08:00",
+     "description": "考選部今（23日）晚間指出，台北市政府已宣布明（24日）停止上班上課，原訂124日舉行的2026年公務人員高等考試三級考試公職社會工作師類科第二試口試，將延期至26日（下週一）...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    }
+   ]
+  },
+  {
+   "id": "bdb0cd5f646b",
+   "title": "在野批僑務會議歡送徐佳青　僑委會：委員連署邀請、未額外花公帑",
+   "outlet_count": 8,
+   "outlets": [
+    "chinatimes",
+    "cna",
+    "ebc",
+    "ettoday",
+    "ltn",
+    "newtalk",
+    "storm",
+    "udn"
+   ],
+   "article_count": 15,
+   "first_seen": "2026-10-23T23:38:27+08:00",
+   "last_updated": "2026-10-24T20:36:55.241083+08:00",
+   "tags": [
+    "徐佳青",
+    "僑委會",
+    "慶生"
+   ],
+   "claims": [
+    {
+     "type": "金額",
+     "agree": true,
+     "outlet_count": 2,
+     "values": [
+      {
+       "value": "1492萬元",
+       "outlets": [
+        "新頭殼",
+        "東森新聞"
+       ]
+      }
+     ]
+    }
+   ],
+   "articles": [
+    {
+     "title": "僑委會1492萬公帑惜別徐佳青？藍白嗆「拍馬屁」",
+     "link": "https://news.ebc.net.tw/news/politics/577349",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-10-24T20:36:55.241083+08:00",
+     "description": "徐佳青請辭後出席僑務委員會議惜別晚宴，因慶生及播放紀念影片遭質疑動用公帑，僑委會則澄清活動由僑務委員自發安排，未增加經費。",
+     "category": "politics",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "politics",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "徐佳青慶生惹議 旅法僑委抱屈：自費準備未動用公帑",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hWnZ0NGR0QUlNRnd0cE1scG9QU3lISElDc3V5dmVzYWZqdXBvbHZnMjJqdFppamJ2TEh3NmxPT25jOHVnZ3RZa3VVLXo4LXpOYXN4TGIyMW9FMmt1MU4zenNGaDJnZUZrNWZHMlp3?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-10-24T19:25:11+08:00",
+     "description": "徐佳青慶生惹議 旅法僑委抱屈：自費準備未動用公帑  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "僑委會遭爆辦徐佳青慶生歡送會喊告 陳智菡再揭：原還安排徐參加僑務會議",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5617574",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-10-24T17:53:01+08:00",
+     "description": "僑委會前委員長徐佳青自請離職後，民眾黨立院黨團主任陳智菡指控，僑委會濫用公帑，在圓山飯店舉行僑務會議期間，替徐佳青辦慶生歡送會，引起僑委會駁斥不實、不排除提告。對此，陳智菡今（...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "先爆公帑歡送慶生陳智菡再揭「僑委會安排徐佳青參與僑務會議」高層異議才取消| 政治 | 要聞",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxcFlVbHlqU1Z1dTlCNHdlY2tHblNKZDI1RnFicUprYkJEckMwZjJNT2RlTEFZVl9wNHh1UHdsMDh6azBIMTIwa1dtdFBEUWdN?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-10-24T16:19:20+08:00",
+     "description": "先爆公帑歡送慶生陳智菡再揭「僑委會安排徐佳青參與僑務會議」高層異議才取消| 政治 | 要聞  UDN",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "先爆公帑歡送慶生 陳智菡再揭「僑委會安排徐佳青參與僑務會議」高層異議才取消",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxcFlVbHlqU1Z1dTlCNHdlY2tHblNKZDI1RnFicUprYkJEckMwZjJNT2RlTEFZVl9wNHh1UHdsMDh6azBIMTIwa1dtdFBEUWdN0gFWQVVfeXFMTkpGX1V5aDllTy1UbFBxZVRwX19hRzRsWS1tZkZVZW5CUklPRi1rN0Mzb3pIalNqclhaZ2RNZVNWYTJSZkc4U0xDUHRuOUJ2dWxPRVh2dUE?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-10-24T16:19:20+08:00",
+     "description": "先爆公帑歡送慶生 陳智菡再揭「僑委會安排徐佳青參與僑務會議」高層異議才取消  UDN",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "包圓山飯店歡送徐佳青還慶生國民黨團：僑委會已經爛到根| 政治",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5US3lIcUZYWlBsOVVUOWNFVGtiVmNoYzdxZGtTd0JHTi1PbzNYNll1bkFGVFVSMUkzWGdia1RGTkhqOFNWS1prOFRVanpfYkFNR0xuN0ZBY3RrU0E?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-10-24T16:03:44+08:00",
+     "description": "包圓山飯店歡送徐佳青還慶生國民黨團：僑委會已經爛到根| 政治  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "在野批僑務會議歡送徐佳青　僑委會：委員連署邀請、未額外花公帑",
+     "link": "https://www.cna.com.tw/news/aipl/202610240119.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-10-24T15:30:26+08:00",
+     "description": "（中央社記者賴于榛台北24日電）在野黨批評，僑委會日前舉辦年度僑務會議，花費公帑為前委員長徐佳青舉辦歡送會加慶生。僑委會今天表示，僑務委員會議惜別晚宴邀請徐佳青出席，是逾百位僑務委員連署表達邀請意願，且以唱歌及播放免費短片慶祝，並未額外支用公務預算。",
+     "author": "賴于榛",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "賴于榛",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
+     }
+    },
+    {
+     "title": "僑務委員惜別晚宴變徐佳青生日趴？僑委會秀百人連署函反擊：民眾黨立委蔡春綢也在場| 鍾秉哲 | 新聞",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5sZC0tcUw5Wk5zbHZ0UUxFTUMyaXNwa1JzM2piMGlYR3VjTkZtV3lKSkxzWlFfbjRGeTN1RVp5UFNIcEhERERXdlRBYzB1dw?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-10-24T15:26:00+08:00",
+     "description": "僑務委員惜別晚宴變徐佳青生日趴？僑委會秀百人連署函反擊：民眾黨立委蔡春綢也在場| 鍾秉哲 | 新聞  風傳媒",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "惜別晚會變徐佳青歡送兼慶生 僑委會揭連署書喊告：皆僑委自發行為",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE93UE90anBiTHBLSnVoZFF2T2N2Rk90QjRCZzV0TjJfUnpKdlN5QnlNZ04wMHBFNXRMS2JwZkZaQTBLMjQzX1BOYmZCZklMQ19t0gFWQVVfeXFMUDdnQm9vLVFHNHppcWEtb1NuZVkyMHA3b2JRMGpkYVcxbWVjUnl5UUxFOFdsNy1KbUEyRUNWcWIwdmJHNE9IMkRBM0JoYW0yb2ppeVRzTnc?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-10-24T15:17:44+08:00",
+     "description": "惜別晚會變徐佳青歡送兼慶生 僑委會揭連署書喊告：皆僑委自發行為  UDN",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "晚宴變徐佳青惜別會？　僑委會：僑務委員連署「未額外動用公帑」",
+     "link": "https://www.ettoday.net/news/20261024/3260226.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-10-24T14:57:00+08:00",
+     "description": "僑委會前委員長徐佳青日前捲入公器私用爭議後請辭，但民眾黨立院黨團主任陳智菡昨爆料，僑委會甫在圓山飯店舉辦僑務委員會議，為因案去職的徐佳青舉辦慶生與歡送會。據此，僑務委員會今（24日）發出聲明表示，本次邀請是應超過百位僑務委員連署表達的邀請意願。當天適逢徐前委員長生日，與會僑務委員自發以共同唱歌及播放免費紀念短片的方式表達祝福，相關活動未額外支用公務預算，亦未增加任何經費支出。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    }
+   ]
+  },
+  {
    "id": "2cb74c77bc14",
    "title": "12縣市今達停班課標準　最新風雨預報",
    "outlet_count": 8,
@@ -4543,220 +4768,7 @@
    ]
   },
   {
-   "id": "bdb0cd5f646b",
-   "title": "在野批僑務會議歡送徐佳青　僑委會：委員連署邀請、未額外花公帑",
-   "outlet_count": 7,
-   "outlets": [
-    "chinatimes",
-    "cna",
-    "ebc",
-    "ettoday",
-    "ltn",
-    "newtalk",
-    "udn"
-   ],
-   "article_count": 14,
-   "first_seen": "2026-10-23T23:38:27+08:00",
-   "last_updated": "2026-10-24T20:36:55.241083+08:00",
-   "tags": [
-    "徐佳青",
-    "僑委會",
-    "慶生"
-   ],
-   "claims": [
-    {
-     "type": "金額",
-     "agree": true,
-     "outlet_count": 2,
-     "values": [
-      {
-       "value": "1492萬元",
-       "outlets": [
-        "新頭殼",
-        "東森新聞"
-       ]
-      }
-     ]
-    }
-   ],
-   "articles": [
-    {
-     "title": "僑委會1492萬公帑惜別徐佳青？藍白嗆「拍馬屁」",
-     "link": "https://news.ebc.net.tw/news/politics/577349",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-10-24T20:36:55.241083+08:00",
-     "description": "徐佳青請辭後出席僑務委員會議惜別晚宴，因慶生及播放紀念影片遭質疑動用公帑，僑委會則澄清活動由僑務委員自發安排，未增加經費。",
-     "category": "politics",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "politics",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "徐佳青慶生惹議 旅法僑委抱屈：自費準備未動用公帑",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hWnZ0NGR0QUlNRnd0cE1scG9QU3lISElDc3V5dmVzYWZqdXBvbHZnMjJqdFppamJ2TEh3NmxPT25jOHVnZ3RZa3VVLXo4LXpOYXN4TGIyMW9FMmt1MU4zenNGaDJnZUZrNWZHMlp3?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-10-24T19:25:11+08:00",
-     "description": "徐佳青慶生惹議 旅法僑委抱屈：自費準備未動用公帑  中時新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "僑委會遭爆辦徐佳青慶生歡送會喊告 陳智菡再揭：原還安排徐參加僑務會議",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5617574",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-10-24T17:53:01+08:00",
-     "description": "僑委會前委員長徐佳青自請離職後，民眾黨立院黨團主任陳智菡指控，僑委會濫用公帑，在圓山飯店舉行僑務會議期間，替徐佳青辦慶生歡送會，引起僑委會駁斥不實、不排除提告。對此，陳智菡今（...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "先爆公帑歡送慶生陳智菡再揭「僑委會安排徐佳青參與僑務會議」高層異議才取消| 政治 | 要聞",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxcFlVbHlqU1Z1dTlCNHdlY2tHblNKZDI1RnFicUprYkJEckMwZjJNT2RlTEFZVl9wNHh1UHdsMDh6azBIMTIwa1dtdFBEUWdN?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-10-24T16:19:20+08:00",
-     "description": "先爆公帑歡送慶生陳智菡再揭「僑委會安排徐佳青參與僑務會議」高層異議才取消| 政治 | 要聞  UDN",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "先爆公帑歡送慶生 陳智菡再揭「僑委會安排徐佳青參與僑務會議」高層異議才取消",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxcFlVbHlqU1Z1dTlCNHdlY2tHblNKZDI1RnFicUprYkJEckMwZjJNT2RlTEFZVl9wNHh1UHdsMDh6azBIMTIwa1dtdFBEUWdN0gFWQVVfeXFMTkpGX1V5aDllTy1UbFBxZVRwX19hRzRsWS1tZkZVZW5CUklPRi1rN0Mzb3pIalNqclhaZ2RNZVNWYTJSZkc4U0xDUHRuOUJ2dWxPRVh2dUE?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-10-24T16:19:20+08:00",
-     "description": "先爆公帑歡送慶生 陳智菡再揭「僑委會安排徐佳青參與僑務會議」高層異議才取消  UDN",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "包圓山飯店歡送徐佳青還慶生國民黨團：僑委會已經爛到根| 政治",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5US3lIcUZYWlBsOVVUOWNFVGtiVmNoYzdxZGtTd0JHTi1PbzNYNll1bkFGVFVSMUkzWGdia1RGTkhqOFNWS1prOFRVanpfYkFNR0xuN0ZBY3RrU0E?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-10-24T16:03:44+08:00",
-     "description": "包圓山飯店歡送徐佳青還慶生國民黨團：僑委會已經爛到根| 政治  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "在野批僑務會議歡送徐佳青　僑委會：委員連署邀請、未額外花公帑",
-     "link": "https://www.cna.com.tw/news/aipl/202610240119.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-10-24T15:30:26+08:00",
-     "description": "（中央社記者賴于榛台北24日電）在野黨批評，僑委會日前舉辦年度僑務會議，花費公帑為前委員長徐佳青舉辦歡送會加慶生。僑委會今天表示，僑務委員會議惜別晚宴邀請徐佳青出席，是逾百位僑務委員連署表達邀請意願，且以唱歌及播放免費短片慶祝，並未額外支用公務預算。",
-     "author": "賴于榛",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "賴于榛",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
-     }
-    },
-    {
-     "title": "惜別晚會變徐佳青歡送兼慶生 僑委會揭連署書喊告：皆僑委自發行為",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE93UE90anBiTHBLSnVoZFF2T2N2Rk90QjRCZzV0TjJfUnpKdlN5QnlNZ04wMHBFNXRMS2JwZkZaQTBLMjQzX1BOYmZCZklMQ19t0gFWQVVfeXFMUDdnQm9vLVFHNHppcWEtb1NuZVkyMHA3b2JRMGpkYVcxbWVjUnl5UUxFOFdsNy1KbUEyRUNWcWIwdmJHNE9IMkRBM0JoYW0yb2ppeVRzTnc?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-10-24T15:17:44+08:00",
-     "description": "惜別晚會變徐佳青歡送兼慶生 僑委會揭連署書喊告：皆僑委自發行為  UDN",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "晚宴變徐佳青惜別會？　僑委會：僑務委員連署「未額外動用公帑」",
-     "link": "https://www.ettoday.net/news/20261024/3260226.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-10-24T14:57:00+08:00",
-     "description": "僑委會前委員長徐佳青日前捲入公器私用爭議後請辭，但民眾黨立院黨團主任陳智菡昨爆料，僑委會甫在圓山飯店舉辦僑務委員會議，為因案去職的徐佳青舉辦慶生與歡送會。據此，僑務委員會今（24日）發出聲明表示，本次邀請是應超過百位僑務委員連署表達的邀請意願。當天適逢徐前委員長生日，與會僑務委員自發以共同唱歌及播放免費紀念短片的方式表達祝福，相關活動未額外支用公務預算，亦未增加任何經費支出。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "千萬會議幫徐佳青慶生僑委會：百名委員連署邀請、視情況採法律行動| 政治",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KZ1BNTC1SYmxDQ2NFMzRXY25fUzlZNlZjdjQ4Und5aWZLSkdMWEt3elZEMlYzb2M3ZlFpU21fSzhWMHhNS1UzRGRwUXE4N0JZYVlDbnlqeTRrRDQ?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-10-24T14:29:22+08:00",
-     "description": "千萬會議幫徐佳青慶生僑委會：百名委員連署邀請、視情況採法律行動| 政治  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
-   "id": "08ca9f321b14",
+   "id": "accb6a62bafd",
    "title": "耳機妹爆深夜私會派翠克疑被帶回家！男友開嗆：別人女友比較好玩嗎？",
    "outlet_count": 7,
    "outlets": [
@@ -4996,12 +5008,12 @@
    ],
    "articles": [
     {
-     "title": "高雄09:25規模4.0極淺層地震！最大震度曝光",
-     "link": "https://news.ebc.net.tw/news/living/577239",
+     "title": "地牛翻身！9:25 高雄發生規模4.0地震",
+     "link": "https://news.ebc.net.tw/news/living/577238",
      "source": "ebc",
      "source_name": "東森新聞",
      "published": "2026-10-24T10:36:53.114226+08:00",
-     "description": "南部地區今早突發有感晃動！中央氣象署地震測報中心最新監測顯示，高雄市桃源區於今天上午9點25分發生芮氏規模4.0地震，震央位於高雄市政府東北方75.7公里位置，",
+     "description": "【地震快訊】 發震時間： 115年10月24日9時25分57秒 中央氣象署發布顯著有感地震最新消息，今(24)日9時25分，發生芮氏規模4.0有感地震，震央位置",
      "category": "living",
      "metadata": {
       "schema_version": 1,
@@ -5015,12 +5027,12 @@
      }
     },
     {
-     "title": "地牛翻身！9:25 高雄發生規模4.0地震",
-     "link": "https://news.ebc.net.tw/news/living/577238",
+     "title": "高雄09:25規模4.0極淺層地震！最大震度曝光",
+     "link": "https://news.ebc.net.tw/news/living/577239",
      "source": "ebc",
      "source_name": "東森新聞",
      "published": "2026-10-24T10:36:53.114226+08:00",
-     "description": "【地震快訊】 發震時間： 115年10月24日9時25分57秒 中央氣象署發布顯著有感地震最新消息，今(24)日9時25分，發生芮氏規模4.0有感地震，震央位置",
+     "description": "南部地區今早突發有感晃動！中央氣象署地震測報中心最新監測顯示，高雄市桃源區於今天上午9點25分發生芮氏規模4.0地震，震央位於高雄市政府東北方75.7公里位置，",
      "category": "living",
      "metadata": {
       "schema_version": 1,
@@ -5104,12 +5116,12 @@
      }
     },
     {
-     "title": "地牛翻身！4:58 花蓮發生規模4.8地震",
-     "link": "https://news.ebc.net.tw/news/living/577231",
+     "title": "地震速報！ 10/24 04:48左右   東部海域發生有感地震",
+     "link": "https://news.ebc.net.tw/news/living/577229",
      "source": "ebc",
      "source_name": "東森新聞",
      "published": "2026-10-24T06:28:06.361022+08:00",
-     "description": "【地震快訊】 發震時間： 115年10月24日4時58分3秒 中央氣象署發布顯著有感地震最新消息，今(24)日4時58分，發生芮氏規模4.8有感地震，震央位置在",
+     "description": "中央氣象署發布， 10/24 04:48左右 ， 東部海域發生有感地震 。預估震度 3 級以上地區： 花蓮",
      "category": "living",
      "metadata": {
       "schema_version": 1,
@@ -5142,12 +5154,12 @@
      }
     },
     {
-     "title": "地震速報！ 10/24 04:48左右   東部海域發生有感地震",
-     "link": "https://news.ebc.net.tw/news/living/577229",
+     "title": "地牛翻身！4:58 花蓮發生規模4.8地震",
+     "link": "https://news.ebc.net.tw/news/living/577231",
      "source": "ebc",
      "source_name": "東森新聞",
      "published": "2026-10-24T06:28:06.361022+08:00",
-     "description": "中央氣象署發布， 10/24 04:48左右 ， 東部海域發生有感地震 。預估震度 3 級以上地區： 花蓮",
+     "description": "【地震快訊】 發震時間： 115年10月24日4時58分3秒 中央氣象署發布顯著有感地震最新消息，今(24)日4時58分，發生芮氏規模4.8有感地震，震央位置在",
      "category": "living",
      "metadata": {
       "schema_version": 1,
@@ -5180,8 +5192,206 @@
    ]
   },
   {
-   "id": "280931b955d7",
-   "title": "中職／台灣大賽延長賽11局分勝負 詹子賢再見安助兄弟續命",
+   "id": "1d41e7dfd1b2",
+   "title": "颱風薔琵逼近　蔣萬安：預估北投士林文山雨勢較大",
+   "outlet_count": 7,
+   "outlets": [
+    "cna",
+    "ebc",
+    "ettoday",
+    "ltn",
+    "mirror",
+    "nownews",
+    "setn"
+   ],
+   "article_count": 14,
+   "first_seen": "2026-10-22T09:32:43+08:00",
+   "last_updated": "2026-10-23T20:40:26.631766+08:00",
+   "tags": [
+    "蔣萬安",
+    "薔琵",
+    "北市"
+   ],
+   "articles": [
+    {
+     "title": "薔琵進逼來勢洶洶 蔣萬安趕場視察防颱整備",
+     "link": "https://news.ebc.net.tw/news/living/577175",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-10-23T20:40:26.631766+08:00",
+     "description": "薔琵颱風的威力不容小覷，臺北市長蔣萬安呼籲市民千萬要注意自身安全，沒事不要外出，同時一早也連趕三個行程，確認團隊的防颱整備工作萬無一失，嚴防災情出現。",
+     "category": "living",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "living",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "薔琵威脅士林、北投！蔣萬安視察區公所盯防颱",
+     "link": "https://news.ebc.net.tw/news/politics/577196",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-10-23T20:40:26.631766+08:00",
+     "description": "蔣萬安視察北投、士林與內湖嚴防薔琵颱風，指出風雨最劇時間往後延；駁斥颱風假政治考量並回應股市脫鉤議題。",
+     "category": "politics",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "politics",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "台北市明天颱風假揭曉！蔣萬安臉書20分鐘灌逾400留言",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE13QkNhOGFrMGdxOHFmb0tmbGJLYXl3RDktal80QUppTVJ3eVhOYXhTNEJPLTZZTjVxVEJSWmprQUZ3OXRad014ddIBTEFVX3lxTFBfNXowbnppUWktUDQ4WVJVMzBPNS00dGwtY1YyQy1nSWxJYTZ1V0IzaDR0cE9rcHlqaVpMRU4yTVJwdnVGUHA5SW9rdVc?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-10-23T20:30:00+08:00",
+     "description": "台北市明天颱風假揭曉！蔣萬安臉書20分鐘灌逾400留言  三立新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "暗示台北市明停班課？羅智強：蔣萬安24日後援會造勢延期",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9SYkIzV0psOVMwWXJpTnQ3UWhPTmYtaW5OWnNVUHJ3ZXFGQnM1TFp5WFFGN3hVU3hpdG9jVjhRRlVIelpqMWdBbHRaWXNDOUZEWkHSAVJBVV95cUxPUmJCM1dKbDlTMFlyaU50N1FoT05mLWluTlpzVVByd2VxRkJzNUxaeVhRRjd4VVN4aXRvY1Y4UUZVSHpaajFnQWx0WllzQzlGRFpB?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-10-23T19:38:36+08:00",
+     "description": "暗示台北市明停班課？羅智強：蔣萬安24日後援會造勢延期  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "北市宣布停班課　蔣萬安臉書「10分鐘留言破千」　網刷一排：拉風的男人",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5JSmpkYUJuV1ZoV0JmdUNQSHhkRVBIVEYta01OWXF1YVBWM1FSazdYaXRUNTZyZWxTeHlyVDV4MnpGeDcwTHBXLdIBTEFVX3lxTE1PMl8tOGxtcUZHRnJBc3liLTBzdTJCSnlSSGdwUkhfZFN0TlQtUHZHMlZVRnE0ZWNvTjNzTG9Pc1FsTGpCdDRCNmN1RkI?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-10-22T20:19:00+08:00",
+     "description": "北市宣布停班課　蔣萬安臉書「10分鐘留言破千」　網刷一排：拉風的男人  三立新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "連放4天！台北市宣布停班停課 蔣萬安赴應變中心開會",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5615590",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-10-22T20:05:53+08:00",
+     "description": "秋颱薔琵持續逼近，台北市政府今（22）日晚間8時宣布，明（23）日停止上班、停止上課。適逢台灣光復節3天連假，部分上班族可望連休4天。同一時間，台北市長蔣萬安在災害應變中心召開...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "新北市明停班停課",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5615586",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-10-22T20:04:50+08:00",
+     "description": "薔琵颱風今天（22日）傍晚已減弱成中颱，但全台都納入陸警範圍，預估明（23日）全台都能感受明顯風雨。新北市政府依據交通部中央氣象署最新天氣預報資料，並經基北北桃共識，於晚上8時...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "薔琵太猛！蔣萬安宣布：台北市明停班停課",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5icExKc2tYdDBYX0kxV3lkQzRQa1RReGdCWUZiT2c2aXZPaGNOMXlnUXVyWGctcmVnWURKX21hV2tNYlR6UGtZWkdtRnR5QllVMUHSAVJBVV95cUxOYnBMSnNrWHQwWF9JMVd5ZEM0UGtUUXhnQllGYk9nNml2T2hjTjF5Z1F1clhnLXJlZ1lESl9tYVdrTWJUelBrWVpHbUZ0eUJZVTFB?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-10-22T20:00:08+08:00",
+     "description": "快訊／薔琵太猛！蔣萬安宣布：台北市明停班停課  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "賴瑞隆明天暫停競選活動  取消車隊掃街",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5615405",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-10-22T18:16:26+08:00",
+     "description": "薔琵颱風逼近，民進黨高雄市長候選人賴瑞隆今（22）日傍晚6點宣布，依據最新的颱風預報，明（23）日將取消車隊掃街，暫停競選活動。\n高市府已於今天下午2點成立災害應變中心一級開...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "薔琵逼近全台警戒！賴瑞隆宣布「明日競選活動全暫停」",
+     "link": "https://www.ettoday.net/news/20261022/3259396.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-10-22T18:08:00+08:00",
+     "description": "薔琵颱風持續接近，全台都將納入警戒範圍。民進黨高雄市長參選人賴瑞隆今（22）日宣布，依據最新的颱風預報，明日將取消車隊掃街，暫停競選活動。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    }
+   ]
+  },
+  {
+   "id": "d3f6376f3a22",
+   "title": "中職／詹子賢再見安打！兄弟擊退味全龍台灣大賽續命",
    "outlet_count": 6,
    "outlets": [
     "ebc",
@@ -5191,8 +5401,8 @@
     "setn",
     "udn"
    ],
-   "article_count": 16,
-   "first_seen": "2026-10-22T00:32:20.290193+08:00",
+   "article_count": 14,
+   "first_seen": "2026-10-22T10:39:39.963787+08:00",
    "last_updated": "2026-10-24T17:15:07+08:00",
    "tags": [
     "台灣大賽",
@@ -6284,200 +6494,6 @@
    ]
   },
   {
-   "id": "1d41e7dfd1b2",
-   "title": "颱風薔琵逼近　蔣萬安：預估北投士林文山雨勢較大",
-   "outlet_count": 6,
-   "outlets": [
-    "cna",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "nownews",
-    "setn"
-   ],
-   "article_count": 12,
-   "first_seen": "2026-10-22T09:32:43+08:00",
-   "last_updated": "2026-10-23T20:30:00+08:00",
-   "tags": [
-    "蔣萬安",
-    "北市",
-    "停班"
-   ],
-   "articles": [
-    {
-     "title": "台北市明天颱風假揭曉！蔣萬安臉書20分鐘灌逾400留言",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE13QkNhOGFrMGdxOHFmb0tmbGJLYXl3RDktal80QUppTVJ3eVhOYXhTNEJPLTZZTjVxVEJSWmprQUZ3OXRad014ddIBTEFVX3lxTFBfNXowbnppUWktUDQ4WVJVMzBPNS00dGwtY1YyQy1nSWxJYTZ1V0IzaDR0cE9rcHlqaVpMRU4yTVJwdnVGUHA5SW9rdVc?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-10-23T20:30:00+08:00",
-     "description": "台北市明天颱風假揭曉！蔣萬安臉書20分鐘灌逾400留言  三立新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "暗示台北市明停班課？羅智強：蔣萬安24日後援會造勢延期",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9SYkIzV0psOVMwWXJpTnQ3UWhPTmYtaW5OWnNVUHJ3ZXFGQnM1TFp5WFFGN3hVU3hpdG9jVjhRRlVIelpqMWdBbHRaWXNDOUZEWkHSAVJBVV95cUxPUmJCM1dKbDlTMFlyaU50N1FoT05mLWluTlpzVVByd2VxRkJzNUxaeVhRRjd4VVN4aXRvY1Y4UUZVSHpaajFnQWx0WllzQzlGRFpB?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-10-23T19:38:36+08:00",
-     "description": "暗示台北市明停班課？羅智強：蔣萬安24日後援會造勢延期  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "北市宣布停班課　蔣萬安臉書「10分鐘留言破千」　網刷一排：拉風的男人",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5JSmpkYUJuV1ZoV0JmdUNQSHhkRVBIVEYta01OWXF1YVBWM1FSazdYaXRUNTZyZWxTeHlyVDV4MnpGeDcwTHBXLdIBTEFVX3lxTE1PMl8tOGxtcUZHRnJBc3liLTBzdTJCSnlSSGdwUkhfZFN0TlQtUHZHMlZVRnE0ZWNvTjNzTG9Pc1FsTGpCdDRCNmN1RkI?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-10-22T20:19:00+08:00",
-     "description": "北市宣布停班課　蔣萬安臉書「10分鐘留言破千」　網刷一排：拉風的男人  三立新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "連放4天！台北市宣布停班停課 蔣萬安赴應變中心開會",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5615590",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-10-22T20:05:53+08:00",
-     "description": "秋颱薔琵持續逼近，台北市政府今（22）日晚間8時宣布，明（23）日停止上班、停止上課。適逢台灣光復節3天連假，部分上班族可望連休4天。同一時間，台北市長蔣萬安在災害應變中心召開...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "新北市明停班停課",
-     "link": "https://news.ltn.com.tw/news/life/breakingnews/5615586",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-10-22T20:04:50+08:00",
-     "description": "薔琵颱風今天（22日）傍晚已減弱成中颱，但全台都納入陸警範圍，預估明（23日）全台都能感受明顯風雨。新北市政府依據交通部中央氣象署最新天氣預報資料，並經基北北桃共識，於晚上8時...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "薔琵太猛！蔣萬安宣布：台北市明停班停課",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5icExKc2tYdDBYX0kxV3lkQzRQa1RReGdCWUZiT2c2aXZPaGNOMXlnUXVyWGctcmVnWURKX21hV2tNYlR6UGtZWkdtRnR5QllVMUHSAVJBVV95cUxOYnBMSnNrWHQwWF9JMVd5ZEM0UGtUUXhnQllGYk9nNml2T2hjTjF5Z1F1clhnLXJlZ1lESl9tYVdrTWJUelBrWVpHbUZ0eUJZVTFB?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-10-22T20:00:08+08:00",
-     "description": "快訊／薔琵太猛！蔣萬安宣布：台北市明停班停課  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "賴瑞隆明天暫停競選活動  取消車隊掃街",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5615405",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-10-22T18:16:26+08:00",
-     "description": "薔琵颱風逼近，民進黨高雄市長候選人賴瑞隆今（22）日傍晚6點宣布，依據最新的颱風預報，明（23）日將取消車隊掃街，暫停競選活動。\n高市府已於今天下午2點成立災害應變中心一級開...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "薔琵逼近全台警戒！賴瑞隆宣布「明日競選活動全暫停」",
-     "link": "https://www.ettoday.net/news/20261022/3259396.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-10-22T18:08:00+08:00",
-     "description": "薔琵颱風持續接近，全台都將納入警戒範圍。民進黨高雄市長參選人賴瑞隆今（22）日宣布，依據最新的颱風預報，明日將取消車隊掃街，暫停競選活動。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "颱風薔琵逼近　蔣萬安：預估北投士林文山雨勢較大",
-     "link": "https://www.cna.com.tw/news/aloc/202610220203.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-10-22T15:13:33+08:00",
-     "description": "（中央社記者葉蓁芸台北22日電）颱風薔琵海陸警齊發，台北市長蔣萬安下午視察防颱整備情形時表示，預估雨勢較大地區包括北投、士林及文山區，今天起至週六是影響最顯著時間，呼籲民眾準備，市府嚴陣以待。",
-     "author": "葉蓁芸",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "葉蓁芸",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/local"
-     }
-    },
-    {
-     "title": "防颱優先！台北是否放颱風假20時公布　蔣萬安：我即刻暫停一切競選活動",
-     "link": "https://www.mirrormedia.mg/story/20261022edi006",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-10-22T10:28:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    }
-   ]
-  },
-  {
    "id": "c2c3b537baaa",
    "title": "中國網紅來台違法宣傳代孕　遭罰20萬驅逐出境",
    "outlet_count": 6,
@@ -6494,8 +6510,8 @@
    "last_updated": "2026-10-23T18:30:22.179853+08:00",
    "tags": [
     "驅逐出境",
-    "網紅來台",
-    "招攬代孕"
+    "招攬代孕",
+    "網紅來台"
    ],
    "claims": [
     {
@@ -7189,7 +7205,7 @@
    ]
   },
   {
-   "id": "be040bd12d8a",
+   "id": "fee690c8b7d1",
    "title": "社子島阿嬤遭影射高薪臨演　自救會陪同控告林杏兒誹謗",
    "outlet_count": 6,
    "outlets": [
@@ -7200,8 +7216,8 @@
     "mirror",
     "setn"
    ],
-   "article_count": 10,
-   "first_seen": "2026-10-22T00:45:51+08:00",
+   "article_count": 9,
+   "first_seen": "2026-10-22T02:59:00+08:00",
    "last_updated": "2026-10-22T16:39:24.965372+08:00",
    "tags": [
     "林杏兒",
@@ -7363,23 +7379,6 @@
       },
       "acquisition": "rss",
       "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "林杏兒抹黑下跪阿嬤領錢演戲還反怪沈伯洋 社子島自救會要告了",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5614296",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-10-22T00:45:51+08:00",
-     "description": "民進黨台北市長候選人沈伯洋日前到社子島參香祈福，遇到在地阿嬤激動下跪陳情，盼他若當選市長能協助解決社子島開發案困境；國民黨當地議員林杏兒竟帶頭抹黑指稱這名阿嬤「領錢演戲」社子島自...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
      }
     }
    ]
@@ -7709,8 +7708,149 @@
    ]
   },
   {
-   "id": "835bb3f1dd2a",
-   "title": "新聞分類總覽- 2026-10-22",
+   "id": "ee78b41730d7",
+   "title": "薔琵釀基隆逾300件災情 警衛亭、地下道磚牆被吹倒",
+   "outlet_count": 5,
+   "outlets": [
+    "ettoday",
+    "ltn",
+    "newtalk",
+    "pts",
+    "setn"
+   ],
+   "article_count": 7,
+   "first_seen": "2026-10-22T10:24:42+08:00",
+   "last_updated": "2026-10-24T19:52:39+08:00",
+   "tags": [
+    "城隍廟",
+    "薔琵",
+    "基隆"
+   ],
+   "articles": [
+    {
+     "title": "薔琵釀基隆逾300件災情 警衛亭、地下道磚牆被吹倒",
+     "link": "https://news.pts.org.tw/article/832812",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-10-24T19:52:39+08:00",
+     "description": "在東北角今（24）日早上同樣風浪強勁，船員考量海況，暫時不出港。而颱風也為基隆帶來災情，超過300件的通報，包含人行道磚牆倒塌、鐵皮屋被吹垮，甚至還有鐵皮掛在高壓電塔的纜線上，場面相當危險。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "薔琵強風襲基隆！大德廟教壇倒塌砸車　城隍廟磚牆崩落",
+     "link": "https://www.ettoday.net/news/20261024/3260123.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-10-24T11:04:00+08:00",
+     "description": "薔琵颱風為基隆帶來強風豪雨，造成多處災情，除了路樹、燈桿受損，七堵區大德廟前教壇也不敵強風吹襲，整座傾倒並砸中一輛白色休旅車，所幸未造成人員傷亡。此外，忠一路護國城隍廟前人行地下道出口磚牆也發生倒塌。基隆市消防局統計，截至今天（24日）上午7時40分止，共受理336件災害報案，目前已處理129件，另有3532戶停電，相關單位持續進行災後搶修。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "薔琵驚人風雨侵襲！基隆城隍廟旁磚牆倒塌網驚：這次風超大| 社會",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oeEo3Y0hKTlNQam5PUXd4LVhkTTBLZTh6MTBsUFVPbUplT3FaMlJCRXZLY1d3SExQLVhtbXI2bnkwamlyZi1aRXc0eTgySzZpV3NlMkszY2NrSmM?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-10-24T10:37:43+08:00",
+     "description": "薔琵驚人風雨侵襲！基隆城隍廟旁磚牆倒塌網驚：這次風超大| 社會  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "薔琵來襲！城隍廟前磚牆「整片被吹倒」基隆在地人驚呼：風雨大到可怕",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9nRUtxN0J5RWhoN1c0Tm1VY0E5bTlKVFlNMGtZMnl2c1NZeVVJZWM3aDhOemVhcHZMcTdQanA0UG1DUzZ0SllqONIBTEFVX3lxTFBHVW8yRlh4M3RXSDdFTXUybHpiZVNEVzNUc3J0Z3NXVENGQy1kRS1UcGZyb1g4cEtUbzF3Vktrcy0xclJ1azNyZDN1TGw?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-10-24T07:33:00+08:00",
+     "description": "薔琵來襲！城隍廟前磚牆「整片被吹倒」基隆在地人驚呼：風雨大到可怕  三立新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "基隆發颱風強風告警　城隍廟前地下道磚牆「整片被吹倒」",
+     "link": "https://www.ettoday.net/news/20261024/3260004.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-10-24T01:22:00+08:00",
+     "description": "颱風「薔琵」的暴風圈依舊籠罩台灣，基隆市23日晚間吹起驚人強風，氣象署甚至發布颱風強風告警。基隆市忠一路護國城隍廟旁23日晚間發生人行地下道出入口磚牆倒塌，所幸未造成人員死傷，基隆警方及市府人員目前已趕到現場處理。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "薔琵颱風發威 基隆城隍廟旁地下道牆面倒塌",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5616891",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-10-23T23:12:45+08:00",
+     "description": "「薔琵」颱風今晚發飆，基隆海洋廣場對面忠一路護國城隍廟前人行地下道出口牆面，晚上9點多突然倒塌，磚塊散落一地，工務處和環保局人員e到場清理及安全處置。\n\n民進黨基隆市長童子...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "薔琵颱風強風發威 台1線後龍段路樹倒塌一度阻通行",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5614545",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-10-22T10:24:42+08:00",
+     "description": "受秋颱薔琵逼近影響，苗栗沿海陣風強勁，苗栗縣台1線後龍鎮路段昨（21）日晚間8點多發生路樹不敵強風倒塌、佔據南向車道影響通行事件。竹南警方獲報趕抵現場指揮交通，更與提供吊車的民...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    }
+   ]
+  },
+  {
+   "id": "20cd06453ab5",
+   "title": "（2026/10/22）12星座日運勢／牡羊擴展新業務　射手凡事親力親為",
    "outlet_count": 5,
    "outlets": [
     "ltn",
@@ -7719,8 +7859,8 @@
     "setn",
     "udn"
    ],
-   "article_count": 14,
-   "first_seen": "2026-10-22T00:35:00+08:00",
+   "article_count": 13,
+   "first_seen": "2026-10-22T06:00:00+08:00",
    "last_updated": "2026-10-24T15:45:48+08:00",
    "tags": [],
    "articles": [
@@ -7911,8 +8051,8 @@
    "first_seen": "2026-10-24T07:55:00+08:00",
    "last_updated": "2026-10-24T14:17:22+08:00",
    "tags": [
-    "登陸",
     "薔琵",
+    "登陸",
     "公里"
    ],
    "articles": [
@@ -8179,7 +8319,7 @@
    "last_updated": "2026-10-24T12:32:12.504286+08:00",
    "tags": [
     "接連施壓伊朗",
-    "最快可能本週",
+    "可能本週末動",
     "美國特使"
    ],
    "articles": [
@@ -9069,7 +9209,7 @@
    "last_updated": "2026-10-23T10:47:00+08:00",
    "tags": [
     "吳子嘉",
-    "傳單男子已遭",
+    "單男子已遭押",
     "鄭朝方"
    ],
    "articles": [
@@ -9177,9 +9317,9 @@
    "first_seen": "2026-10-22T04:57:33+08:00",
    "last_updated": "2026-10-22T20:57:04+08:00",
    "tags": [
-    "離波灣地區部",
-    "館人員及家屬",
-    "美國擬下令撤"
+    "令撤離波灣地",
+    "使館人員及家",
+    "部分"
    ],
    "articles": [
     {
@@ -9426,8 +9566,8 @@
    "first_seen": "2026-10-23T22:09:49+08:00",
    "last_updated": "2026-10-24T21:41:00+08:00",
    "tags": [
-    "道歉",
-    "抄襲"
+    "抄襲",
+    "道歉"
    ],
    "articles": [
     {
@@ -9958,7 +10098,7 @@
    "tags": [
     "美智庫揭中共",
     "沈伯洋",
-    "打壓擴及家屬"
+    "共打壓擴及家"
    ],
    "articles": [
     {
@@ -10106,7 +10246,7 @@
     },
     {
      "title": "河口湖密室殺人！高大成分析台女遭割頸「恐遭下藥」 同團成員返台",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE95dWxJSldPUTVkZW92eHZFaVloSWZhS3B3WjJwMHk2SlcyTC10ZFF0U1FrQkt4ajAycjNYajZ6WHFSM3lMTVlmdHBTaVVyUQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9PSmxWS3NiaUxnVmw1QWt5NHA2SDl3MG4zaUlOVnczZ0VnUTRNMHc0NFhpRzNYYU9xdWk3dDdHVWJ4MElrUXd5NFMxc0NyaUE?oc=5",
      "source": "tvbs",
      "source_name": "TVBS",
      "published": "2026-10-22T08:46:00+08:00",
@@ -10123,7 +10263,7 @@
     },
     {
      "title": "河口湖密室殺人！高大成分析台女遭割頸「恐遭下藥」 同團成員返台",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9PSmxWS3NiaUxnVmw1QWt5NHA2SDl3MG4zaUlOVnczZ0VnUTRNMHc0NFhpRzNYYU9xdWk3dDdHVWJ4MElrUXd5NFMxc0NyaUE?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE95dWxJSldPUTVkZW92eHZFaVloSWZhS3B3WjJwMHk2SlcyTC10ZFF0U1FrQkt4ajAycjNYajZ6WHFSM3lMTVlmdHBTaVVyUQ?oc=5",
      "source": "tvbs",
      "source_name": "TVBS",
      "published": "2026-10-22T08:46:00+08:00",
@@ -10349,94 +10489,6 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
-   "id": "35d51484ce7a",
-   "title": "中國市場急凍、單季由盈轉虧！Volvo股價崩跌30%　再裁員2500人止血",
-   "outlet_count": 3,
-   "outlets": [
-    "ltn",
-    "mirror",
-    "storm"
-   ],
-   "article_count": 4,
-   "first_seen": "2026-10-23T18:30:00+08:00",
-   "last_updated": "2026-10-25T00:07:27+08:00",
-   "tags": [
-    "中國營收腰斬",
-    "裁員",
-    "股價"
-   ],
-   "articles": [
-    {
-     "title": "Volvo汽車Q3中國營收腰斬！轉盈為大虧 計畫裁員2500人",
-     "link": "https://ec.ltn.com.tw/article/breakingnews/5617774",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-10-25T00:07:27+08:00",
-     "description": "「瑞典國寶」富豪汽車（Volvo Cars）23日指出，中國市場變化速度高於預期，衝擊第3季營收，計畫裁員2500人。財報顯示，第3季Volvo中國營收年減近50％。\n\nC...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "這家汽車公司全球大裁員2500人！中國營收腰斬 單季慘虧183億 | 蕭宥宸 | 新聞",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Cc2VJNGZvTng5aGsxRDVNd0syQ2lNZnZEMGtxaFJoY1dQdjVRaXZtb29Ea3lhMzFpTXB6TTd3d0hpOWF6YUJBYjdHUnBSZw?oc=5",
-     "source": "storm",
-     "source_name": "風傳媒",
-     "published": "2026-10-23T22:16:00+08:00",
-     "description": "這家汽車公司全球大裁員2500人！中國營收腰斬 單季慘虧183億 | 蕭宥宸 | 新聞  風傳媒",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "Volvo股價暴跌創新低！執行長坦言：歐美車款在中國市場已無生存空間 | 李靖棠 | 新聞",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE42TUtwTnYyVE9DRVhGZ2hUT0lQN2QyRmFLNjJCekV5Nm10dzYxazB2MjlrRzh4S25CMFFZMW1OTmpWVnJSWHVSNVZxOFJIQQ?oc=5",
-     "source": "storm",
-     "source_name": "風傳媒",
-     "published": "2026-10-23T21:10:00+08:00",
-     "description": "Volvo股價暴跌創新低！執行長坦言：歐美車款在中國市場已無生存空間 | 李靖棠 | 新聞  風傳媒",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "中國市場急凍、單季由盈轉虧！Volvo股價崩跌30%　再裁員2500人止血",
-     "link": "https://www.mirrormedia.mg/story/20261023edi032",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-10-23T18:30:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
      }
     }
    ]
