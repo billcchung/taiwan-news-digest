@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T06:22:23.971813+08:00",
+ "generated_at": "2026-11-17T08:42:46.929570+08:00",
  "sources": [
   {
    "id": "cna",
@@ -21,7 +21,7 @@
    "id": "udn",
    "name": "聯合新聞網",
    "ok": true,
-   "count": 100,
+   "count": 99,
    "via_fallback": true,
    "errors": []
   },
@@ -36,10 +36,12 @@
   {
    "id": "chinatimes",
    "name": "中時新聞網",
-   "ok": true,
-   "count": 100,
-   "via_fallback": true,
-   "errors": []
+   "ok": false,
+   "count": 0,
+   "via_fallback": false,
+   "errors": [
+    "fallback: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+   ]
   },
   {
    "id": "ettoday",
@@ -52,12 +54,10 @@
   {
    "id": "tvbs",
    "name": "TVBS",
-   "ok": false,
-   "count": 0,
-   "via_fallback": false,
-   "errors": [
-    "fallback: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-   ]
+   "ok": true,
+   "count": 100,
+   "via_fallback": true,
+   "errors": []
   },
   {
    "id": "setn",
@@ -71,7 +71,7 @@
    "id": "ebc",
    "name": "東森新聞",
    "ok": true,
-   "count": 14,
+   "count": 15,
    "via_fallback": false,
    "errors": []
   },
@@ -94,28 +94,30 @@
   {
    "id": "storm",
    "name": "風傳媒",
-   "ok": true,
-   "count": 100,
-   "via_fallback": true,
-   "errors": []
-  },
-  {
-   "id": "newtalk",
-   "name": "新頭殼",
-   "ok": true,
-   "count": 99,
-   "via_fallback": true,
-   "errors": []
-  },
-  {
-   "id": "nownews",
-   "name": "今日新聞",
    "ok": false,
    "count": 0,
    "via_fallback": false,
    "errors": [
-    "fallback: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+    "fallback: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
    ]
+  },
+  {
+   "id": "newtalk",
+   "name": "新頭殼",
+   "ok": false,
+   "count": 0,
+   "via_fallback": false,
+   "errors": [
+    "fallback: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+   ]
+  },
+  {
+   "id": "nownews",
+   "name": "今日新聞",
+   "ok": true,
+   "count": 100,
+   "via_fallback": true,
+   "errors": []
   }
  ]
 }
