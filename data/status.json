@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-17T12:24:37.976318+08:00",
+ "generated_at": "2026-11-17T14:33:05.608505+08:00",
  "sources": [
   {
    "id": "cna",
    "name": "中央社",
    "ok": true,
-   "count": 75,
+   "count": 77,
    "via_fallback": false,
    "errors": []
   },
@@ -21,7 +21,7 @@
    "id": "udn",
    "name": "聯合新聞網",
    "ok": true,
-   "count": 99,
+   "count": 100,
    "via_fallback": true,
    "errors": []
   },
@@ -52,10 +52,12 @@
   {
    "id": "tvbs",
    "name": "TVBS",
-   "ok": true,
-   "count": 100,
-   "via_fallback": true,
-   "errors": []
+   "ok": false,
+   "count": 0,
+   "via_fallback": false,
+   "errors": [
+    "fallback: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+   ]
   },
   {
    "id": "setn",
@@ -69,7 +71,7 @@
    "id": "ebc",
    "name": "東森新聞",
    "ok": true,
-   "count": 13,
+   "count": 14,
    "via_fallback": false,
    "errors": []
   },
@@ -77,7 +79,7 @@
    "id": "mirror",
    "name": "鏡週刊",
    "ok": true,
-   "count": 139,
+   "count": 140,
    "via_fallback": false,
    "errors": []
   },
@@ -100,18 +102,22 @@
   {
    "id": "newtalk",
    "name": "新頭殼",
-   "ok": true,
-   "count": 99,
-   "via_fallback": true,
-   "errors": []
+   "ok": false,
+   "count": 0,
+   "via_fallback": false,
+   "errors": [
+    "fallback: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+   ]
   },
   {
    "id": "nownews",
    "name": "今日新聞",
-   "ok": true,
-   "count": 100,
-   "via_fallback": true,
-   "errors": []
+   "ok": false,
+   "count": 0,
+   "via_fallback": false,
+   "errors": [
+    "fallback: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+   ]
   }
  ]
 }
