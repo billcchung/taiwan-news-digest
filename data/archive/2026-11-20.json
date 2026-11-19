@@ -1,209 +1,7 @@
 {
  "date": "2026-11-20",
- "generated_at": "2026-11-20T00:24:43.526112+08:00",
+ "generated_at": "2026-11-20T02:27:04.774691+08:00",
  "events": [
-  {
-   "id": "dd3cccdb068f",
-   "title": "美中俄三方會談成APEC重頭戲　貿易俄烏與核武受關注",
-   "outlet_count": 13,
-   "outlets": [
-    "chinatimes",
-    "cna",
-    "ebc",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "newtalk",
-    "nownews",
-    "pts",
-    "setn",
-    "storm",
-    "tvbs",
-    "udn"
-   ],
-   "article_count": 136,
-   "first_seen": "2026-11-17T05:30:00+08:00",
-   "last_updated": "2026-11-20T00:24:43.526112+08:00",
-   "tags": [
-    "習近平",
-    "川普"
-   ],
-   "articles": [
-    {
-     "title": "習近平APEC峰會演說 川普閉目養神疑似睡著",
-     "link": "https://news.ebc.net.tw/news/world/581535",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-11-20T00:24:43.526112+08:00",
-     "description": "深圳APEC峰會19日登場，習近平親自迎接各國領袖，並發表開放合作演說，川普卻被拍到疑似打瞌睡，施振榮則把握機會與多國領袖互動。",
-     "category": "world",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "world",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "俄烏戰爭曙光？普丁美中俄峰會後發聲：同意美國的妥協方案",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9DQXRVQ0ZWUG1oSjhwUV83YlN6ZkJpUVF3aWxMY2hubGZjUERFdzgya0NXZldPMWRtR2ZoNFZJYkQwaHN3NHF3c9IBTEFVX3lxTE5Ld1FMMmdqMXY4dVpqRGVsSHBKSWZtQnFzcGx4UUZZdFFOVHcwdmZUaDIzeTJtQ2VEX0JvdzZVZS1wUzhQV2pMbUZTNzM?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-11-19T23:11:00+08:00",
-     "description": "俄烏戰爭曙光？普丁美中俄峰會後發聲：同意美國的妥協方案  三立新聞網SETN.com",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "美中俄峰會後 高市早苗與川普通話",
-     "link": "https://news.ltn.com.tw/news/world/breakingnews/5646980",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-11-19T22:45:06+08:00",
-     "description": "日本首相高市早苗今晚與美國總統川普舉行電話會談，這是川普今天在中國深圳與中國國家主席習近平、俄羅斯總統普廷，舉行史上首次美中俄三國領袖峰會後，日美領袖首次直接溝通。...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "稱美中俄峰會「寫新頁」 普廷駁瓜分說：雅爾達會議有什麼不好",
-     "link": "https://news.ltn.com.tw/news/world/breakingnews/5646971",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-11-19T22:30:45+08:00",
-     "description": "美國總統川普、中國國家主席習近平和俄羅斯總統普廷，19日在中國深圳舉行史無前例的美中俄三國元首峰會。普廷會後被問到，這場峰會被與雅爾達會議相提並論，不以為然反問，「雅爾達（會議...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "美中俄三方峰會後 川普與高市早苗通話",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBweGtWd1dINTNrSHQwZzFwV2RHclBmdTRlN2FIRzA2OF9VRU0ydWVQRHkyVDJTb1UyLVZDVTJ2NFJ5b2tJWGZ3blRQRDlRaVF1aGpJ0gFYQVVfeXFMUC1KWkJURzl6Z2pseUlHazdWbGJhejYwV3pMMzZoUVJvYUZ6bFRlUHZoZUFQN3A0S0ZwUlVETkZEbkc5c211WHZ3cUpoTHo3eFZld2dwRk0yaA?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-11-19T22:23:42+08:00",
-     "description": "美中俄三方峰會後 川普與高市早苗通話  udn",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "安華APEC籲強化多邊貿易　深化區域整合共享繁榮",
-     "link": "https://www.cna.com.tw/news/aopl/202611190364.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-11-19T20:51:11+08:00",
-     "description": "（中央社記者黃自強吉隆坡19日專電）馬來西亞首相安華今天在亞太經濟合作會議（APEC）經濟領袖會議中表示，地緣政治緊張日益加劇之際，必須支持並維護開放與經濟合作；呼籲強化以法律及規則為基礎的多邊貿易體系與運作機制，深化區域經濟整合，確保貿易持續為所有人創造機會。",
-     "author": "黃自強",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "黃自強",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
-     }
-    },
-    {
-     "title": "美中俄峰會》俄記者搶問是「雅爾達2.0」？普丁點頭認同- 國際",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83S0N3c25YSm5PckxFcWFwTy1wbFNQN2g5WHoxZ3ZJNW5HMVBWRnlTUlkzdFlRdlRVTVVfNGFncUFZM3RzRXlyMHEzOVczdkNsNWxrWmg0djVUdVhPZHIwSHJPUE5fSUdVMnc?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-11-19T20:43:13+08:00",
-     "description": "美中俄峰會》俄記者搶問是「雅爾達2.0」？普丁點頭認同- 國際  旺得富理財網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "台加貿易協議停擺逾一年 總理卡尼盼盡快完成簽署",
-     "link": "https://news.pts.org.tw/article/836526",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-11-19T20:26:51+08:00",
-     "description": "加拿大總理卡尼訪問中國，會見習近平後，加、中隨即宣布擴大關稅減免等合作，要推動經貿關係回溫。同時，台灣也是加拿大在亞洲第6大貿易夥伴，雙方去（2025）年3月完成《貿易合作架構協議》協商後，1年多以來進入停擺狀態，引發加國媒體質疑，卡關是否有中國因素？卡尼雖未說明原因，但表示也希望很快就能完成簽署。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "美中俄峰會落幕 學者：美國對台政策不因此改變",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5646827",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-11-19T19:42:22+08:00",
-     "description": "APEC經濟領袖峰會期間，美國總統川普與中國國家主席習近平舉行會談，並與俄羅斯總統普丁進行三方會晤，外界關注會談對台海與印太局勢的影響。中正大學政治系蔡榮祥教授分析，此次會談雖...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "貼心畫面網瘋傳！川普突轉身 伸手牽習近平上電扶梯",
-     "link": "https://news.ltn.com.tw/news/world/breakingnews/5646575",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-11-19T19:37:33+08:00",
-     "description": "美國總統川普（Donald Trump）抵達中國深圳出席亞太經濟合作會議（APEC）經濟領袖會議，並參與備受矚目的美中雙邊會談及美中俄三方峰會。今（19）日上午兩人一同搭...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    }
-   ]
-  },
   {
    "id": "b21a68f5e176",
    "title": "中加領袖APEC峰會前會晤　同意進一步減免關稅",
@@ -223,7 +21,7 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 202,
+   "article_count": 225,
    "first_seen": "2026-11-17T08:52:02+08:00",
    "last_updated": "2026-11-20T00:24:43.526112+08:00",
    "tags": [],
@@ -265,6 +63,23 @@
      }
     },
     {
+     "title": "稱「台灣有事」是假設性問題 高市：「日中聯合聲明」立場不變",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8yQkJDVlRnd1J3T2Q0NGx3RWFyaEZsQWhtMndrR2d4TXdkUGlVRk11R0t6TTNLWGJtOXoyU2FfVVJTUzJ5TmdVbHBVZzBNZzg20gFWQVVfeXFMUG5FeGpwbTRKbngySmFPOEhOQ3BoT0pzQmNJSUk5bFBRV0ViWjJfUEZSWjJnYVpNMHRaZmF5c05wM05udlEzQXV0clA1ckhWazQ0Z3hmLWc?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-11-20T00:00:11+08:00",
+     "description": "稱「台灣有事」是假設性問題 高市：「日中聯合聲明」立場不變  UDN",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
      "title": "施振榮抵台談APEC! 脫稿嘆壓力大「血壓偏高」｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuajlTSHdQeFRrYXJDOTB5b2Mta0hZZFFuRi1ReDBXRDRsVkFrdE5ZTjRzNFI2Q081bk1OMHo1WmVFQ3NKcTlqV2paaFcwQmg5RDVpaGtn?oc=5",
      "source": "tvbs",
@@ -288,6 +103,23 @@
      "source_name": "TVBS",
      "published": "2026-11-19T23:27:23+08:00",
      "description": "爆故宮想在屋頂裝光電板 北市文化局拒絕｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網  TVBS新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "出手救市!台股失守4萬點 金管會祭限空令2.0｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pUlVuX2JBR25yLVNyNjFLc1lCYW9DOU9UZGMzRVNSTnVTOWV6azZpdnZ4bk5IVVd3NXg1QzNjTVVseGlyTnRmVldrVUUtTlV0U1VxV09n?oc=5",
+     "source": "tvbs",
+     "source_name": "TVBS",
+     "published": "2026-11-19T23:26:59+08:00",
+     "description": "出手救市!台股失守4萬點 金管會祭限空令2.0｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網  TVBS新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -333,22 +165,20 @@
      }
     },
     {
-     "title": "結束APEC行程返台 施振榮：圓滿達成總統交付任務",
-     "link": "https://news.ebc.net.tw/news/politics/581530",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-11-19T22:23:36.804174+08:00",
-     "description": "施振榮代表賴清德出席APEC經濟領袖會議後返台，表示順利完成任務，期間與多國領袖交流，傳達台灣在AI發展、科技創新及半導體供應鏈韌性的重要性。",
-     "category": "politics",
+     "title": "高市小鞋穿不完？深圳下機舷梯矮一大截 日本議員怒批2缺失",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Kc0xQanFYcDRTdklSb3BhdjNqTVF1ajl2YmhqNEYxbHhmUGVWcTRZN0ZzOFlUMGxLdGNRSnp4QW9uNm05YUNzUXh0ekJVOXRUUG9mNmJuUmxyTGROMEdWS1c5QVprY3AzS3R4SDlR?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-11-19T22:27:58+08:00",
+     "description": "高市小鞋穿不完？深圳下機舷梯矮一大截 日本議員怒批2缺失  中時新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "scraper",
-      "category": "politics",
-      "feed_url": "https://news.ebc.net.tw/realtime"
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
@@ -366,40 +196,6 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "APEC「深圳展望」出爐 提供應鏈韌性、AI合作等方向",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5pN3RWcmIyNk43aGY2TG1GM0wxM2pxSzFaVk4teU1lOS1tWUljVWhRSUdpV2NTbFBldE1GTWdsZEwtSjhVSFNySmlFVVVlbTZ50gFWQVVfeXFMUDd2Ulp2T2RhaFRnU25kQjRSTUlobDhObUNEUzZybjJTV1U4ZU5jQTR4Nm8wRVpXcDhSWjZVYzNtM1phbXl4SVlXSHVxRjlmWi04RHlKVlE?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-11-19T21:35:42+08:00",
-     "description": "APEC「深圳展望」出爐 提供應鏈韌性、AI合作等方向  udn",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "沈伯洋揪小水滴聊市政 直播湧7萬人觀看｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DYUFpbjFlbnpUR3k0NTBBbkNKSXE0MU5uSXJEbk5DMkpqSS1EYkFYY2FONW1FZEdtS0NJN1VCclNOM2NrN0hlbmZHSHdHOXJ5N01OM3NB?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-11-19T21:33:22+08:00",
-     "description": "沈伯洋揪小水滴聊市政 直播湧7萬人觀看｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網  TVBS新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -423,9 +219,9 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 145,
+   "article_count": 147,
    "first_seen": "2026-11-17T08:12:00+08:00",
-   "last_updated": "2026-11-19T23:17:55+08:00",
+   "last_updated": "2026-11-19T23:26:14+08:00",
    "tags": [
     "翡翠水庫",
     "光電"
@@ -453,6 +249,23 @@
    ],
    "articles": [
     {
+     "title": "北市文化局稱能源署指使故宮設光電　經濟部：別扭曲公文",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9TOUppRW83T1VFLUxER05vRTNmQVRSejhURWpudUwtQldJYWg1THN0Y3lia1NUUzlxWXExYUNVcHlFZ2JvVEhJOVA0YVXSAVJBVV95cUxOdmFGS2N4YTEzcFhzam4zNlc5cWtvejJFcDUzREJ1ZER2WGdra0NLTGRoOGpvS3J6UzVnMktVZlVxZ1A0S044S1hET1FoRjQtY1JB?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-11-19T23:26:14+08:00",
+     "description": "北市文化局稱能源署指使故宮設光電　經濟部：別扭曲公文  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
      "title": "翡翠水庫太陽能板「0片」！林智群列北市5大慘案：蔣萬安閉口不提",
      "link": "https://news.ltn.com.tw/news/politics/breakingnews/5646932",
      "source": "ltn",
@@ -467,6 +280,23 @@
       },
       "acquisition": "rss",
       "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "蔡詩萍喊故宮裝光電　能源署反擊「盤點非強迫」：北市2古蹟裝光電板",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBBNUw5dHFTaVphR0RCcWRWN1ZfT0w5VHdiQkFWWjRPM29neFZ3SHZXUTJ0dS1ZNmQzaXpqOHRmQ0xYT0RZaHBmc9IBTEFVX3lxTFBwVGhNQm40OVU0OXMwaU1CazV1UHVNcEQwRkhEMFA2ZmEzekxCTm85OXlQWC1yV0hzLTl4MzdWZWZ0eDNqVUhEaWVZZ2E?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-11-19T21:42:00+08:00",
+     "description": "蔡詩萍喊故宮裝光電　能源署反擊「盤點非強迫」：北市2古蹟裝光電板  三立新聞網SETN.com",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
@@ -588,40 +418,6 @@
       },
       "acquisition": "rss",
       "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "蔡詩萍稱「故宮想裝光電板」遭打臉 陳培瑜：想知道他怎會發這篇",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5646630",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-11-19T17:51:29+08:00",
-     "description": "翡翠水庫設光電板議題成為選戰焦點，台北市文化局長蔡詩萍今（19）日更爆，「故宮博物院也曾想在屋頂裝設光電板」，感謝北市文化局基於專業與職責予以拒絕。不料，立即被故宮打臉「散佈不...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "黃偉哲認看錯會去點眼藥水！再扯阿公店水庫光電是韓國瑜設的　蔣萬安：明明是陳菊任內招標",
-     "link": "https://www.mirrormedia.mg/story/20261119edi096",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-11-19T17:45:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
      }
     }
    ]
@@ -842,26 +638,29 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 32,
+   "article_count": 37,
    "first_seen": "2026-11-17T17:53:00+08:00",
-   "last_updated": "2026-11-20T00:24:43.526112+08:00",
-   "tags": [],
+   "last_updated": "2026-11-20T02:21:03+08:00",
+   "tags": [
+    "美元"
+   ],
    "claims": [
     {
      "type": "金額（美元）",
      "agree": false,
-     "outlet_count": 2,
+     "outlet_count": 3,
      "values": [
+      {
+       "value": "813億美元",
+       "outlets": [
+        "ETtoday",
+        "公視新聞"
+       ]
+      },
       {
        "value": "5億美元",
        "outlets": [
         "東森新聞"
-       ]
-      },
-      {
-       "value": "813億美元",
-       "outlets": [
-        "公視新聞"
        ]
       }
      ]
@@ -882,6 +681,74 @@
     }
    ],
    "articles": [
+    {
+     "title": "Anthropic掛牌掀AI熱潮　歐股仍收低",
+     "link": "https://ec.ltn.com.tw/article/breakingnews/5647037",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-11-20T02:21:03+08:00",
+     "description": "儘管人工智慧（AI）巨擘Anthropic首次公開發行（IPO）盛況空前，重新帶動市場對AI的樂觀情緒，歐洲主要股市今天仍收黑。\n\n倫敦FTSE 100指數下跌98.49點或0.93%，報1...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "Anthropic上市首日開盤漲34%　市值突破2兆美元",
+     "link": "https://ec.ltn.com.tw/article/breakingnews/5647033",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-11-20T01:54:03+08:00",
+     "description": "Claude聊天機器人開發商Anthropic今天在那斯達克掛牌，成為全球首家上市的前沿人工智慧（AI）公司，在投資人爭相買進之下，首日股價飆漲，公司市值一度攀升至2.1兆美元。\n\n路透社報...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "超過SpaceX！Anthropic募資813億美元「創始上最大IPO」　開盤飆漲",
+     "link": "https://finance.ettoday.net/news/3275254",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-11-20T01:08:00+08:00",
+     "description": "人工智慧（AI）公司Anthropic正式進軍美國股市，旗下Claude AI開發商20日以股票代號「ANT」掛牌交易，開盤價來到每股111.5美元，較IPO承銷價83美元大漲34％，顯示市場投資需求相當熱烈。Anthropic此前已募得813億美元，創下全球史上最大規模首次公開募股（IPO）紀錄。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "Anthropic以111.50美元開出比IPO發行價高出34% 未能拉抬美股| 全球財經| 全球",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlZVl1SkFfNGpTN0VZZTZiMW44Nm1TX1RCellseV9FUnlOY19CVUJfZ0lGS2d2MUxLU3J6RWtSUG1JR2ZZMVdaMHVoR0R5Nk5R?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-11-20T00:55:46+08:00",
+     "description": "Anthropic以111.50美元開出比IPO發行價高出34% 未能拉抬美股| 全球財經| 全球  UDN",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
     {
      "title": "Anthropic掛牌上市提振AI交易 美股開盤走高",
      "link": "https://news.ebc.net.tw/news/business/581555",
@@ -907,7 +774,7 @@
      "source": "udn",
      "source_name": "聯合新聞網",
      "published": "2026-11-19T23:21:43+08:00",
-     "description": "Anthropic風光上市 對台、韓AI基建概念股有利無害嗎？  udn",
+     "description": "Anthropic風光上市 對台、韓AI基建概念股有利無害嗎？  UDN",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -953,6 +820,23 @@
      }
     },
     {
+     "title": "輝達回神漲4％！Anthropic上市助攻AI股翻身　美股費半勁揚400點",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE10VGJSczNwWGNfY1E2a1EwSHlicDExWnBJSUpHSS1kTlNPUS1vbEtnNU12SlJ6OTZib0VzRXJsbjY0MjNRYjNBazFXNkXSAVJBVV95cUxOcDRnR0VpZFgwdGhodVBKdm1qVjVnaEUyWHFXODJqbDRfa2lwTHZoTDZUS1djekVXSGVhNWN1WGtDTmlRbHc1MkU2Q2EzYmI3bzZB?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-11-19T22:53:36+08:00",
+     "description": "輝達回神漲4％！Anthropic上市助攻AI股翻身　美股費半勁揚400點  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
      "title": "Anthropic掛牌！美股主指開紅「費半漲幅近3%」　輝達、台積電ADR走高",
      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBoQ0tlUlFtUWYxUWg3UDFQNjRnUFZ0R051SFpieTFiOG5QdlAydGdwbW5tMElMaFdkVVdaNFBrUktRSmhuTWRzNtIBTEFVX3lxTE4zdVd3eEpnZFhKQW5jaHluejFrQmFFSm1uVlNObVg2VWNGbkI0WFl6bjRXaVA0c081M3hKSjc3cS12ckhKSzEtX1ppd1o?oc=5",
      "source": "setn",
@@ -968,98 +852,11 @@
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
-    },
-    {
-     "title": "Anthropic將掛牌上市 IPO募資金額創紀錄",
-     "link": "https://news.pts.org.tw/article/836531",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-11-19T21:05:13+08:00",
-     "description": "AI公司Anthropic週四（19日）將在那斯達克掛牌上市，發行價每股83美元，總計募資高達813億美元，創下史上最大IPO紀錄。不過，也有部分民眾不滿AI帶來的負面效應，在舊金山的Anthropic總部前舉牌抗議。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "台積電重訊！砸近5億美元入股Anthropic 持股約0.03%",
-     "link": "https://news.ebc.net.tw/news/business/581510",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-11-19T20:28:48.315655+08:00",
-     "description": "台積電子公司斥資近5億美元，以每股83美元取得Anthropic約602萬股普通股，持股約0.03%，布局AI產業股權投資。",
-     "category": "business",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "business",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "Anthropic掛牌考驗AI股估值- 國際",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5STjZvTkdfU3BVRDhJSzlmSVYwVjliUlJLV2pDckhPMnFJZnNVNDVzTXJJYWRuWU1DTHF3TkV3ZHNTRWlHZThFVW5uZDdidWYyWktvemxnOXZwWUpBMUpzSVlucTlCSVVnanc?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-11-19T20:11:27+08:00",
-     "description": "Anthropic掛牌考驗AI股估值- 國際  旺得富理財網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "【1119 十點不一樣LIVE】世紀同框！中美俄峰會深圳登場 Anthropic定價83美元超越SpaceX",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKQ1FGa09LcC1jMVM5T1B2N3JkckJqOHJwdjI1UVNuX1JSV01jOTE5X1FlSnBRRTh6djNaRm95UWZQMGptT0RhR21Uc1A5dDJaazVtZkV1LUdtNjR6Y25xVUFpZXpQNER0UFNXMGVsUEpvWGFt?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-11-19T19:52:57+08:00",
-     "description": "【1119 十點不一樣LIVE】世紀同框！中美俄峰會深圳登場 Anthropic定價83美元超越SpaceX  TVBS新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "台積電近5億美元入股 Anthropic 敲定 每股83美元、持股0.03%",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBKTHgwdDVpcGtibHpNWGROaHpBQkUtdzdUTUU5eDZQQkJ6Z2cxZUJJdHhoaDlyWmlZR05QZHNxMHdVRzdPMVNlSFVsMEJleU140gFWQVVfeXFMTUFZNno5M0NvRHBfTlV1a2RKLVJ2YzZHSjkza29qblVNa1RVZGhQNC1haC1zNExKYUtVeHZnOHk2STBreHlGMlA3YXhtX2ZLR3owTGViT1E?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-11-19T16:34:00+08:00",
-     "description": "台積電近5億美元入股 Anthropic 敲定 每股83美元、持股0.03%  UDN",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
     }
    ]
   },
   {
-   "id": "cacc4a0246f0",
+   "id": "5b9b9c17b277",
    "title": "美媒：輝達董事會目前未考慮讓黃仁勳回任執行長",
    "outlet_count": 12,
    "outlets": [
@@ -1076,15 +873,32 @@
     "storm",
     "udn"
    ],
-   "article_count": 113,
-   "first_seen": "2026-11-17T02:23:18+08:00",
-   "last_updated": "2026-11-20T00:00:00+08:00",
+   "article_count": 118,
+   "first_seen": "2026-11-17T02:31:44+08:00",
+   "last_updated": "2026-11-20T00:42:00+08:00",
    "tags": [
     "黃仁勳",
     "輝達",
     "董事會"
    ],
    "articles": [
+    {
+     "title": "輝達共同創辦人補刀！批評黃仁勳「違背創業初衷」：讓我很難受",
+     "link": "https://www.ettoday.net/news/20261120/3275251.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-11-20T00:42:00+08:00",
+     "description": "輝達（NVIDIA）創辦人、前執行長黃仁勳離職風波持續延燒，共同創辦人克里斯·馬拉科夫斯基（Chris Malachowsky） 也對前執行長黃仁勳提出批評。根據外媒報導，輝達18日在美國加州總部舉行黃仁勳離職後首次全員會議，馬拉科夫斯基在談及公司核心價值時情緒激動，直言黃仁勳違背了兩人創業初期共同建立的企業準則，尤其是「凡事維持最高標準」的第一項原則。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
     {
      "title": "輝達急穩軍心 提前加薪發股票 美記者：黃仁勳回鍋機率是0",
      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9haU1WT2dIYW1NTWdkcVJadWprTXlxcGV2Uy16bERCX1pRc2p6RTZWdmdrb3ZMZ0ZnYWpXcFR3UFNNMTFxWFJKTWlZVTRWQkhXNTJj0gFYQVVfeXFMT3d2cEpGVWNVZm1OSTdNZldmMkttR3VxYjh2ek4tRnc1RUlKQWZRLVlnclEydTVuemJDWkdHUzExVlZUMGw5Z0ZtaHdOTExEcUcwQzlHckNSVA?oc=5",
@@ -1188,20 +1002,20 @@
      }
     },
     {
-     "title": "輝達不要黃仁勳！馬斯克轟「像球隊踢掉喬丹」　親曝：想聘用他",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Bc2xrVzlPRGNFaWJ2b0RFYjB0d1otOWtFNktaOW1ab3ZtVUduU1NhYnRXZE15YkRJZ1ItelJ3anNLQmI0eHE4c9IBTEFVX3lxTE03Ykc5Y1hKMVFOUk91ZDRUM25SeFItTTFyX2F6M2JzT3NVSUNiMHExcThyYUNFNmFENndQY0FteVA0UXNaX2k0WFRYMmw?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-11-19T11:33:00+08:00",
-     "description": "輝達不要黃仁勳！馬斯克轟「像球隊踢掉喬丹」　親曝：想聘用他  三立新聞網SETN.com",
+     "title": "馬斯克證實私下與黃仁勳談話「還提到台灣」！　語帶哽咽：他無可取代",
+     "link": "https://www.mirrormedia.mg/story/20261119edi033",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-11-19T14:18:00+08:00",
+     "description": "",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
      }
     },
     {
@@ -1222,12 +1036,12 @@
      }
     },
     {
-     "title": "《國際產業》「仁勳」惶惶？輝達欲振乏力分析師盤算曝光- 國際",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ENUpkSmNiZ0xTbkFJanJfOXZuc3o5YmlGRExWVDdoWF9sa2laeHdlMTlOekV2THhldGhDS0NfYkhiMjJmRkt3UjlvckpNU1dHR2RuMHJXTktxbGVFTkxzQkg1YU5wUkxteGc?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-11-19T11:08:16+08:00",
-     "description": "《國際產業》「仁勳」惶惶？輝達欲振乏力分析師盤算曝光- 國際  旺得富理財網",
+     "title": "輝達不要黃仁勳！馬斯克轟「像球隊踢掉喬丹」　親曝：想聘用他",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Bc2xrVzlPRGNFaWJ2b0RFYjB0d1otOWtFNktaOW1ab3ZtVUduU1NhYnRXZE15YkRJZ1ItelJ3anNLQmI0eHE4c9IBTEFVX3lxTE03Ykc5Y1hKMVFOUk91ZDRUM25SeFItTTFyX2F6M2JzT3NVSUNiMHExcThyYUNFNmFENndQY0FteVA0UXNaX2k0WFRYMmw?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-11-19T11:33:00+08:00",
+     "description": "輝達不要黃仁勳！馬斯克轟「像球隊踢掉喬丹」　親曝：想聘用他  三立新聞網SETN.com",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -1235,16 +1049,79 @@
        "source": "unknown"
       },
       "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
+   "id": "dd3cccdb068f",
+   "title": "美中俄三方會談成APEC重頭戲　貿易俄烏與核武受關注",
+   "outlet_count": 12,
+   "outlets": [
+    "chinatimes",
+    "cna",
+    "ebc",
+    "ettoday",
+    "ltn",
+    "mirror",
+    "newtalk",
+    "nownews",
+    "pts",
+    "setn",
+    "tvbs",
+    "udn"
+   ],
+   "article_count": 122,
+   "first_seen": "2026-11-17T05:30:00+08:00",
+   "last_updated": "2026-11-20T00:24:43.526112+08:00",
+   "tags": [
+    "峰會"
+   ],
+   "articles": [
+    {
+     "title": "習近平APEC峰會演說 川普閉目養神疑似睡著",
+     "link": "https://news.ebc.net.tw/news/world/581535",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-11-20T00:24:43.526112+08:00",
+     "description": "深圳APEC峰會19日登場，習近平親自迎接各國領袖，並發表開放合作演說，川普卻被拍到疑似打瞌睡，施振榮則把握機會與多國領袖互動。",
+     "category": "world",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "world",
+      "feed_url": "https://news.ebc.net.tw/realtime"
      }
     },
     {
-     "title": "美國富豪不忍了！　發文狂轟輝達董事會：逼退黃仁勳是「看媒體標題倉促下決定」",
-     "link": "https://www.mirrormedia.mg/story/20261119edi004",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-11-19T10:35:00+08:00",
-     "description": "",
+     "title": "川習普元首峰會 非雅爾達2.0",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hdElHTTZLV29jcWI4NjBQMW5PN1dFUDM4alFvd0o2dmZNRzFRbkdLaS1KYUNXckxVNS1uaUhNWE1FUXFvZlZzZGkwZ2ZtcGo0?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-11-20T00:00:00+08:00",
+     "description": "川習普元首峰會 非雅爾達2.0  UDN",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "川普與高市早苗通話　商討美中俄領袖會談情況",
+     "link": "https://www.cna.com.tw/news/aopl/202611190393.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-11-19T23:59:23+08:00",
+     "description": "（中央社東京19日綜合外電報導）日本首相高市早苗今天晚間與美國總統川普（Donald Trump）通電話，日媒指出，川普說明了稍早美中俄領袖會談和美中領導人會談的結果。",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -1252,7 +1129,129 @@
        "source": "unknown"
       },
       "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
+     }
+    },
+    {
+     "title": "俄烏戰爭曙光？普丁美中俄峰會後發聲：同意美國的妥協方案",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9DQXRVQ0ZWUG1oSjhwUV83YlN6ZkJpUVF3aWxMY2hubGZjUERFdzgya0NXZldPMWRtR2ZoNFZJYkQwaHN3NHF3c9IBTEFVX3lxTE5Ld1FMMmdqMXY4dVpqRGVsSHBKSWZtQnFzcGx4UUZZdFFOVHcwdmZUaDIzeTJtQ2VEX0JvdzZVZS1wUzhQV2pMbUZTNzM?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-11-19T23:11:00+08:00",
+     "description": "俄烏戰爭曙光？普丁美中俄峰會後發聲：同意美國的妥協方案  三立新聞網SETN.com",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "美中俄峰會後 高市早苗與川普通話",
+     "link": "https://news.ltn.com.tw/news/world/breakingnews/5646980",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-11-19T22:45:06+08:00",
+     "description": "日本首相高市早苗今晚與美國總統川普舉行電話會談，這是川普今天在中國深圳與中國國家主席習近平、俄羅斯總統普廷，舉行史上首次美中俄三國領袖峰會後，日美領袖首次直接溝通。...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "稱美中俄峰會「寫新頁」 普廷駁瓜分說：雅爾達會議有什麼不好",
+     "link": "https://news.ltn.com.tw/news/world/breakingnews/5646971",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-11-19T22:30:45+08:00",
+     "description": "美國總統川普、中國國家主席習近平和俄羅斯總統普廷，19日在中國深圳舉行史無前例的美中俄三國元首峰會。普廷會後被問到，這場峰會被與雅爾達會議相提並論，不以為然反問，「雅爾達（會議...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "美中俄三方峰會後 川普與高市早苗通話",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBweGtWd1dINTNrSHQwZzFwV2RHclBmdTRlN2FIRzA2OF9VRU0ydWVQRHkyVDJTb1UyLVZDVTJ2NFJ5b2tJWGZ3blRQRDlRaVF1aGpJ0gFYQVVfeXFMUC1KWkJURzl6Z2pseUlHazdWbGJhejYwV3pMMzZoUVJvYUZ6bFRlUHZoZUFQN3A0S0ZwUlVETkZEbkc5c211WHZ3cUpoTHo3eFZld2dwRk0yaA?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-11-19T22:23:42+08:00",
+     "description": "美中俄三方峰會後 川普與高市早苗通話  UDN",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "結束APEC行程返台 施振榮：圓滿達成總統交付任務",
+     "link": "https://news.ebc.net.tw/news/politics/581530",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-11-19T22:23:36.804174+08:00",
+     "description": "施振榮代表賴清德出席APEC經濟領袖會議後返台，表示順利完成任務，期間與多國領袖交流，傳達台灣在AI發展、科技創新及半導體供應鏈韌性的重要性。",
+     "category": "politics",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "politics",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "美中俄峰會　普丁：同意美國解決烏克蘭戰爭妥協方案",
+     "link": "https://www.cna.com.tw/news/aopl/202611190383.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-11-19T21:55:57+08:00",
+     "description": "（中央社台北19日電）美中俄領袖峰會後，俄羅斯總統普丁舉行記者會宣稱，俄羅斯沒有挑起烏克蘭戰爭，而是致力結束戰爭，俄羅斯同意美國為解決烏克蘭戰爭提出的妥協方案。他還說，「非常希望峰會能有後續」。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
+     }
+    },
+    {
+     "title": "安華APEC籲強化多邊貿易　深化區域整合共享繁榮",
+     "link": "https://www.cna.com.tw/news/aopl/202611190364.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-11-19T20:51:11+08:00",
+     "description": "（中央社記者黃自強吉隆坡19日專電）馬來西亞首相安華今天在亞太經濟合作會議（APEC）經濟領袖會議中表示，地緣政治緊張日益加劇之際，必須支持並維護開放與經濟合作；呼籲強化以法律及規則為基礎的多邊貿易體系與運作機制，深化區域經濟整合，確保貿易持續為所有人創造機會。",
+     "author": "黃自強",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "黃自強",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
      }
     }
    ]
@@ -1277,18 +1276,18 @@
    ],
    "article_count": 68,
    "first_seen": "2026-11-17T17:24:52+08:00",
-   "last_updated": "2026-11-19T20:35:11+08:00",
+   "last_updated": "2026-11-19T20:50:00+08:00",
    "tags": [
     "輝達"
    ],
    "articles": [
     {
-     "title": "FT：台積電和三星電子暫停向陸客戶出貨部分晶片手機品牌也受影響| 全球財經| 全球",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1tYVdHQUVXQVdCeU02c0tCSmFrUDhkaVpSTWYyUjNxUUtMWlpzM3FLOTVWWFY0LUNTbmV4U0gyeDlvQXpvY3dGXzllT2ZhUnp0?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-11-19T20:35:11+08:00",
-     "description": "FT：台積電和三星電子暫停向陸客戶出貨部分晶片手機品牌也受影響| 全球財經| 全球  udn",
+     "title": "美國擴大晶片出口管制！FT：台積電、三星暫停部分中國客戶出貨，多手機品牌恐受波及| 李靖棠| 新聞",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oNmZqQkFzVUo0RUVvelZRWVJXaFhWaHpYc2RobW5IWXdqZFNUdENjSXlGYmRVXzRMT1ZENExSS1RGcWwwQXUwWWtoXzZYUQ?oc=5",
+     "source": "storm",
+     "source_name": "風傳媒",
+     "published": "2026-11-19T20:50:00+08:00",
+     "description": "美國擴大晶片出口管制！FT：台積電、三星暫停部分中國客戶出貨，多手機品牌恐受波及| 李靖棠| 新聞  風傳媒",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -1296,7 +1295,7 @@
        "source": "unknown"
       },
       "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
@@ -1861,12 +1860,12 @@
      }
     },
     {
-     "title": "曠世智能案爭議李四川：我當市長不讓蘇巧慧家族拿新北市一毛錢| 政治 | 要聞",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yUFlyWENmQm1wODlQSzRVRDN1M0dZeXV1ZllZdmloN2xvNEs3Z3hIc0JDdngyNGFyOGV5ZGFjRUdQd21NaEROYm1VVUxrVTNF?oc=5",
+     "title": "曠世智能案爭議 李四川：我當市長不讓蘇巧慧家族拿新北市一毛錢",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMLXJGdzgzdGNTSEF6UHpYVFZURi1LbkF5ZFI0Q0ZBZlJlR2FnUU1qNjcwRFZWVXM2OHoxLTBua2hvZlRBcl9RN2hZOG5UYTVpWE9F0gFYQVVfeXFMTmNKVi1tOVF1SFZuMU9IZnJUZVdwRjhkQmhrMmlkYkUwR3ZaTm93Z3JFdkFnMzNBdzBXOEhQZDh3OGgtMTNXQnNMMXZVNWF1aUxMQzk3d19GZw?oc=5",
      "source": "udn",
      "source_name": "聯合新聞網",
      "published": "2026-11-18T16:00:17+08:00",
-     "description": "曠世智能案爭議李四川：我當市長不讓蘇巧慧家族拿新北市一毛錢| 政治 | 要聞  UDN",
+     "description": "曠世智能案爭議 李四川：我當市長不讓蘇巧慧家族拿新北市一毛錢  UDN",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -1896,7 +1895,7 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 47,
+   "article_count": 48,
    "first_seen": "2026-11-17T04:10:00+08:00",
    "last_updated": "2026-11-19T22:54:06+08:00",
    "tags": [
@@ -1920,6 +1919,23 @@
       },
       "acquisition": "rss",
       "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "沈伯洋想攻小草票？名醫嗆：當初是怎麼批評柯文哲- 政治",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BbUEzeTlxVlpzRTlaeGViZnNLY2RLZFZ1cE1XQjdzOXZ4d2pjNlNiRE5zWDNWbVdHN050M2dfZlpxdUlkV1dfY3FLenJRRm9DM1RWdThVYW5JdVFLT19JcjgxMzNlX1JmaXNXR1pR?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-11-19T22:05:38+08:00",
+     "description": "沈伯洋想攻小草票？名醫嗆：當初是怎麼批評柯文哲- 政治  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
@@ -2047,23 +2063,6 @@
      "source": "mirror",
      "source_name": "鏡週刊",
      "published": "2026-11-19T11:43:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "柯文哲嗆「小草絕對不會投給他」　沈伯洋：選民是獨立個體可以自己做決定",
-     "link": "https://www.mirrormedia.mg/story/20261119edi017",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-11-19T11:17:00+08:00",
      "description": "",
      "metadata": {
       "schema_version": 1,
@@ -2206,12 +2205,12 @@
      }
     },
     {
-     "title": "APEC配偶活動 施振榮夫人葉紫華與韓越等國第一夫人互動",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VSUJpZGVZSl9YUDdid0Qtclk3aXZFWFhOMTMtSnVFZ1prQlY0OEJxaHpHQ3V3SkVRdUxieFVGNFprZTlmNDJWczdNcndGNmZt0gFWQVVfeXFMTTFVWnoya09RcU9Vdld2WFB4dVktWml4OG9TMWNiLXJBZ05OSlQ1S2ZRMF81LUFLck9MLVVsMzdsTktRUWRoVnZnWEhnOFBCYUMtU3F5WHc?oc=5",
+     "title": "APEC配偶活動彭麗媛作東 施振榮夫人葉紫華與韓越等國第一夫人互動",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xbVB5QTRpVUtjNm5Vd01mYk85QU9VOGZhN004T0p5czhnRkotc2JfOGtNNUNqWmxIaVdtalRBSTM2VXlJd1RtelI0NE9SSkhvOFMw0gFYQVVfeXFMTXQ5eE5yQXVkeExLaG1iYmsyWDNpUEZYVEZOVnZaczBldlBCRUVrNC13aGlhS2FiWkxLcElacHNGc0kyNHRzMDlDV004UzNCWDUybEg2Mmh6Qw?oc=5",
      "source": "udn",
      "source_name": "聯合新聞網",
      "published": "2026-11-19T15:32:13+08:00",
-     "description": "APEC配偶活動 施振榮夫人葉紫華與韓越等國第一夫人互動  UDN",
+     "description": "APEC配偶活動彭麗媛作東 施振榮夫人葉紫華與韓越等國第一夫人互動  UDN",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -2223,12 +2222,12 @@
      }
     },
     {
-     "title": "APEC配偶活動彭麗媛作東 施振榮夫人葉紫華與韓越等國第一夫人互動",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xbVB5QTRpVUtjNm5Vd01mYk85QU9VOGZhN004T0p5czhnRkotc2JfOGtNNUNqWmxIaVdtalRBSTM2VXlJd1RtelI0NE9SSkhvOFMw0gFYQVVfeXFMTXQ5eE5yQXVkeExLaG1iYmsyWDNpUEZYVEZOVnZaczBldlBCRUVrNC13aGlhS2FiWkxLcElacHNGc0kyNHRzMDlDV004UzNCWDUybEg2Mmh6Qw?oc=5",
+     "title": "APEC配偶活動 施振榮夫人葉紫華與韓越等國第一夫人互動",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VSUJpZGVZSl9YUDdid0Qtclk3aXZFWFhOMTMtSnVFZ1prQlY0OEJxaHpHQ3V3SkVRdUxieFVGNFprZTlmNDJWczdNcndGNmZt0gFWQVVfeXFMTTFVWnoya09RcU9Vdld2WFB4dVktWml4OG9TMWNiLXJBZ05OSlQ1S2ZRMF81LUFLck9MLVVsMzdsTktRUWRoVnZnWEhnOFBCYUMtU3F5WHc?oc=5",
      "source": "udn",
      "source_name": "聯合新聞網",
      "published": "2026-11-19T15:32:13+08:00",
-     "description": "APEC配偶活動彭麗媛作東 施振榮夫人葉紫華與韓越等國第一夫人互動  UDN",
+     "description": "APEC配偶活動 施振榮夫人葉紫華與韓越等國第一夫人互動  UDN",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -2276,7 +2275,7 @@
    ]
   },
   {
-   "id": "79d235b1dfea",
+   "id": "2454d71d7174",
    "title": "選舉公報政見未提松機遷建　蔣萬安：已清楚說明",
    "outlet_count": 11,
    "outlets": [
@@ -2292,8 +2291,8 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 62,
-   "first_seen": "2026-11-17T01:20:41+08:00",
+   "article_count": 59,
+   "first_seen": "2026-11-17T11:05:17+08:00",
    "last_updated": "2026-11-19T19:40:29+08:00",
    "tags": [
     "選舉公報",
@@ -2460,6 +2459,205 @@
      "source": "mirror",
      "source_name": "鏡週刊",
      "published": "2026-11-19T15:09:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    }
+   ]
+  },
+  {
+   "id": "eff448ded580",
+   "title": "川習會將談AI安全風險　川普表態反對全球主義監管",
+   "outlet_count": 11,
+   "outlets": [
+    "chinatimes",
+    "cna",
+    "ebc",
+    "ettoday",
+    "mirror",
+    "newtalk",
+    "nownews",
+    "pts",
+    "setn",
+    "storm",
+    "udn"
+   ],
+   "article_count": 14,
+   "first_seen": "2026-11-17T08:08:00+08:00",
+   "last_updated": "2026-11-19T18:33:49+08:00",
+   "tags": [
+    "習近平",
+    "川普",
+    "川習會"
+   ],
+   "articles": [
+    {
+     "title": "美中俄三方會談川普提減核議題 習近平喊共同維護世界和平",
+     "link": "https://news.pts.org.tw/article/836474",
+     "source": "pts",
+     "source_name": "公視新聞",
+     "published": "2026-11-19T18:33:49+08:00",
+     "description": "美國總統川普、中國國家主席習近平及俄羅斯總統蒲亭，今（19）日於中國深圳APEC峰會場邊舉行三方會談，三人在開幕致詞中均提及維護世界和平與安全，習近平稱這次會晤具有「開創性意義」；蒲亭認為俄美中3國，在解決烏克蘭戰爭問題上具有共同利益；川普則表示，美中俄對於減少全球核武數量具有特殊優勢。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
+     }
+    },
+    {
+     "title": "深圳川習會　陸委會：台灣非這次會談重點",
+     "link": "https://www.cna.com.tw/news/acn/202611190258.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-11-19T16:52:18+08:00",
+     "description": "（中央社記者呂佳蓉台北19日電）美國總統川普今天與中國國家主席習近平會面，這是今年兩人第3次會晤。陸委會發言人梁文傑今天表示，台灣不是這次會談的重點，詳細情況政府會持續掌握。",
+     "author": "呂佳蓉",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "呂佳蓉",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
+     }
+    },
+    {
+     "title": "川習會將談AI安全風險　川普表態反對全球主義監管",
+     "link": "https://www.cna.com.tw/news/aopl/202611190155.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-11-19T14:01:35+08:00",
+     "description": "（中央社深圳19日綜合外電報導）美國總統川普今天表示，美國反對任何形式對人工智慧（AI）實施的「全球主義式監管」。川普預計稍後與中國國家主席習近平會談，AI議題預料將是雙方討論的焦點之一。",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
+     }
+    },
+    {
+     "title": "美中俄深圳三方會談「重排世界」！學者點出台灣困境：別只算選票",
+     "link": "https://www.ettoday.net/news/20261119/3274596.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-11-19T01:49:00+08:00",
+     "description": "美國總統川普、中國國家主席習近平及俄羅斯總統普丁預定19日在深圳APEC峰會期間舉行三方會談，大國領袖互動引發國際關注。美國德州山姆休士頓州立大學政治系終身職副教授翁履中18日晚間在臉書發文，分析三國領袖的各自盤算，也提醒台灣思考自身籌碼。他直言，當大國忙著重新安排世界，台灣卻將大量注意力放在地方選舉與政治攻防。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "親赴深圳機場迎川普！習近平高規格接機：期待交換意見",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5jbFB4MG9fN284ZzFDbVlCVGszMkhQUzM4WUtSeUhLU3ZmVVd2N0s1WXRoWHlwTnRFVWk3M0RzdURYZF9VRVZuedIBTEFVX3lxTE95X3J0Q1NJemxITnhqbTBabmk2eWItY3RNa29odHRFVzZuSVBQckwtWVA1am4wZDAzZ2VBcVg5WE1lLU1vb2ktdjByeXo?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-11-18T22:28:00+08:00",
+     "description": "親赴深圳機場迎川普！習近平高規格接機：期待交換意見  三立新聞網SETN.com",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "打破外交慣例！習近平親赴深圳機場迎接川普訪中",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE55a3VDcWM2VEw2d2IzUTFVOEdpVnVtY2dkWEh4azZ0cXo0VXduaFprY0tRb1lZaTZrYm5YeGNYTWFQeHQ5REhKS9IBTEFVX3lxTE5UYW5IWjBaRDEyaF9yQkFUOGxpbzlYQlFVYUI2eURlNjl1YnB2SEZZVWVRenZURWprTkMyWWlxdGE5dXBJVzNtNC1wSFM?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-11-18T18:46:00+08:00",
+     "description": "打破外交慣例！習近平親赴深圳機場迎接川普訪中  三立新聞網SETN.com",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "快訊》回敬？ 習近平親赴深圳寶安國際機場迎接川普| 國際",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LMWZGNF9GSm1sUEYxZ216MG9iXzNBOEhydUNrbW42dk50Sl9zMUI4cm9MZHRLY1kxVDBTY3l4bHkweW9kY0lxclhYUFJLZVloZVQ4SzhTNkFQQlE?oc=5",
+     "source": "newtalk",
+     "source_name": "新頭殼",
+     "published": "2026-11-18T17:26:21+08:00",
+     "description": "快訊》回敬？ 習近平親赴深圳寶安國際機場迎接川普| 國際  Newtalk新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "川普到深圳了！　習近平「親現身迎接」畫面曝",
+     "link": "https://www.ettoday.net/news/20261118/3274439.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-11-18T17:06:00+08:00",
+     "description": "亞太經濟合作會議（APEC）領導人非正式會議18日登場，正巡訪亞洲的美國總統川普今天稍早從菲律賓搭機前往。據《新華社》及CNN等外媒，他的座機現已降落中國深圳，現場畫面可見中方大陣仗迎接，停機坪正鋪設紅地毯，還有軍樂隊現場演奏。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "川習會將談台灣？川普預期習近平會提 總統府回應了",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sZUt5TnhLZzRpeXBvd0VFNVdBamEzeTBIcmVVLXEwLWdCWGYzZldOMFZrV0lLY1pOQjVWSXdCcEFkX3ZoSl9rMzJseV9oYzdkZDJndVpxdXBGMnhZeTNQdlN1TFNCR1JObUE2cDl3?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-11-18T13:04:40+08:00",
+     "description": "川習會將談台灣？川普預期習近平會提 總統府回應了  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "川習會將談台灣？川普直言「不用我開口、習近平自己會提」　將在深圳展開美中俄三方會談",
+     "link": "https://www.mirrormedia.mg/story/20261118edi011",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-11-18T11:25:00+08:00",
      "description": "",
      "metadata": {
       "schema_version": 1,
@@ -2903,206 +3101,6 @@
    ]
   },
   {
-   "id": "9e7ac203e26d",
-   "title": "川習會將談AI安全風險　川普表態反對全球主義監管",
-   "outlet_count": 10,
-   "outlets": [
-    "chinatimes",
-    "cna",
-    "ebc",
-    "ettoday",
-    "mirror",
-    "newtalk",
-    "nownews",
-    "pts",
-    "setn",
-    "udn"
-   ],
-   "article_count": 17,
-   "first_seen": "2026-11-17T00:30:35+08:00",
-   "last_updated": "2026-11-19T18:33:49+08:00",
-   "tags": [
-    "習近平",
-    "川普",
-    "深圳"
-   ],
-   "articles": [
-    {
-     "title": "美中俄三方會談川普提減核議題 習近平喊共同維護世界和平",
-     "link": "https://news.pts.org.tw/article/836474",
-     "source": "pts",
-     "source_name": "公視新聞",
-     "published": "2026-11-19T18:33:49+08:00",
-     "description": "美國總統川普、中國國家主席習近平及俄羅斯總統蒲亭，今（19）日於中國深圳APEC峰會場邊舉行三方會談，三人在開幕致詞中均提及維護世界和平與安全，習近平稱這次會晤具有「開創性意義」；蒲亭認為俄美中3國，在解決烏克蘭戰爭問題上具有共同利益；川普則表示，美中俄對於減少全球核武數量具有特殊優勢。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.pts.org.tw/xml/newsfeed.xml"
-     }
-    },
-    {
-     "title": "深圳川習會　陸委會：台灣非這次會談重點",
-     "link": "https://www.cna.com.tw/news/acn/202611190258.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-11-19T16:52:18+08:00",
-     "description": "（中央社記者呂佳蓉台北19日電）美國總統川普今天與中國國家主席習近平會面，這是今年兩人第3次會晤。陸委會發言人梁文傑今天表示，台灣不是這次會談的重點，詳細情況政府會持續掌握。",
-     "author": "呂佳蓉",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "呂佳蓉",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
-     }
-    },
-    {
-     "title": "馬斯克證實私下與黃仁勳談話「還提到台灣」！　語帶哽咽：他無可取代",
-     "link": "https://www.mirrormedia.mg/story/20261119edi033",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-11-19T14:18:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "川習會將談AI安全風險　川普表態反對全球主義監管",
-     "link": "https://www.cna.com.tw/news/aopl/202611190155.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-11-19T14:01:35+08:00",
-     "description": "（中央社深圳19日綜合外電報導）美國總統川普今天表示，美國反對任何形式對人工智慧（AI）實施的「全球主義式監管」。川普預計稍後與中國國家主席習近平會談，AI議題預料將是雙方討論的焦點之一。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
-     }
-    },
-    {
-     "title": "黃仁勳無可取代！川普喊「美國應善待他」　曾向習近平提起",
-     "link": "https://www.ettoday.net/news/20261119/3274703.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-11-19T10:58:00+08:00",
-     "description": "美國總統川普接受《福斯新聞》專訪時透露，自己與中國國家主席習近平見面時，曾「簡短地」談到輝達與其前執行長黃仁勳。他也再度為黃仁勳說話，形容對方是一名無可取代的天才。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "力挺黃仁勳無可取代！川普：沒聽說過黃樂是間諜",
-     "link": "https://news.ebc.net.tw/news/world/581392",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-11-19T10:26:22.655669+08:00",
-     "description": "美國總統川普（Donald Trump）出訪中國期間接受《福斯新聞》（Fox News）專訪，針對前輝達（Nvidia）執行長黃仁勳爆發婚外情與間諜疑雲一事罕見",
-     "category": "world",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "world",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "美中俄深圳三方會談「重排世界」！學者點出台灣困境：別只算選票",
-     "link": "https://www.ettoday.net/news/20261119/3274596.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-11-19T01:49:00+08:00",
-     "description": "美國總統川普、中國國家主席習近平及俄羅斯總統普丁預定19日在深圳APEC峰會期間舉行三方會談，大國領袖互動引發國際關注。美國德州山姆休士頓州立大學政治系終身職副教授翁履中18日晚間在臉書發文，分析三國領袖的各自盤算，也提醒台灣思考自身籌碼。他直言，當大國忙著重新安排世界，台灣卻將大量注意力放在地方選舉與政治攻防。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "親赴深圳機場迎川普！習近平高規格接機：期待交換意見",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5jbFB4MG9fN284ZzFDbVlCVGszMkhQUzM4WUtSeUhLU3ZmVVd2N0s1WXRoWHlwTnRFVWk3M0RzdURYZF9VRVZuedIBTEFVX3lxTE95X3J0Q1NJemxITnhqbTBabmk2eWItY3RNa29odHRFVzZuSVBQckwtWVA1am4wZDAzZ2VBcVg5WE1lLU1vb2ktdjByeXo?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-11-18T22:28:00+08:00",
-     "description": "親赴深圳機場迎川普！習近平高規格接機：期待交換意見  三立新聞網SETN.com",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "打破外交慣例！習近平親赴深圳機場迎接川普訪中",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE55a3VDcWM2VEw2d2IzUTFVOEdpVnVtY2dkWEh4azZ0cXo0VXduaFprY0tRb1lZaTZrYm5YeGNYTWFQeHQ5REhKS9IBTEFVX3lxTE5UYW5IWjBaRDEyaF9yQkFUOGxpbzlYQlFVYUI2eURlNjl1YnB2SEZZVWVRenZURWprTkMyWWlxdGE5dXBJVzNtNC1wSFM?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-11-18T18:46:00+08:00",
-     "description": "打破外交慣例！習近平親赴深圳機場迎接川普訪中  三立新聞網SETN.com",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "快訊》回敬？ 習近平親赴深圳寶安國際機場迎接川普| 國際",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LMWZGNF9GSm1sUEYxZ216MG9iXzNBOEhydUNrbW42dk50Sl9zMUI4cm9MZHRLY1kxVDBTY3l4bHkweW9kY0lxclhYUFJLZVloZVQ4SzhTNkFQQlE?oc=5",
-     "source": "newtalk",
-     "source_name": "新頭殼",
-     "published": "2026-11-18T17:26:21+08:00",
-     "description": "快訊》回敬？ 習近平親赴深圳寶安國際機場迎接川普| 國際  Newtalk新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
    "id": "54658fa5bc32",
    "title": "陳亮妤否認公帑聘化妝師　石崇良：政風處調查中",
    "outlet_count": 10,
@@ -3118,15 +3116,32 @@
     "setn",
     "udn"
    ],
-   "article_count": 18,
+   "article_count": 19,
    "first_seen": "2026-11-18T15:32:40+08:00",
-   "last_updated": "2026-11-19T13:27:13+08:00",
+   "last_updated": "2026-11-20T00:00:00+08:00",
    "tags": [
     "健保署長",
-    "公帑聘",
-    "陳亮妤"
+    "陳亮妤",
+    "公帑聘"
    ],
    "articles": [
+    {
+     "title": "否認公帑請化妝師 陳亮妤：全力配合調查",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB5OGI1S0VfVWxlWWNPdjF0QXh2VEhjUnJfVXdZR2E1YTJtYkdBdjQxSXlnQjRhaGZ1NGZ2UVpHS0NybHBDMlJpNm50WHlNWnpx0gFWQVVfeXFMTkQ1d0loY0JYY1BuWGRodElSNW16aExXWXR3RVZFQmZ2SGd0dHFjZExEdWJJRVBrekJzNEZOSjFVWFVUSlRJcldseHhieGlxTEZ1bERLU1E?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-11-20T00:00:00+08:00",
+     "description": "否認公帑請化妝師 陳亮妤：全力配合調查  udn",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
     {
      "title": "遭檢舉用公帑聘造型師 健保署長反駁稱將配合調查",
      "link": "https://news.pts.org.tw/article/836415",
@@ -3248,23 +3263,6 @@
      }
     },
     {
-     "title": "遭匿名檢舉 健保署長陳亮妤疑用公帑聘請化妝造型師",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8yRF8tSENpTG5kRkw4dWRkRkY1MnA2LTFWUU1uamwwem1LeVFSaHEtdFVrRlVsOEo1S0NGTDJKTkpacGUxd3l2LXJWZ2JRaUJI0gFWQVVfeXFMTkpvM2c5QUtNNTZiMW1KR0taSWwtRy02cGRvcWhWRWRxU1VwVXhnT3ZXZ0k4emVsLVlSS2xVbm01MXh2UUs3OXk1WUU2b3prb3dyZW55NGc?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-11-19T02:01:35+08:00",
-     "description": "遭匿名檢舉 健保署長陳亮妤疑用公帑聘請化妝造型師  UDN",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
      "title": "匿名檢舉健保署長陳亮妤疑用公帑聘請化妝造型師| 政治 | 要聞",
      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8yRF8tSENpTG5kRkw4dWRkRkY1MnA2LTFWUU1uamwwem1LeVFSaHEtdFVrRlVsOEo1S0NGTDJKTkpacGUxd3l2LXJWZ2JRaUJI?oc=5",
      "source": "udn",
@@ -3282,20 +3280,20 @@
      }
     },
     {
-     "title": "健保署長陳亮妤爆「公費請專屬造型師」　石崇良證實立案調查",
-     "link": "https://www.mirrormedia.mg/story/20261118edi036",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-11-18T18:00:00+08:00",
-     "description": "",
+     "title": "遭匿名檢舉 健保署長陳亮妤疑用公帑聘請化妝造型師",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8yRF8tSENpTG5kRkw4dWRkRkY1MnA2LTFWUU1uamwwem1LeVFSaHEtdFVrRlVsOEo1S0NGTDJKTkpacGUxd3l2LXJWZ2JRaUJI0gFWQVVfeXFMTkpvM2c5QUtNNTZiMW1KR0taSWwtRy02cGRvcWhWRWRxU1VwVXhnT3ZXZ0k4emVsLVlSS2xVbm01MXh2UUs3OXk1WUU2b3prb3dyZW55NGc?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-11-19T02:01:35+08:00",
+     "description": "遭匿名檢舉 健保署長陳亮妤疑用公帑聘請化妝造型師  UDN",
      "metadata": {
       "schema_version": 1,
       "author": {
        "name": null,
        "source": "unknown"
       },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -3550,12 +3548,29 @@
    ],
    "article_count": 25,
    "first_seen": "2026-11-17T13:41:16+08:00",
-   "last_updated": "2026-11-20T00:24:43.526112+08:00",
+   "last_updated": "2026-11-20T00:39:03+08:00",
    "tags": [
     "美中俄領袖峰",
     "峰會"
    ],
    "articles": [
+    {
+     "title": "中俄美元首會晤　中國外長：大國加強溝通符合世界期待",
+     "link": "https://news.ltn.com.tw/news/world/breakingnews/5647020",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-11-20T00:39:03+08:00",
+     "description": "中國外交部長王毅今天晚間表示，中俄美三國元首首次會晤是歷史性事件。各種風險挑戰層出不窮，國際社會對於大國加強溝通協調呼聲高漲，這次會晤適應時代潮流、符合世界期待。\n\n2026年亞太經濟合作會...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
     {
      "title": "「大國和則世界安」！美中俄領袖世紀會晤",
      "link": "https://news.ebc.net.tw/news/world/581528",
@@ -3573,23 +3588,6 @@
       "acquisition": "scraper",
       "category": "world",
       "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "美中俄宣言普亭：三方認為國際刑事法院逾越權限| APEC峰會聚焦| 全球",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxRVVlSzdzRnl2aXMxRUxPVjcwbEU3OE84aTNGZFhxWndpVmdDSDBxZEhkanF5b3JueWo3V0dvV3R2ZE5yb3FrX0JvcVhSaTU0ZE5F?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-11-19T23:10:47+08:00",
-     "description": "美中俄宣言普亭：三方認為國際刑事法院逾越權限| APEC峰會聚焦| 全球  udn",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
@@ -3668,7 +3666,7 @@
      "source": "udn",
      "source_name": "聯合新聞網",
      "published": "2026-11-19T20:14:28+08:00",
-     "description": "美中俄領袖峰會落幕川普搭乘空軍一號返華府| APEC峰會聚焦| 全球  udn",
+     "description": "美中俄領袖峰會落幕川普搭乘空軍一號返華府| APEC峰會聚焦| 全球  UDN",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -3733,6 +3731,224 @@
    ]
   },
   {
+   "id": "69266422592c",
+   "title": "藍力拚普發2萬20日三讀　卓榮泰盼立院勿強行表決",
+   "outlet_count": 9,
+   "outlets": [
+    "chinatimes",
+    "cna",
+    "ettoday",
+    "ltn",
+    "mirror",
+    "nownews",
+    "setn",
+    "storm",
+    "udn"
+   ],
+   "article_count": 23,
+   "first_seen": "2026-11-17T09:33:39+08:00",
+   "last_updated": "2026-11-20T00:00:00+08:00",
+   "tags": [
+    "普發",
+    "三讀"
+   ],
+   "claims": [
+    {
+     "type": "金額",
+     "agree": true,
+     "outlet_count": 7,
+     "values": [
+      {
+       "value": "2萬元",
+       "outlets": [
+        "三立新聞網",
+        "中央社",
+        "中時新聞網",
+        "今日新聞",
+        "聯合新聞網",
+        "鏡週刊",
+        "風傳媒"
+       ]
+      }
+     ]
+    }
+   ],
+   "articles": [
+    {
+     "title": "普發2萬元、中油增資 立院今擬放行",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1fWHNlM1psaUx4Skppa2lGZmUtSms0akNsY2hieExZZkZmY0docmJQTU5Zeld0ZU9PRGdubmFyNnBSVkxMNkI3S2JOZnRYY1JZ0gFWQVVfeXFMTlJFZVNMb1pnQ05oVDJ2STV2UHIzbmI3dUYxeFJITkFXSm5La0owQmZpb0tiNTVVTXoxdlhOZFNhYWNEWDZmM0ZoMG5VNW9rSnVFWjF2anc?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-11-20T00:00:00+08:00",
+     "description": "普發2萬元、中油增資 立院今擬放行  udn",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "普發2萬元背後的財政考驗　台灣選舉不能淪為現金喊價戰",
+     "link": "https://forum.ettoday.net/news/3274491",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-11-19T18:00:00+08:00",
+     "description": "2026年台灣地方選舉進入最後階段，普發現金2萬元的政策爭議，成為檢驗民主政治與財政責任的重要議題。現金發放能夠直接減輕部分家庭的生活壓力，也容易成為選舉動員的政治工具。真正值得討論的問題，不是政府應該發多少錢，而是國家是否具備足夠財源，政策是否符合憲政程序，以及短期利益會不會排擠長期公共建設。當選舉競爭演變成現金金額的喊價戰，台灣民主政治面臨的考驗，已經超越單純的福利政策選擇。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "藍提普發現金2萬明闖關  行政院再喊話：不該受選舉左右",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5646253",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-11-19T14:26:50+08:00",
+     "description": "立法院國民黨團提出普發2萬特別條例，明（20）日將三讀，對此，行政院發言人李慧芝今在院會後記者會表示，國家財政規劃也不該受到短期選舉的節奏所左右，而行政院已編列AI紅利普發1萬...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "在野不審預算卻喊普發2萬  賴清德批騙選民",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5646208",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-11-19T14:03:23+08:00",
+     "description": "國民黨立院黨團提出普發2萬條例草案，力拼本月底大選前三讀通過。總統賴清德今天到彰化員林輔選縣長候選人陳素月、員林市長候選人張政岳，批評在野黨選前耍「選舉花招」，行政院總預算在8...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "藍拚普發2萬20日三讀　政院：財政規劃不應受選舉左右",
+     "link": "https://www.cna.com.tw/news/aipl/202611190142.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-11-19T13:32:07+08:00",
+     "description": "（中央社記者賴于榛台北19日電）國民黨團提案普發現金新台幣2萬元，力拚明天立法院會闖關三讀。行政院今天說，財政規劃不應受選舉節奏左右，盼立法院延續性別平等工作法修法時的理性溝通模式，支持明年度總預算案，讓不用舉債、合法合憲的AI紅利能在明年春節前發放。",
+     "author": "賴于榛",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "賴于榛",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
+     }
+    },
+    {
+     "title": "國民黨明闖關普發2萬條例　行政院喊話：選舉一時、國家財政永續",
+     "link": "https://www.ettoday.net/news/20261119/3274893.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-11-19T13:04:00+08:00",
+     "description": "國民黨立法院黨團提出「全民共享經濟成果及穩定民生特別條例草案」要普發2萬，將拚20日三讀。對此，行政院發言人李慧芝今（19日）主持院會後記者會表示，政府施政始終以全民為念，也是以弱勢為優先，國家的財政規劃也不該受到短期選舉的節奏所左右；她強調，行政院已編列AI紅利普發1萬，只要總預算在明年1月通過，過年前就能發放給大家。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "普發2萬元不能只算政治紅利　立法院更要算清財政成本",
+     "link": "https://forum.ettoday.net/news/3274471",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-11-18T23:00:00+08:00",
+     "description": "立法院最快可能於11月20日表決國民黨團提出的普發現金2萬元特別條例。這項初估需要4,714億元的提案，已成為1128九合一地方選舉前備受關注的政治攻防。但問題是，立法院可以決定發多少錢，是否也願意交代財源從哪裡來、可能排擠哪些政策，以及最後由誰承擔成本？ 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "藍白強推普發2萬賴清德指加重國家財政負擔籲勿強行通過- 其他",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HdmdNWEp5aUF3bk9XendUUnJ6ZkJEdkhzMXpzN0sySnFMR0xDNDQyUXoyQWRIWDViSDhfSlE1TENMYk9Ya3VRQVo3UlpTcnBxOENhcGhqQm1TT3FFUEUzb01XOEVncEhFQXc?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-11-18T18:28:40+08:00",
+     "description": "藍白強推普發2萬賴清德指加重國家財政負擔籲勿強行通過- 其他  旺得富理財網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "藍力拚普發2萬20日三讀　賴清德籲在野勿強行通過",
+     "link": "https://www.cna.com.tw/news/aipl/202611180211.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-11-18T16:01:02+08:00",
+     "description": "（中央社記者王揚宇台北18日電）國民黨團提案普發現金新台幣2萬元，力拚20日立法院會闖關三讀。兼任民進黨主席的總統賴清德今天說，這可能排擠其他重要政策支出、有違憲法預算權限原則之虞，呼籲在野各黨團務必審慎再三，不要一意孤行、強行通過。",
+     "author": "王揚宇",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "王揚宇",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
+     }
+    },
+    {
+     "title": "藍拚選前闖關普發2萬元 賴清德：恐違憲債留子孫",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5645109",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-11-18T15:59:40+08:00",
+     "description": "立法院國民黨團推動普發現金2萬元，力拚20日選前最後一次立法院會闖關三讀。對此，兼任民進黨主席的總統賴清德今（18日）強調，在野黨提出的普發現金2萬元特別條例，不僅未充分考量歲...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    }
+   ]
+  },
+  {
    "id": "0461b20de2b9",
    "title": "台股重挫1768點跌破年線 金管會宣布限空令2.0",
    "outlet_count": 9,
@@ -3747,9 +3963,9 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 12,
+   "article_count": 13,
    "first_seen": "2026-11-19T14:24:00+08:00",
-   "last_updated": "2026-11-19T21:52:58+08:00",
+   "last_updated": "2026-11-19T22:32:04+08:00",
    "tags": [
     "金管會",
     "限空令",
@@ -3778,6 +3994,23 @@
     }
    ],
    "articles": [
+    {
+     "title": "台股暴跌1768點創史上第7大跌點！2026年包辦8席 投資人驚呼「刷榜年」",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUVHlORDkzalJUTHFSY0xKdXpUd3IyZEVzX3M2UFFSQW9yMC01N0ZkZXdDYlZZSUhkM2FjQWdLTUJMd25rTDB4aUYtQ1dyaXdIa2c?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-11-19T22:32:04+08:00",
+     "description": "台股暴跌1768點創史上第7大跌點！2026年包辦8席 投資人驚呼「刷榜年」  udn",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
     {
      "title": "1028家上市櫃跌幅逾3.5％  金管會：不預設「限空令」實施期限",
      "link": "https://ec.ltn.com.tw/article/breakingnews/5646948",
@@ -3930,13 +4163,112 @@
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
+    }
+   ]
+  },
+  {
+   "id": "6205ddca7fb0",
+   "title": "台股收盤／史上第7！狂瀉1768點摜破39K 景碩、南電全跌停",
+   "outlet_count": 9,
+   "outlets": [
+    "chinatimes",
+    "ebc",
+    "ltn",
+    "mirror",
+    "newtalk",
+    "nownews",
+    "setn",
+    "tvbs",
+    "udn"
+   ],
+   "article_count": 15,
+   "first_seen": "2026-11-19T13:57:00+08:00",
+   "last_updated": "2026-11-19T21:59:00+08:00",
+   "tags": [
+    "台股"
+   ],
+   "claims": [
+    {
+     "type": "金額",
+     "agree": false,
+     "outlet_count": 3,
+     "values": [
+      {
+       "value": "243億元",
+       "outlets": [
+        "中時新聞網",
+        "聯合新聞網"
+       ]
+      },
+      {
+       "value": "15.13億元",
+       "outlets": [
+        "自由時報"
+       ]
+      }
+     ]
+    }
+   ],
+   "articles": [
+    {
+     "title": "台股重挫1768點破年線！陳嘉偉警告「跌五成再五成」　曝唯一止跌訊號",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1LMTF1dndHWHFCTVk2eVBBQ05walFiZTlCcTIyUWNYNmVvVHJBRVpBRm90NDNJNnFWcEVmU05McHE5Sk9UcmEtNtIBTEFVX3lxTE5YR3NqTUZxZFUwdkJoVWRha1FHWmNKbkdfazdDcE9GZ3plUWZZMk10NjBLS2h5cndPN0RldDNCeUVGd0FUcG1oQmRSR00?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-11-19T21:59:00+08:00",
+     "description": "台股重挫1768點破年線！陳嘉偉警告「跌五成再五成」　曝唯一止跌訊號  三立新聞網SETN.com",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
     },
     {
-     "title": "再出手！ 台股狂瀉1768點破3萬9大關 金管會祭「禁空令」5大穩市措施明上路",
-     "link": "https://www.mirrormedia.mg/story/20261119-178fin-145854",
+     "title": "美、日、韓全漲！ 台股獨崩1768點 法人揪背後真凶",
+     "link": "https://news.ebc.net.tw/news/business/581500",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-11-19T18:23:39.492082+08:00",
+     "description": "美、日、韓股市同步走揚，唯獨台股重挫1,768點失守4萬點與年線！國泰期貨證券分析師郭經緯點出「AI硬體修正」疊加「內資多殺多」兩大元凶，並揭露限空令後的止跌4",
+     "category": "business",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "business",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "外資賣超243億元、連四賣 狂賣市值、主動ETF",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rYUZPcFE5RFA3WE54S3lxWnAtUWFnWXRCd08zS3FXQXZvc0RURThjOHhDQjNxTWhWcHBncExaT2NNZGxMV0xPbUtsZmFRd29sQmNn0gFYQVVfeXFMTWRYZTI0NkFJd09zT19QYlpsNUVzSFpmTGNYdlZPb09ad2RSNzJxTy1vNTZSQVZNSU9PbjJWYjJYVWxxN0cxZnpaYzF4TFctelF3QU5ZQ2dzeQ?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-11-19T17:39:57+08:00",
+     "description": "外資賣超243億元、連四賣 狂賣市值、主動ETF  udn",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "台股崩1768點、市值遭印度超車！外資為何狂提款？林啟超：跌過頭了",
+     "link": "https://www.mirrormedia.mg/story/20261119-182mon-171823",
      "source": "mirror",
      "source_name": "鏡週刊",
-     "published": "2026-11-19T14:58:00+08:00",
+     "published": "2026-11-19T17:21:00+08:00",
      "description": "",
      "metadata": {
       "schema_version": 1,
@@ -3946,6 +4278,112 @@
       },
       "acquisition": "rss",
       "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "《台北股市》投信19日買超前十大 壓寶4金釵 掃貨王國泰金15敲",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51WnNSMlNsanFBSjJzemJRRU9qMl9PR0FJaXZNS0hkSk8wQW5CalVlSV81OEJvdk1Tem1RRHZzUldXQWdqbTl5d0JQeXZ1RmhTSXJ4V3NrYkVDdFBjVTB3UEp4aDJVT3V4ZWc?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-11-19T16:43:06+08:00",
+     "description": "《台北股市》投信19日買超前十大 壓寶4金釵 掃貨王國泰金15敲  旺得富理財網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "台股狂瀉1768點 新台幣尾盤急拉翻升…央行連日阻貶壓力沉重",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGQ2J6UUxleG9IVlFzcHdpeEZ3RkFaNUROYks5enhqaGQwWmt1SjNZNEZwV0Z4eG9vUFZjQVNtaEdOejM2NkFFcWdCZzRGVjhu0gFWQVVfeXFMUFRPb0d0QVFwdFZDbUswWTFHaU94aTZaXzFDb2NoYUJfMm9lSHVsVHZEeFVtTk5fMVdLbGk4X1B3MXN6cURjVDQ5ZTNyTGdjZHc3RTdobFE?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-11-19T16:30:35+08:00",
+     "description": "台股狂瀉1768點 新台幣尾盤急拉翻升…央行連日阻貶壓力沉重  UDN",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "台股崩跌1768點！投信逆勢買超前十名出爐　國泰金8091張居冠",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9PejRycl9XMnVVcThlanA2VjU2N1FId2R4VWFBSVUtYmptRDNuNHVRazA4ZVpGdncxLXlZTmdULXM0M2RvTDl6aVJIOELSAVJBVV95cUxPcjh4ajZBODZTemdDbkRMd1ZtdVNwR3NYUmROSER0cmpsUEk5MnBESjFaeVZFV19XX0F5WkJGUkk3S0Z6Y1FVc1FfSEZzbkRiUmFB?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-11-19T16:30:21+08:00",
+     "description": "台股崩跌1768點！投信逆勢買超前十名出爐　國泰金8091張居冠  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "外資只賣243億！ 台股重挫1768點 專家：該有一波反彈吧",
+     "link": "https://news.ebc.net.tw/news/business/581491",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-11-19T16:26:48.733429+08:00",
+     "description": "台股今天重挫1,768點，其中投信買超15.13億元，自營商賣超223.03億元，外資賣超243.12億元，三大法人合計賣超451.02億元。投資達人葉育碩指出",
+     "category": "business",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "business",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "三大法人賣超461億！ 台股收跌1768點 失守年線大關",
+     "link": "https://news.ebc.net.tw/news/business/581484",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-11-19T16:26:48.733429+08:00",
+     "description": "台股19日開低走低，重挫1768點失守39000點與年線，收38426點跌4.4%。三大法人賣超461.03億元，僅投信買超15.13億元，資金換股動向受矚目。",
+     "category": "business",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "business",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "台股崩跌1768點！投信前10大買超揭曉 「這檔」連15買最狂",
+     "link": "https://ec.ltn.com.tw/article/breakingnews/5646517",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-11-19T16:11:23+08:00",
+     "description": "〔財經頻道／綜合報導〕台股週四（19日）在台積電領1811家上市櫃大跳水下，指數終場跌1768點，創史上第7慘，收38426點，投信續買台股15.13億元，其中又以國泰金最吸金，連15買，今再買...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
      }
     }
    ]
@@ -4145,225 +4583,6 @@
    ]
   },
   {
-   "id": "044627490154",
-   "title": "藍力拚普發2萬20日三讀　卓榮泰盼立院勿強行表決",
-   "outlet_count": 9,
-   "outlets": [
-    "chinatimes",
-    "cna",
-    "ettoday",
-    "ltn",
-    "mirror",
-    "nownews",
-    "setn",
-    "storm",
-    "udn"
-   ],
-   "article_count": 22,
-   "first_seen": "2026-11-17T09:33:39+08:00",
-   "last_updated": "2026-11-19T18:00:00+08:00",
-   "tags": [
-    "普發",
-    "卓榮泰",
-    "三讀"
-   ],
-   "claims": [
-    {
-     "type": "金額",
-     "agree": true,
-     "outlet_count": 7,
-     "values": [
-      {
-       "value": "2萬元",
-       "outlets": [
-        "三立新聞網",
-        "中央社",
-        "中時新聞網",
-        "今日新聞",
-        "聯合新聞網",
-        "鏡週刊",
-        "風傳媒"
-       ]
-      }
-     ]
-    }
-   ],
-   "articles": [
-    {
-     "title": "普發2萬元背後的財政考驗　台灣選舉不能淪為現金喊價戰",
-     "link": "https://forum.ettoday.net/news/3274491",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-11-19T18:00:00+08:00",
-     "description": "2026年台灣地方選舉進入最後階段，普發現金2萬元的政策爭議，成為檢驗民主政治與財政責任的重要議題。現金發放能夠直接減輕部分家庭的生活壓力，也容易成為選舉動員的政治工具。真正值得討論的問題，不是政府應該發多少錢，而是國家是否具備足夠財源，政策是否符合憲政程序，以及短期利益會不會排擠長期公共建設。當選舉競爭演變成現金金額的喊價戰，台灣民主政治面臨的考驗，已經超越單純的福利政策選擇。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "藍提普發現金2萬明闖關  行政院再喊話：不該受選舉左右",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5646253",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-11-19T14:26:50+08:00",
-     "description": "立法院國民黨團提出普發2萬特別條例，明（20）日將三讀，對此，行政院發言人李慧芝今在院會後記者會表示，國家財政規劃也不該受到短期選舉的節奏所左右，而行政院已編列AI紅利普發1萬...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "在野不審預算卻喊普發2萬  賴清德批騙選民",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5646208",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-11-19T14:03:23+08:00",
-     "description": "國民黨立院黨團提出普發2萬條例草案，力拼本月底大選前三讀通過。總統賴清德今天到彰化員林輔選縣長候選人陳素月、員林市長候選人張政岳，批評在野黨選前耍「選舉花招」，行政院總預算在8...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "藍拚普發2萬20日三讀　政院：財政規劃不應受選舉左右",
-     "link": "https://www.cna.com.tw/news/aipl/202611190142.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-11-19T13:32:07+08:00",
-     "description": "（中央社記者賴于榛台北19日電）國民黨團提案普發現金新台幣2萬元，力拚明天立法院會闖關三讀。行政院今天說，財政規劃不應受選舉節奏左右，盼立法院延續性別平等工作法修法時的理性溝通模式，支持明年度總預算案，讓不用舉債、合法合憲的AI紅利能在明年春節前發放。",
-     "author": "賴于榛",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "賴于榛",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
-     }
-    },
-    {
-     "title": "國民黨明闖關普發2萬條例　行政院喊話：選舉一時、國家財政永續",
-     "link": "https://www.ettoday.net/news/20261119/3274893.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-11-19T13:04:00+08:00",
-     "description": "國民黨立法院黨團提出「全民共享經濟成果及穩定民生特別條例草案」要普發2萬，將拚20日三讀。對此，行政院發言人李慧芝今（19日）主持院會後記者會表示，政府施政始終以全民為念，也是以弱勢為優先，國家的財政規劃也不該受到短期選舉的節奏所左右；她強調，行政院已編列AI紅利普發1萬，只要總預算在明年1月通過，過年前就能發放給大家。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "普發2萬元不能只算政治紅利　立法院更要算清財政成本",
-     "link": "https://forum.ettoday.net/news/3274471",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-11-18T23:00:00+08:00",
-     "description": "立法院最快可能於11月20日表決國民黨團提出的普發現金2萬元特別條例。這項初估需要4,714億元的提案，已成為1128九合一地方選舉前備受關注的政治攻防。但問題是，立法院可以決定發多少錢，是否也願意交代財源從哪裡來、可能排擠哪些政策，以及最後由誰承擔成本？ 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "藍白強推普發2萬賴清德指加重國家財政負擔籲勿強行通過- 其他",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HdmdNWEp5aUF3bk9XendUUnJ6ZkJEdkhzMXpzN0sySnFMR0xDNDQyUXoyQWRIWDViSDhfSlE1TENMYk9Ya3VRQVo3UlpTcnBxOENhcGhqQm1TT3FFUEUzb01XOEVncEhFQXc?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-11-18T18:28:40+08:00",
-     "description": "藍白強推普發2萬賴清德指加重國家財政負擔籲勿強行通過- 其他  旺得富理財網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "藍力拚普發2萬20日三讀　賴清德籲在野勿強行通過",
-     "link": "https://www.cna.com.tw/news/aipl/202611180211.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-11-18T16:01:02+08:00",
-     "description": "（中央社記者王揚宇台北18日電）國民黨團提案普發現金新台幣2萬元，力拚20日立法院會闖關三讀。兼任民進黨主席的總統賴清德今天說，這可能排擠其他重要政策支出、有違憲法預算權限原則之虞，呼籲在野各黨團務必審慎再三，不要一意孤行、強行通過。",
-     "author": "王揚宇",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "王揚宇",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
-     }
-    },
-    {
-     "title": "藍拚選前闖關普發2萬元 賴清德：恐違憲債留子孫",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5645109",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-11-18T15:59:40+08:00",
-     "description": "立法院國民黨團推動普發現金2萬元，力拚20日選前最後一次立法院會闖關三讀。對此，兼任民進黨主席的總統賴清德今（18日）強調，在野黨提出的普發現金2萬元特別條例，不僅未充分考量歲...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "國民黨團拚本周五三讀普發2萬 賴清德：有違憲之虞不要一意孤行 | 羅立邦 | 新聞",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5CUjJ3bzRmdk1vV0J3WHk4UTI2UWhjd2UtSXlLZmJnMDVkMjZ4VnVNbHNLRzdHRzZ2QjRYRTNBZUhnNllFRmJXY3FGekw1Zw?oc=5",
-     "source": "storm",
-     "source_name": "風傳媒",
-     "published": "2026-11-18T15:14:00+08:00",
-     "description": "國民黨團拚本周五三讀普發2萬 賴清德：有違憲之虞不要一意孤行 | 羅立邦 | 新聞  風傳媒",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
    "id": "25b692d340d0",
    "title": "台61線彰化芳苑段事故　1人送醫搶救不治",
    "outlet_count": 9,
@@ -4383,8 +4602,8 @@
    "last_updated": "2026-11-19T16:21:31+08:00",
    "tags": [
     "送醫搶救",
-    "高壓",
-    "內壢"
+    "電擊",
+    "高壓"
    ],
    "articles": [
     {
@@ -4777,7 +4996,7 @@
    ]
   },
   {
-   "id": "47fd9ce0604e",
+   "id": "6eda414f2cb6",
    "title": "蔡詩萍稱擋故宮光電案遭駁斥　蔣萬安：力挺市府同仁",
    "outlet_count": 8,
    "outlets": [
@@ -4790,7 +5009,7 @@
     "setn",
     "udn"
    ],
-   "article_count": 15,
+   "article_count": 16,
    "first_seen": "2026-11-19T16:47:01+08:00",
    "last_updated": "2026-11-19T23:37:00+08:00",
    "tags": [
@@ -4814,6 +5033,23 @@
       },
       "acquisition": "rss",
       "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "狠批蔡詩萍「找故宮麻煩」應去寫小說　胡川安：變成蔣萬安競總打手",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4wMmtTZVpPRHkxQzcwanpaOVNJcWpmci1uMlQ1bWtvYVhER1l4X3pmdTBVSmlNbUpRZWl1YWs3ZmdFbXhrdDI1ONIBTEFVX3lxTFBEdEJvRHltX2U0dEY0X1Q3Q1RzdmxUZnFIRll4U1FfSEpGMVB6Y0Z4R0lORjZHdlgtZVNlMzhXYU80RmxPN0tXLWpRUlE?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-11-19T22:17:00+08:00",
+     "description": "狠批蔡詩萍「找故宮麻煩」應去寫小說　胡川安：變成蔣萬安競總打手  三立新聞網SETN.com",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
@@ -4891,7 +5127,7 @@
      "source": "udn",
      "source_name": "聯合新聞網",
      "published": "2026-11-19T19:44:14+08:00",
-     "description": "光電板爭議延燒！故宮要求蔡詩萍道歉 蔣萬安：堅定捍衛守護文資同仁  udn",
+     "description": "光電板爭議延燒！故宮要求蔡詩萍道歉 蔣萬安：堅定捍衛守護文資同仁  UDN",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -4951,23 +5187,6 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "故宮「駁設太陽能板」要求道歉！蔡詩萍反問：道什麼歉呢？",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5PUEZpRFVwZjBPeEFUNzFzUmNrNHV4MFB3QmpTS1ZDeHdqdlRoVWJOaUI5bGNqUEtEQnhnb0s0ZHM3VnMyMzZqadIBTEFVX3lxTFBGRmREUVVJamltWnhJUWY4NjFwQ01hYmNVNXgySDJqX1RUR3plQ19uT3oxMlpyRndJQmRHY3VRZzI2R3ZzcGxsN3BsaXU?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-11-19T19:23:00+08:00",
-     "description": "故宮「駁設太陽能板」要求道歉！蔡詩萍反問：道什麼歉呢？  三立新聞網SETN.com",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     }
    ]
@@ -5382,227 +5601,6 @@
    ]
   },
   {
-   "id": "6205ddca7fb0",
-   "title": "台股收盤／史上第7！狂瀉1768點摜破39K 景碩、南電全跌停",
-   "outlet_count": 8,
-   "outlets": [
-    "chinatimes",
-    "ebc",
-    "ltn",
-    "mirror",
-    "newtalk",
-    "nownews",
-    "tvbs",
-    "udn"
-   ],
-   "article_count": 14,
-   "first_seen": "2026-11-19T13:57:00+08:00",
-   "last_updated": "2026-11-19T18:23:39.492082+08:00",
-   "tags": [
-    "台股"
-   ],
-   "claims": [
-    {
-     "type": "金額",
-     "agree": false,
-     "outlet_count": 3,
-     "values": [
-      {
-       "value": "243億元",
-       "outlets": [
-        "中時新聞網",
-        "聯合新聞網"
-       ]
-      },
-      {
-       "value": "15.13億元",
-       "outlets": [
-        "自由時報"
-       ]
-      }
-     ]
-    }
-   ],
-   "articles": [
-    {
-     "title": "美、日、韓全漲！ 台股獨崩1768點 法人揪背後真凶",
-     "link": "https://news.ebc.net.tw/news/business/581500",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-11-19T18:23:39.492082+08:00",
-     "description": "美、日、韓股市同步走揚，唯獨台股重挫1,768點失守4萬點與年線！國泰期貨證券分析師郭經緯點出「AI硬體修正」疊加「內資多殺多」兩大元凶，並揭露限空令後的止跌4",
-     "category": "business",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "business",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "外資賣超243億元、連四賣 狂賣市值、主動ETF",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rYUZPcFE5RFA3WE54S3lxWnAtUWFnWXRCd08zS3FXQXZvc0RURThjOHhDQjNxTWhWcHBncExaT2NNZGxMV0xPbUtsZmFRd29sQmNn0gFYQVVfeXFMTWRYZTI0NkFJd09zT19QYlpsNUVzSFpmTGNYdlZPb09ad2RSNzJxTy1vNTZSQVZNSU9PbjJWYjJYVWxxN0cxZnpaYzF4TFctelF3QU5ZQ2dzeQ?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-11-19T17:39:57+08:00",
-     "description": "外資賣超243億元、連四賣 狂賣市值、主動ETF  udn",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "台股崩1768點、市值遭印度超車！外資為何狂提款？林啟超：跌過頭了",
-     "link": "https://www.mirrormedia.mg/story/20261119-182mon-171823",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-11-19T17:21:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "《台北股市》投信19日買超前十大 壓寶4金釵 掃貨王國泰金15敲",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51WnNSMlNsanFBSjJzemJRRU9qMl9PR0FJaXZNS0hkSk8wQW5CalVlSV81OEJvdk1Tem1RRHZzUldXQWdqbTl5d0JQeXZ1RmhTSXJ4V3NrYkVDdFBjVTB3UEp4aDJVT3V4ZWc?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-11-19T16:43:06+08:00",
-     "description": "《台北股市》投信19日買超前十大 壓寶4金釵 掃貨王國泰金15敲  旺得富理財網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "台股狂瀉1768點 新台幣尾盤急拉翻升…央行連日阻貶壓力沉重",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGQ2J6UUxleG9IVlFzcHdpeEZ3RkFaNUROYks5enhqaGQwWmt1SjNZNEZwV0Z4eG9vUFZjQVNtaEdOejM2NkFFcWdCZzRGVjhu0gFWQVVfeXFMUFRPb0d0QVFwdFZDbUswWTFHaU94aTZaXzFDb2NoYUJfMm9lSHVsVHZEeFVtTk5fMVdLbGk4X1B3MXN6cURjVDQ5ZTNyTGdjZHc3RTdobFE?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-11-19T16:30:35+08:00",
-     "description": "台股狂瀉1768點 新台幣尾盤急拉翻升…央行連日阻貶壓力沉重  UDN",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "台股崩跌1768點！投信逆勢買超前十名出爐　國泰金8091張居冠",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9PejRycl9XMnVVcThlanA2VjU2N1FId2R4VWFBSVUtYmptRDNuNHVRazA4ZVpGdncxLXlZTmdULXM0M2RvTDl6aVJIOELSAVJBVV95cUxPcjh4ajZBODZTemdDbkRMd1ZtdVNwR3NYUmROSER0cmpsUEk5MnBESjFaeVZFV19XX0F5WkJGUkk3S0Z6Y1FVc1FfSEZzbkRiUmFB?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-11-19T16:30:21+08:00",
-     "description": "台股崩跌1768點！投信逆勢買超前十名出爐　國泰金8091張居冠  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "三大法人賣超461億！ 台股收跌1768點 失守年線大關",
-     "link": "https://news.ebc.net.tw/news/business/581484",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-11-19T16:26:48.733429+08:00",
-     "description": "台股19日開低走低，重挫1768點失守39000點與年線，收38426點跌4.4%。三大法人賣超461.03億元，僅投信買超15.13億元，資金換股動向受矚目。",
-     "category": "business",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "business",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "外資只賣243億！ 台股重挫1768點 專家：該有一波反彈吧",
-     "link": "https://news.ebc.net.tw/news/business/581491",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-11-19T16:26:48.733429+08:00",
-     "description": "台股今天重挫1,768點，其中投信買超15.13億元，自營商賣超223.03億元，外資賣超243.12億元，三大法人合計賣超451.02億元。投資達人葉育碩指出",
-     "category": "business",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "business",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "台股崩跌1768點！投信前10大買超揭曉 「這檔」連15買最狂",
-     "link": "https://ec.ltn.com.tw/article/breakingnews/5646517",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-11-19T16:11:23+08:00",
-     "description": "〔財經頻道／綜合報導〕台股週四（19日）在台積電領1811家上市櫃大跳水下，指數終場跌1768點，創史上第7慘，收38426點，投信續買台股15.13億元，其中又以國泰金最吸金，連15買，今再買...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "台股多殺多賣壓沉重！台股狂瀉1768點 外資僅砍243億元",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RRXo3aVEtOS1Ra09qVzZRN1o0a3lnTG1mZ2FZQzcwdExnVG44cEVKb2lCWjNIZXVXcGNXU2dHbjF2WGtiVzNfMGJNOXp0clpCX1VEOHJYWG1KYUM4TTM1Z0lFeG9WSFpGbDZ1X2dR?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-11-19T15:54:23+08:00",
-     "description": "台股多殺多賣壓沉重！台股狂瀉1768點 外資僅砍243億元  中時新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
    "id": "b48935e584aa",
    "title": "入冬最強冷空氣今報到 明日起至週六最冷",
    "outlet_count": 8,
@@ -5621,8 +5619,8 @@
    "last_updated": "2026-11-19T13:52:02+08:00",
    "tags": [
     "冷空氣",
-    "最冷",
-    "高山"
+    "高山",
+    "最冷"
    ],
    "articles": [
     {
@@ -6394,7 +6392,7 @@
    ]
   },
   {
-   "id": "16ed65fca1ea",
+   "id": "b4668f034ce3",
    "title": "BTS下午抵達高雄! ARMY擠爆小港機場｜LIVE",
    "outlet_count": 7,
    "outlets": [
@@ -6406,9 +6404,9 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 17,
+   "article_count": 18,
    "first_seen": "2026-11-18T13:37:51+08:00",
-   "last_updated": "2026-11-19T23:02:18+08:00",
+   "last_updated": "2026-11-20T00:10:25+08:00",
    "tags": [
     "高雄",
     "開唱"
@@ -6431,6 +6429,23 @@
     }
    ],
    "articles": [
+    {
+     "title": "直擊／BTS高雄舞台會變形！7人藏舞群中突現身　柾國中文撩5萬人",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBMdGdKbUcxZmJhTGRZNkRmRWZEOVVWMEEwSFZOakxrZVFhZG9Td0dBTHRKbUJJYXhjTDlrR042YzlGZU54YWJrOWV2TUTSAVJBVV95cUxNd2VRTTlxS3FRTGJMblJnREN1MDNNV0pFdjFHNy01dlNZOVJQWVF0bFpteFlndERfQ1RiV29PTTRuYjJiTGVtaEFrZ1dvT2hXUVlB?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-11-20T00:10:25+08:00",
+     "description": "直擊／BTS高雄舞台會變形！7人藏舞群中突現身　柾國中文撩5萬人  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
     {
      "title": "BTS高雄世運免費看！她爆料「這裡」聽漏音最清楚　入場門檻超高",
      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAySFVoaGhYNjB2NFR5Y1hHYlkzTE9CRFREbEVMV3cwNFlGN2pxYWxyZF83T0pEcEZDUEtvTXdMV1FGUHFSOWxDTERpQnItOW56S2fSAVJBVV95cUxQMkhVaGhoWDYwdjRUeWNYR2JZM0xPQkRURGxFTFd3MDRZRjdqcWFscmRfN09KRHBGQ1BLb013TFdRRlBxUjlsQ0xEaUJyLTluektn?oc=5",
@@ -6574,23 +6589,6 @@
      "source_name": "TVBS",
      "published": "2026-11-19T13:12:18+08:00",
      "description": "就在今夜!BTS開唱 世運主場館外擠爆｜LIVE  TVBS新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "BTS高雄開唱！ARMY凌晨5點排隊 狂砸5萬買周邊",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9yXzFmZnNRZTNWTUs0UTR4aFJLXzN0N0dvTklLcFlESUJmMlhYdkZTNDNxZFRNUUd6R0lsOWV3Z0FRbFpCLWE2RndhT1R4QQ?oc=5",
-     "source": "tvbs",
-     "source_name": "TVBS",
-     "published": "2026-11-19T12:37:00+08:00",
-     "description": "影音／BTS高雄開唱！ARMY凌晨5點排隊 狂砸5萬買周邊  TVBS新聞網",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -6995,204 +6993,6 @@
    ]
   },
   {
-   "id": "d94267981f45",
-   "title": "選舉公報相片與本人落差大　中選會：僅是輔助辨識",
-   "outlet_count": 7,
-   "outlets": [
-    "chinatimes",
-    "cna",
-    "ebc",
-    "ettoday",
-    "mirror",
-    "nownews",
-    "udn"
-   ],
-   "article_count": 13,
-   "first_seen": "2026-11-17T02:21:00+08:00",
-   "last_updated": "2026-11-19T17:45:00+08:00",
-   "tags": [
-    "選舉公報",
-    "中選會",
-    "市長"
-   ],
-   "articles": [
-    {
-     "title": "選舉公報照片修很大？候選人真實樣貌落差惹議　內政部：將找中選會研議修正",
-     "link": "https://www.mirrormedia.mg/story/20261119edi077",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-11-19T17:45:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "選舉公報相片落差惹議　內政部：將研議更周延作法",
-     "link": "https://www.cna.com.tw/news/aipl/202611190222.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-11-19T15:49:01+08:00",
-     "description": "（中央社記者賴于榛台北19日電）九合一選舉公報已發布，部分候選人被指相片與現實落差太大，引發議論。內政部今天表示，若要規範候選人相片須在一定期限內，可能涉及執行問題，將與選委會等研議實務可行性，假使有周延作法就會配合修正。",
-     "author": "賴于榛",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "賴于榛",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
-     }
-    },
-    {
-     "title": "水庫是否可設置光電板？ 何欣純：未來依法依規審議| 縣市長議員選戰| 要聞",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNQWhBNkVsNHRkOWVzUTI3RS14S1ItbjdhRkhTdE1QZ2FWeFV5cWNjRTAzN2syWjVFUGxzMzQtV0Y3dE9JRDU2dnJxdnUtd25yQ3FV?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-11-19T10:28:17+08:00",
-     "description": "水庫是否可設置光電板？ 何欣純：未來依法依規審議| 縣市長議員選戰| 要聞  UDN",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "【重磅快評】沈伯洋、陳亭妃露餡洋流自證是民進黨支流| 縣市長議員選戰| 要聞",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5OTJfNGs3MUhUVDVKRmZRZjY5Mkgtdl9vdHotSzZGRFVzWkhLV3J6ci04Yk12aDIya1dFc0tHT1NIYW80QlFoYzN4N1ZFZmVjVGZV?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-11-18T19:24:53+08:00",
-     "description": "【重磅快評】沈伯洋、陳亭妃露餡洋流自證是民進黨支流| 縣市長議員選戰| 要聞  UDN",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "張啓楷路邊小解遭檢舉環保局將依廢棄物清理法開罰最高6千元| 縣市長議員選戰| 要聞",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16S1NoXzNzQjZrVUdPeW1IOXl6MFhSTVloMy1lRk5lRHlKcjdiUUNSeVg4SkJUV1dheHdnWGVnbENNdWVfNUdudnVoX1BIUkJ1aU5V?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-11-18T13:13:13+08:00",
-     "description": "張啓楷路邊小解遭檢舉環保局將依廢棄物清理法開罰最高6千元| 縣市長議員選戰| 要聞  UDN",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "石舫亘掃街遇「蔣粉」 秀自製「投蔣你我有份」圖卡和Q版石舫亘| 縣市長議員選戰| 要聞",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sWGwzQlBlU1c2M3RybmczRWlaUXI5eExfN3dFd2poOU1hSzBFSHZOMTh3YXZtTlhmNTU4QWVseUo1dGd5YWh3bWIzSF9pQ0ZITDU0?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-11-18T13:11:58+08:00",
-     "description": "石舫亘掃街遇「蔣粉」 秀自製「投蔣你我有份」圖卡和Q版石舫亘| 縣市長議員選戰| 要聞  UDN",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "日媒關注台北市長選舉！蔣、沈支持者投票動機差很大",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QVXRDa0ZTQkVXUkRjQmV2MWRhTWVOUlA1TGdfajVac0FnS3NmY1FrYTFJdGZyMndUR0gzVzJTN25RdTJjM2dJRHpVOXhWZVlhdHfSAVJBVV95cUxPUFV0Q2tGU0JFV1JEY0JldjFkYU1lTlJQNUxnX2o1WnNBZ0tzZmNRa2ExSXRmcjJ3VEdIM1cyUzduUXUyYzNnSUR6VTl4VmVZYXR3?oc=5",
-     "source": "nownews",
-     "source_name": "今日新聞",
-     "published": "2026-11-17T18:35:09+08:00",
-     "description": "日媒關注台北市長選舉！蔣、沈支持者投票動機差很大  NOWnews今日新聞",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "選舉公報多怪招！ 候選人疑用60年前舊照 中選會回應了",
-     "link": "https://news.ebc.net.tw/news/politics/581125",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-11-17T18:23:40.937644+08:00",
-     "description": "2026選舉公報引發話題，桃園市議員候選人以16字姓名及古裝照參選，台南市長候選人蕭燐洪請選民看兒子政見，唐新民公報照也遭質疑。",
-     "category": "politics",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "politics",
-      "feed_url": "https://news.ebc.net.tw/realtime"
-     }
-    },
-    {
-     "title": "選舉公報相片與本人落差大　中選會：僅是輔助辨識",
-     "link": "https://www.cna.com.tw/news/aipl/202611170202.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-11-17T16:48:56+08:00",
-     "description": "（中央社記者吳書緯台北17日電）九合一選舉公報已發布，部分候選人照片與本人落差太大，引發各界議論。中選會表示，選舉公報及選舉票均刊登候選人號次、姓名等資料，足供選舉人辨識候選人，刊登候選人相片，僅是輔助選舉人辨識候選人。",
-     "author": "吳書緯",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "吳書緯",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
-     }
-    },
-    {
-     "title": "台北市長候選人選舉公報照片...唐新民真面目差很大　網問：怎不放金城武「中選會回應了」",
-     "link": "https://www.mirrormedia.mg/story/20261117edi027",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-11-17T13:38:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    }
-   ]
-  },
-  {
    "id": "8707953337d7",
    "title": "蔣萬安選前之夜將登凱道　11/22啟動北市車掃",
    "outlet_count": 7,
@@ -7354,7 +7154,7 @@
     },
     {
      "title": "柯文哲恐不去藍選前之夜！蔣萬安不死心：我會再繼續努力",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RM0RqOUVxcWxJbXo4ZFQ2U09tSFRBaW5MU2ozcjU2aEF0RVJjNjByV2oyQ28tZ1l4akFhaGtGOTA1UFFKVUQ5dkR6SlJqckJzWXfSAVJBVV95cUxOUTNEajlFcXFsSW16OGRUNlNPbUhUQWluTFNqM3I1NmhBdEVSYzYwcldqMkNvLWdZeGpBYWhrRjkwNVBRSlVEOXZEekpSanJCc1l3?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE93VHY0YWZBeTBiVzdaTUIydVEzZkliR0VoclNpdmZUT1Z1NEQzUV9qS0pnT3FnTEFmXzZhcC11SURteVZMM1RBZTNmZFnSAVJBVV95cUxOUTNEajlFcXFsSW16OGRUNlNPbUhUQWluTFNqM3I1NmhBdEVSYzYwcldqMkNvLWdZeGpBYWhrRjkwNVBRSlVEOXZEekpSanJCc1l3?oc=5",
      "source": "nownews",
      "source_name": "今日新聞",
      "published": "2026-11-17T17:59:08+08:00",
@@ -7371,7 +7171,7 @@
     },
     {
      "title": "柯文哲恐不去藍選前之夜！蔣萬安不死心：我會再繼續努力",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE93VHY0YWZBeTBiVzdaTUIydVEzZkliR0VoclNpdmZUT1Z1NEQzUV9qS0pnT3FnTEFmXzZhcC11SURteVZMM1RBZTNmZFnSAVJBVV95cUxOUTNEajlFcXFsSW16OGRUNlNPbUhUQWluTFNqM3I1NmhBdEVSYzYwcldqMkNvLWdZeGpBYWhrRjkwNVBRSlVEOXZEekpSanJCc1l3?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RM0RqOUVxcWxJbXo4ZFQ2U09tSFRBaW5MU2ozcjU2aEF0RVJjNjByV2oyQ28tZ1l4akFhaGtGOTA1UFFKVUQ5dkR6SlJqckJzWXfSAVJBVV95cUxOUTNEajlFcXFsSW16OGRUNlNPbUhUQWluTFNqM3I1NmhBdEVSYzYwcldqMkNvLWdZeGpBYWhrRjkwNVBRSlVEOXZEekpSanJCc1l3?oc=5",
      "source": "nownews",
      "source_name": "今日新聞",
      "published": "2026-11-17T17:59:08+08:00",
@@ -7405,8 +7205,8 @@
    "first_seen": "2026-11-17T12:57:36+08:00",
    "last_updated": "2026-11-19T14:52:51+08:00",
    "tags": [
-    "水庫光電",
     "烏山頭水",
+    "水庫光電",
     "水質符合標準"
    ],
    "articles": [
@@ -7600,8 +7400,8 @@
    "first_seen": "2026-11-18T05:08:32+08:00",
    "last_updated": "2026-11-19T06:30:00+08:00",
    "tags": [
-    "輸機西伯利亞",
     "羅斯軍用運輸",
+    "機西伯利亞墜",
     "全數罹難"
    ],
    "articles": [
@@ -7959,7 +7759,7 @@
    "last_updated": "2026-11-18T20:30:43+08:00",
    "tags": [
     "資安事件頻傳",
-    "業者主動通知",
+    "者主動通知受",
     "個資外洩"
    ],
    "claims": [
@@ -8114,11 +7914,11 @@
     "tvbs",
     "udn"
    ],
-   "article_count": 6,
+   "article_count": 7,
    "first_seen": "2026-11-18T19:20:00+08:00",
    "last_updated": "2026-11-19T20:40:11+08:00",
    "tags": [
-    "違約交割",
+    "爆違約交割",
     "台股",
     "翻車"
    ],
@@ -8168,6 +7968,23 @@
      "source_name": "聯合新聞網",
      "published": "2026-11-19T19:46:50+08:00",
      "description": "台股跌跌不休世界、萬泰科爆違約交割| 股市要聞| 股市  udn",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "台股跌跌不休 世界、萬泰科爆違約交割",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5aNTVLSGFfZDVSZHhZU3RzcktjZzM5MmlIMEQtWTc4ZFlYVzVUUzZHTktvOTNiVjVfbUpFYVBaNGtqel9vOXRFcGd5R29DTzlZ0gFWQVVfeXFMTk0ySDR0Rk9YTENiOF81WHhER2pmcWliSDZuNmh5VGtjODYzUDZJYTZ4cU1CbXk3S0dtVElEaDl6b25uWGRHS0thRFhOTUZ5RkxTb3ZMNUE?oc=5",
+     "source": "udn",
+     "source_name": "聯合新聞網",
+     "published": "2026-11-19T19:46:50+08:00",
+     "description": "台股跌跌不休 世界、萬泰科爆違約交割  UDN",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -8441,166 +8258,6 @@
    ]
   },
   {
-   "id": "5d3fb3510254",
-   "title": "川普：不介意黃仁勳回任輝達執行長、可能會和習近平談間諜事件",
-   "outlet_count": 6,
-   "outlets": [
-    "chinatimes",
-    "cna",
-    "ltn",
-    "mirror",
-    "storm",
-    "udn"
-   ],
-   "article_count": 8,
-   "first_seen": "2026-11-17T00:54:29+08:00",
-   "last_updated": "2026-11-19T11:10:10+08:00",
-   "tags": [
-    "黃仁勳",
-    "習近平",
-    "川普"
-   ],
-   "articles": [
-    {
-     "title": "川普：與習近平晚宴整晚談AI　僅簡短提及黃仁勳",
-     "link": "https://www.cna.com.tw/news/aopl/202611190060.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-11-19T11:10:10+08:00",
-     "description": "（中央社深圳19日綜合外電報導）美國總統川普今天表示，他昨晚與中國國家主席習近平晚宴期間相談甚歡，也聊到人工智慧（AI）話題，習近平對美國的AI成就感到驚訝，同時也「簡短」提到輝達前執行長黃仁勳。",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
-     }
-    },
-    {
-     "title": "與習近平談及黃仁勳聊了什麼？ 川普嘆：這是一場悲劇- 國際",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SOTNjTndNRVllN05yRVQ3aG1SS3RQUFI5TExhMzNhbjhINFlzZERfMXgxMk96dU5PTHJrNl9TdENZZnhjOU40a0pwdVlyNjJJSl9XMUQwOU5zNUx6NnBaZzRmMk9kUDhJY3o3RHpn?oc=5",
-     "source": "chinatimes",
-     "source_name": "中時新聞網",
-     "published": "2026-11-19T10:07:00+08:00",
-     "description": "與習近平談及黃仁勳聊了什麼？ 川普嘆：這是一場悲劇- 國際  中時新聞網",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "川普和習近平碰面談AI！僅簡短提及黃仁勳「這是個悲劇」",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Kd1R3WTVFU256N0w1MXpiMHNLdk1Ua3B5REFUN3NNNGxoN3ZsOGlLYkVka1ZaeUZnbzczbVVyM2JWVHFrT2VuY08yZUdTd3FCVEpn?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-11-19T09:33:26+08:00",
-     "description": "川普和習近平碰面談AI！僅簡短提及黃仁勳「這是個悲劇」  UDN",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "黃仁勳能否重掌輝達？　旅美教授曝2種政治發展：更重要的是「這件事」",
-     "link": "https://www.mirrormedia.mg/story/20261117edi015",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-11-17T10:31:00+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "川普要和習近平談黃仁勳間諜案？「我可能會」，卻又說訪中前「不會想去侮辱」中國 | 中央社 | 新聞",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBQMEVuV2RocEtvVHh5N1VlR3ZwQkpVdzliMlZxclAtVThDQUJKeGtQLXlydVJwYk5BUk1Iem9kckZLZWxFTzhISG9wLXZRdw?oc=5",
-     "source": "storm",
-     "source_name": "風傳媒",
-     "published": "2026-11-17T08:08:00+08:00",
-     "description": "川普要和習近平談黃仁勳間諜案？「我可能會」，卻又說訪中前「不會想去侮辱」中國 | 中央社 | 新聞  風傳媒",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:storm.mg%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "川普：不撤換盧特尼克 不介意黃仁勳重掌輝達",
-     "link": "https://news.ltn.com.tw/news/world/breakingnews/5643052",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-11-17T05:59:30+08:00",
-     "description": "首次上稿 11-16 23:59更新時間 11-17 05:59\n美國總統川普16日指出，他不認為輝達前執行長黃仁勳與疑似中國女間諜黃樂外遇會危及美國國家安全，他也說，儘管商...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "川普：不介意黃仁勳回任輝達執行長、可能會和習近平談間諜事件",
-     "link": "https://news.ltn.com.tw/news/world/breakingnews/5643065",
-     "source": "ltn",
-     "source_name": "自由時報",
-     "published": "2026-11-17T01:06:03+08:00",
-     "description": "輝達創辦人黃仁勳爆出婚外情並引發美國國安疑慮，辭去執行長職務後，近期多位矽谷知名人士連署支持他回歸。美國總統川普今天表示，他不介意黃仁勳回鍋；川普也說，可能會和中國國家主席習近平提到黃仁勳捲...…",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
-     }
-    },
-    {
-     "title": "川普：不介意黃仁勳回任輝達執行長、可能會和習近平談間諜事件",
-     "link": "https://www.cna.com.tw/news/aopl/202611170002.aspx",
-     "source": "cna",
-     "source_name": "中央社",
-     "published": "2026-11-17T00:54:29+08:00",
-     "description": "（中央社記者侯姿瑩華盛頓16日專電）輝達創辦人黃仁勳爆出婚外情並引發美國國安疑慮，辭去執行長職務後，近期多位矽谷知名人士連署支持他回歸。美國總統川普今天表示，他不介意黃仁勳回鍋；川普也說，可能會和中國國家主席習近平提到黃仁勳捲入間諜事件。",
-     "author": "侯姿瑩",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": "侯姿瑩",
-       "source": "description"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/rsscna/intworld"
-     }
-    }
-   ]
-  },
-  {
    "id": "b441e73fb095",
    "title": "台股重挫2,635點 金管會、證交所：必要時出手救市",
    "outlet_count": 5,
@@ -8617,7 +8274,7 @@
    "tags": [
     "台股",
     "財經",
-    "外資"
+    "空單"
    ],
    "claims": [
     {
@@ -8883,7 +8540,7 @@
      "source": "udn",
      "source_name": "聯合新聞網",
      "published": "2026-11-19T21:01:38+08:00",
-     "description": "95學生染病…高雄岡山空軍官校爆流感群聚 校方隱匿未通報挨罰  udn",
+     "description": "95學生染病…高雄岡山空軍官校爆流感群聚 校方隱匿未通報挨罰  UDN",
      "metadata": {
       "schema_version": 1,
       "author": {
@@ -8948,7 +8605,7 @@
    "tags": [
     "王齊麟",
     "邱相榤",
-    "劉廣珩"
+    "麟榤配"
    ],
    "articles": [
     {
@@ -9258,13 +8915,13 @@
     "mirror",
     "newtalk"
    ],
-   "article_count": 6,
+   "article_count": 7,
    "first_seen": "2026-11-19T11:37:49+08:00",
    "last_updated": "2026-11-19T21:39:03+08:00",
    "tags": [
-    "美國不支持",
-    "台獨",
-    "川普"
+    "不支持台獨",
+    "川普",
+    "新華社"
    ],
    "articles": [
     {
@@ -9335,6 +8992,23 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "川習會談台灣！川普：不支持台獨 習促美方堅持做正確的事",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ISmtFazJ1R21vWVhmeFR2RHp6OVRRRlNOdjFhNlpqU29FSnVGZkdvVU5lMUxZa2RNUUlzdm5yb2RkeTVoSWJRYnNCUjFhMGFrQ3ZoY0FZM3BybDR2Mi1pcEluZ2NXU2J2N0RLalRn?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-11-19T16:46:58+08:00",
+     "description": "川習會談台灣！川普：不支持台獨 習促美方堅持做正確的事  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
      }
     },
     {
@@ -9482,6 +9156,151 @@
    ]
   },
   {
+   "id": "3346cd3b5ad6",
+   "title": "選舉公報相片與本人落差大　中選會：僅是輔助辨識",
+   "outlet_count": 5,
+   "outlets": [
+    "chinatimes",
+    "cna",
+    "ebc",
+    "mirror",
+    "nownews"
+   ],
+   "article_count": 7,
+   "first_seen": "2026-11-17T07:15:30+08:00",
+   "last_updated": "2026-11-19T17:45:00+08:00",
+   "tags": [
+    "選舉公報",
+    "中選會回應了",
+    "台北市長"
+   ],
+   "articles": [
+    {
+     "title": "選舉公報照片修很大？候選人真實樣貌落差惹議　內政部：將找中選會研議修正",
+     "link": "https://www.mirrormedia.mg/story/20261119edi077",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-11-19T17:45:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "選舉公報相片落差惹議　內政部：將研議更周延作法",
+     "link": "https://www.cna.com.tw/news/aipl/202611190222.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-11-19T15:49:01+08:00",
+     "description": "（中央社記者賴于榛台北19日電）九合一選舉公報已發布，部分候選人被指相片與現實落差太大，引發議論。內政部今天表示，若要規範候選人相片須在一定期限內，可能涉及執行問題，將與選委會等研議實務可行性，假使有周延作法就會配合修正。",
+     "author": "賴于榛",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "賴于榛",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
+     }
+    },
+    {
+     "title": "日媒關注台北市長選舉！蔣、沈支持者投票動機差很大",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QVXRDa0ZTQkVXUkRjQmV2MWRhTWVOUlA1TGdfajVac0FnS3NmY1FrYTFJdGZyMndUR0gzVzJTN25RdTJjM2dJRHpVOXhWZVlhdHfSAVJBVV95cUxPUFV0Q2tGU0JFV1JEY0JldjFkYU1lTlJQNUxnX2o1WnNBZ0tzZmNRa2ExSXRmcjJ3VEdIM1cyUzduUXUyYzNnSUR6VTl4VmVZYXR3?oc=5",
+     "source": "nownews",
+     "source_name": "今日新聞",
+     "published": "2026-11-17T18:35:09+08:00",
+     "description": "日媒關注台北市長選舉！蔣、沈支持者投票動機差很大  NOWnews今日新聞",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "選舉公報多怪招！ 候選人疑用60年前舊照 中選會回應了",
+     "link": "https://news.ebc.net.tw/news/politics/581125",
+     "source": "ebc",
+     "source_name": "東森新聞",
+     "published": "2026-11-17T18:23:40.937644+08:00",
+     "description": "2026選舉公報引發話題，桃園市議員候選人以16字姓名及古裝照參選，台南市長候選人蕭燐洪請選民看兒子政見，唐新民公報照也遭質疑。",
+     "category": "politics",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "scraper",
+      "category": "politics",
+      "feed_url": "https://news.ebc.net.tw/realtime"
+     }
+    },
+    {
+     "title": "選舉公報相片與本人落差大　中選會：僅是輔助辨識",
+     "link": "https://www.cna.com.tw/news/aipl/202611170202.aspx",
+     "source": "cna",
+     "source_name": "中央社",
+     "published": "2026-11-17T16:48:56+08:00",
+     "description": "（中央社記者吳書緯台北17日電）九合一選舉公報已發布，部分候選人照片與本人落差太大，引發各界議論。中選會表示，選舉公報及選舉票均刊登候選人號次、姓名等資料，足供選舉人辨識候選人，刊登候選人相片，僅是輔助選舉人辨識候選人。",
+     "author": "吳書緯",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": "吳書緯",
+       "source": "description"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/rsscna/politics"
+     }
+    },
+    {
+     "title": "台北市長候選人選舉公報照片...唐新民真面目差很大　網問：怎不放金城武「中選會回應了」",
+     "link": "https://www.mirrormedia.mg/story/20261117edi027",
+     "source": "mirror",
+     "source_name": "鏡週刊",
+     "published": "2026-11-17T13:38:00+08:00",
+     "description": "",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    },
+    {
+     "title": "台北市長選舉公報驚現大帥哥！網看本人喊「根本AI」 中選會回應了- 生活",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0TzdfVTE4RHFjendxNkZSNl8zMVZNUk9jUDIzdkN5ajEtOUZ0cmF6blFEQ19Qd0pBc1B6S0xoWXFUbm1rRElfT0FpMEFCeHc2WGVqUUZ0N3kxSjBWaUZJTDhhaTBqdEg4MHg0RVBB?oc=5",
+     "source": "chinatimes",
+     "source_name": "中時新聞網",
+     "published": "2026-11-17T07:15:30+08:00",
+     "description": "台北市長選舉公報驚現大帥哥！網看本人喊「根本AI」 中選會回應了- 生活  中時新聞網",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:chinatimes.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
    "id": "59c129cea718",
    "title": "昨遭蔣萬安冷凍！秦慧珠被罵嗆「誰要蹭啊」　蔣：沒關係",
    "outlet_count": 5,
@@ -9584,149 +9403,6 @@
       },
       "acquisition": "gnews",
       "feed_url": "https://news.google.com/rss/search?q=site:nownews.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    }
-   ]
-  },
-  {
-   "id": "bfe3fb639ece",
-   "title": "黃仁勳下台後首財報！傳盟友組「戰情室」拱重返輝達",
-   "outlet_count": 5,
-   "outlets": [
-    "ebc",
-    "ettoday",
-    "mirror",
-    "setn",
-    "udn"
-   ],
-   "article_count": 7,
-   "first_seen": "2026-11-17T00:25:48.087689+08:00",
-   "last_updated": "2026-11-19T10:34:00+08:00",
-   "tags": [
-    "黃仁勳下台",
-    "輝達",
-    "鏡評"
-   ],
-   "articles": [
-    {
-     "title": "黃仁勳下台科技股重挫！股民急求「東方神秘力量」　達人笑了",
-     "link": "https://www.ettoday.net/news/20261119/3274726.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-11-19T10:34:00+08:00",
-     "description": "輝達（Nvidia）前執行長黃仁勳，因捲入婚外情與間諜風波請辭下台，新任董事長瓊斯（Harvey Jones）則在員工大會上重申，黃仁勳不會回歸，消息牽動全球半導體類股出現明顯修正。面對這波又急又快的跌勢，投資達人「股添樂」昨（18）日發文笑稱，既然科學解決不了問題，股民已把希望寄託在玄學上，甚至有熱心股民幫黃仁勳「點燈斬桃花」，試圖挽救台股供應鏈股價。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "鏡評／黃仁勳下台只是序幕",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5tOE1iTEZjMWlsMzhSLW5DbE9GQXVUaFFaaTQ1SFN2bEVvaXFnSGQ2VTF2X0pqWUs2MndYQVFYU2ItclFGVzVYLXlrVQ?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-11-19T09:39:24+08:00",
-     "description": "鏡評／黃仁勳下台只是序幕  三立新聞網SETN.com",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "鏡評／黃仁勳下台只是序幕| 財經",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9aTWtLdkZmdlNXdlYxTU0xaDBPMXZxSmJqU3BzelRsLUxPYnpTZXFQY2Y4WTZsdTAyYThFbThpQ1liU19LSFJnSQ?oc=5",
-     "source": "setn",
-     "source_name": "三立新聞網",
-     "published": "2026-11-19T09:34:00+08:00",
-     "description": "鏡評／黃仁勳下台只是序幕| 財經  三立新聞網SETN.com",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "鏡評／黃仁勳下台只是序幕",
-     "link": "https://www.mirrormedia.mg/story/20261116inf001",
-     "source": "mirror",
-     "source_name": "鏡週刊",
-     "published": "2026-11-19T06:28:59+08:00",
-     "description": "",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
-     }
-    },
-    {
-     "title": "黃仁勳下台前狂賣！　索羅斯家族帶頭「狂砍輝達持股」精準套利",
-     "link": "https://www.ettoday.net/news/20261117/3273380.htm",
-     "source": "ettoday",
-     "source_name": "ETtoday",
-     "published": "2026-11-17T09:18:00+08:00",
-     "description": "晶片巨頭輝達（NVIDIA）前執行長黃仁勳12日因婚外情醜聞遭解雇，震撼全球市場。然而，在黃仁勳下台前，包含索羅斯家族辦公室（Soros Family Office）在內的多家超高淨值家族辦公室，已在第三季帶頭減碼輝達持股，精準捕捉套利時機，悄悄獲利出場。 《詳全文...》",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "rss",
-      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
-     }
-    },
-    {
-     "title": "矽谷大咖組「戰情室」 要力拱AI教父回鍋| 黃仁勳辭輝達| 全球",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5iUFRPUnVULUlsTVhOOXFWamdFcGRhUkVfUG0wYmt5anVqNkV2bWMxaTRFal9sMF9DNEpYcEI4NXRibXJ4RmJxb3JsRTRDcTlYZEw4?oc=5",
-     "source": "udn",
-     "source_name": "聯合新聞網",
-     "published": "2026-11-17T03:00:06+08:00",
-     "description": "矽谷大咖組「戰情室」 要力拱AI教父回鍋| 黃仁勳辭輝達| 全球  UDN",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "gnews",
-      "feed_url": "https://news.google.com/rss/search?q=site:udn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-     }
-    },
-    {
-     "title": "黃仁勳下台後首財報！傳盟友組「戰情室」拱重返輝達",
-     "link": "https://news.ebc.net.tw/news/business/581024",
-     "source": "ebc",
-     "source_name": "東森新聞",
-     "published": "2026-11-17T00:25:48.087689+08:00",
-     "description": "黃仁勳因外遇風波請辭輝達執行長，矽谷大老組戰情室施壓董事會，接班人選與公司AI布局成市場焦點。",
-     "category": "business",
-     "metadata": {
-      "schema_version": 1,
-      "author": {
-       "name": null,
-       "source": "unknown"
-      },
-      "acquisition": "scraper",
-      "category": "business",
-      "feed_url": "https://news.ebc.net.tw/realtime"
      }
     }
    ]
@@ -10012,8 +9688,8 @@
    "last_updated": "2026-11-18T21:02:00+08:00",
    "tags": [
     "剪刀刺傷人",
-    "男涉酒後失控",
-    "彰警逮捕送辦"
+    "遭彰警逮捕送",
+    "男涉酒後失控"
    ],
    "articles": [
     {
@@ -10618,7 +10294,7 @@
    "first_seen": "2026-11-17T16:05:00+08:00",
    "last_updated": "2026-11-18T07:48:29+08:00",
    "tags": [
-    "台南市長候選",
+    "南市長候選人",
     "只求正寢",
     "蕭燐洪"
    ],
@@ -10690,6 +10366,163 @@
       },
       "acquisition": "rss",
       "feed_url": "https://www.mirrormedia.mg/rss/rss.xml"
+     }
+    }
+   ]
+  },
+  {
+   "id": "c8fd60661465",
+   "title": "2027房市預測相關報導",
+   "outlet_count": 3,
+   "outlets": [
+    "ettoday",
+    "ltn",
+    "setn"
+   ],
+   "article_count": 3,
+   "first_seen": "2026-11-18T20:00:14+08:00",
+   "last_updated": "2026-11-20T00:33:00+08:00",
+   "tags": [
+    "生肖"
+   ],
+   "articles": [
+    {
+     "title": "再撐2個月就好！簡少年點名2027羊年「4生肖」財路大開",
+     "link": "https://ent.ltn.com.tw/news/breakingnews/5647005",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-11-20T00:33:00+08:00",
+     "description": "〔娛樂頻道／綜合報導〕2026年進入尾聲，近期股市震盪讓不少民眾盼望明年能迎來轉運契機。命理專家簡少年分享2027丁未羊年4大重要現象，提及「太陰化祿」帶動女性、水及土地產業發展；「天機化科」聯...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "2027年「4生肖」衰到爆！　命理師示警了",
+     "link": "https://www.ettoday.net/news/20261120/3275236.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-11-20T00:01:00+08:00",
+     "description": "2027年即將迎來丁未羊年，新的一年哪些生肖運勢最需要注意？命理師董易奇的流年運勢分析，2027年「最衰4生肖」出爐，分別為羊、牛、狗、鼠，受到犯太歲影響，恐面臨破財、人際糾紛、工作受阻等挑戰。其中，屬羊者要慎防小人與競爭，屬牛者需留意財務損失，屬狗者恐遇計畫生變，屬鼠者則要提防遭人暗算。不過，董易奇也指出，只要謹慎應對，仍有機會化危機為轉機。\n\n\n 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
+     }
+    },
+    {
+     "title": "2027房市預測相關報導",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBwMUlMTGJxQVVneE5QWllZZU1xU2JvNlVMVUh2TEpEbV9MUFNoWWFFODZfTEVNUGlUTlJ2dDFGM1hzanMwT2pFbw?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-11-18T20:00:14+08:00",
+     "description": "2027房市預測相關報導  三立新聞網SETN.com",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ac2e09ac3b2e",
+   "title": "國1新營段連環撞！聯結車爆胎「胎皮散落」　6轎車閃避不及釀2傷",
+   "outlet_count": 3,
+   "outlets": [
+    "ettoday",
+    "ltn",
+    "setn"
+   ],
+   "article_count": 3,
+   "first_seen": "2026-11-19T22:30:00+08:00",
+   "last_updated": "2026-11-19T23:59:12+08:00",
+   "tags": [
+    "聯結車爆胎",
+    "新營段",
+    "胎皮"
+   ],
+   "claims": [
+    {
+     "type": "受傷人數",
+     "agree": true,
+     "outlet_count": 3,
+     "values": [
+      {
+       "value": "2",
+       "outlets": [
+        "ETtoday",
+        "三立新聞網",
+        "自由時報"
+       ]
+      }
+     ]
+    }
+   ],
+   "articles": [
+    {
+     "title": "半聯結車國1新營段爆胎   6車撞上胎皮2人受傷",
+     "link": "https://news.ltn.com.tw/news/society/breakingnews/5647013",
+     "source": "ltn",
+     "source_name": "自由時報",
+     "published": "2026-11-19T23:59:12+08:00",
+     "description": "一輛營業半聯結車今（19日）晚上8時許，在國道1號北向新營路段爆胎，散落的輪胎皮導致後方6輛自小客車撞擊，造成2人受傷送醫。\n\n由23歲徐姓男子駕駛的營業半聯結車，今晚8時...…",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://news.ltn.com.tw/rss/all.xml"
+     }
+    },
+    {
+     "title": "國道1號北向驚魂！聯結車爆胎噴飛胎皮　6車追撞掉落物、釀2人受傷",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBRVnNmZWtsbGVhUG9RVDUtTk9tY3QtYUhVQ1BhLU9zSjhtOC1kQ2dadmhkMVM0bWgwMUE2amh6Z2NsMTd1SVFMdtIBTEFVX3lxTFBkNGp0TUk3Y1dTc2pQYlpaMnhCRWsxNEZlZWR0Q2pCYWdjeHNucFhtYlE2cEtVNm0yZEIxZG4zS2pFRGJqc3YwV0hrNDA?oc=5",
+     "source": "setn",
+     "source_name": "三立新聞網",
+     "published": "2026-11-19T22:54:00+08:00",
+     "description": "國道1號北向驚魂！聯結車爆胎噴飛胎皮　6車追撞掉落物、釀2人受傷  三立新聞網SETN.com",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "gnews",
+      "feed_url": "https://news.google.com/rss/search?q=site:setn.com%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+     }
+    },
+    {
+     "title": "國1新營段連環撞！聯結車爆胎「胎皮散落」　6轎車閃避不及釀2傷",
+     "link": "https://www.ettoday.net/news/20261119/3275222.htm",
+     "source": "ettoday",
+     "source_name": "ETtoday",
+     "published": "2026-11-19T22:30:00+08:00",
+     "description": "國道1號北向新營路段19日晚間發生交通事故！一輛半聯結車行經277.8公里處時，疑似左前輪爆胎，輪胎碎片散落中線及外側車道，造成後方6輛自小客車閃避不及撞上，事故造成2人受傷送醫。國道警方獲報後到場處理，現場於晚間9時38分排除，全線恢復通車。 《詳全文...》",
+     "metadata": {
+      "schema_version": 1,
+      "author": {
+       "name": null,
+       "source": "unknown"
+      },
+      "acquisition": "rss",
+      "feed_url": "https://feeds.feedburner.com/ettoday/realtime"
      }
     }
    ]
