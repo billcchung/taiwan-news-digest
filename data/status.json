@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-23T20:30:39.695647+08:00",
+ "generated_at": "2026-11-23T22:24:42.363814+08:00",
  "sources": [
   {
    "id": "cna",
    "name": "中央社",
    "ok": true,
-   "count": 73,
+   "count": 69,
    "via_fallback": false,
    "errors": []
   },
@@ -69,7 +69,7 @@
    "id": "ebc",
    "name": "東森新聞",
    "ok": true,
-   "count": 13,
+   "count": 14,
    "via_fallback": false,
    "errors": []
   },
@@ -100,12 +100,10 @@
   {
    "id": "newtalk",
    "name": "新頭殼",
-   "ok": false,
-   "count": 0,
-   "via_fallback": false,
-   "errors": [
-    "fallback: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-   ]
+   "ok": true,
+   "count": 100,
+   "via_fallback": true,
+   "errors": []
   },
   {
    "id": "nownews",
