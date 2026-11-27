@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T08:43:06.676948+08:00",
+ "generated_at": "2026-11-27T10:28:07.459566+08:00",
  "sources": [
   {
    "id": "cna",
@@ -21,7 +21,7 @@
    "id": "udn",
    "name": "聯合新聞網",
    "ok": true,
-   "count": 97,
+   "count": 100,
    "via_fallback": true,
    "errors": []
   },
@@ -69,7 +69,7 @@
    "id": "ebc",
    "name": "東森新聞",
    "ok": true,
-   "count": 12,
+   "count": 15,
    "via_fallback": false,
    "errors": []
   },
@@ -93,19 +93,17 @@
    "id": "storm",
    "name": "風傳媒",
    "ok": true,
-   "count": 98,
+   "count": 100,
    "via_fallback": true,
    "errors": []
   },
   {
    "id": "newtalk",
    "name": "新頭殼",
-   "ok": false,
-   "count": 0,
-   "via_fallback": false,
-   "errors": [
-    "fallback: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:newtalk.tw%20when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-   ]
+   "ok": true,
+   "count": 100,
+   "via_fallback": true,
+   "errors": []
   },
   {
    "id": "nownews",
